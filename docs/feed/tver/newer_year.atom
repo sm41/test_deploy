@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-25T15:29:49+09:00</updated>
+  <updated>2025-12-25T15:33:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2168,45 +2168,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epwtsa7xpx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep229epimh</id>
-    <title>くすぶり女とすん止め女_[第5話 「○○○○」とか「○○○○」とか誰に縛られてるんだっけ？]</title>
-    <updated>2025-12-24T17:00:21+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrdh83ki7.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ くすぶり女とすん止め女
-        &lt;a href="https://tver.jp/series/srrdh83ki7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月21日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep229epimh.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/24（水）17:00～&#13;&lt;br&gt;#7,#8：12/29（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;八田（渋谷謙人）の過去を聞き驚愕する郁子（西田尚美）とほのか（香音）。理由は違えど、それぞれ同じ敵を倒す目標ができ一致団結する3人。そして武（勝村政信）率いる第一営業部と同じクライアントにプレゼンで対峙することに。当日、意気揚々とクライアントにむかったほのかだったが、クライアントの担当者がハヤト（中川大輔）である事を知り動揺が隠せない。　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep229epimh"/>
   </entry>
 </feed>
