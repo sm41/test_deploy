@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-26T15:29:50+09:00</updated>
+  <updated>2025-12-26T15:30:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -328,45 +328,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epcm2j38w3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsjk0uzcr</id>
-    <title>推しの殺人_[最終回【全ての真相】ラストステージへ]</title>
-    <updated>2025-12-26T00:54:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2ld1ln83.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 推しの殺人
-        &lt;a href="https://tver.jp/series/sr2ld1ln83" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_00時54分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月08日(木)_23時58分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月25日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsjk0uzcr.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        矢崎（増田貴久）の罪を暴くため、河都（城田優）から協力を求められたルイ（田辺桃子）、テルマ（横田真悠）、イズミ（林芽亜里）。しかし作戦は失敗し、河都は屋上から自ら飛び降り死亡した。&lt;br&gt;そんな中、「ベイビー★スターライト」の解散ライブが決定。３人のもとに「最高の舞台で殺してあげる」と書かれた脅迫状と黒いバラの花束が届き――！&lt;br&gt;果たして、矢崎との最終決戦の行方とは！？罪を背負った彼女たちの結末とは……。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epsjk0uzcr"/>
   </entry>
 </feed>
