@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-28T20:06:18+09:00</updated>
+  <updated>2025-12-28T22:06:18+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eprj8bnzys</id>
+    <title>日曜の夜ぐらいは…_[最終話 生まれ変わったとしても…私だね]</title>
+    <updated>2025-12-28T20:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2ejuoxr.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 日曜の夜ぐらいは…
+        &lt;a href="https://tver.jp/series/srf2ejuoxr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_20時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprj8bnzys.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「サンデイズ」オープンが迫った夜、サチ（清野菜名）は翔子（岸井ゆきの）、若葉（生見愛瑠）と“一番高いアイス”を食べながら、「お客さんが一人も来なかったらどうしよう」と不安を打ち明ける。&lt;br&gt;みね（岡山天音）は賢太（川村壱馬)と初めて2人で晩酌を交わし、邦子（和久井映見）、富士子（宮本信子）はカフェの成功とみんなの幸せを祈りながら、それぞれに一夜を過ごす。&lt;br&gt;そして、開店当日。サチたちは「サンデイズ」の扉を開く…&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時30分～　#1&lt;br&gt;12月20日(土) 夜8時30分～　#2&lt;br&gt;12月21日(日) 夜8時30分～　#3&lt;br&gt;12月22日(月) 夜8時30分～　#4&lt;br&gt;12月23日(火) 夜8時30分～　#5&lt;br&gt;12月24日(水) 夜8時30分～　#6&lt;br&gt;12月25日(木) 夜8時30分～　#7&lt;br&gt;12月26日(金) 夜8時30分～　#8&lt;br&gt;12月27日(土) 夜8時30分～　#9&lt;br&gt;12月28日(日) 夜8時30分～　#10（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eprj8bnzys"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epii6ujqjo</id>
     <title>3年B組金八先生(第5シリーズ)_[第15回 金八も受験生の父]</title>
