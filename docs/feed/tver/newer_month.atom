@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-29T11:47:41+09:00</updated>
+  <updated>2025-12-29T12:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epd45es1pb</id>
+    <title>流星花園II～花より男子～_[第3話　希望の星]</title>
+    <updated>2025-12-29T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 流星花園II～花より男子～
+        &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月29日(月)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月29日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd45es1pb.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        エルサと友人サクの働くワイナリーに身を寄せた司は、心を閉ざしたまま記憶を失っていた。エルサはそんな司を励まし、少しずつ記憶を取り戻させようとする。一方、司が母・楓に連れ去られたと疑うつくしとF3は楓に連絡を取り、司がニューヨークにいると告げられる。楓は司を引き取るが、思惑に気づいた司はその手を振りほどき逃げ出す…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epd45es1pb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy34timv5</id>
     <title>ホルモン・シリーズ　SEASON１_[EPISODE4　セロトニン（心を安定させるホルモン）]</title>
@@ -448,125 +488,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epm9rg1njp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplojhsvjr</id>
-    <title>スケバン刑事_[第13話「殺しのメロディーを弾け！」]</title>
-    <updated>2025-12-28T16:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ スケバン刑事
-        &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_16時30分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月04日(日)_16時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月28日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplojhsvjr.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        全日本ピアノコンクールを目指す少女、椎名純子がサキを訪ねてきた。サキへの指令は、この少女を護衛することだ。２人は著名なピアニストで純子の父の教え子、川崎を訪ねるのだが・・・・・・。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eplojhsvjr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2zkhlhxv</id>
-    <title>御上先生_[Episode 6 -confession-]</title>
-    <updated>2025-12-28T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 御上先生
-        &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月04日(日)_11時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2月23日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2zkhlhxv.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;週刊誌に記事が出て、生徒たちは御上（松坂桃李）の兄・宏太（新原泰佑）のことを知る。&lt;br&gt;「昔のことだ」と、生徒からの問いに答えない御上だが、御上の過去を知るある人物の後押しもあり、静かに口を開く。&lt;br&gt;果たして御上は何を語るのか――。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep2zkhlhxv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4qfua84q</id>
-    <title>ホルモン・シリーズ　SEASON１_[EPISODE2　ドーパミン（友人のホルモン）]</title>
-    <updated>2025-12-28T05:10:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
-        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_05時10分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月18日(日)_05時09分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月27日(土)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4qfua84q.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        身長が低いことが悩みのター。そんなターが人気バンドメンバーのオーディションに参加し見事合格。そんな中、自由奔放なスプライトを巡りパイの因縁が勃発。また人気バンドメンバーとなったターは想いを寄せるトーイに告白を決意するが。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep4qfua84q"/>
   </entry>
 </feed>
