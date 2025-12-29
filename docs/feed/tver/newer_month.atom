@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-29T02:06:18+09:00</updated>
+  <updated>2025-12-29T11:47:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epy34timv5</id>
+    <title>ホルモン・シリーズ　SEASON１_[EPISODE4　セロトニン（心を安定させるホルモン）]</title>
+    <updated>2025-12-29T05:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
+        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月29日(月)_05時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_05時29分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月28日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy34timv5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        友情より恋愛を選んだパイは友達から次第に無視されるようになる。カメラに夢中のモークは父親から自身の考えが理解されないことや、彼女のミントの気持ちが理解できずに悩んでいた。そんな中、プーとティーの恋がスタート！？
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epy34timv5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epug40uf04</id>
+    <title>ホルモン・シリーズ　SEASON１_[EPISODE3　エンドルフィン（気分の高揚で分泌するホルモン）]</title>
+    <updated>2025-12-29T04:35:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
+        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月29日(月)_04時35分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_04時34分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月28日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epug40uf04.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        告白の後からトーイを避けだすター。その態度にトーイの怒りが爆発。また、先輩の彼女であるスプライトに惹かれていくパイ。二人は遂に一線を超えてしまう。因縁相手とのトラブルもありながらパイは友情か恋愛どちらを選ぶ！？
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epug40uf04"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqv56ak9b</id>
     <title>復讐相手がすでに不幸のどん底なんですが！_[最終回「復讐の終わり…？」POV：アイ]</title>
@@ -488,85 +568,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep4qfua84q"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy38q4ezm</id>
-    <title>パレード界隈_[第5話「スリー ビルボード ボーイ（後編）」]</title>
-    <updated>2025-12-28T01:25:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvv72kc2g.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ パレード界隈
-        &lt;a href="https://tver.jp/series/srvv72kc2g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_01時25分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月27日(土)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy38q4ezm.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        立ち去ろうとする史郎をどうにか説得して留まらせるも、未だ公衆トイレに閉じ込められたままの前野。すると、史郎は“とある看板を出したい”と語り始め―。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epy38q4ezm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd7q39q06</id>
-    <title>パレード界隈_[第6話「イカとコハダ」]</title>
-    <updated>2025-12-28T01:25:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvv72kc2g.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ パレード界隈
-        &lt;a href="https://tver.jp/series/srvv72kc2g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_01時25分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月27日(土)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd7q39q06.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        モーニング回転寿司を味わいにきた陽平と美穂、そして娘のしおり。美穂は店内の外国人グループに違和感を抱き、“エスパーの集団だ”と陽平に語り掛ける―。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epd7q39q06"/>
   </entry>
 </feed>
