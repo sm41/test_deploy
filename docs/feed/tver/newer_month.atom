@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-29T14:05:41+09:00</updated>
+  <updated>2025-12-29T16:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep1k0ojnee"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu599ong2</id>
-    <title>五十嵐夫妻は偽装他人_[#10 再会…幼い私を捨てた母]</title>
-    <updated>2025-12-28T17:00:12+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 五十嵐夫妻は偽装他人
-        &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 3月12日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu599ong2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/14（日）17:00～&#13;&lt;br&gt;#3,#4：12/17（水）17:00～&#13;&lt;br&gt;#5,#6：12/22（月）17:00～&#13;&lt;br&gt;#7,#8：12/25（木）17:00～&#13;&lt;br&gt;#9,#10：12/28（日）17:00～&#13;&lt;br&gt;#11,#12：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;美羽（田辺桃子）の家庭トラブルがひと段落。そのお礼と共に美羽から背中を押された真尋（新川優愛）は、直人（塩野瑛久）との関係を改めて見つめ直すことに。そんな時、父・雪人（相島一之）が倒れたとの連絡が。入院準備のために父の店を訪れる真尋だったが、そこで幼い頃に家を出ていった母・春奈の写真と電話番号を見つける。一方、直人はある時、瀬戸（兵頭功海）から真尋がずっと抱えているとあるトラウマの存在について知り…　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epu599ong2"/>
   </entry>
 </feed>
