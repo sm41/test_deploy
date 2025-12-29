@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-29T12:05:41+09:00</updated>
+  <updated>2025-12-29T14:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epztgpop4w</id>
+    <title>絶メシロード 閉幕編_[絶メシロード 閉幕編]</title>
+    <updated>2025-12-29T12:40:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srihjqppii.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 絶メシロード 閉幕編
+        &lt;a href="https://tver.jp/series/srihjqppii" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月29日(月)_12時40分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月29日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epztgpop4w.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        熱狂的なJリーグサポーターと一期一会の絶メシ旅を共にしたものの、その後すっかりサッカーのことを忘れていた民生が、今年最後の絶メシ旅で入ったのはJリーグサポーターゆかりのお店だった。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epztgpop4w"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epd45es1pb</id>
     <title>流星花園II～花より男子～_[第3話　希望の星]</title>
@@ -448,45 +488,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epu599ong2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm9rg1njp</id>
-    <title>五十嵐夫妻は偽装他人_[#9 一番大事な目の前の人]</title>
-    <updated>2025-12-28T17:00:11+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 五十嵐夫妻は偽装他人
-        &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月28日(日)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 3月5日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm9rg1njp.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/14（日）17:00～&#13;&lt;br&gt;#3,#4：12/17（水）17:00～&#13;&lt;br&gt;#5,#6：12/22（月）17:00～&#13;&lt;br&gt;#7,#8：12/25（木）17:00～&#13;&lt;br&gt;#9,#10：12/28（日）17:00～&#13;&lt;br&gt;#11,#12：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;自分たちの身勝手な行動で美羽（田辺桃子）と瀬戸（兵頭功海）を振り回したことを反省する真尋（新川優愛）と直人（塩野瑛久）。二人のこれからのことをはっきりしないまま試泊が終了する。会社ではコンペに向けた会議が始まるが、美羽はどこか上の空。その様子が気になった真尋は、取引先の面会に同行することに。面会後、急いで立ち去ろうとする美羽のもとに「祖母がいなくなった」という連絡が入る。かなり動揺する美羽に真尋は…　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epm9rg1njp"/>
   </entry>
 </feed>
