@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-31T00:06:40+09:00</updated>
+  <updated>2025-12-31T02:06:40+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epx4wv3k6j</id>
+    <title>サ道_[2019年末SP-北の聖地でととのう-]</title>
+    <updated>2025-12-31T00:40:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ サ道
+        &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月31日(水)_00時40分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx4wv3k6j.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        上野にある「サウナ北欧」でいつものようにサウナを満喫していたナカタアツロウ（原田泰造）と偶然さん（三宅弘城）の目の前に、容姿がガラッと変わったイケメン蒸し男（磯村勇斗）が姿を現す。そして、3人は今年の“マイベストサウナ”を決めることに。ナカタは偶然さんに勧められ訪れた北の聖地といわれる、北海道・上富良野町のサウナ施設「白銀荘」を挙げる。真冬の大自然の中、雪山の秘境サウナを訪れたナカタは、果たしてととのうことが出来たのか……!?　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epx4wv3k6j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuejcd4kg</id>
     <title>366日_[第9話 心から笑える相手の事を理解したい…運命の再会]</title>
@@ -2888,45 +2928,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epjh2hxbu5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epidm1zuqf</id>
-    <title>ドラマ地球の歩き方_[第7話 サイパンに宿る精霊？腕にできた謎のアザ…]</title>
-    <updated>2025-12-30T07:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv92dl23x.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ドラマ地球の歩き方
-        &lt;a href="https://tver.jp/series/srv92dl23x" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月30日(火)_07時30分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月13日(火)_07時29分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epidm1zuqf.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        俳優・松本まりかは「地球の歩き方」サイパン版担当になるが、テーマを決められないままサイパンに到着。その後、父子でサイパン版を作ってきたライターから取材ノートやそれを元に作られた昔の「地球の歩き方」を見せてもらう。サイパンに伝わる精霊の話を聞いた松本は自身に起きた不思議な出来事を語り始める。そして、過去に写真集撮影をしたビーチに訪れた松本にある現象が起こり…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epidm1zuqf"/>
   </entry>
 </feed>

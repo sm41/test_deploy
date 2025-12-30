@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-31T00:06:40+09:00</updated>
+  <updated>2025-12-31T02:06:40+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplx641u2w</id>
+    <title>サ道 2025SP 〜ぬくもりに思いを馳せ ととのう〜_[サ道 2025SP ～ぬくもりに思いを馳せ ととのう～]</title>
+    <updated>2025-12-31T00:40:01+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ サ道 2025SP 〜ぬくもりに思いを馳せ ととのう〜
+        &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月31日(水)_00時40分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月30日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplx641u2w.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        今年も残すところあとわずか。上野にある「サウナ北欧」で、いつものようにサウナを満喫していたナカタアツロウ（原田泰造）と、偶然さん（三宅弘城）は、今年１年を振り返っていた。そして、忘れることのできない体験をしたあのサウナ旅のかけがえのない時間を思い出す。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eplx641u2w"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epd3apwj4k</id>
     <title>孤独のグルメ Season7_[第4話 群馬県甘楽郡下仁田町のタンメンと豚すき焼き]</title>
