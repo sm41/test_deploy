@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-31T12:00:28+09:00</updated>
+  <updated>2025-12-31T12:05:51+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epo4sflhv9</id>
+    <title>ブラックファミリア～新堂家の復讐～_[#9 ついに犯人判明！]</title>
+    <updated>2025-12-31T12:01:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxms7m2u6.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ブラックファミリア～新堂家の復讐～
+        &lt;a href="https://tver.jp/series/srxms7m2u6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月31日(水)_12時01分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_12時00分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo4sflhv9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        一葉（板谷由夏）たち新堂家の罠によって早乙女家は崩壊。しかし、秋生（平山祐介）を問い詰めても、梨里杏（星乃夢奈）は自殺だったという答えしか返ってこない。そんな中、航輔（山中崇）に倫太郎（塩野瑛久）から連絡が来る。彼は、拘束された沙奈（渡邉理佐）の姿を航輔に見せつけ…。一方、一葉は、昏睡状態が続く優磨（森崎ウィン）が残した謎の番号を手がかりに、ある人物に辿り着く。&lt;br&gt;梨里杏の死の真相がついに明らかに！&lt;br&gt;&lt;br&gt;【ブラックファミリア～新堂家の復讐～ 一挙配信】&lt;br&gt;#１　12月29日(月) 1:25　～　2026年1月5日(月) 1:24&lt;br&gt;#２　12月29日(月) 8:01　～　2026年1月5日(月) 8:00&lt;br&gt;#３　12月29日(月)12:01　～　2026年1月5日(月)12:00&lt;br&gt;#４　12月29日(月)18:01　～　2026年1月5日(月)18:00&lt;br&gt;#５　12月30日(火) 8:01　～　2026年1月6日(火) 8:00&lt;br&gt;#６　12月30日(火)12:01　～　2026年1月6日(火)12:00&lt;br&gt;#７　12月30日(火)18:01　～　2026年1月6日(火)18:00&lt;br&gt;#８　12月31日(水) 8:01　～　2026年1月7日(水) 8:00&lt;br&gt;#９　12月31日(水)12:01　～　2026年1月7日(水)12:00&lt;br&gt;#10　12月31日(水)18:01　～　2026年1月7日(水)18:00
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epo4sflhv9"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxtdvuejh</id>
     <title>俺の話は長い_[第10話 其の十九「すき焼きと引越し」]</title>
