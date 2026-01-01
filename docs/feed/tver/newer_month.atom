@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-01T22:06:33+09:00</updated>
+  <updated>2026-01-02T00:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6iwwhc0c</id>
+    <title>相棒 season24_[元日スペシャル 第10話「フィナーレ」]</title>
+    <updated>2026-01-01T23:15:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 相棒 season24
+        &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_23時15分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月08日(木)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月1日(木)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6iwwhc0c.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        クリスマス・イブ、絶海の孤島に降り立った右京（水谷豊）と薫（寺脇康文）。何者からか脅迫状が届いたミステリー作家・美作章介（段田安則）が捜査を依頼するため、自身のイベントが開かれるホテルに招待したのだ。そんな中、関係者の一人が密室で殺害される事件が発生！しかしそれは、惨劇の序章に過ぎなかった…。美作の推理小説になぞらえて起こる連続殺人！特命係は血塗られた聖夜に渦巻く陰謀を止めることができるのか!?
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep6iwwhc0c"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epigcfa0tg</id>
     <title>孤独のグルメ Season4_[第4話 東京都八王子市小宮町のヒレカルビとロースすき焼き風]</title>
