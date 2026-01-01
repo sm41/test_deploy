@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-01T12:06:33+09:00</updated>
+  <updated>2026-01-01T14:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnd52yksm</id>
+    <title>この恋あたためますか_[第７話 好きが降る夜…運命は２人を離さない！]</title>
+    <updated>2026-01-01T14:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr41vsgk4j.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ この恋あたためますか
+        &lt;a href="https://tver.jp/series/sr41vsgk4j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_14時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_13時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnd52yksm.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：11月30日(日)14:00～1月16日(金)21:59&lt;br&gt;#3：12月23日(火)14:00～1月16日(金)21:59&lt;br&gt;#4：12月23日(火)14:00～12月29日(月)13:59&lt;br&gt;#5：12月26日(金)14:00～1月1日(木)13:59&lt;br&gt;#6：12月29日(月)14:00～1月4日(日)13:59&lt;br&gt;#7：1月1日(木)14:00～1月7日(水)13:59&lt;br&gt;#8：1月4日(日)14:00～1月10日(土)13:59&lt;br&gt;#9：1月7日(水)14:00～1月13日(火)13:59&lt;br&gt;#10：1月10日(土)14:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;勢いで伝えた「好き」の言葉が、実は浅羽（中村倫也）に聞こえていたことを知り、さらに浅羽から「伝えなきゃいけないことがある」と言われ、動揺する樹木（森七菜）。そんな中、ココエブリィ上目黒店では、温泉への研修旅行で浅羽が思いついた「コンビニの新しい形」がスタートした。だが、そこで働く浅羽と里保（石橋静河）の姿を後から知った樹木は、気持ちを切り替えようとする。一方、一向に変わらない樹木との関係を前進させるべく、新谷（仲野太賀）はある決心をする。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epnd52yksm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnjk0uaaq</id>
     <title>LADY～最後の犯罪プロファイル～_[Final Episode 終幕…もう一人の真犯人]</title>
@@ -2688,45 +2728,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epq7g86k1z"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3kvcq9w5</id>
-    <title>ベイビーわるきゅーれ エブリデイ！_[第11話 私はなんで殺し屋をしてるのか]</title>
-    <updated>2025-12-31T17:00:11+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru3ddragb.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ベイビーわるきゅーれ エブリデイ！
-        &lt;a href="https://tver.jp/series/sru3ddragb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月31日(水)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3kvcq9w5.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/26（金）17:00～&#13;&lt;br&gt;#3,#4：12/27（土）17:00～&#13;&lt;br&gt;#5,#6：12/28（日）17:00～&#13;&lt;br&gt;#7,#8：12/29（月）17:00～&#13;&lt;br&gt;#9,#10：12/30（火）17:00～&#13;&lt;br&gt;#11,#12：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;まひろ（伊澤彩織）は、殺し屋協会の監査部でコンビを組み、親睦を深めた日野（柄本時生）を殺す任務を背負いながら、今日も日野のいる現場へと向かう。一方、ちさと（髙石あかり）は営業部で部長の山下（後藤剛範）や三好（一ノ瀬竜）らの規格外な指導に、底知れぬ怒りをあらわにするが…。それぞれの悩みを抱えた二人が、ついに動き出す――！　［期間限定無料配信］　草川拓弥 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep3kvcq9w5"/>
   </entry>
 </feed>
