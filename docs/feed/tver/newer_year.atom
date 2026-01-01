@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-01T18:05:33+09:00</updated>
+  <updated>2026-01-01T20:06:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsnewrmus</id>
+    <title>凪のお暇_[第６話「オフィスらぶで壊れそう」]</title>
+    <updated>2026-01-01T20:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtgk3xlds.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 凪のお暇
+        &lt;a href="https://tver.jp/series/srtgk3xlds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_20時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_19時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsnewrmus.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月5日(金)20:00～1月16日(金)21:59&lt;br&gt;#4-5：12月27日(土)20:00～1月1日(木)19:59&lt;br&gt;#6-7：1月1日(木)20:00～1月6日(火)19:59&lt;br&gt;#8：1月6日(火)20:00～1月11日(日)19:59&lt;br&gt;#9：1月9日(金)20:00～1月14日(水)19:59&lt;br&gt;#10：1月11日(日)20:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;ゴン（中村倫也）と別れ、再びリセット人生をスタートした凪（黒木華）は、ママ（武田真治）から声をかけられ、スナック「バブル」の２号店でボーイとして働くことに。ママや杏（中田クルミ）の接客の邪魔にならないよう雑用を片付けるが、お客さんから話を振られても、うまく答えることができず落ち込んでいた。一方、慎二（高橋一生）は、会社の同僚の円（唐田えりか）と交際を始め、楽しいオフィスラブを育んでいた。そんなある日、スナック「バブル」の２号店を訪れると、ボーイとして働く凪と鉢合わせてしまう。しかし、慎二はそれをママたちに悟られないよう、いつもの営業スマイルで初対面のフリをする。その頃、凪から返された鍵を見つめ、自分の中に起きている感情の変化に戸惑うゴン。凪のことを考えると胸がチクッとする、この胸の痛みが何なのか分からないでいると、緑（三田佳子）からそれは“初恋”だと言われ、凪のことが好きだと自覚するが…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epsnewrmus"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep67g6kns1</id>
+    <title>凪のお暇_[第７話「凪、夢を描く」]</title>
+    <updated>2026-01-01T20:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtgk3xlds.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 凪のお暇
+        &lt;a href="https://tver.jp/series/srtgk3xlds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_20時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_19時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep67g6kns1.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月5日(金)20:00～1月16日(金)21:59&lt;br&gt;#4-5：12月27日(土)20:00～1月1日(木)19:59&lt;br&gt;#6-7：1月1日(木)20:00～1月6日(火)19:59&lt;br&gt;#8：1月6日(火)20:00～1月11日(日)19:59&lt;br&gt;#9：1月9日(金)20:00～1月14日(水)19:59&lt;br&gt;#10：1月11日(日)20:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;凪（黒木華）から、ゴン（中村倫也）と別れたことを聞いた慎二（高橋一生）は、オフィスラブを満喫中の円（唐田えりか）とランチ中にも関わらず、凪のことが気になり上の空。そこに、突然同僚の足立心（瀧内公美）たちがやってきて、慎二と円と鉢合わせてしまう。秘めた関係がバレているのではないかと、良くない空気が漂う中、慎二は思いがけない人物と接触する。一方、いつものコインランドリーで洗濯をしていた龍子（市川実日子）と凪は、コインランドリーが閉店することを知り、店主から冗談半分で、「このコインランドリーを継いでほしい」と言われる。その日の夜、凪はアパートの共有スペースでみんなにその話をすると「そんな夢もありかも」という展開に。そこで、凪は引っ越してきた時に書き出したウィッシュリストを再び思い出し、みんなで書くことに。だが、凪はなかなか書けず、その様子を見ていたみすず（吉田羊）は…。その頃、ゴンは凪のことを好きだと自覚してから、自分が凪のために何をしてあげられるのかと思い悩んでいた。そして、ついにゴンが行動を起こす。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep67g6kns1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep1t33xko0</id>
+    <title>3年B組金八先生(第5シリーズ)_[第19回 生きる事・死ぬ事]</title>
+    <updated>2026-01-01T20:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 3年B組金八先生(第5シリーズ)
+        &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_20時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月15日(木)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1t33xko0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;受験も終わり、３年B組では体験学習が行われることになった。実際の社会に出て働いてみようというのだ。金八（武田鉄矢）は生徒たちを連れて３Bの卒業生・修一（佐々木卓馬）の家に向かった。修一の家はラーメン屋で、健次郎（風間俊介）たちのグループは店で１杯のラーメンができ、客に出されるまでを学んだ。いよいよ店が開き、実際に客がやってきたが、しばらくして病院にいるはずの健次郎の兄・雄一郎（須藤公一）が現れ、健次郎と金八の表情が変わる。その後、健次郎は雄一郎の病室を訪ね…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep1t33xko0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz6ui6vi9</id>
     <title>中学聖日記_[第８話 先生さようなら…命懸けの逃避行！運命の決断と告白]</title>
@@ -2248,125 +2368,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epajsjj0qf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epabeevir1</id>
-    <title>緊急取調室 （2021）_[第三話 勇者の嘘]</title>
-    <updated>2026-01-01T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3f4ao8sl.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 緊急取調室 （2021）
-        &lt;a href="https://tver.jp/series/sr3f4ao8sl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epabeevir1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        チケットは30秒で完売…世間が注目するボクシングのバンタム級タイトルマッチが、目前に迫ってきた。「大卒のプリンス」ともてはやされる現チャンピオン・加賀見光一郎（神尾楓珠）に挑戦するのは、元ボクサー・山内潔（阿南健治）に才能を見いだされ、デビュー戦以来4戦連続のKO勝ちを収めた元不良少年・石倉衆ニ（岡山天音）。正反対の2人の試合には、熱い視線が注がれていた。&#13;&lt;br&gt;ところが、対戦1週間前の会見が開かれた直後、事件が起こる。会見に出席していた週刊誌記者・梅本マサル（松本実）が、川に転落して溺死。亡くなる前に顔面を殴られていたことが判ったばかりか、石倉と一緒に事件現場付近を歩いている姿をとらえた防犯カメラ映像も見つかったのだ！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epabeevir1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9rgloimv</id>
-    <title>監察医 朝顔_[第16話 史上最凶の殺人！祖父に語る朝顔の嘘]</title>
-    <updated>2026-01-01T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srplj5a8qz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 監察医 朝顔
-        &lt;a href="https://tver.jp/series/srplj5a8qz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9rgloimv.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：11/23(日)～01/16(金)&lt;br&gt;#4：11/26(水)～12/02(火)&lt;br&gt;#5：11/29(土)～12/05(金)&lt;br&gt;#6：12/02(火)～12/08(月)&lt;br&gt;#7：12/05(金)～12/11(木)&lt;br&gt;#8：12/08(月)～12/14(日)&lt;br&gt;#9：12/11(木)～12/17(水)&lt;br&gt;#10：12/14(日)～12/20(土)&lt;br&gt;#11：12/17(水)～12/23(火)&lt;br&gt;#12：12/20(土)～12/26(金)&lt;br&gt;#13：12/23(火)～12/29(月)&lt;br&gt;#14：12/26(金)～01/01(木)&lt;br&gt;#15：12/29(月)～01/04(日)&lt;br&gt;#16：01/01(木)～01/07(水)&lt;br&gt;#17：01/04(日)～01/10(土)&lt;br&gt;#18：01/07(水)～01/13(火)&lt;br&gt;#19：01/10(土)～01/16(金)&lt;br&gt;&lt;br&gt;朝顔（上野樹里）は、入院中だった祖父・浩之（柄本明）の容体が悪化したとの連絡を受け、岩手の病院へと駆けつける。朝顔は、浩之が目を覚ましたら、母のものである可能性があった歯の検査結果を伝えようと考えていた。だが浩之は目を覚まさず、裁判を控えていた朝顔は神奈川へ戻るしかなかった。&lt;br&gt;一方、神奈川県警に復帰した桑原（風間俊介）は、意外な男と再会する。それは、以前マンホールを盗んで捕まった今野（上島竜兵）だった。とんでもないものを見た、といってポケットからチラシを取り出す今野。それは、10年ほど前に発生し、いまだ未解決だった三田村一家殺人事件の情報提供を呼びかけるチラシだった。&lt;br&gt;この事件は、30代の三田村夫婦と、7歳の長男が自宅で何者かに殺害されたもので、すべての遺体の右頬が十字を描くように傷つけられていた。目撃情報などから、知人の市川という男が逮捕されたが、証拠不十分で不起訴になっていた。今野は、事件現場となった三田村家の近くで、チラシに描かれていた犯人の似顔絵とよく似た男を見たというのだ。&lt;br&gt;そんな中、思わぬ事件が起きる。いまも事件当時のまま保存されていた三田村家で、男性の遺体が見つかったのだ。そして、50代前後と思われるその男性も、同じような手口で殺害され、右頬には十字型の傷がつけられていた。遺体は、解剖のため興雲大学法医学教室に運ばれ・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは新春SP含め『監察医 朝顔』全シリーズを全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep9rgloimv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep95mysx58</id>
-    <title>素敵な選TAXI_[#7 嘘と真の選択肢]</title>
-    <updated>2026-01-01T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sras2qnxhr.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 素敵な選TAXI
-        &lt;a href="https://tver.jp/series/sras2qnxhr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep95mysx58.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        容姿端麗、仕事ができて人望も厚いOLの真理（貫地谷しほり）は、大手企業のCEO・内藤彰（葛山信吾）との結婚が決まり、彰から両親に挨拶に行きたいと言われ実家へ戻ることに。駅に着いた二人は、枝分（竹野内豊）が地元のレディースにからまれている現場に遭遇。真理が一人で話に行くとなぜかレディースは退散。実は、真理こそがそのレディースの初代総長だったのだ。真理の過去を知った彰は怒って帰ってしまい、追いかけようとした真理は選TAXIを呼ぶ。事情を聞いた枝分は、選TAXIのシステムを説明する。実家に到着した時刻に戻った真理は、今度は彰を待たせ、一人で家の中へと入っていき…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep95mysx58"/>
   </entry>
 </feed>
