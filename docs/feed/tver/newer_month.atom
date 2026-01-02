@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-02T02:05:33+09:00</updated>
+  <updated>2026-01-02T11:09:39+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ephnszpo89</id>
+    <title>ホルモン・シリーズ　SEASON１_[EPISODE10　テストステロン対エストロゲン（わかり合えないホルモン）]</title>
+    <updated>2026-01-02T05:55:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
+        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月02日(金)_05時55分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_05時54分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月2日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephnszpo89.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        父親の事で激しく動揺するクワン。試験前日、勉強が全く手につかない。そして試験当日にカンニングを図るがばれてしまう。そんな中、ウィンの裏切り行為も発覚。家出をしたクワンはかつての親友スプライトを頼ることになるのだが。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ephnszpo89"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0s2kkvu5</id>
+    <title>ホルモン・シリーズ　SEASON１_[EPISODE9　コルチゾール（ストレスのホルモン）]</title>
+    <updated>2026-01-02T05:03:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
+        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月02日(金)_05時03分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_05時02分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月1日(木)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0s2kkvu5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        クワンを遊び相手として狙うウィン。学校の課題を一緒にやる口実でスポーツジムに誘う。しかしそこでクワンは父親の秘密を知ってしまう。父親の事を母親に問いただし喧嘩に発展。勉強に集中できない優等生のクワンだが試験当日を迎えある行動に出る。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep0s2kkvu5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep6iwwhc0c</id>
     <title>相棒 season24_[元日スペシャル 第10話「フィナーレ」]</title>
@@ -808,165 +888,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epfxha0vvr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9z68rmu6</id>
-    <title>40までにしたい10のこと_[【未公開映像付き特別編】大ヒット記念！秘蔵映像公開SP]</title>
-    <updated>2026-01-01T05:00:01+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbqpn7dh57.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 40までにしたい10のこと
-        &lt;a href="https://tver.jp/series/srbqpn7dh57" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_05時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月08日(木)_04時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月31日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9z68rmu6.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        最終回をむかえたドラマ「40までにしたい10のこと」。数々のエモーショナルな名場面や、ふたりが叶えてきた“10のこと”を一挙に振り返る総集編に加え、撮影現場でのメイキングなど、ここでしか見られない貴重な映像をふんだんに盛り込んでお届けします。風間俊介と庄司浩平が数々の名場面をどう作り上げてきたのか。撮影現場での白熱するディスカッションの風景なども惜しみなく公開！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep9z68rmu6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep85copld2</id>
-    <title>40までにしたい10のこと_[【未公開映像付き特別編】最終話 「誕生日を恋人と過ごす」]</title>
-    <updated>2026-01-01T05:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbqpn7dh57.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 40までにしたい10のこと
-        &lt;a href="https://tver.jp/series/srbqpn7dh57" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_05時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月08日(木)_04時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月31日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep85copld2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        リストの期限、すなわち雀（風間俊介）の40歳の誕生日まで残された時間はあと1日。慶司（庄司浩平）に対してそっけない態度をとり、意識的に距離を取り続ける雀。そして迎えた誕生日当日のクリスマス・イブ。リストを削除しようとした瞬間、雀の胸にこみ上げたのは、慶司への溢れる想いだった。もう一度ちゃんと向き合いたいと願うふたりの恋の行方は―？そして、リストは達成できるのか。大人の恋の物語がついにフィナーレへ！　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep85copld2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephp7ns7gk</id>
-    <title>ホルモン・シリーズ　SEASON１_[EPISODE8　プロゲステロン（妊娠のホルモン）]</title>
-    <updated>2026-01-01T04:55:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
-        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_04時55分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_04時54分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月31日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephp7ns7gk.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        当初はダオの母親はディンとの関係に反対をしていたが、ディンの誠実な態度を知り交際を認めていくことに。そんな中、ディンが夜にダオの部屋に勝手に入ってきてしまう。二人は一夜を過ごしたが、その後ディンは音信不通に。またダオは妊娠を疑い気持ちが不安定になっていく。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ephp7ns7gk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eps1hhk14r</id>
-    <title>霧尾ファンクラブ_[第4話「ライバル出現？入り乱れる恋模様」]</title>
-    <updated>2026-01-01T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2z0hz3i.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 霧尾ファンクラブ
-        &lt;a href="https://tver.jp/series/srf2z0hz3i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月01日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 4月23日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps1hhk14r.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ≪第63回ギャラクシー賞上期／テレビ部門奨励賞 受賞作品≫&lt;br&gt;▼詳細スケジュールはこちら▼&lt;br&gt;更新を見逃さない「お気に入り登録」も！Huluでは全話配信中！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;＃1：12/26(金)00:00～1/25(日)23:59&lt;br&gt;＃2：12/28(日)00:00～1/25(日)23:59&lt;br&gt;＃3：12/30(火)00:00～1/25(日)23:59&lt;br&gt;＃4：1/1(木)00:00～1/7(水)23:59&lt;br&gt;＃5：1/3(土)00:00～1/9(金)23:59&lt;br&gt;＃6：1/6(火)00:00～1/12(月)23:59&lt;br&gt;＃7：1/9(金)00:00～1/15(木)23:59&lt;br&gt;＃8：1/12(月)00:00～1/18(日)23:59&lt;br&gt;＃9：1/15(木)00:00～1/21(水)23:59&lt;br&gt;＃10：1/18(日)00:00～1/25(日)23:59&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;持ち帰り忘れた弁当箱を取りに藍美（茅島みずき）と波（莉子）は夜の教室へ。すると突然、呪術をしに来たという満田（若林時英）が出現。2人は憧れの霧尾（井上瑞稀）に近づくため、その呪術を実践することに！だが、その内容は「霧尾くんと池の水全部抜いてみたくない！」などと叫ぶ奇抜すぎる内容で…。&lt;br&gt;後日、藍美は波との登校中に霧尾や桃瀬（小宮璃央）とはしゃぐ他のクラスの女子・皐月（星乃夢奈）を目撃。皐月と親しげに接する霧尾を見た藍美は「自分は皐月に勝てない…」とすっかり気落ちするなか、偶然にも2人は皐月が周りに隠す“ある秘密”を知ってしまう。さらには、いつも霧尾の近くにいる桃瀬にも“ある事実”が判明し…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eps1hhk14r"/>
   </entry>
 </feed>
