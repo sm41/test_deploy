@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-03T22:06:25+09:00</updated>
+  <updated>2026-01-04T00:05:24+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyxpfv9vt</id>
+    <title>１１９エマージェンシーコール_[2026新春SP‐横浜BLACKOUT‐]</title>
+    <updated>2026-01-03T23:40:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryavii6ry.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ １１９エマージェンシーコール
+        &lt;a href="https://tver.jp/series/sryavii6ry" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月03日(土)_23時40分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月17日(土)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月3日(土)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyxpfv9vt.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：12/06(土)～01/05(月)&lt;br&gt;#2：12/06(土)～01/05(月)&lt;br&gt;#3：12/06(土)～01/05(月)&lt;br&gt;#4：12/09(火)～12/15(月)&lt;br&gt;#5：12/12(金)～12/18(木)&lt;br&gt;#6：12/15(月)～12/21(日)&lt;br&gt;#7：12/18(木)～12/24(水)&lt;br&gt;#8：12/21(日)～12/27(土)&lt;br&gt;#9：12/24(水)～12/30(火)&lt;br&gt;#10：12/27(土)～01/02(金)&lt;br&gt;#11：12/30(火)～01/05(月)&lt;br&gt;&lt;br&gt;年末の横浜市消防局・通信指令センターは、例年以上に慌ただしさを増していた。粕原雪（清野菜名）ら司令課3係が対応する電話口の向こうでは、事故や病気、火災、そして年末行事特有のトラブルが次々と発生している。その3係には新たにベテランの関家高規（長野博）と新人の綿貫なずな（莉子）が加わっていた。そんな中、指令管制員の箕輪健介（前原滉）は、議員の秘書・山岡悠美（丸山礼）から今度議員に会わないかと話を持ちかけられていた。&lt;br&gt;&lt;br&gt;ある日、3係のメンバーたちの前に、AIエンジニアの原龍臣（柏原収史）がやってくる。原は「AI管制員」の導入を目論み、兼下睦夫（瀬戸康史）や与呉心之介（一ノ瀬颯）、堂島信一（佐藤浩市）らは戸惑う。人間の仕事を機械に置き換えるべきかどうかという対立が浮かび上がる中、高千穂一葉（中村ゆり）は原に思うところがあるようで…。また、新島紗良（見上愛）も異動先の救急隊で活躍していた。&lt;br&gt;&lt;br&gt;そして迎えた大みそか。突然の大規模停電により、横浜市内は混乱に陥る。事故、火災など、同時多発的に起きた事案の通報が殺到し、通信指令センターは対応に追われることに…。AI導入を推す原も立ち会う中、通報を受ける管制員たちは、冷静な判断と想像力を駆使し、必死に現場へとつなぎ…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『１１９エマージェンシーコール』を全話配信中！名作ドラマを“イッキ見”できる！】
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epyxpfv9vt"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epl01ond6d</id>
     <title>ホルモン・シリーズ　SEASON１_[EPISODE11　オキシトシン（絆を結ぶホルモン）]</title>
@@ -128,165 +168,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epfynwtogd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ept7i5stfz</id>
-    <title>ただの恋愛なんかできっこない_[#11 揺れる心、迫る誘惑。二人の距離に試練が]</title>
-    <updated>2026-01-02T23:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3lk8z7tiz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ただの恋愛なんかできっこない
-        &lt;a href="https://tver.jp/series/sr3lk8z7tiz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月02日(金)_23時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_23時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 9月10日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept7i5stfz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        桐谷はさくらへの気持ちに戸惑い、「かわいいな」と呟く自分を、犬猫への感情だと必死に誤魔化す。ある夜、泥酔した美柚を連れた蓮見が訪れ、桐谷は仕方なく2人を招き入れる。蓮見が去ると、美柚が甘く迫り、揺れる桐谷の心。ふたりきりの密室で、桐谷とさくらの関係に新たな試練が忍び寄る。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ept7i5stfz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epngp5rirm</id>
-    <title>ただの恋愛なんかできっこない_[#9 因縁の再会、嫉妬と秘密、加速する三角関係]</title>
-    <updated>2026-01-02T23:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3lk8z7tiz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ただの恋愛なんかできっこない
-        &lt;a href="https://tver.jp/series/sr3lk8z7tiz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月02日(金)_23時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_23時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 8月27日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epngp5rirm.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        突然の美柚との再会に、桐谷の心はざわつく。社内で輝く新任広報の美柚は「男前になったね」と甘くちょっかいをかけ、桐谷を惑わせる。一方、さくらは嫉妬で胸が苦しくなりながらも秘めた想いを隠す。さらに美柚は二人の秘密を尾行し、静かな関係に新たな波紋を投げかける。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epngp5rirm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjs87lpqf</id>
-    <title>ただの恋愛なんかできっこない_[#10 いつもと違うさくらに胸キュン。大胆な夜が始まる]</title>
-    <updated>2026-01-02T23:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3lk8z7tiz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ただの恋愛なんかできっこない
-        &lt;a href="https://tver.jp/series/sr3lk8z7tiz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月02日(金)_23時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_23時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 9月3日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjs87lpqf.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        桐谷が美柚のものになるかもと焦ったさくらは、黒スーツを脱ぎ、可愛い服で出社。普段と違う姿に桐谷の胸は高鳴り、冷静を装うのがやっと。夜の食事で積極的なさくらは「まだ帰りたくない」と大胆に桐谷をホテルへ誘う。一方、美柚は蓮見と二人の仲を揺さぶる計画を練り、三角関係はさらに複雑に。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epjs87lpqf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epel2mhyry</id>
-    <title>ただの恋愛なんかできっこない_[#12 ただの恋愛なんかできっこない]</title>
-    <updated>2026-01-02T23:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3lk8z7tiz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ただの恋愛なんかできっこない
-        &lt;a href="https://tver.jp/series/sr3lk8z7tiz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月02日(金)_23時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_23時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 9月17日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epel2mhyry.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        桐谷は美柚の誘惑を冷静にかわしたが、「さくらさんへの態度が違う」と言われ、恋心に気づく。美柚の言葉が背中を押すと、雨に濡れたさくらが現れた。抱き寄せた肌のぬくもりに、胸が高鳴る。二人は一夜を共にし、甘く熱い想いを確かめ合った。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epel2mhyry"/>
   </entry>
 </feed>
