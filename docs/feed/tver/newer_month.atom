@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-03T02:05:24+09:00</updated>
+  <updated>2026-01-03T10:06:24+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epl01ond6d</id>
+    <title>ホルモン・シリーズ　SEASON１_[EPISODE11　オキシトシン（絆を結ぶホルモン）]</title>
+    <updated>2026-01-03T05:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
+        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月03日(土)_05時45分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月24日(土)_05時44分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月2日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl01ond6d.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        クワンのことで悩むウィンは謝罪をしたいが受け入れてもらえない。一方クワンは新しい家族を受け入れようとしていた。また、シースケープのメンバーでもあるターは新曲が完成。その曲を聞いたトーイは様々な思いを寄せることに。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epl01ond6d"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj3z8vu46</id>
     <title>海老だって鯛が釣りたい_[第５話「１泊２日、憧れ上司と２人で出張！」]</title>
