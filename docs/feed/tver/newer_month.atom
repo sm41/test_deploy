@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-04T16:06:03+09:00</updated>
+  <updated>2026-01-04T18:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfvqa63r9</id>
+    <title>1月スタート！新ドラマ見どころ徹底解剖SP_[1月スタート！新ドラマ見どころ徹底解剖SP]</title>
+    <updated>2026-01-04T16:35:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9rgmuubt.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 1月スタート！新ドラマ見どころ徹底解剖SP
+        &lt;a href="https://tver.jp/series/sr9rgmuubt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月04日(日)_16時35分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_21時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月4日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfvqa63r9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        日テレ冬の新ドラマが、いよいよスタート！&lt;br&gt;&lt;br&gt;新土曜ドラマ『パンダより恋が苦手な私たち』(1/10スタート)、新日曜ドラマ『パンチドランク・ウーマン −脱獄まであと××日−』(1/11スタート)、新水曜ドラマ『冬のなんかさ、春のなんかね』(1/14スタート)の撮れたて映像やメイキング、裏話インタビューなどを交えて見どころを一挙ご紹介します！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epfvqa63r9"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epj1frjsxc</id>
+    <title>スケバン刑事_[第14話「血ぬられた鍵盤」]</title>
+    <updated>2026-01-04T16:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ スケバン刑事
+        &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月04日(日)_16時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月11日(日)_16時00分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月4日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj1frjsxc.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        川崎は亜悠巳の妹、久巳の配下であった。川崎は、コンクールで久巳を優勝させるため、実力のある純子をナイフで刺す。それを知ったサキは、久巳と川崎を襲撃し、久巳の手首を骨折させたのだった。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epj1frjsxc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep3ipv0bl1</id>
     <title>御上先生_[Episode 8 -strategy-]</title>
@@ -128,45 +208,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epyxpfv9vt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl01ond6d</id>
-    <title>ホルモン・シリーズ　SEASON１_[EPISODE11　オキシトシン（絆を結ぶホルモン）]</title>
-    <updated>2026-01-03T05:45:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
-        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月03日(土)_05時45分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月24日(土)_05時44分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月2日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl01ond6d.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        クワンのことで悩むウィンは謝罪をしたいが受け入れてもらえない。一方クワンは新しい家族を受け入れようとしていた。また、シースケープのメンバーでもあるターは新曲が完成。その曲を聞いたトーイは様々な思いを寄せることに。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epl01ond6d"/>
   </entry>
 </feed>
