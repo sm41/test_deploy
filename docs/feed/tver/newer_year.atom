@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-04T12:06:03+09:00</updated>
+  <updated>2026-01-04T14:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7bfo18m3</id>
+    <title>この恋あたためますか_[第８話 やっぱりあなたと一緒にいたいんです!!]</title>
+    <updated>2026-01-04T14:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr41vsgk4j.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ この恋あたためますか
+        &lt;a href="https://tver.jp/series/sr41vsgk4j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月04日(日)_14時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月10日(土)_13時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7bfo18m3.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：11月30日(日)14:00～1月16日(金)21:59&lt;br&gt;#3：12月23日(火)14:00～1月16日(金)21:59&lt;br&gt;#4：12月23日(火)14:00～12月29日(月)13:59&lt;br&gt;#5：12月26日(金)14:00～1月1日(木)13:59&lt;br&gt;#6：12月29日(月)14:00～1月4日(日)13:59&lt;br&gt;#7：1月1日(木)14:00～1月7日(水)13:59&lt;br&gt;#8：1月4日(日)14:00～1月10日(土)13:59&lt;br&gt;#9：1月7日(水)14:00～1月13日(火)13:59&lt;br&gt;#10：1月10日(土)14:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;付き合うことになった樹木（森七菜）と新谷（仲野太賀）。樹木は照れつつも幸せな時間を過ごしていた。ある日、樹木と新谷はデート中に、浅羽（中村倫也）と里保（石橋静河）に偶然出くわす。浅羽のことを気にしつつ、なんとか会話をやり過ごす樹木。そんな中、樹木はスイーツの開発担当から外されてしまう。落ち込んだ気持ちを抱えたまま、ココエブリィ上目黒店を訪れると…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep7bfo18m3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwk56qyef</id>
     <title>天皇の料理番_[episode９ 皇居編～ザリガニと御即位の御大礼]</title>
