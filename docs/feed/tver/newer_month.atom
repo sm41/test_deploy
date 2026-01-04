@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-05T00:05:03+09:00</updated>
+  <updated>2026-01-05T02:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfvmn3ddd</id>
+    <title>50分間の恋人_[放送直前！30分間のがやがや鑑賞会]</title>
+    <updated>2026-01-05T00:25:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 50分間の恋人
+        &lt;a href="https://tver.jp/series/srpbldzfq7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月05日(月)_00時25分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月4日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfvmn3ddd.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        2026年1月18日放送スタート！ぜひお気に入り登録をしてお待ちください★&lt;br&gt;&lt;br&gt;いよいよ放送直前！&lt;br&gt;W主演の伊野尾慧・松本穂香はじめ黒田光輝、おいでやす小田らドラマ出演者たちが完成したての第1話を初めて鑑賞。&lt;br&gt;ドラマ好きな土佐兄弟も加わって、ズレきゅんラブコメならではの演出に突っ込みまくる…！？&lt;br&gt;「50分間の恋人」の楽しみ方が分かる30分間です！&lt;br&gt;&lt;br&gt;AIだけが親友の変わり者イケメン×仕事に夢中な堅実女子&lt;br&gt;チグハグな二人のズレきゅんラブコメディ&lt;br&gt;お弁当をきっかけに心通わせるも、実はライバル会社の社員だった！&lt;br&gt;バレたらクビ？！突如二人は秘密の関係に・・・
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epfvmn3ddd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epw0xfxsf2</id>
     <title>うちの弁護士はまたしても手がかかる_[蔵前2年ぶりの完全復活！敵は芸能界と週刊誌！]</title>
