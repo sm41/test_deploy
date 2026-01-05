@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-06T00:05:32+09:00</updated>
+  <updated>2026-01-06T02:06:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epduecpj1i</id>
+    <title>悪いのはあなたです_[最終回　悪いのは誰？]</title>
+    <updated>2026-01-06T01:59:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgrkbx4un.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 悪いのはあなたです
+        &lt;a href="https://tver.jp/series/srgrkbx4un" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_01時59分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月13日(火)_01時28分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epduecpj1i.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        莉子（工藤美桜）とタクマ（山中柔太朗）は気持ちを確かめ合い、共に将来を歩むことを約束する。その直後、浮気相手であるツトム（小川史記）の妻・芳子（高田里穂）が訪ねて来る。芳子が莉子を連れて向かった先には…血を流したツトムの姿が。衝撃を受ける莉子と憔悴するツトムに、芳子は“ツトムを殺して莉子を犯人にする”ストーリーを語り出す。こんな状況でも自分のことしか考えていない芳子とツトムに、莉子の怒りは頂点に。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epduecpj1i"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eposv0xfi2</id>
     <title>海老だって鯛が釣りたい_[第６話「幼なじみ男子といきなり同居！」]</title>
