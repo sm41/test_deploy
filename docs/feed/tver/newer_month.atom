@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-05T14:06:31+09:00</updated>
+  <updated>2026-01-05T16:06:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epfvqa63r9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj1frjsxc</id>
-    <title>スケバン刑事_[第14話「血ぬられた鍵盤」]</title>
-    <updated>2026-01-04T16:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ スケバン刑事
-        &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月04日(日)_16時30分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月11日(日)_16時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月4日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj1frjsxc.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        川崎は亜悠巳の妹、久巳の配下であった。川崎は、コンクールで久巳を優勝させるため、実力のある純子をナイフで刺す。それを知ったサキは、久巳と川崎を襲撃し、久巳の手首を骨折させたのだった。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epj1frjsxc"/>
   </entry>
 </feed>
