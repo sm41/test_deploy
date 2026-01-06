@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-06T16:06:00+09:00</updated>
+  <updated>2026-01-06T18:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -408,45 +408,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epzaso8nzk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephmlsiwnm</id>
-    <title>孤独のグルメ Season4_[第5話 愛知県知多郡日間賀島のしらすの天ぷらとたこめし]</title>
-    <updated>2026-01-05T18:25:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 孤独のグルメ Season4
-        &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月05日(月)_18時25分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephmlsiwnm.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        愛知県師崎港にやって来た五郎（松重豊）。そこで山下（徳井優）と落ち合うはずが、山下は日間賀島に出かけているという。島まで船ですぐだと聞いて、五郎はフェリーに乗り、日間賀島に渡る。タクシーで追おうとするが、その島にはタクシーが走っていなかった。とはいえなんとか約束の品を渡そうと山下の後を追ううちに、タコなど海の幸の魅力に負け……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ephmlsiwnm"/>
   </entry>
 </feed>
