@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-06T18:06:00+09:00</updated>
+  <updated>2026-01-06T20:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -368,45 +368,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epfrnu5wl3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzaso8nzk</id>
-    <title>夫に間違いありません_[#1 死んだはずの夫の帰還。狂い始める幸せの歯車]</title>
-    <updated>2026-01-05T23:09:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srny5zdcay.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 夫に間違いありません
-        &lt;a href="https://tver.jp/series/srny5zdcay" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月05日(月)_23時09分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_22時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzaso8nzk.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        朝比聖子（松下奈緒）の夫・一樹（安田顕）が、ある日突然姿を消した。&lt;br&gt;一カ月後、川から水死体が発見され、所持品には一樹の免許証が。遺体は顔が判別できる状態ではなかったものの、聖子はある身体的な特徴から一樹だと確信。「夫に間違いありません」と警察に告げ、その場で泣き崩れる。&lt;br&gt;一年後、聖子は2人の子育てと義母の面倒を見ながら、先代から続く『あさひおでん』を守り続けていた。そんなある日、店の方から何やら物音が…様子を見に行くと、そこに立っていたのは一樹だった。&lt;br&gt;一樹は家族を置いて出て行ったことを涙ながらに謝罪。そんな夫に呆れながらも、家族みんなで暮らせる喜びを噛みしめる聖子だったが、次の瞬間、自分が遺体の誤認を犯したことに気づく。警察へ行こうと告げるが、保険金を受け取ったと知った一樹は…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epzaso8nzk"/>
   </entry>
 </feed>
