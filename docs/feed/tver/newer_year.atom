@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-06T20:05:57+09:00</updated>
+  <updated>2026-01-06T22:06:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2568,45 +2568,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep53u5hg91"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4rdnyfle</id>
-    <title>就活家族～きっと、うまくいく～_[第八話]</title>
-    <updated>2026-01-06T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkipt7rff.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 就活家族～きっと、うまくいく～
-        &lt;a href="https://tver.jp/series/srkipt7rff" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4rdnyfle.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        11/20(木)～ #1-#3&#13;&lt;br&gt;12/11(木)～ #4-#6&#13;&lt;br&gt;1/06(火)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;日本鉄鋼金属がインドに新会社を設立するにあたり、その会社の社長就任を打診された富川洋輔（三浦友和）。一度は会社を辞めた自分に高待遇を用意してくれるという社長の的場（中丸新将）に感謝の気持ちを抱き、前向きに考えつつも、その場に川村優子（木村多江）が同席していたことを不審に思う。「これは私に出来る最後の償いです」と話す優子だったが…？
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep4rdnyfle"/>
   </entry>
 </feed>
