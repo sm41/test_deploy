@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-06T02:06:32+09:00</updated>
+  <updated>2026-01-06T10:47:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxj8zu2yd</id>
+    <title>三国志　秘密の皇帝_[第9話]</title>
+    <updated>2026-01-06T09:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 三国志　秘密の皇帝
+        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_09時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月13日(火)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxj8zu2yd.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        兄・劉協（りゅうきょう）の子を身ごもっていた董妃（とうひ）の死を知った劉平（りゅうへい）は、助けることができなかった責任を感じていた。自分が無能であるがゆえ犠牲が生まれ、弱すぎる自分が憎いと涙する劉平を伏寿（ふくじゅ）は慰める。ようやく癒やされた劉平だったが、それも束の間。実は伏寿や楊修（ようしゅう）たちが董承（とうしょう）を利用していたのだと気付き…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epxj8zu2yd"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epixhfq6zl</id>
+    <title>シカゴ･ファイア_[試練]</title>
+    <updated>2026-01-06T02:59:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ シカゴ･ファイア
+        &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_02時59分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_02時34分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epixhfq6zl.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        第8話「試練」(吹替)&lt;br&gt;列車の事故現場でピーター・ミルズは少女の遺体に直面し、ひどく動揺する。そしてその精神的ショックから立ち直れないミルズは、自分の消防士としての将来について疑問を持つ。ドーソンとシェイは、6歳の少女を虐待する母親から救うが、互いの言い分が対立した結果、母親は自殺未遂をする。一方セブライドは心臓発作の男の救助の際、さらにケガを悪化させる。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epixhfq6zl"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epduecpj1i</id>
     <title>悪いのはあなたです_[最終回　悪いのは誰？]</title>
@@ -328,45 +408,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epe3w2feat"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0chjxbu8</id>
-    <title>三国志　秘密の皇帝_[第8話]</title>
-    <updated>2026-01-05T09:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 三国志　秘密の皇帝
-        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月05日(月)_09時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月12日(月)_08時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0chjxbu8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        董承（とうしょう）たちが許都（きょと）で挙兵した。しかし先を読んで手を打っていた曹（そう）氏によってあっさり鎮圧され、董承は捕らえられてしまう。王子服（おうしふく）と司馬懿（しばい）は、皇帝の子を身ごもっている董妃（とうひ）を守ろうと、ひそかに連れ出し弘農（こうのう）王祠へ向かう。しかし、到着した頃には董妃は衰弱し、一刻を争う状態になっていた…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep0chjxbu8"/>
   </entry>
 </feed>
