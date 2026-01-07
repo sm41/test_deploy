@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-07T14:06:05+09:00</updated>
+  <updated>2026-01-07T16:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epuzkin3x1</id>
+    <title>未来のムスコ_[もうすぐはじまるよSP]</title>
+    <updated>2026-01-07T15:49:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 未来のムスコ
+        &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_15時49分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_21時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月7日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuzkin3x1.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        志田未来主演！恋も仕事も夢も行き詰まったアラサー女性のもとに現れたのは“未来のムスコ”。未来から来た息子が巻き起こす、時を超えたラブストーリーの魅力をお届け！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epuzkin3x1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnoiwn300</id>
+    <title>リブート_[豪華キャストSPトーク]</title>
+    <updated>2026-01-07T15:49:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ リブート
+        &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_15時49分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_20時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月7日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnoiwn300.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        嘘と真実が入り乱れ、怒涛のスピードで展開していく“エクストリームファミリーサスペンス”が開幕！主演の鈴木亮平ほか、戸田恵梨香、永瀬廉、藤澤涼架のSPトークも！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epnoiwn300"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8xj6kvnw</id>
+    <title>DREAM STAGE_[もうすぐはじまるよSP]</title>
+    <updated>2026-01-07T15:49:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ DREAM STAGE
+        &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_15時49分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_21時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月7日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8xj6kvnw.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        中村倫也主演！世代や国境を越え、大切な仲間たちとの熱い絆を描く「K-POP版“スポ根”ドラマ」。撮影の裏側やキャストインタビューでドラマの見どころを大公開！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep8xj6kvnw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0clrn1vo</id>
     <title>三国志　秘密の皇帝_[第10話]</title>
