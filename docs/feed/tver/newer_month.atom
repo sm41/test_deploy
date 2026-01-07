@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-07T02:05:57+09:00</updated>
+  <updated>2026-01-07T11:09:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0clrn1vo</id>
+    <title>三国志　秘密の皇帝_[第10話]</title>
+    <updated>2026-01-07T09:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 三国志　秘密の皇帝
+        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_09時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月14日(水)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月7日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0clrn1vo.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        董承（とうしょう）の件で自分は操り人形だと気付き、さらに多くの犠牲者が出たことに怒りが収まらない劉平（りゅうへい）。司馬懿（しばい）と共に許都（きょと）を去り温（おん）県に向かう。意気地なしに用はないと強気な伏寿（ふくじゅ）だったが、一人になると涙が溢れ出した。たまたま通りかかった曹丕（そうひ）は落ち込む伏寿を元気づけようと、剣舞を披露するが…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep0clrn1vo"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epggm0kkyk</id>
+    <title>未来のムスコ_[丸わかりSP]</title>
+    <updated>2026-01-07T03:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 未来のムスコ
+        &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_03時45分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_21時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epggm0kkyk.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「未来のムスコ」の見どころを徹底解説！主演の志田未来など豪華キャストによるスペシャルインタビューを公開！撮影現場への潜入＆初だしメイキング映像も！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epggm0kkyk"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx77a8ti2</id>
     <title>プロパガンダゲーム_[第7話「多数決の行方」《ドラマイズム》]</title>
@@ -328,125 +408,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep64m3nmii"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxj8zu2yd</id>
-    <title>三国志　秘密の皇帝_[第9話]</title>
-    <updated>2026-01-06T09:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 三国志　秘密の皇帝
-        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_09時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月13日(火)_08時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxj8zu2yd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        兄・劉協（りゅうきょう）の子を身ごもっていた董妃（とうひ）の死を知った劉平（りゅうへい）は、助けることができなかった責任を感じていた。自分が無能であるがゆえ犠牲が生まれ、弱すぎる自分が憎いと涙する劉平を伏寿（ふくじゅ）は慰める。ようやく癒やされた劉平だったが、それも束の間。実は伏寿や楊修（ようしゅう）たちが董承（とうしょう）を利用していたのだと気付き…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epxj8zu2yd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epixhfq6zl</id>
-    <title>シカゴ･ファイア_[試練]</title>
-    <updated>2026-01-06T02:59:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ シカゴ･ファイア
-        &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_02時59分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_02時34分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epixhfq6zl.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        第8話「試練」(吹替)&lt;br&gt;列車の事故現場でピーター・ミルズは少女の遺体に直面し、ひどく動揺する。そしてその精神的ショックから立ち直れないミルズは、自分の消防士としての将来について疑問を持つ。ドーソンとシェイは、6歳の少女を虐待する母親から救うが、互いの言い分が対立した結果、母親は自殺未遂をする。一方セブライドは心臓発作の男の救助の際、さらにケガを悪化させる。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epixhfq6zl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epduecpj1i</id>
-    <title>悪いのはあなたです_[最終回　悪いのは誰？]</title>
-    <updated>2026-01-06T01:59:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgrkbx4un.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 悪いのはあなたです
-        &lt;a href="https://tver.jp/series/srgrkbx4un" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_01時59分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月13日(火)_01時28分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月5日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epduecpj1i.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        莉子（工藤美桜）とタクマ（山中柔太朗）は気持ちを確かめ合い、共に将来を歩むことを約束する。その直後、浮気相手であるツトム（小川史記）の妻・芳子（高田里穂）が訪ねて来る。芳子が莉子を連れて向かった先には…血を流したツトムの姿が。衝撃を受ける莉子と憔悴するツトムに、芳子は“ツトムを殺して莉子を犯人にする”ストーリーを語り出す。こんな状況でも自分のことしか考えていない芳子とツトムに、莉子の怒りは頂点に。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epduecpj1i"/>
   </entry>
 </feed>
