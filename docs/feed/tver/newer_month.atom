@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-07T11:09:21+09:00</updated>
+  <updated>2026-01-07T12:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -368,45 +368,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep6x2w1uw8l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep64m3nmii</id>
-    <title>熱愛プリンス_[＃7《ドラマフィル》]</title>
-    <updated>2026-01-06T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf7idndd1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 熱愛プリンス
-        &lt;a href="https://tver.jp/series/srf7idndd1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月06日(火)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_11時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 4月17日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep64m3nmii.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        TerzettoとPRISMの合同合宿中にマスコミが押し寄せ、昴流（松井湊）が週刊誌にすっぱ抜かれたことが判明！しかも写真にはまつり（林芽亜里）が写っていた―！合宿は中止となり、「家から出るな」と注意されるメンバーたち。昴流のことで頭がいっぱいなまつりは梓（杢代和人）から「まつりが好きなのは昴流さんじゃないの？」と聞かれ、思わず固まってしまう…。&lt;br&gt;さらに慶（芳賀柊斗）と共に、練習をサボっている大和（増子敦貴）を説得するためクラブに行くことになったまつり。そこで、ナンパしてきた男性たちに絡まれてしまい…絶体絶命の危機に?!
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep64m3nmii"/>
   </entry>
 </feed>
