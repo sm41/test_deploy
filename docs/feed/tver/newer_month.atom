@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-08T11:09:47+09:00</updated>
+  <updated>2026-01-08T12:06:29+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ephbq59bec</id>
+    <title>御上先生_[Episode 9 -joker-]</title>
+    <updated>2026-01-08T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 御上先生
+        &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月08日(木)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月15日(木)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 3月16日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephbq59bec.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;「助けて」という富永蒼（蒔田彩珠）の元に向かった御上（松坂桃李）と次元（窪塚愛流）。彼らが目にしたのは、聡明で明るい彼女とは程遠い、苦しみを抱えた姿だった…。&lt;br&gt;さらに、冴島（常盤貴子）から語られる隣徳学院で起きた出来事や、戸倉樹（高橋恭平）が背負っていた苦悩も明かされ、つまびらかになり始める隣徳の不正。&lt;br&gt;そして遂に、３年２組の中で不正入学をした生徒の名前が判明し、ヤマトタケルが姿を現す。その人物は、本当に味方なのか、それとも敵なのか――。&lt;br&gt;物語は最大のクライマックスへ――。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ephbq59bec"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8ttdgc4s</id>
+    <title>まどか26歳、研修医やってます！_[ep.７ 研修医２年目突入！恋も仕事も距離感が大事――?!]</title>
+    <updated>2026-01-08T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wopca43.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ まどか26歳、研修医やってます！
+        &lt;a href="https://tver.jp/series/sr2wopca43" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月08日(木)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8ttdgc4s.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：木村多江 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月27日(土)12:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)12:00～1月4日(日)11:59&lt;br&gt;#5：12月30日(火)12:00～1月7日(水)11:59&lt;br&gt;#6：1月5日(月)12:00～1月13日(火)11:59&lt;br&gt;#7：1月8日(木)12:00～1月16日(金)11:59&lt;br&gt;#8：1月14日(水)12:00～1月22日(木)11:59&lt;br&gt;#9：1月17日(土)12:00～1月25日(日)11:59&lt;br&gt;#10：1月23日(金)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;まどか（芳根京子）の研修医生活も２年目に突入。新たな１年目研修医が入り、そろそろ専攻について真剣に考えなくてはいけない時期なのにまどかは未だノープランだ。そんなまどかに五十嵐（大西流星）は「精神科に向いている」とエールを送る。そう、次なる研修先は、精神科。シェイクスピアに心酔する野口優（板倉俊之）が指導医だ。野口からは「距離感が大事」と説かれ、まどかは研修に臨むが、今まで回ってきた科と違い、「心の治療」を目的とする精神科に戸惑う。そんなある日、救命救急からリストカットをした患者・坂本裕乃（新井美羽）を精神科で引き継ぐことになった。やがて裕乃は真摯に話を聞いてくれるまどかに心を開き２人は連絡先を交換するのだが、あることが起こり野口から説かれた「距離感が大事」の意味を知ることに…。さらには、以前救急に運び込まれたベイスターズファンの吉岡稔（金田明夫）が再入院しており、その症状を聞いたまどかは驚愕する。&lt;br&gt;一方、菅野（鈴木伸之）は、外科の人手不足の中、残業続きで疲れ切っていた。まどかが心配して声をかけるも空返事で、責任感が強い菅野が仕事を抱え込みすぎて、抑うつ状態かもしれないと疑う。そんな菅野にまどかはある提案をする。互いの悩みを話し合った２人の距離感にも変化があり…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep8ttdgc4s"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyxll4t0o</id>
     <title>三国志　秘密の皇帝_[第11話]</title>
@@ -608,245 +688,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep8xj6kvnw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0clrn1vo</id>
-    <title>三国志　秘密の皇帝_[第10話]</title>
-    <updated>2026-01-07T09:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 三国志　秘密の皇帝
-        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_09時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月14日(水)_08時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月7日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0clrn1vo.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        董承（とうしょう）の件で自分は操り人形だと気付き、さらに多くの犠牲者が出たことに怒りが収まらない劉平（りゅうへい）。司馬懿（しばい）と共に許都（きょと）を去り温（おん）県に向かう。意気地なしに用はないと強気な伏寿（ふくじゅ）だったが、一人になると涙が溢れ出した。たまたま通りかかった曹丕（そうひ）は落ち込む伏寿を元気づけようと、剣舞を披露するが…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep0clrn1vo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epggm0kkyk</id>
-    <title>未来のムスコ_[丸わかりSP]</title>
-    <updated>2026-01-07T03:45:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 未来のムスコ
-        &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_03時45分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_21時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epggm0kkyk.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        「未来のムスコ」の見どころを徹底解説！主演の志田未来など豪華キャストによるスペシャルインタビューを公開！撮影現場への潜入＆初だしメイキング映像も！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epggm0kkyk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epx77a8ti2</id>
-    <title>プロパガンダゲーム_[第7話「多数決の行方」《ドラマイズム》]</title>
-    <updated>2026-01-07T01:58:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli2tv2k8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ プロパガンダゲーム
-        &lt;a href="https://tver.jp/series/srli2tv2k8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_01時58分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月14日(水)_01時57分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx77a8ti2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        キャンバス島事件の映像を巡り、今井（山下幸輝）らレジスタンスチームは、イーゼル国の兵士によって女性が撃ち殺されたという後藤（松本怜生）ら政府チームの主張に疑問を投げかける。レジスタンスチーム広報官の樫本（工藤美桜）は映像を丁寧に検証し、その中にある違和感を指摘すると、広場は混乱する。&lt;br&gt;一方、政府チームは香坂（莉子）の等身大の言葉を前面に押し出し、不安を抱える市民に寄り添う広報で支持の回復を目指す。「平和のための戦争」を静かに語る香坂の言葉は、広場に少しずつ影響を与えていく。&lt;br&gt;互いに最後の広報を終え、ついに迎える国民投票。&lt;br&gt;戦争か、平和か。&lt;br&gt;揺れ続けた世論の末に、市民が選んだ答えは――。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epx77a8ti2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplcmiby4p</id>
-    <title>終のひと_[第１～４話 秘蔵映像大放出！スタート直前SPガイド]</title>
-    <updated>2026-01-07T01:28:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhukk4g19.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 終のひと
-        &lt;a href="https://tver.jp/series/srhukk4g19" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_01時28分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月25日(水)_00時57分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplcmiby4p.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        清水俊の同名漫画『終のひと』（双葉社アクションコミックス刊）を柿澤勇人主演でドラマ化！余命半年の破天荒な葬儀屋・嗣江宗助（柿澤勇人）と、仕事に忙殺され自分を見失ったサラリーマン・梵孝太郎（西山潤）が、梵の母の急逝をきっかけに出会い物語は始まる。嗣江と梵という正反対のバディが様々な死と向き合う過程で、現代社会の家族、孤独、老い、喪失、そして再生を描く痛快ヒューマン・エンターテインメント！&lt;br&gt;本番組では、主演の柿澤をはじめ、西山潤、筒井真理子の３人が勤める「嗣江葬儀店」での本編メイキングはもちろん、キャスト・スタッフの熱い想いが伝わる撮影の裏側や、キャストの素顔も垣間見えるSPインタビューもお届け。そして第１話～第４話の本編映像、ゲストインタビューも！初回放送に先駆け、これさえ観れば大丈夫な「SPガイド」をお届けします！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eplcmiby4p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjwpglyqe</id>
-    <title>略奪奪婚_[第1話]</title>
-    <updated>2026-01-07T01:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9o4l4jzm.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 略奪奪婚
-        &lt;a href="https://tver.jp/series/sr9o4l4jzm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_01時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月25日(水)_00時29分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjwpglyqe.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        「離婚してほしいんだ、千春」長年の恋人生活を経て結婚した千春（内田理央）と司（伊藤健太郎）は、子供には恵まれずとも幸せな生活を送っていた。そんなある日千春の前に、突然司の子供を身ごもった不倫相手のえみる（中村ゆりか）が現れる。司と別れ自暴自棄な生活を送る千春。「欲しかったものは、あの時全て奪われた」登場人物全員ヒール。どん底に落ちた男と女が見せるノンストップサスペンスが今幕を開ける。　［期間限定無料配信］　毎週火曜深夜24時30分からテレビ東京にて好評放送中！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epjwpglyqe"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqsti6ebg</id>
-    <title>黒崎さんの一途な愛がとまらない_[第1話　大人気原作！史上最高のピュアラブストーリーがついにスタート！！]</title>
-    <updated>2026-01-07T00:54:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrejzzg0i.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 黒崎さんの一途な愛がとまらない
-        &lt;a href="https://tver.jp/series/srrejzzg0i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月07日(水)_00時54分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_04月22日(水)_00時24分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqsti6ebg.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        おにぎり屋の女子高生×恋に不器用な天才小説家&lt;br&gt;恋愛経験ゼロのピュアなふたりが紡ぐポップで甘くて、思わず笑顔になる新感覚ラブコメディー！！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epqsti6ebg"/>
   </entry>
 </feed>
