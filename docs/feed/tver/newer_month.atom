@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-08T02:05:06+09:00</updated>
+  <updated>2026-01-08T11:09:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyxll4t0o</id>
+    <title>三国志　秘密の皇帝_[第11話]</title>
+    <updated>2026-01-08T09:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 三国志　秘密の皇帝
+        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月08日(木)_09時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月15日(木)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyxll4t0o.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        春の祭祀に出かけた劉平（りゅうへい）たち。そこで弟・王子服（おうしふく）の敵を討ちに来たという王越（おうえつ）に襲われ、曹丕（そうひ）が深手を負う。劉平（りゅうへい）は、とっさに曹丕の手当てをするが、周囲の臣下たちは医術を心得ている劉平に対し違和感を覚える。一方、王越は、王子服が唐瑛（とうえい）に討たれたと聞き、すぐさま弘農（こうのう）王祀へと向かう。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epyxll4t0o"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep52l2ag72</id>
+    <title>L&amp;P_[第14話　座るんだ]</title>
+    <updated>2026-01-08T08:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ L&amp;P
+        &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月08日(木)_08時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月7日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep52l2ag72.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        体調不良の李峋(リー・シュン)を残して帰省した朱韻(ジュー・ユン)。幼馴染の修竹(シウジュ)が家を訪ねてくるが、心は李峋のことばかり。大晦日、壊れたライターを直そうと彼に連絡すると、電話口から柳思思(リウ・スースー)の声が聞こえてくる。思いがけないライバルの存在に、朱韻の胸はざわめき始める…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep52l2ag72"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbkstj5v4</id>
     <title>リブート_[SPECIAL NAVIGATION]</title>
