@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-09T20:06:53+09:00</updated>
+  <updated>2026-01-09T22:05:54+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2g26d9kh</id>
+    <title>副会長の主なお仕事_[生徒会はいつも二人]</title>
+    <updated>2026-01-09T22:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 副会長の主なお仕事
+        &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_22時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_04月10日(金)_22時00分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月9日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2g26d9kh.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        9月12日。四ヶ丘女子高等学校の生徒会室にいるのは、会長・灰屋銀(大渕野々花)と副会長・栗下涙(小山内花凜)の二人だけ。仕事を完璧にこなす“美貌の才媛”栗下だが、灰屋の前ではなぜか奇行を繰り返す偏愛キャラに豹変する。常識人の会長×偏愛副会長の凸凹コンビが織りなす、生徒会偏愛コメディがここから始まる。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep2g26d9kh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7x9ys0v2</id>
     <title>三国志　秘密の皇帝_[第12話]</title>
