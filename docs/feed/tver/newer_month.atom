@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-09T22:05:54+09:00</updated>
+  <updated>2026-01-10T00:05:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epgc8ngt4l</id>
+    <title>ストロボ・エッジ　Season２_[〈第１話〉]</title>
+    <updated>2026-01-09T23:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryb4do179.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ストロボ・エッジ　Season２
+        &lt;a href="https://tver.jp/series/sryb4do179" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_23時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月9日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : WOWOW&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgc8ngt4l.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【WOWOWオンデマンドでは、Season１〈全６話〉・Season２〈全６話〉のシリーズ全話を一挙配信中！】&lt;br&gt;&lt;br&gt;季節は春になり、高校２年になった木下仁菜子（福本莉子）と一ノ瀬蓮（高橋恭平）、安堂拓海（山下幸輝）は同じクラスになる。“好きな人がいる教室”に胸が高鳴る仁菜子。そんな中、蓮と安堂の中学時代の後輩・杉本真央（吉柳咲良）が入学してくる。仁菜子と安堂の前に現われた真央に対し、憤怒する安堂。２年前、蓮と安堂、そして真央の間で起きた“ある事件”が明らかになり、仁菜子と蓮、安堂の関係は大きく揺れ動いていく。&lt;br&gt;&lt;br&gt;&lt;br&gt;＜スタッフ＞&lt;br&gt;■原作：咲坂伊緒 「ストロボ・エッジ」（集英社マーガレットコミックス刊）&lt;br&gt;■脚本：桑村さや香&lt;br&gt;■監督：木村真人 ／ 松田祐輔&lt;br&gt;■音楽：横山克&lt;br&gt;■プロデューサー：小林祐介 ／ 橋本芙美 ／ 関本純一&lt;br&gt;■制作協力：共同テレビジョン&lt;br&gt;■製作著作：ＷＯＷＯＷ
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epgc8ngt4l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2g26d9kh</id>
     <title>副会長の主なお仕事_[生徒会はいつも二人]</title>
@@ -48,285 +88,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep2g26d9kh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep7x9ys0v2</id>
-    <title>三国志　秘密の皇帝_[第12話]</title>
-    <updated>2026-01-09T09:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 三国志　秘密の皇帝
-        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_09時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_08時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月9日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7x9ys0v2.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        劉平（りゅうへい）の元を訪れた卞（べん）夫人は、息子の曹丕（そうひ）を助けてくれたことに感謝を述べる。しかし一方で曹丕を守ることもできず、石ころ１つにやっきになっている満寵（まんちょう）を厳罰に処してほしいと劉平に懇願する。その頃、郭嘉（かくか）が戦地の官渡（かんと）から許都（きょと）へと戻ってきた。知らせを受けた劉平はすぐに郭嘉を呼びつけるのだが…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep7x9ys0v2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp00zrcud</id>
-    <title>本命じゃなきゃよかったのに_[Episode1「“共犯者”との再会」《ドラマフィル》]</title>
-    <updated>2026-01-09T02:29:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr67bgqs0w.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 本命じゃなきゃよかったのに
-        &lt;a href="https://tver.jp/series/sr67bgqs0w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_02時29分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_01時58分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp00zrcud.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        旅行代理店の経理部で働く大沼実歩乃（樋口日奈）。&lt;br&gt;30歳の誕生日を迎えた日、彼女の職場に中途採用でやってきた嬉野栄成（池田匡志）。&lt;br&gt;彼は10年前に互いに恋人がいながらカラダの関係を持ってしまった、“共犯関係”で結ばれた相手だった。&lt;br&gt;突然の再会に激しく動揺し、資料を落とす実歩乃。&lt;br&gt;そんな実歩乃の資料を拾いながら「みぽりん」とかつての呼び名で声をかける栄成。&lt;br&gt;後輩の久坂誠（草川直弥）と吉木友里（水戸由奈）はその呼び名に驚くも、「大学の同級生で」となんとかその場をごまかす実歩乃。&lt;br&gt;その夜、栄成は「なんか俺らって運命感じない？」と屈託なく笑い、夜景の見えるレストランで実歩乃の誕生日をサプライズケーキで祝う。&lt;br&gt;この男と過ごした日々、一緒に食べたケーキ、触れた感触、いろいろな思い出が蘇る。&lt;br&gt;そして２人はあの頃と同じように視線を交わし…
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epp00zrcud"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epem0p3ofe</id>
-    <title>私のIDはカンナム美人_[第14話]</title>
-    <updated>2026-01-09T02:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruw17n49p.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 私のIDはカンナム美人
-        &lt;a href="https://tver.jp/series/sruw17n49p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_02時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epem0p3ofe.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ギョンソクは、親の離婚の本当の原因を知って家を出たギョンヒをヘソンの家へ連れていく。ヘソンに対し罪悪感を感じていたギョンヒをヘソンは優しく抱きしめ、2人は一緒に暮らすことになる。一方、スアがギョンソクを好きだと知ってしまったミレは、自分に自信が持てないあまりギョンソクを避けてしまう。ミレはギョンソクに“俺が好きか”と聞かれるが、自分を卑下するミレは本心を伝えることができず…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epem0p3ofe"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep10169v5l</id>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第4話「キスのあと、過去と喪失」《ドラマ特区》]</title>
-    <updated>2026-01-09T01:59:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-        &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_01時59分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月16日(金)_01時28分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep10169v5l.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        花火の帰り道、かける（藤原大祐）にキスをした小春（永瀬莉子）。しかし幸せなひとときの裏で、小春の体には異変が起き始めていた……。そんな中、かけるは亡き親友・ハルトの三回忌のため、優子（河村花）と共に地元へ戻る。ハルトの母親もまた、大切な人を失い、前へ進めずにいた。そんなハルトの母親に、小春と出会い変わり始めたかけるがかけた言葉とは――。過去の傷と向き合い、優子にも背中を押されたかけるは、小春のために意を決して、地元の景色とその時の自分の言葉を収めた動画を送る。しかし、その後小春との連絡が突然途絶え、小春と会えなくなってしまう……。その上、想像もしなかった残酷なことがかけるに訪れる――。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep10169v5l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjo7kx81d</id>
-    <title>顔のない患者-救うか、裁くか-_[ep.01 誘拐された妻を救うため…外科医は殺人できるか？]</title>
-    <updated>2026-01-09T01:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcjwyr2sj.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 顔のない患者-救うか、裁くか-
-        &lt;a href="https://tver.jp/series/srcjwyr2sj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_01時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_00時15分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjo7kx81d.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        都築亮（長谷川慎）は長野県の総合病院に勤務する外科医。その確かな腕で若きエースドクターとの呼び声も高く、病院の跡取り息子でクールな同期・夏井冬馬（井上想良）とたびたび衝突しながらも、持ち前の熱意と優しさで患者ファーストの治療を心がけている。ただ、都築は“選ぶこと”を極端に避ける節があり、事あるごとに夏井にダメ出しをされている。&lt;br&gt;世間では、3年前に起きた爆破事件の犯人と思われる朝比奈伊織（高橋侃）が、謎の人物“カオナシ”に犯行の自白を強要され、リンチされる動画が出回る。&lt;br&gt;クリスマスイブの夜、突然都築宛てにメッセージが届く。『職員駐車場にある赤い車のトランクの中を見ろ』―不審に思いながらも指示された場所へ向かうと…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epjo7kx81d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep13qrj6hd</id>
-    <title>人は見た目じゃないと思ってた。_[第1話 ダサい男とモデルの恋。]</title>
-    <updated>2026-01-09T01:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmfaydfxy.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 人は見た目じゃないと思ってた。
-        &lt;a href="https://tver.jp/series/srmfaydfxy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_01時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_00時30分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep13qrj6hd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        野球一筋で生きてきた石黒大和（菅生新樹）。イケメンでも、オシャレでもないが、野球部のアイドル・春奈（朝日奈まお）と付き合えた大和は「人は中身だ」と信じてきた。4大出版社の一つである友英社に就職し、スポーツ誌の記者になろうと意気込むが、入社早々スポーツ誌が廃刊に…。配属されたのは、女性向けファッション雑誌の編集部だった。外見＝見た目を重視する上司兼メンターの凛子（剛力彩芽）たちに大和は悶々として…。　［期間限定無料配信］　毎週木曜深夜24時30分からテレビ東京にて好評放送中！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep13qrj6hd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1njfuwix</id>
-    <title>身代金は誘拐です_[＃１ 誘拐された家族が誘拐犯になる 考察ミステリー開幕]</title>
-    <updated>2026-01-09T00:54:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9v4qbuhw.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 身代金は誘拐です
-        &lt;a href="https://tver.jp/series/sr9v4qbuhw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_00時54分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月26日(木)_23時58分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月8日(木)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1njfuwix.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        元刑事の鷲尾武尊（勝地涼）の娘・詩音（泉谷星奈）が誕生日に姿を消してしまう。妻の美羽（瀧本美織）が警察へ通報することを提案したそのとき、一本の電話が鳴る。&lt;br&gt;詩音を誘拐したという犯人は、「娘を返してほしければ、４８時間以内に“別の子ども”を誘拐しろ」と要求してきて…！&lt;br&gt;娘を誘拐され、追い詰められた夫婦が下した決断は――自らも“誘拐犯”となることだった！&lt;br&gt;真犯人の正体は！？その目的とは――？
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep1njfuwix"/>
   </entry>
 </feed>
