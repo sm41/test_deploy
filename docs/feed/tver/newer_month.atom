@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-10T22:06:42+09:00</updated>
+  <updated>2026-01-11T00:06:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdfxi8jd2</id>
+    <title>ぜんぶ、あなたのためだから_[第1話 開始5分ヒロイン脱落]</title>
+    <updated>2026-01-10T23:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
+        &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月10日(土)_23時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月10日(土)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdfxi8jd2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        神聖で朗らかな空気漂う結婚式場―。祝福の拍手の中、永遠の愛を誓う新郎の林田和臣（藤井流星）と新婦の沙也香（井桁弘恵）。沙也香の友人である尾崎藍里（武田玲奈）と橋本智恵（大原優乃）、和臣の友人・杉浦誠（草川拓弥）と木村直人（古屋呂敏）、森あきら（鈴木愛理）、そして沙也香の母・香（松下由樹）と参列者は少人数ながらも、挙式と披露宴は温かく和やかな雰囲気で進む中、カメラマンとして参加していた桜庭蒼玉（七五三掛龍也）は 、偽善に満ちた予定調和な式の進行に飽き飽きとしていた。&#13;&lt;br&gt;そんな中、披露宴でバイオリンを披露していた沙也香を突如悲劇が襲う―！痛みで歪んだ表情、沙也香の手から落下するバイオリン―そして次の瞬間、沙也香は血を吐き、倒れてしまう！&#13;&lt;br&gt;沙也香のもとに駆け寄る和臣、沙也香の名前を呼び続ける香、そして会場はただただ騒然と…。&#13;&lt;br&gt;和臣と沙也香の新居“になるはずだった”マンションで憔悴し、慌てふためく和臣に対し、香は落ち着いて考えるよう諭す。しかし直後、訪ねてきた桜庭から「沙也香に毒が盛られていたかもしれない」と聞いた和臣は、愕然とする…！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epdfxi8jd2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epywlks7oa</id>
     <title>パンダより恋が苦手な私たち_[第1話 失恋にはペンギンが何羽必要ですか？]</title>
