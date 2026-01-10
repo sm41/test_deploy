@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-10T20:06:41+09:00</updated>
+  <updated>2026-01-10T22:06:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epywlks7oa</id>
+    <title>パンダより恋が苦手な私たち_[第1話 失恋にはペンギンが何羽必要ですか？]</title>
+    <updated>2026-01-10T21:54:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+        &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月10日(土)_21時54分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_20時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月10日(土)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epywlks7oa.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        仕事に恋に人間関係…解決したいなら“野生”に学べ!動物の求愛行動から幸せに生きるヒントを学ぶ新感覚アカデミック・ラブコメディ!仕事も恋も中途半端な編集者・柴田一葉(上白石萌歌)は、元カリスマモデル・灰沢アリア(シシド・カフカ)のゴーストライターとして恋愛相談コラムを書く羽目に!そんな中、恋愛スペシャリストと呼ばれる准教授・椎堂司(生田斗真)に助けを求めるが、司は動物の求愛行動が専門の超変わり者で…
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epywlks7oa"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyeq2im7t</id>
     <title>教えてください、藤縞さん！_[#1 教えてください、藤縞さん！]</title>
