@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-11T16:05:33+09:00</updated>
+  <updated>2026-01-11T18:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epltjpis9e</id>
+    <title>死役所_[第8話]</title>
+    <updated>2026-01-11T17:00:01+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr80l4el7a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 死役所
+        &lt;a href="https://tver.jp/series/sr80l4el7a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月11日(日)_17時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epltjpis9e.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：1/1（木）17:00～&#13;&lt;br&gt;#3,#4：1/4（日）17:00～&#13;&lt;br&gt;#5,#6：1/8（木）17:00～&#13;&lt;br&gt;#7,#8：1/11（日）17:00～&#13;&lt;br&gt;#9,#10：1/14（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;イシ間（でんでん）がシ村（松岡昌宏）から受け取った書類には、「任期満了に伴い、49日以内に成仏するものとする」と書かれていた。突然のことに動揺する中、他殺課にやってきたのは、絵本を抱えた少女・小野田凛（佐々木みゆ）。凛は、シ村に「いつもお母さんのことを怒らせていたから、凛は天国には行けないかも」と言うが、保育士・黒川あかね（吉田志織）に憧れていた生前の凛は、園児に読み聞かせをする心優しい子だった……。　［期間限定無料配信］　松本まりか 出演！「元科捜研の主婦」テレビ東京系列にて1月16日(金)スタート！毎週金曜夜9時より放送！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epltjpis9e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epp36axgd9</id>
+    <title>死役所_[第7話]</title>
+    <updated>2026-01-11T17:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr80l4el7a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 死役所
+        &lt;a href="https://tver.jp/series/sr80l4el7a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月11日(日)_17時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp36axgd9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：1/1（木）17:00～&#13;&lt;br&gt;#3,#4：1/4（日）17:00～&#13;&lt;br&gt;#5,#6：1/8（木）17:00～&#13;&lt;br&gt;#7,#8：1/11（日）17:00～&#13;&lt;br&gt;#9,#10：1/14（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;シ村（松岡昌宏）が高齢の女性の案内を終えると、他殺課・イシ間（でんでん）が中学生の女の子の受付をしながら、一緒に泣いているところを発見する。イシ間は、泣き叫ぶ女の子の姿に、思わず姪っ子のミチ（田鍋梨々花）の姿を重ねていたのだった。イシ間は、シ村に「俺が殺した奴らもここに来たんだよな」と尋ねる。　［期間限定無料配信］　松本まりか 出演！「元科捜研の主婦」テレビ東京系列にて1月16日(金)スタート！毎週金曜夜9時より放送！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epp36axgd9"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvvjezoci</id>
     <title>逃亡者 RUNAWAY_[＃11 真犯人は誰]</title>
@@ -2608,45 +2688,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep1uljpzxa"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvywhbd76</id>
-    <title>3年B組金八先生(第6シリーズ)_[第３回 ガン告知の時…]</title>
-    <updated>2026-01-09T20:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-        &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvywhbd76.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;３年B組の信太宏文（辻本祐樹）の遅刻が続いた。金八（武田鉄矢）は単なる朝寝坊だと思い叱咤するが、実は別の原因があった。小さな町工場を経営している信太の両親（松澤一之・金久美子）は、不景気で金策に走る毎日だった。そのせいで夫婦ゲンカが絶えず、信太はそのとばっちりを受けていたのだ。一方、入院中で病院から一歩も出ることのできない幸作（佐野泰臣）のストレスは限度に達していた。父親の金八だけでなく、同級生の安井ちはる（岡あゆみ）にも当たり散らすのを見かねた金八は、幸作に…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epvywhbd76"/>
   </entry>
 </feed>
