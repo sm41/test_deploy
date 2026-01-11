@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-11T18:05:33+09:00</updated>
+  <updated>2026-01-11T20:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epnfmnuv39"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgc8ngt4l</id>
-    <title>ストロボ・エッジ　Season２_[〈第１話〉]</title>
-    <updated>2026-01-09T23:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryb4do179.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ストロボ・エッジ　Season２
-        &lt;a href="https://tver.jp/series/sryb4do179" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_23時30分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月9日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : WOWOW&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgc8ngt4l.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【WOWOWオンデマンドでは、Season１〈全６話〉・Season２〈全６話〉のシリーズ全話を一挙配信中！】&lt;br&gt;&lt;br&gt;季節は春になり、高校２年になった木下仁菜子（福本莉子）と一ノ瀬蓮（高橋恭平）、安堂拓海（山下幸輝）は同じクラスになる。“好きな人がいる教室”に胸が高鳴る仁菜子。そんな中、蓮と安堂の中学時代の後輩・杉本真央（吉柳咲良）が入学してくる。仁菜子と安堂の前に現われた真央に対し、憤怒する安堂。２年前、蓮と安堂、そして真央の間で起きた“ある事件”が明らかになり、仁菜子と蓮、安堂の関係は大きく揺れ動いていく。&lt;br&gt;&lt;br&gt;&lt;br&gt;＜スタッフ＞&lt;br&gt;■原作：咲坂伊緒 「ストロボ・エッジ」（集英社マーガレットコミックス刊）&lt;br&gt;■脚本：桑村さや香&lt;br&gt;■監督：木村真人 ／ 松田祐輔&lt;br&gt;■音楽：横山克&lt;br&gt;■プロデューサー：小林祐介 ／ 橋本芙美 ／ 関本純一&lt;br&gt;■制作協力：共同テレビジョン&lt;br&gt;■製作著作：ＷＯＷＯＷ
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epgc8ngt4l"/>
   </entry>
 </feed>
