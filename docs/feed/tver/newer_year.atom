@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-11T12:05:33+09:00</updated>
+  <updated>2026-01-11T14:06:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epgywb30pf</id>
+    <title>孤独の賭け～愛しき人よ～_[第10話 引き裂かれる愛]</title>
+    <updated>2026-01-11T14:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruo3vdwtx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 孤独の賭け～愛しき人よ～
+        &lt;a href="https://tver.jp/series/sruo3vdwtx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月11日(日)_14時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月17日(土)_13時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgywb30pf.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：伊藤英明 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月29日(土)14:00～1月18日(日)20:59&lt;br&gt;#4：12月24日(水)14:00～12月30日(火)13:59&lt;br&gt;#5：12月25日(木)14:00～12月31日(水)13:59&lt;br&gt;#6：12月30日(火)14:00～1月5日(月)13:59&lt;br&gt;#7：12月31日(水)14:00～1月6日(火)13:59&lt;br&gt;#8：1月5日(月)14:00～1月11日(日)13:59&lt;br&gt;#9：1月6日(火)14:00～1月12日(月)13:59&lt;br&gt;#10：1月11日(日)14:00～1月17日(土)13:59&lt;br&gt;#11：1月12日(月)14:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;信子が事故で亡くなった。通夜の夜、百子（長谷川京子）が自分のことばかり考えていたと悔む中、梯二郎（伊藤英明）が駆けつける。何かできることはないかと心配する梯二郎に、東野恒産のことで隆子（河本麻紀）の説得を頼みに来たのではないかと言う百子は、もう信用できないとも伝え、その場を立ち去ってしまう。&lt;br&gt;そこへ、梯二郎のもとに高木（中原裕也）から急を要する電話が入った。会社に戻ると、カジノ計画を揺るがすスキャンダル記事のゲラを持った寿都子（高岡早紀）と田鶴子（古手川祐子）が待ち構えていた。さらに、その記事の件で大垣（石田太郎）からも呼び出された梯二郎は、窮地に陥る。&lt;br&gt;一方、百子はフェリーネを続ける気になれず、どうしたらいいのかと二郎（堺雅人）に相談する。そんな百子を二郎はある場所へ連れ出し…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epgywb30pf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnpi64o8f</id>
     <title>天皇の料理番_[episode10 皇居編～関東大震災と家族の決意]</title>
@@ -2608,45 +2648,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epsw1bpylx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc8taiat1</id>
-    <title>凪のお暇_[第９話「凪、慎二、家族をリセットする」]</title>
-    <updated>2026-01-09T20:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtgk3xlds.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 凪のお暇
-        &lt;a href="https://tver.jp/series/srtgk3xlds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2026年_01月09日(金)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月14日(水)_19時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc8taiat1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月5日(金)20:00～1月16日(金)21:59&lt;br&gt;#4-5：12月27日(土)20:00～1月1日(木)19:59&lt;br&gt;#6-7：1月1日(木)20:00～1月6日(火)19:59&lt;br&gt;#8：1月6日(火)20:00～1月11日(日)19:59&lt;br&gt;#9：1月9日(金)20:00～1月14日(水)19:59&lt;br&gt;#10：1月11日(日)20:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;突然上京してきた凪（黒木華）の母・夕（片平なぎさ）に、凪の婚約者と言ってしまった慎二（高橋一生）。その流れであれよあれよという間に、大島家と我聞家の両家顔合わせをすることになってしまい、今さら本当のことを言えない状況に。後に引けなくなった２人は…。一方で、アパートの共有スペースで、龍子（市川実日子）、緑（三田佳子）、みすず（吉田羊）、うらら（白鳥玉季）から、凪と結婚したいがためにわざと嘘をついたのではないかと疑われる慎二。ゴン（中村倫也）は凪と慎二の姿を見て、今までに感じた事がない憤りを感じていた。お暇が終了し、ゴンの部屋を去ろうとする慎二に、ゴンはある言葉を投げかける。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epc8taiat1"/>
   </entry>
 </feed>
