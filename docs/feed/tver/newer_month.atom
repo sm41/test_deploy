@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-12T11:08:54+09:00</updated>
+  <updated>2026-01-12T12:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsfgp9i8c</id>
+    <title>流星花園II～花より男子～_[第5話　過去への疑惑]</title>
+    <updated>2026-01-12T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 流星花園II～花より男子～
+        &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月12日(月)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月12日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsfgp9i8c.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        新しい部屋に落ち着いた司とエルサは、記憶の手がかりを求め、楓の留守中に道明寺家へ潜入しF3の存在を知る。一方F3は、つくしの願いを受け街の大型ビジョンで司へのメッセージを流すが、反応はいたずらばかり。エルサは英徳の後輩を装い美作に接近、得た情報をもとに司とF3を再会させるが、その裏には別の思惑が隠されていた。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epsfgp9i8c"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0m2xj2b8</id>
+    <title>笑うハナに恋きたる_[第3話 一難去ってまた次の問題]</title>
+    <updated>2026-01-12T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 笑うハナに恋きたる
+        &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月12日(月)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月11日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0m2xj2b8.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        タムはエミ(ミシェル・チェン)と近くの公園でジョギングをし、自分と付き合おうと言われる。タムの実践レッスンで自信をつけたハナは、ついにジェイとのディナーに出かける。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep0m2xj2b8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5y534zzc</id>
     <title>三国志　秘密の皇帝_[第13話]</title>
