@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-13T00:13:31+09:00</updated>
+  <updated>2026-01-13T02:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz01u98j4</id>
+    <title>DREAM STAGE_[放送直前 丸わかりSP]</title>
+    <updated>2026-01-13T02:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ DREAM STAGE
+                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月13日(火)_02時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz01u98j4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                中村倫也主演！業界を追放され夢を諦めた男と、まっすぐに夢を目指す落ちこぼれボーイズの熱い絆…。でっかい未来に挑む仲間たちの物語！NAZEたちの成長にも注目！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz01u98j4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epdmavdv5l</id>
+    <title>親友の「同棲して」に「うん」て言うまで_[第１話・親友に「同棲して」て言われるまで]</title>
+    <updated>2026-01-13T01:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjs8tvmqr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 親友の「同棲して」に「うん」て言うまで
+                &lt;a href="https://tver.jp/series/srjs8tvmqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月13日(火)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_01時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdmavdv5l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                高校時代に出会った湊（吉澤要人）と航（雨宮翔）は、写真という共通の趣味をきっかけに親友になる。大学では、同居しながら、かけがえのない4年間を過ごした。しかし、就職を機に湊は北海道へ行くことになり、2人は別々の生活へ。そして、3年後、湊からの突然の電話で2人は再会。再会した2人は昔と変わらず自然に会話を重ねていたが、その帰り道、湊は航に「俺と同棲して」と告げる。２人の止まっていた時間が動き出す――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdmavdv5l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep6xh9z7hv</id>
     <title>キンパとおにぎり～恋するふたりは似ていてちがう～_[#1 はじまりのひとくち]</title>
@@ -728,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1291yzrw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaf9ona8a</id>
-    <title>御上先生_[Last Episode -Puppets can’t control you-]</title>
-    <updated>2026-01-11T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 御上先生
-                &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月11日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月18日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaf9ona8a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;隣徳学院と霞が関と永田町をつなぐ不正の証拠はそろった。&lt;br&gt;その不正には、千木良遥（髙石あかり）が巻き込まれていた。&lt;br&gt;大人たちが、自分の利権欲しさに踏みにじってきた子どもたちの未来を御上（松坂桃李）は取り戻すべく、生徒たちと考え、立ち向かっていく。&lt;br&gt;そして迎える卒業の日、最後の授業。&lt;br&gt;３年２組を待ち受けるのは、未来の光か、それとも――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaf9ona8a"/>
   </entry>
 </feed>
