@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-12T02:05:33+09:00</updated>
+  <updated>2026-01-12T11:08:54+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5y534zzc</id>
+    <title>三国志　秘密の皇帝_[第13話]</title>
+    <updated>2026-01-12T09:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 三国志　秘密の皇帝
+        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2026年_01月12日(月)_09時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月12日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5y534zzc.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        戦地から許都（きょと）に戻った郭嘉（かくか）が真っ先に訪れたのは、劉平（りゅうへい）ではなく、卞（べん）夫人の元だった。会いに来るよう命じたにも関わらず、後回しにされたことを知った劉平は動揺する。しかし謁見に訪れた郭嘉に対し、劉平は自らの師となり講義をしてほしいと頼む。あまりにも唐突な話に、後ろでひそかに聞いていた伏寿（ふくじゅ）も驚くのだが…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep5y534zzc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epw53vchdi</id>
     <title>私の夫は時給1,000円の大富豪_[【スマホ用】#3「プロポーズは突然に」]</title>
