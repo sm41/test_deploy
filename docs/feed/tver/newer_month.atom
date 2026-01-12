@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-12T22:05:56+09:00</updated>
+  <updated>2026-01-12T23:21:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epbthdkrkr</id>
+    <title>ヤンドク！_[第1話 ヤンキードクター参上！]</title>
+    <updated>2026-01-12T22:24:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月12日(月)_22時24分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbthdkrkr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                都立お台場湾岸医療センターに、新米ドクター・田上湖音波（橋本環奈）がやってきた。清楚なかわいらしい服装で、すれ違う人々も思わず「アイドル？」「今の子、見た？」と漏らすほど容姿端麗。病院内をザワつかせながらさっそうと歩き、脳神経外科のスタッフルームに辿り着く。ルーム内では脳神経外科医・大友と循環器内科医・村井が、緊急搬送されてきた救急患者をどちらの科で対応するかもめていた。緊急にも関わらず押しつけ合う2人に「ええ加減にしやあ！たぁけかっ（愚か者）！」と、ドスのきいた岐阜弁でタンカを切る湖音波。驚く大友と村井から不審者扱いされる中、かつて湖音波の命を救った中田啓介がやってくる。自身が医者になるきっかけにもなった中田との久々の再会に「…うす」と照れる湖音波。そして、中田指示のもと、救急患者の手術を湖音波が執刀することになるが、見事な手さばきでカテーテル手術を成功させる。手術後、「自分、変わったっしょ？」と再会を喜ぶ湖音波に対し、中田は「何も変わってなく見えるが？」と素っ気ない。さらには、病院幹部にこびへつらい、合理的な組織の犬のようになってしまった中田の姿に「なんか中田先生、ダサいすわ」と湖音波はうんざり。そんな彼女に中田は「13年も経てば、人は変わる」と返すのだった。その後もガチガチなルールだらけの勤務環境や事なかれ主義のヌルい同僚たちの姿にあきれるも、ヤンキー上がりのポジティブマインドで突っ走りながら患者と向き合っていく湖音波だが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbthdkrkr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsfgp9i8c</id>
     <title>流星花園II～花より男子～_[第5話　過去への疑惑]</title>
