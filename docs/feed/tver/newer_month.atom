@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-13T12:06:21+09:00</updated>
+  <updated>2026-01-13T14:06:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -808,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep8se5xh6b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep49xihbw2</id>
-    <title>緊急取調室 （2025）_[第7話　赤い殺意]</title>
-    <updated>2026-01-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3f4ao8sl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 緊急取調室 （2025）
-                &lt;a href="https://tver.jp/series/sr3f4ao8sl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月12日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 12月4日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep49xihbw2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/26(金)～ #4-#6&#13;&lt;br&gt;1/12(月)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;――犯人は、疑惑の逆玉夫!?――&#13;&lt;br&gt;今人気の片付けアドバイザー・赤沢秋絵（加賀まりこ）を殺害しようとした疑いで、24歳下の夫・譲二（藤本隆宏）が逮捕された。&#13;&lt;br&gt;だが、譲二は犯行を全面否定！&#13;&lt;br&gt;大弁護団を組み、警視庁を誤認逮捕で訴えると息巻き…。&#13;&lt;br&gt;そんな中、譲二の殺意を裏付ける新証拠が続々と発覚。&#13;&lt;br&gt;さらに、有希子（天海祐希）の周りでは奇妙な出来事が起き始め…？&#13;&lt;br&gt;「このケースは初めてかも」――有希子らキントリがたどり着く“言葉を失う事件の真相”とは!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep49xihbw2"/>
   </entry>
 </feed>
