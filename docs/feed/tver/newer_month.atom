@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-13T20:06:21+09:00</updated>
+  <updated>2026-01-13T22:06:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvmi2tam5</id>
+    <title>再会～Silent Truth～ _[第1話 容疑者は初恋の人]</title>
+    <updated>2026-01-13T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv5utjafh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 再会～Silent Truth～ 
+                &lt;a href="https://tver.jp/series/srv5utjafh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月13日(火)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月13日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvmi2tam5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                かつて仲良し4人組だった飛奈淳一（竹内涼真）、岩本万季子（井上真央）、清原圭介（瀬戸康史）、佐久間直人（渡辺大知）は、小学6年生の時に、ある事件で使用された《拳銃》を小学校の桜の木の下に埋め、《誰にも言えない秘密》を共有した。 &#13;&lt;br&gt;あれから23年──刑事になった淳一は、4人組のひとり《初恋の相手》・万季子と再会するのだが…彼女は《殺人事件の容疑者》だった！&#13;&lt;br&gt;しかも凶器は、同級生4人で密かに埋めた《拳銃》。&#13;&lt;br&gt;淳一は、署長・小杉房則の指揮のもと、県警捜査一課の南良理香子（江口のりこ）とバディを組み事件を追っていくが…。&#13;&lt;br&gt;《23年前に埋めたはずの罪》が時を超え、同級生たちの人生を変えてゆく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvmi2tam5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzkets6mc</id>
     <title>三国志　秘密の皇帝_[第14話]</title>
@@ -688,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep8xesaqhw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epr0sei1nh</id>
-    <title>霧尾ファンクラブ_[第8話「霧尾、部活やめるってよ」]</title>
-    <updated>2026-01-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2z0hz3i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 霧尾ファンクラブ
-                &lt;a href="https://tver.jp/series/srf2z0hz3i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月12日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月18日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月21日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr0sei1nh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ≪第63回ギャラクシー賞上期／テレビ部門奨励賞 受賞作品≫&lt;br&gt;▼詳細スケジュールはこちら▼&lt;br&gt;更新を見逃さない「お気に入り登録」も！Huluでは全話配信中！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;＃1：12/26(金)00:00～1/25(日)23:59&lt;br&gt;＃2：12/28(日)00:00～1/25(日)23:59&lt;br&gt;＃3：12/30(火)00:00～1/25(日)23:59&lt;br&gt;＃4：1/1(木)00:00～1/7(水)23:59&lt;br&gt;＃5：1/3(土)00:00～1/9(金)23:59&lt;br&gt;＃6：1/6(火)00:00～1/12(月)23:59&lt;br&gt;＃7：1/9(金)00:00～1/15(木)23:59&lt;br&gt;＃8：1/12(月)00:00～1/18(日)23:59&lt;br&gt;＃9：1/15(木)00:00～1/21(水)23:59&lt;br&gt;＃10：1/18(日)00:00～1/25(日)23:59&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;藍美（茅島みずき）と波（莉子）は、霧尾（井上瑞稀）が職員室へ呼び出され入っていく姿を見かける。2人は心配するが、気づけば「霧尾くんがお母さんのこと『ママ』って呼んでたら？」という話で盛り上がる。&lt;br&gt;一方の霧尾は進路希望調査票を白紙で提出し、サッカー部も退部。その異変に気付いた後輩の星羅（原愛音）は、“推し”である藍美と波の笑顔を守るため、霧尾の後をつけ、調査を始めることに！&lt;br&gt;その頃、桃瀬（小宮璃央）から「霧尾はそっけない」と愚痴を聞いた藍美は、かつて見た霧尾の“最高の笑顔”を取り戻すため、大胆な作戦を考案。その作戦当日には、下校する霧尾の前になぜか藍美の祖父・虎之介（五頭岳夫）とその仲間たちが現れ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epr0sei1nh"/>
   </entry>
 </feed>
