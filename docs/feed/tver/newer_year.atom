@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-14T20:05:30+09:00</updated>
+  <updated>2026-01-14T22:05:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1408,45 +1408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epsogf5t2g"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvqtx0apz</id>
-    <title>美しい彼_[第２話《ドラマ特区》]</title>
-    <updated>2026-01-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruhr3kn1v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 美しい彼
-                &lt;a href="https://tver.jp/series/sruhr3kn1v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月13日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvqtx0apz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                清居（八木勇征）への気持ちが「恋」だと気づいた平良（萩原利久）。もうすぐ夏休みとなり、会えなくなってしまう……そんな寂しさを感じていた矢先、清居と城田（坪根悠仁）や三木（櫻井健人）らが平良の家に来ることに。そして「２人だけの秘密」を守っているか清居に問われた平良は、部屋で２人きりという状況に、ドキドキが止まらない。一方、城田の提案でクラス女子たちと庭で花火をすることになり、案の定パシリにされ買い出しに走る平良だったが、そこに現れたのはまさかの清居で……。ひょんなことから２人きりの、熱く甘酸っぱい、夢のような時間を過ごすことになり――。&lt;br&gt;&lt;br&gt;「イケメンだろうが美女だろうが関係ない。誰を見ても、清居以外にアンテナは反応しない。こんな気持ちは清居にだけだ。」
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvqtx0apz"/>
   </entry>
 </feed>
