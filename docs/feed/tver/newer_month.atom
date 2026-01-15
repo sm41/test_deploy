@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-15T18:05:43+09:00</updated>
+  <updated>2026-01-15T20:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyr3gzqnj</id>
+    <title>運命のキスをお願い！_[第29話   光り輝く]</title>
+    <updated>2026-01-15T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8gyitin.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 運命のキスをお願い！
+                &lt;a href="https://tver.jp/series/srr8gyitin" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月15日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_19時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月15日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyr3gzqnj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                病室からいなくなった父を探す童小悠(トン・シャオヨウ)。実はその頃、小悠の父は陸星成(ルー・シンチョン)と会っていた。病気になった今、娘の将来を案ずる父に対して、星成は小悠の才能の高さと自分がデザインの道をあきらめかけた時の話をする。一方、疲れ果てて眠ってしまった小悠へ路言之(ルー・イェンジー)は、密かに告白する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyr3gzqnj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwiy18xjf</id>
     <title>三国志　秘密の皇帝_[第16話]</title>
@@ -928,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epphem2370"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0k8hmohe</id>
-    <title>未来のムスコ_[第１話 息子が空から降ってきた？]</title>
-    <updated>2026-01-13T22:57:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未来のムスコ
-                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月13日(火)_22時57分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月13日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0k8hmohe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;“定職なし、貯金なし、彼氏なし”の崖っぷちアラサー女子・汐川未来（志田未来）。俳優という夢を追い、かつての恋人・吉沢将生（塩野瑛久）が率いる劇団「アルバトロス」での活動と、バイトに追われる毎日を過ごしていた。&lt;br&gt;未来に憧れる後輩俳優の矢野真（兵頭功海）をはじめ、劇団の仲間たちと舞台に立つ一方で、オーディションの落選通知を受け取った未来はふと、今が夢の諦め時かもしれないと考えてしまう。そしてそんな思いを振り払おうと、未来が大好きなレモンサワーを手に晩酌を始めた……その時！&lt;br&gt;雷鳴と激しい閃光に目が眩んだ未来の前に、小さな男の子が現れる。&lt;br&gt;未来のことを「ママ」と呼び、颯太（天野優）と名乗るその子は、２０３６年からタイムスリップしてきた未来の息子だという。目的は、ママと“まーくん”と呼ばれるパパを仲直りさせること――。&lt;br&gt;結婚も恋人もいないのに、私がママって一体！？&lt;br&gt;戸惑う間もなく、未来から来た息子との共同生活が始まってしまった。その先には、未来の同級生で保育士の松岡優太（小瀧望）との運命的な再会も！&lt;br&gt;未来と颯太の“まーくん”探し。波乱の日々が今、幕を開ける！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0k8hmohe"/>
   </entry>
 </feed>
