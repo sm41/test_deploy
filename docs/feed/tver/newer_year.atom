@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-15T12:06:43+09:00</updated>
+  <updated>2026-01-15T14:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfnn15soh</id>
+    <title>不適切にもほどがある！_[第３話 可愛いって言っちゃダメですか？]</title>
+    <updated>2026-01-15T13:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdap3p6wy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 不適切にもほどがある！
+                &lt;a href="https://tver.jp/series/srdap3p6wy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月15日(木)_13時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_12時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfnn15soh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;看板から足を滑らせ、落ちたことで昭和に戻ってきた市郎（阿部サダヲ）は、何事もなかったかのように純子（河合優実）たちが待つ家に帰宅。その頃、市郎が突然姿を消した令和では、渚（仲里依紗）と秋津（磯村勇斗）が行方を心配していた。市郎が消えて２日、喫茶「SCANDAL」では、渚と秋津がサカエ（吉田羊）の元夫でタイムマシン開発者の井上昌和（三宅弘城）と向かい合っていた。井上からタイムマシン開発秘話などを聞いていると、渚のスマホに昭和にいる市郎から着信が…。その後、井上は過去を改ざんすると未来が変わってしまう“タイムパラドックス”の危険性を語り始めるのだった。そんな中、昭和では、純子がズッキー（秋山竜次）がMCのバラエティ番組「早く寝ナイトチョメチョメしちゃうぞ」へ出演すると言い出す。未成年は保護者同伴ということで、市郎やサカエもスタジオへ同行することに。一方の令和では、渚が先輩プロデューサー・栗田一也（山本耕史）の担当番組で起こった大スキャンダルに巻き込まれてしまい…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfnn15soh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epm1499hny</id>
     <title>大好き！五つ子3_[第29回 ママの恋人]</title>
