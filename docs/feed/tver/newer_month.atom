@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-15T20:05:43+09:00</updated>
+  <updated>2026-01-15T22:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epaev42idh</id>
+    <title>おコメの女－国税局資料調査課・雑国室－_[第２話 そこに脱税はあるんか？]</title>
+    <updated>2026-01-15T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraq1nkeu3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ おコメの女－国税局資料調査課・雑国室－
+                &lt;a href="https://tver.jp/series/sraq1nkeu3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月15日(木)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月15日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaev42idh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                米田正子（松嶋菜々子）たち複雑国税事案処理室＝《ザッコク》の次なる敵は…&#13;&lt;br&gt;先代の店主が亡くなり、老舗和菓子店の跡を継いだ【双子の兄弟】。老舗の看板を守る兄と、新感覚スイーツ店を新たにオープンした弟だ。&#13;&lt;br&gt;&#13;&lt;br&gt;両店舗の調査に乗り出す《ザッコク》だが、先代と付き合いのあった飯島作久子（大地真央）は正子に猛反発！&#13;&lt;br&gt;チームを離れて、ひとりで兄弟に会いに行くが…!?&#13;&lt;br&gt;一方、代休を取っていた俵優香（長濱ねる）は、若い男性が暮らすアパートに入っていく作久子を目撃する。&#13;&lt;br&gt;&#13;&lt;br&gt;調査を通して明かされる、作久子の過去とトラウマ――。&#13;&lt;br&gt;かつて“ガサ入れの魔女”と恐れられた作久子に、一体何があったのか。その衝撃の真相が明らかになる！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epaev42idh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyr3gzqnj</id>
     <title>運命のキスをお願い！_[第29話   光り輝く]</title>
