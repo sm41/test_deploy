@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-15T02:06:30+09:00</updated>
+  <updated>2026-01-15T11:26:36+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplh8n5lpp</id>
+    <title>君が教えてくれたこと_[第10話 あなたを忘れられない]</title>
+    <updated>2026-01-15T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpts2qyej.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 君が教えてくれたこと
+                &lt;a href="https://tver.jp/series/srpts2qyej" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月15日(木)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplh8n5lpp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：上川隆也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月22日(土)10:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)10:00～1月4日(日)9:59&lt;br&gt;#5：12月30日(火)10:00～1月7日(水)9:59&lt;br&gt;#6：1月2日(金)10:00～1月10日(土)9:59&lt;br&gt;#7：1月5日(月)10:00～1月13日(火)9:59&lt;br&gt;#8：1月8日(木)10:00～1月16日(金)9:59&lt;br&gt;#9：1月11日(日)10:00～1月19日(月)9:59&lt;br&gt;#10：1月15日(木)10:00～1月23日(金)9:59&lt;br&gt;#11：1月19日(月)10:00～1月27日(火)9:59&lt;br&gt;#12：1月23日(金)10:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;心労が重なった洋平（加藤茶）が脳梗塞で倒れた。一命は取り留めたものの、右半身麻痺と言語障害が残る結果に。潤（藤原竜也）は家族を守ろうと決意するが、繭子（ともさかりえ）は「洋平が倒れた理由は自分にある」と落ち込む。慎一（上川隆也）と話したいが「会わない」と約束した繭子は、初めて「寂しい」という感情を知るのだった。その頃、慎一のもとを美咲（山口もえ）が訪ねていた。美咲はそれとなく繭子の苦悩を伝え、慎一の苦しい胸の内も察する。思い悩む２人を見かねた美咲は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplh8n5lpp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epoisxuop5</id>
     <title>高杉さん家のおべんとう_[第９話「まさかの一騎打ち！？」]</title>

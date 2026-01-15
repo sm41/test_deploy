@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-15T02:06:30+09:00</updated>
+  <updated>2026-01-15T11:26:36+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwiy18xjf</id>
+    <title>三国志　秘密の皇帝_[第16話]</title>
+    <updated>2026-01-15T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月15日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月15日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwiy18xjf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                温（おん）県を探る趙彦（ちょうげん）は、火事で死んだ宦官の衣が司馬（しば）家にしか納品されない絹製だと知り、さらに店の主人が描いた楊平（ようへい）の似顔絵をみて今の皇帝は楊平だと確信する。その頃、帰郷することになった楊俊（ようしゅん）が、劉平（りゅうへい）を謁見に訪れる。郭嘉（かくか）の目を恐れて話も程ほどに２人は別れを惜しむのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwiy18xjf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptky7ls4g</id>
+    <title>L&amp;P_[第15話　必要ない]</title>
+    <updated>2026-01-15T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月15日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月14日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptky7ls4g.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                林(リン)先生に呼ばれた李峋(リー・シュン)は、情報セキュリティコンテストへの参加を勧められる。しかし、李峋は忙しいと断り、先生を怒らせてしまう。朱韻(ジュー・ユン)は先生の顔を立てるため李峋を説得し、南湖大学は出場することに。一方、高見鴻(ガオ・ジエンホン)は個人での参加を決め、対立の火種が生まれる…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptky7ls4g"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epan241nh7</id>
     <title>私の夫は時給1,000円の大富豪_[#4「早乙女家、襲来　罵倒の嵐」]</title>
