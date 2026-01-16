@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-16T02:05:43+09:00</updated>
+  <updated>2026-01-16T11:07:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eprcdh0vgg</id>
+    <title>三国志　秘密の皇帝_[第17話]</title>
+    <updated>2026-01-16T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月16日(金)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月16日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprcdh0vgg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                鄧展（とうてん）が温（おん）県で袁紹（えんしょう）軍に捕まったことや似顔絵の件が腑に落ちない郭嘉（かくか）。許都（きょと）に戻った趙彦（ちょうげん）は、董妃（とうひ）の位牌を手に宮中の劉平（りゅうへい）を訪ね、本物の陛下はどこだと問う。劉平と伏寿（ふくじゅ）、唐瑛（とうえい）の３人は白を切るが、やがて劉平は心を決め真相を話す。そして、趙彦がとった行動は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprcdh0vgg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbjnnflbv</id>
     <title>私のIDはカンナム美人_[第15話]</title>
@@ -131,7 +171,7 @@
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epeyb66rkx</id>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第5話「目が見えない以上の絶望」《ドラマ特区》]</title>
+    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第5話「透明より深い絶望」《ドラマ特区》]</title>
     <updated>2026-01-16T01:29:00+09:00</updated>
     <content type="html">        &lt;body&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
@@ -1008,45 +1048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epdt6k6eio"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi5yfan2f</id>
-    <title>まどか26歳、研修医やってます！_[ep.８ 恋のライバル出現?!それぞれが選ぶ幸せのカタチとは――]</title>
-    <updated>2026-01-14T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wopca43.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ まどか26歳、研修医やってます！
-                &lt;a href="https://tver.jp/series/sr2wopca43" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月14日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月4日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi5yfan2f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：木村多江 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月27日(土)12:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)12:00～1月4日(日)11:59&lt;br&gt;#5：12月30日(火)12:00～1月7日(水)11:59&lt;br&gt;#6：1月5日(月)12:00～1月13日(火)11:59&lt;br&gt;#7：1月8日(木)12:00～1月16日(金)11:59&lt;br&gt;#8：1月14日(水)12:00～1月22日(木)11:59&lt;br&gt;#9：1月17日(土)12:00～1月25日(日)11:59&lt;br&gt;#10：1月23日(金)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;季節は間もなく夏。乳腺外科で研修中のまどか（芳根京子）は、消化器外科で研修中の萌（小西桜子）と指導医・菅野（鈴木伸之）の距離の近さにヤキモキしていた。そんなまどかに、萌は菅野に指導医以上の好意を抱いていると宣戦布告。それを阻止しようと、萌のことをずっと口説き続けている桃木（吉村界人）は、まどかに菅野を誘うよう後押しをし、恋の行方は混戦モードに？&lt;br&gt;一方、医局では冴子（木村多江）の論文が賞を獲得し、お祝いムードに湧き上がっていた。その勢いで祝杯を上げようとする男性医師たちの誘いをかわした冴子は、まどかや、まどかの指導医・内田真奈美（森カンナ）、千冬（髙橋ひかる）、萌を誘い、女子だけの“ヌン活”（アフタヌーンティー活動）へ。&lt;br&gt;そこで日々の“選択”の重要性を説き始める冴子。&lt;br&gt;その言葉が心に残ったまどかは、さまざまな場面において選択が行われていることに気づき、それがいかに大切なことかを学ぶ。そして専攻医としての選択を心に決め…。&lt;br&gt;あくる日、まどかは乳がん患者の手代木美和（松下由樹）の外来診察に立ち会っていた。全摘か、部分切除かの選択で悩む美和は、息子の遼太郎（望月歩）に全摘をすすめられ、再建の必要はないと押し切られてしまう。&lt;br&gt;だが後日、美和の本心を聞いた真奈美は、全摘後に再建手術という方法をすすめる。そして、美和のある願いを叶えるためにまどかは各科への交渉を始め奔走するも、一筋縄ではいかない調整に悪戦苦闘し…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi5yfan2f"/>
   </entry>
 </feed>
