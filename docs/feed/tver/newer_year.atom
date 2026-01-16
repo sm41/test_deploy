@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-16T18:05:25+09:00</updated>
+  <updated>2026-01-16T22:05:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep41ms0ojr</id>
+    <title>3年B組金八先生(第6シリーズ)_[第10回 皆、悩んで生きている]</title>
+    <updated>2026-01-16T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月16日(金)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep41ms0ojr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;儀（斉藤祥太）とその家庭は、金八（武田鉄矢）の助言の効果があってか、両親が儀の食事を気にするようになった。食事を作ってくれるようになった両親を、迷惑そうにしながらも嬉しく思う儀。そんな状況をほほ笑ましく思っていた金八だが…。一方、乾先生（森田順平）は妻・英子（原日出子）の出産のことで職員室全体を巻き込んで悩んでいる。助産師の手助けで自宅出産をするという乾家の決定を聞いた金八の娘・乙女（星野真里）は、英子の出産に立ち会いたいと言い出し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep41ms0ojr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuem4zplo</id>
     <title>不適切にもほどがある！_[第４話 既読スルーしちゃダメですか？]</title>
@@ -928,85 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep7kvitpfw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu31jw5fb</id>
-    <title>最高の離婚_[第9話 今度は最高の結婚をしてね！]</title>
-    <updated>2026-01-14T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjzuqn4gc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 最高の離婚
-                &lt;a href="https://tver.jp/series/srjzuqn4gc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月14日(水)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月21日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu31jw5fb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：12月13日（土）～1月27日（火）&lt;br&gt;#2：12月20日（土）～1月27日（火）&lt;br&gt;#3：12月27日（土）～1月27日（火）&lt;br&gt;#4：12月30日（火）～1月6日（火）&lt;br&gt;#5：1月2日（金）～1月9日（金）&lt;br&gt;#6：1月5日（月）～1月12日（月）&lt;br&gt;#7：1月8日（木）～1月15日（木）&lt;br&gt;#8：1月11日（日）～1月18日（日）&lt;br&gt;#9：1月14日（水）～1月21日（水）&lt;br&gt;#10：1月17日（土）～1月24日（土）&lt;br&gt;#11：1月20日（火）～1月27日（火）&lt;br&gt;&lt;br&gt;光生（瑛太）は、灯里（真木よう子）から「寂しくてたまらないのでとりあえず1回寝てみよう」と誘われるが、そんな灯里に「今度は昼間に会って競馬場に行こう」と返す。一方、結夏（尾野真千子）は、諒（綾野剛）と飲みに行き、彼にキスをする。実は結夏はひどく酔っていて、キスしたことなどまったく覚えていなかった。&lt;br&gt;ある日、光生は灯里とのデートに備えて代官山のヘアサロンで髪をカットし、洋服を買った。その帰り、祖母・亜以子（八千草薫）の店「金魚カフェ」に立ち寄った光生は、結夏と諒に出会う。結夏たちから髪型のことをからかわれた光生は「異性を意識してイメージチェンジしたのではない」とうっかり言ってしまう。&lt;br&gt;別の日、光生は灯里を誘って競馬場に出かけた。同じころ、結夏は「金魚カフェ」で淳之介（窪田正孝）と会う。そこで淳之介は、結夏がキス魔だと指摘する。するとそこに、諒がやってきた。結夏は、諒からキスのことを聞き、自己嫌悪に陥ってしまう。競馬場を後にした光生と灯里は、灯里の家で夕飯をともにする約束をして別れる。スーパーマーケットまでビールとつまみを買いに行った結夏は、夕飯の買い物をしている灯里と出会い、諒とキスしてしまったことを打ち明けた。しかし灯里は「別れた相手だから」と返す。その後、灯里と一緒にレジに並んだ結夏は、彼女がポイントカードを探している際に、馬券を持っていることに気づき・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『最高の離婚』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epu31jw5fb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep517gprog</id>
-    <title>3年B組金八先生(第6シリーズ)_[第８回 見捨てられた子供達]</title>
-    <updated>2026-01-14T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月14日(水)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep517gprog.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;最近多発しているひったくり対策のため、和田政伸教育長（長谷川哲夫）や大森巡査（鈴木正幸）を中心とした防犯会議が開かれ、卒業生の発案で夜回りを始めることになった。そのことを知った３年B組の今井儀（斉藤祥太）は、バイクで暴走行為や引ったくりを繰り返している兄・武（白川峻）にもう止めるよう懇願し、逆に激しく殴られる。一方、幸作（佐野泰臣）は治療が成功して、無菌室から一般病棟に移れることになり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep517gprog"/>
   </entry>
 </feed>
