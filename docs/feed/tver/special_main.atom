@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>特集</title>
-  <updated>2026-01-16T19:05:25+09:00</updated>
+  <updated>2026-01-17T11:06:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -12,7 +12,7 @@
   <entry>
     <id>https://tver.jp/specials/cx_dorakatsu/all_dorakatsu</id>
     <title>#ドラ活</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/cx_dorakatsu.jpg"&gt;
 
@@ -27,7 +27,7 @@
   <entry>
     <id>https://tver.jp/specials/tx_numafuyu25/all25_1219tx</id>
     <title>沼る、冬。</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tx_numafuyu25.jpg"&gt;
 
@@ -42,7 +42,7 @@
   <entry>
     <id>https://tver.jp/specials/ktv_collection25/all25_1219</id>
     <title>全話一挙配信！カンテレ名作コレクション</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ktv_collection25.jpg"&gt;
 
@@ -57,7 +57,7 @@
   <entry>
     <id>https://tver.jp/specials/drama26_start1/winter26_all</id>
     <title>冬の新ドラマ特集</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/drama26_start1.jpg"&gt;
 
@@ -72,7 +72,7 @@
   <entry>
     <id>https://tver.jp/specials/movie_kintori/25release_1226</id>
     <title>劇場版「緊急取調室 THE FINAL」特集</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/movie_kintori.jpg"&gt;
 
@@ -87,7 +87,7 @@
   <entry>
     <id>https://tver.jp/specials/actor_2512/all_2512</id>
     <title>俳優特集</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/actor_2512.jpg"&gt;
 
@@ -102,7 +102,7 @@
   <entry>
     <id>https://tver.jp/specials/ex_winter25/all25_1202</id>
     <title>テレ朝 ドラバラ祭 2025 冬</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ex_winter25.jpg"&gt;
 
@@ -117,7 +117,7 @@
   <entry>
     <id>https://tver.jp/specials/tbs25_popular/all25_1129</id>
     <title>TBS 冬の人気番組特集</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tbs25_popular.jpg"&gt;
 
@@ -132,7 +132,7 @@
   <entry>
     <id>https://tver.jp/specials/ntv_popular/ntv_drama</id>
     <title>日テレ人気番組まつり！</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ntv_popular.jpg"&gt;
 
@@ -145,24 +145,9 @@
     <link href="https://tver.jp/specials/ntv_popular/ntv_drama"/>
   </entry>
   <entry>
-    <id>https://tver.jp/specials/fujidra25-winter/all25_1122</id>
-    <title>フジドラWinter</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
-    <content type="html">        &lt;div&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/fujidra25-winter.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                近年の話題作をはじめ、心に残る名作まで、世代やジャンルを超えて楽しめるラインナップが勢ぞろい。&lt;br&gt;&lt;br&gt;この機会にぜひご覧ください。&lt;br&gt;&lt;br&gt;11月21日（金）配信開始&lt;br&gt;『ミステリと言う勿れ』（2022年）&lt;br&gt;『最後から二番目の恋』（2012年）&lt;br&gt;&lt;br&gt;11月22日（土）配信開始&lt;br&gt;『のだめカンタービレ』（2006年）&lt;br&gt;『PICU 小児集中治療室』（2022年）&lt;br&gt;『イチケイのカラス』（2021年）&lt;br&gt;『リッチマン、プアウーマン』（2012年）&lt;br&gt;&lt;br&gt;11月23日（日）配信開始&lt;br&gt;『監察医 朝顔』（2019年）&lt;br&gt;&lt;br&gt;11月26日（水）配信開始&lt;br&gt;『家族ゲーム』（2013年）&lt;br&gt;&lt;br&gt;11月28日（金）配信開始&lt;br&gt;『オーバー・タイム』（1999年）&lt;br&gt;『ラブコンプレックス』（2000年）&lt;br&gt;『スタンドUPスタート』（2023年）&lt;br&gt;『アンサング・シンデレラ 病院薬剤師の処方箋』（2020年）&lt;br&gt;『お水の花道～女30歳ガケップチ～』（1999年）&lt;br&gt;&lt;br&gt;11月29日（土）配信開始】&lt;br&gt;『ナースのお仕事3』（2000年）&lt;br&gt;『ルパンの娘』シーズン1（2019年）&lt;br&gt;『アイシー～瞬間記憶捜査・柊班～』（2021年）&lt;br&gt;『ニューヨーク恋物語』（1988年）&lt;br&gt;『素晴らしきかな人生』（1993年）&lt;br&gt;『教場』（2020年）&lt;br&gt;&lt;br&gt;11月30日（日）配信開始&lt;br&gt;『ビーチボーイズ』（1997年）&lt;br&gt;『ショムニ』（1998）&lt;br&gt;『ビター・ブラッド～最悪で最強の親子刑事～』（2014年）&lt;br&gt;『ナンバMG5』（2022年）&lt;br&gt;『ブルーモーメント』（2024年）&lt;br&gt;『バージンロード』（1997年）&lt;br&gt;&lt;br&gt;12月5日（金）配信開始&lt;br&gt;『失恋ショコラティエ』（2014年）&lt;br&gt;『王様のレストラン』（1995年）&lt;br&gt;『振り返れば奴がいる』（1993年）&lt;br&gt;『人は見た目が100パーセント』（2017年）&lt;br&gt;『ライアーゲーム』（2007年）&lt;br&gt;&lt;br&gt;12月6日（土）配信開始&lt;br&gt;『知ってるワイフ』（2021年）    &lt;br&gt;『マルモのおきて』（2011年）&lt;br&gt;『ランチの女王』（2002年）&lt;br&gt;『ミス・パイロット』（2013年）&lt;br&gt;『dinner』（2013年）&lt;br&gt;『１１９エマージェンシーコール』（2025年）&lt;br&gt;『貴族探偵』（2017年）&lt;br&gt;&lt;br&gt;12月7日（日）配信開始&lt;br&gt;『うちの弁護士は手がかかる』（2023年）&lt;br&gt;『BOSS』（2009年）&lt;br&gt;『ラスト・フレンズ』（2008年）&lt;br&gt;『信長協奏曲』（2014年）&lt;br&gt;『コンフィデンスマンJP』（2018年）&lt;br&gt;『全開ガール』（2011年）&lt;br&gt;『教場II』（2021年）&lt;br&gt;『メイちゃんの執事』（2009年）&lt;br&gt;&lt;br&gt;12月12日（金）配信開始&lt;br&gt;『プロポーズ大作戦』（2007年）&lt;br&gt;『いちばんすきな花』（2023年）&lt;br&gt;『嘘解きレトリック』（2024年）&lt;br&gt;『HOPE～期待ゼロの新入社員～』（2016年）&lt;br&gt;『1リットルの涙』（2005年）&lt;br&gt;&lt;br&gt;12月13日（土）配信開始&lt;br&gt;『恋仲』（2015年）&lt;br&gt;『オクラ～迷宮入り事件捜査～』（2024年）&lt;br&gt;『ラジエーションハウス～放射線科の診断レポート～』（2019年）&lt;br&gt;『元彼の遺言状』（2022年）&lt;br&gt;『366日』（2024年）&lt;br&gt;&lt;br&gt;12月14日（日）配信開始&lt;br&gt;『ナイト・ドクター』（2021年）&lt;br&gt;『ストロベリーナイト』（2012年）&lt;br&gt;『やんごとなき一族』（2022年）&lt;br&gt;『風間公親－教場0－』（2023年）&lt;br&gt;『忍者に結婚は難しい』（2023年）&lt;br&gt;&lt;br&gt;12月19日（金）配信開始&lt;br&gt;『警視庁いきもの係』（2017年）&lt;br&gt;『残念な夫。』（2015年）&lt;br&gt;『遅咲きのヒマワリ～ボクの人生、リニューアル～』（2012年）&lt;br&gt;『TOKYOコントロール 東京航空交通管制部』（2011年）&lt;br&gt;『パリピ孔明』（2023年）&lt;br&gt;『ショムニ2013』（2013年）&lt;br&gt;&lt;br&gt;12月20日（土）配信開始&lt;br&gt;『のだめカンタービレ in ヨーロッパ』（2008年）&lt;br&gt;『ファーストクラス』（2014年） &lt;br&gt;『5→9～私に恋したお坊さん～』（2015年）&lt;br&gt;『愛してるって、言いたい』（2024年）
-            &lt;/p&gt;
-        &lt;/div&gt;    </content>
-    <link href="https://tver.jp/specials/fujidra25-winter/all25_1122"/>
-  </entry>
-  <entry>
     <id>https://tver.jp/specials/movie_lastman/25release_1224</id>
     <title>『映画ラストマン -FIRST LOVE-』公開記念</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/movie_lastman.jpg"&gt;
 
@@ -177,7 +162,7 @@
   <entry>
     <id>https://tver.jp/specials/movie_scarlet/25release_1114f</id>
     <title>細田守監督 最新作「果てしなきスカーレット」公開記念！</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/movie_scarlet.jpg"&gt;
 
@@ -192,7 +177,7 @@
   <entry>
     <id>https://tver.jp/specials/hs-soccer/104th-all</id>
     <title>第104回全国高校サッカー選手権特集</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/hs-soccer.jpg"&gt;
 
@@ -207,7 +192,7 @@
   <entry>
     <id>https://tver.jp/specials/kidshiroba/kids_all</id>
     <title>TVerキッズひろば</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/kidshiroba.jpg"&gt;
 
@@ -222,7 +207,7 @@
   <entry>
     <id>https://tver.jp/specials/localprograms/lp-pickup</id>
     <title>ご当地番組大集合！</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/localprograms.jpg"&gt;
 
@@ -237,7 +222,7 @@
   <entry>
     <id>https://tver.jp/specials/24news/latest_episode24</id>
     <title>最新ニュース 24時間配信中！</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/24news.jpg"&gt;
 
@@ -252,7 +237,7 @@
   <entry>
     <id>https://tver.jp/specials/meisaku-drama/stream</id>
     <title>名作ドラマ特集</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/meisaku-drama.jpg"&gt;
 
@@ -267,7 +252,7 @@
   <entry>
     <id>https://tver.jp/specials/mon_variety/v_monday</id>
     <title>月曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/mon_variety.jpg"&gt;
 
@@ -282,7 +267,7 @@
   <entry>
     <id>https://tver.jp/specials/tue_variety/v_tuesday</id>
     <title>火曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tue_variety.jpg"&gt;
 
@@ -297,7 +282,7 @@
   <entry>
     <id>https://tver.jp/specials/wed_variety/v_wednesday</id>
     <title>水曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/wed_variety.jpg"&gt;
 
@@ -312,7 +297,7 @@
   <entry>
     <id>https://tver.jp/specials/thu_variety/v_thursday</id>
     <title>木曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/thu_variety.jpg"&gt;
 
@@ -327,7 +312,7 @@
   <entry>
     <id>https://tver.jp/specials/fri_variety/v_friday</id>
     <title>金曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/fri_variety.jpg"&gt;
 
@@ -342,7 +327,7 @@
   <entry>
     <id>https://tver.jp/specials/sat_variety/v_saturday</id>
     <title>土曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sat_variety.jpg"&gt;
 
@@ -357,7 +342,7 @@
   <entry>
     <id>https://tver.jp/specials/sun_variety/v_sunday</id>
     <title>日曜日バラエティ</title>
-    <updated>2026-01-16T19:05:25+09:00</updated>
+    <updated>2026-01-17T11:06:53+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sun_variety.jpg"&gt;
 
