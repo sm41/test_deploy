@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-18T01:09:28+09:00</updated>
+  <updated>2026-01-18T02:05:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep53s63fnv</id>
+    <title>買われた男_[#2 不倫スキャンダル芸能人来店‼恋を諦めた女優とセラピストが…]</title>
+    <updated>2026-01-18T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqoatp0he.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 買われた男
+                &lt;a href="https://tver.jp/series/srqoatp0he" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep53s63fnv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                女性用風俗店「KIRAMEKI」でセラピストとして働くヤマト（瀬戸利樹）と社長のアキコ（菊川怜）が現場シミュレーションをしていると1件の予約が入る。ヤマトが客の指示に従い周囲に注意しながらホテルの部屋に入ると、そこには女優の東崎安未果（花柳のぞみ）が…。安未果は次のドラマで濡れ場があるから役作りのため呼んだのだという。安未果の冷たい態度にやりづらさを感じたヤマトはアキコからのアドバイスを思い出し、ベッドから出て安未果にハーブティーを差し出す。そして自分の過去を話し始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep53s63fnv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyqgepkg9</id>
     <title>刑事部屋　～六本木おかしな捜査班～_[第6話　連続放火激撮！スクープの女]</title>
