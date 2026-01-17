@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-17T20:05:34+09:00</updated>
+  <updated>2026-01-17T22:06:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epar22o1cx</id>
+    <title>パンダより恋が苦手な私たち_[第2話 パンダから学ぶ、恋人を作る方法]</title>
+    <updated>2026-01-17T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月17日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月17日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epar22o1cx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                モテるのになぜ結婚できないの!?仕事も恋もどん底の編集者・柴田一葉(上白石萌歌)と、動物の求愛行動にしか興味のない超変わり者の准教授・椎堂司(生田斗真)。わがまま元カリスマモデル・灰沢アリア(シシド・カフカ)の代わりに恋愛相談コラムを書くことになった一葉のもとに、モテるのに彼氏ができない女性の悩み相談が。同じ悩みを持つ先輩・紺野(宮澤エマ)の恋を応援したい一葉は、司が説くパンダの求愛行動から答えを導く!一葉と司に恋の予感
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epar22o1cx"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epibf1wn2g</id>
     <title>まどか26歳、研修医やってます！_[ep.９ 明かされる過去―命の時間とは]</title>
@@ -648,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epeyb66rkx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzsxqgj5e</id>
-    <title>人は見た目じゃないと思ってた。_[第2話 邪魔な元カノ。]</title>
-    <updated>2026-01-16T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmfaydfxy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 人は見た目じゃないと思ってた。
-                &lt;a href="https://tver.jp/series/srmfaydfxy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月16日(金)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月15日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzsxqgj5e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                女性向けファッション雑誌「月刊NOA」編集部に配属された石黒大和（菅生新樹）。人は見た目じゃないと思っていた大和だったが、「月刊NOA」の専属モデル・さくら（谷まりあ）に一目惚れしてしまう。ある日、学生時代は自分と同じような立場だった田島先輩（河野翔）が自分らしく生きる姿をみて、過去の自分を思い返し、外見をイジられたり、求められるキャラを演じてしまう自分から変わりたくなった大和は、ある決断をする！　［期間限定無料配信］　毎週木曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzsxqgj5e"/>
   </entry>
 </feed>
