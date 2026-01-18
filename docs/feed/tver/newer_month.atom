@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-18T02:05:34+09:00</updated>
+  <updated>2026-01-18T11:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
-  <link href="https://sm41.github.io/public/"/>
+  <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2rwjonlo</id>
+    <title>＆Hulu_[「わたたい」と親しまれる2人が旅する番組のオーストラリア編「Kis-My-Ft2 藤ヶ谷太輔＆横尾渉 NAKED ～素のまま2人旅～」▼オーストラリア特集]</title>
+    <updated>2026-01-18T02:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_02時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月17日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2rwjonlo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特集(1)「Kis-My-Ft2 藤ヶ谷太輔＆横尾渉 NAKED ～素のまま2人旅～ inオーストラリア・ケアンズ」&lt;br&gt;公私共に仲良しな藤ヶ谷＆横尾、ファンから「わたたい」と親しまれる2人が、ありのままの姿で旅する番組の第2弾。「コアラを抱っこしてみたい」そんな純粋な願いから始まったケアンズ旅。台本一切なしのリアルな旅程と共に2人だからこそ見せる素顔に密着！&lt;br&gt;特集(2)「オーストラリア特集」&lt;br&gt;オーストラリアTVドラマ史上視聴率No.1！&lt;br&gt;女子刑務所を舞台に普通の主婦が囚人や看守たちの権力争いに巻き来まれていく「ウェントワース女子刑務所」やオーストラリアで人気の結婚実験リアリティ番組「マッチングの神様 ～結婚実験リアリティ～」など、オーストラリアが舞台のドラマやドキュメンタリーなどを紹介！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2rwjonlo"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyj8kw1gu</id>
     <title>未確認日記_[第2話「容疑者、全員UMA。」]</title>
