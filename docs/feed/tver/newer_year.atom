@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-18T16:05:12+09:00</updated>
+  <updated>2026-01-18T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epy0m87u7t</id>
+    <title>あしたがあるから_[第九章 「幸福の向う側で…」]</title>
+    <updated>2026-01-18T17:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpq1ffnq1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あしたがあるから
+                &lt;a href="https://tver.jp/series/srpq1ffnq1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月26日(月)_16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy0m87u7t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月19日(水)10:00～1月31日(土)23:59&lt;br&gt;#4：12月25日(木)17:00～1月2日(金)16:59&lt;br&gt;#5：12月29日(月)17:00～1月6日(火)16:59&lt;br&gt;#6：1月3日(土)17:00～1月11日(日)16:59&lt;br&gt;#7：1月8日(木)17:00～1月16日(金)16:59&lt;br&gt;#8：1月13日(火)17:00～1月21日(水)16:59&lt;br&gt;#9：1月18日(日)17:00～1月26日(月)16:59&lt;br&gt;#10：1月23日(金)17:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;令子（今井美樹）と建太（石橋凌）は婚姻届を提出した。だが、２人には式を挙げる余裕はない。２人を不憫に思った康夫（井川比佐志）は、城之内（村井国夫）に建太の職場復帰を頼むが、取り合ってもらえない。しかし、数日後に城之内は建太を呼び出し、現場復帰を命令。令子たちの仕事にも生活にも明るい兆しが見え始める。一方、圭子（仙道敦子）は良一（福山雅治）にプロポーズされるが、建太を忘れられずにいた。そんな圭子を良一は気が済むまで待つという。そんな折、圭子は営業との兼務を人事に要請した。さらに、亜希（中嶋朋子）がコットン輸入の手続きでミスをおかした。この２つの事件をきっかけに、特別企画部内がバラバラになってしまう…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epy0m87u7t"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnju9huqy</id>
     <title>グランメゾン東京_[第10話 「キジバトのドゥミ・アンクルート」]</title>

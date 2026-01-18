@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-18T16:05:12+09:00</updated>
+  <updated>2026-01-18T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3lpisuz4</id>
+    <title>スケバン刑事_[第16話「決死の脱出！恐怖の地獄城」]</title>
+    <updated>2026-01-18T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3lpisuz4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                サキは都立泉ヶ丘高校の集団万引きを調査していた。万引きされた商品は学内で売りさばかれていた。その売上金は、街の札付きが巻き上げていた。殺人犯の汚名を着せられ、地獄城と呼ばれる第三特別少年院へ送られた。サキは特別房に入れられた。この少年院にも海槌の手がまわっていた。サキの背後関係を探るため、麗巳は深町ミドリをサキに接近させた。同時に海槌三姉妹は、鷹の羽学園乗っ取りの計画を着々と進行させていった。武器ももたず孤立無援のサキ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3lpisuz4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2rwjonlo</id>
     <title>＆Hulu_[「わたたい」と親しまれる2人が旅する番組のオーストラリア編「Kis-My-Ft2 藤ヶ谷太輔＆横尾渉 NAKED ～素のまま2人旅～」▼オーストラリア特集]</title>
@@ -688,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptkncz673"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaz2oxjoz</id>
-    <title>副会長の主なお仕事_[吸われる理由(わけ)]</title>
-    <updated>2026-01-16T22:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 副会長の主なお仕事
-                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月16日(金)_22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月10日(金)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月16日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaz2oxjoz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                予算資料で寝不足の灰屋は、生徒会室でつい居眠りしてしまう。毛布をかけて優しく世話を焼く栗下……のはずが、その毛布をうっとり「吸い」始める始末。さらに“頭吸い”対策のお団子ヘアさえお茶請け扱いに。会長・灰屋銀の安眠と尊厳が揺らぐ、混沌の第2話。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaz2oxjoz"/>
   </entry>
 </feed>
