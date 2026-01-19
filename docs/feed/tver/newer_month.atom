@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-19T02:06:12+09:00</updated>
+  <updated>2026-01-19T11:16:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2t9mlr1k</id>
+    <title>三国志　秘密の皇帝_[第18話]</title>
+    <updated>2026-01-19T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月26日(月)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2t9mlr1k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                楊修（ようしゅう）が袁紹（えんしょう）に内通していたことを明かし、郭嘉（かくか）は楊修を牢に閉じ込める。楊修が気がかりで気が急く劉平（りゅうへい）だったが、焦っては郭嘉の罠に嵌まると伏寿（ふくじゅ）に諭される。劉平は講義のあと荀彧（じゅんいく）を呼び止め、曹操（そうそう）と袁紹の戦はどちらが勝つと思うか尋ねる。そして、自ら戦地へと赴くと伝えるのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2t9mlr1k"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep59xkpzx9</id>
     <title>私の夫は時給1,000円の大富豪_[#5「家政夫の裏の顔」]</title>
@@ -648,85 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epar22o1cx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epibf1wn2g</id>
-    <title>まどか26歳、研修医やってます！_[ep.９ 明かされる過去―命の時間とは]</title>
-    <updated>2026-01-17T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wopca43.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ まどか26歳、研修医やってます！
-                &lt;a href="https://tver.jp/series/sr2wopca43" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月17日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月11日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epibf1wn2g.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：木村多江 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月27日(土)12:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)12:00～1月4日(日)11:59&lt;br&gt;#5：12月30日(火)12:00～1月7日(水)11:59&lt;br&gt;#6：1月5日(月)12:00～1月13日(火)11:59&lt;br&gt;#7：1月8日(木)12:00～1月16日(金)11:59&lt;br&gt;#8：1月14日(水)12:00～1月22日(木)11:59&lt;br&gt;#9：1月17日(土)12:00～1月25日(日)11:59&lt;br&gt;#10：1月23日(金)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;まどか（芳根京子）たちつぼみ隊の、長いようで短かった研修医期間がもうすぐ終わろうとしている。すでに、桃木（吉村界人）と萌（小西桜子）は進路を決めていたが、千冬（髙橋ひかる）と五十嵐（大西流星）はどの科に進むか答えを出しきれずにいた。そして、まどかは外科を専攻しようと思う一方で、菅野（鈴木伸之）が病院を離れる理由を聞き、自分の選択に迷いが生じていた。そんなまどかは研修先の麻酔科で、菅野の同期でもある麻酔医・本郷新（溝端淳平）からある助言をもらい…。&lt;br&gt;そうした中、院内のゴシップに詳しいベテラン患者の橋口健太（森田哲矢）が、腎臓がんで再び入院してきた。橋口は、何度も入院する中で自暴自棄になり、今回の手術を拒否。自分を励まそうとするまどかや五十嵐のことも避けるようになってしまう。なんとか橋口に手術を受けてもらいたい、そんな一心で橋口にとってのドラマを作ろうと考えるまどかたち。ある時、角田（奥田瑛二）の患者ノートのことを思い出したまどかが、橋口への励ましのサプライズを思いつく。&lt;br&gt;秋になり、悩みながらも最後のローテーションに外科を選択したまどか。そこへ、菅野が引越しの手続きのために、古花島から一時的に戻ってくる…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epibf1wn2g"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epeobvhczc</id>
-    <title>ガラスの指輪と絆創膏_[アイミタガイ]</title>
-    <updated>2026-01-17T11:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9j2v0rns.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ガラスの指輪と絆創膏
-                &lt;a href="https://tver.jp/series/sr9j2v0rns" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月17日(土)_11時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月24日(土)_10時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : HTB北海道テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeobvhczc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                食品会社に勤める山川虹架は、会社での理不尽な扱いや、うまくいかない仕事に疲れ、自分を押し殺して過ごす日々を送っていた。ある日、こども食堂「ルッカリー」へ派遣された虹架は、そこに通う大人びた小学生・佐藤翠と出会う。&lt;br&gt;何かと気にかけて来る翠に初めは戸惑いつつも、なぜか武士言葉で鋭い指摘をしてくる不思議な少女にいつしか心を開き素直になっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epeobvhczc"/>
   </entry>
 </feed>
