@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-19T12:06:32+09:00</updated>
+  <updated>2026-01-19T14:06:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -371,7 +371,7 @@
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epyzuokg17</id>
-    <title>50分間の恋人_[＃１　ズレてる男と３０回の弁当契約]</title>
+    <title>50分間の恋人_[#1 ズレてる男と30回の弁当契約]</title>
     <updated>2026-01-18T23:09:00+09:00</updated>
     <content type="html">        &lt;body&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
