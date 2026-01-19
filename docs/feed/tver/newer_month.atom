@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-19T20:05:32+09:00</updated>
+  <updated>2026-01-19T22:06:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep296qwdxq</id>
+    <title>ヤンドク！_[第2話 病院のルールをぶっとばせ！命と同じく大切な物]</title>
+    <updated>2026-01-19T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep296qwdxq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                元ヤンキーの新米ドクター・田上湖音波（橋本環奈）が都立お台場湾岸医療センターに来て数週間。事務局長の鷹山（大谷亮平）たちは院内のルールを全く守らない湖音波を咎めるが、本人は全く反省していない様子。&lt;br&gt;そんな中、2年前に脳腫瘍の摘出手術を受けた篠原和子が腫瘍の再発で入院してくる。しかし、付き添っていた和子の娘・美咲（入山杏奈）は1ヶ月後に結婚式を予定しており、母に式へ出席してほしいと熱望していた。&lt;br&gt;事情を聞いた看護師の颯良（宮世琉弥）は担当医の大友（音尾琢真）に相談するが、病状の進行具合から「（出席は）無理だ」と突っぱねられてしまう。美咲の想いを汲み取った湖音波と颯良が式に同行すると申し出たことで、和子の外出許可が下りる。喜び合う和子と美咲だが、お見舞いを終えた帰り際、美咲は院内で倒れてしまう…。緊急MRIを撮ると、脳の奥に上衣腫という腫瘍ができていた。母に心配をかけないため黙っていてほしいと、美咲は湖音波と颯良にお願いする。さらに、美咲は結婚式を控えているため髪の毛は絶対に切りたくないという。ヘアモデルをしている美咲は、子供の頃から和子が手入れをしてくれた美しい髪を何より大切にしていた。しかし治療のためには、なるべく早く開頭手術をする必要がある。それは、髪の毛を剃ることを意味していた。湖音波は美咲の髪を剃らずに手術ができないかと考え、院内のルールに立ち向かうが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep296qwdxq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epmbzg68bx</id>
     <title>流星花園II～花より男子～_[第6話　七夕の夜]</title>
@@ -648,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eppb6u2ude"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdblx13if</id>
-    <title>海老だって鯛が釣りたい_[最終話「海老子から愛の告白」]</title>
-    <updated>2026-01-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpgsd3h3vd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 海老だって鯛が釣りたい
-                &lt;a href="https://tver.jp/series/srpgsd3h3vd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdblx13if.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼詳細スケジュールはこちら▼&lt;br&gt;更新を見逃さない「お気に入り登録」も！Huluでは全話配信中！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;＃1：12/26(金)00:00～1/25(日)23:59&lt;br&gt;＃2：12/28(日)00:00～1/25(日)23:59&lt;br&gt;＃3：12/30(火)00:00～1/25(日)23:59&lt;br&gt;＃4：1/1(木)00:00～1/7(水)23:59&lt;br&gt;＃5：1/3(土)00:00～1/9(金)23:59&lt;br&gt;＃6：1/6(火)00:00～1/12(月)23:59&lt;br&gt;＃7：1/9(金)00:00～1/15(木)23:59&lt;br&gt;＃8：1/12(月)00:00～1/18(日)23:59&lt;br&gt;＃9：1/15(木)00:00～1/21(水)23:59&lt;br&gt;＃10：1/18(日)00:00～1/25(日)23:59&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;海老子（田辺桃子）は、ずっと憧れていたハイスペック上司・鯛島（桜田通）からの告白を断り、水沼（中川大輔）に気持ちが向いていることを明かす。鯛島は、海老子と水沼がお互いに特別な思いを抱いていることに気付いていて、切ない笑みを浮かべ…。&lt;br&gt;初めてちゃんと自分の意思で男性を選んだ海老子を、沙耶（加藤史帆）も応援！海老子は水沼に自分の思いを伝えようとアクアリウムショップを訪れるものの、緊張して挙動不審に。鯛島の告白を断ったと水沼に伝え、勢いで「店長のことが好き！」と思いをぶつけて店を飛び出してしまう。&lt;br&gt;逃げ出すように家に帰ると、水槽のエビがピクリとも動いていない。心配になった海老子は慌てて水沼の元へ戻り…。精一杯もがいて成長した海老子は、自分にとって本当の“鯛男”を釣れるのか――！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdblx13if"/>
   </entry>
 </feed>
