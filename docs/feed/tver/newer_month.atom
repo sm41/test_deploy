@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-20T00:06:33+09:00</updated>
+  <updated>2026-01-20T02:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epufhj4kui</id>
+    <title>親友の「同棲して」に「うん」て言うまで_[第２話・いままで通りが難しくなるまで]</title>
+    <updated>2026-01-20T01:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjs8tvmqr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 親友の「同棲して」に「うん」て言うまで
+                &lt;a href="https://tver.jp/series/srjs8tvmqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_01時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epufhj4kui.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                久しぶりに再会した湊（吉澤要人）からの「同棲して」という言葉に、航（雨宮翔）は冗談だと受け流そうとするが、内心では動揺を隠せない。一方、湊は祖父・毅（ベンガル）とカメラの話をしながら、航と過ごした高校時代を思い返していた。そんな中、湊の栄転祝いで久しぶりに高校時代の仲間が集まることに。航は写真館の店長・頼人（古屋呂敏）にオススメのプレゼントを聞き、学生時代に湊からもらった花と同じものを贈るが――？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epufhj4kui"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0lotbnud</id>
     <title>キンパとおにぎり～恋するふたりは似ていてちがう～_[#2 初デートの水族館！「ガオリに願いを」]</title>
