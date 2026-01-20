@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-20T11:12:26+09:00</updated>
+  <updated>2026-01-20T12:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -768,45 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epcydt9hyk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3lpisuz4</id>
-    <title>スケバン刑事_[第16話「決死の脱出！恐怖の地獄城」]</title>
-    <updated>2026-01-18T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_16時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3lpisuz4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                サキは都立泉ヶ丘高校の集団万引きを調査していた。万引きされた商品は学内で売りさばかれていた。その売上金は、街の札付きが巻き上げていた。殺人犯の汚名を着せられ、地獄城と呼ばれる第三特別少年院へ送られた。サキは特別房に入れられた。この少年院にも海槌の手がまわっていた。サキの背後関係を探るため、麗巳は深町ミドリをサキに接近させた。同時に海槌三姉妹は、鷹の羽学園乗っ取りの計画を着々と進行させていった。武器ももたず孤立無援のサキ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3lpisuz4"/>
   </entry>
 </feed>

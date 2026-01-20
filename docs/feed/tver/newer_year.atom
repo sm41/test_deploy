@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-20T11:12:26+09:00</updated>
+  <updated>2026-01-20T12:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmvg6ekk8</id>
+    <title>大好き！五つ子4_[第２回 迷える子ひつじ]</title>
+    <updated>2026-01-20T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月03日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmvg6ekk8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;野球の試合を翌日に控えた拓也（谷野欧太）は、その日の練習でも大活躍だった。桃子（森尾由美）は帰宅した拓也のバッグの中に入っていた汚れたタオルを洗濯。ところがそれを知った拓也は激怒して桃子に詰め寄る。初めてヒットを３本打った時に持っていた縁起の良いタオルで、洗うとツキが落ちてしまうというのだ。桃子が謝っても、怒りを収めない拓也を良介（新井康弘）が叱ったが、拓也は家を飛び出し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmvg6ekk8"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epdbjpngfn</id>
+    <title>キッズ・ウォー２～ざけんなよ～_[第37話]</title>
+    <updated>2026-01-20T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
+                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdbjpngfn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週月曜～金曜１２時　新エピソード更新！！】  春子たちが父・中西のことで自分に隠し事をしていると感じた茜は真相を確かめるために父の喫茶店へ行くが、父の姿はない。父が女性を騙して金を借りたまま姿を消したと知った茜は大ショック。だが、翌日、父が学校に突然現れる。借金は「友人のため」という父の言葉に茜は、父を助けたいと少ない小遣いを握りしめ、夜中に駆けつける。茜の気持ちに感激した中西は「まじめに働いて借金を返す」と約束。そこに出かけていたはずの三枝子が戻ってきて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdbjpngfn"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppqn7jgi1</id>
     <title>めぐり逢󠄀い_[第11話「……さよなら」]</title>
@@ -1608,85 +1688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5gxyhr5f"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbkbkbfju</id>
-    <title>3年B組金八先生(第6シリーズ)_[第12回 友情の証し]</title>
-    <updated>2026-01-18T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbkbkbfju.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;行方不明だった儀（斉藤祥太）の兄・武（白川峻）が突然帰ってきた。儀は何も言わずにいなくなった兄を責め、また大ゲンカが始まる。逃亡先でクスリを常用していた武は見境なく儀を殴り続ける。そして乱闘の最中に倒れたストーブから引火して儀の家が火事に！その一報を聞いた金八（武田鉄矢）はすぐに儀の家に駆け付ける。その頃、自宅に戻っていた幸作（佐野泰臣）の容体が急変していた。高熱にうなされている幸作を乙女（星野真里）は安井病院に運ぶ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbkbkbfju"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy0m87u7t</id>
-    <title>あしたがあるから_[第九章 「幸福の向う側で…」]</title>
-    <updated>2026-01-18T17:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpq1ffnq1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あしたがあるから
-                &lt;a href="https://tver.jp/series/srpq1ffnq1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月26日(月)_16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy0m87u7t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月19日(水)10:00～1月31日(土)23:59&lt;br&gt;#4：12月25日(木)17:00～1月2日(金)16:59&lt;br&gt;#5：12月29日(月)17:00～1月6日(火)16:59&lt;br&gt;#6：1月3日(土)17:00～1月11日(日)16:59&lt;br&gt;#7：1月8日(木)17:00～1月16日(金)16:59&lt;br&gt;#8：1月13日(火)17:00～1月21日(水)16:59&lt;br&gt;#9：1月18日(日)17:00～1月26日(月)16:59&lt;br&gt;#10：1月23日(金)17:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;令子（今井美樹）と建太（石橋凌）は婚姻届を提出した。だが、２人には式を挙げる余裕はない。２人を不憫に思った康夫（井川比佐志）は、城之内（村井国夫）に建太の職場復帰を頼むが、取り合ってもらえない。しかし、数日後に城之内は建太を呼び出し、現場復帰を命令。令子たちの仕事にも生活にも明るい兆しが見え始める。一方、圭子（仙道敦子）は良一（福山雅治）にプロポーズされるが、建太を忘れられずにいた。そんな圭子を良一は気が済むまで待つという。そんな折、圭子は営業との兼務を人事に要請した。さらに、亜希（中嶋朋子）がコットン輸入の手続きでミスをおかした。この２つの事件をきっかけに、特別企画部内がバラバラになってしまう…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy0m87u7t"/>
   </entry>
 </feed>
