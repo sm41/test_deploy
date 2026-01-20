@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-20T22:06:11+09:00</updated>
+  <updated>2026-01-21T00:06:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxhl911co</id>
+    <title>未来のムスコ_[第２話 波乱の共同生活スタート…思わぬ救世主現る!?]</title>
+    <updated>2026-01-20T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 未来のムスコ
+                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxhl911co.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;思いがけぬチャンス到来も…子育てとの両立は不可能？&lt;br&gt;早くも大ピンチの新米ママ・未来の前に思わぬ救世主が現れる！&lt;br&gt;&lt;br&gt;颯太（天野優）を自分の子だと認め、一緒に暮らす覚悟を決めた未来（志田未来）。しかし、劇団の稽古とバイトに追われる毎日の中で、自分が本当に颯太を育てていけるのか、不安を抱え始める。&lt;br&gt;ひとまず親戚の子だと嘘をつき、颯太を親友である今井沙織（西野七瀬）に預かってもらう未来だったが、颯太は沙織に「僕は未来から来た」と打ち明けてしまう…！&lt;br&gt;そんな中、劇団の次回公演で、未来が主演に抜擢される。喜ぶ間もなく、颯太を未来に帰す方法が見つからない以上、この生活を続けるしかないと腹をくくった未来は、急いで颯太の保育園探しに奔走。颯太から、未来では近所の「よしずみ保育園」に通っていたことを聞き、訪ねてみることに。&lt;br&gt;園長の松岡良純（マキタスポーツ）はノリの良い人物で、未来もひと安心…と思いきや、「あなたは本当に母親？」と疑いの目を向けられ、追い返されてしまう。&lt;br&gt;自分は颯太のことを何も知らない――。&lt;br&gt;そう落ち込む未来だが、主演なのにこれ以上稽古は休めない！&lt;br&gt;八方塞がりの未来の前に、思わぬ救世主が現れる…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxhl911co"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnlm1wima</id>
     <title>東京P.D. 警視庁広報2係_[第2話 迫るリミット 隠蔽の行方・・・揺らぐ警察の誇り]</title>
