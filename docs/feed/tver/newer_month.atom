@@ -2,13 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-21T00:06:11+09:00</updated>
+  <updated>2026-01-21T02:06:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnzgjwbxs</id>
+    <title>マトリと狂犬_[#１《ドラマイズム》]</title>
+    <updated>2026-01-21T01:58:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8qcrft60.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ マトリと狂犬
+                &lt;a href="https://tver.jp/series/sr8qcrft60" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_01時58分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_01時57分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnzgjwbxs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                六本木のクラブで起きた薬物殺害事件。客がコカインの過剰摂取でウエイターを刺し、自らも死亡した。この客に薬を売ったのは、「薬物の売人」をしていた梅沢恭之介（西畑大吾）だった。梅沢はかつて俳優だったが、暴力沙汰を起こしたことで無職となり、借金苦に半グレの一味となり、転落人生を送っていた。一方、この事件を追う麻薬取締官（通称・マトリ）の黒崎徹（細田善彦）は、現場で警視庁薬物銃器対策課・警部補の葛城彰斗（向井理）と対立しながらも、独自の勘と捜査で薬の入手ルートを追っていた。そんな中、いつものように梅沢が、仲間とアパートで麻薬のパケを作っていると、そこにマトリがガサ入れにやってきて―。早くも絶体絶命の窮地に！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnzgjwbxs"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epor9uyh9e</id>
+    <title>終のひと_[＃２「DIY葬～義母と嫁の絆～」]</title>
+    <updated>2026-01-21T01:28:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhukk4g19.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 終のひと
+                &lt;a href="https://tver.jp/series/srhukk4g19" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_01時28分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epor9uyh9e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★お気に入り登録で見逃さない★&lt;br&gt;【毎週火曜 深夜0時58分から放送】※時間変更の場合あり。&lt;br&gt;嗣江（柿澤勇人）の葬儀屋で働き始めた梵（西山潤）は、初仕事に胸を躍らせ嗣江と共に病院へ向かう。しかしそこに待ち受けていたのは、想定外の肩透かしだった。&lt;br&gt;母親を亡くした平間兄弟の長男・一貴（岩谷健司）と次男・勇二（福津健創）は、「葬儀屋は詐欺師同然。母親の葬儀は自分たちだけで行う」と嗣江と梵を一蹴。突き付けられた「DIY葬マニュアル」を前に、嗣江は潔く引き下がってしまう。梵は不安そうな勇二の妻・智代（工藤夕貴）に名刺を渡し、嗣江に助けを請うも、嗣江は「遺体は勝手に腐らせとけ」とどうも強気。事態は収拾したように思えたが、それは“遺体腐敗と家庭崩壊”という地獄の、序章に過ぎなかった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epor9uyh9e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvvc9ab9t</id>
+    <title>あなたを殺す旅_[Episode2 7年前の事件]</title>
+    <updated>2026-01-21T01:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw68lyr70.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あなたを殺す旅
+                &lt;a href="https://tver.jp/series/srw68lyr70" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_00時45分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvvc9ab9t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【FODにてノーカット完全版全話配信中！】&lt;br&gt;&lt;br&gt;桐井（遊屋慎太郎）から「さっさと片岡を始末しろ。7年前の恨みがあるんだろ」と急かされた小田島（髙橋大翔）は、親友・朝日（堀海登）が死んだ日のことを思い出していた。一方、片岡（和田雅成）は全国を放浪しているという自称“社長”の老人・比嘉（小沢直平）と、死刑囚の夫を持つ女性・小峰（天野麻菜）と出会い親しくなっていた。&lt;br&gt;小田島に「今夜は帰らない」と告げ、小峰の勤めるスナックへと向かう片岡。一人になった小田島は、静かな夜の港で朝日と過ごした日々を思い返していた。片岡に強く憧れていた朝日は、いつか自分も出世し、小さな島で暮らす母に家を買うという夢を語っていた。その家で「お前も一緒に住もう」と誘われ、戸惑う小田島に、朝日は「当たり前だろ。家族なんだから」と言うのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvvc9ab9t"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnrzg3yd2</id>
+    <title>略奪奪婚_[第3話 幸せにしがみつく狂気のお姫様]</title>
+    <updated>2026-01-21T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9o4l4jzm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 略奪奪婚
+                &lt;a href="https://tver.jp/series/sr9o4l4jzm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_00時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnrzg3yd2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                司（伊藤健太郎）との子を流産したえみる（中村ゆりか）。一方千春（内田理央）は予想外の妊娠が発覚し、決断を迫られる。司は泣き続けるえみるを励ましながらも、兄と比べ蔑むように笑う母親・藍子（街田しおん）の顔が頭に浮かび苛々していた。「離婚までしてえみると一緒になったのに、結局また振り出しか…」ある日千春の前にヒロキ（小野塚勇人）の友人だというナオ（松本大輝）という怪しい情報を持った青年が現れる。　［期間限定無料配信］　毎週火曜深夜24時30分からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnrzg3yd2"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epo3zu5chg</id>
+    <title>黒崎さんの一途な愛がとまらない_[第3話 小春と黒崎さんに降りかかる初めての試練!ピュアな2人はピンチを乗り切れるか!?]</title>
+    <updated>2026-01-21T00:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrejzzg0i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 黒崎さんの一途な愛がとまらない
+                &lt;a href="https://tver.jp/series/srrejzzg0i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_00時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo3zu5chg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                最新作で「ポラリス大賞」を獲った黒崎(山中柔太朗)は、その授賞式で小春(豊嶋花)への想いを口にする。公開告白と騒ぐ世間に困惑する小春。当分小春に会うことを禁止された黒崎だが、小春はある週刊誌記者に狙われて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo3zu5chg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxhl911co</id>
     <title>未来のムスコ_[第２話 波乱の共同生活スタート…思わぬ救世主現る!?]</title>
@@ -568,165 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2t9mlr1k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep59xkpzx9</id>
-    <title>私の夫は時給1,000円の大富豪_[#5「家政夫の裏の顔」]</title>
-    <updated>2026-01-19T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwtidqc0n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私の夫は時給1,000円の大富豪
-                &lt;a href="https://tver.jp/series/srwtidqc0n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月26日(月)_01時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep59xkpzx9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                専業主婦の凛花（小高サラ）は夫の悠太（垣雅之）から離婚して愛人の美雨（本田美羽）と再婚するから家を出て行けと罵倒される。そこにやってきたのは家政夫に扮した大企業ルミナスパレス会長・篠宮碧（松本享恭）。身分を隠した碧と契約結婚した凛花は家政婦として一緒に働き始めるが、悠太の実家に派遣されてしまいひどい侮辱と嫌がらせを受ける。嫌がらせに耐える凛花。しかし凛花が高価なダイヤの結婚指輪をしていることに美雨が気付いて…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep59xkpzx9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep54xlbv2n</id>
-    <title>私の夫は時給1,000円の大富豪_[【スマホ用】#5「家政夫の裏の顔」]</title>
-    <updated>2026-01-19T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwtidqc0n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私の夫は時給1,000円の大富豪
-                &lt;a href="https://tver.jp/series/srwtidqc0n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月26日(月)_01時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep54xlbv2n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                専業主婦の凛花（小高サラ）は夫の悠太（垣雅之）から離婚して愛人の美雨（本田美羽）と再婚するから家を出て行けと罵倒される。そこにやってきたのは家政夫に扮した大企業ルミナスパレス会長・篠宮碧（松本享恭）。身分を隠した碧と契約結婚した凛花は家政婦として一緒に働き始めるが、悠太の実家に派遣されてしまいひどい侮辱と嫌がらせを受ける。嫌がらせに耐える凛花。しかし凛花が高価なダイヤの結婚指輪をしていることに美雨が気付いて…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep54xlbv2n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epk4rv3fop</id>
-    <title>仮面の忍者 赤影_[第十話 霞谷への物語]</title>
-    <updated>2026-01-19T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 仮面の忍者 赤影
-                &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk4rv3fop.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                霞谷に侵入し信者に目を覚ますよう説く《金目教》の開祖・夢眼老師（徳井優）のもとへと向かった赤影（佐藤大樹）、青影（木村慧人）、白影（加藤諒）。以前に《金目教》に潜入した際、幻妖斎（忍成修吾）の妖術によって正体を見抜かれた白影は、なぜ幻妖斎に正体を暴かれず、心を操られることもないのかと彼に尋ねるが、なぜか青影は刀を抜いて――？　3人は夢眼老師に《ある秘密》があることを知る。&#13;&lt;br&gt;赤影は、幻妖斎を生け捕りにするべく霞谷まで同行してもらえるように夢眼老師にお願いするも、刀を携える三人を信用できないと断られてしまう。夢眼老師は、彼らにある条件を突きつけるのだった。&#13;&lt;br&gt;夢眼老師からの条件に応えるべく、赤影、青影、白影は、これまでの出会いから仲間・兄弟となった経緯、そして幻妖斎を追う目的を語り始めて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epk4rv3fop"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb0tyeble</id>
-    <title>DARK13 踊るゾンビ学校_[【2話万引き篇】 おばさん店長 vs 反抗期JC　死闘の果てに手にしたもの]</title>
-    <updated>2026-01-19T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs48u7lad.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DARK13 踊るゾンビ学校
-                &lt;a href="https://tver.jp/series/srs48u7lad" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb0tyeble.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                堤幸彦原案・演出!イケメン人情派ゾンビ×超絶ダンスの前代未聞のホラーコメディ。&lt;br&gt;便利なお気に入り登録で見逃し防止!&lt;br&gt;&lt;br&gt;第2話&lt;br&gt;ー万引き篇ー&lt;br&gt;ゲスト人間：坂本文子・堀口真帆&lt;br&gt;&lt;br&gt;♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦&lt;br&gt;現世とあの世のはざまにある、まるで廃校の教室のような閉鎖空間、通称『ドグマクラス』。&lt;br&gt;なんらかのトラブルを抱え自己本位に言い争う人間たちが、あの世へと行く前に送りこまれ、案内人のマウス(前田拳太郎)・ビーフ(八木将康)、そして様々な“特殊能力”をもつ 10 体のゾンビたち(THE JET BOY BANGERZ)によって“最後の学び”と“裁き”を受け、最終的な審判は校長の仁(橘ケンチ)が下す…。&lt;br&gt;&lt;br&gt;「だから勘違いだって!!離してクソババア!!」&lt;br&gt;カバンを片手に必死で抵抗する女子中学生の里佳(堀口真帆)。ドラッグストアで万引きの疑いをかけられ、店長の奈津子(坂本文子)に腕を掴まれて引きずられていた。&lt;br&gt;&lt;br&gt;――そんな言い争いの刹那、2人はドグマクラスへと送り込まれてしまう。&lt;br&gt;実は、万引き犯の里佳が逃走した結果、2人は不慮の事故によって命を落とす運命にあったのだ…。&lt;br&gt;&lt;br&gt;現世に戻るか地獄行きか。ゾンビたちの多数決によって裁かれるが、万引きをした里佳を支持するのはチキン(HINATA)とドラゴン(AOI)の2体だけ。&lt;br&gt;窮地に追い込まれた里佳はチキンを担任に選び、能力を発動するが…。&lt;br&gt;&lt;br&gt;ドグマクラスでの“魂の浄化”の末、2人に下される審判の結果は…!?&lt;br&gt;♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb0tyeble"/>
   </entry>
 </feed>
