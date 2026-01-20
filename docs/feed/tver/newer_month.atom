@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-20T02:05:33+09:00</updated>
+  <updated>2026-01-20T11:12:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epo5aczfr0</id>
+    <title>三国志　秘密の皇帝_[第19話]</title>
+    <updated>2026-01-20T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo5aczfr0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                劉平（りゅうへい）は、書庫で唐瑛（とうえい）が袁紹（えんしょう）の間諜と話しているのを聞いてしまう。劉平は伏寿（ふくじゅ）に遠征に関する話は唐瑛にしないよう話すが、何も知らない伏寿は唐瑛をのけ者にするのかと反発する。しかし、ちょうどその時、唐瑛が伏寿を訪ねてくる。一方、牢から出た楊修（ようしゅう）は郭嘉（かくか）から官渡（かんと）に行くよう命じられる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo5aczfr0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9xhqei51</id>
+    <title>シカゴ･ファイア_[不穏なクリスマス]</title>
+    <updated>2026-01-20T03:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シカゴ･ファイア
+                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_03時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月03日(火)_01時44分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9xhqei51.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第10話「不穏なクリスマス」(吹替)&lt;br&gt;ケイシー、ハーマン、マウチ、クルース、オーチス、ミルズは高級住宅街でのキッチンのボヤのあと、その家から5万ドルのダイヤのネックレスを盗んだ疑いをかけられ、内務調査部の取り調べを受けることに。クルースの弟リオンは激しさを増すギャングの抗争の真っただ中におり、クルースは弟を救うため最悪の選択をする。一方ドーソンは、いとこのクリスマス会にケイシーを誘う。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9xhqei51"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8ost73gd</id>
+    <title>シェパード警部・ブロークンウッドの事件簿_[第13話「悪魔の手」前編]</title>
+    <updated>2026-01-20T03:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
+                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_03時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_03時04分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8ost73gd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                浜辺にエビ漁のカゴが打ち上がり、その中に切断された人間の手が入っていた。発見者のジャレッドは、エビ漁を行うキーリー家のデスも過去にボート事故で死んだことから、悪魔の仕業だと語る。そして手のない遺体がムール貝の養殖場で発見され、殺されたのは漁業局の監査官ブライス･フェイヒーと判明する。ブライスは厳しい取り締まりから漁師たち全員から恨みを買っていたが、漁業を巡る争いに巻き込まれたのだろうか？それとも…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8ost73gd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epufhj4kui</id>
     <title>親友の「同棲して」に「うん」て言うまで_[第２話・いままで通りが難しくなるまで]</title>
@@ -688,125 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3lpisuz4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2rwjonlo</id>
-    <title>＆Hulu_[「わたたい」と親しまれる2人が旅する番組のオーストラリア編「Kis-My-Ft2 藤ヶ谷太輔＆横尾渉 NAKED ～素のまま2人旅～」▼オーストラリア特集]</title>
-    <updated>2026-01-18T02:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_02時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2rwjonlo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                特集(1)「Kis-My-Ft2 藤ヶ谷太輔＆横尾渉 NAKED ～素のまま2人旅～ inオーストラリア・ケアンズ」&lt;br&gt;公私共に仲良しな藤ヶ谷＆横尾、ファンから「わたたい」と親しまれる2人が、ありのままの姿で旅する番組の第2弾。「コアラを抱っこしてみたい」そんな純粋な願いから始まったケアンズ旅。台本一切なしのリアルな旅程と共に2人だからこそ見せる素顔に密着！&lt;br&gt;特集(2)「オーストラリア特集」&lt;br&gt;オーストラリアTVドラマ史上視聴率No.1！&lt;br&gt;女子刑務所を舞台に普通の主婦が囚人や看守たちの権力争いに巻き来まれていく「ウェントワース女子刑務所」やオーストラリアで人気の結婚実験リアリティ番組「マッチングの神様 ～結婚実験リアリティ～」など、オーストラリアが舞台のドラマやドキュメンタリーなどを紹介！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2rwjonlo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyj8kw1gu</id>
-    <title>未確認日記_[第2話「容疑者、全員UMA。」]</title>
-    <updated>2026-01-18T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srweiq9813.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未確認日記
-                &lt;a href="https://tver.jp/series/srweiq9813" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月08日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyj8kw1gu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                もし、畳に残された“巨大な足跡”の犯人が、&#13;&lt;br&gt;未確認生物だったら？&#13;&lt;br&gt;&#13;&lt;br&gt;父・恭栄（水野智則）の失踪をきっかけに、栄太（前田旺志郎）とヤマダ（坂巻有紗）は一つの結論にたどり着く。&#13;&lt;br&gt;――犯人は、家の前にいたあいつしかいない。&#13;&lt;br&gt;&#13;&lt;br&gt;ビッグフット。&#13;&lt;br&gt;&#13;&lt;br&gt;しかし疑われた本人・ビッグフット（ニシダ・コウキ【ラランド】）は全力で否定する。&#13;&lt;br&gt;「俺じゃない！」&#13;&lt;br&gt;そう言い切った直後、なぜか栄太にこう頼み込む。&#13;&lt;br&gt;「……パソコン、貸してくれない？」&#13;&lt;br&gt;&#13;&lt;br&gt;そのパソコンで始まったのは、誰も予想しなかった事態。&#13;&lt;br&gt;画面越しに現れたのは、&#13;&lt;br&gt;伝説のUMA――&#13;&lt;br&gt;ツチノコ（福留光帆）、ネッシー（浦井のりひろ【男性ブランコ】）、チュパカブラ（平井まさあき【男性ブランコ】）。&#13;&lt;br&gt;&#13;&lt;br&gt;そう、これは未確認生物だけのオンライン会議。&#13;&lt;br&gt;畳の足跡、父の行方、そして「本当の犯人」。&#13;&lt;br&gt;人間そっちのけで交わされる、衝撃すぎる証言の数々とは――!?&#13;&lt;br&gt;&#13;&lt;br&gt;さらに、謎めいた少年・智也（三浦綺羅）も加わり、物語は予想外の方向へ加速していく。&#13;&lt;br&gt;父はどこへ消えたのか。&#13;&lt;br&gt;そして“巨大な足跡”は、何を示しているのか――。&#13;&lt;br&gt;&#13;&lt;br&gt;&#13;&lt;br&gt;≪全編LEDスタジオ×生成AI背景≫&#13;&lt;br&gt;実験的手法で描く、前代未聞のオカルトコメディ『未確認日記』。&#13;&lt;br&gt;ついに最終回。&#13;&lt;br&gt;&#13;&lt;br&gt;――果たして物語の行方は…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyj8kw1gu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8891rjp0</id>
-    <title>横浜ネイバーズ Season1_[第2話 愛と偏愛]</title>
-    <updated>2026-01-18T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
-                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月24日(土)_23時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8891rjp0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚4年目の伊能優理香（宮内ひとみ）は悩んでいた。最近、夫の様子がおかしいのだ。残業や休日出勤を言い訳に家にいない時間が増え、たった今も、シャワーに行くのに携帯を肌身離さずに持っていく。もしかしたら夫は……&lt;br&gt;ロン（大西流星）のもとに、高校時代の同級生でラッパーの凪（紺野彩夏）から「浮気調査をしてほしい」と相談が入る。凪はデザイン事務所で働いており、そこの上司である優理香からの依頼だという。夫の克志（鳥羽潤）は大手保険会社勤務。だが、優理香に隠れて700万円の借金もしているという。借金の理由を知りたいという優理香。だが、ロンはそんな優理香の表情に違和感を覚える。&lt;br&gt;捜査一課刑事の欽太（原嘉孝）の手ほどきを受け、幼馴染のマツ（高橋侃）とともに克志を尾行するロン。しかし、克志には特に不穏な様子はなかった。打開策が見えない中、SNS上級者のヒナ（平祐奈）に克志のアカウント捜索を依頼するロン。そこで、克志がとあるゲームにはまっていることが分かる。もしかしたら課金による借金？しかし、ロンはまだ優理香に抱いた違和感がぬぐえず……&lt;br&gt;愛はいつでも偏愛になり得る。とある夫婦の、悲しくも麗しいすれ違いの物語！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8891rjp0"/>
   </entry>
 </feed>
