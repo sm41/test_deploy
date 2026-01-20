@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-20T14:05:10+09:00</updated>
+  <updated>2026-01-20T16:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -728,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epyzuokg17"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcydt9hyk</id>
-    <title>リブート_[第１話 至愛]</title>
-    <updated>2026-01-18T22:19:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リブート
-                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月18日(日)_22時19分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcydt9hyk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;ハヤセ洋菓子店を営む早瀬陸（松山ケンイチ）は家族を愛する心優しいパティシエ。２年半前に妻・夏海（山口紗弥加）が前触れもなく失踪し、息子の拓海（矢崎滉）と母の良子（原田美枝子）とともに帰りを待ち続けている。しかし、その希望は突如絶たれる。店にやって来た捜査一課の刑事・儀堂歩（鈴木亮平）から山中で白骨化遺体が発見されたと知らされ、検視の結果、遺体は妻だと断定されたのだ。&lt;br&gt;葬儀の最中、早瀬は夏海が勤めていたゴーシックスコーポレーションの顧問弁護士・海江田勇（酒向芳）から不可解な質問を受ける。ゴーシックスコーポレーションはホテルや飲食業を営む会社だが、代表の合六亘（北村有起哉）は裏の顔を持ち、儀堂ともつながりがある。葬儀場には合六の部下・冬橋航（永瀬廉）と財務担当・幸後一香（戸田恵梨香）の姿もあった。&lt;br&gt;悲しみに追い打ちをかけるように、捜査一課の刑事・足立翼（蒔田彩珠）らが夏海のパソコンなどを押収。そして、ある証拠から早瀬に妻殺しの容疑がかけられてしまう。&lt;br&gt;最愛の妻を亡くした上に警察から追われる身となった早瀬は、一香から、儀堂に顔を変えて生きるリブート（再起動）を提案される。妻殺しの真犯人を探すため、家族と過去を捨てて儀堂になりすます早瀬（鈴木亮平・２役）。しかし、儀堂には監察官・真北正親（伊藤英明）の執拗な監視が待っていて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcydt9hyk"/>
   </entry>
 </feed>
