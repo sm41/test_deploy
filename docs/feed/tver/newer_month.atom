@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-21T16:06:03+09:00</updated>
+  <updated>2026-01-21T18:05:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -51,7 +51,7 @@
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epnzgjwbxs</id>
-    <title>マトリと狂犬_[#１《ドラマイズム》]</title>
+    <title>マトリと狂犬_[#１「狂気の始まり」《ドラマイズム》]</title>
     <updated>2026-01-21T01:58:00+09:00</updated>
     <content type="html">        &lt;body&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8qcrft60.jpg"&gt;
