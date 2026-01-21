@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-21T18:05:02+09:00</updated>
+  <updated>2026-01-21T20:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvctcvw12</id>
+    <title>3年B組金八先生(第6シリーズ)_[第15回 お腹の子供が動く]</title>
+    <updated>2026-01-21T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvctcvw12.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;都立推薦入試の結果が発表された。３年B組では合格組と不合格組が入り乱れて悲喜こもごも。風見陽子（中分舞）は楽勝のはずの青嵐高校に落ちて、金八（武田鉄矢）の推薦書が手抜きだったなどと八つ当たりする。お互い同じ高校を目指していた嘉代正臣（佐々木和徳）と本田奈津美（谷口響子）は片方しか合格せず、もう恋人ではないと大ゲンカを始める。そんな時、乾先生（森田順平）と英子夫人（原日出子）の長男の生まれたばかりの赤ちゃんが３Bにやってきた。クラスが赤ちゃん談義で盛り上がっていると…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvctcvw12"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epeji8uo8e</id>
     <title>コウノドリ(2017)_[10.出生前診断 家族を作るということ…]</title>
@@ -1368,45 +1408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epz3sbad66"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2oemxdm6</id>
-    <title>おやじの背中_[第九話「父さん、母になる!?」作：井上由美子]</title>
-    <updated>2026-01-19T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4op48am3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おやじの背中
-                &lt;a href="https://tver.jp/series/sr4op48am3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_19時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2oemxdm6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演者 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月28日(金)20:00～1月31日(土)23:59&lt;br&gt;#4：12月30日(火)20:00～1月7日(水)19:59&lt;br&gt;#5：1月3日(土)20:00～1月11日(日)19:59&lt;br&gt;#6：1月7日(水)20:00～1月15日(木)19:59&lt;br&gt;#7：1月11日(日)20:00～1月19日(月)19:59&lt;br&gt;#8：1月15日(木)20:00～1月23日(金)19:59&lt;br&gt;#9：1月19日(月)20:00～1月27日(火)19:59&lt;br&gt;#10：1月23日(金)20:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;大学生の新城達也（神木隆之介）は就職活動中だが、なかなか内定がもらえない。友人の松崎のぞみ（岡本あずさ）は、業界最大手の柏陽建設で部長を務める達也の父・勝（内野聖陽）に就職のことを頼んでみたらと提案する。親のコネなど利用したくないという達也だが、もう後がなかった。&lt;br&gt;達也は勝の会社を訪ねるも、受付で勝が退職したと告げられる。家に帰って確かめると、上司とそりが合わないから依願退職したという勝。当てが外れて困惑する達也以上に怒り出したのは、母の絵美（夏川結衣）だった。アパレルメーカーに勤める絵美はその日、大役への抜擢を打診されたが、家事との両立が難しいからと辞退したばかりだったのだ。絵美と達也からなじられた勝は決心したように、出世のチャンスが巡ってきた妻に代わって自分が「主夫になる」と宣言する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2oemxdm6"/>
   </entry>
 </feed>
