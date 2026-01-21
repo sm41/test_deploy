@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-21T20:06:02+09:00</updated>
+  <updated>2026-01-21T22:05:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1368,45 +1368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep39ndqfco"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz3sbad66</id>
-    <title>3年B組金八先生(第6シリーズ)_[第13回 ３年B組立志式]</title>
-    <updated>2026-01-19T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz3sbad66.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;合併症の肺炎を克服した幸作（佐野泰臣）は、白血球を増やすために強化療法を受けることになり、再び無菌室に入った。幸作を心配する金八（武田鉄矢）だが、逆に推薦入試を控えた３年B組のことを気に掛けるよう助言され、共に頑張ろうと固い握手を交わす。そんな中、美紀（森田このみ）の父親が自殺を図った。面接の当日にもかかわらず、美紀は病院を離れず受験会場に向かおうとしない。打ちひしがれる美紀に声を掛けたのは、彼女にいじめられて不登校になった直美（鈴田林沙）だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epz3sbad66"/>
   </entry>
 </feed>

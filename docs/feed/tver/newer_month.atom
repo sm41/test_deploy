@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-21T20:06:02+09:00</updated>
+  <updated>2026-01-21T22:05:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0eag8nb8</id>
+    <title>相棒 season24_[第13話「信用できない語手」]</title>
+    <updated>2026-01-21T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season24
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0eag8nb8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ある日右京(水谷豊)は紅茶店で、政財界のフィクサーとして暗躍し、右京が最大限の警戒を抱いている浦神鹿(毎熊克哉)と再会。浦は、過去に家族全員を殺害されており、被疑者死亡で打ち切られた捜査に納得がいっていないため、右京に再捜査をしてほしいと相談する。右京が薫(寺脇康文)と共に再捜査を進めていると、突如松永(橋本良亮)という公安の刑事が現れ、浦に関する驚きの事実を告げる。捜査の先に待ち受ける衝撃の展開とは…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0eag8nb8"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3r3yl56z</id>
+    <title>Sugar Sugar Honey_[with コンペティションスイーツ]</title>
+    <updated>2026-01-21T21:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz5e57jr7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ Sugar Sugar Honey
+                &lt;a href="https://tver.jp/series/srz5e57jr7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_21時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3r3yl56z.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「居場所やるって言ったの、本当に試食係だと思った？そんなわけないじゃん」。梶（長妻怜央）から言われた意味深な言葉に動揺する瑞月（川津明日香）。ある日、彼女がスポーツクリニックを受診すると、主治医の鹿間梓（市川知宏）はいつもと違う瑞月の様子に気づく。この頃、ホテルオリオンでは、来るバレンタインスイーツコンテストに向けて、準備が進んでいた。取材のため、市丸かなみ（三原羽衣）がテレビ局のレポーターとしてやってくる。容姿端麗で活躍する彼女は、元マラソンランナーだという。瑞月は、かなみとの偶然の再会に驚く。ある日、瑞月はかなみから梶や仕事について遠慮のない質問をぶつけられ、動揺を隠せなくなり・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3r3yl56z"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep14949ms9</id>
     <title>三国志　秘密の皇帝_[第20話]</title>
@@ -648,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephjshe9wt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep296qwdxq</id>
-    <title>ヤンドク！_[第2話 病院のルールをぶっとばせ！命と同じく大切な物]</title>
-    <updated>2026-01-19T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンドク！
-                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep296qwdxq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                元ヤンキーの新米ドクター・田上湖音波（橋本環奈）が都立お台場湾岸医療センターに来て数週間。事務局長の鷹山（大谷亮平）たちは院内のルールを全く守らない湖音波を咎めるが、本人は全く反省していない様子。&lt;br&gt;そんな中、2年前に脳腫瘍の摘出手術を受けた篠原和子が腫瘍の再発で入院してくる。しかし、付き添っていた和子の娘・美咲（入山杏奈）は1ヶ月後に結婚式を予定しており、母に式へ出席してほしいと熱望していた。&lt;br&gt;事情を聞いた看護師の颯良（宮世琉弥）は担当医の大友（音尾琢真）に相談するが、病状の進行具合から「（出席は）無理だ」と突っぱねられてしまう。美咲の想いを汲み取った湖音波と颯良が式に同行すると申し出たことで、和子の外出許可が下りる。喜び合う和子と美咲だが、お見舞いを終えた帰り際、美咲は院内で倒れてしまう…。緊急MRIを撮ると、脳の奥に上衣腫という腫瘍ができていた。母に心配をかけないため黙っていてほしいと、美咲は湖音波と颯良にお願いする。さらに、美咲は結婚式を控えているため髪の毛は絶対に切りたくないという。ヘアモデルをしている美咲は、子供の頃から和子が手入れをしてくれた美しい髪を何より大切にしていた。しかし治療のためには、なるべく早く開頭手術をする必要がある。それは、髪の毛を剃ることを意味していた。湖音波は美咲の髪を剃らずに手術ができないかと考え、院内のルールに立ち向かうが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep296qwdxq"/>
   </entry>
 </feed>
