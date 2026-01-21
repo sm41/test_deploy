@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-21T11:55:07+09:00</updated>
+  <updated>2026-01-21T12:05:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -688,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep296qwdxq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmbzg68bx</id>
-    <title>流星花園II～花より男子～_[第6話　七夕の夜]</title>
-    <updated>2026-01-19T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星花園II～花より男子～
-                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月19日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月19日(木)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmbzg68bx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                司は過去を捨て、新たな人生を歩む決意をする。何もできなかった彼も努力を重ね、ついにカフェで働き始める。情人節、そして七夕が近づき、街はロマンチックな空気に包まれていた。一方、寂しさを紛らわすためつくしは七夕の日に自らバイトを申し出る。そんな彼女を励まそうと、和也はF3を呼び出し、ある計画を立てる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmbzg68bx"/>
   </entry>
 </feed>
