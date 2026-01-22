@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-22T02:06:02+09:00</updated>
+  <updated>2026-01-22T11:14:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep8xkdc0sv</id>
+    <title>三国志　秘密の皇帝_[第21話]</title>
+    <updated>2026-01-22T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月29日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8xkdc0sv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                お忍びで官渡（かんと）へと向かった劉平（りゅうへい）と伏寿（ふくじゅ）、そして曹丕（そうひ）。しかし、道中で袁紹（えんしょう）軍に襲われ、３人とも捕らえられてしまう。目隠しをされた劉平が連れていかれた先には、郭嘉に強い恨みを抱く蜚（ひ）先生が待ち受けていた。一方、司馬懿（しばい）は鄴（ぎょう）に到着したが、ある人物に目をつけられてしまい…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8xkdc0sv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epz165fh9o</id>
+    <title>L&amp;P_[第16話　分かったよ]</title>
+    <updated>2026-01-22T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz165fh9o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                朱韻(ジュー・ユン)は、コンテストに高校時代の先輩・方志靖(ファン･ジージン)が出場することを知る。かつて親友が志靖のせいで自殺して以降、朱韻は彼を忌み嫌っていた。志靖に1位を取らせたくない朱韻は、李峋(リー・シュン）にコンテストに出場して優勝してほしいと懇願。二人の挑戦がここから始まる…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz165fh9o"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuus43p8o</id>
     <title>私の夫は時給1,000円の大富豪_[【スマホ用】#6「契約結婚の行方」]</title>
@@ -808,45 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep143v0nc8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo5aczfr0</id>
-    <title>三国志　秘密の皇帝_[第19話]</title>
-    <updated>2026-01-20T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo5aczfr0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                劉平（りゅうへい）は、書庫で唐瑛（とうえい）が袁紹（えんしょう）の間諜と話しているのを聞いてしまう。劉平は伏寿（ふくじゅ）に遠征に関する話は唐瑛にしないよう話すが、何も知らない伏寿は唐瑛をのけ者にするのかと反発する。しかし、ちょうどその時、唐瑛が伏寿を訪ねてくる。一方、牢から出た楊修（ようしゅう）は郭嘉（かくか）から官渡（かんと）に行くよう命じられる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo5aczfr0"/>
   </entry>
 </feed>
