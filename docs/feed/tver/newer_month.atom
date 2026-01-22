@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-22T20:05:29+09:00</updated>
+  <updated>2026-01-22T22:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep4iutfhfk</id>
+    <title>おコメの女－国税局資料調査課・雑国室－_[第３話 国税VS悪徳美容クリニック巨額脱税!?]</title>
+    <updated>2026-01-22T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraq1nkeu3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ おコメの女－国税局資料調査課・雑国室－
+                &lt;a href="https://tver.jp/series/sraq1nkeu3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4iutfhfk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                正子（松嶋菜々子）率いる《ザッコク》が新たに調査に乗り出したのは、自らCMにも出演する総院長・芦屋満信（池田鉄洋）が経営する美容クリニック。&#13;&lt;br&gt;チーム全員で先行調査に取りかかろうとするが、優香（長濱ねる）は拒否。神無月シェイク（淵上泰史）の占いサロンについて単独捜査を始める。&#13;&lt;br&gt;一方の飯島作久子（大地真央）は、客を装って美容クリニックを内観調査。また、クリニックの医師たちが集うサウナに潜入した笹野耕一（佐野勇斗）と古町豊作（高橋克実）は、奇妙な会話を耳にして…。&#13;&lt;br&gt;やがて本件は、美容クリニック、占いサロン、さらには宗教法人までが絡み始め、予想外に壮大な事案へと発展し…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4iutfhfk"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnlr41m58</id>
     <title>運命のキスをお願い！_[第30話   任せた]</title>
