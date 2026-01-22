@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-23T00:05:28+09:00</updated>
+  <updated>2026-01-23T02:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1128,45 +1128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfwhv50fp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfcghod22</id>
-    <title>キッズ・ウォー２～ざけんなよ～_[第38話]</title>
-    <updated>2026-01-21T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
-                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月15日(水)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfcghod22.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週月曜～金曜１２時　新エピソード更新！！】  「警察を呼ぶ」という三枝子に茜は「お父さんを許して」と土下座して懇願する。茜の後を追ってきた春子は必死な茜の姿に胸を締め付けられ、「茜に対して恥ずかしくないのか」と中西をひっぱたく。結局、中西はきちんと働いて、三枝子に毎月お金を返済していくことを約束し、和解する。ホッとしたのもつかの間、夜中に翼（斉藤祥太）の妹から茜に「翼が家を飛び出した」との連絡が入る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfcghod22"/>
   </entry>
 </feed>
