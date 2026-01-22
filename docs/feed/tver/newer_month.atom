@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-22T16:05:28+09:00</updated>
+  <updated>2026-01-22T18:06:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -808,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epxhl911co"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnlm1wima</id>
-    <title>東京P.D. 警視庁広報2係_[第2話 迫るリミット 隠蔽の行方・・・揺らぐ警察の誇り]</title>
-    <updated>2026-01-20T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
-                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月20日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月20日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnlm1wima.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                墨田西殺人事件で、捜査一課は被害者のストーカーをしていた警察官・矢島和夫（阿部翔平）が犯人だと断定するも、警察官の不祥事を表に出したくない人事監察課長・橋本信（赤ペン瀧川）により、事件とは直接関係のないホームレスの男・半田建造（ジジ・ぶぅ）がストーカー殺人犯に仕立て上げられてしまう。&lt;br&gt;&lt;br&gt;さらに、被害者女性が金銭トラブルを起こしていたという風評被害まで広まってしまい、記者の稲田裕司（金子ノブアキ）は、その違和感にいち早く気づいたが、警察内部で絶対的な権力を持つ橋本の方針に、今泉麟太郎（福士蒼汰）も安藤直司（緒形直人）も、何も言えない。&lt;br&gt;&lt;br&gt;一方の橋本は、なかなか半田を逮捕しない捜査一課に苛立ちはじめていた。捜査一課長の北川一（津田寛治）は、起訴するための確実な証拠が足りないと主張するが、橋本は気に食わない様子で・・・。&lt;br&gt;&lt;br&gt;今泉は何か出来ることがないかと広報課へ戻って事件の捜査状況を調べ始めたが、墨田西署は職務怠慢が横行しており、報告書が極端に少なかった。これでは調べようがない・・・と一度は落胆する今泉だったが、あるシステムを思い出す。&lt;br&gt;&lt;br&gt;これと同じ頃、安藤は捜査一課理事官の松永重彦（利重剛）と共に、ある人物の取り調べに挑もうと北川に提案し・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnlm1wima"/>
   </entry>
 </feed>
