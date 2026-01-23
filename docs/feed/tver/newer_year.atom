@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-23T11:19:47+09:00</updated>
+  <updated>2026-01-23T12:06:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epu9i4j2t6</id>
+    <title>大好き！五つ子4_[第５回 二人の関係]</title>
+    <updated>2026-01-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu9i4j2t6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;同級生の清水弥生（吉谷彩子）や山田泉美（本橋里紗）が携帯電話でメールのやりとりをしているのを見て、美穂（新穂えりか）はうらやましくてたまらない。通信簿の成績が良かったのを桃子（森尾由美）に誉められた美穂は、すかさず携帯をねだるが、あっさり拒否される。美穂は通信簿を持って千絵子（茅島成美）を訪ねる。しかし、美穂の狙いはすでに読まれており、千絵子は桃子にクギを差されていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu9i4j2t6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eph6kjjpwn</id>
+    <title>キッズ・ウォー２～ざけんなよ～_[第40話]</title>
+    <updated>2026-01-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
+                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月17日(金)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph6kjjpwn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週月曜～金曜１２時　新エピソード更新！！】   茜は浩がクラスメートにいじめられている現場に出くわすが、浩は先生にも茜にも「いじめられていない」とキッパリ。だが、翌朝、浩は仮病を使って学校を休んでしまう。春子は浩を励まそうと仕事を早引きし、ツーリングに連れ出す。春子は浩に無理に学校へ行かなくてもいいと言う。浩が元気でいることが大事だという春子の言葉に勇気を持った浩は、健一の通うフリースクールに通いたいと打ち明ける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph6kjjpwn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epborre4hd</id>
+    <title>夕暮れに、手をつなぐ_[最終話 音の消えた世界]</title>
+    <updated>2026-01-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98lmizol.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 夕暮れに、手をつなぐ
+                &lt;a href="https://tver.jp/series/sr98lmizol" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epborre4hd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！ 出演：永瀬廉 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：永瀬廉・酒向芳 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：11月28日(金)18:00～1月31日(土)23:59&lt;br&gt;#4：12月30日(火)12:00～1月7日(水)11:59&lt;br&gt;#5：1月3日(土)12:00～1月11日(日)11:59&lt;br&gt;#6：1月7日(水)12:00～1月15日(木)11:59&lt;br&gt;#7：1月11日(日)12:00～1月19日(月)11:59&lt;br&gt;#8：1月15日(木)12:00～1月23日(金)11:59&lt;br&gt;#9：1月19日(月)12:00～1月27日(火)11:59&lt;br&gt;#10：1月23日(金)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;デザイナーとしての夢のために、空豆（広瀬すず）は母親・塔子（松雪泰子）と一緒にパリへと旅立つ日が近づいていた。運命的な出会いから、忘れられない日々を一緒に過ごした空豆と音（永瀬廉）の、胸を締め付ける切ない恋の行方は！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epborre4hd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epfx2o6wxn</id>
     <title>めぐり逢󠄀い_[最終話「ずっと抱きしめて」]</title>
@@ -968,45 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvctcvw12"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epeji8uo8e</id>
-    <title>コウノドリ(2017)_[10.出生前診断 家族を作るということ…]</title>
-    <updated>2026-01-21T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sremi71rgs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コウノドリ(2017)
-                &lt;a href="https://tver.jp/series/sremi71rgs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_13時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeji8uo8e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：吉田羊 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月27日(土)14:00～1月31日(土)23:59&lt;br&gt;#4：12月31日(水)14:00～1月7日(水)13:59&lt;br&gt;#5：1月3日(土)14:00～1月10日(土)13:59&lt;br&gt;#6：1月7日(水)14:00～1月14日(水)13:59&lt;br&gt;#7：1月10日(土)14:00～1月17日(土)13:59&lt;br&gt;#8：1月14日(水)14:00～1月21日(水)13:59&lt;br&gt;#9：1月17日(土)14:00～1月24日(土)13:59&lt;br&gt;#10：1月21日(水)14:00～1月28日(水)13:59&lt;br&gt;#11：1月24日(土)14:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;別のクリニックで出生前診断を受け、２１トリソミー陽性と検査結果が出た妊婦の高山透子（初音映莉子）と夫・光弘（石田卓也）がサクラ（綾野剛）の元を訪れる。サクラは透子と光弘に確定検査である羊水検査について説明し、お腹の中の赤ちゃんについて「２人で向き合い、決めていくことになる」と告げる。動揺する透子と光弘に「これからのことを一緒に考えよう」と寄り添うサクラ。一方で、サクラと今橋（大森南朋）は、出生前診断を受けたもう１組の夫婦、辻明代（りょう）と夫・信英（近藤公園）のカウンセリングを行う。こちらの夫婦は羊水検査でダウン症候群との診断を受けていた。２組の夫婦の選択に、サクラはどう向き合い、どう寄り添っていくのか。命について思い悩むペルソナメンバーたちに、サクラは自らの“ある思い”を告げる…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epeji8uo8e"/>
   </entry>
 </feed>

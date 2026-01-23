@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-23T11:19:47+09:00</updated>
+  <updated>2026-01-23T12:06:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvaq391je</id>
+    <title>まどか26歳、研修医やってます！_[ep.10 決断の時！人生をかけてやりたいこと]</title>
+    <updated>2026-01-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wopca43.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ まどか26歳、研修医やってます！
+                &lt;a href="https://tver.jp/series/sr2wopca43" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月18日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvaq391je.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：木村多江 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：12月27日(土)12:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)12:00～1月4日(日)11:59&lt;br&gt;#5：12月30日(火)12:00～1月7日(水)11:59&lt;br&gt;#6：1月5日(月)12:00～1月13日(火)11:59&lt;br&gt;#7：1月8日(木)12:00～1月16日(金)11:59&lt;br&gt;#8：1月14日(水)12:00～1月22日(木)11:59&lt;br&gt;#9：1月17日(土)12:00～1月25日(日)11:59&lt;br&gt;#10：1月23日(金)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;角田（奥田瑛二）が運び込まれ、膵臓がんと診断された。幸いステージ１のため手術をすれば助かると聞くが、不安が拭えないまどか（芳根京子）。そんな中、角田は手術の執刀医に離島から一時的に戻っていた菅野（鈴木伸之）を指名する。菅野は、経験を積むまたとないチャンスだと西山（赤堀雅秋）らに激励され、一度は承諾するが、難易度の高い手術な上、患者が角田というプレッシャーから、執刀を変更して欲しいと申し出る。そんな菅野を奮い立たせようとまどかはある助言をする。&lt;br&gt;そうして迎えた角田の手術の直前、救命救急のホットラインに工事現場の事故の一報が入る。重症患者が多数いる中、受け入れを決めた城崎（佐藤隆太）は、角田の手術を行う菅野たちのためにある決断をするのだった。&lt;br&gt;一方、まどかは、末期の肝臓がんで入院している吉岡（金田明夫）の死への恐怖が少しでも拭えるように気遣っていた。&lt;br&gt;そんな矢先、角田が倒れたことで、医師不足による清桜病院の危機が浮き彫りに。まどかは病院に何か恩返しができないかとつぼみ隊に相談し、病院を盛り上げようとある計画を始めた。そうした後輩たちの姿を見て、冴子（木村多江）や西山、城崎が病院を支えるために決意したこととは…。&lt;br&gt;さらに、明かされるドクターKの秘密。そしてまどかが抱く菅野への恋心の行方は果たして！？様々な想いを胸に、まどかはついに科を選択する―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvaq391je"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0bm9zrrx</id>
     <title>三国志　秘密の皇帝_[第22話]</title>
