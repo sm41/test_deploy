@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-23T14:06:15+09:00</updated>
+  <updated>2026-01-23T16:05:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -928,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epcjs2grqj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epet4vzs9v</id>
-    <title>ラムネモンキー_[第2話 美少女ミンメイの謀略]</title>
-    <updated>2026-01-21T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbhgspg4n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラムネモンキー
-                &lt;a href="https://tver.jp/series/srbhgspg4n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月21日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epet4vzs9v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                中学の同級生・吉井雄太（反町隆史）、藤巻肇（大森南朋）、菊原紀介（津田健次郎）の3人は、カフェの店員・西野白馬（福本莉子）とともに人骨が発見された工事現場に忍び込む。そこで発見したのは、中学時代の臨時教師・マチルダこと宮下未散（木竜麻生）が使っていたのと同じボールペンだった・・・。&lt;br&gt;雄太たちは地元の警察署へ行き、鶴見巡査（濱尾ノリタカ）にマチルダの殺人について捜査するよう訴えるが、相手にされない。自分たちで事件を調べようとするが、他に当時からの友人もおらず、記憶もあやふや。途方に暮れる3人を見かねた白馬はSNSで情報を求める。&lt;br&gt;一方、贈賄事件の容疑がかけられた雄太の謹慎は解けたものの、閑職に追いやられてしまう。料理研究家である妻の絵美（野波麻帆）や高校生の娘・綾（三浦舞華）も事件の影響を受け、家の中は重たい空気に。&lt;br&gt;白馬のSNSに元クラスメートの石井洋子から連絡があった。4人は白馬が働くカフェで対面する。再会を懐かしむ洋子だが、雄太たちは彼女を全く思い出せない。雄太がマチルダについて尋ねると、洋子いわく、彼女はアダルトビデオに出たり、愛人バンクをしていた過去があり、それが学校にバレて辞めさせられたという。あまりの話に呆然とする3人。&lt;br&gt;そして、雄太の脳裏には妙な記憶が浮かぶ。当時、雄太と親しかったミンメイこと大葉灯里（泉有乃）とマチルダが決闘し、マチルダは殺されて沼に沈められたというのだ・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epet4vzs9v"/>
   </entry>
 </feed>
