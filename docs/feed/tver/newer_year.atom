@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-23T12:06:15+09:00</updated>
+  <updated>2026-01-23T14:06:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epv6njh7z6</id>
+    <title>不適切にもほどがある！_[第９話 分類しなきゃダメですか？]</title>
+    <updated>2026-01-23T13:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdap3p6wy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 不適切にもほどがある！
+                &lt;a href="https://tver.jp/series/srdap3p6wy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_13時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_12時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv6njh7z6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;社内報のインタビューを受けた渚（仲里依紗）。その記事を読んだ後輩・杉山ひろ美（円井わん）が渚の発言は自分に対するアウティングかつマタハラだ、と市郎（阿部サダヲ）のもとに相談にくる。秋津（磯村勇斗）も交え、市郎から話を聞いた渚は、特定の誰かについて話したわけではないとショックを受ける。しかし、杉山の気持ちはおさまらず…。そんな中、秋津は社内モニターとして登録しているマッチングアプリでマッチした証券会社勤務の矢野恭子（守屋麗奈）と会うため、市郎と一緒に待ち合わせ場所の「SCANDAL」へ。すると、そこには昭和にいるはずのサカエ（吉田羊）の「ちょっと綺麗になった」姿があり…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epv6njh7z6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu9i4j2t6</id>
     <title>大好き！五つ子4_[第５回 二人の関係]</title>
@@ -1048,45 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep66bkgg4m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvctcvw12</id>
-    <title>3年B組金八先生(第6シリーズ)_[第15回 お腹の子供が動く]</title>
-    <updated>2026-01-21T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月21日(水)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvctcvw12.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;都立推薦入試の結果が発表された。３年B組では合格組と不合格組が入り乱れて悲喜こもごも。風見陽子（中分舞）は楽勝のはずの青嵐高校に落ちて、金八（武田鉄矢）の推薦書が手抜きだったなどと八つ当たりする。お互い同じ高校を目指していた嘉代正臣（佐々木和徳）と本田奈津美（谷口響子）は片方しか合格せず、もう恋人ではないと大ゲンカを始める。そんな時、乾先生（森田順平）と英子夫人（原日出子）の長男の生まれたばかりの赤ちゃんが３Bにやってきた。クラスが赤ちゃん談義で盛り上がっていると…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvctcvw12"/>
   </entry>
 </feed>
