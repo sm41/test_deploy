@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-23T02:05:28+09:00</updated>
+  <updated>2026-01-23T11:19:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0bm9zrrx</id>
+    <title>三国志　秘密の皇帝_[第22話]</title>
+    <updated>2026-01-23T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月23日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0bm9zrrx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                劉平（りゅうへい）や曹丕（そうひ）たちの目の前に捕虜になった者たちが連れてこられる。その中には鄧展（とうてん）もいた。突然のことに少し動揺したが、劉平たちと鄧展は話を合わせ窮地を脱する。その頃、曹操（そうそう）の配下だと誤解され牢屋に閉じ込められていた司馬懿（しばい）は、一芝居打って釈放され、審配（しんぱい）親子の信頼までも得るのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0bm9zrrx"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep6uegamo1</id>
     <title>私のIDはカンナム美人_[第16話]</title>
