@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-23T18:06:15+09:00</updated>
+  <updated>2026-01-23T20:06:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp6cznfj3</id>
+    <title>3年B組金八先生(第6シリーズ)_[第17回 出会いサイトの罠]</title>
+    <updated>2026-01-23T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp6cznfj3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;高校にも落ち、正臣（佐々木和徳）に振られて傷心の奈津美（谷口響子）は、当てつけに長谷川奈美（中村友美）と出会い系サイトに伝言を残した。すぐに返事があり、２人は高校生だとウソをついて相手に会いに行く。向こうも高校生のはずが、実際に来たのは中年の男だった。斉田（野添義弘）というその男に頼み込まれてイヤイヤながら食事をした２人は翌日学校でそのことを自慢し、さらに正臣との確執を深めてしまう。その後、斉田に独りで呼び出された奈津美は連れ去られ、金八（武田鉄矢）を始め職員総出で捜索する大騒ぎに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp6cznfj3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep92o4fgy1</id>
+    <title>おやじの背中_[第十話「北別府さん、どうぞ」作：三谷幸喜]</title>
+    <updated>2026-01-23T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4op48am3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ おやじの背中
+                &lt;a href="https://tver.jp/series/sr4op48am3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep92o4fgy1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演者 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：11月28日(金)20:00～1月31日(土)23:59&lt;br&gt;#4：12月30日(火)20:00～1月7日(水)19:59&lt;br&gt;#5：1月3日(土)20:00～1月11日(日)19:59&lt;br&gt;#6：1月7日(水)20:00～1月15日(木)19:59&lt;br&gt;#7：1月11日(日)20:00～1月19日(月)19:59&lt;br&gt;#8：1月15日(木)20:00～1月23日(金)19:59&lt;br&gt;#9：1月19日(月)20:00～1月27日(火)19:59&lt;br&gt;#10：1月23日(金)20:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;がんの治療で病院に通う“売れない役者”北別府（小林隆）は、妻（吉田羊）とは別れ、８歳の息子・寅雄（須田琉雅）と暮らしていた。ある日の治療終わり、病院の待合で休んでいた北別府は、ドラマのスタッフ・上田（秋元才加）に声をかけられる。その病院でロケをしていたという上田は、撮影で使った白衣の衣裳を落として行ってしまう。その白衣を届けようと上田を追った先で、北別府は寅雄に遭遇。病院にいる理由を聞くと、体育の授業で怪我をしたので担任の吉野（瀬戸カトリーヌ）に連れてきてもらったという。寅雄から「何故病院にいるのか？」と聞かれた北別府は、とっさに手に持っていた白衣を着て「病院で働いている」と嘘をつく。それまで父の職業を知らなかった寅雄は、北別府に尊敬の眼差しを向け、病院を見学したいと言い出した。医者になりきった北別府は息子を連れ、堂々と病院内を歩き始めた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep92o4fgy1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx5kdtzbo</id>
     <title>あしたがあるから_[最終章 「それぞれの道は…」]</title>
@@ -888,165 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epwxb2fhif"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp2fvm8ue</id>
-    <title>京都人情捜査ファイル_[File.5]</title>
-    <updated>2026-01-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvj8pdbra.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 京都人情捜査ファイル
-                &lt;a href="https://tver.jp/series/srvj8pdbra" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp2fvm8ue.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/07(日)～ #1-#2&#13;&lt;br&gt;12/24(水)～ #4,SP&#13;&lt;br&gt;1/22(木)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;河川敷で男性ホームレスの他殺体が発見される。同じホームレス仲間から“センセイ”と呼ばれていた男の名前は河原真（螢雪次朗）。岩瀬警務部長（松平健）の記憶にも残る元殺人犯だった。&#13;&lt;br&gt;10年前、河原は知り合ったホステスに一方的な好意を抱き、交際を断られた腹いせに女性を殺害。刑に服した過去があった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp2fvm8ue"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplb4n3slk</id>
-    <title>GOLD_[第8話 母親失格―サヨナラ子供たち]</title>
-    <updated>2026-01-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjm3k9lp6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ GOLD
-                &lt;a href="https://tver.jp/series/srjm3k9lp6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplb4n3slk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;早乙女悠里（天海祐希）は、秘書の新倉リカ（長澤まさみ）をともなって絵画展会場を訪れる。それは、悠里の母・笠原真理恵（倍賞美津子）の個展だった。真理恵は、惣一（夏八木勲）と離婚後、パリに渡り、画家として活動していた。惣一と真理恵は、子育てに関する考え方が違っていた、と悠里はリカに話した。真理恵は、他人との競争は成長のマイナスになるという考えの持ち主だった。実は悠里もその影響を強く受けており、修一（水上剣星）に対して厳しすぎる惣一に反発していたのだという。一方、晶（武井咲）は、宇津木洋介（綾野剛）が突然姿を消してしまったことにショックを受けていた。YSコーポレーションの社長室にやってきた晶は、悠里が宇津木に金を渡したことを察し、非難した。蓮見丈治（反町隆史）は、そんな晶に、悠里を恨むのは筋違いだ、と言い放つ。宇津木が、晶とは別れない、金は受け取らないと言えばいい話だ、と丈治は言うのだ。続けて丈治は、宇津木は最初からそのつもりだったと晶に告げた。晶は、涙をこらえながら、絶対に信じない、と言い残して、部屋を飛び出す。そんな折、思わぬ事件が起きた。長男の洸（松坂桃李）が、バイクにはねられたのだ。知らせを受けた悠里や辰也（寺島進）は、洸が収容された病院に駆けつけるが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『GOLD』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplb4n3slk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epihpjtbey</id>
-    <title> おっさんずラブ_[Final episode　HAPPY HAPPY WEDDING!?]</title>
-    <updated>2026-01-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvc0qjvtp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️  おっさんずラブ
-                &lt;a href="https://tver.jp/series/srvc0qjvtp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epihpjtbey.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/6(土)～ #1-#3&#13;&lt;br&gt;12/24(水)～ #4-#5&#13;&lt;br&gt;1/22(木)～ #6-#7&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;物語は1年後。春田創一（田中圭）と黒澤武蔵（吉田鋼太郎）はなぜか同棲生活を送っていた。&#13;&lt;br&gt;そんなある日、本社から黒澤のもとに「上海を拠点とした新規プロジェクトのメンバーに、春田を指名したい」との打診が舞い込む。驚きながらも、転勤を決意する春田。ところが直後、そんな春田がさらにふっ飛ぶ、驚きの展開が起こる。なんと黒澤が、一世一代のフラッシュモブ作戦で春田にプロポーズ!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epihpjtbey"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epff6z434m</id>
-    <title>京都人情捜査ファイル_[Last File]</title>
-    <updated>2026-01-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvj8pdbra.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 京都人情捜査ファイル
-                &lt;a href="https://tver.jp/series/srvj8pdbra" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月22日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epff6z434m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/07(日)～ #1-#2&#13;&lt;br&gt;12/24(水)～ #4,SP&#13;&lt;br&gt;1/22(木)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;元京都府警捜査一課の中山大蔵（綿引勝彦）の娘、智美（小宮有紗）が何者かに射殺される。殺害には特殊な改造銃が使われており、捜査一課はかつて中山が逮捕した人物の中に犯人がいるとみて捜査を開始する。現役時代の中山は取り調べの強引さから“鬼の中山”と恐れられていた。そんな中山への恨みが事件の引き金になったとにらんだのだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epff6z434m"/>
   </entry>
 </feed>
