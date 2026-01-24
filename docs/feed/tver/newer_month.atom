@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-24T02:06:15+09:00</updated>
+  <updated>2026-01-24T11:20:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvzs0lb6n</id>
+    <title>ガラスの指輪と絆創膏_[第2話 カタハライタシ]</title>
+    <updated>2026-01-24T11:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9j2v0rns.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ガラスの指輪と絆創膏
+                &lt;a href="https://tver.jp/series/sr9j2v0rns" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_11時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_10時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : HTB北海道テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvzs0lb6n.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                勤務する食品会社からこども食堂に派遣された山川虹架（剛力彩芽）は、そこで大人びた小学生・佐藤翠（永尾柚乃）に出会ったことにより、徐々に自分らしさを取り戻し、少しずつ行動にも変化が出始めていた。こども食堂にも慣れて子供達との交流も深まっていく中、中学生の近藤乃愛（久保千咲）が一切食事に手を付けていない事に気付く。そんなある日、母雪乃（千堂あきほ）が「乃愛がいなくなった」と乗り込んでくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvzs0lb6n"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzi0dxabd</id>
     <title>教えてください、藤縞さん！_[#3 私のセフレなんです！]</title>
