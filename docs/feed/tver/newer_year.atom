@@ -2,13 +2,493 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-24T22:05:04+09:00</updated>
+  <updated>2026-01-25T00:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz6oyxeoc</id>
+    <title>相棒 season22_[第12話「惡の種」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz6oyxeoc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                都内のうらぶれた地下道で、頭部を負傷した男性の遺体が発見された。警察は、何者かと揉み合って階段から転落したと見て捜査を始める。被害者は、フランチャイズ弁当店の店長。残されていた手帳には、本社の社員から受けていたと思われるパワハラの実態が生々しく書き記されていた。捜査一課は、その店を担当していた内田（前原滉）という本社の社員から話を聞くが、実際に指導していたのはチーフ社員だとかわされる。いっぽう、独自の捜査に乗り出した右京（水谷豊）は、被害者が磨かれたようにキレイな硬貨ばかりを所持していたことに注目し、薫（寺脇康文）と共に被害者宅を訪れる。妻や近隣住民に聞き込むと、1年前に近所でホームレス殺害事件が起こり、今も未解決であることが判明。ホームレス同士が金で揉め、周囲に小銭が散らばっていたという状況から、右京はある推論を立てる。さらに、事件を調べるうち、『ワイアット』『非凡人』『食物連鎖』といった謎の言葉が浮上し…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz6oyxeoc"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epy9ho4ejp</id>
+    <title>相棒 season22_[最終回SP前篇 第19話「トレードオフ」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy9ho4ejp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                法務大臣の下川（黒谷友香）が指揮権を発動し、与党幹事長の収賄容疑に関する強制捜査が見送られることになった。裏で糸を引いていたのは内閣官房長官の武智（金田明夫）だったが、官邸の横暴をほとんどのマスコミが黙殺。捜査を指揮していた特捜部長の尾上（甲本雅裕）も、圧力に屈さざるをえなかった。唯一噛みついたのが、「特捜部長の気骨に期待する」とテレビで発言したベテラン政治学者の乙部（佐戸井けん太）だった。そんな中、乙部が未成年の男性に襲われる事件が発生。興味を持った右京（水谷豊）が、薫（寺脇康文）と共に動き出すと、被害者である乙部から、意外な証言が飛び出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epy9ho4ejp"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epxa7sefmr</id>
+    <title>相棒 season22_[第11話「その頬に触れるな」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxa7sefmr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                化学メーカーの研究員が、猛毒の神経ガスで殺害される事件が発生。右京（水谷豊）と薫（寺脇康文）は、下足痕の捜査に駆り出される。そのさなか、道端に人気キャラクター“ほっぺ丸”のぬいぐるみが、不自然に落ちているのを発見した2人は、事件性の有無を確認するため、持ち主を捜索することに。結果、小学生の男の子を持つ丹生初音（映美くらら）というシングルマザーに行き着くが、様子がおかしい。何者かに脅されていることを察知した右京と薫は、誘拐事件を疑い、手分けして捜査を開始。初音の勤務先である玩具メーカーを訪れた右京は、ほっぺ丸をめぐる意外な裏事情を知る。いっぽう薫は、何者かの指示を受けていると思われる初音を尾行。動向を注視するが、やがて、ほっぺ丸のぬいぐるみを使って、神経ガスがバラまかれる危険性が浮上し、体を張ってテロを阻止しようとするが…!? そのころ右京は、初音が務める玩具メーカーと深い因縁がある持永登紀子（山下容莉枝）という女性の、不穏な動きを捉えていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxa7sefmr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epwlzfv6t4</id>
+    <title>GOLD_[第9話 息子の命と引換えに悲しき母最後の賭け]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjm3k9lp6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ GOLD
+                &lt;a href="https://tver.jp/series/srjm3k9lp6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwlzfv6t4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;早乙女悠里（天海祐希）は、オリンピックでゴールドメダルを獲得するという夢を、次男の廉（矢野聖人）に託す。悠里の思いを受け止めた廉は、兄の洸（松坂桃李）の代わりに、競泳の自由形への転向を申し出る。コーチの蓮見丈治（反町隆史）は驚きを隠せなかったが、廉がずば抜けた身体能力を持っていることなどを考慮し、本気で廉のトレーニングに取り組むことを決意する。一方、廉が心臓の病を抱えていることを知る新倉リカ（長澤まさみ）は、悠里にそれを打ち明けるべきかどうか悩む。リカは、辰也（寺島進）に相談を持ちかけた。しかし辰也は、廉から口止めされていることもあって、自分の口からは言えないという。あくる日、悠里は、母・真理恵（倍賞美津子）のもとを訪れる。真理恵は、洸が事故を起こしてケガをしたことを受け、悠里に対して母親失格だと言うと、東京での個展が終わったら洸をパリに連れて帰る、と宣言していた。悠里は、そんな真理恵に、オリンピックは諦めても、洸は早乙女家の長男なのだから返して欲しいと頼む。しかし真理恵は、やりたくないことをやらせるという意味では一緒だ、と言って取り合わなかった。するとそこに惣一（夏八木勲）が現れ、真理恵には洸を連れ出す権利はない、と言い放つ。同じころ、廉は、丈治の指導の下、厳しいトレーニングに取り組んでいた。だが、トレーニングを終えた廉は、シャワー室で胸を押さえてうずくまってしまい・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『GOLD』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwlzfv6t4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epunclnm4p</id>
+    <title>相棒 season22_[第13話「恋文」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epunclnm4p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                匿名で5通もの“ラブレター”を受け取った美和子（鈴木砂羽）は、色めき立って、右京（水谷豊）に差出人の割り出しを依頼する。その様子を横目で見ていた薫（寺脇康文）は、不機嫌モード。そんな中、伊丹（川原和久）と偶然、路地裏で出くわした薫は、喉を切られて死んでいる男性を発見。その手には、“亀山美和子様”と書かれた封筒が握られていた。被害者は、美和子が行きつけにしているカフェの店員で、封筒の中身は持ち去られていた。捜査に乗り出した右京は、被害者が戸倉充（モト冬樹）という画家の絵画展のチケットを所持していたことに着目。戸倉は12年前に失踪した妻の捜索を求め、地元警察署の前で座り込みを続けているいわく付きの人物だった。所轄の刑事によると、戸倉の妻は失踪直前、「男に襲われていた」との目撃証言があり、戸倉のパトロンが容疑者として浮上したものの、問題の男は暴力団同士の抗争に巻き込まれて死亡したという。いきさつを知った右京と薫は、戸倉のもとを訪れ、直接事情を訊ねるが…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epunclnm4p"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnnxubixy</id>
+    <title>相棒 season22_[第15話「マッターホルンの殺人」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnnxubixy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                サイバーセキュリティ対策本部の土師（松嶋亮太）が、特命係に奇妙な動画を持ち込んでくる。土師いわく、スイスの高山・マッターホルンの山中で“完全犯罪”が行われた証拠映像だという。動画には、「善ちゃん」と名乗る配信者が何者かに襲われ、テント内で息絶える姿が映し出されていた。現場がスイスでは完全に管轄外だが、興味を持った右京（水谷豊）は、薫（寺脇康文）とともに独自の捜査を開始する。さっそく、映像から「善ちゃん」が何者かつきとめた右京は、勤め先の芸能プロを訪問。善ちゃんこと善家光明（加治将樹）は、「夢を追う若者を支える仕事に就きたい」と社長に直談判し、6年前から同社で働いていたと分かる。その事務所では現在、ジュニアアイドルグループを売り出し中で、善家はメンバーからも同僚からも慕われていたという。ただ、なぜ急に登山に熱を入れ始めたのかは判然としなかった。そんな中、善家には意外な過去があり、その過去をめぐって一人の少年と深い繋がりがあることが明らかになってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnnxubixy"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epjb6wd5zu</id>
+    <title>相棒 season22_[第17話「インビジブル」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjb6wd5zu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                五期連続で市長を務め、次期都知事の最有力候補と目される山田征志郎（升毅）の自宅に爆弾が届けられた。差出人の欄には、右京（水谷豊）の名前と“INVISIBLE”（＝透明人間）という意味ありげな英単語が。幸い市長宅で怪我人は出なかったものの爆弾によって火災が発生。警視庁はテロ事件として捜査を始める。いっぽう、自分が事件にかかわるように仕向けられていると感じた右京は、薫（寺脇康文）と共に独自の捜査を開始。征志郎から事情を聞くが、私怨で狙われる覚えはないとの証言しか得られなかった。そんな中、警備会社に勤める男性が、宅配業者に届けられた爆弾で重傷を負う、第二の事件が発生。配達人は本城（吉田日向）と名乗る若い男だったが、警察は正体さえ掴めずにいた。そうこうするうち、右京は街角で山田（中川 翼）と名乗る顔見知りの少年と遭遇。山田は、右京が「チェスのライバル」と評するIQ150の天才で、右京は再戦を楽しみにしていたが、山田は意味ありげな言葉だけを残して去っていった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjb6wd5zu"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephj4esypc</id>
+    <title>相棒 season22_[第16話「子ほめ」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephj4esypc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）は、薫（寺脇康文）と連れ立って、橘亭青楽（小宮孝泰）の落語会を訪れる。青楽は、薫が特命係に配属された当初、元アイドルの妻・美奈子（大西結花）を脅迫していた男を殺害した罪で服役していた人物。出所後、落語界に戻り、世話になった右京たちを復帰公演に招いたのだった。ところが、その舞台の直前、青楽がどういうわけか姿を消し、そのまま行方不明になってしまう。そんな中、都内のバーでマスターが刺殺される事件が発生。現場には、青楽の物と思われる手ぬぐいが落ちていた。調べると、被害者は元受刑者で、刑務所で青楽から落語を教わっていたという事実が判明する。青楽が何かしらの事件に巻き込まれていると察した右京と薫は、独自の捜査を開始。青楽から特に熱心に稽古をつけてもらっていたという受刑者・根津（菅田俊）から事情を聞く。しかし、根津は何かを隠しているようで、多くを語ろうとしなかった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephj4esypc"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epgws5rnmf</id>
+    <title>相棒 season22_[最終回SP 第20話「トレードオフ～AI右京の完全推理」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgws5rnmf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「警視庁の名探偵」を名乗る右京（水谷豊）が、一連の事件の黒幕は、武智内閣官房長官（金田明夫）に違いないと断言した動画が拡散され、波紋を呼んでいた。右京自身は「身に覚えがない」と否認していたが、警視庁上層部から謹慎を言い渡されてしまう。薫（寺脇康文）は、右京の潔白を証明しようと奔走するが、状況が好転する気配すらなかった。そうこうするうち、殺害されたプロデューサーのスマホに、下川元法務大臣（黒谷友香）からの着信履歴が残っていたことが判明。警察は下川に疑惑の目を向ける。いっぽう、下川が指揮権を発動したことで梯子を外された特捜部長の尾上 （甲本雅裕）は、左遷の憂き目に遭っていた。そんな中、“謹慎中”の右京は、政治学者襲撃事件を起こして勾留中の少年にアプローチし、背後関係に迫ろうとしていた。同じ頃、薫は驚きの情報を耳にしていた。それぞれの思惑が交錯する中、一連の事件の核心に迫る“右京の動画”が再び発信される。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epgws5rnmf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epffknd20o</id>
+    <title>相棒 season22_[第18話「インビジブル～爆弾テロ！最後のゲーム」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epffknd20o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）とチェスで互角に勝負できるIQ150の天才少年・山田（中川 翼）が、連続爆破事件の犯人“INVISIBLE（＝透明人間）”を名乗って所轄署に出頭してきた。抵抗する素振りを見せず、そのまま逮捕された山田だったが、右京以外とは一切話すつもりはないと主張し、取り調べ官に指名。しかし、右京の追及に対しても挑発的な態度で応じるだけで、本当の目的を明かそうとしなかった。いっぽう、薫（寺脇康文）は、第二の爆弾テロの被害者が、所轄署の元刑事だと判明したことを受け、何か隠している様子の副署長を追及するが、かわされてしまう。同じ頃、第一の爆弾テロの標的となった市長の山田征志郎（升毅）は、一連の事態を受け、危機感を募らせていた。そんな中、山田と共謀していると思われる本城（吉田日向）が、再び不穏な動きを見せる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epffknd20o"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6ybg6glm</id>
+    <title>わたしたちの教科書_[第8話 第二部！！法廷対決]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk0cujptk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ わたしたちの教科書
+                &lt;a href="https://tver.jp/series/srk0cujptk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ybg6glm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;西多摩市立喜里丘中学校で起きた転落死事故から1年が過ぎた。珠子（菅野美穂）は、死亡した明日香（志田未来）はいじめを苦に自殺したものであり、副校長の雨木（風吹ジュン）や明日香の担任だった耕平（伊藤淳史）ら教員たちはいじめの予見ができたにもかかわらずその対策を怠ったとして、西多摩市を相手取って民事裁判を起こしていた。一方、被告の弁護を担当する直之（谷原章介）は、口頭弁論でいじめの事実は存在しないと主張し、真っ向から対立。裁判の争点は、いじめがあったのかどうか、明日香の死は自殺か事故死か、そして学校側に注意義務違反があったかどうかの3点だった。&lt;br&gt;1回目の証人尋問の日、珠子は、証言台に立った耕平に、明日香から受け取ったコインロッカーの鍵とその中にあったカバンのことなどを尋ねる。さらに珠子は、耕平がいじめの存在と自らの非を認めた音声を証拠として提出。それに対して直之は、明日香の不安定な言動の原因は彼女の複雑な家庭環境にある、と主張し、珠子と明日香の関係について耕平に質問。耕平は、事前に直之と打ち合わせしていたとおり、珠子が自ら明日香を児童養護施設に入れたことや、事故前夜にも彼女に対して冷たい態度を見せていたことなどを証言する。&lt;br&gt;そんな折、喜里丘中学校に一通の手紙が届く。そこには、同校にはいじめがあり、教師全員がテレビで謝罪しなければ2人目の自殺者が出る、と書かれており・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『わたしたちの教科書』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6ybg6glm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4dt88kr2</id>
+    <title>相棒 season22_[第14話「亀裂」]</title>
+    <updated>2026-01-25T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season22
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4dt88kr2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ある休日。右京（水谷豊）は、著名な美術コレクター・道明寺（小林隆）とチェス喫茶で一局交え、その策士ぶりに舌を巻く。いっぽう、薫（寺脇康文）は美和子（鈴木砂羽）と共に、陶芸教室に参加。講師は“アート界の若きエース”と評される女性芸術家で、図らずも道明寺がかつて支援した人物だった。そんな中、道明寺のコレクションルームで男性の遺体が発見され、美術品がすべて持ち去られる事件が発生。警察は、ここ1か月で2件発生している、美術品強盗グループの仕業とみていたが、右京はこれまでの手口と違う点があることを指摘する。しかし、その後すぐ、遺体の男性が、マークしていた強盗グループの一員であることが判明。それでも独自の捜査を続行。すると、道明寺に強い恨みを持つ人物が浮上し、意外な事実が明らかになっていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4dt88kr2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvgdh27bs</id>
     <title>ホームワーク_[最終回「Xマスに出た答え」]</title>
@@ -1128,125 +1608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eph6kjjpwn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epborre4hd</id>
-    <title>夕暮れに、手をつなぐ_[最終話 音の消えた世界]</title>
-    <updated>2026-01-23T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98lmizol.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夕暮れに、手をつなぐ
-                &lt;a href="https://tver.jp/series/sr98lmizol" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epborre4hd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！ 出演：永瀬廉 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：永瀬廉・酒向芳 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：11月28日(金)18:00～1月31日(土)23:59&lt;br&gt;#4：12月30日(火)12:00～1月7日(水)11:59&lt;br&gt;#5：1月3日(土)12:00～1月11日(日)11:59&lt;br&gt;#6：1月7日(水)12:00～1月15日(木)11:59&lt;br&gt;#7：1月11日(日)12:00～1月19日(月)11:59&lt;br&gt;#8：1月15日(木)12:00～1月23日(金)11:59&lt;br&gt;#9：1月19日(月)12:00～1月27日(火)11:59&lt;br&gt;#10：1月23日(金)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;デザイナーとしての夢のために、空豆（広瀬すず）は母親・塔子（松雪泰子）と一緒にパリへと旅立つ日が近づいていた。運命的な出会いから、忘れられない日々を一緒に過ごした空豆と音（永瀬廉）の、胸を締め付ける切ない恋の行方は！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epborre4hd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfx2o6wxn</id>
-    <title>めぐり逢󠄀い_[最終話「ずっと抱きしめて」]</title>
-    <updated>2026-01-23T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sriqmyfnlp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ めぐり逢󠄀い
-                &lt;a href="https://tver.jp/series/sriqmyfnlp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1998年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfx2o6wxn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)10:00～1月31日(土)23:59&lt;br&gt;#2：11月30日(日)10:00～1月31日(土)23:59&lt;br&gt;#3：12月1日(月)10:00～1月31日(土)23:59&lt;br&gt;#4：1月1日(木)10:00～1月9日(金)9:59&lt;br&gt;#5：1月3日(土)10:00～1月11日(日)9:59&lt;br&gt;#6：1月6日(火)10:00～1月14日(水)9:59&lt;br&gt;#7：1月9日(金)10:00～1月17日(土)9:59&lt;br&gt;#8：1月11日(日)10:00～1月19日(月)9:59&lt;br&gt;#9：1月14日(水)10:00～1月22日(木)9:59&lt;br&gt;#10：1月17日(土)10:00～1月25日(日)9:59&lt;br&gt;#11：1月20日(火)10:00～1月28日(水)9:59&lt;br&gt;#12：1月23日(金)10:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;修二（福山雅治）が石沢（高橋恵子）とボスニアに旅立ってから１０カ月が過ぎた。絵里（常盤貴子）はジーンズショップの店員として働きながらも、清水（岡本健一）のすすめでダンススタジオで子どもにダンスを教え、自分らしさを取り戻していた。清水も絵里に助けられ、再び医師として働けるようになり、東京を離れることが決まった。冗談を装い一緒に行かないかと絵里に言う清水だが…。そんな中、絵里と修二の思い出が詰まっているアパートの取り壊しが決まった。「リフレイン」のマスター（稲川淳二）も、店を閉めるという。そこで絵里は清水に、自分も一緒に連れていって欲しい、と頼む。全てがなくなることをきっかけに、新しい人生を清水と送ろうと決心したのだった。一方、一時帰国した修二は「リフレイン」を訪ねるが、店は閉まっていた。しかし、そばのダンススタジオで、生き生きとダンスを教え、踊っている絵里を見つける。久々の再会に、絵里はアパートがなくなること、「リフレイン」が閉まることを話して、清水との結婚も打ち明ける。複雑な心境の修二に、マスターから連絡が入る。絵里の発案で、皆がこの街を離れてしまう前に「リフレイン」で修二の個展を開きたい、というものだった。修二が再び旅立つまでの短い時間だが、真剣に個展の準備を進める３人。展示会には思いがけず、たくさんの人がやって来た。様々な想いが巡りつつも、絵里と修二は明るく別れる。そして、マスターは、自分が持っていてもしょうがないから、とずっと預かっていた指輪を返す。その指輪を見ながら修二はもう一度絵里と話したい、とアパートに向かう。しかしアパートの前で清水と鉢合わせてしまう。もう絵里を苦しめないで欲しい、と言う清水に返す言葉もない修二。そんな２人の姿を、絵里は目撃し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfx2o6wxn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep26hbf04f</id>
-    <title>君が教えてくれたこと_[最終話 君はひとりじゃない]</title>
-    <updated>2026-01-23T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpts2qyej.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 君が教えてくれたこと
-                &lt;a href="https://tver.jp/series/srpts2qyej" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep26hbf04f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：上川隆也 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：11月22日(土)10:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)10:00～1月4日(日)9:59&lt;br&gt;#5：12月30日(火)10:00～1月7日(水)9:59&lt;br&gt;#6：1月2日(金)10:00～1月10日(土)9:59&lt;br&gt;#7：1月5日(月)10:00～1月13日(火)9:59&lt;br&gt;#8：1月8日(木)10:00～1月16日(金)9:59&lt;br&gt;#9：1月11日(日)10:00～1月19日(月)9:59&lt;br&gt;#10：1月15日(木)10:00～1月23日(金)9:59&lt;br&gt;#11：1月19日(月)10:00～1月27日(火)9:59&lt;br&gt;#12：1月23日(金)10:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;慎一（上川隆也）から「君のままでいい」と言われた繭子（ともさかりえ）は、その意味について考えていた。そんな中、慎一が学生向けに開く自閉症のゼミに繭子が飛び入り参加し、学生たちに自分の気持ちを話す。慎一は繭子の成長を喜びつつも、「ひとりでも生きていける」と言う繭子に寂しさを感じる。やがて、慎一は函館行きを決意し、繭子にそのことをメールで告げる。それを知った繭子は激しく動揺し、慎一のアパートへ向かう。しかし、そこに慎一の姿はなく…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep26hbf04f"/>
   </entry>
 </feed>

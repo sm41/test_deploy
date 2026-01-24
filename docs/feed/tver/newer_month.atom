@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-24T22:05:04+09:00</updated>
+  <updated>2026-01-25T00:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1f6xapzp</id>
+    <title>ぜんぶ、あなたのためだから_[第3話 格付けマウント女の逆襲]</title>
+    <updated>2026-01-24T23:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
+                &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1f6xapzp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                沙也香（井桁弘恵）がコンカフェで働いていたことを知り、妻の知られざる過去に驚愕する和臣（藤井流星）。怒りに震える表情に、桜庭（七五三掛龍也）は違和感を覚える。&#13;&lt;br&gt;そんな和臣に桜庭は、過去に沙也香を追い詰めていた悪質レビューを投稿した犯人が藍里（武田玲奈）ではないかと打ち明ける。&#13;&lt;br&gt;沙也香への悪意を確信し、藍里のもとへ向かう2人だったが、そこで藍里の口から飛び出したのは、またしても和臣が想像だにしていない沙也香の衝撃的な過去だった…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1f6xapzp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5ypgcyqj</id>
     <title>パンダより恋が苦手な私たち_[第3話 “若さ”は恋愛・仕事において重要！？]</title>
@@ -568,125 +608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvaq391je"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0bm9zrrx</id>
-    <title>三国志　秘密の皇帝_[第22話]</title>
-    <updated>2026-01-23T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0bm9zrrx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                劉平（りゅうへい）や曹丕（そうひ）たちの目の前に捕虜になった者たちが連れてこられる。その中には鄧展（とうてん）もいた。突然のことに少し動揺したが、劉平たちと鄧展は話を合わせ窮地を脱する。その頃、曹操（そうそう）の配下だと誤解され牢屋に閉じ込められていた司馬懿（しばい）は、一芝居打って釈放され、審配（しんぱい）親子の信頼までも得るのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0bm9zrrx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6uegamo1</id>
-    <title>私のIDはカンナム美人_[第16話]</title>
-    <updated>2026-01-23T02:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruw17n49p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私のIDはカンナム美人
-                &lt;a href="https://tver.jp/series/sruw17n49p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_02時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6uegamo1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                スアが“ギョンソクを好き”と言ったことによって友人たちは興味津々。ミレは本気とは思えないスアの言葉に不信感を募らせる。そんな中、ウヨンはミレと２人で食事に行き、そこでミレに自分の気持ちを伝える。ミレに振られたウヨンは苦手な酒を飲み、ギョンソクがウヨンの介抱をするはめになる。そこでギョンソクはミレがウヨンを振ったことを知る。そして、ミレにウヨンを振った理由を問い詰めるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6uegamo1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkw8pngpe</id>
-    <title>本命じゃなきゃよかったのに_[Episode3「理想と欲望」《ドラマフィル》]</title>
-    <updated>2026-01-23T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr67bgqs0w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 本命じゃなきゃよかったのに
-                &lt;a href="https://tver.jp/series/sr67bgqs0w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkw8pngpe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                実歩乃（樋口日奈）は、誠実な後輩・久坂（草川直弥）との甘く穏やかなディナーを過ごす。&lt;br&gt;雨の中、一本の傘で距離を縮め、真っ直ぐな想いを向けてくる彼との時間に、「久坂くんと付き合う女の子は幸せなんだろうな」と想像したりしていた。&lt;br&gt;そんな、ちょっとした幸福感を持ちながら帰宅した彼女のもとに、栄成（池田匡志）がやってくる。「あいつと何話してたの？あいつと何してた？」久坂とのデートに嫉妬心を剥き出しにし、不安げに実歩乃を見る栄成。&lt;br&gt;そんな彼の言葉や視線を見て、「――やっとわかった。どうしてあんたが、いつも楽しそうなのか」と、いつもとうって変わって実歩乃が栄成を押し倒し――。&lt;br&gt;翌朝、出勤した彼女を待っていたのは、昨日と同じ笑顔の久坂。&lt;br&gt;実歩乃の相談に乗る同級生のマキ（日比美思）は「久坂ボーイ一択」と話し背中を押す。&lt;br&gt;そんな中、実歩乃、栄成、久坂、友里（水戸由菜）は突然まさかのイベントに巻き込まれてしまい波乱の予感…!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkw8pngpe"/>
   </entry>
 </feed>
