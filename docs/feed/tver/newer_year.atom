@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-24T18:06:04+09:00</updated>
+  <updated>2026-01-24T20:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvgdh27bs</id>
+    <title>ホームワーク_[最終回「Xマスに出た答え」]</title>
+    <updated>2026-01-24T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxee64rfr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ホームワーク
+                &lt;a href="https://tver.jp/series/srxee64rfr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1992年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvgdh27bs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-2：11月22日(土)14:00～1月31日(土)23:59&lt;br&gt;#3-4：1月8日(木)20:00～1月15日(木)19:59&lt;br&gt;#5：1月10日(土)20:00～1月17日(土)19:59&lt;br&gt;#6-7：1月15日(木)20:00～1月22日(木)19:59&lt;br&gt;#8：1月17日(土)20:00～1月24日(土)19:59&lt;br&gt;#9-10：1月22日(木)20:00～1月29日(木)19:59&lt;br&gt;#11：1月24日(土)20:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;再度、映画の制作現場を訪れ、プロデューサーにどうしても現場の仕事がやりたいと直談判した圭介（唐沢寿明）。一方、うらん（浦江アキコ）は仕事も辞め、圭介にもふられ、何もかもなくしてしまった。周二（福山雅治）も自暴自棄になり、無断欠勤を続ける始末。そんな中、圭介は制作部への転属が決まり有頂天になるが、幸子（清水美砂）から圭介が今の会社に入社できたのは幸介（宝田明）のおかげだったと聞かされ、ショックを受ける。幸介と仲良くしてほしいと言う幸子だったが、圭介は意地を張り、幸介に会おうとしない。そしてクリスマスイブに、幸子はうらんと偶然出会う。うらんは幸子に、圭介のことは忘れ、周二を愛していくと告白する。その頃、圭介も周二と再会し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvgdh27bs"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcdy19pw9</id>
+    <title>3年B組金八先生(第6シリーズ)_[第18回 直と政則１]</title>
+    <updated>2026-01-24T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcdy19pw9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;高校入試が全て終わり、３年B組の生徒たちはやっと受験から解放された。充宏（川嶋義一）と榛葉里佳（住吉怜奈）は金八（武田鉄矢）の教え子・麗子（三原じゅん子）が経営する美容院に立ち寄り、そこでとある週刊誌の記事に目を留める。“成迫”という教師が犯した殺人事件についてだった。クラスに戻った充宏たちは興味本意で同姓の政則（東新良和）に父親のことを根ほり葉ほり聞き始めた。関係ないと無視する政則だが、充宏のしつこい詰問に堪え切れず、ついに教室を飛び出してしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcdy19pw9"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzkh0svoj</id>
     <title>ノーサイド・ゲーム_[最終話 涙の決勝戦～逆転に挑む！裏切りか友情か]</title>
