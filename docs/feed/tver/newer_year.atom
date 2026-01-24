@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-24T14:06:04+09:00</updated>
+  <updated>2026-01-24T16:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1168,45 +1168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep26hbf04f"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf119971y</id>
-    <title>ホリデイラブ_[ep.7 夫婦間恋愛]</title>
-    <updated>2026-01-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry8nruknh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ホリデイラブ
-                &lt;a href="https://tver.jp/series/sry8nruknh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf119971y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/07(日)～ ＃1-＃3&#13;&lt;br&gt;12/25(木)～ ＃4-＃6&#13;&lt;br&gt;1/23(金)～ ＃7-＃8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;高森純平（塚本高史）と井筒里奈（松本まりか）が不倫関係にある…との疑惑が社内に広まり、とうとう純平は同僚たちから問い詰められることに！　ところが、ここで思いがけない展開が起こる。モラハラ夫・井筒渡（中村倫也）を敵に回してまで、執念深く純平を追い続けていた里奈が何を思ったか、不倫を全否定したのだ！　里奈が打った芝居に同僚たちもすっかり騙され、事なきを得る純平。だが純平は今回の一件で、里奈にとてつもなく大きな借りを作ってしまったのではないか…と不安に包まれる。一方、里奈は渡に取り上げられた子どもたちに会いたい一心で、自宅へ忍び込み…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf119971y"/>
   </entry>
 </feed>
