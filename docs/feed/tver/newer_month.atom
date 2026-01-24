@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-24T20:06:04+09:00</updated>
+  <updated>2026-01-24T22:05:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5ypgcyqj</id>
+    <title>パンダより恋が苦手な私たち_[第3話 “若さ”は恋愛・仕事において重要！？]</title>
+    <updated>2026-01-24T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ypgcyqj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                柴田一葉(上白石萌歌)のもとに、年下男性との恋に悩む女性からSOSが!やはり若い方がモテる現実…鬼の編集長・藤崎美玲(小雪)やモデル・灰沢アリア(シシド・カフカ)から次々とムチャぶりされる一葉はパンク寸前に…!仕事相手のクセ強カメラマン(小手伸也)からは、若さゆえに馬鹿にされ…そんな中、結婚間近の姉・一花(筧美和子)が婚約破棄に!?変人動物学者・椎堂司(生田斗真)が解く人生にとっての若さとは
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5ypgcyqj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0sw9l730</id>
     <title>リブート_[第一話特別版！脚本×監督オーディオコメンタリーで大解説SP！]</title>
@@ -648,85 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epkw8pngpe"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm20y22u6</id>
-    <title>コスメティック・プレイラバー Season2_[第2話 今度は俺が支える番だ]</title>
-    <updated>2026-01-23T01:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzn1o08po.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コスメティック・プレイラバー Season2
-                &lt;a href="https://tver.jp/series/srzn1o08po" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_01時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_01時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm20y22u6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                研修から帰るなり甘えてきた斗真の様子に、どこか違和感を覚える棗。エマからの“ある提案”に、斗真の心は揺れていた。2人の時間が少なくなったことに寂しさを感じる棗だったが、研修に励む斗真を思い、自分なりにできることを頑張ろうと意欲を燃やす。翌朝、少しでも一緒にいたくて斗真の出勤に付き添った棗は、斗真を見送った直後に偶然エマと出会う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm20y22u6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epupatfso3</id>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第6話「新たな約束」《ドラマ特区》]</title>
-    <updated>2026-01-23T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epupatfso3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                小春（永瀬莉子）から余命があと半年であることを聞き、「私のことは忘れてください」と別れを告げられたかける（藤原大祐）。突然突きつけられた現実に、かけるはどうしたらいいか答えを見つけられずにいた。鳴海（曽野舜太）と優子（河村花）が、打ち上げ花火が好きな小春のためにと、年明けに開催される花火大会のチラシを見つけてくるが、かけるは何が正しいのか分からず思い悩んでいた。一方、小春は周りの大切な人を苦しめたくないという思いから、治療すら諦めようとしていたが……。&lt;br&gt;そんな中、小春の“黄色い栞”のことを思い出したかけるは、栞に書かれた“やりたいことリスト”がまだ終わってないことを知り、再び小春のために走り出す──！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epupatfso3"/>
   </entry>
 </feed>
