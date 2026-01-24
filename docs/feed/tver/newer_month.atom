@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-24T16:06:04+09:00</updated>
+  <updated>2026-01-24T18:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0sw9l730</id>
+    <title>リブート_[第一話特別版！脚本×監督オーディオコメンタリーで大解説SP！]</title>
+    <updated>2026-01-24T17:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リブート
+                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_17時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0sw9l730.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大反響御礼！日曜劇場リブート第１話を４５分に凝縮した特別版！さらに、脚本・黒岩勉と監督・坪井敏雄が物語の設定を大解説！気になったシーンや登場人物の裏話を大暴露！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0sw9l730"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvzs0lb6n</id>
     <title>ガラスの指輪と絆創膏_[第2話 カタハライタシ]</title>
@@ -768,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epd5g7rwn1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppo5lhzdl</id>
-    <title>顔のない患者-救うか、裁くか-_[ep.03 迫る警察の捜査、誘拐犯から新たな要求…窮地の外科医、決断は!?]</title>
-    <updated>2026-01-23T00:46:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcjwyr2sj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 顔のない患者-救うか、裁くか-
-                &lt;a href="https://tver.jp/series/srcjwyr2sj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_00時46分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_00時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppo5lhzdl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                カオナシから、写真に写った女性の身元と居場所を突き止めれば、残り30分に短縮された制限時間を元に戻すという条件を出された都築（長谷川慎）。泉（樋口日奈）が画像を検索すると、ある女性のSNSのアカウントにたどり着き、女性の名前が“オガタマツリ”だと分かる。さらに、彼女の最後の投稿が朝比奈伊織（高橋侃）が爆破事件を起こした日だったことに気づく。&lt;br&gt;同じ頃、院内には朝比奈を見つけたという電話が都築によるものではないかと疑う刑事の鷲尾（飯田基祐）たちの姿が。そこに居合わせた萩田（曽田陵介）から自分を探していると報告を受けた都築の焦りはピークに達する。&lt;br&gt;オガタマツリが事件の被害者かもしれないと思った都築は、カルテを確認するため外来診察室へ。だが、電子カルテでオガタマツリの名前を検索した次の瞬間…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppo5lhzdl"/>
   </entry>
 </feed>
