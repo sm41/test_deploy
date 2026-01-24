@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-25T00:06:04+09:00</updated>
+  <updated>2026-01-25T02:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvi8ax7t3</id>
+    <title>横浜ネイバーズ Season1_[第3話 虚像と真実]</title>
+    <updated>2026-01-25T00:50:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
+                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_00時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvi8ax7t3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                美容系インフルエンサー・えぐちよ（山下リオ）は逃げるように夜の街を急いでいた。「きれいだね」などという男たちの声が、えぐちよを追いかけてくる。急に立ち止まるえぐちよ。天を仰ぎ、声にならない叫び声をあげて……&lt;br&gt;今回の依頼は幼馴染のヒナ（平祐奈）からだった。ヒナがファンだというインフルエンサー・江口千代・通称えぐちよが、ある投稿を最後に失踪したというのだ。えぐちよのSNSには心無いコメントも多数見受けられ、そんな誹謗中傷の言葉の数々に、えぐちよが心を傷つけていないか心配しているヒナ。そんなヒナの様子に依頼を受けることを決めたロン（大西流星）は、えぐちよが残したという言葉を見つめる。&lt;br&gt;「この世界は美しいものにやさしすぎる」&lt;br&gt;インフルエンサー仲間の奈々（あかせあかり）や、弟子を名乗るマチルダ（金子きょんちぃ）、さらには凪（紺野彩夏）とラップユニット「グッド・ネイバーズ」を組むBB（板橋駿谷）まで登場し、えぐちよ捜索に奔走するロン。そんな中、欽太（原嘉孝）はヒナの家を訪ねていた。ヒナが抱えるある秘密を救うために……&lt;br&gt;普段目にしているこの世界は虚像なのか真実なのか。ビターな余韻を残すオトナな物語。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvi8ax7t3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1f6xapzp</id>
     <title>ぜんぶ、あなたのためだから_[第3話 格付けマウント女の逆襲]</title>

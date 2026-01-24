@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-25T00:06:04+09:00</updated>
+  <updated>2026-01-25T02:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2za1013p</id>
+    <title>買われた男_[#3 女風を潰す‼男嫌いの女社長 過去のトラウマとは…]</title>
+    <updated>2026-01-25T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqoatp0he.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 買われた男
+                &lt;a href="https://tver.jp/series/srqoatp0he" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2za1013p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                過去のある出来事から男性嫌悪を抱くようになった会社社長の千賀子（片山萌美）。ある日、街中でヤマト（瀬戸利樹）とぶつかり、その拍子にヤマトの仕事道具であるアダルトグッズが散らばってしまう。ヤマトは誤解を解こうとセラピストの名刺を差し出すが、千賀子に名刺を破り捨てられる。その後、ヤマトに指名が入り、ホテルへ向かうとそこにいたのは千賀子だった。ヤマトは男性への嫌悪感が強い千賀子の攻撃的な態度に戸惑いつつ施術を行うも、彼女の怒りに触れ部屋から追い出されてしまう。「KIRAMEKI」に戻り、落ち込むヤマトだったが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2za1013p"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz6oyxeoc</id>
     <title>相棒 season22_[第12話「惡の種」]</title>
@@ -1568,45 +1608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epu9i4j2t6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph6kjjpwn</id>
-    <title>キッズ・ウォー２～ざけんなよ～_[第40話]</title>
-    <updated>2026-01-23T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
-                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月23日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月17日(金)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph6kjjpwn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週月曜～金曜１２時　新エピソード更新！！】   茜は浩がクラスメートにいじめられている現場に出くわすが、浩は先生にも茜にも「いじめられていない」とキッパリ。だが、翌朝、浩は仮病を使って学校を休んでしまう。春子は浩を励まそうと仕事を早引きし、ツーリングに連れ出す。春子は浩に無理に学校へ行かなくてもいいと言う。浩が元気でいることが大事だという春子の言葉に勇気を持った浩は、健一の通うフリースクールに通いたいと打ち明ける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph6kjjpwn"/>
   </entry>
 </feed>
