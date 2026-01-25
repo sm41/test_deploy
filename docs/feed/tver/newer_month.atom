@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-25T02:06:04+09:00</updated>
+  <updated>2026-01-25T11:14:54+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnm1imyp1</id>
+    <title>＆Hulu_[『最新作の見どころ発見！名作プレイバック特集』大人気漫画実写ドラマ化「神の雫/Drops of God」やジャッキー・チェン出演作など過去作から最新作までを紹介]</title>
+    <updated>2026-01-25T02:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_02時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnm1imyp1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                『最新作の見どころ発見！名作プレイバック特集』&lt;br&gt;シーズン2の配信がスタートする伝説的大人気漫画を実写ドラマ化した「神の雫/Drops of God」や世界的大スター、ジャッキー・チェンが本人役で出演する新作映画『パンダプラン』、15年に及ぶイギリスの大人気シリーズ「ダウントン・アビー」など最新作の見どころと、話題の最新作品をもっと楽しむために過去の作品をまとめてご紹介します！&lt;br&gt;(C) Les Productions Dynamic
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnm1imyp1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvi8ax7t3</id>
     <title>横浜ネイバーズ Season1_[第3話 虚像と真実]</title>
