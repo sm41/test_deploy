@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-25T11:14:54+09:00</updated>
+  <updated>2026-01-25T12:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epa1ngvp8f</id>
+    <title>LADY～最後の犯罪プロファイル～_[Final Episode 終幕…もう一人の真犯人]</title>
+    <updated>2026-01-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7p1agjls.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ LADY～最後の犯罪プロファイル～
+                &lt;a href="https://tver.jp/series/sr7p1agjls" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa1ngvp8f.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：木村多江 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：12月13日(土)12:00～1月31日(土)23:59&lt;br&gt;#4：1月7日(水)12:00～1月13日(火)11:59&lt;br&gt;#5：1月10日(土)12:00～1月16日(金)11:59&lt;br&gt;#6：1月13日(火)12:00～1月19日(月)11:59&lt;br&gt;#7：1月16日(金)12:00～1月22日(木)11:59&lt;br&gt;#8：1月19日(月)12:00～1月25日(日)11:59&lt;br&gt;#9：1月22日(木)12:00～1月28日(水)11:59&lt;br&gt;#10：1月25日(日)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;翔子（北川景子）は、誘拐された妹・舞子（岡本杏理）を無事に救い出すことが出来た。しかし、舞子が大きな精神的ダメージを受けてしまったことに、激しいショックと犯人への憤りを覚える。CPSでは、鳴海の事件と、１０年前の女子高校生連続殺人事件の手口が同じことに皆の関心が高まっていた。結城（木村多江）はCPSの面々から翔子の父・香月教授（鶴見辰吾）との関わりを問い詰められる。結城は、自分が捜査に加わっていた女子高校生連続殺人事件でプロファイリングに行き詰まり、香月教授に協力を求めたことを告白。そして、香月教授が「犯人は“レディーキラー”だ」と告げる連絡を結城にしてきた直後に亡くなったのだと明かす。「香月教授は“レディーキラー”に殺されたと思う」と話す結城に、翔子は“レディーキラー”の正体は自分が突き止めると息巻く。結城は「“レディーキラー”は翔子を狙っている」と忠告するが、翔子は聞く耳を持たず、１人で捜査に飛び出してしまう…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa1ngvp8f"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2za1013p</id>
     <title>買われた男_[#3 女風を潰す‼男嫌いの女社長 過去のトラウマとは…]</title>
