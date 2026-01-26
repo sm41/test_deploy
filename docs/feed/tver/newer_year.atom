@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-26T11:39:04+09:00</updated>
+  <updated>2026-01-26T12:05:59+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epf1yo00n1</id>
+    <title>大好き！五つ子4_[第６回 チョー大ピンチ]</title>
+    <updated>2026-01-26T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月09日(月)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf1yo00n1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;千絵子（茅島成美）がホストファミリーを引き受けるという決意を表明し、喜びに沸く桜井家に突然、泉美（本橋里紗）が訪ねてきた。泉美は夫・力（田中章）と別居するのだといって泣いている。まもなく桜井家に力も飛び込んできた。桃子（森尾由美）と良介（新井康弘）は心配する五つ子を子ども部屋に追い立て、泉美と力に事情を聞くことに。力が父親になるのを期にマンションを買いたいというのに泉美が反対しているのが原因だという。力にはなぜ泉美が反対するのかわからず、泉美も自分の気持ちが力には伝わらないと絶望し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf1yo00n1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epay4wbskp</id>
+    <title>キッズ・ウォー２～ざけんなよ～_[第41話]</title>
+    <updated>2026-01-26T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
+                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月20日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epay4wbskp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週月曜～金曜１２時　新エピソード更新！！】    浩（金澤匠）がクラスメイトからイジメを受けていると打ち明け、今井家のみんなはショックを隠せない。春子（生稲晃子）は無理して学校へ通うことはない、と言うが、教育熱心な友恵（島かおり）は絶対に学校へ通うよう浩に迫る。一晩悩んだ浩は頑張って学校へ行くことにする。だが、浩を心配した茜（井上真央）が様子を見に行くと浩はクラスメイトに服を無理矢理脱がされ、廊下に立たされていた。茜は浩の担任イジメを止めさせるよう訴えるが、全く取り合ってもらえない。怒った茜は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epay4wbskp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzp5oxha0</id>
     <title>相棒 season6_[第6話「この胸の高鳴りを」]</title>
@@ -1848,125 +1928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epg6wsi8fl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnq7kh82q</id>
-    <title>愛はどうだ_[最終回「幸せになれ娘たち」]</title>
-    <updated>2026-01-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrs8w5fqs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 愛はどうだ
-                &lt;a href="https://tver.jp/series/srrs8w5fqs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1992年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnq7kh82q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月31日(土)23:59&lt;br&gt;#2：11月30日(日)12:00～1月31日(土)23:59&lt;br&gt;#3：12月1日(月)12:00～1月31日(土)23:59&lt;br&gt;#4：12月31日(水)12:00～1月7日(水)11:59&lt;br&gt;#5：1月3日(土)12:00～1月10日(土)11:59&lt;br&gt;#6：1月7日(水)12:00～1月14日(水)11:59&lt;br&gt;#7：1月10日(土)12:00～1月17日(土)11:59&lt;br&gt;#8：1月14日(水)12:00～1月21日(水)11:59&lt;br&gt;#9：1月17日(土)12:00～1月24日(土)11:59&lt;br&gt;#10：1月21日(水)12:00～1月28日(水)11:59&lt;br&gt;#11：1月24日(土)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;かなえ（つみきみほ）が妊娠したという事実を知った修一（緒形拳）は、やり場のない怒りをずっとため込む一方、彼女の体を心配していた。かなえはそんな父親を気遣い結婚式を取り止め、籍だけ入れると言う。一方、あやめ（清水美砂）は、引っ越しをやめて三崎家で暮らすと言い出す。娘たちが自分を思っていることが痛いほどわかる修一は、２人に出ていくよう告げる。引っ越しの前日、本村（伊原剛志）と矢沢（福山雅治）の計らいで、親子４人は昔のように思い切り公園で遊ぶ。はしゃぎ回る娘たちを見て、感慨深くなる修一だった。その夜、出ていく２人の娘としみじみ語り合い、「精一杯幸せになれ」と笑顔で告げる修一。寝ているふりをして聞いていたさなえ（渋谷琴乃）も含め、皆は涙をこらえられなかった。翌日、あやめとかなえはそれぞれ新しい家庭を作るべく、三崎家を去っていき…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnq7kh82q"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep547yx542</id>
-    <title>集団左遷!!_[最終話 完結～下克上の行方 熱き男が起こす奇跡]</title>
-    <updated>2026-01-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxzvuhc9y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 集団左遷!!
-                &lt;a href="https://tver.jp/series/srxzvuhc9y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep547yx542.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！ 主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：酒向芳 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：11月22日(土)12:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)12:00～1月3日(土)11:59&lt;br&gt;#5：12月31日(水)12:00～1月7日(水)11:59&lt;br&gt;#6：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#7：1月9日(金)12:00～1月16日(金)11:59&lt;br&gt;#8：1月14日(水)12:00～1月21日(水)11:59&lt;br&gt;#9：1月19日(月)12:00～1月26日(月)11:59&lt;br&gt;#10：1月24日(土)12:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;副頭取の座にまで上り詰めた横山（三上博史）。島津議員（石丸謙二郎）への献金の記録が書かれた手帳を渡せば、全てを水に流すという横山だが、片岡（福山雅治）は突っぱねる。そこで、梅原（尾美としのり）は最後の手段として、マスコミに告発することを片岡に提案。会社の不正を自分たちの世代で断ち切るべく、決意を固めた片岡は真山（香川照之）と共に手帳の裏取りを進めていく。しかし、それを知った横山の非情な仕打ちが襲いかかる。果たして、自分たちがやろうとしていることは正しいのか、三友銀行のために、部下のために、お客様のためになるのか。葛藤する片岡の最後の戦いが始まる。そして、片岡のたどり着く下克上の形とは…。平成から令和を駆け抜けた諦めない男の物語がついに完結！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep547yx542"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwdtz2svx</id>
-    <title>白戸修の事件簿_[第９話『セイフティゾーン』前編]</title>
-    <updated>2026-01-24T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srism36bw0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 白戸修の事件簿
-                &lt;a href="https://tver.jp/series/srism36bw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwdtz2svx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：松尾諭 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月6日(土)10:00～1月31日(土)23:59&lt;br&gt;#3-4：1月3日(土)10:00～1月10日(土)9:59&lt;br&gt;#5-6：1月10日(土)10:00～1月17日(土)9:59&lt;br&gt;#7-8：1月17日(土)10:00～1月24日(土)9:59&lt;br&gt;#9-10：1月24日(土)10:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;ある日、白戸（千葉雄大）は莉央（中村静香）から手紙を受け取る。「阿佐ヶ谷駅に来てください」という手紙の内容に心を躍らせる白戸は、黒崎（本郷奏多）からの電話にも「また後で！」とそっけなく答え、待ち合わせの場所へと急ぐ。約束の時間よりも早く阿佐ヶ谷駅に着いた白戸は、「デートにはお金が必要！」と銀行に立ち寄ることに。すると、閉店間際の銀行で防犯ベルが鳴り響いた。店内には、虎や犬など動物のマスクを被った男たちが拳銃を手に人質を取っている。その中には、なんと莉央の姿も！しかし、馬のマスクの男と目が合った白戸は、莉央を助けるどころか夢中でその場から逃げてしまう…。食堂に逃げ込んだ白戸だったが、安心したのもつかの間、馬のマスクの男に見つかってしまった。その時、鈍い音と共に男が倒れこんだ。そこにはモップを構える清掃員・芹沢哲生（石黒賢）の姿があった。芹沢の助けによって事なきを得た白戸だったが、銀行強盗は人質をとって立て籠もり、ビルは警察に取り囲まれていた。白戸は、芹沢と共に銀行強盗を１人ずつ取り押さえていくが、その最中、実は芹沢が殺人犯として指名手配中だと気づいてしまう。どうなる…白戸！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwdtz2svx"/>
   </entry>
 </feed>
