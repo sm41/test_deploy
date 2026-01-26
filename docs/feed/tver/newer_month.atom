@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-26T02:05:57+09:00</updated>
+  <updated>2026-01-26T11:39:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9lla17nw</id>
+    <title>三国志　秘密の皇帝_[第23話]</title>
+    <updated>2026-01-26T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9lla17nw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                審栄（しんえい）を泥酔させて牢屋の鍵を盗んだ司馬懿（しばい）は、閉じ込められている唐瑛（とうえい）の元へと向かう。唐瑛にはめられた鎖を外そうとするが、鍵は合わなかった。その頃、劉平たちは鄴（ぎょう）の実状を目の当たりにし唖然としていた。河北（かほく）一豊かだと聞いていた町は新旧で分けられ、古い町には飢えた民が溢れかえっていたのだった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9lla17nw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep46x8l8d0</id>
     <title>私の夫は時給1,000円の大富豪_[#7「”お嬢様”の逆襲」]</title>
@@ -608,45 +648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvzs0lb6n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzi0dxabd</id>
-    <title>教えてください、藤縞さん！_[#3 私のセフレなんです！]</title>
-    <updated>2026-01-24T01:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmhuw43k0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 教えてください、藤縞さん！
-                &lt;a href="https://tver.jp/series/srmhuw43k0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月24日(土)_01時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_01時50分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzi0dxabd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                藤縞のことで頭がいっぱいで、小説が手につかないりお。そんな時、イケメン編集者・吉埜（よしの）に声をかけられ、流れでファッション誌のモデルに！不慣れながらも懸命なりおに、吉埜は惹かれ始める。撮影後、吉埜に見送られるりおの前に、偶然（？）藤縞が登場！吉埜に藤縞との関係を尋ねられたりおは、パニックのあまり思わず「セフレです！」と紹介してしまい…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzi0dxabd"/>
   </entry>
 </feed>
