@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-27T00:05:59+09:00</updated>
+  <updated>2026-01-27T02:05:59+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5cdjpa55</id>
+    <title>親友の「同棲して」に「うん」て言うまで_[第３話・親友に好きって言われるまで]</title>
+    <updated>2026-01-27T01:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjs8tvmqr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 親友の「同棲して」に「うん」て言うまで
+                &lt;a href="https://tver.jp/series/srjs8tvmqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_01時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5cdjpa55.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                湊（吉澤要人）との関係に悩む航（雨宮翔）は、昔の恋人・香織（平澤由理）との苦い記憶から恋の難しさを感じていた。学生時代に湊と行った北海道旅行を思い返し、湊とは恋人よりも親友という関係でいたいと思っていた。そんなある夜、2人で久しぶりに散歩していると、湊から再び同棲の誘いが―。しかし、航は前よりも強く拒否するが、その理由とは――。航のある一言で2人の関係が再び変化していく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5cdjpa55"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnyg1jmum</id>
+    <title>死んだ兄の親友を拾いました_[家に泊めた男には、二つの秘密があった]</title>
+    <updated>2026-01-27T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtxlwfvdj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 死んだ兄の親友を拾いました
+                &lt;a href="https://tver.jp/series/srtxlwfvdj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_01時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnyg1jmum.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                栃木県那須町に暮らす高校生の千賀卓は、ある日橋から飛び降りようとする青年・森本満を目撃する。帰る家も金もない満を卓は一晩だけ泊めることにするが、なんと満は亡き兄・晴海の親友だった。一体彼の正体とは…？　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnyg1jmum"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprl8dkh28</id>
     <title>キンパとおにぎり～恋するふたりは似ていてちがう～_[#3 オンマ襲来！「センイルチュッカヘ！」]</title>
