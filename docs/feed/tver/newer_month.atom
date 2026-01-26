@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-26T18:05:59+09:00</updated>
+  <updated>2026-01-26T20:05:59+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epumaeth5s</id>
+    <title>孤独のグルメ Season7_[第12話（最終回） 東京都中央区八丁堀のニラ玉ライスとエビチリ]</title>
+    <updated>2026-01-26T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season7
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月09日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epumaeth5s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                八丁堀へ向かう井之頭五郎（松重豊）。商談相手はライブハウス店長・五十嵐（大友康平）だ。商談を終え、五郎は昼食の店探しを始めるが、場所柄もあって高級店ばかり。そんな折、“庶民めし”にぴったりな中華店を発見する。大将（角野卓造）らに迎えられて入った店内には、オーソドックスな手書きメニューがズラリ。その中からニラ玉かエビチリか悩んだ五郎は、結局両方を注文する。運ばれてきた料理は、五郎の予想を次々と裏切っていき……。“庶民めし”と思いきや、出合ったのは、とんでもない中華だった！　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epumaeth5s"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx6dt48lp</id>
     <title>笑うハナに恋きたる_[第5話 縁とは異なもの、味なもの]</title>
