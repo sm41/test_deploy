@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-27T16:06:26+09:00</updated>
+  <updated>2026-01-27T18:05:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -768,45 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epetutbglk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxcz0fplb</id>
-    <title>50分間の恋人_[#2 お弁当契約、終了します]</title>
-    <updated>2026-01-25T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 50分間の恋人
-                &lt;a href="https://tver.jp/series/srpbldzfq7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxcz0fplb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ゲームソフトメーカー・ダブルスターズが大手取引先との共同開発中のゲームで、菜帆（松本穂香）に大きなチャンスが巡ってくる。キャラクターデザインに急な方針転換があり、菜帆が新たなデザイナーに抜擢されたのだ。一方ライバル会社・パイレーツでは、正体不明の天才ゲームクリエイター“マーヴェリック”である晴流（伊野尾慧）がスランプから抜け出せず、苦悩と孤独を味わっていた。ライバル会社に勤めることや、互いの抱える事情を知る由もなく、二人は昼休みに約束の公園で合流。2回目のランチタイムを過ごす。&lt;br&gt;相変わらず役に立たない食材の豆知識を披露しながら、「ボーノ」と満足そうに菜帆の弁当を味わう晴流。好物の照り焼きチキンに喜ぶが、完食後の採点は厳しめの75点。理由は、晴流の苦手なミニトマトにあった…！悪びれない晴流のズレた言動に、菜帆は反撃したくとも“加害者”と“被害者”の関係上やむを得ない。さらに晴流は“弁当スタンプカード”なるものを用意し、約束の30回を漏れの無いようにカウントしていくつもりとのことで、若干引き気味の菜帆。競争心に火がついた菜帆は、75点を上回るべく晴流をぎゃふんと言わせる自信作の弁当を完成させる。&lt;br&gt;そんな中、晴流の身に予期せぬ出来事が発生。菜帆に謝罪するため公園で待つ晴流だったが、菜帆も急なミーティングで公園に行けなくなってしまう。互いの連絡先も知らず、すれ違う二人の弁当契約に早速解消の危機！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxcz0fplb"/>
   </entry>
 </feed>
