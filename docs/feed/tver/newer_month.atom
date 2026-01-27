@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-27T18:05:27+09:00</updated>
+  <updated>2026-01-27T20:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epl4gvii2l</id>
+    <title>孤独のグルメ Season8_[第1話 横浜中華街の絶品釜飯]</title>
+    <updated>2026-01-27T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl4gvii2l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                横浜中華街の公園で肉まんをほおばりながら、パソコン作業を終えた井之頭五郎（松重豊）は、次の商談先占い師・ワン（八嶋智人）のもとへ。自宅リビングのインテリア相談のはずが、話は思わぬ方向へ進んでいき混迷する。何とか商談を終えた五郎は、空腹を満たすべく中華街を歩き出す。だが香港、上海、台湾、北京……バリエーションの多さに店が決められない。その時、偶然“釜飯”が目に飛び込んでくる。「中華で釜飯!?」気になった五郎は……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl4gvii2l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep94xaeqah</id>
     <title>三国志　秘密の皇帝_[第24話]</title>
@@ -728,45 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eppeuzzdkf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epetutbglk</id>
-    <title>パンチドランク・ウーマン −脱獄まであと××日−_[#3 刑務官と殺人犯が人質に…驚きの罠]</title>
-    <updated>2026-01-25T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6mknxzp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パンチドランク・ウーマン −脱獄まであと××日−
-                &lt;a href="https://tver.jp/series/srf6mknxzp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epetutbglk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「俺は親父を殺してない」。氷川拘置所の刑務官・冬木こずえ(篠原涼子)に、父親殺しの容疑を持つ日下怜治(ジェシー)が無実を主張。刑事・佐伯雄介(藤木直人)は、状況証拠から無実の可能性は極めて低いと言うが…。そんな中、怜治は脱獄を企てるカルト教団に「仲間に入れろ」と共闘を持ちかけ…。その直後、拘置所内で立てこもり事件が発生!こずえの命と引き換えに裁判のやり直しを要求する男(堀内健)の目的とは…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epetutbglk"/>
   </entry>
 </feed>
