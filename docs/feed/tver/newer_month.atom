@@ -2,13 +2,293 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-28T00:06:26+09:00</updated>
+  <updated>2026-01-28T02:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epgrtgxds6</id>
+    <title>マトリと狂犬_[#２「もう一人の狂犬」《ドラマイズム》]</title>
+    <updated>2026-01-28T01:58:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8qcrft60.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ マトリと狂犬
+                &lt;a href="https://tver.jp/series/sr8qcrft60" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時58分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_02時07分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgrtgxds6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                半グレのボス・松原努（平埜生成）からガサに入られた穴埋めとして巨額の上納金を要求された梅沢（西畑大吾）。無理な返済に、松原から「簡単に稼げる方法を教えてやる」と、千葉で有名な人気タレント・加賀響（九条ジョー）を新たな顧客にするよう命じられる。マトリの黒崎（細田善彦）は、その計画を逆手に取り、梅沢に加賀へ接触して証拠を掴むよう指示する。そんな矢先、梅沢に松原から新たな薬物取引の指示が…。しかし、向かった先で待ち構えていたのはまさかの刑事・葛城（向井理）で！？さらに葛城から究極の選択を突きつけられた梅沢が選んだ道はいったい――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epgrtgxds6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epp2y6numj</id>
+    <title>AKIBA LOST_[#02　ゲーム開発の妨害]</title>
+    <updated>2026-01-28T01:29:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraszdzp5s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ AKIBA LOST
+                &lt;a href="https://tver.jp/series/sraszdzp5s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時29分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_12月31日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp2y6numj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                葵(松村沙友理)の失踪は、未公開のゲームシナリオ「メイドの神隠し」を模倣したものだった。謎の人物から「開発を中止しろ」と執拗に脅迫される中、今度はゲーム配信者・佑季美(田辺桃子)が配信中に襲われる事件が発生。犯人はシナリオを知る関係者の中にいるのか?新城(北山宏光)は共同制作者の高澤(淵上泰史)と共に、キャストの中に潜む内通者を探り始める。一方、グルメライター・萌(宇垣美里)の正体にも疑念が。誰も信じられない極限状態の中、新城は開発続行を決断するが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp2y6numj"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9nc4cyiy</id>
+    <title>終のひと_[＃３「生活保護と孤独死～葬儀は誰のためのもの？～」]</title>
+    <updated>2026-01-28T01:28:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhukk4g19.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 終のひと
+                &lt;a href="https://tver.jp/series/srhukk4g19" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時28分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9nc4cyiy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★お気に入り登録で見逃さない★&lt;br&gt;【毎週火曜 深夜0時58分から放送】※時間変更の場合あり。&lt;br&gt;嗣江（柿澤勇人）と梵（西山潤）は刑事の吉田（吉田智則）から依頼され、孤独死した老人・堤啓一郎（狩野謙）の葬儀を引き受ける。唯一の肉親である息子・賢人（今野浩喜）は、かつて啓一郎から縁を切られ、現在は生活保護を受けていた。遺産を受け取れると父の死を喜び、簡素な火葬のみを希望する賢人。そんな態度に激昂しながらも、賢人に付き添い啓一郎の家を訪れた梵は、ホームヘルパーと名乗る女性・本町香織（鄭亜美）と出会う。そこで彼女が語り出した啓一郎の晩年は、賢人たちの想像していた姿とは大きく異なっていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9nc4cyiy"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epz76swp7x</id>
+    <title>あなたを殺す旅_[Episode3 見せたいもの]</title>
+    <updated>2026-01-28T01:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw68lyr70.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あなたを殺す旅
+                &lt;a href="https://tver.jp/series/srw68lyr70" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_00時50分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz76swp7x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【FODにてノーカット完全版全話配信中！】&lt;br&gt;&lt;br&gt;小田島（髙橋大翔）は、行き先も目的も告げぬまま片岡（和田雅成）を連れ、船で小さな島へ向かった。辿り着いたのは、島の外れにひっそりと草が生い茂る、人の気配のない場所だった。2人で鎌を手に草を刈っていくと、徐々に姿を現したのは、ヤクザという理由で家族の墓に入ることを許されなかった、小田島の親友・朝日（堀海登）の墓だった。その前で小田島は、静かに口を開く。「朝日はあなたに殺されました」――。&lt;br&gt;一方その頃、片岡をいまだ始末しない小田島に苛立ちを募らせた桐井（遊屋慎太郎）は、新たな刺客の投入を画策していた…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz76swp7x"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epme10hvxd</id>
+    <title>どーする？ごはんSEASON2_[韓国編第1話「骨董品店」]</title>
+    <updated>2026-01-28T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlmq9cffq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ どーする？ごはんSEASON2
+                &lt;a href="https://tver.jp/series/srlmq9cffq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_01時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epme10hvxd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                歌手活動が思うように進まなかったジヌは釜山に戻り、アルバイト生活を始める。今日のバイトは骨董品店。店を訪ねるといきなり頭に銃をつきつけられ焦るジヌ。それがおもちゃの銃だと気が付くと、店長から私の憧れをバカにするのか？と言われて…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epme10hvxd"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epbs7n7v1s</id>
+    <title>略奪奪婚_[第4話 どん底女は堕胎した子の夢を見るか？]</title>
+    <updated>2026-01-28T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9o4l4jzm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 略奪奪婚
+                &lt;a href="https://tver.jp/series/sr9o4l4jzm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_01時09分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbs7n7v1s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                自分をゆすってきたナオ（松本大輝）のスマホから、えみる（中村ゆりか）が裸で男性に腕枕されている写真を見つけた千春（内田理央）。ナオの情報提供により、相手は人気ライバーの海斗（ISSEI）だと分かる。一方、えみると母親の間に挟まれ我慢の限界がきた司（伊藤健太郎）は、事務員の梅田（川島鈴遥）との距離が近付きつつあった。「全てを奪ったあの女の裏の顔を知りたい」えみるのお気に入りが海斗だと知った千春は、海斗との接近を試みる。　［期間限定無料配信］　毎週火曜深夜24時30分からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbs7n7v1s"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep870mfqg5</id>
+    <title>黒崎さんの一途な愛がとまらない_[第4話 恋のライバル出現!?ピュアな2人の恋に嵐が吹き荒れる!!]</title>
+    <updated>2026-01-28T00:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrejzzg0i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 黒崎さんの一途な愛がとまらない
+                &lt;a href="https://tver.jp/series/srrejzzg0i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_00時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep870mfqg5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                自分を庇って右手を怪我した黒崎(山中柔太朗)に責任を感じた小春(豊嶋花)は、黒崎に代筆を申し出る。黒崎の家に通うようになり、少しずつ黒崎を大人の男性として意識するようになる小春だが、突然恋のライバルが出現する!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep870mfqg5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp024w2q1</id>
     <title>未来のムスコ_[第３話 絆を深めていく親子に試練…息子が秘めた想いとは]</title>
