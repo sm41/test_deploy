@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-27T22:05:27+09:00</updated>
+  <updated>2026-01-28T00:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp024w2q1</id>
+    <title>未来のムスコ_[第３話 絆を深めていく親子に試練…息子が秘めた想いとは]</title>
+    <updated>2026-01-27T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 未来のムスコ
+                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp024w2q1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;未来のまーくん探しが本格始動！劇団、バイト先、はたまたいつものスーパー？&lt;br&gt;そして、未来の異変に気づいた将生は未来を尾行して…&lt;br&gt;&lt;br&gt;よしずみ保育園に入園して早々、驚くほどの早さで周囲に馴染んでいく颯太（天野優）。&lt;br&gt;「未来から来た」ことを口にしないかとヒヤヒヤしつつも、楽しそうな颯太の姿に、未来（志田未来）も思わず笑顔になる。&lt;br&gt;そんな中、優太（小瀧望）から、颯太の入園準備品を用意してほしいと頼まれる未来。&lt;br&gt;お昼寝セットに着替え一式…想像以上の量に呆然としつつ、作れるものは自分で作ろうと、沙織（西野七瀬）の手を借りて準備を進めることに。&lt;br&gt;準備の最中、未来は沙織に、「５年後、颯太を産んだ自分は、夢を諦めてしまったのだろうか」と、胸の内を明かす。&lt;br&gt;そして、自分がどんな人生を辿り、颯太を産んだのかを知るため、“まーくん”探しに本腰を入れることを決意する。&lt;br&gt;頼みの綱は、颯太の記憶だけ。劇団の稽古場にバイト先、さらには近所のスーパーまで──颯太に“まーくんかもしれない人物”を次々と見せていく未来だが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp024w2q1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epq708yk0n</id>
     <title>東京P.D. 警視庁広報2係_[第3話 実名報道の是非・・・見つかった女性5人の遺体]</title>
