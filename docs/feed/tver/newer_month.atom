@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-27T11:24:23+09:00</updated>
+  <updated>2026-01-27T12:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -848,45 +848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epmeq9mxxw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxgly9pzz</id>
-    <title>テレビ熊本ドキュメンタリードラマ 郷土の偉人シリーズ第33作 台湾・大甲の聖人 志賀哲太郎～生徒たちの明日を照らして～_[今でも台湾で愛され続ける日本人教師の心温まる記録]</title>
-    <updated>2026-01-25T17:19:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srabsazyoh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ テレビ熊本ドキュメンタリードラマ 郷土の偉人シリーズ第33作 台湾・大甲の聖人 志賀哲太郎～生徒たちの明日を照らして～
-                &lt;a href="https://tver.jp/series/srabsazyoh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月25日(日)_17時19分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ熊本&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxgly9pzz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                熊本地震から10年―。被災地・益城町で母を介護しながら報道の現場に立つ柚木遥は、故郷が生んだある教育者の半生を追うドキュメンタリーを制作することになった。　&lt;br&gt;　　　　　　　　　　　　　　　　　　　　&lt;br&gt;志賀哲太郎。明治29年、海を渡り台湾・大甲で「聖人」と呼ばれた男。言葉も通じない異国の地で、なぜ彼は自らの財産を投じて子どもたちの学びを守ろうとしたのか。統治政策の波に翻弄されながらも、哲太郎が貫いた「ある信念」とは―。&lt;br&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;br&gt;取材を進めるうち、時代を超えて響く「相互尊重」という言葉が、現代を生きる遥の心に深く刻まれていく。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;br&gt;今も台湾で愛され続ける日本人教師の心温まる記録。過去と現在が交錯するドキュメンタリードラマ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxgly9pzz"/>
   </entry>
 </feed>
