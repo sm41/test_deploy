@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-28T16:05:55+09:00</updated>
+  <updated>2026-01-28T18:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyasamrc1</id>
+    <title>コスメティック・プレイラバー Season2_[第1話 棗さんのがんばれ、好き]</title>
+    <updated>2026-01-28T17:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzn1o08po.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ コスメティック・プレイラバー Season2
+                &lt;a href="https://tver.jp/series/srzn1o08po" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_01時45分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月15日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyasamrc1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                メンズ美容部員の間宮棗は、同じブランドでメイクアップアーティストとして活躍する恋人・佐橋斗真との同棲生活を満喫中。ある日、本社で出会った新人BA・星名理久からのまっすぐな言葉に心を動かされた棗は、BAとしての将来を考え始める。一方の斗真は、パリから緊急来日したエマ・ローレンによる育成研修会のメンバーに抜擢されるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyasamrc1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxapen6g2</id>
     <title>三国志　秘密の皇帝_[第25話]</title>
@@ -888,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epumaeth5s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epx6dt48lp</id>
-    <title>笑うハナに恋きたる_[第5話 縁とは異なもの、味なもの]</title>
-    <updated>2026-01-26T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 笑うハナに恋きたる
-                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx6dt48lp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ジェイは自分の親友を紹介したいと、ハナを食事に誘う。ハナはタムがコーディネートしてくれた服を着てレストランを訪れると…、その親友とはなんと…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epx6dt48lp"/>
   </entry>
 </feed>
