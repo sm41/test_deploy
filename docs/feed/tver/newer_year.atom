@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-28T18:05:55+09:00</updated>
+  <updated>2026-01-28T20:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwznnvkgv</id>
+    <title>3年B組金八先生(第6シリーズ)_[第22回 卒業直前スペシャル「アタシは直を許さない！」]</title>
+    <updated>2026-01-28T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月11日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwznnvkgv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;特別授業から数日後、直（上戸彩）は都立ひかり高校定時制を受験し、合格した。３年B組の皆も“男”である直を受け入れつつあり、壁はもうなくなったかと思われた。しかし、充宏（川嶋義一）だけは直を受け入れようとしない。大乱闘を演じた後も充宏は直の存在が許せず、密かにもう一度決着をつけようと機会をうかがっていた。それを知った奈美（中村友美）や里佳（住吉怜奈）はこっそりと金八（武田鉄矢）に充宏のことを相談する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwznnvkgv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epiivsi1g6</id>
     <title>キッズ・ウォー２～ざけんなよ～_[第43話]</title>

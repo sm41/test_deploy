@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-28T18:05:55+09:00</updated>
+  <updated>2026-01-28T20:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epg1xpl30u</id>
+    <title>孤独のグルメ Season8_[第2話 杉並区高井戸のタンステーキ]</title>
+    <updated>2026-01-28T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月11日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月28日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg1xpl30u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は婚活パーティーを主催する沢村まどか（上白石萌音）との商談で高井戸にやって来た。沢村は可愛らしい笑顔で商品を即決したかと思うと、値引き交渉を仕掛けてくる。五郎が苦笑するほどのヤリ手で――。商談を終えた五郎は、駅へ向かう途中、一見オフィスビルのような洋食レストランに遭遇する。しかし表にメニューがなく、看板は牛のマークのみ。覗いた店内の美味しそうな料理に一気に空腹になり足早に中へ……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epg1xpl30u"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyasamrc1</id>
     <title>コスメティック・プレイラバー Season2_[第1話 棗さんのがんばれ、好き]</title>
