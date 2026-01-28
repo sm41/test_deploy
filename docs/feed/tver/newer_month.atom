@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-28T22:05:55+09:00</updated>
+  <updated>2026-01-29T00:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmnc8toob</id>
+    <title>十角館の殺人_[最終話]</title>
+    <updated>2026-01-29T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr698jxedq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 十角館の殺人
+                &lt;a href="https://tver.jp/series/sr698jxedq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月3日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmnc8toob.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                角島の『十角館』は思いも寄らぬ状況に陥っていた。『十角館』で起きた事件について、県警捜査一課の島田修(池田鉄洋)から話を聞いた江南(奥智哉)は、仲間の死を目の当たりにし、その事態の深刻さに打ちひしがれていた。思い詰めて、島田潔(青木崇高)とも距離を置こうとする江南だったが、アパートの大家(濱田マリ)の一言で、もう一度、調べ直すことを決意する。江南と島田が向かった先とは。そして、江南が語る最後の仮説とは。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmnc8toob"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6iot7n1y</id>
+    <title>冬のなんかさ、春のなんかね_[第3話　その距離とタイミング]</title>
+    <updated>2026-01-28T23:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srekizxkmk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 冬のなんかさ、春のなんかね
+                &lt;a href="https://tver.jp/series/srekizxkmk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_23時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月28日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6iot7n1y.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                年末。文菜(杉咲花)は富山の実家に帰り、高校時代の友人たちとプチ同窓会をしていた。元カレの柴咲秀(倉悠貴)もいた。二次会のカラオケでは、二人が別れた理由で盛り上がる。遠距離にビビった柴咲は、文菜の上京をきっかけに、試しもせずに別れたのだ。今はそれぞれ恋人がいる。翌日、昨日会ったばかりの柴咲から「明日ちょっと会えないかな?」電話がくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6iot7n1y"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptdwfa6qt</id>
+    <title>ラムネモンキー_[第3話 恐怖！地獄の番人ジェイソン]</title>
+    <updated>2026-01-28T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbhgspg4n.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ラムネモンキー
+                &lt;a href="https://tver.jp/series/srbhgspg4n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月28日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptdwfa6qt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                吉井雄太（反町隆史）、藤巻肇（大森南朋）、菊原紀介（津田健次郎）の三人は、中学時代の同級生・大葉灯里（泉有乃）から重要な証言を得る。中学生の頃、帰宅中に女性の悲鳴が聞こえ、振り向くとマチルダこと宮下未散（木竜麻生）がうずくまっていた。マチルダの近くにいた男は灯里に気づき、足早に立ち去っていったという。三人は鶴見巡査（濱尾ノリタカ）にその話を伝えるが、巡査は困惑するばかり。&lt;br&gt;一方、映画監督の肇は仕事がなく、借金を抱えていた。かつてのツテを頼ろうとするが全く相手にされず・・・。流行要素を盛り込んだ企画書でなんとか仕事に繋げようと必死だ。&lt;br&gt;西野白馬（福本莉子）が働くカフェで、三人は映画を撮った経緯を思い出す。ビデオカメラを手に入れた肇は映画部を作り、カンフー映画『ドランクモンキー酔拳』の脚本を書いたのだった。脚本を読んだ雄太も紀介も気が進まないが、顧問のマチルダは映画を作ることと、お互いを役名である「ユン」「チェン」「キンポー」と呼び合うことを指示する。その日から、三人はカンフー映画に打ち込んでいく。&lt;br&gt;ある日のこと。肇はとある家の庭先にあったチェーンソーから体育教師・江藤（須田邦裕）の恐ろしい記憶を思い出す。規律を重んじ、体罰も辞さない江藤は「ジェイソン」と呼ばれており、とりわけ口が達者な肇を目の敵にしていた。その江藤がマチルダをチェーンソーで殺した光景が、肇の脳裏に蘇った・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptdwfa6qt"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprfyyvfvm</id>
     <title>相棒 season24_[第14話「薔薇と髭の告発」]</title>
@@ -888,165 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprl8dkh28"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4tpgpoim</id>
-    <title>東京P.D. 警視庁広報2係_[第3話 見どころ 吉川愛編]</title>
-    <updated>2026-01-26T23:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
-                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4tpgpoim.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第3話放送の前に、ドラマのみどころやここでしか見られないスペシャルインタビューを大公開！&lt;br&gt;&lt;br&gt;今泉麟太郎（福士蒼汰）が黙々とデスクワークをこなし、広報課の仕事にも慣れてきた頃、事件を知らせる電話がかかってくる。&lt;br&gt;この事件は、20代女性・木崎七恵（えなこ）の失踪をきっかけに捜査が進展。街頭の防犯カメラや七恵のスマートフォンの位置情報などから、彼女が失踪直前まで会っていた男・川畑礼介（猪俣周杜）を被疑者と断定し逮捕に至った。七恵は山中に遺棄され、その周辺からは、その他4人の遺体も発見。川畑は自殺願望のある女性とSNSで連絡を取り合っていたことも判明する。&lt;br&gt;被害者の中には未成年の女性もいたことから、捜査一課長の北川一（津田寛治）は、被害者の実名公表に難色を示したが、記者の取材も捜査進展の一助になると考える広報課の安藤直司（緒形直人）は、真っ向から反発。その後に開かれた捜査一課長レクでは、被疑者・川畑と、被害者5人の実名と住所が北川により読み上げられ――。&lt;br&gt;&lt;br&gt;実名報道の是非は、報道各社が判断することになっている。YBXテレビでは、世間の動きを気にする社会部長が実名を伏せる意志を示したものの、記者・稲田裕司（金子ノブアキ）の訴えにより、どこよりも早く実名で報道。&lt;br&gt;一方、川畑は捜査一課の刑事・巨椋雅史（吉原光夫）に連れられ現場検証へ。そこで川畑は、被害者の殺害を否認。やったのは遺棄のみだと主張し・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4tpgpoim"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqa0z4sbo</id>
-    <title>夫に間違いありません_[#4 引き返せない罪。下す究極の決断]</title>
-    <updated>2026-01-26T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srny5zdcay.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫に間違いありません
-                &lt;a href="https://tver.jp/series/srny5zdcay" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqa0z4sbo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                家族に嘘をつきたくないと警察へ向かった聖子（松下奈緒）。しかしその直後、瑠美子（白宮みずほ）を殺したと一樹（安田顕）から連絡を受け、急いでアパートへ。事故だったと言う一樹に聖子は自首をすすめるが、一樹は隠し通そうと懇願。許されるはずもない提案に怒りを覚える聖子だったが、栄大（山﨑真斗）たちが殺人犯の子どもになってしまうと言われ迷いが生まれる。&lt;br&gt;翌日、瑠美子のニュースが報道され、キャバクラで瑠美子を見かけたことがある天童（宮沢氷魚）は何かが引っかかるようで―。&lt;br&gt;罪の意識に苛まれながらも、子どもたちが傷つき、家族がバラバラになることを恐れる聖子は、気が気ではない。&lt;br&gt;その頃、聖子のことで思い悩む栄大から再び相談を受けた光聖（中村海人）は、とある場所を訪れていた。そこで見覚えのあるものを見つける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqa0z4sbo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy3vw4ccp</id>
-    <title>ヤンドク！_[第3話 ヤンキー娘が医者になれた3つの理由とは？]</title>
-    <updated>2026-01-26T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンドク！
-                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy3vw4ccp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                湖音波（橋本環奈）が後輩の竜司（小林虎之介）たちを一喝している隠し撮り動画がSNS上で拡散。さらに事務局長の鷹山（大谷亮平）ら病院上層部は湖音波の過去を調べ上げ、ヤンキーぶりは徐々に病院中に知れ渡り…&lt;br&gt;脳神経外科に入院している杉浦優斗（森永悠希）はびまん性星細胞腫を患い、記憶や言語能力に影響が出始めていた。病状が進行してきたため湖音波は優斗と両親に手術が必要だと説明。弁護士を目指している優斗は手術に前向きな意思を見せるが、これまでに積み上げてきた知識がなくならないようにしてほしいと懇願する。&lt;br&gt;そこで湖音波は、優斗の手術を「覚醒下手術」で行うことを提案。手術中に脳を開けた状態で患者を起こし、言語等の反応を見ながら腫瘍を取るという難しい手術だが、中田（向井理）はそれを承認する。しかし、手術の執刀は湖音波ではなく大友（音尾琢真）に任せるという。湖音波の過去を知った優斗の父が、そんなドクターに任せられないと申し入れをしてきたのだ。自分に執刀させてほしいと食い下がる湖音波に対し、中田はにべもない。&lt;br&gt;一方、急遽難易度の高い手術をすることになった大友は必死で準備を始める。焦る大友の姿に、湖音波は力になろうと声をかけるが、プライドの高い大友は「医大に入れたのは裏口入学かパパ活で教授の弱みを握ったからだろう」と暴言を吐いてしまう。すると湖音波は「このクソたぁけ！」とブチ切れ、大友の首を絞め上げ…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy3vw4ccp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epumaeth5s</id>
-    <title>孤独のグルメ Season7_[第12話（最終回） 東京都中央区八丁堀のニラ玉ライスとエビチリ]</title>
-    <updated>2026-01-26T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season7
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月09日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月26日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epumaeth5s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                八丁堀へ向かう井之頭五郎（松重豊）。商談相手はライブハウス店長・五十嵐（大友康平）だ。商談を終え、五郎は昼食の店探しを始めるが、場所柄もあって高級店ばかり。そんな折、“庶民めし”にぴったりな中華店を発見する。大将（角野卓造）らに迎えられて入った店内には、オーソドックスな手書きメニューがズラリ。その中からニラ玉かエビチリか悩んだ五郎は、結局両方を注文する。運ばれてきた料理は、五郎の予想を次々と裏切っていき……。“庶民めし”と思いきや、出合ったのは、とんでもない中華だった！　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epumaeth5s"/>
   </entry>
 </feed>
