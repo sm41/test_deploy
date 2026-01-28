@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-28T02:06:04+09:00</updated>
+  <updated>2026-01-28T11:27:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxapen6g2</id>
+    <title>三国志　秘密の皇帝_[第25話]</title>
+    <updated>2026-01-28T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月28日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxapen6g2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                許攸（きょゆう）の屋敷に入ろうとし捕まった曹丕（そうひ）は、役所に現れた司馬懿（しばい）を見て袁紹（えんしょう）側についたと勘違いし暴言を吐く。しかし、司馬懿は拷問するどころか縄を解き逃げるよう促した。審栄（しんえい）を利用して袁紹の屋敷に潜り込んだ司馬懿だが、袁紹の息子、袁熙（えいき）の夫人である甄宓（しんふく）とその付き人、呂姫（りょき）に見つかり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxapen6g2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epgrtgxds6</id>
     <title>マトリと狂犬_[#２「もう一人の狂犬」《ドラマイズム》]</title>
@@ -1008,125 +1048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep46x8l8d0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2abylwy7</id>
-    <title>私の夫は時給1,000円の大富豪_[【スマホ用】#7「”お嬢様”の逆襲」]</title>
-    <updated>2026-01-26T02:05:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwtidqc0n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私の夫は時給1,000円の大富豪
-                &lt;a href="https://tver.jp/series/srwtidqc0n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_02時05分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_02時04分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2abylwy7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                専業主婦の凛花（小高サラ）は夫の悠太（垣雅之）から離婚して愛人の美雨（本田美羽）と再婚するから家を出て行けと罵倒される。そこにやってきたのは家政夫に扮した大企業ルミナスパレス会長・篠宮碧（松本享恭）。身分を隠した碧にプロポーズされて契約結婚した凛花。凛花とずっと一緒に居たい碧は自分の正体を明かそうとするも…。一方碧から一点ものの高級ウエディングドレスをプレゼントされて喜ぶ凛花。しかしそこに美雨がやってきて…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2abylwy7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epywcn9vnu</id>
-    <title>DARK13 踊るゾンビ学校_[【3話夫婦篇】 モラハラ夫 vs ヒステリック妻　愛し合った2人の殺し合い]</title>
-    <updated>2026-01-26T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs48u7lad.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DARK13 踊るゾンビ学校
-                &lt;a href="https://tver.jp/series/srs48u7lad" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epywcn9vnu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                堤幸彦原案・演出!イケメン人情派ゾンビ×超絶ダンスの前代未聞のホラーコメディ。&lt;br&gt;便利なお気に入り登録で見逃し防止!&lt;br&gt;&lt;br&gt;第3話&lt;br&gt;ー夫婦篇ー&lt;br&gt;ゲスト人間：たむたむ・沙羅&lt;br&gt;&lt;br&gt;♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦&lt;br&gt;現世とあの世のはざまにある、まるで廃校の教室のような閉鎖空間、通称『ドグマクラス』。&lt;br&gt;なんらかのトラブルを抱え自己本位に言い争う人間たちが、あの世へと行く前に送りこまれ、案内人のマウス(前田拳太郎)・ビーフ(八木将康)、そして様々な“特殊能力”をもつ 10 体のゾンビたち(THE JET BOY BANGERZ)によって“最後の学び”と“裁き”を受け、最終的な審判は校長の仁(橘ケンチ)が下す…。&lt;br&gt;&lt;br&gt;「うるせぇクソブタ!!」&lt;br&gt;「落ち着け!!」&lt;br&gt;ヒステリックに怒鳴る女と、いさめようとする男の激しく言い争う声…。&lt;br&gt;その声の主は夫の隆太郎(たむたむ)と妻のエマ(沙羅)、今宵のドグマクラスの呼び出し生徒だ。&lt;br&gt;&lt;br&gt;案内人マウスがおもむろに電話の受話器を取ると、現世での喧嘩のなれ果ての、鬼気迫る隆太郎の叫び声が聴こえてきた。&lt;br&gt;「警察ですか…？僕は…妻を殺しました。」&lt;br&gt;2人は結婚10年目の今日、夫婦喧嘩の末に死を迎える運命だったのだ…。&lt;br&gt;&lt;br&gt;悲劇的な末路を知った隆太郎とエマは、絶望の中でゾンビたちによる裁きを受けていくが、&lt;br&gt;エマについたパイソン(AERON)と隆太郎が選んだウマ(YUHI)の能力によって、2人の出会いから結婚までのまさかの過程が掘り起こされ…!?&lt;br&gt;♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epywcn9vnu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6cjr9tox</id>
-    <title>仮面の忍者 赤影_[第十一話 金目像の悪夢]</title>
-    <updated>2026-01-26T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 仮面の忍者 赤影
-                &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月26日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月09日(月)_00時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月25日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6cjr9tox.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                霞谷に侵入し幻妖斎（忍成修吾）の信者たちに目を覚ますよう説く《金目教》の開祖・夢眼老師（徳井優）とともに霞谷へと向かった赤影（佐藤大樹）だったが、関所の門には《霞谷七人衆》の一人・鬼念坊（勝矢）の姿が…。赤影は“盲目の弟子”として忍び込もうとするが――。夢眼老師が霞谷に案内する条件が《刀を持ち込まないこと》だったため、赤影は無防備な状態であった。さらに、夢眼老師は3人にもう一つ《ある条件》を突きつけて――!?&#13;&lt;br&gt;そして、赤影たちの前に闇姫（山本千尋）と黒影（山田愛奈）が現れる。彼女たちもまた、夢眼老師と弟子に扮した赤影に疑いの目を向け、なんと闇姫と黒影からまさかの一言が――？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6cjr9tox"/>
   </entry>
 </feed>
