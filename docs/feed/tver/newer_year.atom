@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-30T00:05:55+09:00</updated>
+  <updated>2026-01-30T02:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -688,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep47ra0dja"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2bajk964</id>
-    <title>3年B組金八先生(第6シリーズ)_[第21回 鶴本直]</title>
-    <updated>2026-01-27T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2bajk964.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;教室で「自分は男である」と告白し、その場を立ち去った直（上戸彩）を心配して、金八（武田鉄矢）は直と共にカウンセラーの立石（利重剛）のもとを訪れる。そこで学校に行くのを恐がる直に、金八は再びクラスに戻るように呼びかける。そして直が戻ってきた３年B組では、本田先生（高畑淳子）、遠藤先生（山崎銀之丞）と金八による総合学習授業が行われる。金八は生徒全員の将来なりたい職業を例に挙げ、男女差別に潜在的な思い込みが影響していることを説明し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2bajk964"/>
   </entry>
 </feed>
