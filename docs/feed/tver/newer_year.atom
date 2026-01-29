@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-29T18:05:55+09:00</updated>
+  <updated>2026-01-29T20:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptt6lolaf</id>
+    <title>3年B組金八先生(第6シリーズ)_[最終回 卒業スペシャル「サヨナラ３Bサヨナラ桜中学」]</title>
+    <updated>2026-01-29T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptt6lolaf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;名誉毀損で雑誌社と争うことを自らの口から報告するため、政則（東新良和）は金八（武田鉄矢）と共に服役中の父・政之（佐戸井けん太）のもとを訪れた。そこで政則は家族の名誉のためにも立派に闘い抜くことを誓う。いよいよ卒業式が始まるが、女子の制服を着てこなかった直（上戸彩）に千田校長（木場勝己）は嫌悪感を露わにし、制服を着用しなければ卒業を認めないと言う。男としての自分を認めてもらえない直は、卒業証書を受け取らずに壇上から降りようとするが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptt6lolaf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epr8sqns4o</id>
     <title>キッズ・ウォー２～ざけんなよ～_[第44話]</title>
@@ -648,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2bajk964"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjgcrxew7</id>
-    <title>大好き！五つ子4_[第７回 HERO]</title>
-    <updated>2026-01-27T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子4
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjgcrxew7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;慎吾（中野勇士）が永島純（山田孝之）という高校生に背負われて帰ってきた。純は慎吾たちのサッカーチームをコーチしにきている先輩で、慎吾のあこがれの先輩だった。慎吾は純との練習中に、両膝と肘をすりむいてしまったのだという。純を一目見た美穂（新穂えりか）はすっかり夢中になってしまう。翌日、慎吾は弁当を持ってサッカーの練習に出かけるというので、桃子が慎吾の分の弁当を作っていると、純の分も作ると美穂もいそいそと手伝っていた。そこに、慎吾を迎えに純が桜井家を訪れる。喜んで顔を出した美穂だが、純に「ミキちゃん」と呼ばれてしまい、ショックを隠せず…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjgcrxew7"/>
   </entry>
 </feed>

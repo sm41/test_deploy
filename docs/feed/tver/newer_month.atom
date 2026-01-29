@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-29T18:05:55+09:00</updated>
+  <updated>2026-01-29T20:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep36ftdasa</id>
+    <title>運命のキスをお願い！_[第31話   責任と愛情]</title>
+    <updated>2026-01-29T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8gyitin.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 運命のキスをお願い！
+                &lt;a href="https://tver.jp/series/srr8gyitin" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_19時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep36ftdasa.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                江顔(ジアン・イェン)は、陸星成(ルー・シンチョン)のせいで負った背中の火傷を、交際することで責任を取るよう星成に迫る。江顔への罪悪感と童小悠(トン・シャオヨウ)を想う気持ちとの狭間で葛藤する星成。そんな折、星成は路任(ルー・レン)から母の事を聞くことに。星成の出した答えに激怒した江顔は、泥酔し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep36ftdasa"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epd2uj3g4q</id>
+    <title>孤独のグルメ Season8_[第3話 銀座のBarのロールキャベツ定食]</title>
+    <updated>2026-01-29T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd2uj3g4q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は、銀座のバーで商談相手の劇団ノーモラル主宰・武者小路朱雀（岸谷五朗）と会っていた。怪しげな様相に奇抜表現と面倒なやりとりが続くはめに……。変な気を遣って空腹になった五郎は、銀座の路地で昼食堂の看板を発見する。覚悟を決め店に入りお目当てのポークソテーを注文しようとするが、店のお母さん（室井滋）から、ロールキャベツ定食しかないと衝撃的な一言が告げられ一択の窮地にショックを受けるが……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd2uj3g4q"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep642kdaf7</id>
     <title>三国志　秘密の皇帝_[第26話]</title>
