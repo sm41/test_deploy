@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-29T16:05:55+09:00</updated>
+  <updated>2026-01-29T18:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -688,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epjgcrxew7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgm7208ff</id>
-    <title>キッズ・ウォー２～ざけんなよ～_[第42話]</title>
-    <updated>2026-01-27T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
-                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月27日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月21日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgm7208ff.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週月曜～金曜１２時　新エピソード更新！！】    翌朝、茜はガングロコギャルメイク、浩はド派手メイクで職員室へ乗り込む。イジメ問題を全く取り合わない浩の担任に抗議をするためだ。驚いた先生から呼び出された春子も、浩の受けている理不尽なイジメを訴え、問題を取り合わない担任を責める。事情を聞いた校長の大沢（大和田伸也）は「私に任せて欲しい」と言う…。&lt;br&gt;  一方、悩む浩を助けたいと兄・健一（小谷幸弘）はクラスメイトの親を訪れ、「イジメを止めさせて欲しい」と頭を下げるが……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgm7208ff"/>
   </entry>
 </feed>
