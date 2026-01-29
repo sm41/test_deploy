@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-29T02:05:56+09:00</updated>
+  <updated>2026-01-29T10:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep642kdaf7</id>
+    <title>三国志　秘密の皇帝_[第26話]</title>
+    <updated>2026-01-29T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月05日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep642kdaf7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                任紅昌（じんこうしょう）と伏寿（ふくじゅ）、曹丕（そうひ）は袁（えん）夫人の誕生日祝いの席に踊り手と楽器奏者として潜り込む。袁紹（えんしょう）の元で人質になっている呂布（りょふ）の一人娘・呂姫（りょき）を助け出し、許可状を盗み出すことが目的だった。演舞後、一行は甄宓（しんふく）に舞を教えることに。曹丕と甄宓が琴を取りに行っている間に任紅昌は呂姫の手かせを外すが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep642kdaf7"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eplhqt3o09</id>
+    <title>L&amp;P_[第17話　愛のため]</title>
+    <updated>2026-01-29T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月28日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplhqt3o09.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                コンテストを機に情報大の黎娜（リーナー）と親しくなる高見鴻（ガオ・ジエンホン)。だが彼女が李峋（リー・シュン）に憧れていると知り、嫉妬を抱く。そんな折、見鴻は方志靖(ファン・ジージン)が大会スポンサーと接触する姿を目撃。朱韻（ジュー・ユン）もその事実を知り、不正を止めようと立ち向かう…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplhqt3o09"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj5ybbdpb</id>
     <title>私の夫は時給1,000円の大富豪_[#8「もう一つの真実」]</title>
