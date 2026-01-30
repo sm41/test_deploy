@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-30T22:05:37+09:00</updated>
+  <updated>2026-01-31T00:05:36+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epd03vcth5</id>
+    <title>GOLD_[第11話 最終回・・・死なないで 母と子の号泣の結末]</title>
+    <updated>2026-01-31T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjm3k9lp6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ GOLD
+                &lt;a href="https://tver.jp/series/srjm3k9lp6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd03vcth5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;早乙女悠里（天海祐希）は、無謀な賭けだと知りながら、廉（矢野聖人）の力を借りて洸（松坂桃李）を立ち直らせようとした。自らの命をかけて競泳の代表選考会に挑もうとする廉の姿が、洸の魂を奮い立たせてくれると信じていたのだ。悠里は、蓮見丈治（反町隆史）や父親の惣一（夏八木勲）にもそのことは秘密にしていた。知っていたのは晶（武井咲）だけだった。悠里の思いは通じ、選考会場にやってきた洸は、廉と同じ組で100m自由形のスタート台に立つ。会場にいた新倉リカ（長澤まさみ）や辰也（寺島進）も、洸の登場に驚きを隠せなかった。洸は、隣に立つ廉に向かって、お前なんかの出る幕じゃない、と告げると、スタートの合図と同時に力強く飛び込んだ。圧倒的な泳ぎを見せた洸は、見事トップでゴールする。&lt;br&gt;リカとともに関係者控室を訪れた辰也は、悠里に渡した離婚届を返してもらう。それを知った丈治は、この機会に早乙女家に戻ったらどうか、と辰也に提案する。そのころリカも、辰也に促されて、悠里に提出した辞表届けを返してもらおうとしていた。しかし悠里は、それを認めなかった。&lt;br&gt;悠里は、惣一に代わって、選考会の閉会式で挨拶をすることになった。ところがそこで思わぬ事件が起き・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『GOLD』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd03vcth5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epabep8mnu</id>
+    <title>わたしたちの教科書_[第10話 少年の立つ法廷]</title>
+    <updated>2026-01-31T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk0cujptk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ わたしたちの教科書
+                &lt;a href="https://tver.jp/series/srk0cujptk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epabep8mnu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;珠子（菅野美穂）は、喜里丘中学校の熊沢（佐藤二朗）に、学校内でいじめがあることを認めさせる。あらかじめこうした事態も予測していた直之（谷原章介）は、戦略を変えようと副校長の雨木（風吹ジュン）に提案した。それは、学校内でいじめがあったことは認めながらも、明日香（志田未来）の死はあくまでも事故であると主張するというものだった。しかし雨木は、いじめはなかったという主張は変えない、と譲らなかった。重要なのは裁判に勝つことではなく、学校と、残った生徒を守ることだというのだ。それでも、耕平（伊藤淳史）や早紀（真木よう子）ら教師たちは動揺を隠せなかった。生徒たちから明日香のことを質問されても、もはや耕平たちには、どう答えればいいのかわからなくなっていたのだ。法廷を後にしようとしていた珠子の前に現れたのは、兼良陸（冨浦智嗣）の母・由香里（渡辺典子）だった。由香里は、裁判のせいで陸が傷つけられたと激しく珠子を非難すると、法廷の場で本人の口から無実を証言させる、と言い出す。訴訟は学校側の管理責任を問うものであり、生徒を巻き込むつもりはない、という珠子の説得にも耳を貸さなかった由香里は、陸を法廷に立たせてしまう。同じころ、朋美（谷村美月）は、学校近くの道で不審な男を目撃する。それは、雨木の息子・音也（五十嵐隼士）だった。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『わたしたちの教科書』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epabep8mnu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzjcp3uhz</id>
     <title>3年B組金八先生(第7シリーズ)_[第１回 史上最低の３B！]</title>
@@ -568,45 +648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep05mixq9d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwznnvkgv</id>
-    <title>3年B組金八先生(第6シリーズ)_[第22回 卒業直前スペシャル「アタシは直を許さない！」]</title>
-    <updated>2026-01-28T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月11日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwznnvkgv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;特別授業から数日後、直（上戸彩）は都立ひかり高校定時制を受験し、合格した。３年B組の皆も“男”である直を受け入れつつあり、壁はもうなくなったかと思われた。しかし、充宏（川嶋義一）だけは直を受け入れようとしない。大乱闘を演じた後も充宏は直の存在が許せず、密かにもう一度決着をつけようと機会をうかがっていた。それを知った奈美（中村友美）や里佳（住吉怜奈）はこっそりと金八（武田鉄矢）に充宏のことを相談する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwznnvkgv"/>
   </entry>
 </feed>
