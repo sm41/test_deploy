@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-30T20:05:37+09:00</updated>
+  <updated>2026-01-30T22:05:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfwm1s325</id>
+    <title>副会長の主なお仕事_[譲れない場所]</title>
+    <updated>2026-01-30T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月30日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfwm1s325.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                誰とでも明るく接する灰屋の周りには、ギャルや軽音部の“問題児”たちが自然と集まる。その光景に栗下の独占欲がついに爆発。「会長の隣に一番ふさわしいのは私では？」と迫る栗下。さらに、生徒会室にはほぼ顔を出さない書記・田垣莉夢の自由奔放さまで加わり、物語は一気に加速する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfwm1s325"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8l56bym2</id>
+    <title>元科捜研の主婦_[3話 データ嫁VSアナログ姑！謎の感電死…犯人は嫁!?]</title>
+    <updated>2026-01-30T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月30日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8l56bym2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                データ主義嫁（松本まりか）VS超アナログ姑（かたせ梨乃）！姑が謎の感電死…容疑者は同居嫁!?道彦（横山裕）の“違和感”と“元科捜研”の女が驚きの真相を解き明かす…　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8l56bym2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqmdbdrbh</id>
     <title>三国志　秘密の皇帝_[第27話]</title>
