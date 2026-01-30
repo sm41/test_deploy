@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-30T02:05:55+09:00</updated>
+  <updated>2026-01-30T11:18:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvep5orzi</id>
+    <title>口説き文句は決めている_[第2話 仲直りのきっかけのプリン]</title>
+    <updated>2026-01-30T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sred91cw5o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 口説き文句は決めている
+                &lt;a href="https://tver.jp/series/sred91cw5o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvep5orzi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                香羽（北香那）の同期・鈴井（長村航希）が彼女とケンカしてしまったらしい。原因は「居酒屋デート」派の鈴井と、「おしゃれなお店」派の彼女の意見の対立。香羽は鈴井に謝るように言うが、実は香羽自身も親友の美和（ついひじ杏奈）と少し気まずくなっているところだった。「素直に謝るってハードルが高い。」そんな時、例えば相手の大好物のプリンを買って行って、謝るきっかけを作られたら…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvep5orzi"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsaooty1n</id>
     <title>東京DOGS_[第10話 決着のクリスマス]</title>
@@ -528,165 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2bbt3i2k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj6vkfw6u</id>
-    <title>ダンディ・ダディ？～恋愛小説家・伊崎龍之介～_[最終章　最期の恋愛小説]</title>
-    <updated>2026-01-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr72bpemf1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ダンディ・ダディ？～恋愛小説家・伊崎龍之介～
-                &lt;a href="https://tver.jp/series/sr72bpemf1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj6vkfw6u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/14(日)～ ＃1-＃3&#13;&lt;br&gt;12/29(月)～ ＃4-＃6&#13;&lt;br&gt;1/28(水)～ ＃7-＃8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;風邪をひいた龍之介（舘ひろし）は総合病院へ。そこであかり（南沢奈央）のためにも元気で長生きしなくてはと考えた龍之介は意を決して人間ドックに入る。そこで龍之介は内野達彦（布施博）という男性と出会う。内野は美羽（平山あや）の父親で、肝臓が悪いらしい。だがそれを知った美羽は心配する風でもなく、関心がない様子。幼いころ、母親とともに内野に捨てられた美羽はそのことをいまだに許せないでいるのだった。かたくなな美羽の気持ちをなんとかほぐしたい龍之介らだったが…。&#13;&lt;br&gt;一方、検査結果が出た龍之介はどうやら肺に影があることが分かる。自分が生きている間にあかりのためにしてあげられることはなにか、考えた龍之介は…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epj6vkfw6u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epieglatlq</id>
-    <title>GOLD_[第10話 誰か助けて！もう限界よ・・・哀しき母の最後の叫び]</title>
-    <updated>2026-01-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjm3k9lp6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ GOLD
-                &lt;a href="https://tver.jp/series/srjm3k9lp6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月03日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epieglatlq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;早乙女悠里（天海祐希）は、父・惣一（夏八木勲）に代わって、早乙女グループの新代表に選ばれる。蓮見丈治（反町隆史）は、心臓疾患を持つ廉（矢野聖人）を競泳の代表選考会に出場させようとしている悠里を、惣一の力で止めてもらうつもりでいた。だが、悠里がグループの代表になったことで、そのもくろみは外れてしまう。同じころ、YSコーポレーションの室内プールで練習していた廉のもとに、洸（松坂桃李）がやってくる。洸は、神代麻衣子（南沢奈央）と一緒だった。自分の代わりに廉が代表選考会に出場することを知った洸は、手伝えることがあったら言ってほしい、と申し出る。その夜、悠里は、別居中の夫・辰也（寺島進）とプライベートバーで会う。辰也も、廉を選考会に出場させるのを止めようとしていた。しかし悠里は、辰也の頼みでもそれだけはできない、と拒否した。すると辰也は、自分なりに覚悟を決めてきた、と言って悠里に離婚届を手渡す。別の日、悠里は、秘書の新倉リカ（長澤まさみ）を伴って買い物に出かける。悠里は、大量のブランド品を買い求めた後、高級なレストランで食事をすると言い出す。そこでリカは、今回の廉の件は、人として、母親として間違っていると言い放つ。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『GOLD』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epieglatlq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epebg76rlm</id>
-    <title>わたしたちの教科書_[第9話 大逆転の重要証人]</title>
-    <updated>2026-01-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk0cujptk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ わたしたちの教科書
-                &lt;a href="https://tver.jp/series/srk0cujptk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月03日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epebg76rlm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;裁判で苦戦を強いられている珠子（菅野美穂）に追い討ちをかけるかのように、週刊誌には彼女に関する中傷記事が出始めていた。珠子は、自分が捨てた子どもの事故死をネタに、中学校を脅迫する悪徳弁護士だというのだ。そんな折、戸板（大倉孝二）は、耕平（伊藤淳史）と早紀（真木よう子）の会話を偶然耳にし、明日香（志田未来）の教科書が隠してあった保管庫の暗証番号をコースターに書いて耕平に教えた人物がいることを知る。戸板からコースターのコピーを手渡された珠子は、その人物は明日香がいじめられていたことも知っていた可能性があると推測する。一方、直之（谷原章介）も、雨木（風吹ジュン）とともにその人物の特定を急いでいた。珠子に説得されて学校側に不利な証言をする前に、手を打たなければならないのだ。直之たちは、教師たちの中で不審な行動を取る者がいないか、さっそく調査を開始する。そんな中、珠子は、コースターに描かれていたロゴマークを元に、『FLYING　ELEPHANT』というクラブを訪れる。同じころ、耕平は、熊沢（佐藤二朗）に誘われて繁華街で飲んでいた。その際、熊沢は、友人らしき女の子たちと一緒にいる娘・桜（波瑠）の姿を見かける。実は桜は、友人の家を泊まり歩き、ひと月以上も家に帰ってこないのだという。耕平は、そんな熊沢のために、桜探しに協力するが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『わたしたちの教科書』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epebg76rlm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep47ra0dja</id>
-    <title>ダンディ・ダディ？～恋愛小説家・伊崎龍之介～_[第七章　妻に似た恋人]</title>
-    <updated>2026-01-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr72bpemf1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ダンディ・ダディ？～恋愛小説家・伊崎龍之介～
-                &lt;a href="https://tver.jp/series/sr72bpemf1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep47ra0dja.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/14(日)～ ＃1-＃3&#13;&lt;br&gt;12/29(月)～ ＃4-＃6&#13;&lt;br&gt;1/28(水)～ ＃7-＃8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;龍之介（舘ひろし）の前に亡くなった妻・みのりと瓜二つの女性が現れた。新進女流作家の藤崎かれん（笛木優子）だ。龍之介とテレビ番組で対談したかれんは「男女の間に友情は成立しない」と断言する。反論した龍之介だったが、成り行きでふたりは小説を共同執筆することになり、その作業の中で恋愛感情が生まれるかどうかを試すことに…。亡き妻にそっくりなかれんとの出会いに、複雑な心境の龍之介だったが…!?&#13;&lt;br&gt;一方、その対談をテレビで見ていたあかり（南沢奈央）は慌てて龍之介に電話をかける。だが、なぜか龍之介は電話に出ない。これまではどんな女の人といても自分を優先してきてくれた龍之介だったのに、これまでと違う様子に、あかりは戸惑いを隠せない…。&#13;&lt;br&gt;寛（八嶋智人）や美羽（平山あや）も龍之介とかれんの関係が気になる様子。寛はあかりと、龍之介とかれん、どちらが恋愛感情を持つようになるか、賭けることに！　あかりは「お父さんは絶対に本気にならない」と宣言する！　そんな周囲の気持ちとは裏腹に、ますます親密度を増す龍之介とかれんだったが…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep47ra0dja"/>
   </entry>
 </feed>

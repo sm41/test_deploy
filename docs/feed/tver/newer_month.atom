@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-30T02:05:55+09:00</updated>
+  <updated>2026-01-30T11:18:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epqmdbdrbh</id>
+    <title>三国志　秘密の皇帝_[第27話]</title>
+    <updated>2026-01-30T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月30日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqmdbdrbh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                許攸（きょゆう）の屋敷で審栄（しんえい）に捕まった曹丕（そうひ）。司馬懿（しばい）になぜ鄴（ぎょう）に来たのか問われると、実兄の死の真相を探るためだと言う。その頃、役所の前では押しかけた儒学生たちが審配（しんぱい）と話をさせろと抗議していた。儒学生に警備の目が向いている間に、牢屋に捕らわれている伏寿（ふくじゅ）たちを救おうとした司馬懿だったが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epqmdbdrbh"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epl18p3qsr</id>
+    <title>私のIDはカンナム美人_[第17話]</title>
+    <updated>2026-01-30T02:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruw17n49p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私のIDはカンナム美人
+                &lt;a href="https://tver.jp/series/sruw17n49p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_02時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl18p3qsr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ギョンソクに問い詰められたミレは正直に自分の気持ちを伝える。そして、互いの気持ちを確かめた２人はつきあうことに。スアは友人たちにギョンソクのことを聞かれ、ギョンソクには好きな人がいることを話す。そんな中、スアは自分のことを振ってミレを選ぶのかとギョンソクを問い詰めるが、そこにミレが現われ自分たちの関係を話す。一方、先輩のテヨンに告白されたスアだったが、その様子をイェナが見ていて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl18p3qsr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnaln0r0y</id>
     <title>本命じゃなきゃよかったのに_[Episode4「波乱の社員旅行」《ドラマフィル》]</title>
@@ -1288,125 +1368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epz76swp7x"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epme10hvxd</id>
-    <title>どーする？ごはんSEASON2_[韓国編第1話「骨董品店」]</title>
-    <updated>2026-01-28T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlmq9cffq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ どーする？ごはんSEASON2
-                &lt;a href="https://tver.jp/series/srlmq9cffq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_01時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epme10hvxd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                歌手活動が思うように進まなかったジヌは釜山に戻り、アルバイト生活を始める。今日のバイトは骨董品店。店を訪ねるといきなり頭に銃をつきつけられ焦るジヌ。それがおもちゃの銃だと気が付くと、店長から私の憧れをバカにするのか？と言われて…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epme10hvxd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbs7n7v1s</id>
-    <title>略奪奪婚_[第4話 どん底女は堕胎した子の夢を見るか？]</title>
-    <updated>2026-01-28T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9o4l4jzm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 略奪奪婚
-                &lt;a href="https://tver.jp/series/sr9o4l4jzm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_01時09分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbs7n7v1s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                自分をゆすってきたナオ（松本大輝）のスマホから、えみる（中村ゆりか）が裸で男性に腕枕されている写真を見つけた千春（内田理央）。ナオの情報提供により、相手は人気ライバーの海斗（ISSEI）だと分かる。一方、えみると母親の間に挟まれ我慢の限界がきた司（伊藤健太郎）は、事務員の梅田（川島鈴遥）との距離が近付きつつあった。「全てを奪ったあの女の裏の顔を知りたい」えみるのお気に入りが海斗だと知った千春は、海斗との接近を試みる。　［期間限定無料配信］　毎週火曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbs7n7v1s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep870mfqg5</id>
-    <title>黒崎さんの一途な愛がとまらない_[第4話 恋のライバル出現!?ピュアな2人の恋に嵐が吹き荒れる!!]</title>
-    <updated>2026-01-28T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrejzzg0i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 黒崎さんの一途な愛がとまらない
-                &lt;a href="https://tver.jp/series/srrejzzg0i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月27日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep870mfqg5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                自分を庇って右手を怪我した黒崎(山中柔太朗)に責任を感じた小春(豊嶋花)は、黒崎に代筆を申し出る。黒崎の家に通うようになり、少しずつ黒崎を大人の男性として意識するようになる小春だが、突然恋のライバルが出現する!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep870mfqg5"/>
   </entry>
 </feed>
