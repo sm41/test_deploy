@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-30T18:05:36+09:00</updated>
+  <updated>2026-01-30T20:05:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzjcp3uhz</id>
+    <title>3年B組金八先生(第7シリーズ)_[第１回 史上最低の３B！]</title>
+    <updated>2026-01-30T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzjcp3uhz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;坂本金八（武田鉄矢）が桜中学を去ってから、２年の月日が経とうとしていた。桜中学２年B組の担任・花子先生（小西美帆）が出産し、和田教育長（長谷川哲夫）は金八に桜中学に勤務してほしいと頼む。そうして２Bの担任として教壇に戻った金八は、引き続き３年B組を担任することとなる。そして迎えた１０月、３Bに転校生・飯島弥生（岩田さゆり）がやってきた。一方、桜中学を含む地域一帯には麻薬をめぐる問題が発生！また、３Bの生徒・丸山しゅう（八乙女光）は密かに何か問題を抱えているようで…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzjcp3uhz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjzldxme5</id>
     <title>キッズ・ウォー２～ざけんなよ～_[第45話]</title>
