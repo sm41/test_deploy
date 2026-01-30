@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-30T12:05:36+09:00</updated>
+  <updated>2026-01-30T14:06:36+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1168,45 +1168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epyasamrc1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxapen6g2</id>
-    <title>三国志　秘密の皇帝_[第25話]</title>
-    <updated>2026-01-28T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月28日(水)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月28日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxapen6g2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                許攸（きょゆう）の屋敷に入ろうとし捕まった曹丕（そうひ）は、役所に現れた司馬懿（しばい）を見て袁紹（えんしょう）側についたと勘違いし暴言を吐く。しかし、司馬懿は拷問するどころか縄を解き逃げるよう促した。審栄（しんえい）を利用して袁紹の屋敷に潜り込んだ司馬懿だが、袁紹の息子、袁熙（えいき）の夫人である甄宓（しんふく）とその付き人、呂姫（りょき）に見つかり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxapen6g2"/>
   </entry>
 </feed>
