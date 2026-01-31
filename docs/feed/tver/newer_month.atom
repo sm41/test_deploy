@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-01-31T20:06:19+09:00</updated>
+  <updated>2026-01-31T22:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep427dbibq</id>
+    <title>パンダより恋が苦手な私たち_[第4話 人生に恋愛は必要？]</title>
+    <updated>2026-01-31T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月31日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep427dbibq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                一葉(上白石萌歌)は、変人動物学者・椎堂司(生田斗真)に恋してしまって胸がドキドキ!一方、友人のカメラマン・橘環希(仁村紗和)は、職場の先輩から告白されイライラ…恋愛感情を仕事に持ち込むな!そんな中、灰沢アリア(シシド・カフカ)がモデル業から3年も遠ざかっている理由が気になる一葉は、アリアの逆鱗に触れてしまい…!過去に一体何が!?そして、司の衝撃的な過去も明らかになり、二人の関係に変化が…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep427dbibq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbnhoza8y</id>
     <title>ガラスの指輪と絆創膏_[第3話 シツレイツカマツル]</title>
