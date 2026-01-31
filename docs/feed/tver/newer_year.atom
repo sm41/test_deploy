@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-31T18:05:19+09:00</updated>
+  <updated>2026-01-31T20:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzf546q77</id>
+    <title>3年B組金八先生(第7シリーズ)_[第２回 ３BVSヤヨの微笑]</title>
+    <updated>2026-01-31T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月14日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzf546q77.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;ある日、３年B組の生徒が慌てて金八（武田鉄矢）を呼びにくる。田中奈穂佳（石田未来）や麻田玲子（福田沙紀）が、弥生（岩田さゆり）の事情を学級委員しか知らされていなかったことについて不満を訴えたのがきっかけで、大騒ぎになっていたのだ。金八は生徒たちに、弥生の発達障害について全員に言わなかった理由を話す。また、学校からの知らせを受けて駆け付けた弥生の母・昌恵（五十嵐めぐみ）は、母親としての思いを生徒たちに語る。そんな中、学級委員の杉田祥恵（渡辺有菜）が、土曜補習に弥生を誘うが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzf546q77"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eph83fbh7i</id>
     <title>隣の家族は青く見える_[第3話 夫婦の絆！！妻の涙と夫のあふれる想い！！]</title>
