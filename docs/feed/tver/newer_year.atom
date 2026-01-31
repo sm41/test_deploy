@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-01T00:06:19+09:00</updated>
+  <updated>2026-02-01T02:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep4ay563iz</id>
+    <title>買われた男_[#4 No.1セラピスト＆風俗嬢 華やかな2人の過去とは…]</title>
+    <updated>2026-02-01T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqoatp0he.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 買われた男
+                &lt;a href="https://tver.jp/series/srqoatp0he" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ay563iz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                女性用風俗店「KIRAMEKI」で人気No.1のセラピスト、シアン（池田匡志）は深夜1時、客の家へと向かう。相手は同業者である風俗嬢のまりあ（吉本実憂）。まりあは「この仕事が大好きで、自分にとって天職」と語り、お客さん側の気持ちを体験するためにセラピストを頼んだのだという。貧しくつらい子ども時代を過ごし、お金のためにセラピストになったシアンはまりあの話を聞いているうちにイラついてきて、つい意地悪な言葉を浴びせてしまう。まりあから帰るよう促されるがシアンは立ち止まり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4ay563iz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz2uol8bf</id>
     <title>六本木クラス_[第8話]</title>

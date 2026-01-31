@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-01T00:06:19+09:00</updated>
+  <updated>2026-02-01T02:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5kux28ss</id>
+    <title>横浜ネイバーズ Season1_[第4話 12文字の悪意]</title>
+    <updated>2026-02-01T00:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
+                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月31日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5kux28ss.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ごく普通の大学生・佐原（今井悠貴）は、ちょうど彼女に振られたところだった。むしゃくしゃした佐原は、かつての同級生・菊地妃奈子（平祐奈）を中傷する投稿を見つけ、むしゃくしゃを発散するように拡散ボタンをタップした。&lt;br&gt;5年間、部屋にひきこもっている幼馴染のヒナから「話したいことがある」と呼び出されたものの、すっぽかされたロン（大西流星）。そんな中、ロンは仲間の凪（紺野彩夏）から、ヒナがSNSで攻撃の的になっていることを聞く。「菊地妃奈子は犯罪者である」SNSに踊る悪意にまみれた12文字。急ぎ、ヒナの家に向かうロン、マツ（高橋侃）、凪だったが、そこでロンはヒナがずっと隠していた秘密に気づく。ヒナは車いすで生活をしている、と―――&lt;br&gt;高校時代は歩けていたはずのヒナ。なぜ車いすになったのか欽太（原嘉孝）に聞くが、欽太は自分からは話せないと告げる。ロンは誹謗中傷の投稿を拡散した佐原や、中傷の原因となったかつての担任・比良石（渋江譲二）に会いに行くが……&lt;br&gt;大切な友の笑顔を取り戻すことはできるのか？再生の光を感じさせる感涙必至の友情回！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5kux28ss"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0n5krcww</id>
     <title>ぜんぶ、あなたのためだから_[第4話 愛の激突…友の裏切り]</title>
@@ -848,45 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep628aeysl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epumpia0ro</id>
-    <title>プロフェッショナル 保険調査員・天音蓮_[第4話 天音の過去が明らかに・・・被害者に命の危機！？いじめ保険を調査せよ]</title>
-    <updated>2026-01-29T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbal79uyb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ プロフェッショナル 保険調査員・天音蓮
-                &lt;a href="https://tver.jp/series/srbal79uyb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月05日(木)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epumpia0ro.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2022年10月――。警視庁捜査一課の刑事だった天音（玉木宏）と佐久間（渡部篤郎）は、ある噂を追っていた。借金や人間関係に苦しむ人たちに保険金殺人のプランを提案し、遂行させる・・・・・・それを愉しんでる悪魔のような女がいる、という噂だ。やがて辿りついたのが、氷室貴羽（長谷川京子）という弁護士だった。その後、一緒に捜査を進めていた同僚の永瀬（植木祥平）が山岳事故でこの世を去り、天音はこの女の殺害計画の一環だとにらんでいたのだった・・・。&lt;br&gt;&lt;br&gt;そして現在――。天音が永瀬の墓を訪れていると、側にいた佐久間が「奥多摩で消防士が登山中に転落死した」と捜査資料を見せる。現場写真には謎の「白い羽根」が写っており、遺体からは幻覚成分のシロシビンが検出されていた。永瀬が死んだ時と状況が同じだ。「これで尻尾が掴めるかもしれない」と天音は意気込む。&lt;br&gt;&lt;br&gt;一方その頃、凛（岡崎紗絵）と深山（小手伸也）しかいない深山リサーチに、沢木（野間口徹）と秘書の沙月（結城モエ）が新規の調査依頼に訪れていた。今回の保険は“いじめ保険”。深山はいつも高額案件ばかり持ってくる沢木がなぜ少額のいじめ保険に執心しているのか疑問に思いつつ、凛が前のめりに「やらせてください！」と志願し、調査を引き受けることに。&lt;br&gt;&lt;br&gt;いじめ保険の加入者・磯山恭代（真飛聖）の自宅に向かう凛と沢木。聞くと恭代の娘・莉奈（糸瀬七葉）が学校でいじめを受けているという。どういうわけか今回の調査に熱心な沢木と、初めての単独調査に気合いの入る凛。一方、天音と佐久間は、奥多摩での転落事故について、保険金殺人の線で捜査を進めていた。&lt;br&gt;&lt;br&gt;果たして凛が辿りついた、いじめの実態とは・・・？&lt;br&gt;そして天音と佐久間が追う転落事故の黒幕とはいったい―
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epumpia0ro"/>
   </entry>
 </feed>
