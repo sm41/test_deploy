@@ -2,13 +2,613 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-31T22:06:19+09:00</updated>
+  <updated>2026-02-01T00:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz2uol8bf</id>
+    <title>六本木クラス_[第8話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdlkymt3r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 六本木クラス
+                &lt;a href="https://tver.jp/series/srdlkymt3r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz2uol8bf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/20(土)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;2/22(日)～ #10-#13&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;長屋龍河（早乙女太一）が麻宮葵（平手友梨奈）を長屋ホールディングスへスカウトするためにやって来る。「二代目みやべ」の皆が焦る中、宮部新（竹内涼真）は「葵の人生は葵が決める」と冷静さを見せるが…。龍河とカフェに入った葵は、条件の話をしながら龍河や長屋を持ち上げ、2人は盛り上がる。気分を良くした龍河は、12年前の事件のこともベラベラと話し出す。すると葵はその内容を公にすると告げ、怒って掴みかかろうとする龍河をかわして店の外に逃げ出すが、追いかけてきた龍河に襲われ…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz2uol8bf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eps2q1l4vp</id>
+    <title>科捜研の女 2022_[最終回]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl33xm8km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 科捜研の女 2022
+                &lt;a href="https://tver.jp/series/srl33xm8km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps2q1l4vp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/19(金)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;京都市内のビルの一室で、女性の遺体が発見された。臨場した榊マリコ（沢口靖子）は、驚愕する。現場のビルは、つい最近まで古久沢明（石黒賢）がひそかに属していた“シャドーラボ”が存在した場所だったのだ。そのシャドーラボは、海外の機関が日本人科学者を秘密裏に研究に従事させ、その成果を本国へ持ち帰るための“闇”の施設だった。&#13;&lt;br&gt;検視したマリコは、遺体が凍死の所見を示していることに気づく。現場のビルは全館空室で電気も止まっていたが、気密性が高く、夜でも10度前後の気温は保っているはずだった。10度前後のビルで凍死することなど、通常ではあり得ないはずだ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eps2q1l4vp"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epr0qdonl5</id>
+    <title>アンナさんのおまめ_[第9話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfvzhe05y.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ アンナさんのおまめ
+                &lt;a href="https://tver.jp/series/srfvzhe05y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr0qdonl5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                相変わらずリリ（ベッキー）のウルトラスーパー勘違いに悩まされている恭太郎（柏原収史）。このままではいつまでたってもアンナ（杏さゆり）との仲も進展しないと落ち込むばかり。だが、亜紀（滝沢沙織）にアンナとの同棲を勧められ、がぜんその気になる。&#13;&lt;br&gt;&#13;&lt;br&gt;一方その頃、リリの働くカフェに新人バイトが入って来る。彼の名前は小久津王子（桐島優介）。彼の仕事への熱意を自分への好意と勘違いしたリリは、恭太郎と別れて王子とつき合うことに勝手に決める。だが王子は街で偶然出会ったアンナのことが好きだったのだ。&#13;&lt;br&gt;&#13;&lt;br&gt;そんなことはつゆ知らず、リリが自分から離れてくれることに大喜びの恭太郎。ついにアンナに「同棲しよう」と告白する。しかし、リリのことが気になるアンナは複雑な心境だ。リリ＆王子とのダブルデートの日、恭太郎はリリにアンナと二人で暮らすつもりだと伝える。関心なさげに振る舞うリリだったが、王子はリリの悲しそうな表情を見逃さなかった。そんなけなげなリリの姿を見て、次第に気持ちが傾いていく王子。&#13;&lt;br&gt;&#13;&lt;br&gt;王子に呼び出された恭太郎は、彼が本気でリリのことを好きだということを知らされる。それだけでなく、リリがまだ恭太郎のことを好きだということも…。王子の真剣な思いに言葉を失う恭太郎。さらに偶然、二人の会話を聞いてしまったアンナからも「しばらく距離を置こう」と言われてしまう。リリとの二人きりのデートでいきなりプロポーズをする王子。「……はい」。王子を見つめながらそう答えるリリだった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epr0qdonl5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eppwp1njlg</id>
+    <title>六本木クラス_[第9話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdlkymt3r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 六本木クラス
+                &lt;a href="https://tver.jp/series/srdlkymt3r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppwp1njlg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/20(土)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;2/22(日)～ #10-#13&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;長屋茂（香川照之）が宮部新（竹内涼真）たちの予想を覆す行動に出た結果、大勝負に出た新たちは負けた――。それでも、相川京子（稲森いずみ）に「絶対勝ちなさい」と背中を押された新は、改めて茂への復讐を誓う。だが、この一件で茂の怒りは一線を越え、新に敵と認めると告げた上で、徹底的に叩き潰すと言い放つ。そんな中、長屋龍二（鈴鹿央士）が新にあることを伝えてきて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppwp1njlg"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmwh1k6sz</id>
+    <title>トップキャスター_[第1話 嵐を呼ぶオンナ]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9k4khymj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ トップキャスター
+                &lt;a href="https://tver.jp/series/sr9k4khymj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmwh1k6sz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;ニューヨークから日本へ向かう飛行機の客席で一人の女性が目を覚ます。椿木春香（天海祐希）だ。帰国した春香を迎えに来たのは、一人の男。CNBテレビの報道局長、柴田勝俊（児玉清）だ。&lt;br&gt;その頃、CNBテレビの報道局スタッフルームには新番組『ニュースDEゴー！』の打ち合わせが行われようとしていた。石場小吉プロデューサー（生瀬勝久）、蟹原健介ディレクター（玉木宏）、サブキャスターの野原芽衣（松下奈緒）、伊賀俊平（松田翔太）、紺野令子（須藤理彩）、角高孝男（矢島健一）らが集まる中、肝心のメインキャスターが現れない。&lt;br&gt;そんな中、放送されていたニュース番組でお天気キャスターの飛鳥望美（矢田亜希子）が大失態。実は、彼女も新番組スタッフの一人。望美の失態を、柴田と乗る車のテレビで見ていた春香は、思わず噴き出していた。&lt;br&gt;その望美がスタッフルームに行くと、石場がメインキャスターは春香だとスタッフに明かす。すると、一同大ブーイング。場の状況が飲み込めずにいる望美に、スタッフたちは春香がかつてCNBで伝説のキャスターと呼ばれた仕事主義の女で、スクープを獲るためには手段を選ばなかったことを教える。そして、春香の番組は打ち切られていた。その春香がなぜ？今更？&lt;br&gt;一同が戦々恐々と待ち受ける中、ノックの音が。こわごわとドアを開くと・・・現れたのは柴田。柴田は、スタッフたちをスタジオに誘う。スタジオでは春香がセットの様子を見ていた。石場がスタッフたちを紹介しようとすると春香が遮る。そして、春香は石場が考えた『ニュースDEゴー！』を企画、タイトルごとばっさりと切り捨て、スクープ獲得を目指す『ザ・ニュース』を立ち上げると宣言。呆然とする一同を尻目に、春香は、ぽかんとしている望美に向かって、自分のアシスタントになるよう指示。アシスタントとしての第一歩は、自分と24時間行動を共にすることだと春香に言われても・・・、訳が分からない望美だったが、春香から強引に握手を求められて、望美は反対する間もなく・・・。&lt;br&gt;しぶしぶながらも、春香のマンションに引っ越してきた望美。しかし、春香の部屋は未開封の自分の引越しダンボールでいっぱい。しかも、望美に与えられた部屋はウォークインクローゼットだった。&lt;br&gt;会社に向かいながら、なんとかアシスタントから外してもらおうと春香に掛け合う望美だが、春香は全く相手にしない。そんな二人は、局のエレベーターで取締役の結城雅人（谷原章介）と一緒になる。春香と雅人は顔見知りの様子。というか、春香はライバル心むき出しで、いきなり雅人の頬を張った。またしても、望美には訳がわからない。春香と雅人の関係って、いったい・・・？&lt;br&gt;スタッフルームでは、春香の番組方針、スクープをどう獲るかで石場たちが頭を悩ませる。そんな中、週刊誌に取り上げられたセレブの西園寺真嗣（平山広行）の結婚が話題になった。結婚相手は、普通の女性だという。その女性の名を見た望美は、中学時代の同級生、加山聡子（大路恵美）だと気付く。それを耳にした春香は、望美に聡子へ取材を申し込むよう指示を出すが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トップキャスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmwh1k6sz"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epk0ibssi0</id>
+    <title>鈍色の箱の中で_[最終話　すれ違いのキス]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2ggu368h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 鈍色の箱の中で
+                &lt;a href="https://tver.jp/series/sr2ggu368h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk0ibssi0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/19(金)～ #1-#2&#13;&lt;br&gt;1/4(日)～ #3-#4&#13;&lt;br&gt;2/1(日)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;姿が見えなくなっていた利津（神尾楓珠）を屋上で見つけた美羽（久保田紗友）は、思い詰めて自暴自棄になった彼にキスをする。屋上に駆けつけてきた基秋（萩原利久）は、その瞬間を目撃してしまう。その頃、悟（望月歩）は、ある事実をあおい（岡本夏美）から追及される。いっぽう、美羽と利津のキスに動揺を隠せない基秋は、綾芽（筧美和子）に呼び止められ…土曜日に集会室で「抱いてほしい」と懇願される。綾芽は、基秋を含め、美羽、利津、あおい、悟の5人のキス写真を盗撮しており、流出させると脅迫をしてきたのだ。&#13;&lt;br&gt;そんな中、美羽の発案で季節外れの花火をすることになった5人。それぞれが自分をさらけ出すことで、深い絆を取り戻していく。しかし、思い悩む基秋は、綾芽との約束の土曜が近づき、重大な決断を下す。さらに、美羽にも胸に秘めた決意があって…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epk0ibssi0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephrs041ea</id>
+    <title>アンナさんのおまめ_[第8話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfvzhe05y.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ アンナさんのおまめ
+                &lt;a href="https://tver.jp/series/srfvzhe05y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephrs041ea.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ある夜、リリ（ベッキー）のせいで溜まりに溜まりまくったストレスを発散しようと、三平（徳井義実）、鶴岡（渡邉紘平）、亀田（大東俊介）と一緒にキャバクラへと向かった恭太郎（柏原収史）。しかし、なんとそこにはリリがいるではないか！　どうやらアンナ（杏さゆり）と一緒に歩いていたところをスカウトされたらしい。おかげでさらにストレスが溜まってしまった恭太郎だったが、後日、アンナから「リリのボディーガードをしてほしい」と頼まれる。&#13;&lt;br&gt;&#13;&lt;br&gt;アンナの心配をよそに、キャバクラでも勘違いパワーを炸裂させまくるリリ。ところが、その勘違いぶりが客には大いにウケてリリは大人気。店のナンバーワンであるさやか（松下萌子）はそんなリリに激しく嫉妬し、彼女をホストクラブに連れていき、多額の借金を背負わせようとする。だが、ひそかにリリを尾行していた光（池田努）のおかげでリリは難を逃れる。&#13;&lt;br&gt;&#13;&lt;br&gt;しかし、懲りないさやかは愛人である組長・神崎（神保悟志）を使い、恭太郎を誘惑し罠にハメる。組に連れ込まれ神崎に脅された恭太郎は、どうしていいか分からずオロオロするばかり…。と、そこへ一人の姐さん風美女が殴り込んできた！&#13;&lt;br&gt;&#13;&lt;br&gt;それはなんとリリだった。あっけにとられる一同などお構いなしに、とびっきりの勘違いをまき散らしたリリは、恭太郎を取り戻すことに成功。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephrs041ea"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eph7fpe90h</id>
+    <title>蜜の味～A Taste Of Honey～_[第10話 今頃、彼女の両親が二人を必死に引き離しているはずよ。捨てられたかわいそうな女の最後の賭け]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr87j2f5wl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 蜜の味～A Taste Of Honey～
+                &lt;a href="https://tver.jp/series/sr87j2f5wl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph7fpe90h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;直子（榮倉奈々）と雅人（ARATA）を決して許さないと言い放ちその場を去った康志（溝端淳平）の狂気はとどまるところを知らなかった。すべてが2人の関係を許さない状況になればなるほど2人の結びつきは強固なものになるのだった。2人は病院をやめることを覚悟する。&lt;br&gt;2人の関係が雑誌に掲載され、病院では霧島教授（佐野史郎）が嬉々として雑誌をコピーし、滝ノ原教授（升毅）は茫然自失。そんな中、直子の親でもあり雅人の兄でもある洋介（阿南健治）と久子（キムラ緑子）は真相を明らかにしようと彩（菅野美穂）のもとをたずね牛窓の実家から上京する。&lt;br&gt;信じられない、真実ではないのだろうと迫る2人に彩は、直子と雅人の関係は事実だと両親に告げる。雅人がピッツバーグに向かったのも直子のことを忘れるため、康志も直子にとっては雅人を忘れるための存在でしかなかったと涙ながらに語り、2人を許してあげて欲しいと訴える。が、これもすべて彩のある計算からきている行動だった。&lt;br&gt;洋介と久子は直子の家を訪ねる。直子と雅人の関係を終わらせようと久子は直子を、洋介は雅人を説得にかかる。久子は自分自身のある驚きの過去についても直子に打ち明けるのだった。&lt;br&gt;康志はマスコミに情報を売り続け、続報が世の中をかけめぐることに。&lt;br&gt;直子と雅人、そして実家の両親までも追い込んでいく内容が・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『蜜の味～A Taste Of Honey～』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph7fpe90h"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epdex0ii1r</id>
+    <title>アンナさんのおまめ_[最終話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfvzhe05y.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ アンナさんのおまめ
+                &lt;a href="https://tver.jp/series/srfvzhe05y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdex0ii1r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/19(金)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#7&#13;&lt;br&gt;2/1(日)～ #8-#10&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;王子（桐島優介）のプロポーズを承諾したリリ（ベッキー）。一方、恭太郎（柏原収史）はアンナ（杏さゆり）に同棲の話を切り出すも「しばらく距離を置きたい」と言われ、ヘコみまくっていた。さらにそこへ光（池田努）からリリと王子の結婚を聞かされ、ショックを受ける。恭太郎は王子の真意を確かめるため、二人を尾行する。&#13;&lt;br&gt;&#13;&lt;br&gt;ところが、どうやら王子は本気のようだ。これでリリと離れられる、と本来は喜ぶべきなのに、なぜか恭太郎はアンナに八つ当たりしてしまう。さらになんと「アンナが見知らぬ男と不倫している！」とリリから知らされ激しく動揺する。しかし、それはリリの勘違いだったことが分かり、アンナと恭太郎はあらためて絆を確かめ合うのだった。&#13;&lt;br&gt;&#13;&lt;br&gt;ついに王子とリリの結婚式の日が来た。式を欠席していた恭太郎だが、光から送られてきた写メールを見て何かを決意し、立ち上がる。「ちょっと待った～！」。自転車を走らせ式場に駆けつけ、勇敢にリリを連れ去る…はずだったが、当のリリはなんと龍一郎（草刈正雄）に連れ去られてしまっていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdex0ii1r"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8gg5me9k</id>
+    <title>福岡恋愛白書_[福岡恋愛白書11　キミと見る景色]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr74s8cp75.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 福岡恋愛白書
+                &lt;a href="https://tver.jp/series/sr74s8cp75" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : KBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8gg5me9k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                明菜（川島海荷）は高校からの彼氏・琢己（浅香航大）と、佐賀と福岡のプチ遠距離恋愛中。ある日、琢己のことしか頭にない明菜は、そばにいたいから仕事を辞めたと琢己に告げる。だが、琢己から突然別れを切り出されてしまう。それから３年後、定職に就かず自堕落な日々を過ごしていた明菜は、琢己の深刻な現状を知ることに。琢己はある重い障害を負っていたのだった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8gg5me9k"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7uxtakec</id>
+    <title>科捜研の女 2022_[第8話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl33xm8km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 科捜研の女 2022
+                &lt;a href="https://tver.jp/series/srl33xm8km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7uxtakec.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/19(金)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;イチョウの木の下で都内在住の船井文治（尾崎右宗）という男性の遺体が見つかった。着用していた装備から、ロープを使って木に登るアクティビティ“ツリークライミング”に興じていて不注意で落下したものと思われたが、臨場した榊マリコ（沢口靖子）は疑問を抱く。現場には多数の銀杏が落ちているにもかかわらず、被害者のスニーカーの底に銀杏を踏んだ痕跡がなかったのだ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7uxtakec"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4zkfwoah</id>
+    <title>六本木クラス_[第7話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdlkymt3r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 六本木クラス
+                &lt;a href="https://tver.jp/series/srdlkymt3r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4zkfwoah.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/20(土)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;2/22(日)～ #10-#13&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;長屋茂（香川照之）が「二代目みやべ」の入っているビルを買い、宮部新（竹内涼真）たちはビルからの立ち退きに追い込まれる中、長屋龍二（鈴鹿央士）が父・茂に手を引くよう取引するため、店を辞めると言い出す。それに対して手放しで喜ぶ麻宮葵（平手友梨奈）に新は激怒し、マネージャー失格を言い渡す。納得のいかない葵から代替案があるのか詰め寄られると、新はある奇策を思いつく！　そして、相川京子（稲森いずみ）らと進めていた計画のために長屋に投資していたお金を回収して…!? 新たな場所で「二代目みやべ」の再オープンに向けてやる気に満ちる一同が準備をしていると、店の前を通りかかったひとりの女性・田辺弘子（倍賞美津子）から、その場所に店を出すと「1年以内に必ず潰れる」と縁起でもないことを言われ、一同に不安がよぎる。一方、新の行動に茂は怒りがこみ上げる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4zkfwoah"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4pedh5si</id>
+    <title>科捜研の女 2022_[第7話]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl33xm8km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 科捜研の女 2022
+                &lt;a href="https://tver.jp/series/srl33xm8km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4pedh5si.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/19(金)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;乗馬ファームの厩舎の前で、馬主の吉川耕造（吉田輝生）が死んでいるのが発見された。榊マリコ（沢口靖子）が検視したところ、遺体の後頭部と前頭部に外傷が残されていることが判明。また、吉川が所有する馬“ウィンター号”が行方不明になっていることもわかる。&#13;&lt;br&gt;ファームのスタッフによると、ウィンター号は元競走馬で、現在は乗馬体験や撮影などで活躍していたという。もしや、ウィンター号が被害者を蹴って逃走したのだろうか…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4pedh5si"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3fi4chkq</id>
+    <title>鈍色の箱の中で_[第5話　慰めのキス]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2ggu368h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 鈍色の箱の中で
+                &lt;a href="https://tver.jp/series/sr2ggu368h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3fi4chkq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                12/19(金)～ #1-#2&#13;&lt;br&gt;1/4(日)～ #3-#4&#13;&lt;br&gt;2/1(日)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;マンションのエントランスで突然倒れたあおい（岡本夏美）は、そのまま救急車で病院に運ばれ、妊娠していたことが発覚。悟（望月歩）は、原因を作ったと思われる利津（神尾楓珠）を追求するが、利津は「終わった話だ」と言って、そっけなくその場を立ち去ってしまった。&#13;&lt;br&gt;あおいを傷つけられた悟だが、なぜか「あいつを責める資格なんてない」と肩を落とす。そんな悟に、基秋（萩原利久）は黙って寄り添うことしかできなかった。いっぽう、目を覚ましたあおいは、美羽（久保田紗友）に「利津のことが好きだ」といいながら、何も気づかなかった美羽を責め、突き放す。&#13;&lt;br&gt;マンションに戻った美羽と基秋の前に、綾芽（筧美和子）が現れる。「彼氏を借りる」と言って、集会場に基秋を連れ込むが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3fi4chkq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep1t4vni48</id>
+    <title>ヴォイス～命なき者の声～_[第11話 別れの時、僕らの明日]</title>
+    <updated>2026-02-01T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0tb7coct.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヴォイス～命なき者の声～
+                &lt;a href="https://tver.jp/series/sr0tb7coct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1t4vni48.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;東凛大学の解剖室に、胸をナイフで刺され死亡した成瀬喧一（ダンカン）の遺体が運び込まれる。刺したのは坂田潔美（近野成美）という女子高生で、ナイフを持って襲い掛かってきた成瀬ともみ合ううちに刺してしまったと正当防衛を主張。彼女の体にもみ合ったときにできたと思われる傷があること、さらに、成瀬が強制わいせつ事件で逮捕された過去があることからも、潔美の主張は正しいと思われる。ところがその後、加地大己（瑛太）、石末亮介（生田斗真）、久保秋佳奈子（石原さとみ）、桐畑哲平（遠藤雄弥）、羽井彰（佐藤智仁）らは、夏井川玲子（矢田亜希子）から佐川文彦（時任三郎）が潔美の正当防衛に疑問を呈し、警察にもその方向で捜査を進めたほうがいいと助言したと聞き驚く。潔美は大学の理事長の親戚であったため、それを知った理事長は激怒。他大学に再解剖の依頼を出す。大学内では、鑑定結果次第で佐川の進退問題に発展するのではないか、との噂が流れる。その後、再解剖を依頼された教授が成瀬は事故によって刺されたものと、潔美の正当防衛を支持する判断を下す。これにより、佐川は教授会にかけられることに・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ヴォイス～命なき者の声～』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1t4vni48"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzf546q77</id>
     <title>3年B組金八先生(第7シリーズ)_[第２回 ３BVSヤヨの微笑]</title>
@@ -368,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epsaooty1n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptt6lolaf</id>
-    <title>3年B組金八先生(第6シリーズ)_[最終回 卒業スペシャル「サヨナラ３Bサヨナラ桜中学」]</title>
-    <updated>2026-01-29T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第6シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptt6lolaf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;名誉毀損で雑誌社と争うことを自らの口から報告するため、政則（東新良和）は金八（武田鉄矢）と共に服役中の父・政之（佐戸井けん太）のもとを訪れた。そこで政則は家族の名誉のためにも立派に闘い抜くことを誓う。いよいよ卒業式が始まるが、女子の制服を着てこなかった直（上戸彩）に千田校長（木場勝己）は嫌悪感を露わにし、制服を着用しなければ卒業を認めないと言う。男としての自分を認めてもらえない直は、卒業証書を受け取らずに壇上から降りようとするが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptt6lolaf"/>
   </entry>
 </feed>
