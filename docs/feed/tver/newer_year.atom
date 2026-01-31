@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-01-31T11:15:42+09:00</updated>
+  <updated>2026-01-31T12:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epmu8z8qx9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu53xozg7</id>
-    <title>七人の秘書_[Mission7]</title>
-    <updated>2026-01-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6gub0vi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 七人の秘書
-                &lt;a href="https://tver.jp/series/srx6gub0vi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月29日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu53xozg7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                10/20(月)～ #1-#3&#13;&lt;br&gt;11/11(火)～ #4-#6&#13;&lt;br&gt;12/9(火)～ #7-#8&#13;&lt;br&gt;12/29(月)～ #4-#6&#13;&lt;br&gt;1/29(木)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;慶西大学病院 病院長秘書のパク・サラン（シム・ウンギョン）がラーメン店「萬」に姿を見せなくなった。連絡すら取れない状況が続き、東都銀行 常務秘書・望月千代（木村文乃）は心配でたまらない…。&#13;&lt;br&gt;そんなある日、東都銀行 頭取秘書・照井七菜（広瀬アリス）が、「萬」に大学の後輩・中川由加里（伊原六花）を連れてくる。何の前触れもなく突然、東都銀行の内定を取り消されてしまったとうなだれる由加里に、千代はその経緯を調査することを約束する。&#13;&lt;br&gt;するとそこに東京都知事秘書・風間三和（大島優子）が現れ、衝撃の事実を告げる…。知事のことで病院に連絡したら、サランが退職していたというのだ。さらに、心配になってアパートに行ってみたところ、すでに引っ越した後だったという。サランが恩人の萬敬太郎（江口洋介）にも黙って姿を消したことに、千代は大きなショックを受ける…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epu53xozg7"/>
   </entry>
 </feed>
