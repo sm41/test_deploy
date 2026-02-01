@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-01T20:06:19+09:00</updated>
+  <updated>2026-02-01T22:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptfvcoigu</id>
+    <title>リブート_[第３話 後悔]</title>
+    <updated>2026-02-01T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リブート
+                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptfvcoigu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;夏海殺害事件の真相に、急展開——。&lt;br&gt;早瀬（鈴木亮平）は、突然現れた儀堂（鈴木亮平・２役）の妻・麻友（黒木メイサ）と一香（戸田恵梨香）が鉢合わせる場面に居合わせてしまう。&lt;br&gt;張りつめた空気の中、一香の指示で麻友を外へ連れ出した早瀬は、麻友が今なお儀堂を想い、別れるつもりは一切ないことを知り、言葉を失う。&lt;br&gt;動揺を抱えたまま警視庁に戻った早瀬を待っていたのは、再び現れた麻友だった。&lt;br&gt;その異常とも言える行動に戸惑う早瀬の前に立ちはだかったのは、真北（伊藤英明）と捜査二課の土方悠里（愛希れいか）。&lt;br&gt;２人はすでに、儀堂と冬橋（永瀬廉）の関係を把握し、冬橋の“裏の顔”について独自に捜査を進めていたのだ。&lt;br&gt;警察内部でも、儀堂へと捜査の手が確実に伸びている。&lt;br&gt;その現実を突きつけられた早瀬は、次第に焦りを募らせていく。&lt;br&gt;そんな中、消えた１０億円をめぐり、海江田（酒向芳）が不審な動きを見せ始める。&lt;br&gt;歯止めの利かなくなった海江田が向かった先は……。&lt;br&gt;そして早瀬は、儀堂のロッカールームで１台のパソコンを発見する。&lt;br&gt;中身を開いたその瞬間、そこには、夏海（山口紗弥加）殺害事件に隠されていた“ある真実”が記されていた……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptfvcoigu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuzjh31h6</id>
     <title>スケバン刑事_[第17話「鷹の羽学園は燃えているか」]</title>
@@ -728,125 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnaln0r0y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8mmcao5u</id>
-    <title>コスメティック・プレイラバー Season2_[第3話 新たなメンズBA]</title>
-    <updated>2026-01-30T01:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzn1o08po.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コスメティック・プレイラバー Season2
-                &lt;a href="https://tver.jp/series/srzn1o08po" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_01時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_01時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8mmcao5u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                斗真のパリ赴任が現実味を帯びる中、棗は新人を育てる仕事に関心があることを斗真に明かす。「棗さんならできますよ」と、迷いのない言葉で棗の夢を応援する斗真。そんな中、東雲有楽町店に悩みを抱える新人BAが異動してくることに。やってきたのは本社で出会った星名だった。3カ月前は希望に溢れる様子だったが、今は自信を失っているようで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8mmcao5u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epehzpuphv</id>
-    <title>人は見た目じゃないと思ってた。_[第4話 そのキスは何故…？]</title>
-    <updated>2026-01-30T01:30:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmfaydfxy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 人は見た目じゃないと思ってた。
-                &lt;a href="https://tver.jp/series/srmfaydfxy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epehzpuphv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                熱愛報道の渦中にいる人気モデル・さくら（谷まりあ）からの食事の誘いに焦る大和（菅生新樹）。気合いを入れて待つ大和の前に、すっぴんに上下ジャージ姿のさくらが現れる。さくらの希望で大和行きつけの中華料理屋へ向かい、よく飲み、大盛りの料理を美味しそうに食べる着飾らないさくらに、つい本音が出てしまい…。翌日、NOA編集部に大混乱の衝撃ニュースが舞い込む!?　［期間限定無料配信］　毎週木曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epehzpuphv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyjezozf7</id>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第7話「揺れる希望の中で」《ドラマ特区》]</title>
-    <updated>2026-01-30T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyjezozf7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                年明けに行われる花火大会に行くことをかける（藤原大祐）と約束した小春（永瀬莉子）は、懸命なリハビリを続ける。一方でかけるは、回復が難しい状況にある小春の背中を押すことが無責任なことなのではないかと悩んでいた。そんな中、病院で小春の担当医である三浦（染谷俊之）から声をかけられたかけるは、三浦に自分の迷いを打ち明ける。かけるは、三浦の言葉を受け、小春の傍に寄り添い続けることを決意する。&lt;br&gt;一方、花火大会に向けて前向きにリハビリを頑張っている小春だったが胸の奥には不安や諦めの気持ちも芽生え始めており、ある夜、優子（河村花）に弱音を吐いてしまう……。&lt;br&gt;花火大会に向けて、それぞれの想いを旨に支え合う、小春とかける、鳴海（曽野舜太）、優子。希望は確かに近づいているように見えたが……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyjezozf7"/>
   </entry>
 </feed>
