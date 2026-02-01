@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-01T18:06:01+09:00</updated>
+  <updated>2026-02-01T20:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eps0ulxezv</id>
+    <title>3年B組金八先生(第7シリーズ)_[第３回 悪魔のささやき]</title>
+    <updated>2026-02-01T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps0ulxezv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;金八（武田鉄矢）は、校内で小さなつぶれた機械が落ちているのを見つける。何かわからず３年B組で心当たりを聞いてみると、園上征幸（平慶翔）が教室から飛び出して行く。金八が拾ったのは、征幸の弟で１年B組の幸夫（沼田和紘）の補聴器とわかる。幸夫はクラスメートから陰湿ないじめを受けており、補聴器を無理矢理はずされることも度々で…。そんなある晩、スーパーさくらから金八の元に電話が入る。駆け付けると、おろしたシャッターにもたれ意識を失っているように見える３Bの小野孝太郎（竹内友哉）と長坂和晃（村上雄太）の姿が…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eps0ulxezv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4ay563iz</id>
     <title>買われた男_[#4 No.1セラピスト＆風俗嬢 華やかな2人の過去とは…]</title>
