@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-01T16:06:19+09:00</updated>
+  <updated>2026-02-01T18:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epuzjh31h6</id>
+    <title>スケバン刑事_[第17話「鷹の羽学園は燃えているか」]</title>
+    <updated>2026-02-01T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuzjh31h6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                三平と神の協力によりサキの汚名は晴らされた。サキは学校に戻ろうとするが、鷹の羽学園は海槌家に乗っ取られていた。学校の教師も次々とやめていき、残る教師は沼だけであった。生徒たちも裕福な家庭の生徒にかわりつつあった。麗巳は、学内に残る不満分子を一掃しようと、サキの友人美弥子に接近する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuzjh31h6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epknbjn34i</id>
     <title>＆Hulu_[カップルあるある満載！大学生カップルが自分と向き合いながら成長していく共感度100％の青春ラブコメディー「ロマンスヴィラン～僕の小悪魔な彼女～」第1話！]</title>
@@ -888,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3355b0r1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep628aeysl</id>
-    <title>顔のない患者-救うか、裁くか-_[ep.04 外科医、ついに罪を犯す…妻か、爆弾魔か、“命の選択”]</title>
-    <updated>2026-01-30T00:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcjwyr2sj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 顔のない患者-救うか、裁くか-
-                &lt;a href="https://tver.jp/series/srcjwyr2sj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_00時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_00時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep628aeysl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「僕が救えなかった患者だ」―。尾形茉莉（松永有紗）のカルテを見た都築（長谷川慎）は、3年前の爆破事件のことを泉（樋口日奈）に語り始めた。&lt;br&gt;都築が夫婦で買い物をしていたショッピングモールで突然爆発が起き、辺りは瀕死の重傷を負った人でいっぱいに。都築は医師としてトリアージに奔走していた。するとそこへ、血まみれで意識を失った妻・美保（さかたりさ）が運ばれてきて、都築は迷わず病院への搬送を指示。しかしその近くには、同じく重体で意識不明の女性が。一瞬意識が戻ったこの女性は助けを求めるように都築に手を伸ばし…。&lt;br&gt;その頃、刑事の高槙（梅舟惟永）から聴取を受けた夏井（井上想良）は都築のアリバイを証言。その足で、都築が“患者がいるふり”をしている病室へと向かう。そして夏井はあることを決意する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep628aeysl"/>
   </entry>
 </feed>
