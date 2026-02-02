@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-02T18:05:44+09:00</updated>
+  <updated>2026-02-02T20:05:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep26pw9rcj</id>
+    <title>3年B組金八先生(第7シリーズ)_[第４回 金八遂に大激怒！]</title>
+    <updated>2026-02-02T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep26pw9rcj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;文化祭の季節がやってきた。歴代３年B組がやってきたソーラン節が候補にあがるが、意見がまとまらない。そんな中、金八（武田鉄矢）は給食費を滞納している狩野伸太郎（濱田岳）の自宅を訪ねる。だが父親の伸介（田口浩正）も母親の亜弥（阿知波悟美）も、時間がないからと金八の話に聞く耳を傾ける素振りもない。帰りにさくら食堂に寄った金八は、しゅう（八乙女光）としゅうの父親を追う不審な男たちに出逢う。心配した金八は、翌日しゅうに、父親の具合は大丈夫かと声をかけるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep26pw9rcj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epae853nli</id>
     <title>サ道_[第2話 風の滝でととのう]</title>
@@ -1408,45 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epzf546q77"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph83fbh7i</id>
-    <title>隣の家族は青く見える_[第3話 夫婦の絆！！妻の涙と夫のあふれる想い！！]</title>
-    <updated>2026-01-31T02:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr62h5ewqv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 隣の家族は青く見える
-                &lt;a href="https://tver.jp/series/sr62h5ewqv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_02時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph83fbh7i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：1月10日(土) ～ 2月28日(土)&lt;br&gt;#2：1月17日(土) ～ 2月28日(土)&lt;br&gt;#3：1月31日(土) ～ 2月28日(土)&lt;br&gt;#4：2月3日(火) ～ 2月10日(火)&lt;br&gt;#5：2月6日(金) ～ 2月13日(金)&lt;br&gt;#6：2月9日(月) ～ 2月16日(月)&lt;br&gt;#7：2月12日(木) ～ 2月19日(木)&lt;br&gt;#8：2月15日(日) ～ 2月22日(日)&lt;br&gt;#9：2月18日(水) ～ 2月25日(水)&lt;br&gt;#10：2月21日(土) ～ 2月28日(土)&lt;br&gt;&lt;br&gt;奈々（深田恭子）は、朔（北村匠海）と渉（眞島秀和）がキスしているところを目撃してしまう。朔は、奈々に渉との関係を打ち明け、ゲイであることを他人に公表していない渉のために、誰にも言わないでほしいと頼む。一方、事情を知らない大器（松山ケンイチ）は、何かと奈々に接近してくる朔のことが気になって仕方ない。&lt;br&gt;亮司（平山浩行）は、元妻が急死したため、息子の亮太（和田庵）に会いに名古屋へ行っていたことをちひろ（高橋メアリージュン）に話す。亮司は「亮太を引き取ってこの家で一緒に暮らしたい」と、ちひろに告げるが・・・。&lt;br&gt;最後のタイミング法に臨む奈々は、レディースクリニックの医師・片岡（伊藤かずえ）のもとを訪ねる。そこで片岡は、奈々に、クロミッドという誘発剤を勧める。&lt;br&gt;大器は、コンペに出した企画が評価され、本社の土地開発部門が進めているアウトレットモールの開発プロジェクトに参加することになる。大器は、奈々からもアイデアをもらい、早速企画書をまとめる。不妊治療をはじめてから、情緒不安気味の奈々だったが、妊娠した可能性があることに気付く。&lt;br&gt;そんな折、義母の聡子（高畑淳子）は、薬局で妊娠検査薬を購入しようとしている奈々を見かけ、大器と奈々が子作りしていると知り大喜びで・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『隣の家族は青く見える』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph83fbh7i"/>
   </entry>
 </feed>
