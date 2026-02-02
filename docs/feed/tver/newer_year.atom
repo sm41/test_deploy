@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-02T02:05:19+09:00</updated>
+  <updated>2026-02-02T12:39:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptbbj9oru</id>
+    <title>大好き！五つ子4_[第11回 熱い戦い]</title>
+    <updated>2026-02-02T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月16日(月)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptbbj9oru.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;鎌倉行きのスケジュールがまとまり、良介（新井康弘）と慎吾（中野勇士）、剛（金澤翔太）、美穂（新穂えりか）が先発と決まった。しかし、恵（長谷川真弓）が周平（見栄晴）に内緒でパートの面接に行ったと言って、２人の中が険悪になっているから今年はこないでくれと良枝（岩本多代）が電話してくる。桃子（森尾由美）と良介が子どもたちに打ち明けようとして、言い出しかねていると、周平から電話があった。何も気にしないできてくれ、という周平と恵の言葉に２人は胸をなで下ろした。しかし、鎌倉に着いた良介を待っていたのは険悪な雰囲気の周平と恵だった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptbbj9oru"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqtblhi6y</id>
     <title>刑事魂_[2012年3月31日放送]</title>
@@ -1408,45 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epabep8mnu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzjcp3uhz</id>
-    <title>3年B組金八先生(第7シリーズ)_[第１回 史上最低の３B！]</title>
-    <updated>2026-01-30T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月30日(金)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzjcp3uhz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;坂本金八（武田鉄矢）が桜中学を去ってから、２年の月日が経とうとしていた。桜中学２年B組の担任・花子先生（小西美帆）が出産し、和田教育長（長谷川哲夫）は金八に桜中学に勤務してほしいと頼む。そうして２Bの担任として教壇に戻った金八は、引き続き３年B組を担任することとなる。そして迎えた１０月、３Bに転校生・飯島弥生（岩田さゆり）がやってきた。一方、桜中学を含む地域一帯には麻薬をめぐる問題が発生！また、３Bの生徒・丸山しゅう（八乙女光）は密かに何か問題を抱えているようで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzjcp3uhz"/>
   </entry>
 </feed>
