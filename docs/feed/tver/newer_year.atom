@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-02T16:05:44+09:00</updated>
+  <updated>2026-02-02T18:05:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epae853nli</id>
+    <title>サ道_[第2話 風の滝でととのう]</title>
+    <updated>2026-02-02T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epae853nli.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/2（月）17:00～&#13;&lt;br&gt;#3,#4：2/5（木）17:00～&#13;&lt;br&gt;#5,#6：2/9（月）17:00～&#13;&lt;br&gt;#7,#8：2/12（木）17:00～&#13;&lt;br&gt;#9,#10：2/16（月）17:00～&#13;&lt;br&gt;#11,#12：2/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ナカタアツロウ（原田泰造）は、ある日を境にサウナ中毒になってから、全国のサウナに足を運んでいる。普通は禁止されている「泳げる水風呂」が備えつけられた施設を訪れ、驚きながらも喜んでいると、ナカタはふと、まだ自分がサウナに通い出したばかりの頃のことを思い出した。その日、ナカタは水風呂に長く浸かりすぎてしまいすっかり身体を冷やしてしまったため、脱衣所でダウンしていた。そんなナカタの視界に、幻のように蒸しZ（宅麻伸）が姿を現す。果たして、蒸しZが口にしたサウナの極意とは一体……!?　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epae853nli"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epexp8wg9l</id>
+    <title>サ道_[第1話 上野の空の下でととのう]</title>
+    <updated>2026-02-02T17:00:02+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月20日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epexp8wg9l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/2（月）17:00～&#13;&lt;br&gt;#3,#4：2/5（木）17:00～&#13;&lt;br&gt;#5,#6：2/9（月）17:00～&#13;&lt;br&gt;#7,#8：2/12（木）17:00～&#13;&lt;br&gt;#9,#10：2/16（月）17:00～&#13;&lt;br&gt;#11,#12：2/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ナカタアツロウ（原田泰造）は、幼少期のある思い出からサウナに苦手意識を持っていた。しかし、たまたま入った銭湯で、謎のトッププロサウナー蒸しZ（宅麻伸）を見かけ、彼に導かれるようにサウナに入っていくナカタ。蒸しZの入り方を真似するうちにナカタはすっかり“ととのい”、サウナの本当の気持ちよさを知ってしまう。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epexp8wg9l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eptbbj9oru</id>
     <title>大好き！五つ子4_[第11回 熱い戦い]</title>
