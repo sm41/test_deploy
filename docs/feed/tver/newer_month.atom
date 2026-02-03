@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-03T18:05:56+09:00</updated>
+  <updated>2026-02-03T20:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epuz3gcv1w</id>
+    <title>孤独のグルメ Season8_[第5話 群馬県藤岡市の一人ロースター焼肉]</title>
+    <updated>2026-02-03T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月17日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuz3gcv1w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）はホテルの支配人・斎藤由美子（MEGUMI）との商談で群馬藤岡駅に降り立つ。向かったホテルはボウリング場と中も外も一体化した建物で……。打ち合わせを終え空腹の五郎はタクシーから店を探すが見当たらない。執念で発見したのは中華っぽい名前のお店。中に入ると、店員の清水（大橋彰）に一人焼肉のカウンターに案内される。久々のロースター焼肉に胸が高まる中、豚肉の充実ぶりを知り“豚攻め”を決意するが……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuz3gcv1w"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep81hzsfw4</id>
     <title>風起西州　烈風に舞う花衣_[大長公主の贈りもの]</title>
@@ -968,45 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epknbjn34i"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5kux28ss</id>
-    <title>横浜ネイバーズ Season1_[第4話 12文字の悪意]</title>
-    <updated>2026-02-01T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
-                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月31日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5kux28ss.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ごく普通の大学生・佐原（今井悠貴）は、ちょうど彼女に振られたところだった。むしゃくしゃした佐原は、かつての同級生・菊地妃奈子（平祐奈）を中傷する投稿を見つけ、むしゃくしゃを発散するように拡散ボタンをタップした。&lt;br&gt;5年間、部屋にひきこもっている幼馴染のヒナから「話したいことがある」と呼び出されたものの、すっぽかされたロン（大西流星）。そんな中、ロンは仲間の凪（紺野彩夏）から、ヒナがSNSで攻撃の的になっていることを聞く。「菊地妃奈子は犯罪者である」SNSに踊る悪意にまみれた12文字。急ぎ、ヒナの家に向かうロン、マツ（高橋侃）、凪だったが、そこでロンはヒナがずっと隠していた秘密に気づく。ヒナは車いすで生活をしている、と―――&lt;br&gt;高校時代は歩けていたはずのヒナ。なぜ車いすになったのか欽太（原嘉孝）に聞くが、欽太は自分からは話せないと告げる。ロンは誹謗中傷の投稿を拡散した佐原や、中傷の原因となったかつての担任・比良石（渋江譲二）に会いに行くが……&lt;br&gt;大切な友の笑顔を取り戻すことはできるのか？再生の光を感じさせる感涙必至の友情回！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5kux28ss"/>
   </entry>
 </feed>
