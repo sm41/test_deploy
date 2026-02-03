@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-03T02:06:44+09:00</updated>
+  <updated>2026-02-03T10:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep494i7fw6</id>
+    <title>体感予報_[第五話《ドラマシャワー》]</title>
+    <updated>2026-02-03T03:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcq4gvaks.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 体感予報
+                &lt;a href="https://tver.jp/series/srcq4gvaks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_03時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_03時24分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep494i7fw6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                夏の眩しい日差しに照らされながら、漫画の打ち切りを告げられた葉（増子敦貴）は悲しみに打ちひしがれていた。見かねた瀬ヶ崎（樋口幸平）は献身的に世話をするが、いつもと違う彼の優しさに却って戸惑う葉。一方、万さん（松村沙友理）は葉にバイトの話を持ちかける。それは泊りがけで一緒に瀬ヶ崎と葉がモデルの漫画制作を行うというもの。「お前に漫画の仕事がなくなろうが、どうでもいい」と言う瀬ヶ崎の言葉に反発を覚えた葉は……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep494i7fw6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epajp2g6le</id>
     <title>結婚しない_[第1話 結婚は当然！？義務！？できないVSしない女！！未婚女の恋と結婚！？]</title>
@@ -1488,45 +1528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1t4vni48"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzf546q77</id>
-    <title>3年B組金八先生(第7シリーズ)_[第２回 ３BVSヤヨの微笑]</title>
-    <updated>2026-01-31T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月14日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzf546q77.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;ある日、３年B組の生徒が慌てて金八（武田鉄矢）を呼びにくる。田中奈穂佳（石田未来）や麻田玲子（福田沙紀）が、弥生（岩田さゆり）の事情を学級委員しか知らされていなかったことについて不満を訴えたのがきっかけで、大騒ぎになっていたのだ。金八は生徒たちに、弥生の発達障害について全員に言わなかった理由を話す。また、学校からの知らせを受けて駆け付けた弥生の母・昌恵（五十嵐めぐみ）は、母親としての思いを生徒たちに語る。そんな中、学級委員の杉田祥恵（渡辺有菜）が、土曜補習に弥生を誘うが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzf546q77"/>
   </entry>
 </feed>
