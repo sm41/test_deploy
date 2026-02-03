@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-03T16:05:56+09:00</updated>
+  <updated>2026-02-03T18:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfeqbrbfy</id>
+    <title>サ道2021_[第二話「錦糸町・黄金湯」憂鬱な朝、銭湯サウナでととのう]</title>
+    <updated>2026-02-03T17:00:04+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfeqbrbfy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;当たり前になった新しい日常に慣れ始めたナカタアツロウ（原田泰造）。しかしその影響で仕事がなかなかうまくいかず、トラブルが続いていた。数日前も取引先と朝から揉めてしまい、気を晴らすためサウナ激戦区の街の朝から営業している銭湯サウナを訪れることに。お湯の種類が充実しており、浴室内に音楽が流れ変わった壁画がある施設。いつものようにサウナ・水風呂・外気浴を堪能していると、若者たちが話しながらやってくる。気になって仕方がないナカタが限界を超え、声をかけようとすると……　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfeqbrbfy"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epm7vk54u2</id>
+    <title>サ道2021_[第一話「東京ドーム天然温泉・スパ ラクーア」東京の空の下 願いを込めてととのう]</title>
+    <updated>2026-02-03T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月19日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm7vk54u2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;今や当たり前になった新しい日常に慣れ始めたナカタアツロウ（原田泰造）、偶然さん（三宅弘城）、イケメン蒸し男（磯村勇斗）は自粛していたサウナ生活を再開し、久しぶりにホームサウナである上野の「サウナ北欧」に集まっていた。レストランで他愛もない話をしていると、ある理由で意地を張り今まで行っていなかったサウナ施設へ訪れたと話すナカタ。そこはアスリートがよく集まり、都内なのにフィンランドのサウナ小屋に出会えた気分になる施設で……　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epm7vk54u2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5f43793n</id>
     <title>大好き！五つ子4_[第12回 女ごころ]</title>
@@ -1048,165 +1128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eps2q1l4vp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epr0qdonl5</id>
-    <title>アンナさんのおまめ_[第9話]</title>
-    <updated>2026-02-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfvzhe05y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アンナさんのおまめ
-                &lt;a href="https://tver.jp/series/srfvzhe05y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr0qdonl5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                相変わらずリリ（ベッキー）のウルトラスーパー勘違いに悩まされている恭太郎（柏原収史）。このままではいつまでたってもアンナ（杏さゆり）との仲も進展しないと落ち込むばかり。だが、亜紀（滝沢沙織）にアンナとの同棲を勧められ、がぜんその気になる。&#13;&lt;br&gt;&#13;&lt;br&gt;一方その頃、リリの働くカフェに新人バイトが入って来る。彼の名前は小久津王子（桐島優介）。彼の仕事への熱意を自分への好意と勘違いしたリリは、恭太郎と別れて王子とつき合うことに勝手に決める。だが王子は街で偶然出会ったアンナのことが好きだったのだ。&#13;&lt;br&gt;&#13;&lt;br&gt;そんなことはつゆ知らず、リリが自分から離れてくれることに大喜びの恭太郎。ついにアンナに「同棲しよう」と告白する。しかし、リリのことが気になるアンナは複雑な心境だ。リリ＆王子とのダブルデートの日、恭太郎はリリにアンナと二人で暮らすつもりだと伝える。関心なさげに振る舞うリリだったが、王子はリリの悲しそうな表情を見逃さなかった。そんなけなげなリリの姿を見て、次第に気持ちが傾いていく王子。&#13;&lt;br&gt;&#13;&lt;br&gt;王子に呼び出された恭太郎は、彼が本気でリリのことを好きだということを知らされる。それだけでなく、リリがまだ恭太郎のことを好きだということも…。王子の真剣な思いに言葉を失う恭太郎。さらに偶然、二人の会話を聞いてしまったアンナからも「しばらく距離を置こう」と言われてしまう。リリとの二人きりのデートでいきなりプロポーズをする王子。「……はい」。王子を見つめながらそう答えるリリだった…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epr0qdonl5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppwp1njlg</id>
-    <title>六本木クラス_[第9話]</title>
-    <updated>2026-02-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdlkymt3r.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 六本木クラス
-                &lt;a href="https://tver.jp/series/srdlkymt3r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppwp1njlg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/20(土)～ #1-#3&#13;&lt;br&gt;1/4(日)～ #4-#6&#13;&lt;br&gt;2/1(日)～ #7-#9&#13;&lt;br&gt;2/22(日)～ #10-#13&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;長屋茂（香川照之）が宮部新（竹内涼真）たちの予想を覆す行動に出た結果、大勝負に出た新たちは負けた――。それでも、相川京子（稲森いずみ）に「絶対勝ちなさい」と背中を押された新は、改めて茂への復讐を誓う。だが、この一件で茂の怒りは一線を越え、新に敵と認めると告げた上で、徹底的に叩き潰すと言い放つ。そんな中、長屋龍二（鈴鹿央士）が新にあることを伝えてきて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppwp1njlg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmwh1k6sz</id>
-    <title>トップキャスター_[第1話 嵐を呼ぶオンナ]</title>
-    <updated>2026-02-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9k4khymj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トップキャスター
-                &lt;a href="https://tver.jp/series/sr9k4khymj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmwh1k6sz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;ニューヨークから日本へ向かう飛行機の客席で一人の女性が目を覚ます。椿木春香（天海祐希）だ。帰国した春香を迎えに来たのは、一人の男。CNBテレビの報道局長、柴田勝俊（児玉清）だ。&lt;br&gt;その頃、CNBテレビの報道局スタッフルームには新番組『ニュースDEゴー！』の打ち合わせが行われようとしていた。石場小吉プロデューサー（生瀬勝久）、蟹原健介ディレクター（玉木宏）、サブキャスターの野原芽衣（松下奈緒）、伊賀俊平（松田翔太）、紺野令子（須藤理彩）、角高孝男（矢島健一）らが集まる中、肝心のメインキャスターが現れない。&lt;br&gt;そんな中、放送されていたニュース番組でお天気キャスターの飛鳥望美（矢田亜希子）が大失態。実は、彼女も新番組スタッフの一人。望美の失態を、柴田と乗る車のテレビで見ていた春香は、思わず噴き出していた。&lt;br&gt;その望美がスタッフルームに行くと、石場がメインキャスターは春香だとスタッフに明かす。すると、一同大ブーイング。場の状況が飲み込めずにいる望美に、スタッフたちは春香がかつてCNBで伝説のキャスターと呼ばれた仕事主義の女で、スクープを獲るためには手段を選ばなかったことを教える。そして、春香の番組は打ち切られていた。その春香がなぜ？今更？&lt;br&gt;一同が戦々恐々と待ち受ける中、ノックの音が。こわごわとドアを開くと・・・現れたのは柴田。柴田は、スタッフたちをスタジオに誘う。スタジオでは春香がセットの様子を見ていた。石場がスタッフたちを紹介しようとすると春香が遮る。そして、春香は石場が考えた『ニュースDEゴー！』を企画、タイトルごとばっさりと切り捨て、スクープ獲得を目指す『ザ・ニュース』を立ち上げると宣言。呆然とする一同を尻目に、春香は、ぽかんとしている望美に向かって、自分のアシスタントになるよう指示。アシスタントとしての第一歩は、自分と24時間行動を共にすることだと春香に言われても・・・、訳が分からない望美だったが、春香から強引に握手を求められて、望美は反対する間もなく・・・。&lt;br&gt;しぶしぶながらも、春香のマンションに引っ越してきた望美。しかし、春香の部屋は未開封の自分の引越しダンボールでいっぱい。しかも、望美に与えられた部屋はウォークインクローゼットだった。&lt;br&gt;会社に向かいながら、なんとかアシスタントから外してもらおうと春香に掛け合う望美だが、春香は全く相手にしない。そんな二人は、局のエレベーターで取締役の結城雅人（谷原章介）と一緒になる。春香と雅人は顔見知りの様子。というか、春香はライバル心むき出しで、いきなり雅人の頬を張った。またしても、望美には訳がわからない。春香と雅人の関係って、いったい・・・？&lt;br&gt;スタッフルームでは、春香の番組方針、スクープをどう獲るかで石場たちが頭を悩ませる。そんな中、週刊誌に取り上げられたセレブの西園寺真嗣（平山広行）の結婚が話題になった。結婚相手は、普通の女性だという。その女性の名を見た望美は、中学時代の同級生、加山聡子（大路恵美）だと気付く。それを耳にした春香は、望美に聡子へ取材を申し込むよう指示を出すが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トップキャスター』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmwh1k6sz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epk0ibssi0</id>
-    <title>鈍色の箱の中で_[最終話　すれ違いのキス]</title>
-    <updated>2026-02-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2ggu368h.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 鈍色の箱の中で
-                &lt;a href="https://tver.jp/series/sr2ggu368h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk0ibssi0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/19(金)～ #1-#2&#13;&lt;br&gt;1/4(日)～ #3-#4&#13;&lt;br&gt;2/1(日)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;姿が見えなくなっていた利津（神尾楓珠）を屋上で見つけた美羽（久保田紗友）は、思い詰めて自暴自棄になった彼にキスをする。屋上に駆けつけてきた基秋（萩原利久）は、その瞬間を目撃してしまう。その頃、悟（望月歩）は、ある事実をあおい（岡本夏美）から追及される。いっぽう、美羽と利津のキスに動揺を隠せない基秋は、綾芽（筧美和子）に呼び止められ…土曜日に集会室で「抱いてほしい」と懇願される。綾芽は、基秋を含め、美羽、利津、あおい、悟の5人のキス写真を盗撮しており、流出させると脅迫をしてきたのだ。&#13;&lt;br&gt;そんな中、美羽の発案で季節外れの花火をすることになった5人。それぞれが自分をさらけ出すことで、深い絆を取り戻していく。しかし、思い悩む基秋は、綾芽との約束の土曜が近づき、重大な決断を下す。さらに、美羽にも胸に秘めた決意があって…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epk0ibssi0"/>
   </entry>
 </feed>
