@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-03T22:05:56+09:00</updated>
+  <updated>2026-02-04T00:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5go8jd6o</id>
+    <title>未来のムスコ_[第４話 父親探しに新展開！親子のピンチを救ったのは……]</title>
+    <updated>2026-02-03T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 未来のムスコ
+                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5go8jd6o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;「颯太くんは俺の子？」エスカレートする将生、さらに新たな“まーくん”の登場で、父親探しは大混乱！&lt;br&gt;新米ママ・未来は、芝居に育児にいっぱいいっぱいに…&lt;br&gt;&lt;br&gt;颯太（天野優）を自分の子どもではないかと疑い、未来（志田未来）を問い詰める将生（塩野瑛久）。&lt;br&gt;未来からきっぱり否定されるも、将生は颯太の保育園を訪ねて様子をうかがうなど、未来と颯太のことが気になって仕方がない。&lt;br&gt;その背景には、５年前の“ある夜”が関係しているようで…。&lt;br&gt;一方、新米ママとしての生活もままならず、気づけば手一杯になっていく未来。&lt;br&gt;そんな中、未来は呉服屋の花嫁衣装の広告で新郎役を務めることになった真（兵頭功海）から、新婦役のモデルを引き受けてほしいと相談され、挑戦してみることに。&lt;br&gt;しかし迎えた撮影当日、未来に思わぬトラブルが降りかかる――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5go8jd6o"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epg7ph3npn</id>
     <title>再会～Silent Truth～ _[第4話 誰かが捕まる]</title>
@@ -968,45 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5lqe4isn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptfvcoigu</id>
-    <title>リブート_[第３話 後悔]</title>
-    <updated>2026-02-01T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リブート
-                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptfvcoigu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;夏海殺害事件の真相に、急展開——。&lt;br&gt;早瀬（鈴木亮平）は、突然現れた儀堂（鈴木亮平・２役）の妻・麻友（黒木メイサ）と一香（戸田恵梨香）が鉢合わせる場面に居合わせてしまう。&lt;br&gt;張りつめた空気の中、一香の指示で麻友を外へ連れ出した早瀬は、麻友が今なお儀堂を想い、別れるつもりは一切ないことを知り、言葉を失う。&lt;br&gt;動揺を抱えたまま警視庁に戻った早瀬を待っていたのは、再び現れた麻友だった。&lt;br&gt;その異常とも言える行動に戸惑う早瀬の前に立ちはだかったのは、真北（伊藤英明）と捜査二課の土方悠里（愛希れいか）。&lt;br&gt;２人はすでに、儀堂と冬橋（永瀬廉）の関係を把握し、冬橋の“裏の顔”について独自に捜査を進めていたのだ。&lt;br&gt;警察内部でも、儀堂へと捜査の手が確実に伸びている。&lt;br&gt;その現実を突きつけられた早瀬は、次第に焦りを募らせていく。&lt;br&gt;そんな中、消えた１０億円をめぐり、海江田（酒向芳）が不審な動きを見せ始める。&lt;br&gt;歯止めの利かなくなった海江田が向かった先は……。&lt;br&gt;そして早瀬は、儀堂のロッカールームで１台のパソコンを発見する。&lt;br&gt;中身を開いたその瞬間、そこには、夏海（山口紗弥加）殺害事件に隠されていた“ある真実”が記されていた……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptfvcoigu"/>
   </entry>
 </feed>
