@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-03T10:05:56+09:00</updated>
+  <updated>2026-02-03T12:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -968,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5kux28ss"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0n5krcww</id>
-    <title>ぜんぶ、あなたのためだから_[第4話 愛の激突…友の裏切り]</title>
-    <updated>2026-01-31T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
-                &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_01月31日(土)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月07日(土)_23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月31日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0n5krcww.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚式での毒入りシャンパン事件で倒れた沙也香（井桁弘恵）が退院してくる。しかし和臣（藤井流星）は藍里（武田玲奈）と智恵（大原優乃）から聞いた衝撃的な沙也香の乱れた過去について、直接尋ねることはできないまま…。平穏で幸せな日々が戻った一方、素顔の見えない沙也香に対して、その心の内は激しくざわついていた。&#13;&lt;br&gt;ある日桜庭（七五三掛龍也）は、ウエディングプランナーの上野帆花（なえなの）から、和臣が「披露宴のやり直し」を検討していると聞き、嫌な予感が頭をよぎる。&#13;&lt;br&gt;やがて、和臣の職場である区役所内で、和臣と沙也香の結婚式での出来事が噂になっていることが分かり、意外な人物が和臣の周辺を嗅ぎ回っていたことが判明する！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0n5krcww"/>
   </entry>
 </feed>
