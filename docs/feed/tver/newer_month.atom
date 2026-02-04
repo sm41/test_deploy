@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-04T20:06:56+09:00</updated>
+  <updated>2026-02-04T22:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyfk17aoo</id>
+    <title>相棒 season24_[第15話「他人の顔」]</title>
+    <updated>2026-02-04T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season24
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyfk17aoo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                15年前に佐伯友里枝という3歳の少女が行方不明になった事件を取り上げたテレビ番組が、AIで現在の顔立ちを予測。その顔は、美和子(鈴木砂羽)が通うジムのインストラクター・結衣(並木彩華)と瓜二つだった！美和子は、自分の親が実は誘拐犯なのかと不安を抱く結衣を右京(水谷豊)と薫(寺脇康文)に紹介し、相談に乗ってもらうことに。事件当時の経緯を聞くため、特命係は友里枝の母親・真由美(遠藤久美子)が営む飲食店を訪ねる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyfk17aoo"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep93058lhc</id>
+    <title>Sugar Sugar Honey_[with バナナとマンゴーのヴェリーヌ]</title>
+    <updated>2026-02-04T21:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz5e57jr7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ Sugar Sugar Honey
+                &lt;a href="https://tver.jp/series/srz5e57jr7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_21時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep93058lhc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                スイーツコンテストで無事に優勝することができた梶（長妻怜央）。瑞月（川津明日香）との出会いで刺激を受け、いつも以上に力を発揮できたのだ。賭けに負けたかなみ（三原羽衣）は、無念の思いを募らせる。かなみは、ランナー時代には瑞月に歯が立たず、現役引退して「勝ち逃げ」したことをずっと根に持ち続けて。ある日、コンシェルジュの志方（駒井蓮）から瑞月の様子を伝え聞いていた梶は、瑞月をデートに誘う。ひょんなことから初めてのデートは、瑞月が夢見たランニングデートになった。走り疲れて河川敷で語らう二人。と、そこでたまたま瑞月の主治医・鹿間（市川知宏）と遭遇する。その後、梶の部屋で二人きりになりー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep93058lhc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epf5gzdmh0</id>
     <title>孤独のグルメ Season8_[第7話 由比ガ浜のサバの燻製とスペアリブ]</title>
