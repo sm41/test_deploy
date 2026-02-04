@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-04T16:05:56+09:00</updated>
+  <updated>2026-02-04T18:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -786,7 +786,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_21時54分&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
                 &lt;th&gt;
@@ -968,85 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epiwa83kj9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9lxhpago</id>
-    <title>流星花園II～花より男子～_[第8話　突然の再会]</title>
-    <updated>2026-02-02T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星花園II～花より男子～
-                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9lxhpago.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                西門総二郎は司のバイト先で、落ちた小銭を拾う“別人のような司”の姿を目撃する。何か力になりたいという総二郎に、司は「今がいい、過去には戻らない」と伝える。ある日、エルサは星君を誘って出かけようとつくしに提案し、そこでついに司とつくしは再会。つくしが探していた恋人が星君＝司だと知ったエルサは、胸の内に複雑な思いを抱く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9lxhpago"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4sbtra8w</id>
-    <title>三国志　秘密の皇帝_[第28話]</title>
-    <updated>2026-02-02T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月09日(月)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4sbtra8w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                無事に儒学生たちと共に鄴（ぎょう）から出られた劉平（りゅうへい）と伏寿（ふくじゅ）。袁紹（えんしょう）に会い、唐瑛（とうえい）を救うために官渡（かんと）へ行くと言う劉平は、伏寿に儒学生を連れて許都（きょと）へ戻るよう頼む。その頃、司馬懿（しばい）と曹丕（そうひ）は官渡の曹（そう）軍の軍営に到着したが、曹丕の弟・曹植（そうしょく）が父親の曹操に代わり軍を取り仕切っていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4sbtra8w"/>
   </entry>
 </feed>

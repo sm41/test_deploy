@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-04T16:05:56+09:00</updated>
+  <updated>2026-02-04T18:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxe597f1e</id>
+    <title>サ道～２０２２年　冬　小さな幸せを胸にととのう～_[サ道～２０２２年　冬　小さな幸せを胸にととのう～]</title>
+    <updated>2026-02-04T17:00:04+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道～２０２２年　冬　小さな幸せを胸にととのう～
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxe597f1e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                コロナをきっかけに働き方や生き方を考える人が多い中、フリーランスのクリエイターである主人公・ナカタ（原田泰造）も同様に自らの暮らしを見つめ直していた。偶然さん（三宅弘城）、イケメン蒸し男（磯村勇斗）はホームサウナ「北欧」を訪れてもナカタの姿を全く見かけず心配をする。そんな矢先、ナカタから驚きの報告が届く...。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxe597f1e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epuawfmlvs</id>
+    <title>サ道_[2021年冬 東京の空の下、少し離れてととのう]</title>
+    <updated>2026-02-04T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuawfmlvs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                新型コロナウイルスの影響で、サウナライフが大きく揺らいでしまった。サウナ好き3人組も、それぞれ工夫をしながら新しいサウナの楽しみ方を模索していた。そんなある日、予約制になったホームサウナである上野の「北欧」にて、久々に顔を揃えることになる。3人のサウナ談義の中で、ふとしたことで、この環境下でも、リニューアルをした老舗サウナ施設の存在が話題になり、その新スポットを訪れる計画を立てる。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuawfmlvs"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epb8wivts4</id>
     <title>大好き！五つ子4_[第13回 サイコーはサイテェー！]</title>
