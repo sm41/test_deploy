@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-04T10:05:56+09:00</updated>
+  <updated>2026-02-04T12:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epb8wivts4</id>
+    <title>大好き！五つ子4_[第13回 サイコーはサイテェー！]</title>
+    <updated>2026-02-04T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb8wivts4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;好きな人に妹の様に思ってると言われて失恋した夏美（石川朝）の様子と、夏美に弟の様に思っていると言われたことに傷ついた剛（金澤翔太）は鎌倉の家に帰るなり、押入れに閉じこもってしまった。暴れる剛を皆でなだめるが、剛は聞く耳を持たない。美穂（新穂えりか）に夏美のことだろうと言われ、進歩がない男と言われてしまった剛が家を飛び出そうとしたところに、夏美がやってきた。夏美から頼みたいことがあると言われた剛の機嫌は見る間に回復。一方、剛を心配した桃子（森尾由美）は予定を早めて、鎌倉に向かうことに決める。だが鎌倉に着いた桃子は、剛と慎吾（中野勇士）は自分と関係なく成長しているように思えて寂しくなる。そんな中、１人で留守番をすることになった紀香（荒井千歩）は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epb8wivts4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxag15wv4</id>
     <title>蜜の味～A Taste Of Honey～_[第11話 ふたりなら大丈夫。私には何より大事なあなたがいるから。常識や道徳の向こう側にある誰も掴めない愛を得た二人]</title>
@@ -728,245 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epoomh1dvk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epn5k6l9oi</id>
-    <title>松本清張「ガラスの城」　テレビ朝日開局65周年記念　松本清張二夜連続ドラマプレミアム_[2024年1月4日放送]</title>
-    <updated>2026-02-02T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srolokiack.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 松本清張「ガラスの城」　テレビ朝日開局65周年記念　松本清張二夜連続ドラマプレミアム
-                &lt;a href="https://tver.jp/series/srolokiack" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn5k6l9oi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                都心にガラス張りの立派なオフィスを構える大手商社「實友商事」。さまざまな欲望を隠し持つエリートたちが集まる同社の次世代エネルギー部で、久々に社員旅行が開催されることになった。静岡で行われる展示会の後、慰労も兼ね、修禅寺で一泊しようというのだ。ほかの社員との付き合いが皆無に等しい地味な一般職・的場郁子（波瑠）、そして出世頭のバリキャリ課長・三上田鶴子（木村佳乃）はそれぞれ、まるで気が進まないものの渋々参加。旅館で行われた宴会でも社員たちが盛り上がる中、的場は食事を終えるや、そそくさと退席してしまう。&#13;&lt;br&gt;一方、宴会後に散歩に出かけた三上は、薄暗い竹藪道で“まさかの光景”を目撃する。なんと出世街道まっしぐらのエリート部長・杉岡久一郎（丸山智己）が、旅館の浴衣を着た誰かと親密に寄り添っていたのだ！ これは…社員旅行に便乗した社内不倫!?　偶然つかんだ不倫疑惑に思わず胸が躍った三上は、顔までは見えなかった相手の正体を密かに詮索し始める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epn5k6l9oi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjc8mtbdo</id>
-    <title>相棒 season8_[第4話「錯覚の殺人」]</title>
-    <updated>2026-02-02T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjc8mtbdo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                テレビ局社員の絵美が無人のスタジオで転落死した。別件で来ていた右京（水谷豊）と尊（及川光博）は、総務部の絵美が無人のスタジオにいたことに疑問を抱く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjc8mtbdo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epg6m6away</id>
-    <title>相棒 season8_[第9話「仮釈放」]</title>
-    <updated>2026-02-02T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg6m6away.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                刑務所を仮出所した山部という男が出所翌日に失踪。山部は数年前に覚せい剤を所持し、一緒にいた村上と逮捕され刑期満了間近だった。模範囚だった山部は身寄りもなかったが、なぜか共犯だった村上の同棲相手・美代子（井上和香）という女性がたびたび山部に面会に来ていた。右京（水谷豊）と尊（及川光博）は美代子に山部に面会した理由を聞くが、歯切れが悪い。美代子は何かを隠していると直感した右京。やがて山部の行方が明らかになり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epg6m6away"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epej67nd4t</id>
-    <title>相棒 season8_[第10話「特命係、西へ！死体が握っていた数字と、消えた幻の茶器の謎…東京～京都・連続殺人と420年前の千利休の死の秘密が繋がる!?」]</title>
-    <updated>2026-02-02T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epej67nd4t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                京都で呉服店を経営する高村の遺体が東京で発見された。手には謎の4桁の数字が羅列された紙の切れ端が握られていた。&#13;&lt;br&gt;高村は死の直前、都内のホテルに電話をかけていたことが判明。右京（水谷豊）と尊（及川光博）がそのホテルを訪ねると、偶然にも尊は学生時代の恋人・唯子（檀れい）と再会する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epej67nd4t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epddnjlomy</id>
-    <title>相棒 season8_[第7話「鶏と牛刀」]</title>
-    <updated>2026-02-02T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epddnjlomy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                年金事務所の係長・藤石がホテルの一室から転落死した。警視庁の上層部は自殺と断定するが、遺体に不審な点を発見した右京（水谷豊）は捜査を開始。翌日、年金事務所の職員に「人殺し！」と詰め寄っていた藤石の婚約者・亜由美（久遠さやか）によると、藤石は亡くなる直前まで亜由美と一緒におり、不正を告発する、会社も辞めると言っていたらしい。右京と尊（及川光博）は、藤石の上司の証言で、この事務所でも5年前まで不正が行われていたことを知る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epddnjlomy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep74iqv8i2</id>
-    <title>相棒 season8_[第5話「背信の徒花」]</title>
-    <updated>2026-02-02T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep74iqv8i2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                米沢（六角精児）が見ていた鉄道マニア向けDVDに5年前に自殺した国土建設省の官僚・三島に似た男が映っていた。撮影日は三島の遺体が都内で発見される前日。しかもDVDに映っていたのは東京から60キロも離れた間宮村の駅。疑問を感じた右京（水谷豊）は尊（及川光博）とともに国土建設省へ。三島の同僚・片倉（中村繁之）に三島が発見前日に間宮村に行ってないか確認するが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep74iqv8i2"/>
   </entry>
 </feed>
