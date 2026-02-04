@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-04T18:05:56+09:00</updated>
+  <updated>2026-02-04T20:06:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epf5gzdmh0</id>
+    <title>孤独のグルメ Season8_[第7話 由比ガ浜のサバの燻製とスペアリブ]</title>
+    <updated>2026-02-04T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf5gzdmh0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は、由比ガ浜のハンバーガーショップのオーナーで昔からの知り合い中村真治（パパイヤ鈴木）との商談へ向かう。転職した中村の雰囲気はすっかり変わっていて……。商談を終えお腹が空いた五郎は海鮮モード。だが周りはカフェしか見当たらない。ようやく見つけたドイツ家庭料理店に入ったが人気が無く……店を後にしようとした瞬間ママ（かたせ梨乃）がやってきて席に案内されたが独特な迫力に思わずおののいてしまう……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf5gzdmh0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep83o9l0df</id>
     <title>風起西州　烈風に舞う花衣_[芙蓉の宴]</title>
@@ -928,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfdwhfr53"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiwa83kj9</id>
-    <title>笑うハナに恋きたる_[第6話 本命は悪知恵で奪え]</title>
-    <updated>2026-02-02T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 笑うハナに恋きたる
-                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月09日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiwa83kj9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                エミにハナを誘惑するよう頼まれたタムは、レッスンの一環と称してハナを試写会へ連れて行く。そこへジェイとエミが現れ、彼らの前でハナは失態を演じてしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiwa83kj9"/>
   </entry>
 </feed>

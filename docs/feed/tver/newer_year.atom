@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-04T18:05:56+09:00</updated>
+  <updated>2026-02-04T20:06:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep4nzj16uk</id>
+    <title>3年B組金八先生(第7シリーズ)_[第６回 からだという本]</title>
+    <updated>2026-02-04T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4nzj16uk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;文化祭の興奮もようやくおさまった桜中学で、孝太郎（竹内友哉）だけは大麻での一件に懲りた様子もなく、和晃（村上雄太）に加え女子にまで金をせびり始めていた。そんなある日、卒業生の高鳥よし江（水間ちづる）らが金八（武田鉄矢）と本田先生（高畑淳子）を訪ねてきた。性教育の教材として作った男女１体ずつの人形を預かってほしいという。人形は保健室で保管されることになったが、その存在はすぐに生徒たちの知るところとなる。興味津々の３Bたちは、本田先生を保健室からおびき出して侵入。人形を見て大騒ぎになり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4nzj16uk"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxe597f1e</id>
     <title>サ道～２０２２年　冬　小さな幸せを胸にととのう～_[サ道～２０２２年　冬　小さな幸せを胸にととのう～]</title>
