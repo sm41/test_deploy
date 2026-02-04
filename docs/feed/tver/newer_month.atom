@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-04T15:34:00+09:00</updated>
+  <updated>2026-02-04T16:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1048,45 +1048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep4sbtra8w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppbn08ilx</id>
-    <title>仮面の忍者 赤影_[第十二話 急襲、本能寺]</title>
-    <updated>2026-02-02T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 仮面の忍者 赤影
-                &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月02日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月16日(月)_00時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppbn08ilx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                織田信長（EXILE TAKAHIRO）から天下を奪うべく、幻妖斎（忍成修吾）は朧一貫（小野塚勇人）、鬼念坊（勝矢）ら《霞谷七人衆》を京の都・本能寺へと向かわせる。夜襲を受けた信長は大ピンチに陥るが、間一髪のところで赤影（佐藤大樹）、青影（木村慧人）、白影（加藤諒）が参上！　さらには弓の達人・明智光秀（福士誠治）も参戦し事なきを得るのだった。&#13;&lt;br&gt;そして、赤影たちは逃げた鬼念坊の後を追うが、全てが幻妖斎によるワナで…。ついに動き出した巨像・金目像の金剛杵が赤影たちに振り下ろされることに――！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppbn08ilx"/>
   </entry>
 </feed>
