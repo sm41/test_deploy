@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-04T12:05:56+09:00</updated>
+  <updated>2026-02-04T14:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep83o9l0df</id>
+    <title>風起西州　烈風に舞う花衣_[芙蓉の宴]</title>
+    <updated>2026-02-04T13:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpshhxin9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 風起西州　烈風に舞う花衣
+                &lt;a href="https://tver.jp/series/srpshhxin9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_13時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TVQ九州放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83o9l0df.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                臨海（りんかい）大長公主と泊まりがけで寺を参拝した翌朝、庫狄琉璃（こてき・るり）が屋敷に戻ると、門前で雨奴（うど）と鉢合わせに。県衙に泊まる裴行倹（はい・こうけん）に着替えを届けに行ったと言う雨奴だが、屋敷を出たのは前の晩。大雨で帰れず県衙に一泊したと悪びれもしない彼女に対し、侍女たちが琉璃に代わって憤慨するのだった。その後、帰宅した行倹の衣には“雨奴の匂い”が…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep83o9l0df"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epldjg26xf</id>
     <title>三国志　秘密の皇帝_[第30話]</title>
