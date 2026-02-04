@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-04T02:05:56+09:00</updated>
+  <updated>2026-02-04T10:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epldjg26xf</id>
+    <title>三国志　秘密の皇帝_[第30話]</title>
+    <updated>2026-02-04T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月11日(水)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epldjg26xf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                袁紹（えんしょう）と戦の様子を見に出かけた劉平（りゅうへい）と伏寿（ふくじゅ）。偽の食糧庫があると罠をしかけた烏巣（うそう）から火の手が上がり、曹操（そうそう）を打ち倒したと満足げな袁紹は、もはや漢王朝には行き場がないと放言する。しかしその時、本当の食糧庫がある陽武（ようぶ）にも火の手が上がり、曹（そう）軍に落とされたという知らせが入る。見捨てられたのは漢王朝ではなく、袁紹だった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epldjg26xf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epp1kzxynw</id>
+    <title>マトリと狂犬_[#３「人気タレントの裏の顔を暴け！」《ドラマイズム》]</title>
+    <updated>2026-02-04T02:08:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8qcrft60.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ マトリと狂犬
+                &lt;a href="https://tver.jp/series/sr8qcrft60" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_02時08分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月11日(水)_02時07分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp1kzxynw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                黒崎（細田善彦）からの情報により薬物疑惑が浮上した人気タレント・加賀響（九条ジョー）の捜査を始めたマトリ。黒崎の「スパイ」として加賀の監視を命じられた梅沢（西畑大吾）だが、半グレ組織からも加賀から被害を受けた女性・北川美咲（野崎萌香）の拉致を指示される。不満を募らせながらも、加賀の尾行を続ける梅沢。誰かと店の前で待ち合わせをしていた加賀のもとにやってきたのは、美咲とは別の女性で…。そして梅沢は、黒崎がなぜそこまで「麻薬犯罪」に執着するのか――その過去の一端を覗くことになり―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp1kzxynw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0mwhaq4s</id>
     <title>AKIBA LOST_[#03　妹の命か、ゲーム開発続行か]</title>
@@ -1008,85 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epk4pkhzi7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6cux8ku2</id>
-    <title>嘘が嘘で嘘は嘘だ_[第4話 ハッピーエンドは突然に]</title>
-    <updated>2026-02-01T23:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sropq0c3cc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 嘘が嘘で嘘は嘘だ
-                &lt;a href="https://tver.jp/series/sropq0c3cc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_23時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月08日(日)_23時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6cux8ku2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                みつ子と幸助のボーリング場での出会いを思い出し、少し照れるみつ子だが、またもや幸助の嘘が発覚し、落胆する。だが、幸助の正直な気持ちを聞いて、自分がついた嘘も正直に謝ることができたみつ子。互いの正直な気持ちを話しいい雰囲気になったところで、気を利かせ席を外してあげる中村と並木だが…。一夜に生まれた無数の嘘が、一つの線で繋がれていく――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6cux8ku2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf00b1n1w</id>
-    <title>パンチドランク・ウーマン −脱獄まであと××日−_[#4 裏切り者は誰?女刑務官への罠とは]</title>
-    <updated>2026-02-01T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6mknxzp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パンチドランク・ウーマン −脱獄まであと××日−
-                &lt;a href="https://tver.jp/series/srf6mknxzp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月01日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf00b1n1w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                動き出した脱獄計画!刑務官・冬木こずえ(篠原涼子)は、父親殺しの容疑者・日下怜治(ジェシー)と協力して立て籠もり事件の犯人を確保したものの、その裏で、脱獄を企てるカルト教団の内通者ー裏切り者の刑務官にIDとパスワードを盗まれてしまう!教団にハメられて内通者の疑いをかけられてしまうこずえ!脱獄を遂げたい怜治もこずえを裏切ろうとしていて…!&lt;br&gt;裏切り者は誰だ!?追い込まれるこずえに絶体絶命の危機が!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf00b1n1w"/>
   </entry>
 </feed>
