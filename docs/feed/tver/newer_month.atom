@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-05T02:05:56+09:00</updated>
+  <updated>2026-02-05T12:33:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epa0dz8lj1</id>
+    <title>三国志　秘密の皇帝_[第31話]</title>
+    <updated>2026-02-05T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa0dz8lj1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                曹丕（そうひ）が目を覚ますと、剣を交えていたはずの王越（おうえつ）が目の前にいた。王越は曹丕を気に入り、王氏の剣術を伝授したいと申し出る。一方、司馬懿（しばい）によって袁紹（えんしょう）の元から助け出された唐瑛（とうえい）だったが、袁紹に飲まされていた毒が体に回り倒れてしまう。劉平（りゅうへい）たちは唐瑛を助けようと郭嘉（かくか）にかけ合うが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa0dz8lj1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epn66sgozt</id>
+    <title>L&amp;P_[第18話　君の自由だ]</title>
+    <updated>2026-02-05T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月05日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn66sgozt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                コンテスト終了後、黎娜(リーナー）が李峋(リー・シュン）に話があると訪ねてくる。そのことを知った朱韻(ジュー・ユン）は落ち着かず、ライバルに先を越されまいと作戦を立てる。李峋から贈られたドレスに身を包み、指定の場所へ向かう朱韻。それから月日が流れ、李峋は新たな計画を胸に秘めていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn66sgozt"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx2m7lnse</id>
     <title>私の夫は時給1,000円の大富豪_[【スマホ用】#9「凛花の覚悟」]</title>
@@ -448,46 +528,6 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epf5gzdmh0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep83o9l0df</id>
-    <title>風起西州　烈風に舞う花衣_[芙蓉の宴]</title>
-    <updated>2026-02-04T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpshhxin9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 風起西州　烈風に舞う花衣
-                &lt;a href="https://tver.jp/series/srpshhxin9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月04日(水)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TVQ九州放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83o9l0df.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                臨海（りんかい）大長公主と泊まりがけで寺を参拝した翌朝、庫狄琉璃（こてき・るり）が屋敷に戻ると、門前で雨奴（うど）と鉢合わせに。県衙に泊まる裴行倹（はい・こうけん）に着替えを届けに行ったと言う雨奴だが、屋敷を出たのは前の晩。大雨で帰れず県衙に一泊したと悪びれもしない彼女に対し、侍女たちが琉璃に代わって憤慨するのだった。その後、帰宅した行倹の衣には“雨奴の匂い”が…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep83o9l0df"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epldjg26xf</id>
@@ -968,205 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epuz3gcv1w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep81hzsfw4</id>
-    <title>風起西州　烈風に舞う花衣_[大長公主の贈りもの]</title>
-    <updated>2026-02-03T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpshhxin9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 風起西州　烈風に舞う花衣
-                &lt;a href="https://tver.jp/series/srpshhxin9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月17日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TVQ九州放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep81hzsfw4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                庫狄琉璃（こてき・るり）との婚儀を終えたばかりの裴行倹（はい・こうけん）が、ひそかに新しい屋敷を探しているらしい。崔（さい）氏から、そんな情報を聞かされた臨海（りんかい）大長公主は、裴府に１人の奴婢を送り込む。雨奴（うど）と呼ばれるその娘は、陸琪娘（りく・きじょう）――すでにこの世を去った行倹の前妻と生き写しであるだけでなく、奏でる簫の音色までもがそっくり同じで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep81hzsfw4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkspm5t0v</id>
-    <title>三国志　秘密の皇帝_[第29話]</title>
-    <updated>2026-02-03T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkspm5t0v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                袁紹（えんしょう）に皇帝であることを明かした劉平（りゅうへい）は、唐瑛（とうえい）に会わせるよう命じる。一方、皇帝が自分の側にいることを面倒と感じる袁紹は、曹操（そうそう）が攻めてこられないよう前線に劉平を送ってしまおうと考える。さらに、袁紹は許攸（きょゆう）に曹操に帰順した振りをし、皇帝が袁紹軍にいることと兵糧庫の偽情報を流すよう指示する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkspm5t0v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgtjrogko</id>
-    <title>シェパード警部・ブロークンウッドの事件簿_[第15話「優しさで殺して」前編]</title>
-    <updated>2026-02-03T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
-                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgtjrogko.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                アメリカ進出を目前に、人気カントリーバンドのボーカル、ホリー・コリンズが不審死を遂げた。死因はバスタブでの感電死。バスルームの鏡には、口紅で書かれたメッセージが残されていた。ホリーの大ファンだったマイクは、失意の中で捜査に取りかかる。しかし、自由奔放なミュージシャンたちを相手に、ブロークンウッド署の面々は大苦戦。熱狂的なホリーファンの力を借り、愛憎渦巻くカントリーバンドの闇とゴシップを暴く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgtjrogko"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2qlf01l8</id>
-    <title>シカゴ･ファイア_[決意]</title>
-    <updated>2026-02-03T02:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シカゴ･ファイア
-                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_02時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月17日(火)_01時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2qlf01l8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第12話「決意」(吹替)&lt;br&gt;セブライドはとうとう自分のケガのことをチーフのボーデンに打ち明ける。そして自身の将来について重大な決断を下す。一方ケイシーは家族の問題で落ち着かない。ドーソンは通報を受けて行った現場の唯一の生存者である若い女性に個人的に手を差し伸べる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2qlf01l8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5oynw1ob</id>
-    <title>親友の「同棲して」に「うん」て言うまで_[第４話・２人の時間を思い出すまで]</title>
-    <updated>2026-02-03T02:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjs8tvmqr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 親友の「同棲して」に「うん」て言うまで
-                &lt;a href="https://tver.jp/series/srjs8tvmqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_02時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_01時38分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5oynw1ob.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                湊（吉澤要人）に航（雨宮翔）は好きという気持ちを伝えるも、親友として一番大切だからこそ、恋人になって関係が終わることを怖がっていた。そんな中、2人は高校の仲間たちとバーベキューをすることに。航は、湊にいつも通り接しようとするも、頭の中はそれどころではなかった。その後、2人は高校時代の写真部の撮影会に参加。その帰り道、2人で思い出の海に行く約束をしたとき、湊はまたもや航を困惑させる――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5oynw1ob"/>
   </entry>
 </feed>

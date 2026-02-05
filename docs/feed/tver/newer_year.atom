@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-05T02:05:56+09:00</updated>
+  <updated>2026-02-05T12:33:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1fjt0rmu</id>
+    <title>大好き！五つ子4_[第14回 センスとルール]</title>
+    <updated>2026-02-05T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月19日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1fjt0rmu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;慎吾（中野勇士）、剛（金澤翔太）、良介（新井康弘）と入れ違いに、翌日、紀香（新井千歩）は千絵子（茅島成美）に連れられて鎌倉に向かったため、桜井家は男所帯になった。そんな中、慎吾はメンコが上手く、学校の友達からメンコをことごとく巻き上げていた。その日もサッカーの練習の後、体の大きなカトブン（伊織大昌）と勝負して勝った。家で慎吾と剛が良介にメンコの話をしていると、カトブンが家にやってきて…。一方、鎌倉ではファッション雑誌を見ていた美穂（新穂えりか）と亜理沙（斉藤瑠花）が良枝（岩本多代）に洋服をねだり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1fjt0rmu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvhs1zhc9</id>
     <title>ザ・トラベルナース （2024）_[第4話 仕組まれた医療ミス！VSモンスター患者]</title>
@@ -928,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5f43793n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep494i7fw6</id>
-    <title>体感予報_[第五話《ドラマシャワー》]</title>
-    <updated>2026-02-03T03:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcq4gvaks.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 体感予報
-                &lt;a href="https://tver.jp/series/srcq4gvaks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_03時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月10日(火)_03時24分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep494i7fw6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                夏の眩しい日差しに照らされながら、漫画の打ち切りを告げられた葉（増子敦貴）は悲しみに打ちひしがれていた。見かねた瀬ヶ崎（樋口幸平）は献身的に世話をするが、いつもと違う彼の優しさに却って戸惑う葉。一方、万さん（松村沙友理）は葉にバイトの話を持ちかける。それは泊りがけで一緒に瀬ヶ崎と葉がモデルの漫画制作を行うというもの。「お前に漫画の仕事がなくなろうが、どうでもいい」と言う瀬ヶ崎の言葉に反発を覚えた葉は……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep494i7fw6"/>
   </entry>
 </feed>
