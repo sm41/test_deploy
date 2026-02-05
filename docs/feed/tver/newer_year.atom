@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-05T18:05:43+09:00</updated>
+  <updated>2026-02-05T20:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epd2j0m8sv</id>
+    <title>3年B組金八先生(第7シリーズ)_[第７回 友情が芽生える時]</title>
+    <updated>2026-02-05T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月19日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd2j0m8sv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;シンナーでハイになり、高笑いしながら夜の道を走っていた孝太郎（竹内友哉）は、普段から和晃（村上雄太）の家に入り浸っていた。ある日、和晃の母・律子（柳岡香里）の怒りが頂点に達し、桜中学にやってきて、和晃と孝太郎を別のクラスにしない限り和晃を学校には来させないと言う。一方、小塚崇史（鮎川太陽）の父・靖史（升毅）が経営する貿易会社に覚せい剤密輸の疑惑がかけられ、警察の捜査が入る。そんな崇史を心配した１人のクラスメートから、崇史の携帯にメールが届く…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd2j0m8sv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbin185t2</id>
     <title>サ道_[第4話 エレガントな熱波でととのう]</title>
@@ -928,85 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epn90xw7uw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfeqbrbfy</id>
-    <title>サ道2021_[第二話「錦糸町・黄金湯」憂鬱な朝、銭湯サウナでととのう]</title>
-    <updated>2026-02-03T17:00:04+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サ道2021
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfeqbrbfy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;当たり前になった新しい日常に慣れ始めたナカタアツロウ（原田泰造）。しかしその影響で仕事がなかなかうまくいかず、トラブルが続いていた。数日前も取引先と朝から揉めてしまい、気を晴らすためサウナ激戦区の街の朝から営業している銭湯サウナを訪れることに。お湯の種類が充実しており、浴室内に音楽が流れ変わった壁画がある施設。いつものようにサウナ・水風呂・外気浴を堪能していると、若者たちが話しながらやってくる。気になって仕方がないナカタが限界を超え、声をかけようとすると……　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfeqbrbfy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm7vk54u2</id>
-    <title>サ道2021_[第一話「東京ドーム天然温泉・スパ ラクーア」東京の空の下 願いを込めてととのう]</title>
-    <updated>2026-02-03T17:00:03+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サ道2021
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月19日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm7vk54u2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;今や当たり前になった新しい日常に慣れ始めたナカタアツロウ（原田泰造）、偶然さん（三宅弘城）、イケメン蒸し男（磯村勇斗）は自粛していたサウナ生活を再開し、久しぶりにホームサウナである上野の「サウナ北欧」に集まっていた。レストランで他愛もない話をしていると、ある理由で意地を張り今まで行っていなかったサウナ施設へ訪れたと話すナカタ。そこはアスリートがよく集まり、都内なのにフィンランドのサウナ小屋に出会えた気分になる施設で……　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm7vk54u2"/>
   </entry>
 </feed>

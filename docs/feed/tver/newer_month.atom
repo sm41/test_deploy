@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-05T18:05:43+09:00</updated>
+  <updated>2026-02-05T20:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkwvkrrzv</id>
+    <title>運命のキスをお願い！_[最終32話   自分の選択]</title>
+    <updated>2026-02-05T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8gyitin.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 運命のキスをお願い！
+                &lt;a href="https://tver.jp/series/srr8gyitin" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月05日(木)_19時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkwvkrrzv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                童小悠(トン・シャオヨウ)に救われた江顔(ジアン・イェン)は、コンクールを棄権し、代わりに路言之(ルー・イェンジー)が参加することに。そしてついに最終審査へ。陸星成(ルー・シンチョン)の名が呼ばれ、ステージにスポットライトが当たる。そこに立っていたのは…。コンクールを終え、初めてキスをした場所にきた星成と小悠は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkwvkrrzv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0w458uob</id>
+    <title>孤独のグルメ Season8_[第8話 鳥取市のオーカクとホルモンそば]</title>
+    <updated>2026-02-05T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月19日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0w458uob.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は仕事で鳥取へ。吉川賢一（遠山俊也）に薦められた市役所名物スラーメンを堪能したのち、輸入雑貨のパーティーに出席する。下戸の五郎は振舞われたワインを断れず、ある失態を犯してしまう……。翌日は予定を変更し昼食を食べてから帰ることにするが、店はことごとく準備中。10分以上歩き回りようやく現れたのは、お母さん（渡辺えり）と娘さん（伊藤修子）が営む、繁華街から離れた情緒漂う鉄板焼き屋さんだった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0w458uob"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epa0dz8lj1</id>
     <title>三国志　秘密の皇帝_[第31話]</title>
