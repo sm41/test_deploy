@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-05T12:33:30+09:00</updated>
+  <updated>2026-02-05T14:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -928,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epm7vk54u2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5f43793n</id>
-    <title>大好き！五つ子4_[第12回 女ごころ]</title>
-    <updated>2026-02-03T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子4
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月03日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月17日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5f43793n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;周平（見栄晴）と恵（長谷川真弓）の対立がエスカレート。そんな中、電話で恵に相談された桃子（森尾由美）はついつい恵の方にも甘さがあると説教してしまう。一方、亜理沙（斉藤瑠花）から、周平のだらしなさが嫌で仕方ないと相談を受けた美穂（新穂えりか）は、いよいよ恵が面接に出かけるという日、周平と恵の不和を知り、まずい雰囲気を何とか打開しようと図る。さらに美穂は、まずは亜理沙と周平の間を何とかしようと２人と話すが、そこで周平の思わぬ本心を知ることになり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5f43793n"/>
   </entry>
 </feed>
