@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-06T16:05:43+09:00</updated>
+  <updated>2026-02-06T18:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2b55o9ca</id>
+    <title>サ道2021_[第四話「池袋 タイムズ スパ・レスタ」都心の上空、自分のペースでととのう]</title>
+    <updated>2026-02-06T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2b55o9ca.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;雑貨メーカーに勤めるヘルパーさん（前野朋哉）は、同僚の吉田くん（戸塚純貴）に誘われて以来サウナの魅力にハマってしまう。いつものようにサウナで蒸され水風呂に入っていた時、吉田くんから「会社を辞める」と告げられる……。“デキる社員”として評判のいい吉田くんの退職に社内の雰囲気が悪くなっていた頃、社員から“デキない社員”と言われ自暴自棄気味の小倉くん（前原滉）を見かねたヘルパーさんはサウナに誘う事に。話を聞いて勇気づけるはずが事態は思わぬ方向に進んでいく……！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2b55o9ca"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epon7y7qnd</id>
+    <title>サ道2021_[第三話「テントサウナ」男の友情でととのう]</title>
+    <updated>2026-02-06T17:00:02+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epon7y7qnd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;「サウナ北欧」に集まっているナカタアツロウ（原田泰造）と偶然さん（三宅弘城）は、いつもより機嫌の悪いイケメン蒸し男（磯村勇斗）に遭遇し動揺が隠せないでいた……。数日後、蒸し男の話を聞くと幼馴染と喧嘩をしていたという。一緒に上京し仕事で競い合っていた最中、突然田舎に帰ると言い出した友人とじっくり二人で話す時間をつくるため、テントサウナへ誘った蒸し男。帰ることにどうしても納得できず引き留めようとするが……　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epon7y7qnd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzi618zlu</id>
     <title>私たちはどうかしている_[第1話]</title>
