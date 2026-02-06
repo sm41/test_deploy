@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-06T18:05:43+09:00</updated>
+  <updated>2026-02-06T20:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -568,45 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0w458uob"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa0dz8lj1</id>
-    <title>三国志　秘密の皇帝_[第31話]</title>
-    <updated>2026-02-05T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa0dz8lj1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                曹丕（そうひ）が目を覚ますと、剣を交えていたはずの王越（おうえつ）が目の前にいた。王越は曹丕を気に入り、王氏の剣術を伝授したいと申し出る。一方、司馬懿（しばい）によって袁紹（えんしょう）の元から助け出された唐瑛（とうえい）だったが、袁紹に飲まされていた毒が体に回り倒れてしまう。劉平（りゅうへい）たちは唐瑛を助けようと郭嘉（かくか）にかけ合うが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa0dz8lj1"/>
   </entry>
 </feed>
