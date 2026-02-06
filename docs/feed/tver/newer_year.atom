@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-06T02:06:43+09:00</updated>
+  <updated>2026-02-06T10:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2se194pk</id>
+    <title>口説き文句は決めている_[第3話 風邪チャンス]</title>
+    <updated>2026-02-06T02:50:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sred91cw5o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 口説き文句は決めている
+                &lt;a href="https://tver.jp/series/sred91cw5o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_02時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2se194pk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                仕事中なんだかぼーっとしてしまう香羽（北香那）。どうやら風邪をひいてしまったようだ。急いで帰宅しベッドに入っていつも通り妄想をする。「こんな時、恋人が看病してくれたらな～」。だが、風邪のせいか妄想の調子も悪い！お見舞いに焼肉弁当？「おかゆを作る！」と言って向かった台所からは食器の割れる音…。風邪の時、結局一番してもらいたい事って…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2se194pk"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxjobceyg</id>
     <title>わたしたちの教科書_[第12話 感動のラスト！！希望の明日へ]</title>
