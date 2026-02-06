@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-06T20:06:43+09:00</updated>
+  <updated>2026-02-06T22:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5rv94kzk</id>
+    <title>副会長の主なお仕事_[涼をとります]</title>
+    <updated>2026-02-06T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5rv94kzk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                晩夏の放課後、蒸し暑い生徒会室で栗下が切り出したのは、「怪談で涼をとる」という風流（？）な納涼計画。軽音部の予算アップにつられて田垣も参戦し、ランタンの灯りの下で“恐怖と下心”入り交じる怪談会がゆるゆるとスタート。ビビりな灰屋、ちゃっかり者の田垣、ズレた感性の栗下──三人の温度差が、ひと夏の生徒会室をにぎやかにかき回す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5rv94kzk"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnju1lvzh</id>
+    <title>元科捜研の主婦_[4話「謎の転落死！犯人はお受験ママ!?」]</title>
+    <updated>2026-02-06T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnju1lvzh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                亮介（佐藤大空）が小学校お受験に挑戦!?詩織（松本まりか）は道彦（横山裕）と相談し、学習塾の入塾説明会へ行くことに。保護者達の目当てはカリスマ講師・四方田（濱正悟）。そんな説明会にクレーマー保護者が乱入…!?さらに、集団食中毒の症状で倒れる保護者たち…詩織は名門塾で起きた原因不明の食中毒事件の真相を探る中、塾長・平井（淵上泰史）が謎の転落死！お受験の裏に潜む悲しき事件の真相を科学の力で暴き出す！　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnju1lvzh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epl6oain2o</id>
     <title>三国志　秘密の皇帝_[第32話]</title>
