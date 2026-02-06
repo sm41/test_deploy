@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-06T14:05:31+09:00</updated>
+  <updated>2026-02-06T16:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -768,45 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epezm5bzhv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epavxqxsdn</id>
-    <title>聖ラブサバイバーズ_[ep.05 天国から地獄へ!?別れよう…]</title>
-    <updated>2026-02-05T01:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri091clae.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 聖ラブサバイバーズ
-                &lt;a href="https://tver.jp/series/sri091clae" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_01時09分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月4日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epavxqxsdn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                秘めた想いを打ち明けた直後王子（上田竜也）から「好き」という言葉を耳にして、嬉しさのあまり思わず涙が止まらなくなるハル（石井杏奈）。王子は、泣きじゃくるハルを抱きしめるがなぜか辛そうな表情で…。翌日、浮かれたハルが冬実（佐津川愛美）と秋菜（山谷花純）と女子トークで盛り上がる中、冬実のスマホに2.5次元俳優とスタッフの不倫記事が出るというメッセージが届く。焦った冬実は落ちつがず、嘘をついて店を出るが…。　［期間限定無料配信］　毎週水曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epavxqxsdn"/>
   </entry>
 </feed>
