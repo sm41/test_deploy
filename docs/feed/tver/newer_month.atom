@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-07T20:06:43+09:00</updated>
+  <updated>2026-02-07T22:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep4v31yu2i</id>
+    <title>パンダより恋が苦手な私たち_[第5話 オオカミに学ぶ、後悔しない人生の決め方]</title>
+    <updated>2026-02-07T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月07日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月14日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4v31yu2i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                今の恋人が運命の人とは思えない、けど別れるのも不安…そんな時はどうすればいいの?変人動物学者・椎堂司(生田斗真)は、実は元人気モデルだった!しかも一葉(上白石萌歌)の憧れ、灰沢アリア(シシド・カフカ)と関係が!?ショックの一葉は鬼の編集長・藤崎美玲(小雪)に企画をボツにされて踏んだり蹴ったり…今の仕事は向いてないけど、辞めるのも不安…。悩める一葉に突然、司からデートのお誘い!?二人の恋が急展開!!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4v31yu2i"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epc9qrh1wi</id>
     <title>ガラスの指輪と絆創膏_[第4話 ブレーモノ]</title>
@@ -448,85 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epl6oain2o"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsvnr8nrv</id>
-    <title>私のIDはカンナム美人_[第18話]</title>
-    <updated>2026-02-06T02:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruw17n49p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私のIDはカンナム美人
-                &lt;a href="https://tver.jp/series/sruw17n49p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_02時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsvnr8nrv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                スアを振ってギョンソクがどんな女を選ぶのか興味津々の友人たちに、自分たちの関係を打ち明けることをためらうミレとギョンソク。しかし、ギョンソクとの関係を隠すことに心苦しさを覚えたミレは、ついに学科の友人たちに打ち明けることを決意する。友人たちは２人を祝福する中、スアは友人たちに対して本性が見え隠れするようになり…。そんな中、スアは自分が何者かによって盗撮されていることを知る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsvnr8nrv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz6o4bets</id>
-    <title>本命じゃなきゃよかったのに_[Episode5「裏切りの夜」《ドラマフィル》]</title>
-    <updated>2026-02-06T02:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr67bgqs0w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 本命じゃなきゃよかったのに
-                &lt;a href="https://tver.jp/series/sr67bgqs0w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_02時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_02時08分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz6o4bets.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                社員旅行の夜、実歩乃（樋口日奈）の部屋に忍び込んだ栄成（池田匡志）。&lt;br&gt;そこへ同僚の友里（水戸由菜）たちが戻ってきてしまい、二人は狭い布団の中で息を潜める。すぐそばで友里たちが会話する中、栄成はわざと実歩乃の体に触れる。&lt;br&gt;背徳的な高揚感に押し潰されそうになる実歩乃の声が漏れて―。&lt;br&gt;一夜明け、帰りのバスに乗り込む実歩乃。&lt;br&gt;「足、大丈夫ですか？」と、気に掛ける久坂（草川直弥）に「大丈夫。ありがとう」と笑顔をむける実歩乃。昨晩栄成と過ごしていた事実を言えず、心苦しくなる。&lt;br&gt;&lt;br&gt;その後、実歩乃のアパートで恋人のように過ごし、朝食を囲む実歩乃と栄成。&lt;br&gt;幸せな光景の中で、栄成は相変わらずいつもの態度を崩さず、実歩乃は「なんで私たち、付き合ってないんだろう」と割り切れない想いを募らせる。&lt;br&gt;そんな中、久坂から「もっと知りたい」と真剣なデートの誘いを受ける実歩乃。&lt;br&gt;真っ当な幸せへ踏み出そうとした矢先、栄成から残酷な事実を突きつけられてしまい…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epz6o4bets"/>
   </entry>
 </feed>
