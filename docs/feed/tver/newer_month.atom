@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-07T12:05:43+09:00</updated>
+  <updated>2026-02-07T14:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -608,45 +608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epsx3i55fd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epehhq7lp8</id>
-    <title>人は見た目じゃないと思ってた。_[第5話 ルッキズムの正義？]</title>
-    <updated>2026-02-06T01:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmfaydfxy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 人は見た目じゃないと思ってた。
-                &lt;a href="https://tver.jp/series/srmfaydfxy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epehhq7lp8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ふと、なんのために見た目を変えようと思ったのか自問自答してしまう大和（菅生新樹）。そんな中、毎年恒例の「高校生ファッションショー」企画を凛子（剛力彩芽）と一緒に担当することになる。凛子の母校である学校に企画説明へ行くと、大半の生徒が盛り上がる中、飯田望海（野中梨緒那）からファッションショーに出たくないとの申し入れが。自分の容姿に自信が持てず思い悩む望海を、どうしても放っておけない凛子。凛子には望海と重なる過去があった…。　［期間限定無料配信］　毎週木曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epehhq7lp8"/>
   </entry>
 </feed>
