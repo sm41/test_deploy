@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-07T18:05:43+09:00</updated>
+  <updated>2026-02-07T20:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwybz8xjm</id>
+    <title>3年B組金八先生(第7シリーズ)_[第９回 しゅうの母の秘密]</title>
+    <updated>2026-02-07T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月07日(土)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwybz8xjm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;和田教育長（長谷川哲夫）と金八（武田鉄矢）は、教育関連企業の部長・板橋香奈（木野花）に面会に行く。板橋こそ桜中学に来年度から迎え入れる予定である民間校長の第１候補者なのだ。一方、幼なじみのしゅう（八乙女光）を心配する稲葉舞子（黒川智花）が金八のところに相談に来る。そこで金八は舞子からしゅうの家庭事情を聞く。そんな中、受験シーズンを目前に控え、３年生の三者面談が順次行われる。金八はしゅうの家を訪ね、しゅうの母・光代（萩尾みどり）と初めて話をするが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwybz8xjm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epojhnj7q6</id>
     <title>ラスト・シンデレラ_[第1話 おやじ女子が恋を！？エッチな王子様登場！！不器用な恋始まる！！]</title>

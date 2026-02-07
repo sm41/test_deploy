@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-07T18:05:43+09:00</updated>
+  <updated>2026-02-07T20:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -528,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epz6o4bets"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph1v3qtti</id>
-    <title>コスメティック・プレイラバー Season2_[第4話 間宮さんみたいになりたい]</title>
-    <updated>2026-02-06T01:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzn1o08po.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コスメティック・プレイラバー Season2
-                &lt;a href="https://tver.jp/series/srzn1o08po" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_01時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_01時50分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph1v3qtti.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                星名のタッチアップの技術を磨くため、棗は居残りで練習に付き合うことに。基本的な技術は身についているものの、緊張すると極度に焦ってしまう星名。斗真に相談をした棗は、その熱心さが悩む新人には逆効果になりうると諭される。一方の斗真は、急遽メイクイベントに参加することに。成長を急ぐ斗真を、南条は密かに気にかけていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph1v3qtti"/>
   </entry>
 </feed>
