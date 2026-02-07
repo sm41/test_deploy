@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-07T14:05:43+09:00</updated>
+  <updated>2026-02-07T16:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -568,45 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eph1v3qtti"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsx3i55fd</id>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第8話「大切な宝物」《ドラマ特区》]</title>
-    <updated>2026-02-06T01:39:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_01時39分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月13日(金)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsx3i55fd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ようやく迎えた花火大会当日、突然体調が急変し、倒れてしまった小春（永瀬莉子）は、幸いにも意識を取り戻す。ここまで花火大会のために必死にリハビリに励んできたのに、花火大会に行けず落胆する小春に対し、かける（藤原大祐）は鳴海（曽野舜太）と優子（河村花）の協力のもと、病室で“ある計画”を実行する。それは奇跡のような時間で。病室で小春は、これまで言っていなかった花火が好きなもう一つの理由を、初めてかけるに告げる。それを聞いたかけるは……。&lt;br&gt;見えなくなっても、忘れてしまっても、確かに残るものがあると信じた二人の恋。&lt;br&gt;小春とかけるは、その想いを胸に、これからどのような道を歩んでいくのか――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsx3i55fd"/>
   </entry>
 </feed>
