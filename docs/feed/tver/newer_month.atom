@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-08T00:05:43+09:00</updated>
+  <updated>2026-02-08T02:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2cwvppvn</id>
+    <title>CUT.編集された世界_[#1「最高で最低な夜」]</title>
+    <updated>2026-02-08T01:10:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgo3qfiie.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ CUT.編集された世界
+                &lt;a href="https://tver.jp/series/srgo3qfiie" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_01時10分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_00時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2cwvppvn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                映画サークルで監督を務める真中透（窪塚愛流）は、仲間にも恵まれ、かわいい彼女もいる、順風満帆な大学生活を送っていた。しかし、その暮らしの中で時折“ある違和感”を覚えることが…。&#13;&lt;br&gt;ある日の朝、目を覚ますと自宅の部屋がメチャクチャに荒れた状態に!!激しく混乱する真中だが、何があったのかまったく思い出せない。&#13;&lt;br&gt;その後、後輩の星野沙蘭（奥山葵）に呼び出され大学に駆けつけると、とんでもない事実を告げられる！&#13;&lt;br&gt;聞けば、夜中に外で大暴れする真中の姿がSNSで拡散されまくっているという！&#13;&lt;br&gt;これもまったく身に覚えのない真中。しかし、星野のスマホに触れた瞬間、飛んでいた記憶が舞い戻る。&#13;&lt;br&gt;さらに、彼女である桜井美月（莉子）に関する衝撃の事実も発覚。動揺を隠せない真中は急いで美月のもとに駆けつけるのだが…&#13;&lt;br&gt;一体、真中の身に何が起きているのか!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2cwvppvn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epynfclv4u</id>
+    <title>横浜ネイバーズ Season1_[第5話 薬と毒]</title>
+    <updated>2026-02-08T00:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
+                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_00時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月14日(土)_23時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epynfclv4u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                神奈川県警捜査一課の刑事・欽太（原嘉孝）は中華街の路地を急ぎ足で歩いていた。&lt;br&gt;ふと視線の先にある女の姿が。そこには13年前から行方不明のロン（大西流星）の母親・南条不二子（伊藤歩）に似た女が立っていた。欽太は追いかけるも女を見失ってしまい―――&lt;br&gt;&lt;br&gt;ロンのもとに、見知らぬ男・石森（芳村宗治郎）から電話が入る。何者かに夜道で襲われ頭を七針縫う大ケガを負ったらしく、犯人を見つけてほしいと言う石森。さらにヨコ西の住人・タカシ（石山順征）からも祖母が闇金業者・里見（増田修一朗）に騙されていると相談されるロン。&lt;br&gt;&lt;br&gt;そんな中、石森が空き巣に入られる。盗まれたのは女性アイドルグループ・花ノ園女子学園、通称ハナジョのグッズ一式だった。石森は転売屋だったのだ。凪（紺野彩夏）、ヒナ（平祐奈）に反対されながらも、ロンはハナジョの運営スタッフ・刈田（金澤美穂）から、転売屋と揉めていたという古参ファン・ピロ吉（今井朋彦）の情報を得る。そしてピロ吉に会いに行こうとする中、ロンにも危機が迫り――！？&lt;br&gt;&lt;br&gt;ファンの思いは「薬」か「毒」か！？&lt;br&gt;世事に疎いロンが推し活の尊さを知る！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epynfclv4u"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkokmgonk</id>
     <title>ぜんぶ、あなたのためだから_[第5話 暴露妻VSヒス夫の地獄絵図]</title>
