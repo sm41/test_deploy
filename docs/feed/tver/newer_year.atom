@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-07T02:05:43+09:00</updated>
+  <updated>2026-02-07T10:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epojhnj7q6</id>
+    <title>ラスト・シンデレラ_[第1話 おやじ女子が恋を！？エッチな王子様登場！！不器用な恋始まる！！]</title>
+    <updated>2026-02-07T03:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x1jrsgt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ラスト・シンデレラ
+                &lt;a href="https://tver.jp/series/sr9x1jrsgt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月07日(土)_03時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epojhnj7q6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：2月7日(土) ～ 3月24日(火)&lt;br&gt;#2：2月14日(土) ～ 3月24日(火)&lt;br&gt;#3：2月21日(土) ～ 3月24日(火)&lt;br&gt;#4：2月24日(火) ～ 3月3日(火)&lt;br&gt;#5：2月27日(金) ～ 3月6日(金)&lt;br&gt;#6：3月2日(月) ～ 3月9日(月)&lt;br&gt;#7：3月5日(木) ～ 3月12日(木)&lt;br&gt;#8：3月8日(日) ～ 3月15日(日)&lt;br&gt;#9：3月11日(水) ～ 3月18日(水)&lt;br&gt;#10：3月14日(土) ～ 3月21日(土)&lt;br&gt;#11：3月17日(火) ～ 3月24日(火)&lt;br&gt;&lt;br&gt;遠山桜（篠原涼子）は、美容室『HAPPY-GO-LUCKY』吉祥寺店の副店長を務める39歳の独身女性。スタイリストとしての腕は確かだが、自分のことになると無頓着な桜は、ある朝、あごにヒゲが生えているのを発見し、ショックを受ける。同じ日、銀座本店の店長で、桜とは同期入社の立花凛太郎（藤木直人）が吉祥寺店の新店長に就任する。毒舌のマイペース男・凛太郎とはウマが合わない桜は、本社社長の萩原寿男（風間トオル）に直談判した。が、不満があるなら辞めろと言われてしまう。そんなある日、桜はふたりの親友、専業主婦で夫・公平（遠藤章造）とのセックスレスに悩んでいる武内美樹（大塚寧々）、バツイチのスポーツジムインストラクターで肉食系の長谷川志麻（飯島直子）と健康ランドへ行く。3人がエステルームに入ると、担当者が、桜のあごの絆創膏に気づく。桜がヒゲを抜いたときにできた傷だと明かすと、その担当者は、過労やストレスなどから体が男性化する“オス化女子”がいると説明する。別の日、凛太郎の顧客で、桜とも知り合いの大神千代子（菜々緒）が来店する。千代子の紹介で、合コンパーティーに参加することになった桜は、美樹、志麻を誘ってパーティーに参加する。が、誰にも相手にされず、ひとりで浴びるように酒を飲んだ桜は、酔いが回りロビーへと出てくる。そこで桜は、プロのBMXライダー・佐伯広斗（三浦春馬）に出会い・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ラスト・シンデレラ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epojhnj7q6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ephcerblz7</id>
     <title>ファースト・キス_[第2話 爆弾娘に合コンを]</title>
@@ -1688,45 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epdgase7o3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd2j0m8sv</id>
-    <title>3年B組金八先生(第7シリーズ)_[第７回 友情が芽生える時]</title>
-    <updated>2026-02-05T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月19日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd2j0m8sv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;シンナーでハイになり、高笑いしながら夜の道を走っていた孝太郎（竹内友哉）は、普段から和晃（村上雄太）の家に入り浸っていた。ある日、和晃の母・律子（柳岡香里）の怒りが頂点に達し、桜中学にやってきて、和晃と孝太郎を別のクラスにしない限り和晃を学校には来させないと言う。一方、小塚崇史（鮎川太陽）の父・靖史（升毅）が経営する貿易会社に覚せい剤密輸の疑惑がかけられ、警察の捜査が入る。そんな崇史を心配した１人のクラスメートから、崇史の携帯にメールが届く…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd2j0m8sv"/>
   </entry>
 </feed>

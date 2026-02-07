@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-07T02:05:43+09:00</updated>
+  <updated>2026-02-07T10:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -808,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epjgn38jrp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdjkvox1t</id>
-    <title>おコメの女－国税局資料調査課・雑国室－_[第５話 現役大臣の愛人が悪徳脱税!?]</title>
-    <updated>2026-02-05T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraq1nkeu3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おコメの女－国税局資料調査課・雑国室－
-                &lt;a href="https://tver.jp/series/sraq1nkeu3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月05日(木)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月12日(木)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdjkvox1t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                鷹羽宗一郎（千葉雄大）の父にして、政界の元大物・鷹羽錦之助（小野武彦）が死去――。&#13;&lt;br&gt;お別れの会に参列した国税調査官・米田正子（松嶋菜々子）は、その会になぜか姿を見せた父・田次（寺尾聰）と偶然出くわす。&#13;&lt;br&gt;一方、動画配信者のポンギ★カナちぇる（川津明日香）について調査が開始されると、宗一郎の愛人のウワサや、元国税局職員・箱山哲郎（浅野和之）とのつながりが浮上する。&#13;&lt;br&gt;そしてその箱山は、正子にとって因縁の宿敵だった…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdjkvox1t"/>
   </entry>
 </feed>
