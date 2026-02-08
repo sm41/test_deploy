@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-08T16:05:43+09:00</updated>
+  <updated>2026-02-08T18:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epq7ff9jpq</id>
+    <title>スケバン刑事_[第18話「登場！もう一人の特命刑事」]</title>
+    <updated>2026-02-08T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月15日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月8日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq7ff9jpq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                麗巳の策略によってサキたちは学校を追われてしまった。サキは海槌家の周辺に出没するようになる。サキは偶然、麗巳のレーサー自転車の整備を担当するサイクルショップの主人、片桐と知り合う。片桐は特命刑事であった。片桐はサキを庇い死んでいった。サキに謎の言葉を遺して・・・・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epq7ff9jpq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvl2b4wtu</id>
     <title>＆Hulu_[「バレンタイン特集」恋や青春、チョコレートにまつわるオススメ作品を大特集！青春ドラマや魔法のファンタジーなど甘い作品からビターな作品までご紹介]</title>

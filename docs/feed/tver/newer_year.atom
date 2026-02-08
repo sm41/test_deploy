@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-08T16:05:43+09:00</updated>
+  <updated>2026-02-08T18:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1688,45 +1688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epbkp2j03l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9lmkz5up</id>
-    <title>ゆとりですがなにか_[第2話]</title>
-    <updated>2026-02-06T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr44y7mm5e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ゆとりですがなにか
-                &lt;a href="https://tver.jp/series/sr44y7mm5e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9lmkz5up.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;正和(岡田将生)は山岸(仲野太賀)が自殺したのではないかと大混乱。やがてそれは人違いだと分かるが、山岸は正和のパワハラを理由に会社を辞めると宮下(安藤サクラ)たちに連絡をいれていた。一方、山路(松坂桃李)は、まりぶ(柳楽優弥)が麻生(吉田鋼太郎)となにやら話し込んでいるところを目撃。二人の関係を追及する。その後山岸が原因で謹慎処分になる正和だったが、彼をたずねてまりぶが『鳥の民』へやってきて……
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9lmkz5up"/>
   </entry>
 </feed>
