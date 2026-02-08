@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-08T02:05:43+09:00</updated>
+  <updated>2026-02-08T10:05:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvl2b4wtu</id>
+    <title>＆Hulu_[「バレンタイン特集」恋や青春、チョコレートにまつわるオススメ作品を大特集！青春ドラマや魔法のファンタジーなど甘い作品からビターな作品までご紹介]</title>
+    <updated>2026-02-08T02:40:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_02時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvl2b4wtu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                バレンタインに、どんな思い出がありますか？&lt;br&gt;今回は恋や青春、チョコレートにまつわるバレンタインにオススメの作品を大特集！&lt;br&gt;紹介するのは「甘酸っぱい青春モノ」、「お菓子と魔法のファンタジー」、「リアルな恋に悶絶！予測不能なリアリティショー」、「恋のバイブル！普及のハリウッド・ロマンス」、「運命にときめく極上ラブストーリー」の５つのテーマ。懐かしい作品から最近の作品まで余すことなくご紹介します！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvl2b4wtu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2cwvppvn</id>
     <title>CUT.編集された世界_[#1「最高で最低な夜」]</title>
