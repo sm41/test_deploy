@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-08T18:05:43+09:00</updated>
+  <updated>2026-02-08T20:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eps6h613du</id>
+    <title>3年B組金八先生(第7シリーズ)_[第10回 中３の父小６の母]</title>
+    <updated>2026-02-08T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps6h613du.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;クリスマスも近いある夜、遠藤先生（山崎銀之丞）ら夜回り隊は暗い路地で抱き合ってキスをする幼いカップルを見つける。２人はなんと小学６年生だった。翌日、国井教頭（茅島成美）が２人の通う小学校へ報告に行くと、偶然にもクラス担任は桜中学の卒業生・伊丸岡ルミ（松下恵）だった。クラスに妊娠しているらしい女子がいて、その対応に困っていると言う。そんな中、３年B組の伸太郎（濱田岳）が金八（武田鉄矢）に相談があると自宅にやってくる。また３Bでは、ドラッグの話をめぐって孝太郎（竹内友哉）としゅう（八乙女光）が殴り合いのケンカになり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eps6h613du"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjli0ekb5</id>
     <title>買われた男_[#5 26年男性経験ナシ‼結婚直前に風俗で初めての…]</title>
@@ -1608,85 +1648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epgcaafyoh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcswduiss</id>
-    <title>フランケンシュタインの恋_[第1話]</title>
-    <updated>2026-02-06T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrg0t5dra.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ フランケンシュタインの恋
-                &lt;a href="https://tver.jp/series/srrg0t5dra" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcswduiss.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;津軽(二階堂ふみ)は、キノコの研究に没頭する大学生。同じ研究室の稲庭(柳楽優弥)からは、菌類女子“キンジョ”というあだ名を付けられるほどキノコにのめり込んでいた。ある日、キノコを探して森に入った彼女は、怪物(綾野剛)と出会う。｢僕は人間じゃない｣と謎めいた言葉を口にし、自分は人間とは暮らせないと打ち明ける怪物を津軽は森から連れ出す。ずっと孤独に生きてきた怪物は、初めて人間と触れ合うことになり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcswduiss"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbkp2j03l</id>
-    <title>偽装の夫婦_[#02]</title>
-    <updated>2026-02-06T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpixgruya.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 偽装の夫婦
-                &lt;a href="https://tver.jp/series/srpixgruya" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月06日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbkp2j03l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;超治(沢村一樹)の「偽装結婚してほしい」という頼みを断ったヒロ(天海祐希)。今度は、シングルマザーのしおり(内田有紀)がヒロにプロポーズ?!ヒロは、新しい住まいを見つけるまでは超治の家へ。そこへ華苗(富司純子)がやってくる。ヒロは華苗に、超治とは結婚できないと告げ家を出ていく。諦められない華苗は、ヒロの親戚に会いたいと言い、ヒロは申し出を断りきれず、超治と華苗を連れ叔母の照乃(キムラ緑子)を訪ね…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbkp2j03l"/>
   </entry>
 </feed>
