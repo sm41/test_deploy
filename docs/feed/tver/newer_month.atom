@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-09T20:05:43+09:00</updated>
+  <updated>2026-02-09T22:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnusi6uu7</id>
+    <title>ヤンドク！_[第5話 パリピセレブドクターVSヤンキードクター]</title>
+    <updated>2026-02-09T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月16日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月9日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnusi6uu7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                湖音波（橋本環奈）は、岐阜の病院に勤務していた頃に診察した患者・宮村亜里沙（湯山新菜）のことを思い出す。亜里沙は家族で岐阜旅行中に頭蓋咽頭腫を発症し来院。長い治療期間を見据え、湖音波は亜里沙の自宅近くで通院に便利なお台場湾岸医療センターの中田（向井理）に紹介状を書いたのだった。湖音波が調べたところ、亜里沙は中田が手術した後に別の病院へ転院し、半年前に亡くなっていた。そのことを中田に尋ねると、手術に問題はなく、亡くなったことも知らないという。湖音波が去ると、表情を変えた中田は鷹山（大谷亮平）に電話をかけ…。&lt;br&gt;&lt;br&gt;そんな中、常に病床が埋まっている整形外科に特別室を設置することが決まり、工事期間中、整形外科のスタッフも脳神経外科のスタッフルームを使用することに。観葉植物や間接照明など荷物が運び込まれる中、整形外科の医師・岩崎沙羅（宇垣美里）と看護師・佐々木花音（鈴木ゆうか）がやってくる。SNSにセレブ生活を投稿する沙羅は12万のフォロワーを抱え、彼女に憧れて受診する患者も多いという。そんないかにも“パリピ”な沙羅の振る舞いにイラつく湖音波。&lt;br&gt;&lt;br&gt;頚椎症により沙羅の診察を受けていた真由（工藤美桜）は、リハビリ中に水を飲んで激しくむせてしまう。その姿を見た湖音波はMRI画像を確認し、別の病気の可能性を指摘。「脳外には関係ない」と突っぱねる沙羅だが、湖音波はもう一度MRIを撮るよう訴える。すると、真由の脊髄の周りには異常な血管の影が。脊髄動静脈奇形ではないかと言う湖音波に、沙羅はあっさりと「脳外案件じゃん。そっちに任せた」と言い放つ。湖音波は、真由に脳神経外科への転科について説明するが、沙羅に憧れている真由は不満をあらわにする…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnusi6uu7"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epaczwbwba</id>
     <title>孤独のグルメ Season1_[第2話 豊島区駒込の煮魚定食]</title>
@@ -448,85 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvl2b4wtu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2cwvppvn</id>
-    <title>CUT.編集された世界_[#1「最高で最低な夜」]</title>
-    <updated>2026-02-08T01:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgo3qfiie.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ CUT.編集された世界
-                &lt;a href="https://tver.jp/series/srgo3qfiie" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月7日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2cwvppvn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                映画サークルで監督を務める真中透（窪塚愛流）は、仲間にも恵まれ、かわいい彼女もいる、順風満帆な大学生活を送っていた。しかし、その暮らしの中で時折“ある違和感”を覚えることが…。&#13;&lt;br&gt;ある日の朝、目を覚ますと自宅の部屋がメチャクチャに荒れた状態に!!激しく混乱する真中だが、何があったのかまったく思い出せない。&#13;&lt;br&gt;その後、後輩の星野沙蘭（奥山葵）に呼び出され大学に駆けつけると、とんでもない事実を告げられる！&#13;&lt;br&gt;聞けば、夜中に外で大暴れする真中の姿がSNSで拡散されまくっているという！&#13;&lt;br&gt;これもまったく身に覚えのない真中。しかし、星野のスマホに触れた瞬間、飛んでいた記憶が舞い戻る。&#13;&lt;br&gt;さらに、彼女である桜井美月（莉子）に関する衝撃の事実も発覚。動揺を隠せない真中は急いで美月のもとに駆けつけるのだが…&#13;&lt;br&gt;一体、真中の身に何が起きているのか!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2cwvppvn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epynfclv4u</id>
-    <title>横浜ネイバーズ Season1_[第5話 薬と毒]</title>
-    <updated>2026-02-08T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
-                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月08日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月14日(土)_23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月7日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epynfclv4u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                神奈川県警捜査一課の刑事・欽太（原嘉孝）は中華街の路地を急ぎ足で歩いていた。&lt;br&gt;ふと視線の先にある女の姿が。そこには13年前から行方不明のロン（大西流星）の母親・南条不二子（伊藤歩）に似た女が立っていた。欽太は追いかけるも女を見失ってしまい―――&lt;br&gt;&lt;br&gt;ロンのもとに、見知らぬ男・石森（芳村宗治郎）から電話が入る。何者かに夜道で襲われ頭を七針縫う大ケガを負ったらしく、犯人を見つけてほしいと言う石森。さらにヨコ西の住人・タカシ（石山順征）からも祖母が闇金業者・里見（増田修一朗）に騙されていると相談されるロン。&lt;br&gt;&lt;br&gt;そんな中、石森が空き巣に入られる。盗まれたのは女性アイドルグループ・花ノ園女子学園、通称ハナジョのグッズ一式だった。石森は転売屋だったのだ。凪（紺野彩夏）、ヒナ（平祐奈）に反対されながらも、ロンはハナジョの運営スタッフ・刈田（金澤美穂）から、転売屋と揉めていたという古参ファン・ピロ吉（今井朋彦）の情報を得る。そしてピロ吉に会いに行こうとする中、ロンにも危機が迫り――！？&lt;br&gt;&lt;br&gt;ファンの思いは「薬」か「毒」か！？&lt;br&gt;世事に疎いロンが推し活の尊さを知る！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epynfclv4u"/>
   </entry>
 </feed>
