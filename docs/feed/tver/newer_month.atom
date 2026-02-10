@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-10T07:31:14+09:00</updated>
+  <updated>2026-02-10T10:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epny1dgw8t</id>
+    <title>三国志　秘密の皇帝_[第34話]</title>
+    <updated>2026-02-10T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月17日(火)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月10日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epny1dgw8t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                曹操（そうそう）は、烏桓（うがん）討伐に行く前に司馬（しば）家を除かねばならないと郭嘉（かくか）に話す。曹操の命に逆らえず、郭嘉は満寵（まんちょう）を楊修（ようしゅう）と共に温（おん）県に送る。一方の劉平は、司馬家が危機に瀕していることを崔琰（さいえん）から報告される。動揺した劉平（りゅうへい）に、伏寿（ふくじゅ）が袁紹（えんしょう）に内通していた者の名簿を差し出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epny1dgw8t"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo7347uzu</id>
     <title>親友の「同棲して」に「うん」て言うまで_[第５話・あの頃の２人に戻るまで]</title>
