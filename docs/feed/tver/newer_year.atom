@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-10T18:06:29+09:00</updated>
+  <updated>2026-02-10T20:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epc95j1l8l</id>
+    <title>3年B組金八先生(第7シリーズ)_[第12回 事件続発３B混乱]</title>
+    <updated>2026-02-10T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc95j1l8l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;飛び降り自殺を図り、一命はとりとめた崇史（鮎川太陽）だが、意識は戻らず予断を許さない容態だ。金八（武田鉄矢）は、病院から学校へ戻る前にしゅう（八乙女光）の家に立ち寄るが…。その頃、桜中学には崇史の件でPTAからの問い合わせが殺到し、職員はその対応に追われていた。３年B組の生徒たちの動揺も激しい。金八は職員だけにしゅうの両親が覚せい剤の常用と所持で逮捕されたことを報告した。職員の一部や生徒たちの中には、崇史の飛び降りとしゅうが何か関連しているのではないかと疑問を持つ者も出てくる。その後、ふさぎこんでいたしゅうの様子に異変が現れ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epc95j1l8l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj22zb2xt</id>
     <title>サ道2021_[第六話「京都 銭湯めぐり」青春の面影にととのう]</title>
@@ -1768,85 +1808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprfrfll0v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epre0pf7tw</id>
-    <title>TWO WEEKS_[#7　新章突入！逆襲開始！悪を暴く秘策とは]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2nidz9z3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ TWO WEEKS
-                &lt;a href="https://tver.jp/series/sr2nidz9z3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epre0pf7tw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結城（三浦春馬）がデジカメを手に入れ、その動画を見た楓（芳根京子）は衝撃のあまり放心状態に。すると次の瞬間、灰谷（磯村勇斗）が2人に襲いかかる。&lt;br&gt;すみれ（比嘉愛未）から結城が8年前と今回の事件で無実の罪を着せられ、命をも狙われていると聞いた有馬（三浦貴大）は、すみれが元恋人を案じていることにショックを受ける。&lt;br&gt;そんな中、柴崎（高嶋政伸）が結城の友達を名乗りはなの病室に侵入。薄汚いやり方に、はなを利用されたと怒り心頭の有馬は柴崎のオフィスへ向かうが…。&lt;br&gt;一方、柴崎に対抗する手立てを失った結城は、楓に出頭すると告げる。しかし、そこにはある思惑があった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epre0pf7tw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epq97n7xvt</id>
-    <title>サキ_[#9 セレブ妻を狂わす疑惑の真珠]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp7t96u2k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サキ
-                &lt;a href="https://tver.jp/series/srp7t96u2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq97n7xvt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                サキに心を許し始めた恵（富田靖子）は、息子の和繁（庄野崎謙）にサキと別れろと言った夫・須藤（高嶋政伸）の真意がわからず疑念を抱く。サキはそんな恵に信じることが大切と説き、ますます信頼を深めていく。サキに不気味さを感じ始めていた須藤は、和繁と別れるよう説得しようとサキに連絡をとる。一方、中川（姜暢雄）の自殺と本田（岡田義徳）の殴打事件は、同じ看護師の女が仕掛けたのではないかと推理する直美（内田有紀）と岩城（石黒英雄）に、サキが共通点だと告げられない隼人（三浦翔平）は、サキと話そうと訪れた病院で須藤と出会い…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epq97n7xvt"/>
   </entry>
 </feed>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-10T18:06:29+09:00</updated>
+  <updated>2026-02-10T20:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epiongav89</id>
+    <title>孤独のグルメ Season8_[第10話 ぶりの照焼きとクリームコロッケ]</title>
+    <updated>2026-02-10T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月10日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiongav89.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は商談相手の内田良夫（きたろう）が待つ豪徳寺へ。依頼された書斎デスクのカタログを渡すと、内田は「もの凄いヤリ手と聞いている」などと五郎を煽りだし……。何かと面倒な内田との商談を終え疲れた五郎は、豪徳寺で早めの晩飯を食べて帰ることに。山下商店街を歩いていると「お食事処」ののぼりを発見。魚や洋食メニューが書かれた黒板と和なのか洋なのか“読めない”店が気になるが入口には「CLOSED」の札が……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epiongav89"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epny1dgw8t</id>
     <title>三国志　秘密の皇帝_[第34話]</title>
