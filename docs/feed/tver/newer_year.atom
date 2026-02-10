@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-10T16:06:29+09:00</updated>
+  <updated>2026-02-10T18:06:29+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epj22zb2xt</id>
+    <title>サ道2021_[第六話「京都 銭湯めぐり」青春の面影にととのう]</title>
+    <updated>2026-02-10T17:00:04+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月10日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj22zb2xt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;大阪の実家に帰省中のナカタアツロウ（原田泰造）は、父の遺品整理中に見つけたメモ帳の中に京都にある数々の銭湯の名前とスケッチが書かれているのを発見する。母・ヒロコ（松原智恵子）から「父が学生時代からよく通っていた銭湯が京都にある」と聞いたナカタは、実際に巡ってみることに。サウナ室が二重構造で作られた珍しい施設や窓が多く開放的な雰囲気の施設などスケッチと見比べながら京都のサウナ施設を回ったナカタは、サウナ室で蒸されながら父のことを想っていた……　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epj22zb2xt"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epuc6i8h1q</id>
+    <title>サ道2021_[第五話「大阪 ニュージャパン梅田」サウナの世界遺産でととのう]</title>
+    <updated>2026-02-10T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月10日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuc6i8h1q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;久しぶりに大阪の実家へ帰省したナカタアツロウ（原田泰造）は、母・ヒロコ（松原智恵子）に頼まれ父の遺品整理を手伝うことに。棚の引き出しを整理し始めると、奥に年季の入った謎のノートを発見する。食べ物屋の店名やイラスト、風景のスケッチが書かれている中、サウナや銭湯のメモ書きを発見！　ナカタは、その中に書かれていた梅田に戦後間もない頃からあり歴史を感じることが出来る施設を訪れる。浴場に入り洗い場を探すために館内マップを見たナカタは珍しい構造に驚く！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuc6i8h1q"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkk0soubk</id>
     <title>大好き！五つ子4_[第17回 おばさんママ?!]</title>
@@ -1768,245 +1848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epq97n7xvt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epopgyoxc0</id>
-    <title>TWO WEEKS_[#4　愛娘に迫る魔の手！逃亡劇最大のピンチ！]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2nidz9z3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ TWO WEEKS
-                &lt;a href="https://tver.jp/series/sr2nidz9z3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epopgyoxc0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結城（三浦春馬）は、柴崎（高嶋政伸）を追い詰めるための手立てを失い途方に暮れる。そんな中、公園で若者たちに絡まれている春川（柿澤勇人）を助ける。住居を転々としながら生活をする春川の手助けを受け、手術の日まで人目につかない離島に身を潜めようと考えるが…。&lt;br&gt;その頃、楓（芳根京子）は、8年前に結城の婚約者だったすみれ（比嘉愛未）の存在にたどり着く。しかし同じころ、柴崎もまた、すみれの居場所を突き止めていた。&lt;br&gt;一方、結城の身辺を調べていた有馬（三浦貴大）は、結城に接触したという女性がすみれで、結城こそがはなのドナーなのではないかと疑いを抱き始め…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epopgyoxc0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoaogm5gu</id>
-    <title>美しい隣人_[#10 勝つ女]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwt17t4ds.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 美しい隣人
-                &lt;a href="https://tver.jp/series/srwt17t4ds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoaogm5gu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                沙希（仲間由紀恵）が本当の母親は自分だと駿（青山和也）に思い込ませていたことを知った絵里子（檀れい）は激怒。姿を消した沙希の居場所を探し回る。しかし、雅彦（高知東生）にも行方はわからないという。&lt;br&gt;絵里子は真由美（三浦理恵子）の店で開かれたホタルの会に出席。沙希を探していると一同に明かし、以前の朗らかな絵里子とは別人のようなその態度に、異様なものを感じる真由美ら。そして、慎二（渡部篤郎）との口論の末、ついに心労で倒れてしまう絵里子。その代わりにと、理生（南圭介）が駿の面倒をかって出る。しかし、見舞いに訪れた加奈（鈴木砂羽）から、理生が急に店を休んだと聞いた絵里子は…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epoaogm5gu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo2wbojku</id>
-    <title>TWO WEEKS_[#3　新たなる殺人事件！2人の男波乱の対峙]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2nidz9z3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ TWO WEEKS
-                &lt;a href="https://tver.jp/series/sr2nidz9z3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo2wbojku.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                雑木林で警察に追い詰められた結城（三浦春馬）は、謎の男・灰谷（磯村勇斗）に窮地を救われる。なんとかその場から逃げ出した結城は、一人暮らしの老女・北村義江（倍賞美津子）の家にたどり着く。結城が世間を騒がせている逃亡犯だと気づいた義江は…。 &lt;br&gt;その頃、結城の行方を追っていた楓（芳根京子）は、雑木林で灰谷に遭遇し見覚えのあるその顔に表情が凍りつく。&lt;br&gt;一方、すみれ（比嘉愛未）は結城が殺人を犯し、そのうえ護送車から脱走したと知りがくぜんとしていた。&lt;br&gt;今回の事件の鍵が、殺された柏木愛（立花恵理）のデジカメに隠されていると悟った結城は、受け渡しのために同居人のサトル（森永悠希）と会う約束をするが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo2wbojku"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo1jkwgbc</id>
-    <title>TWO WEEKS_[#2　明かされる真犯人！迫る包囲網と謎の男]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2nidz9z3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ TWO WEEKS
-                &lt;a href="https://tver.jp/series/sr2nidz9z3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo1jkwgbc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結城（三浦春馬）が殺害したとされるホステス・柏木愛（立花恵理）を協力者として、実業家・柴崎要（高嶋政伸）を内偵させていた楓（芳根京子）.は、彼女の死の真相を探ろうとしていた。するとひょんなことから、愛の遺品の中に以前渡したはずのデジカメがないことに気づき、そこに柴崎の弱みが隠されているのではないかと考える。&lt;br&gt;その頃、検問をかいくぐって逃亡したものの有馬（三浦貴大）たち警察に追い詰められ行き場を失った結城は、人気のない場所に身をひそめながら8年前のことを思い出していた。脳裏にある男の顔が思い浮かぶが、次の瞬間、巡回中の警備員に見つかり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo1jkwgbc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmmn9419j</id>
-    <title>TWO WEEKS_[#5　因縁の男と直接対決！複雑に絡む三角関係]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2nidz9z3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ TWO WEEKS
-                &lt;a href="https://tver.jp/series/sr2nidz9z3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmmn9419j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                有馬（三浦貴大）の発砲により、結城（三浦春馬）が海へ転落した。警察は必死になって行方を追うが、翌日になっても足取りはつかめず、水死の可能性も視野に入れ始める。&lt;br&gt;港に打ち上げられ、室岡峻治（村上淳）親子に助けられた結城は室岡の顔を見て、9年前のあることを思い出しハッとする。&lt;br&gt;その頃、結城の安否が分からず絶望するすみれ（比嘉愛未）のもとに、楓（芳根京子）が訪ねてくる。楓にわずかな望みをかけたすみれは、結城が電話で無実を訴えていたことを明かし、はな（稲垣来泉）のために、結城を助けてほしいと懇願。すみれの話から、楓は結城が逃げながら冤罪を晴らそうとしているのではないかと考え…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmmn9419j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmfj0vtk7</id>
-    <title>サキ_[#6 弱者の逆襲―追いつめられた悪女]</title>
-    <updated>2026-02-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp7t96u2k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サキ
-                &lt;a href="https://tver.jp/series/srp7t96u2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmfj0vtk7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                サキ（仲間由紀恵）の周辺で、野村（萩原聖人）と中川（姜暢雄）の二人が自殺していることを知った隼人（三浦翔平）は、サキが間接的な殺人を犯しているのではないかという疑惑を抱き、ついにサキにぶつける。一方、サキに励まされ自信を取り戻した本田（岡田義徳）は、仕事場で積極的に意見し上司に褒められるが、同僚の反感を買い、これまで以上にひどく殴られてしまう。弱音を吐く本田にサキは、意外にも本気で叱咤し勇気づけるのだった。サキの言葉で自信を取り戻し、見違える変貌をとげていく本田。そんな中、仕事場で再び嫌がらせを受けた本田は思いもよらぬ行動に…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmfj0vtk7"/>
   </entry>
 </feed>
