@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-11T08:02:18+09:00</updated>
+  <updated>2026-02-11T10:06:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -728,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epznsrx32j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epad5h5272</id>
-    <title>笑うハナに恋きたる_[第7話 親の思い、子知らず]</title>
-    <updated>2026-02-09T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 笑うハナに恋きたる
-                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月16日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月8日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epad5h5272.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ハナの祖母はジェイの母親と祖母を訪ねて、ハナとジェイの結婚について話し合う。2人の結婚どころか交際にすら反対のジェイの祖母をよそに、ハナの祖母が一方的に話をまとめて、帰宅の途につく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epad5h5272"/>
   </entry>
 </feed>
