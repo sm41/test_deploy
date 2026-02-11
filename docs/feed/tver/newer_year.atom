@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-11T16:05:33+09:00</updated>
+  <updated>2026-02-11T18:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epflqnk7jq</id>
+    <title>サ道2023SP_[サ道2023SP]</title>
+    <updated>2026-02-11T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2023SP
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月11日(水)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epflqnk7jq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                世の中にようやくいつもの日常が戻ってきた2023年冬。ナカタ（原田泰造）は、急遽偶然さん（三宅弘城）とイケメン蒸し男（磯村勇斗）をホームサウナの「サウナ北欧」に呼び出す。ナカタは“ある計画”を2人に提案していたのだ。テンションが上がる3人組だったが、蒸し男には一つ気がかりがあって…。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epflqnk7jq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eps5gemulx</id>
     <title>大好き！五つ子4_[第18回 恋のトラブル]</title>
@@ -1328,85 +1368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep4f0daad6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eple8e33ry</id>
-    <title>サ道_[第6話 サウナの聖地でととのう]</title>
-    <updated>2026-02-09T17:00:03+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サ道
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月09日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eple8e33ry.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/2（月）17:00～&#13;&lt;br&gt;#3,#4：2/5（木）17:00～&#13;&lt;br&gt;#5,#6：2/9（月）17:00～&#13;&lt;br&gt;#7,#8：2/12（木）17:00～&#13;&lt;br&gt;#9,#10：2/16（月）17:00～&#13;&lt;br&gt;#11,#12：2/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ナカタアツロウ（原田泰造）は、ある日を境にサウナ中毒になってから、全国のサウナに足を運んでいる。『サウナ北欧』でいつものように休憩していたナカタ。するとわざわざマイボトルから水を飲み始めた偶然さん（三宅弘城）。その様子を隣で見ていたイケメン蒸し男（磯村勇斗）は、ある事に気がつく！　サウナーにとっての聖水とは……!?　そして、水風呂の概念が変わると噂の“サウナの聖地”を目指し、ナカタは静岡県へ向かうことに　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eple8e33ry"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp6n83f9r</id>
-    <title>サ道_[第5話 テントサウナでととのう]</title>
-    <updated>2026-02-09T17:00:02+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サ道
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月09日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp6n83f9r.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/2（月）17:00～&#13;&lt;br&gt;#3,#4：2/5（木）17:00～&#13;&lt;br&gt;#5,#6：2/9（月）17:00～&#13;&lt;br&gt;#7,#8：2/12（木）17:00～&#13;&lt;br&gt;#9,#10：2/16（月）17:00～&#13;&lt;br&gt;#11,#12：2/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ナカタアツロウ（原田泰造）は、ある日を境に全国のサウナに足を運んでいる。珍しい“テントサウナ”がある施設へとやってきたナカタは、浴場の独特な雰囲気に戸惑いつつも、まずは通常のサウナへと入り、水風呂へ向かう。するとそこには何やら変わったものが……そして満を持してお目当ての“テントサウナ”へ行こうとするが、目の前には強面の男性がビールを飲みながら煙草を吸っていた……果たして無事にととのうことができるのか？　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp6n83f9r"/>
   </entry>
 </feed>
