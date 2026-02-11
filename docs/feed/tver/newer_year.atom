@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-11T18:05:33+09:00</updated>
+  <updated>2026-02-11T20:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epskq77chs</id>
+    <title>3年B組金八先生(第7シリーズ)_[第13回 命とは何だろう…？金八先生、涙の授業]</title>
+    <updated>2026-02-11T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月11日(水)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epskq77chs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;崇史（鮎川太陽）の自殺未遂を発端に、ショックのあまり学校を休む生徒、しゅう（八乙女光）の家庭事情をウワサする生徒、騒ぎを起こされると受験に迷惑だと言う生徒など、まとまりかけた３年B組が、またバラバラになってしまった。翌日、金八（武田鉄矢）は空席が目立つ教室で、崇史の容態には変化が見られないことを伝え、いつものように出席をとり始める。今日の相田みつをの言葉は「夢はでっかく　根はふかく」。生徒１人１人に、あなたの夢は何かと尋ねた。その授業はやがて、「命の授業」へと続いていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epskq77chs"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epflqnk7jq</id>
     <title>サ道2023SP_[サ道2023SP]</title>
@@ -1288,85 +1328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0nh6cuy4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph7ial6a6</id>
-    <title>3年B組金八先生(第7シリーズ)_[第11回 新年スペシャル 鶴本直・決断の旅立ち]</title>
-    <updated>2026-02-09T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph7ial6a6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;新しい年を迎え、３年B組の生徒たちが来月に控えた高校受験の準備態勢に入っている中、金八（武田鉄矢）のところに３年B組の鈴木康二郎（薮宏太）がやってきた。名前も知らない女性に恋してしまったという。そんな中、桜中学に卒業生・鶴本直（上戸彩）が現れた。性同一性障害の悩みを抱えている直は、自らの決断を金八に報告する。一方、父親の事情で受験校の変更を余儀なくされた崇史（鮎川太陽）は、偶然、しゅう（八乙女光）が母・光代（萩尾みどり）から暴力を受けるところを目撃してしまう。崇史はしゅうの幼なじみ・舞子（黒川智花）と一緒に、金八に相談することを決める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph7ial6a6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4f0daad6</id>
-    <title>隣の家族は青く見える_[第6話 動き出した運命の行方！！衝撃のラスト！！]</title>
-    <updated>2026-02-09T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr62h5ewqv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 隣の家族は青く見える
-                &lt;a href="https://tver.jp/series/sr62h5ewqv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月09日(月)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月16日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4f0daad6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：1月10日(土) ～ 2月28日(土)&lt;br&gt;#2：1月17日(土) ～ 2月28日(土)&lt;br&gt;#3：1月31日(土) ～ 2月28日(土)&lt;br&gt;#4：2月3日(火) ～ 2月10日(火)&lt;br&gt;#5：2月6日(金) ～ 2月13日(金)&lt;br&gt;#6：2月9日(月) ～ 2月16日(月)&lt;br&gt;#7：2月12日(木) ～ 2月19日(木)&lt;br&gt;#8：2月15日(日) ～ 2月22日(日)&lt;br&gt;#9：2月18日(水) ～ 2月25日(水)&lt;br&gt;#10：2月21日(土) ～ 2月28日(土)&lt;br&gt;&lt;br&gt;奈々（深田恭子）と大器（松山ケンイチ）のもとに、聡子（高畑淳子）や健作（春海四方）と一緒にお宮参りに行っていた琴音（伊藤沙莉）夫婦がやってきた。琴音の娘・真奈を抱かせてもらい、思わず涙ぐむ奈々。大器から不妊治療のことを打ち明けられていた聡子は、そんな奈々の姿を見ていられない。&lt;br&gt;ちひろ（高橋メアリージュン）は、亮司（平山浩行）の息子・亮太（和田庵）と上手くコミュニケーションが取れずにいた。肝心の亮司は親バカ状態で、毎週のように亮太におもちゃを買い与えていた。&lt;br&gt;深雪（真飛聖）は、受験を控えた長女・優香（安藤美優）の成績が落ちていることを知る。深雪は、学習塾の個別指導を増やすことにするが・・・。&lt;br&gt;一方、朔（北村匠海）は、渉（眞島秀和）のために何かをしたい、という思いが空回りし、失敗続きだった。渉は、気持ちは嬉しいが得意じゃないことはする必要がない、と朔に告げる。そんな折、渉は、母親のふみ（田島令子）が骨折しても連絡すらしてこなかったことを知り、久しぶりに実家を訪れることにする。朔は、事務所の後輩のふりをする、といって半ば強引に渉について行く。&lt;br&gt;奈々は、リセットする度に落ち込みながらも、その思いをひとりで抱えて明るく振る舞っていた。大器は、そんな奈々に対して何もしてあげられないことに悩み・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『隣の家族は青く見える』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4f0daad6"/>
   </entry>
 </feed>
