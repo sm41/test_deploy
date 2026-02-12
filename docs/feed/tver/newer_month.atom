@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-12T18:06:10+09:00</updated>
+  <updated>2026-02-12T20:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfw27ksfz</id>
+    <title>最後の雨が降るとき_[第1話　忘れ去られた神たち]</title>
+    <updated>2026-02-12T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月12日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_08月02日(日)_19時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月12日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfw27ksfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                旅行会社で働く謝天娣(シエ・ティエンディ)は、祭司を務める祖母の影響でとても信心深かった。そんな天娣は、困った時は神に助けを求める歌を歌った。すると不思議なことに、状況が良くなるのだ。これは天娣の守護神、雨神(オラド)のおかげだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfw27ksfz"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eprc7lbfrn</id>
+    <title>孤独のグルメ Season9_[第1話 神奈川県川崎市宮前平のひれかつ御膳と魚介クリームコロッケ]</title>
+    <updated>2026-02-12T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season9
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月12日(木)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月26日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月12日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprc7lbfrn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は数年振りに横浜・白楽のキッチン友に訪れ空腹を満たす。満腹でボーッとする中、滝山に紹介された商談相手・村井美咲（りょう）が待つ神奈川県の宮前平に向かう。商談中に突然、「滝山さんが言っていた通り」となぜか話が脱線し、村井が独身の五郎にお互いフリーだと突然アプローチをかけてくる。五郎は愛想笑いで誤魔化し、なんとか商談を終える。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprc7lbfrn"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0z5msm5u</id>
     <title>三国志　秘密の皇帝_[第35話]</title>
