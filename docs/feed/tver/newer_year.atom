@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-12T10:05:10+09:00</updated>
+  <updated>2026-02-12T12:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5pxl0o1t</id>
+    <title>大好き！五つ子4_[第19回 モー!!やめたァ！]</title>
+    <updated>2026-02-12T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月12日(木)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月26日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5pxl0o1t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;いよいよリチャードとカレンがやってくるのが翌日に迫った。一生懸命英語の勉強をし、学芸会で英語の歌を歌うのを目標にしていた紀香（荒井千歩）は、道でぶつかってしまった外国人に英語で話しかけられたが、全く会話ができず…。さらに、帰宅し紀香がしょげていたところ、それを知らない拓也（谷野欧太）が良介（新井康弘）に、外国人と英語で話していた中学生がかっこよかったと話すのを聞いてしまった。落ち込んだ紀香はご飯も食べようとせず…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5pxl0o1t"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eptjgjef5q</id>
     <title>R-17_[karte 7　「何故手を出すのか？」]</title>
@@ -848,125 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epkk0soubk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgpa21fqo</id>
-    <title>体感予報_[第六話《ドラマシャワー》]</title>
-    <updated>2026-02-10T03:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcq4gvaks.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 体感予報
-                &lt;a href="https://tver.jp/series/srcq4gvaks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_03時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月17日(火)_03時24分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgpa21fqo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                熱帯低気圧が発生し台風へと発達する恐れがあるこの季節。瀬ヶ崎（樋口幸平）は自分の命令を無視して出て行った葉（増子敦貴）に不信感を抱き尾行することに。そして葉が万さん（松村沙友理）のマンションに入っていく姿を目撃してしまう。一方、葉は万さんから自分と瀬ヶ崎をモデルにした漫画「推しカレ」の原稿を見せられ、大学生時代の自分たちを思い返していた。初めて瀬ヶ崎を見かけた時に胸に走った衝撃を……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgpa21fqo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epubpql387</id>
-    <title>時をかけるな、恋人たち_[#7 初恋ラブレター20年前の淡い記憶]</title>
-    <updated>2026-02-10T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryan07k4t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時をかけるな、恋人たち
-                &lt;a href="https://tver.jp/series/sryan07k4t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epubpql387.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                翔（永山瑛太）との恋の逃避行で、両親を結びつけることに成功した廻（吉岡里帆）は、自身のタイムトラベルが必然だったのではないかと考える。そこで、確証を得るため2003年に向かった2人は、初恋相手の諸星（柊木陽太）にラブレターを渡せず泣いている小学生の廻（稲垣来泉）の元へ。廻の記憶では、このとき隣でなぐさめ絵を描いてくれたお姉さんこそ、未来の自分だったのではないか…&lt;br&gt;ところが、廻は大人になって再会した諸星（ニシダ・ラランド）が、「手紙をもらって嬉しかった」と言っていたことを思い出す。過去と未来の矛盾に胸騒ぎを覚えた廻が少し前の時間に戻ると、宿敵のリリリー（夏子）が、捨てたラブレターを拾っていた！自分が書いた手紙こそが、未来を変えることにつながると気づいた廻は、ある辻褄合わせを思いついて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epubpql387"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epts8004xf</id>
-    <title>時をかけるな、恋人たち_[#9 時間犯罪者は誰？１年前のオフィスへ]</title>
-    <updated>2026-02-10T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryan07k4t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時をかけるな、恋人たち
-                &lt;a href="https://tver.jp/series/sryan07k4t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月10日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epts8004xf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                10年前に遡り、恋の終わりを見届けた廻（吉岡里帆）と翔（永山瑛太）は、今度こそ結ばれようと愛を誓い合う。しかし、2人の恋の逃避行はタイムパトロール隊の隊長・和井内（石田剛太）の知るところとなり、呼び戻されてしまう。&lt;br&gt;ところがお咎めはなく、廻の会社の上司である猿谷昇（岩谷健司）が、時間犯罪者と手を組んで金儲けをしているという事件報告だった。思えば、猿谷は突如として時代の先読みが上手くなったと思い返す廻。&lt;br&gt;早速2人が廻の勤務先に潜入すると、そこには廻と広瀬（西垣匠）の姿が。翔は距離の近い2人に嫉妬を覚える。&lt;br&gt;梓（田中真琴）もまた、廻と広瀬の仲睦まじい姿を見て落ち込んでいた。すると次の瞬間、さっき見た廻とは違うもう一人の廻の姿が！混乱する梓を前に、窮地に立たされた廻は…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epts8004xf"/>
   </entry>
 </feed>
