@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-12T06:59:06+09:00</updated>
+  <updated>2026-02-12T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0z5msm5u</id>
+    <title>三国志　秘密の皇帝_[第35話]</title>
+    <updated>2026-02-12T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月12日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月19日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月12日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0z5msm5u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                曹操（そうそう）を呼びつけた劉平（りゅうへい）は、自らも遠征に同行することを条件に司馬（しば）家を許してくれと言う。加えて、遠征には苦楽を共にした伏寿（ふくじゅ）も連れていくと話す劉平。曹操はかつてと違い臣下や皇后を思う皇帝に疑念を募らせるのだった。その頃、司馬（しば）家では緊迫した状況が続いていたが、ついに夜が明けて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0z5msm5u"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5wxtfw6d</id>
+    <title>L&amp;P_[第19話　勝負の道は長い]</title>
+    <updated>2026-02-12T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月12日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月12日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月11日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5wxtfw6d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                朱韻(ジュー・ユン）は李峋(リー・シュン）の高校時代の友人・一卓(イージュオ）に呼び出され、彼の過去を聞かされる。一方、高見鴻(ガオ・ジエンホン）は黎娜(リーナー）に想いを伝えようとする。卒業を控え、仲間たちが集まり未来を語り合う。笑顔と不安が交錯する中、それぞれの新たな道が始まろうとしていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5wxtfw6d"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epocsaveom</id>
     <title>私の夫は時給1,000円の大富豪_[#11「モラハラ家族、崩壊」]</title>
