@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-13T14:06:03+09:00</updated>
+  <updated>2026-02-13T16:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplb10q2my</id>
+    <title>風間公親―教場0―_[第1話 硝薬の裁き]</title>
+    <updated>2026-02-13T15:42:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srntiftazq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 風間公親―教場0―
+                &lt;a href="https://tver.jp/series/srntiftazq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_15時42分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplb10q2my.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★お気に入り登録で最新話を見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1 2/13(金) 15:42～3/18(水)&lt;br&gt;#2 2/16(月) 14:48～3/18(水)&lt;br&gt;#3 2/16(月) 15:42～3/18(水)&lt;br&gt;#4 2/19(木) ～2/25(水)&lt;br&gt;#5 2/22(日) ～2/28(土)&lt;br&gt;#6 2/25(水) ～3/3(火)&lt;br&gt;#7 2/28(土) ～3/6(金)&lt;br&gt;#8 3/3(火) ～3/9(月)&lt;br&gt;#9 3/6(金) ～3/12(木)&lt;br&gt;#10 3/9(月) ～3/15(日)&lt;br&gt;#11 3/12(木) ～3/18(水)&lt;br&gt;★“シェア”ボタンを使ってSNSで感想を共有しよう★&lt;br&gt;【FODプレミアムでは名作ドラマを好きなときに“イッキ見”！】&lt;br&gt;&lt;br&gt;2019年。地域課の制服警官だった瓜原潤史（赤楚衛二）は、ある事件の犯人を逮捕し、署長賞を受賞する。県警本部捜査一課・調整官の眞堂丈史（小林薫）は、瓜原に捜査一課への配置換えを命じ、風間からの連絡を待つよう告げた。&lt;br&gt;風間は、県警本部捜査一課の刑事指導官。キャリアの浅い新人刑事とバディを組み、実際の事件捜査を通じて刑事として必要なスキルを学ばせる任務に当たっている。刑事仲間はそれを「風間道場」と呼んでおり、瓜原は「風間道場」で実際の事件を通して刑事の基礎を叩き込まれることになったのだ。&lt;br&gt;そんな折、タクシーの乗客が刺殺される事件が発生する。殺されたのはホストクラブのオーナー・芦沢健太郎（久保田悠来）。芦沢は、女性と一緒にタクシーに乗車した。だが先に降りたその女性から、酔って寝てしまった芹沢を指定した場所まで送り届けるよう指示されたらしい。死んでいるのに気づいたのは、指示された場所で芦沢を下ろそうとしたときだという。瓜原は、風間からタクシー運転手の話を聞くよう命じられる。運転手は、芦沢が「旅の記録だ」といって女性にタブレットの画像を見せていたと証言していた。風間の助言もあり、瓜原がタクシー会社を調べると日中弓（内田理央）という女性が容疑者として浮かび上がる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplb10q2my"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz7gvbzep</id>
     <title>過保護のカホコ_[第4話]</title>
