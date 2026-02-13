@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-13T20:06:03+09:00</updated>
+  <updated>2026-02-13T22:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epiohb4b4g</id>
+    <title>副会長の主なお仕事_[チャンネル、はじめました]</title>
+    <updated>2026-02-13T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月27日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiohb4b4g.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「生徒会の活動が見えない」という投書が届き、顧問の上條真由子(黒沢ともよ)は灰屋と栗下に相談を持ちかける。これをチャンスと捉えた栗下は、“生徒会公式チャンネル”の開設を即決。緊張でぎこちない灰屋と、妙にノリノリな栗下が挑む初収録は、なぜか「備品紹介」からスタートし、そのささやかな一言が校内の話題をさらっていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epiohb4b4g"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epwuj09hbc</id>
+    <title>元科捜研の主婦_[5話「犯人は鑑識官…24.5cmの足跡と180cmの容疑者!?」]</title>
+    <updated>2026-02-13T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwuj09hbc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                吉岡家で事件勃発!?緊急で仕事へ行く道彦（横山裕）に亮介（佐藤大空）が「嘘つき！」とご機嫌ななめに…詩織（松本まりか）は亮介の不機嫌な理由に仮説を立てるが…一方、道彦は男性の撲殺体が見つかった一軒家へ。指紋はないのに足跡が残っているなどの奇妙な点に加え、犯人像のある矛盾に気づく――。謎めいた殺人と、亮介の怒りの理由…浮かび上がってきたのは、親子の絆を繋ぐドーナツ!?詩織と道彦が真相解明に奔走する！　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwuj09hbc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epge574v8b</id>
     <title>三国志　秘密の皇帝_[第36話]</title>
