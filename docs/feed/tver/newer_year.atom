@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-13T12:06:03+09:00</updated>
+  <updated>2026-02-13T14:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2128,45 +2128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epdw75dcm1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5pxl0o1t</id>
-    <title>大好き！五つ子4_[第19回 モー!!やめたァ！]</title>
-    <updated>2026-02-12T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子4
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月12日(木)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月26日(木)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5pxl0o1t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;いよいよリチャードとカレンがやってくるのが翌日に迫った。一生懸命英語の勉強をし、学芸会で英語の歌を歌うのを目標にしていた紀香（荒井千歩）は、道でぶつかってしまった外国人に英語で話しかけられたが、全く会話ができず…。さらに、帰宅し紀香がしょげていたところ、それを知らない拓也（谷野欧太）が良介（新井康弘）に、外国人と英語で話していた中学生がかっこよかったと話すのを聞いてしまった。落ち込んだ紀香はご飯も食べようとせず…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5pxl0o1t"/>
   </entry>
 </feed>
