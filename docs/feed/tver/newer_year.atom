@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-13T07:32:59+09:00</updated>
+  <updated>2026-02-13T10:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1688,45 +1688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epskq77chs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epflqnk7jq</id>
-    <title>サ道2023SP_[サ道2023SP]</title>
-    <updated>2026-02-11T17:00:03+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サ道2023SP
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月11日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epflqnk7jq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                世の中にようやくいつもの日常が戻ってきた2023年冬。ナカタ（原田泰造）は、急遽偶然さん（三宅弘城）とイケメン蒸し男（磯村勇斗）をホームサウナの「サウナ北欧」に呼び出す。ナカタは“ある計画”を2人に提案していたのだ。テンションが上がる3人組だったが、蒸し男には一つ気がかりがあって…。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epflqnk7jq"/>
   </entry>
 </feed>
