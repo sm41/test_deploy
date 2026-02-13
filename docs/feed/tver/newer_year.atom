@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-13T16:06:03+09:00</updated>
+  <updated>2026-02-13T18:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkz3izho0</id>
+    <title>サ道2021_[第八話「上野 サウナ北欧」ととのいで逢えたら]</title>
+    <updated>2026-02-13T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkz3izho0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;会社員・村田が「サウナ北欧」のレストランで休憩していると以前サウナを通して出会ったナカタアツロウ（原田泰造）と偶然再会する。お互いの近況を話していると、突然村田の様子に異変が……。そこには仕事で罵倒されて以来苦手意識を持っているという猪又の姿が……！　必死に村田の姿を隠そうとするナカタだったが、声が大きな偶然さん（三宅弘城）が現れてしまい……。さらに、イケメン蒸し男（磯村勇斗）も合流！　そこで大学時代の先輩だと紹介されたのは、逃げていた相手・猪又だった！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkz3izho0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epbrjnv2bp</id>
+    <title>サ道2021_[第七話「兵庫 神戸サウナ＆スパ」神々と一緒にととのう]</title>
+    <updated>2026-02-13T17:00:02+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbrjnv2bp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;実家への帰省ついでに関西圏のサウナ施設へと行ってみる事にしたナカタアツロウ（原田泰造）は、全サウナーの憧れと名高い王者の風格漂う神戸のサウナ施設を訪れる。老舗のホテルのような雰囲気の受付に満足しながら浴場へ向かうと、そこには神々しさすら感じる開放的な空間が……。さらに、隅々まで行き届いた施設に感激する！　お目当てのロウリュサービスや塩サウナ、フィンランドサウナなど様々なサウナを楽しんだ後、レストランで一息ついていたナカタの前にあの人が現れる……！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbrjnv2bp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplb10q2my</id>
     <title>風間公親―教場0―_[第1話 硝薬の裁き]</title>
