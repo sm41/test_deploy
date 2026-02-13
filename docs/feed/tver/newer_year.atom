@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-13T18:06:03+09:00</updated>
+  <updated>2026-02-13T20:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9tjgng5v</id>
+    <title>3年B組金八先生(第7シリーズ)_[第15回 給食費未払い３年の両親]</title>
+    <updated>2026-02-13T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月27日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9tjgng5v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;受験シーズンは本番に突入した。金八（武田鉄矢）の息子・幸作（佐野泰臣）は、教育学部を受験すると金八に報告する。３年B組でも早くも数人の生徒は推薦入試で合格。学級委員の島健一郎（筒井万央）も推薦で合格を決めた１人なのだが、表情はなぜか暗い。給食の時間になっても食事に手をつけない健一郎を周囲は心配した。対照的に伸太郎（濱田岳）は給食費を払っていないにも関わらず、旺盛な食欲をみせている。その日の午後、健一郎が貧血で倒れた。金八は給食を食べない理由を聞くが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9tjgng5v"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkz3izho0</id>
     <title>サ道2021_[第八話「上野 サウナ北欧」ととのいで逢えたら]</title>
