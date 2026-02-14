@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-14T14:06:22+09:00</updated>
+  <updated>2026-02-14T16:05:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -408,45 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epwuj09hbc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epge574v8b</id>
-    <title>三国志　秘密の皇帝_[第36話]</title>
-    <updated>2026-02-13T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epge574v8b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                遠征の途中、大雨のために廬龍（ろりゅう）に駐屯することになった劉平（りゅうへい）は、曹節（そうせつ）を皇后にすることを郭嘉（かくか）から提案をされる。そんな折、ある一人の兵士が劉平に声をかけてきた。それは、いつか温（おん）県で命を助けた少年だった。人違いだと否定をし、足早にその場を後にした劉平だったが、その光景を遠くから見ていた曹丕（そうひ）は不信に思い…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epge574v8b"/>
   </entry>
 </feed>
