@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-14T10:06:22+09:00</updated>
+  <updated>2026-02-14T12:06:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epskv1gccm</id>
+    <title>ママはアイドル!_[第２回 結婚なんてゆるさない！]</title>
+    <updated>2026-02-14T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4g5vn2fy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ママはアイドル!
+                &lt;a href="https://tver.jp/series/sr4g5vn2fy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epskv1gccm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;&lt;br&gt;美穂（中山美穂）が水沢家で暮らすようになり数日経つが、晶（後藤久美子）は一向に彼女を受け入れようとしない。美穂は晶に、修一（三田村邦彦）を愛する気持ちを語り、彼との結婚を認めて欲しいと懇願する。だが、晶は美穂の話を全く聞き入れようとしない。&lt;br&gt;そんなある日、美穂は仕事が長引き、家族での約束事を守れなかった。修一は、美穂に対し、子供たちの母親となる自覚を持って欲しいと叱りつける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epskv1gccm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep22r41gag</id>
+    <title>ママはアイドル!_[第１回 ナカヤマです、ヨロシク！]</title>
+    <updated>2026-02-14T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4g5vn2fy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ママはアイドル!
+                &lt;a href="https://tver.jp/series/sr4g5vn2fy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep22r41gag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;&lt;br&gt;国民的アイドル・中山美穂（中山美穂）が突然結婚すると言い出した。相手は３人の子供がいる水沢修一（三田村邦彦）だと言う。思いも寄らなかった美穂の発言に、マネージャーの高橋清一（松澤一之）は驚愕。&lt;br&gt;一方、修一は子供たちに、中山美穂と結婚するという事実を言い渡す。特に、母親を亡くして以来、主婦代わりを務めてきた長女の晶（後藤久美子）は、信じ難い事実に猛反対で…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep22r41gag"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxipweynm</id>
     <title>ずっとあなたが好きだった_[VoL.３ 氷の微笑]</title>
@@ -1768,125 +1848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0dr9atzf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaej498n5</id>
-    <title>口説き文句は決めている_[第4話 疲れて帰った日]</title>
-    <updated>2026-02-13T02:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sred91cw5o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 口説き文句は決めている
-                &lt;a href="https://tver.jp/series/sred91cw5o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_02時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_02時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaej498n5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                クライアント先のコンペに自社の建築デザインを提案する香羽（北香那）だが、感触は宜しくない。選考に残るため、同僚たちと仕事に打ち込む。束の間の休憩タイム、同期の鈴井（長村航希）は家に帰ったら彼女がハンバーグを作って待っていると惚気てくる。香羽は仕事帰り、寒さに耐え歩きながらまた妄想をする。こんな時、私にも温かいシチューを作って待っていてくれる誰かがいたら…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaej498n5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzpqr80af</id>
-    <title>モンスター_[#9 価値の正体]</title>
-    <updated>2026-02-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6sfbw303.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ モンスター
-                &lt;a href="https://tver.jp/series/sr6sfbw303" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzpqr80af.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                逮捕された闇バイト組織のキングと粒来（古田新太）の接点が気になる亮子（趣里）はある美術館へ向かう。そこには、かつて世間を騒がせた「呪いの絵」が展示されており、絵画の前には一人の男（近藤芳正）がいた。&lt;br&gt;男によると絵画は、ゴッホの『ひまわり』の連作として見つかり世紀の大発見だと騒がれ、当時IT長者だった成沢（渡邊圭祐）が画商の岡村（松田陸）から過去最高額で買ったという。しかし、贋作を疑う声が沸き起こり不信感を抱いた成沢は訴えを起こす。&lt;br&gt;一方、杉浦（ジェシー）は亮子のデスクにあった事件ファイルを読んでいた。そこには亮子が美術館で聞いた話が記されていて、圭子（YOU）によると、圭子は岡村に弁護を依頼されたが、それを粒来に託したのだという。粒来と岡村が初めて顔を合わせた日、当時7歳だった亮子もいて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzpqr80af"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwf1kp6te</id>
-    <title>パーフェクトワールド_[#2　きみを守れない]</title>
-    <updated>2026-02-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfa9apdu1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パーフェクトワールド
-                &lt;a href="https://tver.jp/series/srfa9apdu1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwf1kp6te.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                樹（松坂桃李）の元担当看護士でヘルパーの長沢葵（中村ゆり）が現れ、樹が彼女に絶大な信頼を寄せていることを悟ったつぐみ（山本美月）は胸がざわつく。一方で、つぐみが樹の影響でインテリアデザイナーの勉強を始めたことを知った洋貴（瀬戸康史）もまた焦りを覚えていた。&lt;br&gt;そんなある日、つぐみから行きたいところがあると誘われた樹。着いた場所は体育館で、そこでは車いすバスケの練習が行われていた。恋愛同様、バスケももう一生しないと決めていた樹だが渋々参加することに…。&lt;br&gt;その頃、樹の母・文乃（麻生祐未）が息子の帰りを待っていた。樹とつぐみの仲むつまじい様子を見た文乃はつぐみが新しい恋人だと思い喜ぶ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwf1kp6te"/>
   </entry>
 </feed>
