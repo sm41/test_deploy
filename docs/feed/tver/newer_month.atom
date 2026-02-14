@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-14T09:51:37+09:00</updated>
+  <updated>2026-02-14T10:06:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epv8e5laxh</id>
+    <title>未来のムスコ_[第４話 父親探しに新展開！親子のピンチを救ったのは……]</title>
+    <updated>2026-02-14T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 未来のムスコ
+                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_22時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv8e5laxh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;「颯太くんは俺の子？」エスカレートする将生、さらに新たな“まーくん”の登場で、父親探しは大混乱！&lt;br&gt;新米ママ・未来は、芝居に育児にいっぱいいっぱいに…&lt;br&gt;&lt;br&gt;颯太（天野優）を自分の子どもではないかと疑い、未来（志田未来）を問い詰める将生（塩野瑛久）。&lt;br&gt;未来からきっぱり否定されるも、将生は颯太の保育園を訪ねて様子をうかがうなど、未来と颯太のことが気になって仕方がない。&lt;br&gt;その背景には、５年前の“ある夜”が関係しているようで…。&lt;br&gt;一方、新米ママとしての生活もままならず、気づけば手一杯になっていく未来。&lt;br&gt;そんな中、未来は呉服屋の花嫁衣装の広告で新郎役を務めることになった真（兵頭功海）から、新婦役のモデルを引き受けてほしいと相談され、挑戦してみることに。&lt;br&gt;しかし迎えた撮影当日、未来に思わぬトラブルが降りかかる――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epv8e5laxh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep97bkp5t9</id>
     <title>教えてください、藤縞さん！_[#6 夢ならまだ醒めないで]</title>
