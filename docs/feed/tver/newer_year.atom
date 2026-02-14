@@ -2,13 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-14T16:05:22+09:00</updated>
+  <updated>2026-02-14T18:05:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwjmh6278</id>
+    <title>カミさんの悪口_[第４話「かけおち記念日」]</title>
+    <updated>2026-02-14T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ カミさんの悪口
+                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_17時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwjmh6278.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;茂木（橋爪功）と咲（松本明子）の仲を取り持ったことで由起子（篠ひろ子）と肇（田村正和）の冷戦は続き、全く言葉を交わさないという最悪の状態になっていた。肇の家に居候する咲は気を揉み、２人の関係を修復しようとするがうまくいかない。一方、茂木に咲のことを相談してもらちがあかず、新製品プロジェクトの進行もはかどらない肇は八方塞がりだった。そんな肇に、由起子から「咲が姿を消した」との電話が入り…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwjmh6278"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epkjkiw9yh</id>
+    <title>カミさんの悪口_[第２話「ウチの鍵貸します」]</title>
+    <updated>2026-02-14T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ カミさんの悪口
+                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkjkiw9yh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;夫婦ゲンカで怒鳴る肇（田村正和）を見た咲（松本明子）は家を飛び出し、由起子（篠ひろ子）もその後を追った。次第に親しくなった由起子と咲はお互いのことを語り始める。&lt;br&gt;一方、肇は茂木（橋爪功）の強力な推薦で新企画の責任者に内定。喜ぶ肇に、茂木は「咲と２人になりたいので家を空けてほしい」と再び頼みごとをする。肇は由起子を食事に誘い出し、茂木が咲と密会できるよう画策するが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkjkiw9yh"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epi62zyr0l</id>
+    <title>カミさんの悪口_[第５話「会社襲撃大作戦」]</title>
+    <updated>2026-02-14T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ カミさんの悪口
+                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_17時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi62zyr0l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;肇（田村正和）が企画リーダーを務める新商品名の妙案が出ず、ネーミングを社内公募することに。由起子（篠ひろ子）や咲（松本明子）も知恵を絞ったが、肇はいら立つばかり。&lt;br&gt;翌日、難航していた商品名が社長の鶴の一声で決定し、発案者が表彰されることに。だが、その発案者は咲であった。由起子は咲の遠縁を装い、代理で出席することになるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi62zyr0l"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epdrq48rxe</id>
+    <title>カミさんの悪口_[第１話「宣戦布告」]</title>
+    <updated>2026-02-14T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ カミさんの悪口
+                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdrq48rxe.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;塗料商社の開発部長・小泉肇（田村正和）は、同期入社の茂木修二郎（橋爪功）と片桐安男（角野卓造）の３人でお互いの妻の悪口を言うのが楽しみ。&lt;br&gt;そんな肇は、妻・由起子（篠ひろ子）の誕生日に夕食を共にする約束をしていた。しかし、茂木から、彼の愛人・大場咲（松本明子）の面倒を見てほしいと頼まれる。由起子との先約が気になる肇だが、茂木から新企画のリーダーに推薦すると言われ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdrq48rxe"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epb05dby1a</id>
+    <title>カミさんの悪口_[第３話「決戦は日曜日」]</title>
+    <updated>2026-02-14T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ カミさんの悪口
+                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_17時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb05dby1a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;咲（松本明子）と茂木（橋爪功）の関係が由起子（篠ひろ子）に知られてしまった。茂木と肇（田村正和）は、由起子から茂木の妻・スミ江（岡本麗）に秘密が漏れるのを恐れ、引き続き咲を肇の家に置くことに。その後、肇はゴルフ練習場で茂木が咲と密会する機会を作るが、咲は「今は茂木と話せない」と家に帰ってしまう。そんな中、肇は偶然練習場に来ていたスミ江に咲との仲を疑われ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epb05dby1a"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epskv1gccm</id>
     <title>ママはアイドル!_[第２回 結婚なんてゆるさない！]</title>
@@ -1768,85 +1968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epbr969awp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa1ro354k</id>
-    <title>コントが始まる_[#5]</title>
-    <updated>2026-02-13T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcgc5ojdk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コントが始まる
-                &lt;a href="https://tver.jp/series/srcgc5ojdk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa1ro354k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;コント「カラオケボックス」&lt;br&gt;カラオケに居座り続けるカップルと、何度も「延長」を確認する店長のコント。そのコントはまたも現実と交差していく……。春斗(菅田将暉)、瞬太(神木隆之介)、潤平(仲野太賀)のトリオ「マクベス」は夢への「答え」を出す日が迫られていた。一方つむぎ(古川琴音)は姉里穂子(有村架純)との現状に疑問を抱き始め……。人生には大きく変化を迎える1日がある。彼らは、この日その1日を迎える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa1ro354k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0dr9atzf</id>
-    <title>きょうは会社休みます。_[第4話]</title>
-    <updated>2026-02-13T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrfzvlcoy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ きょうは会社休みます。
-                &lt;a href="https://tver.jp/series/srrfzvlcoy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0dr9atzf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;花笑(綾瀬はるか)に｢親への紹介｣という次なる難関が…!彼氏が出来たことがバレ、田之倉(福士蒼汰)を家に連れてくるが、彼氏が大学生と知り青石家はパニックに!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0dr9atzf"/>
   </entry>
 </feed>
