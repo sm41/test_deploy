@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-14T20:05:22+09:00</updated>
+  <updated>2026-02-14T22:06:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epejfyseuw</id>
+    <title>パンダより恋が苦手な私たち_[第6話 元恋人との再会…揺れる恋心に、波乱の予感！]</title>
+    <updated>2026-02-14T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月14日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejfyseuw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                柴田一葉(上白石萌歌)は、椎堂司(生田斗真)へのかなわぬ想いを断ち切るため、司とはもう会わないと決断!仕事に打ち込むことを決める。一方、灰沢アリア(シシド・カフカ)はついにモデル復帰を決意!その裏で、編集長・藤崎美玲(小雪)が若い男に騙されている噂が!?そんな中、司とアリアが15年ぶりに再会し大波乱!二人の過去に何が…本当の自分をさらけ出さないと真の愛は得られない。揺れる一葉の恋心はどうなる?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epejfyseuw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epv8e5laxh</id>
     <title>未来のムスコ_[第４話 父親探しに新展開！親子のピンチを救ったのは……]</title>
