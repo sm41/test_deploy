@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>特集</title>
-  <updated>2026-02-14T11:06:22+09:00</updated>
+  <updated>2026-02-14T15:06:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,9 +10,24 @@
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/specials/tbs2602_popular/all26_0214</id>
+    <title>TBS 春の人気番組特集</title>
+    <updated>2026-02-14T15:06:22+09:00</updated>
+    <content type="html">        &lt;div&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tbs2602_popular.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                気になる番組は「お気に入り登録」で見逃さない！&lt;br&gt;ドラマの配信開始スケジュールはこちら↓↓↓&lt;br&gt;&lt;br&gt;【2/14(土)～】&lt;br&gt;●ママはアイドル!&lt;br&gt;●卒業&lt;br&gt;●ずっとあなたが好きだった&lt;br&gt;●カミさんの悪口&lt;br&gt;&lt;br&gt;【2/15(日)～】&lt;br&gt;●パパはニュースキャスター&lt;br&gt;●義務と演技&lt;br&gt;&lt;br&gt;【2/20(金)～】&lt;br&gt;●JIN -仁-&lt;br&gt;●JIN -仁- 完結編&lt;br&gt;●アンチヒーロー&lt;br&gt;●ライオンの隠れ家&lt;br&gt;●クジャクのダンス、誰が見た？&lt;br&gt;&lt;br&gt;【2/21(土)～】&lt;br&gt;●パパはニュースキャスター スペシャル&lt;br&gt;●若奥さまは腕まくり!&lt;br&gt;●終着駅 トワイライトエクスプレスの恋&lt;br&gt;&lt;br&gt;【3/1(日)～】&lt;br&gt;●想い出にかわるまで&lt;br&gt;&lt;br&gt;※配信作品・配信期間は変更になる場合があります。&lt;br&gt;※配信期間は作品によって異なります。
+            &lt;/p&gt;
+        &lt;/div&gt;    </content>
+    <link href="https://tver.jp/specials/tbs2602_popular/all26_0214"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/specials/ntv_popular2602/drama26_0206ntv</id>
     <title>期間限定！日テレ人気番組まつり！</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ntv_popular2602.jpg"&gt;
 
@@ -27,7 +42,7 @@
   <entry>
     <id>https://tver.jp/specials/gorin2026/all26_0201</id>
     <title>ミラノ・コルティナ2026冬季オリンピック特別企画「Move Forward」 </title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/gorin2026.jpg"&gt;
 
@@ -42,7 +57,7 @@
   <entry>
     <id>https://tver.jp/specials/cx_dorakatsu/all_dorakatsu</id>
     <title>#ドラ活</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/cx_dorakatsu.jpg"&gt;
 
@@ -57,7 +72,7 @@
   <entry>
     <id>https://tver.jp/specials/drama26_start1/winter26_all</id>
     <title>放送中の冬ドラマ特集</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/drama26_start1.jpg"&gt;
 
@@ -72,7 +87,7 @@
   <entry>
     <id>https://tver.jp/specials/ex_winter25/all25_1202</id>
     <title>テレ朝 ドラバラ祭 2025 冬</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ex_winter25.jpg"&gt;
 
@@ -87,7 +102,7 @@
   <entry>
     <id>https://tver.jp/specials/hs-soccer/104th-all</id>
     <title>第104回全国高校サッカー選手権特集</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/hs-soccer.jpg"&gt;
 
@@ -102,7 +117,7 @@
   <entry>
     <id>https://tver.jp/specials/kidshiroba/kids_all</id>
     <title>TVerキッズひろば</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/kidshiroba.jpg"&gt;
 
@@ -117,7 +132,7 @@
   <entry>
     <id>https://tver.jp/specials/localprograms/lp-pickup</id>
     <title>ご当地番組大集合！</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/localprograms.jpg"&gt;
 
@@ -132,7 +147,7 @@
   <entry>
     <id>https://tver.jp/specials/24news/latest_episode24</id>
     <title>最新ニュース 24時間配信中！</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/24news.jpg"&gt;
 
@@ -147,7 +162,7 @@
   <entry>
     <id>https://tver.jp/specials/meisaku-drama/stream</id>
     <title>名作ドラマ特集</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/meisaku-drama.jpg"&gt;
 
@@ -162,7 +177,7 @@
   <entry>
     <id>https://tver.jp/specials/mon_variety/v_monday</id>
     <title>月曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/mon_variety.jpg"&gt;
 
@@ -177,7 +192,7 @@
   <entry>
     <id>https://tver.jp/specials/tue_variety/v_tuesday</id>
     <title>火曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tue_variety.jpg"&gt;
 
@@ -192,7 +207,7 @@
   <entry>
     <id>https://tver.jp/specials/wed_variety/v_wednesday</id>
     <title>水曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/wed_variety.jpg"&gt;
 
@@ -207,7 +222,7 @@
   <entry>
     <id>https://tver.jp/specials/thu_variety/v_thursday</id>
     <title>木曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/thu_variety.jpg"&gt;
 
@@ -222,7 +237,7 @@
   <entry>
     <id>https://tver.jp/specials/fri_variety/v_friday</id>
     <title>金曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/fri_variety.jpg"&gt;
 
@@ -237,7 +252,7 @@
   <entry>
     <id>https://tver.jp/specials/sat_variety/v_saturday</id>
     <title>土曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sat_variety.jpg"&gt;
 
@@ -252,7 +267,7 @@
   <entry>
     <id>https://tver.jp/specials/sun_variety/v_sunday</id>
     <title>日曜日バラエティ</title>
-    <updated>2026-02-14T11:06:22+09:00</updated>
+    <updated>2026-02-14T15:06:22+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sun_variety.jpg"&gt;
 
