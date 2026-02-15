@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-15T20:06:00+09:00</updated>
+  <updated>2026-02-15T22:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkhxdzi5m</id>
+    <title>リブート_[第４話 光明]</title>
+    <updated>2026-02-15T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リブート
+                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkhxdzi5m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;儀堂は生きている！？さらに１００億円盗難事件勃発！遂に正体がバレる！？&lt;br&gt;早瀬（鈴木亮平）は、麻友（黒木メイサ）から「儀堂（鈴木亮平・２役）から連絡があった」と聞かされる。&lt;br&gt;儀堂になりすますしかない状況に追い込まれた早瀬は、必死に“儀堂のフリ”を続ける。&lt;br&gt;そして早瀬が向かったのは、かつて儀堂を埋めた山中。&lt;br&gt;そこで彼が目にした、信じがたい光景とは——。&lt;br&gt;そんな中、合六（北村有起哉）が秘密裏に保管していた１００億円相当の商品が盗まれる事件が発生。&lt;br&gt;その犯人として疑いをかけられたのは、早瀬だった。&lt;br&gt;しかも、そこには決定的とも言える証拠映像が残されていた。&lt;br&gt;絶体絶命の状況の中、早瀬は命乞いをするが、合六の手が緩むことはない。&lt;br&gt;追い詰められた早瀬は、ついに自らの正体を明かす決意をする。&lt;br&gt;しかし、合六がそれを信じるはずもなく——。&lt;br&gt;早瀬は生き残りを懸け、ある“提案”を持ちかけるのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkhxdzi5m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epmvdbgxb4</id>
     <title>孤独のグルメ Season1_[第1話 江東区門前仲町のやきとりと焼きめし]</title>
