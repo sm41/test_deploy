@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-15T16:06:00+09:00</updated>
+  <updated>2026-02-15T18:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5o4cnra0</id>
+    <title>XBRAID presents さすらい釣り師 糸田三平_[第1話 タチウオとドラゴン級の恋！]</title>
+    <updated>2026-02-15T16:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wtvm4o6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ XBRAID presents さすらい釣り師 糸田三平
+                &lt;a href="https://tver.jp/series/sr3wtvm4o6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_16時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5o4cnra0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                主演：遠藤憲一 恋も魚も爆釣か！？【釣り×恋×グルメ×旅情】が楽しめる、バツ2独身おじさんの極上の癒しドラマ！ゲストヒロイン：美村里江
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5o4cnra0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epo103x526</id>
+    <title>スケバン刑事_[第19話「暴かれたサキ出生の秘密！」]</title>
+    <updated>2026-02-15T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo103x526.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                サキは海槌三姉妹によって捕まり、はじめて剛三と会う。剛三は、生まれる前にその人物の性格、能力を設定できるサイバネティックコントロールを発明したホーナー博士捜しを、サキと自分の娘たちに競わせようとする。父、剛三の行動に疑問をいただいた麗巳は父のことを調査する。その結果サキの母、ナツが父の秘書をしていたことが判明した。そのころ、サキはホーナー博士の娘エイミーと行動をともにしていた。２人に海槌の手がのびる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo103x526"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epoalv4v2t</id>
     <title>＆Hulu_[韓国“SBS演技大賞”6冠に輝く話題作！大人はみんな傷だらけ。極上の愛と優しさに包まれる、大人のためのヒーリング・ラブコメディー「大丈夫、愛だ」第1話前半]</title>
