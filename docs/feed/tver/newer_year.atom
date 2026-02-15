@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-15T10:06:00+09:00</updated>
+  <updated>2026-02-15T12:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppr40mtu2</id>
+    <title>探偵が早すぎる_[#１ 史上最速の探偵、登場]</title>
+    <updated>2026-02-15T12:01:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryx3kaw3q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 探偵が早すぎる
+                &lt;a href="https://tver.jp/series/sryx3kaw3q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_12時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppr40mtu2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                早すぎる探偵・千曲川光（滝藤賢一）が今回受けた依頼は、父親の遺産５兆円を突如相続することになった美女・十川一華（広瀬アリス）の命を守ること。&lt;br&gt;父親の兄弟たち大陀羅一族が、莫大な遺産を奪おうと、あの手この手で暗殺を仕掛てくる。魑魅魍魎な彼らは緻密に練られた殺害方法で、次々と一華に襲いかかるのだが・・・&lt;br&gt;秘技トリック返し！史上最速の探偵は事件を未然に防ぎ、犯人を返り討ちにすることができるのか！？&lt;br&gt;&lt;br&gt;【探偵が早すぎる 一挙配信】&lt;br&gt;#１　2月15日(日)12:01　～　3月22日(日)12:00&lt;br&gt;#２　2月17日(火)12:01　～　3月22日(日)12:00&lt;br&gt;#３　2月19日(木)12:01　～　3月22日(日)12:00&lt;br&gt;#４　2月21日(土)12:01　～　3月7日(土)12:00&lt;br&gt;#５　2月24日(火)12:01　～　3月10日(火)12:00&lt;br&gt;#６　2月27日(金)12:01　～　3月13日(金)12:00&lt;br&gt;#７　3月2日(月)12:01　～　3月16日(月)12:00&lt;br&gt;#８　3月4日(水)12:01　～　3月18日(水)12:00&lt;br&gt;#９　3月6日(金)12:01　～　3月20日(金)12:00&lt;br&gt;#10　3月8日(日)12:01　～　3月22日(日)12:00
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppr40mtu2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbvyc18x4</id>
     <title>買われた男_[#6 亡き夫とそっくり!?時が止まった大人女性と情念の…]</title>
@@ -1528,85 +1568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epz7gvbzep"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxq1yfr9o</id>
-    <title>フランケンシュタインの恋_[第5話]</title>
-    <updated>2026-02-13T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrg0t5dra.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ フランケンシュタインの恋
-                &lt;a href="https://tver.jp/series/srrg0t5dra" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxq1yfr9o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;深志研(綾野剛)は稲庭(柳楽優弥)から、天草(新井浩文)が会いたがっていることを聞かされ、喜び、天草と会えるのを心待ちにするように。稲庭工務店では、母親が病気でお金に困っているのでお金を貸して欲しいと部屋を訪れた飯塚(葉山奨之)に給料全てを渡してしまった深志研。しかし、飯塚が嘘をついていたことが発覚し、工務店の人々を巻き込んだ騒動になってしまう。そして、天草が稲庭工務店にやって来て、ついに深志研は天草に対面し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxq1yfr9o"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwuzhbybx</id>
-    <title>ゆとりですがなにか_[第5話]</title>
-    <updated>2026-02-13T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr44y7mm5e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ゆとりですがなにか
-                &lt;a href="https://tver.jp/series/sr44y7mm5e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwuzhbybx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　2/13(金)12:00～&lt;br&gt;#6-7　2/20(金)12:00～&lt;br&gt;#8-10　2/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;正和(岡田将生)は妹のゆとり(島崎遥香)が、まりぶ(柳楽優弥)のガールズバーでバイトしていると知り頭を抱える。麻生(吉田鋼太郎)に相談し店に偵察に行ってもらうことに。そんな中、正和は宮下(安藤サクラ)に仙台支店長の話があると聞き、知らなかったことにショック!一方、山路(松坂桃李)と宮下は何でも相談できる友達に。ある日、二人がボルダリングジムに行くと正和が。無理に壁を登ろうとした正和は、落下し大ケガをして…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwuzhbybx"/>
   </entry>
 </feed>
