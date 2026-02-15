@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-15T22:06:01+09:00</updated>
+  <updated>2026-02-16T00:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwl0xh93l</id>
+    <title>50分間の恋人_[#4 それでも作ってしまう]</title>
+    <updated>2026-02-15T23:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 50分間の恋人
+                &lt;a href="https://tver.jp/series/srpbldzfq7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_23時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時09分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwl0xh93l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                とうとう晴流（伊野尾慧）が、交流を禁じられているライバル会社に勤務していることを知った菜帆（松本穂香）は、「もう会えません！」と絶縁宣言。会っていることがバレたらクビになってしまうと絶望したり、動じない晴流に呆れたり、「いざとなったら、俺が辛島殿を守る」という晴流の言葉にキュンとしたり、菜帆の心は大忙し。しかし自分の気持ちや、ストレートに伝えてくれる晴流の言葉を信じることにした菜帆は、絶縁宣言を取り消し、昼休みの５０分間会うことをひそかに続行することに。&lt;br&gt;二人の心が近づいていく一方で、ダブルスターズ・社長の志麻（木村多江）とパイレーツ・社長の恭平（高橋光臣）の対立は激化。互いの製品の特許侵害をめぐり、一触即発の緊張状態に突入する！&lt;br&gt;そんなこととは露知らず、昼休みにいつもの公園で落ち合う晴流と菜帆。そこに晴流を尾行してきたパイレーツ社の麗美（秋元真夏）が、晴流への手作り弁当を持っていきなり乱入。さらに、ダブルスターズ社からも菜帆の上司・渋谷（味方良介）がコンビニ弁当片手に参戦。晴流と菜帆にとって絶対に身バレしてはいけない地獄のランチタイムが始まる！！ 
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwl0xh93l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkhxdzi5m</id>
     <title>リブート_[第４話 光明]</title>
@@ -368,405 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epejfyseuw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epv8e5laxh</id>
-    <title>未来のムスコ_[第４話 父親探しに新展開！親子のピンチを救ったのは……]</title>
-    <updated>2026-02-14T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未来のムスコ
-                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_22時56分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv8e5laxh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;「颯太くんは俺の子？」エスカレートする将生、さらに新たな“まーくん”の登場で、父親探しは大混乱！&lt;br&gt;新米ママ・未来は、芝居に育児にいっぱいいっぱいに…&lt;br&gt;&lt;br&gt;颯太（天野優）を自分の子どもではないかと疑い、未来（志田未来）を問い詰める将生（塩野瑛久）。&lt;br&gt;未来からきっぱり否定されるも、将生は颯太の保育園を訪ねて様子をうかがうなど、未来と颯太のことが気になって仕方がない。&lt;br&gt;その背景には、５年前の“ある夜”が関係しているようで…。&lt;br&gt;一方、新米ママとしての生活もままならず、気づけば手一杯になっていく未来。&lt;br&gt;そんな中、未来は呉服屋の花嫁衣装の広告で新郎役を務めることになった真（兵頭功海）から、新婦役のモデルを引き受けてほしいと相談され、挑戦してみることに。&lt;br&gt;しかし迎えた撮影当日、未来に思わぬトラブルが降りかかる――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epv8e5laxh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep97bkp5t9</id>
-    <title>教えてください、藤縞さん！_[#6 夢ならまだ醒めないで]</title>
-    <updated>2026-02-14T01:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmhuw43k0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 教えてください、藤縞さん！
-                &lt;a href="https://tver.jp/series/srmhuw43k0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_01時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_01時50分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep97bkp5t9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                パーティーで吉埜がまさかの怪我！自分のせいだと落ち込むりおは、泊まり込みで看病することに。その状況に、藤縞は戸惑いと嫉妬で爆発寸前！ついにりおを無理やり連れ戻し、抑えきれない想いをぶつける。「カラダから」始まった二人だけど、やっと本音を伝え合い、すれ違いを経て、晴れて「恋人」になるのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep97bkp5t9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1e72d3ei</id>
-    <title>おとなになっても_[第6話「現状を打破したい」]</title>
-    <updated>2026-02-14T01:34:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6wh3beew.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おとなになっても
-                &lt;a href="https://tver.jp/series/sr6wh3beew" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_01時34分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_02時44分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1e72d3ei.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ｢好きだからもう会わないようにしたい｣朱里(栗山千明)にそう告げられた綾乃(山本美月)は悲しみに暮れ、まずは現状を打破したいと考えるようになる。同僚に紹介してもらった弁護士・本上滋(伊藤修子)の元で、事情を説明すると同時に、朱里と出会う前から渉(濱正悟)との夫婦関係は崩壊していたことを思い出していく。その夜、一度実家に帰りたいという旨を渉と依子(麻生祐未)に告げると、依子は猛反対。一方朱里も、このまま近所に住んでいると綾乃と会ってしまうので実家に引っ越すことに。引っ越し当日。恵利と偶然出くわし、綾乃も実家に帰ってしまったことを聞いた朱里は…?&lt;br&gt;【Huluではノーカット版・全12話一挙配信中！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1e72d3ei"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb7saxzbi</id>
-    <title>俺たちバッドバーバーズ_[#6 人の道を外れてまでしがみつく意味]</title>
-    <updated>2026-02-14T01:18:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sril41r09a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 俺たちバッドバーバーズ
-                &lt;a href="https://tver.jp/series/sril41r09a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_01時18分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_01時17分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb7saxzbi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                俳優の小山ななみ（祷キララ）からの、狂った事務所を正してほしいという依頼を、マネージャーを代えさせることでなんとか解決した日暮（中島歩）と月白（草川拓弥）。しかし後日、日暮は並々ならぬ様子のななみに遭遇する。話を聞くと、マネージャーを代えても事務所の異常さは全く改善されていなかったのだ。そこで月白は悪の根源をつかむため、やむをえず風磨（原田琥之佑）を事務所のオーディションに送り込むことにするが…。　［期間限定無料配信］　毎週金曜深夜24時42分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb7saxzbi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf357jfdt</id>
-    <title>婚活バトルフィールド37_[第6戦 写真詐欺!?「マチアプ婚活」]</title>
-    <updated>2026-02-14T00:47:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr95ydcxne.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 婚活バトルフィールド37
-                &lt;a href="https://tver.jp/series/sr95ydcxne" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_00時47分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_00時46分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf357jfdt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                元カレ・タカシ（桐山漣）に振り回された赤木ユカ（加藤ローサ）は、開き直って期待もせずマッチングアプリを再開。そんな赤木の前に現れたのは、大人の余裕とスマートな振る舞いを兼ね備えたハイスペックな男性・佐々木浩司（久保田悠来）。“理想の相手”である佐々木との出会いに、赤木はついに結婚を意識し始める。しかし交際が進むにつれて、彼の行動に違和感を覚える赤木。そして、驚愕の秘密が浮かび上がってくる―!!　［期間限定無料配信］　毎週金曜深夜24時12分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf357jfdt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo4rmp59t</id>
-    <title>探偵さん、リュック開いてますよ_[第6話「BAD MEMORY GOOD SOUND」]</title>
-    <updated>2026-02-14T00:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra88gak1p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 探偵さん、リュック開いてますよ
-                &lt;a href="https://tver.jp/series/sra88gak1p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_00時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_00時25分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo4rmp59t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【主演:松田龍平 ゲスト:夏帆】&#13;&lt;br&gt;&lt;探偵×初恋…!?&gt; &#13;&lt;br&gt;高校の同級生・神林リカ（夏帆）と再会した一ノ瀬洋輔（松田龍平）…&#13;&lt;br&gt;夫の素行調査を行うために、横浜でデート!?洋輔、禁断の発明が明らかに…！&#13;&lt;br&gt;&#13;&lt;br&gt;洋輔（松田）は番組企画で、高校時代の同級生で人気女優のリカ（夏帆）と22年ぶりに再会。リカからのラブレターに返事をしなかった理由を問われ、洋輔は黙り込む。その放送を見た清水（大倉孝二）と香澄（片山友希）が盛り上がる一方、かつてリカに片思いをしていた室町（水澤紳吾）は激怒。なんと、洋輔が“禁断の発明品"でリカの心を奪ったという。そんな中、洋輔はリカから夫・タカシ（中島歩）の素行調査を依頼され…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo4rmp59t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epel42sz5s</id>
-    <title>ストロボ・エッジ　Season２_[〈最終話〉]</title>
-    <updated>2026-02-13T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryb4do179.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ストロボ・エッジ　Season２
-                &lt;a href="https://tver.jp/series/sryb4do179" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : WOWOW&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epel42sz5s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【WOWOWオンデマンドでは、Season１〈全６話〉・Season２〈全６話〉のシリーズ全話を一挙配信中！】&lt;br&gt;&lt;br&gt;蓮の想いに対して、何も返せなかった仁菜子。聞けなかった仁菜子の気持ちを知るために、蓮は走り出すものの、安堂が仁菜子を抱きしめている姿を目撃してしまう。翌日、学校で仁菜子と蓮は会うものの、仁菜子は蓮を避け、蓮はそれが答えだと受け止める。そんな中、安堂は仁菜子のために“ある行動”を起こす。蓮と安堂の絆、蓮へのあふれる想いに揺れながら、仁菜子が出した答えとは……。「ストロボ・エッジ」シリーズ、ついに完結。&lt;br&gt;&lt;br&gt;&lt;br&gt;＜スタッフ＞&lt;br&gt;■原作：咲坂伊緒 「ストロボ・エッジ」（集英社マーガレットコミックス刊）&lt;br&gt;■脚本：桑村さや香&lt;br&gt;■監督：木村真人 ／ 松田祐輔&lt;br&gt;■音楽：横山克&lt;br&gt;■プロデューサー：小林祐介 ／ 橋本芙美 ／ 関本純一&lt;br&gt;■制作協力：共同テレビジョン&lt;br&gt;■製作著作：ＷＯＷＯＷ
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epel42sz5s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4yf8nz77</id>
-    <title>DREAM STAGE_[第５話 待ち焦がれたデビュー日…裏切者は僕です]</title>
-    <updated>2026-02-13T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4yf8nz77.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;NAZEのデビュー日が２月１４日、バレンタインデーに決定！しかし、なんと同日にTORINNERも日本デビューすることが判明した！きっと莫大な資金をかけてプロモーションを仕掛けてくるはず…と、ビビりまくる水星（池田エライザ）とナム（ハ・ヨンス）。ナムは「絶対にデビューランキング１位を獲って！」と吾妻（中村倫也）に激しく詰め寄る。&lt;br&gt;爆撃のような宣伝でNAZEを叩き潰すため、あえてデビューを同日に設定したTORINNERのプロデューサー、パク（キム・ジェギョン）。しかし、デビュー当日に出演する音楽番組がNAZEにも出演依頼していることを知る。そんなパクをチェ（イ・イギョン）は「あんな“残飯”のような新人と同じ評価をされている。つまりお前も残飯レベルだ」と殺意をもって睨みつける。追い詰められるパク。&lt;br&gt;一方吾妻も、最大の敵TORINNERにどう対抗するか、NAZEのベストを引き出すにはどうするべきかと、深く悩んでいた。&lt;br&gt;両陣営が火花を散らすデビューの日が、刻一刻と近づく。&lt;br&gt;そんな中、NAZEの末っ子・ドヒョクは、街でタチの悪い男にからまれてしまう。しかもNAZEの一員であることを調べられて…「アイドルが、他人に怪我させたなんてバレたら大騒ぎになるぞ」と脅された上に、多額の金を要求される。窮地に陥ったドヒョクは、NAZEのとある秘密を週刊誌に売ってしまい、そのネタが記者の風祭（河内大和）からパクの手元に渡ってしまう！果たしてデビューランキングの結末は――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4yf8nz77"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiohb4b4g</id>
-    <title>副会長の主なお仕事_[チャンネル、はじめました]</title>
-    <updated>2026-02-13T22:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 副会長の主なお仕事
-                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月27日(金)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiohb4b4g.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「生徒会の活動が見えない」という投書が届き、顧問の上條真由子(黒沢ともよ)は灰屋と栗下に相談を持ちかける。これをチャンスと捉えた栗下は、“生徒会公式チャンネル”の開設を即決。緊張でぎこちない灰屋と、妙にノリノリな栗下が挑む初収録は、なぜか「備品紹介」からスタートし、そのささやかな一言が校内の話題をさらっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiohb4b4g"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwuj09hbc</id>
-    <title>元科捜研の主婦_[5話「犯人は鑑識官…24.5cmの足跡と180cmの容疑者!?」]</title>
-    <updated>2026-02-13T21:54:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 元科捜研の主婦
-                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月13日(金)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月20日(金)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwuj09hbc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                吉岡家で事件勃発!?緊急で仕事へ行く道彦（横山裕）に亮介（佐藤大空）が「嘘つき！」とご機嫌ななめに…詩織（松本まりか）は亮介の不機嫌な理由に仮説を立てるが…一方、道彦は男性の撲殺体が見つかった一軒家へ。指紋はないのに足跡が残っているなどの奇妙な点に加え、犯人像のある矛盾に気づく――。謎めいた殺人と、亮介の怒りの理由…浮かび上がってきたのは、親子の絆を繋ぐドーナツ!?詩織と道彦が真相解明に奔走する！　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwuj09hbc"/>
   </entry>
 </feed>
