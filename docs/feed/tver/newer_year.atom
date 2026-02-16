@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-16T16:06:03+09:00</updated>
+  <updated>2026-02-16T18:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epspzyic78</id>
+    <title>サ道_[第10話 天空のアジトで男泣きにととのう]</title>
+    <updated>2026-02-16T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epspzyic78.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/2（月）17:00～&#13;&lt;br&gt;#3,#4：2/5（木）17:00～&#13;&lt;br&gt;#5,#6：2/9（月）17:00～&#13;&lt;br&gt;#7,#8：2/12（木）17:00～&#13;&lt;br&gt;#9,#10：2/16（月）17:00～&#13;&lt;br&gt;#11,#12：2/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;主人公・ナカタアツロウ（原田泰造）は、ある日を境にサウナ中毒になってから、全国のサウナに足を運んでいる。いつものように偶然さん（三宅弘城）・イケメン蒸し男（磯村勇斗）と3人でサウナ話に花を咲かせていた。そんな姿を後ろで羨ましそうに見つめる村田直行（荒川良々）は、会社や家族からぞんざいな扱いを受け孤独を感じていた。そんな村田の唯一の癒しは、サウナに入る事だったのだが、サウナでも嫌な事を思い出してしまい……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epspzyic78"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4t460tcn</id>
+    <title>サ道_[第9話 哀しきサラリーマンの隣でととのう]</title>
+    <updated>2026-02-16T17:00:02+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4t460tcn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/2（月）17:00～&#13;&lt;br&gt;#3,#4：2/5（木）17:00～&#13;&lt;br&gt;#5,#6：2/9（月）17:00～&#13;&lt;br&gt;#7,#8：2/12（木）17:00～&#13;&lt;br&gt;#9,#10：2/16（月）17:00～&#13;&lt;br&gt;#11,#12：2/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ナカタアツロウ（原田泰造）は、ある日を境にサウナ中毒になってから、全国のサウナに足を運んでいる。イケメン蒸し男（磯村勇斗）から推薦されたサウナ施設があるホテルを訪れたナカタは、入り口から感じるリゾート感や露天風呂のおしゃれな雰囲気に圧倒されていた。そんな時、偶然さん（三宅弘城）と遭遇する。ところが何やらいつもと様子が違う。そんな偶然さんをよそにナカタは真新しいサウナにどんどん“ととのい”はじめ……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4t460tcn"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzhbdjryz</id>
     <title>風間公親―教場0―_[第3話 毒のある骸]</title>
@@ -2288,165 +2368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epynudw8bo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwyg00zku</id>
-    <title>unknown_[＃9（終）／全ての真相が明かされる！]</title>
-    <updated>2026-02-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4wj28k63.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ unknown
-                &lt;a href="https://tver.jp/series/sr4wj28k63" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwyg00zku.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/26(金)～ #1-#3&#13;&lt;br&gt;1/17(土)～ #4-#6&#13;&lt;br&gt;2/15(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「そうだよ、俺が全員殺した―」&#13;&lt;br&gt;ついに正体を現した殺人鬼。7人もの犠牲者を出した“血を抜かれた連続殺人事件”の犯人はなんと、加賀美圭介（町田啓太）だった――。&#13;&lt;br&gt;突如豹変し、冷たい瞳で自らに襲い掛かる親友の姿に、闇原こころ（高畑充希）は思わず問いかける。「ねぇ私、何か悪いことした…？」―しかし加賀美は淡々と告げる。「吸血鬼なら殺さないといけないよね、だって人間にとって害だから」&#13;&lt;br&gt;信じがたい真実に愕然とするこころを、追い詰めてゆく加賀美。駆け付けた夫・朝田虎松（田中圭）の制止を薙ぎ倒し、ついにアイスピックを振りかざした手にしたその瞬間…なぜか突然、加賀美は血を吐き、倒れてしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwyg00zku"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmy1q74x1</id>
-    <title>結婚しない_[第5話 動き出す想いとは！？恋の先にある衝撃！！]</title>
-    <updated>2026-02-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srju7lot36.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 結婚しない
-                &lt;a href="https://tver.jp/series/srju7lot36" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmy1q74x1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;千春（菅野美穂）が職場の真里子（福田彩乃）、森田（入江甚儀）とランチを終えたところに、花の配達中の純平（玉木宏）が遭遇する。真里子は純平のイケメンぶりに食いつくが、千春から花屋でバイトしていることを聞いた瞬間、テンションが下がる。バイトでは結婚にはつながらない、と言うのだ。結婚につながる恋をするために避けるべき3カ条を述べる真里子。&lt;br&gt;春子（天海祐希）が店長を務めるメゾン・フローラルでは、春子のマンション訪問の話が持ち上がり、純平と麻衣（三吉彩花）が訪ねてくることになった。千春は得意のスイートポテトを作る、と気合いが入る。2人が訪ねて来て、千春が作ったスイートポテトや手料理を囲みながら恋愛話で盛り上がる4人。&lt;br&gt;後日、千春は入院している母・紀子（市毛良枝）のお見舞いの花を選びにメゾン・フローラルへ。そこで、純平の後輩の瑞希（伊藤歩）にも偶然会い、あいさつを交わす。&lt;br&gt;千春は妹の千夏（中村ゆり）のウエディングパーティーの手伝いをしてくれたお礼を兼ねて、春子が話をつけてくれたレストランに春子を誘う。すると春子は、純平にも声をかけ、3人で行くことに・・・。花屋には大学教授の谷川（小市慢太郎）がやってきた。数日前、母親に花を買って行ったら喜んでくれた、と春子に伝えたかったのだ。その夜、純平が急にレストランに行けなくなった。瑞希の絵を扱っている画廊から連絡が入った、という。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『結婚しない』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmy1q74x1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epikvxxbrp</id>
-    <title>同窓会～ラブ・アゲイン症候群_[第8話]</title>
-    <updated>2026-02-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre9rq7ffb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 同窓会～ラブ・アゲイン症候群
-                &lt;a href="https://tver.jp/series/sre9rq7ffb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epikvxxbrp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/26(金)～ #1-#3&#13;&lt;br&gt;1/17(土)～ #4-#6&#13;&lt;br&gt;2/15(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;決意を胸に深夜の病院を後にした朋美（黒木瞳）と杉山（高橋克典）。翌朝、杉山が警察手帳と携帯電話を残し、病院から姿を消したことに気づいた妻の佳奈子（須藤理彩）は、夫が朋美と駆け落ちしたのだと察し、朋美の家に電話をかける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epikvxxbrp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi3qrd84o</id>
-    <title>同窓会～ラブ・アゲイン症候群_[第7話]</title>
-    <updated>2026-02-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre9rq7ffb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 同窓会～ラブ・アゲイン症候群
-                &lt;a href="https://tver.jp/series/sre9rq7ffb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi3qrd84o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/26(金)～ #1-#3&#13;&lt;br&gt;1/17(土)～ #4-#6&#13;&lt;br&gt;2/15(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「もう会わない」と心に誓いながら、捜査中の杉山（高橋克典）と偶然にも再会してしまった朋美（黒木瞳）。しかし、彼女に気をとられた杉山が、追っていた麻薬密売人・瀬島（今泉悠）に刺されてしまった！ 杉山はそのまま意識を失い、病院へと運ばれていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi3qrd84o"/>
   </entry>
 </feed>
