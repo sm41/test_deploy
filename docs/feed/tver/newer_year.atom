@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-16T20:06:03+09:00</updated>
+  <updated>2026-02-16T22:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2288,45 +2288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eppr40mtu2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbvyc18x4</id>
-    <title>買われた男_[#6 亡き夫とそっくり!?時が止まった大人女性と情念の…]</title>
-    <updated>2026-02-15T01:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqoatp0he.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 買われた男
-                &lt;a href="https://tver.jp/series/srqoatp0he" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_01時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_01時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbvyc18x4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ヤマト（瀬戸利樹）は女性用風俗店「KIRAMEKI」の事務所へ向かう途中、何者かにつけられている気配を感じる。振り返っても誰もおらず、鈴の音が小さく聞こえるだけ。後日、ヤマトが新規客との待ち合わせに向かうと、鈴の音のあとに依子（横山めぐみ）が現れ「会いたかった」と抱きつかれる。依子は新規客だが、まるで以前会ったことがあるかのような話し方をするのでヤマトが理由を尋ねると、ヤマトが事故で亡くなった夫とそっくりなのだと言われる。知り合いから夫と瓜二つの男性を見かけたと連絡を受けた依子は、見かけた場所に何度か通ってヤマトを見つけ、仕事のことも知ったのだという。依子の話を聞いたヤマトは、このあとの残りの時間を夫だと思って過ごしてほしいと伝える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbvyc18x4"/>
   </entry>
 </feed>

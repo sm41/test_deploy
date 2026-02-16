@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-16T20:06:03+09:00</updated>
+  <updated>2026-02-16T22:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9x8b341j</id>
+    <title>ヤンドク！_[第6話 ツッパリ時代のライバル登場！新人看護師の葛藤]</title>
+    <updated>2026-02-16T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9x8b341j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                お台場湾岸医療センターに北岡孝典（杉本哲太）が転院してくる。孝典は記憶を司る海馬近くに海綿状血管腫を患い、記憶障害が進んでいた。転院初日、孝典の妻・真理子（櫻井淳子）が目を離した隙に孝典は病室を抜け出し、院内食堂に。開店準備をしていた潮五郎（吉田鋼太郎）は、突然現れた孝典の姿を見て驚き、孝典を探しに来た湖音波（橋本環奈）に「こいつは俺の宿命のライバルや！」と興奮気味に紹介するが、孝典は潮五郎のことを全く覚えていなかった。&lt;br&gt;手術すれば孝典の命は助かるが、記憶がなくなるかもしれないと聞いた潮五郎は、孝典の病室を訪れ、高校時代の思い出を語る。それぞれが通う高校で番長として君臨し、地元一のマドンナを取り合って何度もタイマンを張っていたという。当時のことを思い出そうとする孝典だが記憶は戻らない。&lt;br&gt;諦め切れない潮五郎は革ジャンリーゼント姿の番長スタイルで孝典の元へ。しかし、何も思い出せない孝典は驚くばかり。湖音波と颯良（宮世琉弥）は慌てて潮五郎を病室の外へ連れ出そうとするが、孝典が颯良に突然「昌也？」と声をかける。孝典は10年前に亡くなった息子と、同世代の颯良を勘違いしたのだ。どうしても孝典の記憶をよみがえらせたい潮五郎は、颯良に「孝典の息子のフリしてやってくれんか」と頼み込むが、颯良はなぜかその申し出を冷たく断る。患者に嘘をつきたくないという颯良の言葉には、過去のある出来事が関係していた…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9x8b341j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epr35zs9ma</id>
     <title>孤独のグルメ Season9_[第2話 神奈川県中郡二宮の金目鯛の煮付けと五郎オリジナルパフェ]</title>
@@ -568,85 +608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epoalv4v2t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzmsnfr1m</id>
-    <title>CUT.編集された世界_[#2「桜井美月の場合」]</title>
-    <updated>2026-02-15T01:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgo3qfiie.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ CUT.編集された世界
-                &lt;a href="https://tver.jp/series/srgo3qfiie" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月14日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzmsnfr1m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「痛みを感じると記憶がカットされる」と主張する真中透（窪塚愛流）に、映画サークルの後輩 北原大聖（丈太郎）・星野沙蘭（奥山葵）・田中健太（藤本洸大）は実験を持ちかける。&#13;&lt;br&gt;北原が真中にケツバットをするも、真中は痛みを感じず、何も覚えていなかった。真中は北原にカメラで記録することを頼み、星野がケツバットをすると、今度は記憶があり、痛みも残っていた。&#13;&lt;br&gt;この現象から、4人は「“観測されている状態”だと編集は起きない」という仮説にたどり着く。&#13;&lt;br&gt;一方、桜井美月（莉子）にも異変が起こっていた。彼氏の桐生悠真（平野宏周）と毎日電話していたはずが、内容が思い出せないと打ち明ける。実は、真中だけでなく美月や桐生の記憶もカットされていたのだ！&#13;&lt;br&gt;真中が自宅のゴミ箱で見つけた桐生宛のバレンタインチョコに触れた瞬間、美月と桐生の記憶が蘇る。美月と桐生、2人の間でカットされ続けていた悲しい真実とは…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzmsnfr1m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep03mmim1c</id>
-    <title>横浜ネイバーズ Season1_[第6話 怪しい彼女 ロマンス詐欺か真実の愛か！？]</title>
-    <updated>2026-02-15T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
-                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時50分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月14日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep03mmim1c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「私の人生に口出ししないで」母の言葉を思い出し過呼吸で倒れてしまうロン（大西流星）。ロンには母に愛された記憶がなかった。自分は母にとって邪魔な存在だったのか……&lt;br&gt;&lt;br&gt;そんなロンに、転売屋襲撃事件で知り合ったピロ吉こと広吉一郎（今井朋彦）から、とある相談が舞い込む。ギフテッドの少年・久間蒼太（大場りと）の友人になってほしいと言うのだ。IQ150を超え、数学の天才の蒼太は、周囲の人間をバカにしたような言動で孤立しているという。会いに来たロンに、蒼太は「友達なんかいらない」と言うが…。&lt;br&gt;&lt;br&gt;そんな中、マツ（高橋侃）に春が訪れる。相手はアプリで知り合ったという落ち着きのある大人の女性・シオン（古澤メイ）。不動産詐欺に遭い、借金を背負った彼女を助けたいとバイトを始めるマツ。しかし、ロンと欽太（原嘉孝）はシオンの言動に違和感を覚える。ヒナ（平祐奈）、凪（紺野彩夏）もまた、アヤシイ彼女に不信感を募らせていた。だが、マツは自分の目で見たシオンしか信じないと頑なで…。&lt;br&gt;&lt;br&gt;人の感情は白黒はっきりつけられるものだけじゃない。だから苦しみ、救われることもある――。ロンの過去の記憶の扉も開かれる、愛と友情の物語。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep03mmim1c"/>
   </entry>
 </feed>
