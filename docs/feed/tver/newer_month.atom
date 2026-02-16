@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-16T02:06:00+09:00</updated>
+  <updated>2026-02-16T11:37:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep62fezpmc</id>
+    <title>三国志　秘密の皇帝_[第37話]</title>
+    <updated>2026-02-16T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep62fezpmc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                郭嘉（かくか）から10日以内に劉平（りゅうへい）の素性に関する証しを見つけると告げられた劉平。そんな劉平から知らせを受けた司馬懿（しばい）は、許都（きょと）でひそかに手を打っていた。そんな中、郭嘉の元に許都にいる賈詡（かく）から、劉平は先帝の双子の弟だと知らせる文が届いた。そのあと劉平に会った郭嘉は、真実を知ったことを話すのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep62fezpmc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxei6ktoz</id>
     <title>私の夫は時給1,000円の大富豪_[最終話「逆転のシンデレラ」]</title>
