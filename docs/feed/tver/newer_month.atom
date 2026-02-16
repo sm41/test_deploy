@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-16T22:06:03+09:00</updated>
+  <updated>2026-02-17T00:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsb6dk3dz</id>
+    <title>キンパとおにぎり～恋するふたりは似ていてちがう～_[#6 涙の温泉旅行「季節外れの恋人たち」]</title>
+    <updated>2026-02-16T23:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9d373cmt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ キンパとおにぎり～恋するふたりは似ていてちがう～
+                &lt;a href="https://tver.jp/series/sr9d373cmt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_23時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_23時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsb6dk3dz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大河（赤楚衛二）が元カノ・真澄（深川麻衣）と会っている瞬間を目撃してしまったリン（カン・ヘウォン）。2人きりではもう会わないと約束する大河だったが、リンの不安は消えないまま。気を取り直してリン念願の温泉旅行へ向かう2人だったが、元カノと仕事で関わり続ける大河へのモヤモヤが晴れず、せっかくの旅行も険悪ムード…。そんな中、真澄から大河にまたもや連絡がきたことをきっかけに、大ゲンカに発展してしまう…！　［期間限定無料配信］　毎週月曜夜11時6分からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsb6dk3dz"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epv96oco32</id>
+    <title>東京P.D. 警視庁広報2係_[第5話 見どころ 正名僕蔵編]</title>
+    <updated>2026-02-16T23:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
+                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_23時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv96oco32.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第5話放送の前に、ドラマのみどころやここでしか見られないスペシャルインタビューを大公開！&lt;br&gt;&lt;br&gt;捜査二課の刑事・仙北谷開智（味方良介）らは、若手政治家・若草賢三（勢登健雄）の公金横領疑惑を追っていて、2年もの歳月をかけ、ガサ入れ目前までこぎつけていた。&lt;br&gt;その翌日、資産家・野上京香（加藤英美里）の愛息子・晃（高木波瑠）の誘拐事件が発生。今泉麟太郎（福士蒼汰）ら警視庁広報課2係にも、この事件の情報が届く。ただし、人質の命に関わる誘拐事件の情報は、特に慎重に扱わなければならず、今泉ら広報2係の面々は、記者たちに知られることなく動くことに。しかし、稲田裕司（金子ノブアキ）ら記者たちも独自のルートから晃の誘拐事件を把握していた。&lt;br&gt;&lt;br&gt;一筋縄ではいかない誘拐事件。そんな中、捜査一課から“報道協定”の要請が出た。犯人を刺激しかねないため、事件に関する報道をメディアに控えてもらう代わりに、捜査状況を記者たちに随時共有する決まりだ。事前に誘拐事件の情報を掴んでいた記者たちは、全社に同じ情報が行き渡ることに難色を示したものの、下地和哉（正名僕蔵）らの説得によりなんとか協定が結ばれた。&lt;br&gt;&lt;br&gt;だが、捜査一課が伝える情報はなぜか極端に少ないため、記者からは次第に不満が漏れ出す。人命に関わる事件だと分かってはいるものの、このままだと協定を守れないという記者まで現れた。そこで2係の面々は、捜査一課が隠している情報を無理矢理にでも得ようと動き出し・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epv96oco32"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epuffxi6rm</id>
+    <title>夫に間違いありません_[#7 遺体取り違えの秘密とあの日の真実]</title>
+    <updated>2026-02-16T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srny5zdcay.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 夫に間違いありません
+                &lt;a href="https://tver.jp/series/srny5zdcay" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuffxi6rm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                聖子（松下奈緒）がなぜ知り合ったばかりの紗春（桜井ユキ）を店で働かせているのか―。その理由に、ある一つの可能性を見い出した天童（宮沢氷魚）は、紗春から一樹（安田顕）の情報を得ようと画策。紗春の夫がすでに死亡している可能性を示唆しようと意味深な言葉を投げかけると、紗春は突然、激高する。その様子を見ていた聖子は紗春の姿に驚きながらも、秘密を知られずにすんだと安堵。&lt;br&gt;一方、何とかして天童の行く手を阻みたい聖子は、一樹の生存の証拠を残さないよう一樹に連絡を取り合うのはやめようとメッセージを送る。聖子から突き放された一樹は、孤独を感じて追い詰められていく。&lt;br&gt;天童は紗春の豹変した態度が気にかかり、かつて紗春たちが暮らしていた社宅を訪ね、夫婦をよく知る人物に接触。すると、紗春の思わぬ行動が明らかになり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuffxi6rm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep9x8b341j</id>
     <title>ヤンドク！_[第6話 ツッパリ時代のライバル登場！新人看護師の葛藤]</title>
@@ -368,245 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epq85k0bz4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwl0xh93l</id>
-    <title>50分間の恋人_[#4 それでも作ってしまう]</title>
-    <updated>2026-02-15T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 50分間の恋人
-                &lt;a href="https://tver.jp/series/srpbldzfq7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_23時09分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwl0xh93l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                とうとう晴流（伊野尾慧）が、交流を禁じられているライバル会社に勤務していることを知った菜帆（松本穂香）は、「もう会えません！」と絶縁宣言。会っていることがバレたらクビになってしまうと絶望したり、動じない晴流に呆れたり、「いざとなったら、俺が辛島殿を守る」という晴流の言葉にキュンとしたり、菜帆の心は大忙し。しかし自分の気持ちや、ストレートに伝えてくれる晴流の言葉を信じることにした菜帆は、絶縁宣言を取り消し、昼休みの５０分間会うことをひそかに続行することに。&lt;br&gt;二人の心が近づいていく一方で、ダブルスターズ・社長の志麻（木村多江）とパイレーツ・社長の恭平（高橋光臣）の対立は激化。互いの製品の特許侵害をめぐり、一触即発の緊張状態に突入する！&lt;br&gt;そんなこととは露知らず、昼休みにいつもの公園で落ち合う晴流と菜帆。そこに晴流を尾行してきたパイレーツ社の麗美（秋元真夏）が、晴流への手作り弁当を持っていきなり乱入。さらに、ダブルスターズ社からも菜帆の上司・渋谷（味方良介）がコンビニ弁当片手に参戦。晴流と菜帆にとって絶対に身バレしてはいけない地獄のランチタイムが始まる！！ 
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwl0xh93l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkhxdzi5m</id>
-    <title>リブート_[第４話 光明]</title>
-    <updated>2026-02-15T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リブート
-                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkhxdzi5m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;儀堂は生きている！？さらに１００億円盗難事件勃発！遂に正体がバレる！？&lt;br&gt;早瀬（鈴木亮平）は、麻友（黒木メイサ）から「儀堂（鈴木亮平・２役）から連絡があった」と聞かされる。&lt;br&gt;儀堂になりすますしかない状況に追い込まれた早瀬は、必死に“儀堂のフリ”を続ける。&lt;br&gt;そして早瀬が向かったのは、かつて儀堂を埋めた山中。&lt;br&gt;そこで彼が目にした、信じがたい光景とは——。&lt;br&gt;そんな中、合六（北村有起哉）が秘密裏に保管していた１００億円相当の商品が盗まれる事件が発生。&lt;br&gt;その犯人として疑いをかけられたのは、早瀬だった。&lt;br&gt;しかも、そこには決定的とも言える証拠映像が残されていた。&lt;br&gt;絶体絶命の状況の中、早瀬は命乞いをするが、合六の手が緩むことはない。&lt;br&gt;追い詰められた早瀬は、ついに自らの正体を明かす決意をする。&lt;br&gt;しかし、合六がそれを信じるはずもなく——。&lt;br&gt;早瀬は生き残りを懸け、ある“提案”を持ちかけるのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkhxdzi5m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmvdbgxb4</id>
-    <title>孤独のグルメ Season1_[第1話 江東区門前仲町のやきとりと焼きめし]</title>
-    <updated>2026-02-15T18:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season1
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_18時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmvdbgxb4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                商用で「門前仲町」のとあるカフェを訪れた井之頭五郎にとんだ災難が……。そして門前仲町をぶらりと歩きながら五郎がふと立ち寄ったスポットと今日のグルメとは？　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmvdbgxb4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5o4cnra0</id>
-    <title>XBRAID presents さすらい釣り師 糸田三平_[第1話 タチウオとドラゴン級の恋！]</title>
-    <updated>2026-02-15T16:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wtvm4o6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ XBRAID presents さすらい釣り師 糸田三平
-                &lt;a href="https://tver.jp/series/sr3wtvm4o6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_16時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5o4cnra0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                主演：遠藤憲一 恋も魚も爆釣か！？【釣り×恋×グルメ×旅情】が楽しめる、バツ2独身おじさんの極上の癒しドラマ！ゲストヒロイン：美村里江
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5o4cnra0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo103x526</id>
-    <title>スケバン刑事_[第19話「暴かれたサキ出生の秘密！」]</title>
-    <updated>2026-02-15T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月22日(日)_16時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo103x526.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                サキは海槌三姉妹によって捕まり、はじめて剛三と会う。剛三は、生まれる前にその人物の性格、能力を設定できるサイバネティックコントロールを発明したホーナー博士捜しを、サキと自分の娘たちに競わせようとする。父、剛三の行動に疑問をいただいた麗巳は父のことを調査する。その結果サキの母、ナツが父の秘書をしていたことが判明した。そのころ、サキはホーナー博士の娘エイミーと行動をともにしていた。２人に海槌の手がのびる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo103x526"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoalv4v2t</id>
-    <title>＆Hulu_[韓国“SBS演技大賞”6冠に輝く話題作！大人はみんな傷だらけ。極上の愛と優しさに包まれる、大人のためのヒーリング・ラブコメディー「大丈夫、愛だ」第1話前半]</title>
-    <updated>2026-02-15T02:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_02時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月14日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoalv4v2t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ヒーリング・ラブコメディー「大丈夫、愛だ」第1話前半！&lt;br&gt;精神科医のチ・ヘスは、慌ただしい日々を送りながら、自身も異性と関係を持つことを怖がる“恋愛恐怖症”を克服しようとしていた。&lt;br&gt;ある日トークショー番組に出演することになったヘスは、イケメンベストセラー作家のジェヨルと出会う。精神科医をバカにした物言いに反感を覚えるが、ジェヨルは素っ気ない態度のヘスに興味津々。積極的なアプローチを仕掛けてくるが…&lt;br&gt;(C) CJ ENM Co., Ltd, All Rights Reserved.
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epoalv4v2t"/>
   </entry>
 </feed>
