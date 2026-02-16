@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-16T18:06:03+09:00</updated>
+  <updated>2026-02-16T20:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1149flk5</id>
+    <title>3年B組金八先生(第7シリーズ)_[第18回 しゅうに迫る悪魔の影]</title>
+    <updated>2026-02-16T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1149flk5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;長い療養生活を終えて久しぶりに崇史（鮎川太陽）が登校する。卒業を待たずに就職かと思われた弥生（岩田さゆり）もきちんと学校に通うことになり、久しぶりに３年B組に全員がそろう。しかし、しゅう（八乙女光）は母・光代（萩尾みどり）の必死の努力もむなしく、いまだに覚せい剤の禁断症状から脱せなかった。金八（武田鉄矢）も３Bの生徒たちも気づいておらず、舞子（黒川智花）だけが彼の薬物常用を確信し、１人悩んでいた。そして都立高校一次試験合格発表日のホームルームのさなか、突然しゅうの様子がおかしくなり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1149flk5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epspzyic78</id>
     <title>サ道_[第10話 天空のアジトで男泣きにととのう]</title>
@@ -2288,85 +2328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epbvyc18x4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzzswpui3</id>
-    <title>DOCTORS 最強の名医_[第7話]</title>
-    <updated>2026-02-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryixr0lqf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DOCTORS 最強の名医
-                &lt;a href="https://tver.jp/series/sryixr0lqf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzzswpui3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/28(日)～ #1-#3&#13;&lt;br&gt;1/17(土)～ #4-#6&#13;&lt;br&gt;2/15(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ある日、堂上総合病院に重度の肝硬変を患った10歳の少年・光太郎（澁谷武尊）が入院してくる。これまで大学病院などで治療を受けてきたがどこもお手上げで、このまま症状が進めば肝機能が低下し死に至る可能性はかなり高い。そこで相良（沢村一樹）は生体肝移植手術を提案するが、森山（髙嶋政伸）たちから猛反対される。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzzswpui3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epynudw8bo</id>
-    <title>DOCTORS 最強の名医_[最終回]</title>
-    <updated>2026-02-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryixr0lqf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DOCTORS 最強の名医
-                &lt;a href="https://tver.jp/series/sryixr0lqf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月15日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epynudw8bo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                12/28(日)～ #1-#3&#13;&lt;br&gt;1/17(土)～ #4-#6&#13;&lt;br&gt;2/15(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ステージ２の胃がんが発覚した相良（沢村一樹）は、その手術を森山（髙嶋政伸）に依頼する。森山の腕を信じて自分の命を託す相良だったが、森山は相良を救うべきか否か、葛藤する。「相良さえいなくなれば堂上総合病院は自分のものになる」という気持ちから、揺れ動く森山。そしてついに運命の手術の日を迎え…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epynudw8bo"/>
   </entry>
 </feed>

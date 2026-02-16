@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-16T18:06:03+09:00</updated>
+  <updated>2026-02-16T20:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epr35zs9ma</id>
+    <title>孤独のグルメ Season9_[第2話 神奈川県中郡二宮の金目鯛の煮付けと五郎オリジナルパフェ]</title>
+    <updated>2026-02-16T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season9
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr35zs9ma.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                仕事で神奈川県の二宮駅に訪れた五郎（松重豊）は商談までまだ時間があり喫茶店で仕事をすることに。お店のメニューには、自由に組み合わせが選べるオリジナルパフェの文字が！　仕事どころではなくなった五郎。悩みに悩み決められない五郎は店員に紙をもらい、ある作戦でパフェを決めることに。しっかりパフェを満喫した五郎は喫茶店を後にし、商談先に向かう。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epr35zs9ma"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkps98cl5</id>
     <title>笑うハナに恋きたる_[第8話 嫌う人あれば助ける人もあり]</title>
