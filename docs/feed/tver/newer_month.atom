@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-16T14:06:03+09:00</updated>
+  <updated>2026-02-16T16:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -608,45 +608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep03mmim1c"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzgdgkkgj</id>
-    <title>ぜんぶ、あなたのためだから_[第6話 愛と欲望の兄弟決戦]</title>
-    <updated>2026-02-14T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
-                &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月14日(土)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月21日(土)_23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月14日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzgdgkkgj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                沙也香（井桁弘恵）を信じ、もう一度やり直そうと和臣（藤井流星）が決意した矢先、沙也香は薬を大量摂取して意識不明に！&#13;&lt;br&gt;憔悴する和臣に桜庭（七五三掛龍也）は、橋本智恵（大原優乃）と尾崎藍里（武田玲奈）が沙也香と会っている動画を見せる。そこに映っていたのは、「和臣に迫られキスされそうになった」と嘘の報告をし、別れたほうがいいと沙也香に忠告する智恵の姿。&#13;&lt;br&gt;怒り心頭の和臣だったが、「いい人、わるい人なんて簡単な二択じゃ相手の本質は見極められない」と桜庭に咎められ…？&#13;&lt;br&gt;そんな中、和臣は病院内で製薬会社に勤める杉浦誠（草川拓弥）に遭遇。誠と飲みに出かけた和臣は、そこで酔った誠から衝撃的な事実を聞く！親友だと思っていた誠の、まさかの裏の顔を知ってしまった和臣は…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzgdgkkgj"/>
   </entry>
 </feed>
