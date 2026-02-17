@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-17T02:06:03+09:00</updated>
+  <updated>2026-02-17T11:08:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcwzj573j</id>
+    <title>体感予報_[第七話《ドラマシャワー》]</title>
+    <updated>2026-02-17T03:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcq4gvaks.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 体感予報
+                &lt;a href="https://tver.jp/series/srcq4gvaks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_03時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_03時14分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcwzj573j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                うだるような暑さの中、瀬ヶ崎（樋口幸平）は葉（増子敦貴）が昨晩篤弥（水石亜飛夢）と楽しそうにしていた姿を思い浮かべ不安になっていた。帰宅後も葉と気まずいまま、瀬ヶ崎はぼんやりと葉に出会った大学生時代を振り返る。いつも食堂で絵を描いていた葉。初めて葉が家に来てくれた日の出来事。そしてあの懐かしいカレーの味を。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcwzj573j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzzft28wa</id>
     <title>家政夫のミタゾノ （2018）_[第2話]</title>
@@ -2288,405 +2328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epeyyhfwdh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdz68mtzo</id>
-    <title>サムライせんせい_[最終話]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzzuq1jiy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サムライせんせい
-                &lt;a href="https://tver.jp/series/srzzuq1jiy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月08日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdz68mtzo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                1/2(金)～ #1-#3&#13;&lt;br&gt;1/18(日)～ #4-#6&#13;&lt;br&gt;2/16(月)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;半平太（錦戸亮）は、「今の時代は志のない者が金を握り、世の中を歪めている」という龍馬（神木隆之介）の主張を受け入れ、共に行動を起こすことを約束する。龍馬の計画は、金の力で権力を握ろうとしている海道（忍成修吾）に天誅を下すと共に、大勢の政治家が絡んだ裏帳簿を公開し、“平成建白書”に賛同した1万人の同志が一斉蜂起するというものだった。暗殺も辞さないその計画を知ってしまった晴香（比嘉愛未）は、必死に半平太を止めようとするが、決意は固く、聞く耳を持たない。そんな中、部下を引き連れた海道が神里村に現れ、半平太を急襲！　不意を突かれた半平太は重傷を負い、谷底へと転落して…!?&#13;&lt;br&gt;&#13;&lt;br&gt;幕末から平成に時代を移し、再び“日本を洗濯する”ために動き出した半平太と龍馬。150年後の未来に迷い込んだ2人の志士の物語が、いよいよクライマックスを迎える！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdz68mtzo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd11pd28d</id>
-    <title>そんな家族なら捨てちゃえば？_[#6 第2章開幕！家族って何なの？]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98zgz6sd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ そんな家族なら捨てちゃえば？
-                &lt;a href="https://tver.jp/series/sr98zgz6sd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd11pd28d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                令太郎（竹財輝之助）と沙耶子（水崎綾女）がラブホテルで朝を迎えるところを目撃した荻野（SWAY）。令太郎との関係や、“セクシーな英語教師”としての仕事を弱みとして握り、沙耶子に強要したのは“和美（片山萌美）と令太郎を別れさせる”ことで—。&lt;br&gt;一方、和美の部屋から小さな男の子用の靴を発見した一花（岩本蓮加）は、戸籍謄本を確認し思いもよらない事実にたどり着く。衝撃の事実を受け止めきれない一花は、光（田中洸希）に相談するため光の家に向かう。光が戻ってくるのを待っていると沙耶子が帰ってきて、そこで一花は信じられないものを見てしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd11pd28d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa8xjau3d</id>
-    <title>春になったら_[#8 “グラッチェ椎名”最後の実演販売！父の退社式]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmdf94rp4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 春になったら
-                &lt;a href="https://tver.jp/series/srmdf94rp4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa8xjau3d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                雅彦（木梨憲武）に認めてもらい晴れて結婚することになった瞳（奈緒）と一馬（濱田岳）は、結婚式の内容を大幅に変更し、雅彦のための式にしたいと黒沢（西垣匠）たちに相談する。&lt;br&gt;その頃雅彦は、日に日に増していく痛みに限界を感じついに引退を決意。最終日に自社初のオリジナル商品を実演販売することに。一方、自宅では吐血するなど病状が悪化し始め、不安に駆られる瞳は結婚式の招待状を手渡し、娘のウエディングドレス姿をその目で見ることを約束させる。&lt;br&gt;翌晩、雅彦はこの先瞳の支えになるであろう一馬をこっそり呼び出して…。&lt;br&gt;迎えた最後の実演販売当日、雅彦は痛みをこらえながら売り場に立ちいつものように声を張り上げる。そこへ、働く雅彦の姿を見届けようと、一馬やまき（筒井真理子）がやって来るが、なぜか瞳の姿はなく…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa8xjau3d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa7qvc95p</id>
-    <title>相棒 season19_[第6話「三文芝居」]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa7qvc95p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                マンションの敷地内で電子部品メーカーに勤める派遣社員の男性が死亡する事件が発生。通報者は、出張風俗店のドライバーで、たまたまマンションに店の女性を送り届けたという松野（橋本じゅん）と名乗る男性。松野によると、被害者と首筋にドクロのタトゥーがある金髪の男が揉めていて、「鈴木」と呼ばれた金髪の男が鞄を奪って逃げ去るのを目撃したという。捜査一課は、被害者の勤務先をかんがみて“機密情報”に絡んだ殺人事件とにらんで捜査を進める。いっぽう、独自の捜査に乗り出した右京（水谷豊）と亘（反町隆史）は、松野の目撃証言に不審なものを感じ、関係者に事情を聞く。すると問題の夜、松野が仕事を休んでいたことが判明。亘が厳しく追及するが、元劇団員だという松野は、突然シェイクスピアの芝居を演じ始めるなどして煙に巻く。そんな中、一課はドクロのタトゥーがある半グレ上がりの鈴木という男を逮捕。男は、被害者から闇金の借金を回収していたことを認めるが…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa7qvc95p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9sisglni</id>
-    <title>相棒 season19_[第9話「匿名」]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9sisglni.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                歩道橋で女性が転落死する事件が発生。目撃者の主婦・智子（藤吉久美子）の証言により、被害者の知人の男が重要参考人として浮上する。男は、かつてカリスマイケメンシェフとしてマスコミをにぎわせていたが、SNSでの発言が炎上し、最近は金に困っていたという。一課が、行方をくらませた男を追う中、右京（水谷豊）と亘（反町隆史）は、“通報のお手本”とも言える詳細な証言をした智子に注目。智子の証言と、防犯カメラの映像から、一週間前、矢坂美月（野村佑香）という女性弁護士が、被害者の女性と接触していたことを突き止める。ところが、美月はその直後、階段から足を踏み外して“事故死”していたことが分かる。最近は、DVやストーカーなどに苦しむ女性の事案を担当していたというが…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9sisglni"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8vdbpxa3</id>
-    <title>相棒 season19_[第5話「天上の棲家」]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8vdbpxa3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                右京（水谷豊）と亘（反町隆史）は、収賄疑惑が持たれた衆議院議員の白河達也（湯江タケユキ）が、自宅にゴミをまかれた“嫌がらせ”の捜査を押しつけられる。白河家は、大臣を輩出した政治家一族で、長年実権を握っているのは、達也の義理の母・貴代（冨士眞奈美）だった。貴代には、24年前、夫が収賄疑惑のさなかに自ら命を絶った過去があり、当時二課だった右京が、捜査を担当していたという因縁が。そんな中、達也の息子が誘拐されかける事件が発生。“告発者X”を名乗る人物から、達也宛に『会見を開き、罪を告白しなければ、家族を殺す』という脅迫文がもたらされた。Xとは、収賄疑惑を報じた日刊誌の情報源で、取材したのは、特命係と繋がりのある元検事の黒崎（内田裕也）だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8vdbpxa3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep89duhoay</id>
-    <title>春になったら_[#5 涙の大喧嘩再び！すれ違う父娘の想い]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmdf94rp4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 春になったら
-                &lt;a href="https://tver.jp/series/srmdf94rp4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep89duhoay.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                再び岸（深澤辰哉）と会った雅彦（木梨憲武）は、自分の葬式を仕切ってほしいと頼む。岸は雅彦の頼みに戸惑いを隠せず、瞳（奈緒）も葬式のことなど想像したくないと怒りだすが、そんな2人をよそに最後は明るく見送られたいと話す雅彦。そして、阿波野（光石研）からすすめられた『人生ノート』を書き始めて…。&lt;br&gt;その頃、学習塾の講師として働き始めた一馬（濱田岳）は、正社員としての雇用が決まる。これで雅彦にも瞳との結婚を認めてもらえるはずだと喜ぶが、それはすなわち、芸人をやめるということ。話を聞いた瞳は、雅彦に娘の花嫁姿を見せたいという一馬の優しさを理解しつつも、結婚の保留を望む自分の気持ちを置き去りにされたことで、モヤモヤが募る。一方で、一馬の決断は龍之介（石塚陸翔）との親子関係にも暗い影を落とし―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep89duhoay"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6aecpaf8</id>
-    <title>相棒 season19_[第4話「藪の外」]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6aecpaf8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                右京（水谷豊）と亘（反町隆史）は、小手鞠（森口瑤子）から、後輩の芸者・叶笑（高梨臨）を『怨憎会苦（おんぞうえく）』から救ってほしいと頼まれる。怨憎会苦とは、仏教用語で怨み憎む相手にも会わなければならない苦しみのこと。事情を聞くと、叶笑は芸者見習いだった15年前、暴行未遂事件にあったというが、最近その犯人が出所。周囲をうろついているので、目的を探ってほしいという。ところが、その男が一昨日、かんざしで首を一突きされ、殺害されていたことが判明。また、男の勤め先が、叶笑の得意客・吉岡（窪塚俊介）が社長を務める会社だったことが分かる。そんな中、凶器のかんざしから叶笑の指紋が検出され、取り調べを受けることに。いっぽう、独自の捜査を続けていた右京と亘は、15年前の暴行未遂の現場付近で、別の窃盗事件が発生していたことを知る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6aecpaf8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5jn9hub6</id>
-    <title>そんな家族なら捨てちゃえば？_[#3 みんなでご飯を食べたい]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98zgz6sd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ そんな家族なら捨てちゃえば？
-                &lt;a href="https://tver.jp/series/sr98zgz6sd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5jn9hub6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                令太郎（竹財輝之助）の部屋には、妻・和美（片山萌美）が置いた1枚の家族写真がある。3人が幸せそうな笑顔で写っているが、一部が切り取られていた。ある出来事につながる写真らしいが、いつどこで撮ったものなのか？一花（岩本蓮加）は光（田中洸希）とともに、写真の謎を追求することに。&lt;br&gt;そんな中、一花の担任・荻野（SWAY）に吹き込まれ、一花と光が付き合っていると信じ込んだ和美が光の家に乗り込み、一花と今後一切かかわらないでほしいと言い放つ。訳が分からないまま一花と話す機会を探す光を横目に、光の母親は令太郎と連絡を取り始める。実は、彼女は数日前から令太郎と急速に親しくなっていた沙耶子（水崎綾女）で…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5jn9hub6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep51lkdzhw</id>
-    <title>相棒 season19_[第10話「超・新生」]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep51lkdzhw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                贋作を売り歩いていた画商が自首してきたものの、買い手は自身の目利き力が傷つくのを嫌い、いずれも「騙されたわけではない」と主張。“被害者が存在しない”という不可解な状況が発生する。経済事件を担当する二課でも詐欺罪に問えず、自首してきた画商をそのまま帰すことに。ところがその直後、問題の画商が自殺してしまう。亘（反町隆史）は、動機を「良心の呵責」と主張するが、右京（水谷豊）は事の経緯から、画商が警察に逮捕されることで“緊急避難”しようとしたのではないかと推理し、独自の捜査を始める。すると、贋作の製造、販売を、広域指定暴力団『扶桑武蔵桜』が取り仕切っていると判明。それを知った刑事部長の内村（片桐竜次）は、昵懇の関係にある組長の桑田圓丈（大石吾朗）と密談を交わす。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep51lkdzhw"/>
   </entry>
 </feed>
