@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-17T14:06:17+09:00</updated>
+  <updated>2026-02-17T16:06:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2008,45 +2008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epplan44ji"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp0yzqwog</id>
-    <title>春になったら_[#1 ３ヶ月後に結婚する娘とこの世を去る父]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmdf94rp4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 春になったら
-                &lt;a href="https://tver.jp/series/srmdf94rp4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp0yzqwog.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                助産師の椎名瞳（奈緒）は6歳のときに母を亡くし、以来22年間、父・雅彦（木梨憲武）と反発し合いながらも支え合って暮らしてきた。助産師の仕事に誇りを持ち、日々幸せを感じている。一方の雅彦は、頑固で破天荒な自由人。瞳を心から愛し、敏腕実演販売士として働いてきた。&lt;br&gt;2024年の元旦、互いに報告があった2人は同時に発表することに。すると瞳は「3ヶ月後に結婚します」、雅彦は「3ヶ月後に死んじゃいます」と告白し、互いにがく然とする。雅彦は、瞳の恋人・川上一馬（濱田岳）が10歳年上の売れないお笑い芸人だと知り、結婚に猛反対。瞳も、ステージ4の膵臓がんだという雅彦の告白をうそだと決めつけ、反対されても絶対に結婚すると言い張る。&lt;br&gt;数日後、瞳は雅彦の言い分を確かめるべく、雅彦の主治医のもとを訪ねて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp0yzqwog"/>
   </entry>
 </feed>
