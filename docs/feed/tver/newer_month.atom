@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-17T18:05:17+09:00</updated>
+  <updated>2026-02-17T20:05:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvaoj6ydj</id>
+    <title>孤独のグルメ Season9_[第3話 東京都港区東麻布のムサカとドルマーデス]</title>
+    <updated>2026-02-17T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season9
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月17日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvaoj6ydj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大きな荷物を抱えた井之頭五郎（松重豊）。たどり着いた先は東麻布にある「パナマ大使館」。五郎は取引相手の大使館職員と商談を終えたものの、ついでにパナマのコーヒーを飲んで感想を聞かせてほしい、と言われるのであった。日本人男性の代表としてのコメントと、圧をかけられながらも、なんとかその場を乗り切り大使館を後にする。広い公園で雨が降る中、五郎は缶コーヒーを片手に、久しく海外に行ってないことを考える。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvaoj6ydj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep09ysofdm</id>
     <title>三国志　秘密の皇帝_[第38話]</title>

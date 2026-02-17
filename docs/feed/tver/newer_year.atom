@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-17T18:05:17+09:00</updated>
+  <updated>2026-02-17T20:05:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epn4yv1pck</id>
+    <title>3年B組金八先生(第7シリーズ)_[第19回 しゅう最後の日、最後の授業]</title>
+    <updated>2026-02-17T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn4yv1pck.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;桜中学に覚せい剤を買った生徒がいるという警察の情報に、職員たちは衝撃を受ける。さまざまな意見が交わされる中、教室から戻ってきた金八（武田鉄矢）は、それは３年B組のしゅう（八乙女光）であると告げる。早速、警察へ通報しようとする国井教頭（茅島成美）らに対し、通報するのは待ってほしいと金八は頼み、３Bの生徒たちを教室に集める。しゅうの覚せい剤常用の事実を知り、驚きを隠せない生徒たちに金八は「これがしゅうとの最後の授業です」とドラッグの害に関する授業を始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn4yv1pck"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvzfgtncj</id>
     <title>サ道2021_[第十一話「佐賀 御船山楽園ホテル らかんの湯」サウナの理想郷でととのう]</title>
@@ -1848,85 +1888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epthuwrrwi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epta2wblmb</id>
-    <title>相棒 season19_[初回拡大スペシャル　第1話「プレゼンス」]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epta2wblmb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                春。交通機動隊の白バイ警官・出雲麗音（篠原ゆき子）が何者かに銃撃された。警視庁は総力を挙げて犯人を捜すが、夏になっても手掛かりさえ掴めない。そんな中、右京（水谷豊）と亘（反町隆史）は、回復した麗音に事情を尋ねるが、警戒され話を聞き出せなかった。秋を迎えたころ、麗音が捜査一課に異動してくる。異動の背景には、最近、庁内での女性の立場向上を目指す広報課長・美彌子（仲間由紀恵）の働き掛けがあったと噂されていた。どうやら、上層部に異動を承諾させる条件として、「特命係に事件を解決させる」と約束したらしい。右京は、そうした経緯に不満を持ったが、亘とともに改めて捜査に乗り出す。そんな中、男性が転落死する事件が発生。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epta2wblmb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsmd0u03e</id>
-    <title>春になったら_[#9 タイムカプセル発掘大作戦！娘が大奮闘]</title>
-    <updated>2026-02-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmdf94rp4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 春になったら
-                &lt;a href="https://tver.jp/series/srmdf94rp4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsmd0u03e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                自身の葬式のプランを相談するため岸（深澤辰哉）が働く葬儀場を訪ねた雅彦（木梨憲武）は、楽しい葬式で遺影も弔問客が笑ってしまうような写真がいいとリクエスト。岸は戸惑いながらも瞳（奈緒）が遺影を撮ることを提案する。&lt;br&gt;撮影会には岸と美奈子（見上愛）も駆けつけ、大学時代の写真部さながらの雰囲気に。雅彦は自分の知らなかった娘の姿に喜びを感じながら、底抜けの明るさで遺影とは思えないポーズを繰り出す。瞳は雅彦の願いを叶えたい一心で…。&lt;br&gt;雅彦は、“死ぬまでにやりたことリスト”のうちの1つ、12歳のときに埋めたタイムカプセルを掘り出したいと考えるが、体の痛みは慢性化し体力も落ちていることから諦めかけていた。そこで、瞳と一馬（濱田岳）が代わりに現地を見に行くと、小学校の前には工事用のフェンスが立ち並んでいて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsmd0u03e"/>
   </entry>
 </feed>
