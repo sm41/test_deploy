@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-18T02:05:17+09:00</updated>
+  <updated>2026-02-18T11:00:51+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2368,45 +2368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0b23qh57"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1149flk5</id>
-    <title>3年B組金八先生(第7シリーズ)_[第18回 しゅうに迫る悪魔の影]</title>
-    <updated>2026-02-16T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1149flk5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;長い療養生活を終えて久しぶりに崇史（鮎川太陽）が登校する。卒業を待たずに就職かと思われた弥生（岩田さゆり）もきちんと学校に通うことになり、久しぶりに３年B組に全員がそろう。しかし、しゅう（八乙女光）は母・光代（萩尾みどり）の必死の努力もむなしく、いまだに覚せい剤の禁断症状から脱せなかった。金八（武田鉄矢）も３Bの生徒たちも気づいておらず、舞子（黒川智花）だけが彼の薬物常用を確信し、１人悩んでいた。そして都立高校一次試験合格発表日のホームルームのさなか、突然しゅうの様子がおかしくなり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1149flk5"/>
   </entry>
 </feed>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-18T02:05:17+09:00</updated>
+  <updated>2026-02-18T11:00:51+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep05suwnp4</id>
+    <title>三国志　秘密の皇帝_[第39話]</title>
+    <updated>2026-02-18T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月18日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep05suwnp4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                郭嘉（かくか）の死後、鮮卑（せんぴ）が廬龍（ろりゅう）の近くに姿を現す。危機を感じた劉平（りゅうへい）は、曹操（そうそう）に援軍を要請する使者を送る。しかし、曹節（そうせつ）が郭嘉から託された袋を開けると、郭嘉が盧龍に援軍を送らぬようにと曹操へ伝えていたことが分かる。そんな折、劉平が送り出した使者たちを捕らえた鮮卑が盧龍の町の外に姿を現し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep05suwnp4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx0dlp37o</id>
     <title>あなたを殺す旅_[Episode6 旅の終着点]</title>
@@ -448,165 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epsb6dk3dz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epv96oco32</id>
-    <title>東京P.D. 警視庁広報2係_[第5話 見どころ 正名僕蔵編]</title>
-    <updated>2026-02-16T23:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
-                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv96oco32.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第5話放送の前に、ドラマのみどころやここでしか見られないスペシャルインタビューを大公開！&lt;br&gt;&lt;br&gt;捜査二課の刑事・仙北谷開智（味方良介）らは、若手政治家・若草賢三（勢登健雄）の公金横領疑惑を追っていて、2年もの歳月をかけ、ガサ入れ目前までこぎつけていた。&lt;br&gt;その翌日、資産家・野上京香（加藤英美里）の愛息子・晃（高木波瑠）の誘拐事件が発生。今泉麟太郎（福士蒼汰）ら警視庁広報課2係にも、この事件の情報が届く。ただし、人質の命に関わる誘拐事件の情報は、特に慎重に扱わなければならず、今泉ら広報2係の面々は、記者たちに知られることなく動くことに。しかし、稲田裕司（金子ノブアキ）ら記者たちも独自のルートから晃の誘拐事件を把握していた。&lt;br&gt;&lt;br&gt;一筋縄ではいかない誘拐事件。そんな中、捜査一課から“報道協定”の要請が出た。犯人を刺激しかねないため、事件に関する報道をメディアに控えてもらう代わりに、捜査状況を記者たちに随時共有する決まりだ。事前に誘拐事件の情報を掴んでいた記者たちは、全社に同じ情報が行き渡ることに難色を示したものの、下地和哉（正名僕蔵）らの説得によりなんとか協定が結ばれた。&lt;br&gt;&lt;br&gt;だが、捜査一課が伝える情報はなぜか極端に少ないため、記者からは次第に不満が漏れ出す。人命に関わる事件だと分かってはいるものの、このままだと協定を守れないという記者まで現れた。そこで2係の面々は、捜査一課が隠している情報を無理矢理にでも得ようと動き出し・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epv96oco32"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuffxi6rm</id>
-    <title>夫に間違いありません_[#7 遺体取り違えの秘密とあの日の真実]</title>
-    <updated>2026-02-16T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srny5zdcay.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫に間違いありません
-                &lt;a href="https://tver.jp/series/srny5zdcay" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuffxi6rm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                聖子（松下奈緒）がなぜ知り合ったばかりの紗春（桜井ユキ）を店で働かせているのか―。その理由に、ある一つの可能性を見い出した天童（宮沢氷魚）は、紗春から一樹（安田顕）の情報を得ようと画策。紗春の夫がすでに死亡している可能性を示唆しようと意味深な言葉を投げかけると、紗春は突然、激高する。その様子を見ていた聖子は紗春の姿に驚きながらも、秘密を知られずにすんだと安堵。&lt;br&gt;一方、何とかして天童の行く手を阻みたい聖子は、一樹の生存の証拠を残さないよう一樹に連絡を取り合うのはやめようとメッセージを送る。聖子から突き放された一樹は、孤独を感じて追い詰められていく。&lt;br&gt;天童は紗春の豹変した態度が気にかかり、かつて紗春たちが暮らしていた社宅を訪ね、夫婦をよく知る人物に接触。すると、紗春の思わぬ行動が明らかになり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epuffxi6rm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9x8b341j</id>
-    <title>ヤンドク！_[第6話 ツッパリ時代のライバル登場！新人看護師の葛藤]</title>
-    <updated>2026-02-16T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンドク！
-                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9x8b341j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                お台場湾岸医療センターに北岡孝典（杉本哲太）が転院してくる。孝典は記憶を司る海馬近くに海綿状血管腫を患い、記憶障害が進んでいた。転院初日、孝典の妻・真理子（櫻井淳子）が目を離した隙に孝典は病室を抜け出し、院内食堂に。開店準備をしていた潮五郎（吉田鋼太郎）は、突然現れた孝典の姿を見て驚き、孝典を探しに来た湖音波（橋本環奈）に「こいつは俺の宿命のライバルや！」と興奮気味に紹介するが、孝典は潮五郎のことを全く覚えていなかった。&lt;br&gt;手術すれば孝典の命は助かるが、記憶がなくなるかもしれないと聞いた潮五郎は、孝典の病室を訪れ、高校時代の思い出を語る。それぞれが通う高校で番長として君臨し、地元一のマドンナを取り合って何度もタイマンを張っていたという。当時のことを思い出そうとする孝典だが記憶は戻らない。&lt;br&gt;諦め切れない潮五郎は革ジャンリーゼント姿の番長スタイルで孝典の元へ。しかし、何も思い出せない孝典は驚くばかり。湖音波と颯良（宮世琉弥）は慌てて潮五郎を病室の外へ連れ出そうとするが、孝典が颯良に突然「昌也？」と声をかける。孝典は10年前に亡くなった息子と、同世代の颯良を勘違いしたのだ。どうしても孝典の記憶をよみがえらせたい潮五郎は、颯良に「孝典の息子のフリしてやってくれんか」と頼み込むが、颯良はなぜかその申し出を冷たく断る。患者に嘘をつきたくないという颯良の言葉には、過去のある出来事が関係していた…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9x8b341j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epr35zs9ma</id>
-    <title>孤独のグルメ Season9_[第2話 神奈川県中郡二宮の金目鯛の煮付けと五郎オリジナルパフェ]</title>
-    <updated>2026-02-16T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season9
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月16日(月)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr35zs9ma.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                仕事で神奈川県の二宮駅に訪れた五郎（松重豊）は商談までまだ時間があり喫茶店で仕事をすることに。お店のメニューには、自由に組み合わせが選べるオリジナルパフェの文字が！　仕事どころではなくなった五郎。悩みに悩み決められない五郎は店員に紙をもらい、ある作戦でパフェを決めることに。しっかりパフェを満喫した五郎は喫茶店を後にし、商談先に向かう。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epr35zs9ma"/>
   </entry>
 </feed>
