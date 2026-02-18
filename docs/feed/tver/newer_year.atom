@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-18T11:00:51+09:00</updated>
+  <updated>2026-02-18T12:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep08v21veb</id>
+    <title>大好き！五つ子4_[第23回 プレゼント]</title>
+    <updated>2026-02-18T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子4
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep08v21veb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;アメリカから一時帰国した小百合（佐久間由枝）にはやはり魂胆があった。２人目の子どもができ、千絵子（茅島成美）のところで産みたいから桃子（森尾由美）からも千絵子に頼んでほしいというのだ。桃子は反対するが、意外にも千絵子はあっさり了解してしまう。一方、美穂（新穂えりか）はカレン（シンディ・エバンス）とリチャード（エバンス太郎）が何か秘密を抱えていると考え、それを探ろうとし始める。しかし、カレンが夕飯の途中でいきなり泣き出して…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep08v21veb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzx9udyd4</id>
     <title>サブスク不倫_[第2話《ドラマ特区》]</title>
@@ -2248,125 +2288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epco38jl32"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep69ivoo59</id>
-    <title>サイレーン　刑事×彼女×完全悪女_[#4 急展開！刑事反撃…完全悪女と熾烈な攻防]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjnhabesq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サイレーン　刑事×彼女×完全悪女
-                &lt;a href="https://tver.jp/series/srjnhabesq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep69ivoo59.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                月本（要潤）が行方をくらませたことで、警察は麻弥（三上紗弥）に手をかけたのが月本だと断定。しかし月本のクリニックにカラ（菜々緒）のカルテがなかったことが引っかかる里見（松坂桃李）は、再び調査を開始する。一方、里見と別行動することが多くなった猪熊（木村文乃）は、里見の背後に女性の気配を感じ不安を募らせていた。&lt;br&gt;その頃、月本に制裁を加えたカラは、渡（光石研）に誘われ別荘へ行くことに。カラはその別荘をある計画に使おうともくろんでいた。&lt;br&gt;翌日、新聞に麻弥が一命を取りとめたことが掲載される。犯人が麻弥の口を封じに来るのではないかと考えた里見が慌てて病院へ向かうと…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep69ivoo59"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4pvq4xn8</id>
-    <title>ボーイフレンド降臨！_[第2話　無防備キス!?アサヒの恋が急加速！]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhh5ma2vu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ボーイフレンド降臨！
-                &lt;a href="https://tver.jp/series/srhh5ma2vu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4pvq4xn8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;アサヒ（髙橋海人）が日本を代表する現代美術家・漆原澄人なのではと気付いた茶谷かしこ（桜井ユキ）と佐藤渉（田中みな実）。だが、かしこは会社の存亡を懸けて参加したコンペで、アサヒの描いたイラストが評価されて書類選考に通過してしまったため、コンペが終わるまでアサヒには黙っていることに。一方、渉はかしこに「人違い」だと言いくるめられ、まんまと信じるが、このことをきっかけに渉のアサヒの身元探しに火が付く！　焦るかしこは、情報を呼びかけるチラシ配りを手伝うふりして、大量のチラシを回収し密かに妨害。渉とアサヒは次なる手として街行く人に声をかけ始める。するとアサヒのことを知るという津久井エマ（片岡凜）と遭遇！　しかし、エマはなぜか怒り心頭で立ち去ってしまった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4pvq4xn8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0b23qh57</id>
-    <title>サイレーン　刑事×彼女×完全悪女_[#6 ついに悪女が計画実行…刑事破滅の危機]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjnhabesq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サイレーン　刑事×彼女×完全悪女
-                &lt;a href="https://tver.jp/series/srjnhabesq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0b23qh57.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                里見（松坂桃李）に自宅を突き止められ、過去の事件も嗅ぎつけられたカラ（菜々緒）は危機感を覚えていた。渡（光石研）に警察官にストーカーされていると訴え、里見の写真を見せる。心配した渡はカラの思惑通り、街で偶然見かけた里見を尾行する。&lt;br&gt;一方、8年前の事件を追う猪熊（木村文乃）は、カラに当時の話を聞くことに。するとカラは、信用する猪熊にだけ事件の資料を見せるという。&lt;br&gt;そんな約束を知る由もない里見は、猪熊と居酒屋で待ち合わせるが2人は言い争いに。怒った猪熊が店を出て行くと、そこへレナ（入山杏奈）から呼び出しが。猪熊のことを気にしながらも、指定されたホテルへ向かい、部屋に入ると…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0b23qh57"/>
   </entry>
 </feed>
