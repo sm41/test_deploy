@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-18T12:06:08+09:00</updated>
+  <updated>2026-02-18T14:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ept1s5k83x</id>
+    <title>パパはニュースキャスター_[第５回 「独占！衝撃の告白」]</title>
+    <updated>2026-02-18T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept1s5k83x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月15日(日)14:00～2月21日(土)13:59&lt;br&gt;#4-6：2月18日(水)14:00～2月24日(火)13:59&lt;br&gt;#7-9：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#10-12：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;※本作品は3月2日(月)～3月31日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;竜太郎（田村正和）の家に居座ってしまった３人の愛たちは、近くの学校へ通うことになった。だが、６年生と言えば中学進学の問題もあり、竜太郎は早速愛たちの教育問題に頭を悩ませる。一方、３人の目下の関心事は、竜太郎とみゆき（浅野温子）の関係だった。みゆきの言動を見ていると、どうも竜太郎との結婚を望んでいるように見える。２人がもし結婚すれば、愛たちはこの家から追い出されるかもしれない。何としても結婚は阻止しなければならないと考えた３人は、みゆきを訪ねて自分たちが竜太郎の子どもであることを打ち明けた。そして、何も言わずに別れてほしいと、みゆきに頭を下げる。一方、竜太郎も３人の娘たちとの関係を秘密にしておくことに少々疲れ始めていて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ept1s5k83x"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eph3qarkhx</id>
+    <title>パパはニュースキャスター_[第６回 「涙の義理チョコ」]</title>
+    <updated>2026-02-18T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph3qarkhx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月15日(日)14:00～2月21日(土)13:59&lt;br&gt;#4-6：2月18日(水)14:00～2月24日(火)13:59&lt;br&gt;#7-9：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#10-12：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;※本作品は3月2日(月)～3月31日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;竜太郎（田村正和）の娘たちは、そろそろ異性が気になる年頃。好きな男の子ができたらしい西尾愛（西尾麻里）と鈴木愛（鈴木美恵子）は、バレンタインデーを前にしてどうやって相手にチョコレートを渡そうかと悩む。一方、３人の愛から竜太郎との親子関係を打ち明けられたみゆき（浅野温子）は、その後も態度を変えずに竜太郎と接することにした。そんなみゆきに戸惑う３人だったが、竜太郎を愛する者同士として４人で手を組むことになり、早速みゆきに片思いの中学生へチョコを渡す方法を相談する。そして、バレンタインデー当日。帰宅した竜太郎を待っていたのは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph3qarkhx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epejhvti9n</id>
+    <title>パパはニュースキャスター_[第４回 「おかしな おかしな お手伝いさん」]</title>
+    <updated>2026-02-18T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejhvti9n.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月15日(日)14:00～2月21日(土)13:59&lt;br&gt;#4-6：2月18日(水)14:00～2月24日(火)13:59&lt;br&gt;#7-9：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#10-12：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;※本作品は3月2日(月)～3月31日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;突然やってきた３人の娘・愛たちのおかげで、鏡家の中は、てんやわんや。隣家の専業主夫・松本保（所ジョージ）らの助けを借りて暮らしていたが、今後の生活を考えると、竜太郎（田村正和）の悩みは尽きないのだった。このまま、３人の愛たちに家事を任せられないと思った竜太郎は、家政婦・佐藤ひとみ（中村れい子）を雇うことにする。しかし、愛たちはひとみを竜太郎の恋人だと思い込み、追い出す作戦を考える。ある日、ひとみの後をつけた愛たちは、彼女に自分たちと同じ「めぐみ」という名の子どもがいることを知る。そして、悪質なウソで家政婦をやめさせた３人は、竜太郎にきつく叱られた。だが、「親子４人だけで暮らしたかった」と訴える娘たちに、竜太郎は心を動かされ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epejhvti9n"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep08v21veb</id>
     <title>大好き！五つ子4_[第23回 プレゼント]</title>
@@ -2008,285 +2128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eppffqxj93"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp2tj83sq</id>
-    <title>NICE FLIGHT!_[＃3　探していた“声の人”に気付く時！]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5xkgaxka.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ NICE FLIGHT!
-                &lt;a href="https://tver.jp/series/sr5xkgaxka" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp2tj83sq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;オペレーションセンターで無線から聞こえてきた声を聞いた倉田粋（玉森裕太）は、その声の主こそが自分が探していた人物だと確信する。&#13;&lt;br&gt;その直後、管制官訓練生の河原かすみ（玉城ティナ）から電話が。今、ローカル席で管制しているのは渋谷真夢（中村アン）だと聞いた粋は、初めて知る事実に複雑な気持ちを抱く。&#13;&lt;br&gt;それ以来、なんとなく真夢と顔を合わせづらくなってしまい、ターミナルで管制官の夏目幸大（阿部亮平）と偶然出会って話していても、そこに真夢が現れそうになるとなぜか隠れてしまい、挙動不審な粋。かすみが自分に嘘をついていたことも察するが、はっきりと聞けないばかりか、誤ってデートの誘いをOKしてしまい…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp2tj83sq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoq9xil6e</id>
-    <title>黒服物語_[第1夜]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry5207ihb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 黒服物語
-                &lt;a href="https://tver.jp/series/sry5207ihb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoq9xil6e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;医学部を目指し、目下浪人中の小川彰（中島健人）。ついに3浪目が決定してしまい、医者である父親（神保悟志）からのプレッシャーに押しつぶされそうになっていた。&#13;&lt;br&gt;予備校に通うことにも嫌気が差し、夜の池袋で酒に溺れていたある日、彰は華やかなドレスを身にまとった美しい女性に出会う。その女性に吸い寄せられるようにやってきたのはキャバクラ『ジュリエット』。彰がひと目惚れしたその女性は『ジュリエット』のNo.1キャバクラ嬢・杏子（佐々木希）だったのだ！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epoq9xil6e"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epk7cvyhvj</id>
-    <title>ボーイフレンド降臨！_[第3話　泣かないで…涙のバックハグ]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhh5ma2vu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ボーイフレンド降臨！
-                &lt;a href="https://tver.jp/series/srhh5ma2vu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk7cvyhvj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;茶谷かしこ（桜井ユキ）から、アサヒ（髙橋海人）の正体に気づきながらも隠していた理由を白状された佐藤渉（田中みな実）は、やたら物わかりが良く、「そういう事情なら黙ってるね！」と言い出す。過去の経験から、かしこは渉に何か裏があるとピンときて…まさか渉がアサヒに恋…!?　とはいえ、渉には彼氏がいる上に、アサヒは一回り下の男子。それはない、とかしこは思い直すが、モヤモヤが残る。そんな中、コンペのオリエンテーションに参加したかしこは、そこで漆畑澄人に関する衝撃の事実を知ることに！&#13;&lt;br&gt;一方、渉と榎田要（三宅健）の部屋を訪れたアサヒは、舞台の出演オファーを断ろうとするが、榎田の強引な誘いで稽古へ参加させられることに。迎えた稽古日当日、急きょ即興劇に参加することになったアサヒは、最初は戸惑っていたが、突如、異変を見せ――！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epk7cvyhvj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfftvrsvo</id>
-    <title>サイレーン　刑事×彼女×完全悪女_[#3 衝撃の新展開…美しき殺人鬼次の犠牲者]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjnhabesq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サイレーン　刑事×彼女×完全悪女
-                &lt;a href="https://tver.jp/series/srjnhabesq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfftvrsvo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                通り魔の一件で猪熊（木村文乃）の正義感に強い憧れを抱いたカラ（菜々緒）は、自分もそれを手に入れたいと考えていた。&lt;br&gt;一方、月本（要潤）こそが一連の事件の黒幕ではないかと考えた里見（松坂桃李）は、月本が出入りしている会員制のクラブに周囲に内緒で潜入捜査を開始。クラブからアイ（佐野ひなこ）とレナ（入山杏奈）を紹介された里見は、クラブの実態や月本との関係を突き止める。&lt;br&gt;しばらくして会員制クラブを摘発するための捜査本部が置かれることになったが、突如、捜査中断の指示が。&lt;br&gt;そんな中、猪熊の正義感を追体験するため、カラは新たな計画を実行しようと…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfftvrsvo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf4e56knq</id>
-    <title>NICE FLIGHT!_[＃1　ツイてるコーパイ登場！]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5xkgaxka.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ NICE FLIGHT!
-                &lt;a href="https://tver.jp/series/sr5xkgaxka" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf4e56knq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;副操縦士3年目の《ツイてるコーパイ》こと倉田粋（玉森裕太）は、機長の喜多見七海（吉瀬美智子）と羽田空港を目指して飛行中に“ハロ現象”を目撃する。“ハロ現象”とは天候悪化の前兆――まもなく東京ターミナル管制所（通称：東京アプローチ）から、羽田上空にマイクロバーストが発生していることが告げられる！&#13;&lt;br&gt;強烈な横風が吹く中、羽田空港に着陸することに…！　操縦桿を持つ粋の手にも力が入ったその時、無線から聞き覚えのある声が流れてくる。その声の主は、羽田空港管制塔の航空管制官・渋谷真夢（中村アン）。ここ最近になって羽田空港の管制でよく聞くようになっていた声で、粋も気になっていた人物だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf4e56knq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdaxg0eey</id>
-    <title>黒服物語_[第2夜]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry5207ihb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 黒服物語
-                &lt;a href="https://tver.jp/series/sry5207ihb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdaxg0eey.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;池袋のキャバクラ『ジュリエット』で黒服として働き始めた彰（中島健人）。先輩黒服の原田（山本裕典）や裕治（中尾明慶）から仕事を学びつつ、美樹（柏木由紀）の担当として奮闘する日々が続いていた。&#13;&lt;br&gt;そんなある日、彰はキャストのゆかり（岩佐真悠子）から呼び出され、中絶同意書にサインをしてほしいと頼まれる！　ゆかりはプロを目指すミュージシャンと付き合っており、キャバクラで働き始めたのは彼に音楽に専念してほしいからだった。&#13;&lt;br&gt;そんな彼に妊娠したことが知られたら、負担になってしまうのではないかと考え、彰に代わりを依頼したのだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdaxg0eey"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epco38jl32</id>
-    <title>営業部長 吉良奈津子_[第6話 不倫発覚！？嘘をついてまで守りたいもの]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6xjnv7c6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 営業部長 吉良奈津子
-                &lt;a href="https://tver.jp/series/sr6xjnv7c6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月23日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epco38jl32.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;太刀川冴子（芦名星）が議員の大泉智彦（水上剣星）と不倫をしている証拠映像がネットに流出する、と一条達哉（DAIGO）から報告を受けた吉良奈津子（松嶋菜々子）は、対策を練るため帰社を決めた。しかし、その前に小山壮太（髙橋幸之介）の顔を見たいと思い、車を運転する高木啓介（松田龍平）に家の前で待っていてくれ、と頼んだ。&lt;br&gt;その頃、奈津子の家では、小山浩太郎（原田泰造）に坂部深雪（伊藤歩）が寄り添っていた。奈津子の帰宅に気づいた浩太郎は、瞬時に深雪を引きはがす。奈津子は眠っている壮太の髪をなでると、トラブル処理のため今日は帰れないかもしれない、と浩太郎に告げ駆け出していく。浩太郎は奈津子を追いかけると、今日は行かないでくれ、と懇願。それでも奈津子は、迎えに来た高木とともに家を後にする。&lt;br&gt;深夜、奈津子が会社に戻ると、今西朋美（中村アン）と神崎あすか（足立梨花）が、冴子に関するネットのニュースを見ていた。その見出しには「不倫ワンピース」とあった。大泉と抱き合う写真に写る冴子が、オレンジ・ドットのCM用のワンピースを着ていたからだ。それを知った斎藤良一（石丸幹二）は、これはただのスキャンダルでは済まされない、と叱責（しっせき）。奈津子は追い込まれる。&lt;br&gt;その後、不倫のニュースが世間に知れ渡ると、ネット上には冴子への誹謗（ひぼう）中傷が書き込まれるようになる。一方、奈津子は、撮影を終えた冴子がなぜワンピースを着替えなかったのかが気にかかる。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『営業部長 吉良奈津子』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epco38jl32"/>
   </entry>
 </feed>
