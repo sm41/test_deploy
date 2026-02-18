@@ -2,13 +2,373 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-18T22:06:09+09:00</updated>
+  <updated>2026-02-19T00:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epw1118plb</id>
+    <title>dele (ディーリー)_[#6]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs0m2190v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ dele (ディーリー)
+                &lt;a href="https://tver.jp/series/srs0m2190v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw1118plb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                1/26(月)～ #1-#3&lt;br&gt;2/19(木)～ #4-#6&lt;br&gt;3/17(火)～ #7-#8&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;長野の別荘地で、雪に覆われ眠るように死んでいる家出少女・石森純子（山田愛奈）が見つかった。遺書はなかったが、警察は自殺と判断。しかし、純子の両親・石森俊一（横田栄司）と石森美穂（霧島れいか）の気持ちは収まらない。愛娘の自殺原因を知りたいと切望する石森夫妻は、弁護士・坂上舞（麻生久美子）のもとへ。フリープログラマー・坂上圭司（山田孝之）とその相棒・真柴祐太郎（菅田将暉）に引き合わされた夫妻は、純子が日記をつけていたパソコンのパスワード解除を依頼する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epw1118plb"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvnw7dre3</id>
+    <title>dele (ディーリー)_[#5]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs0m2190v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ dele (ディーリー)
+                &lt;a href="https://tver.jp/series/srs0m2190v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvnw7dre3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;データの死後削除を「dele. LIFE」に依頼していた天利聡史（朝比奈秀樹）のパソコンが操作されなくなって、72時間が経った。この事実を知らせる信号を受信した「dele. LIFE」の社長・坂上圭司（山田孝之）は、相棒の真柴祐太郎（菅田将暉）に死亡確認をするよう指示し、そのまま外出する。圭司が向かったのは、とあるカフェ。目の前に現れたのは、圭司がどういうわけか1年に一度会い続けている元恋人・沢渡明奈（柴咲コウ）だった…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvnw7dre3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptdz9htt1</id>
+    <title>dele (ディーリー)_[#4]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs0m2190v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ dele (ディーリー)
+                &lt;a href="https://tver.jp/series/srs0m2190v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptdz9htt1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「人は二度死ぬと言う」「呪われた力を持った僕」「あの判断は間違っていなかったはずだ」&#13;&lt;br&gt;――そんな不可解なフレーズと葛藤に満ちた、遺書とも取れるメールが「dele. LIFE」に届いた。送信主は日暮裕司（野田洋次郎）という35歳の男。「dele. LIFE」にPDFファイルの死後削除を依頼していた人物だった。メールを受け取った坂上圭司（山田孝之）は「あれまで消えてしまうことが正しいのか」という言葉を目にするや、「あれ」が削除依頼ファイルだと推測。何を思ったか自ら進んでファイルを開き、子どもが色鉛筆で描いたと思われる絵が数点格納されているのを確認する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptdz9htt1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epg3mcd5ez</id>
+    <title>ダブルス～二人の刑事_[File:005]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra42yo6t9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ダブルス～二人の刑事
+                &lt;a href="https://tver.jp/series/sra42yo6t9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg3mcd5ez.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;山下（伊藤英明）と田代（坂口憲二）はある日、音信不通の娘・ゆり（村川絵梨）を探す父・中谷正彦（北見敏之）と知り合う。困り果てた正彦を見かねて彼女を探す二人だったが、亜紀（夏菜）がキャバクラ「ナイトロメオ」のホステス、セリナとゆりが同一人物であることに気づく。&#13;&lt;br&gt;山下、田代と店に向かった正彦は、無事ゆりと再会するが、彼女はベンチャー企業の社長・大野（宅間孝行）と深い関係になっていた。しかし、彼には恐ろしい裏の顔があった……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epg3mcd5ez"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epbekmr52r</id>
+    <title>風間公親―教場0―_[第4話 孤独の胎衣]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srntiftazq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 風間公親―教場0―
+                &lt;a href="https://tver.jp/series/srntiftazq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbekmr52r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★お気に入り登録で最新話を見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1 2/13(金) 15:42～3/18(水)&lt;br&gt;#2 2/16(月) 14:48～3/18(水)&lt;br&gt;#3 2/16(月) 15:42～3/18(水)&lt;br&gt;#4 2/19(木) ～2/25(水)&lt;br&gt;#5 2/22(日) ～2/28(土)&lt;br&gt;#6 2/25(水) ～3/3(火)&lt;br&gt;#7 2/28(土) ～3/6(金)&lt;br&gt;#8 3/3(火) ～3/9(月)&lt;br&gt;#9 3/6(金) ～3/12(木)&lt;br&gt;#10 3/9(月) ～3/15(日)&lt;br&gt;#11 3/12(木) ～3/18(水)&lt;br&gt;★“シェア”ボタンを使ってSNSで感想を共有しよう★&lt;br&gt;【FODプレミアムでは名作ドラマを好きなときに“イッキ見”！】&lt;br&gt;&lt;br&gt;県警本部捜査一課の刑事指導官・風間公親（木村拓哉）が以前逮捕した殺人犯が、出所後、事務員の伊上幸葉（堀田真由）に接触。彼女のカバンに、犯人が当時凶器として使っていた千枚通しを入れた。風間から指導を受けている新人刑事の隼田聖子（新垣結衣）は、幸葉が怖がっていることを風間に伝える。風間は、自宅周辺を警備させていること、そして念のためほかの部署に移ってもらうことを幸葉に告げる。&lt;br&gt;&lt;br&gt;ある日、人気工芸家の浦真幹夫（淵上泰史）が、自宅のリビングで死体となって発見される。現場へと向かう、風間と隼田。遺体は腐敗が進んでおり、死後4日ほど経過しているようだった。風間から所見を求められた隼田は、遺体の頭部にある傷が真横よりやや正面についていることから、向き合っているときに殴られたものと判断し、顔見知りの犯行だと返す。ほどなく、隣の家に住む小学生から、浦真家から女性が出てくるところを目撃したという証言が得られた。また、浦真にはラウラというイタリア人の婚約者がいた。浦真はラウラに、「ベビー用品を買いに行こう」というメールを送っていたが、彼女は妊娠していないらしい。&lt;br&gt;&lt;br&gt;一方、事件の直前と思われる時間に、道路のNシステムに浦真の車が記録されていた。助手席に同乗していたのは、19歳の大学生・萱場千寿留（生見愛瑠）だった。隼田は、風間とともに千寿瑠のアパートを訪ねるが……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbekmr52r"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epamjxoklm</id>
+    <title>ダブルス～二人の刑事_[File:004]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra42yo6t9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ダブルス～二人の刑事
+                &lt;a href="https://tver.jp/series/sra42yo6t9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epamjxoklm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;とある式典に出席する前川署長（橋爪功）を、車で会場まで送り届けることになった山下（伊藤英明）。途中、喫茶店に立ち寄るが、突然、猟銃を持った男・増田（東幹久）が店に逃げ込んでくる。二人はろう城を続ける彼を刺激しないよう警察官であることを隠していたが、ふとしたことから正体がバレてしまう。しかし、増田は意外な行動に出る。&#13;&lt;br&gt;一方、事件を知り、山下と些細なことで仲違いして別行動を取ったことを後悔する田代（坂口憲二）。はたして人質となった山下と前川の運命は……!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epamjxoklm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8qe3f59p</id>
+    <title>トップキャスター_[第7話 恋するふたり]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9k4khymj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ トップキャスター
+                &lt;a href="https://tver.jp/series/sr9k4khymj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8qe3f59p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;椿木春香（天海祐希）は、いつのまにかアシスタントとしても優秀になりつつある飛鳥望美（矢田亜希子）の様子に、ちょっぴり複雑な心境。望美は、間近に迫った誕生日を前に、しっかりしようと思っただけというのだが・・・。&lt;br&gt;一方、蟹原健介（玉木宏）は母校、友成学園で、部員たった9人の野球部の半年間を追ったドキュメンタリーを『ザ・ニュース』スタッフに見せる。サッカーならともかく、野球にスクープ性はないと春香はバッサリ。しかし、地区優勝を目前に、その野球部が、喫煙という不祥事を巡って出場辞退を検討しているとなると話は別。たった数人の問題を連帯責任とすることに疑問を持つ春香は、早速、友成学園を訪ねる。&lt;br&gt;春香たちを迎えたのは、健介の元同級生で教諭の内藤久美（中越典子）。久美に部室へと案内されるが、紹介された部員たちは健介似の天然系で、なかなか要領を得ない。タバコを吸ってはいないとの主張は引き出せたものの、その後はまったく関係ない話題に終始してしまう。それでも、取材を続けようとしていると、教頭（不破万作）と沼田理事長（長谷川初範）が現れ、取材を拒否。仕方なく部室を出る春香たちを、サッカー部のエースが見ていた。春香の何者かとの問いに、久美は、沼田の息子だと答える。&lt;br&gt;翌日、報道センターに久美がやって来た。久美は今回の喫煙問題に、理事長が関与しているのではないかと疑っていて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トップキャスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8qe3f59p"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4ocw3802</id>
+    <title>ダブルス～二人の刑事_[File:006]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra42yo6t9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ダブルス～二人の刑事
+                &lt;a href="https://tver.jp/series/sra42yo6t9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ocw3802.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;拳銃による連続殺人事件が発生する。被害者はいずれも違法行為スレスレのビジネスで大金を稼いでいた。世間は犯人を“現代の仕置き人”としてヒーロー扱いする。警察への逆風の中、聞き込みを進める山下（伊藤英明）と田代（坂口憲二）。訪れた現場で山下はかつての相棒、川島（葛山信吾）と再会し、旧交を温める。&#13;&lt;br&gt;しかし、有力な手がかりがつかめないまま、新たな犠牲者が出てしまう。二人は先手を打つべく、投資詐欺ぎりぎりの行為で私腹を肥やす真鍋（神保悟志）の護衛を務め、犯人の出方を待つが…。そんな中、犯行に使用されている拳銃が、四谷東署から押収後に紛失した物である可能性が浮上。警察内部の人間が疑われることに…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4ocw3802"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0mxzfchj</id>
+    <title>ファースト・キス_[第6話 今、恋が生まれる]</title>
+    <updated>2026-02-19T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra9uamqyr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ファースト・キス
+                &lt;a href="https://tver.jp/series/sra9uamqyr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0mxzfchj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;美緒（井上真央）は、白鷺大学附属病院の病室で一夜を明かす。和樹（伊藤英明）とケンカして家を飛び出した美緒は、蓮子（松雪泰子）に無理を言って病室に泊めてもらったのだ。目を覚ました美緒は、前夜、冗談めかして秋生（平岡祐太）に自分の気持ちを告白してしまったことを後悔する。美緒は、病室にやってきた秋生に、好きだといったのは芝居だ、と念を押した。すると秋生は、美緒が本当の気持ちを言ってくれたのだから、自分も本当の気持ちを答えたい、と真面目な顔で返す。美緒は、その場の雰囲気に耐え切れず、秋生の言葉を聞く前に病室を飛び出してしまう。同じころ、和樹、一流（劇団ひとり）、勝（阿部サダヲ）の3人は、首都圏に接近している台風に備えようとしていた。その際、一流から冷蔵庫の中身を整理するよう命じられた勝は、賞味期限切れと思われるチョコレートのケースを発見し、ゴミとして処分する。が、そのケースの中身は、美緒のニトロだった。和樹がゴミを捨てに行こうとすると、ちょうどそこに美緒が戻ってくる。和樹や美緒たちは、一流の指揮の下、台風に備えて家の中を点検する。そんななか、美緒は、いつも首から下げているニトロケースがないことに気付く。そこで初めて予備のニトロを捨ててしまったことに気づき、青ざめる和樹たち。秋生からの電話で、美緒が病院にニトロケースを忘れていったことを知った和樹は、暴風雨の中、病院に向かうが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ファースト・キス』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0mxzfchj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvrnuyan2</id>
     <title>義務と演技_[第４回「嘘で固めたホームパーティー」]</title>
@@ -1688,125 +2048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2xxhx9e8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4aew5tdo</id>
-    <title>大好き！五つ子4_[第22回 ボーイフレンド]</title>
-    <updated>2026-02-17T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子4
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4aew5tdo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;カレン（シンディ・エバンス）とボーイフレンドの話をしていた紀香（荒井千歩）は、ボーイフレンドの下川真人（石坂良磨）のことを聞かれ、ついついディカプリオのようにカッコイイと言ってしまう。そこでカレンに「写真を見せて」と言われた紀香は、困って美穂（新穂えりか）に相談。美穂は「真人君と別れちゃったことにしなさい」というが、紀香は良心がとがめてどうしたらいいか思いあぐねるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4aew5tdo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcwzj573j</id>
-    <title>体感予報_[第七話《ドラマシャワー》]</title>
-    <updated>2026-02-17T03:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcq4gvaks.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 体感予報
-                &lt;a href="https://tver.jp/series/srcq4gvaks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_03時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcwzj573j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                うだるような暑さの中、瀬ヶ崎（樋口幸平）は葉（増子敦貴）が昨晩篤弥（水石亜飛夢）と楽しそうにしていた姿を思い浮かべ不安になっていた。帰宅後も葉と気まずいまま、瀬ヶ崎はぼんやりと葉に出会った大学生時代を振り返る。いつも食堂で絵を描いていた葉。初めて葉が家に来てくれた日の出来事。そしてあの懐かしいカレーの味を。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcwzj573j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzzft28wa</id>
-    <title>家政夫のミタゾノ （2018）_[第2話]</title>
-    <updated>2026-02-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtf8b8q34.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 家政夫のミタゾノ （2018）
-                &lt;a href="https://tver.jp/series/srtf8b8q34" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月17日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzzft28wa.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/17(火)～ #1-#3&#13;&lt;br&gt;3/13(金)～ #4-#6&#13;&lt;br&gt;4/5(日)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「今度は普通の家庭に」と頼子（余貴美子）に頼んだ麻琴（剛力彩芽）。三田園（松岡昌宏）とともに派遣先・矢吹家を訪れると、そこで家主の矢吹研一（近藤公園）がルミ（片山萌美）という女性を連れ込んでいるという状況に遭遇する。&#13;&lt;br&gt;実家に帰っている妻の理沙子（矢田亜希子）が依頼した家政婦たちの登場に驚きつつ、ルミとのことは酔った上での過ちで、昨夜のことは覚えていないと弁明する研一。妻の不在をいいことに不倫をした挙げ句、言い訳がましい研一に麻琴は怒り心頭！　しかし「このことは妻には黙っていてほしい」「料金も上乗せするからルミがいた痕跡を消し去ってくれ」と懇願する研一の願いを三田園はあっさり聞き入れてしまい、麻琴をさらに呆れさせる！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzzft28wa"/>
   </entry>
 </feed>
