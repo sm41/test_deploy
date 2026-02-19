@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-19T18:06:10+09:00</updated>
+  <updated>2026-02-19T20:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epn5lvue92</id>
+    <title>3年B組金八先生(第7シリーズ)_[第21回 揺れる金八、大揺れの３B]</title>
+    <updated>2026-02-19T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月05日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn5lvue92.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;退職願を提出した金八（武田鉄矢）。職員室の教師たちは金八の決意までは知らないものの、その様子から、彼が受けた精神的打撃の大きさを感じ取り心配する。そんな時、フリースクールの服部先生（上條恒彦）から乾先生（森田順平）に電話が入る。一方、３年B組では舞子（黒川智花）が欠席。しゅう（八乙女光）を助けられなかった自分を責め、部屋にこもったままだという。生徒たちはもろくなった自分たちの団結力を再生したいと学級委員の健一郎（筒井万央）を中心に話し合い、卒業遠足を企画する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn5lvue92"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsuxpau38</id>
     <title>サ道2021_[第十二話（最終回）「佐賀 御船山楽園ホテル らかんの湯」世界のどこかで一緒にととのう]</title>
@@ -1568,165 +1608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfxmc1xgt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epff7gd1ve</id>
-    <title>結婚しない_[第6話 走り出した愛とは！？最後に見つけた答え]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srju7lot36.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 結婚しない
-                &lt;a href="https://tver.jp/series/srju7lot36" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月24日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epff7gd1ve.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;千春（菅野美穂）は純平（玉木宏）にスイートポテトを差し入れしようと、朝、春子（天海祐希）のバイクに乗せてもらい、春子と純平の仕事場であるメゾン・フローラルを訪れるが、純平は作業場で眠ってしまっていた。千春が純平とわざわざ画廊から取り返した純平の絵が眠っている傍らに置いてあった。その絵のモデルが瑞希（伊藤歩）だったことを知った千春は、黙って差し入れを持ってその場を立ち去る。&lt;br&gt;すると、同級生の由香里（西山繭子）から電話が入り、相談があるという。会社の近くでランチをしながら由香里の話を聞くと、夫の会社がいよいよ倒産し、福岡の親戚の家まで込み入った話をしに行かなければならないため、一晩5歳の息子を預かってもらえないか？ということだった。千春の実家で妹の千夏（中村ゆり）と一緒にその子を預かれないかと妹に聞くが、母の紀子（市毛良枝）が入院中のため難しい。居候の身で春子のマンションで預かってもいいか聞きづらい千春だったが、春子は了承してくれた。こうして千春は1日ママを務めることになり・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『結婚しない』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epff7gd1ve"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcsaiv3wu</id>
-    <title>先輩、断じて恋では！_[第２話《ドラマシャワー》]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0rzrlvo4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 先輩、断じて恋では！
-                &lt;a href="https://tver.jp/series/sr0rzrlvo4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcsaiv3wu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                飲み会の帰り道に先輩の柳瀬（内藤秀一郎）とキスをしてしまってから、戸惑いを隠せず悶々とした日々を送る金田（瀬戸利樹）。そんな中、柳瀬のもとには出来上がったCGを明日の朝までに修正してほしいとクライアントから急な依頼が舞い込む！無茶な要望にクオリティを諦めようとする柳瀬だが、それを見た金田は自分も手伝うことを提案。二人きりで深夜残業することに……!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcsaiv3wu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epboab5u54</id>
-    <title>都市伝説の女_[第1話]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnzjtmblb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 都市伝説の女
-                &lt;a href="https://tver.jp/series/srnzjtmblb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epboab5u54.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/18(水)～ #1-#3&#13;&lt;br&gt;3/12(木)～ #4-#6&#13;&lt;br&gt;4/6(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;美しすぎる刑事・音無月子（長澤まさみ）が警視庁捜査一課に着任した日、大手町で「ハギノ電工」の社員・藤沢昌史（斉藤陽一郎）の遺体が見つかった！遺体発見現場はハギノ電工のビルに隣接した路地裏。ビルの屋上には藤沢の靴が揃えられていた。部長の萩野亮一（柏原収史）によれば、融通の利かない性格だった藤沢は生前、課長の吉田和義（大河内浩）ともうまくいっておらず、悩んでいたとのこと。現場近くに遺書こそなかったものの、これらの状況から飛び降り自殺の線が濃厚となる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epboab5u54"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaliyflen</id>
-    <title>先輩、断じて恋では！_[第１話《ドラマシャワー》]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0rzrlvo4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 先輩、断じて恋では！
-                &lt;a href="https://tver.jp/series/sr0rzrlvo4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaliyflen.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                CG制作会社「マックスピクチャーズ」で働く優秀なCGクリエイター・柳瀬（内藤秀一郎）は、新人として入ってきた無愛想な後輩・金田（瀬戸利樹）の教育担当を任されることに。仲良くなるために親しみをこめて接するも「もっと距離をとってください」と冷たい態度で返されてしまう。しかし会社の歓迎会の帰り道、酔って饒舌になった金田から【本当の想い】をぶつけられる。それを聞いた柳瀬は……!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaliyflen"/>
   </entry>
 </feed>
