@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-19T16:06:10+09:00</updated>
+  <updated>2026-02-19T18:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsuxpau38</id>
+    <title>サ道2021_[第十二話（最終回）「佐賀 御船山楽園ホテル らかんの湯」世界のどこかで一緒にととのう]</title>
+    <updated>2026-02-19T17:00:05+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サ道2021
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月19日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsuxpau38.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：2/3（火）17:00～&#13;&lt;br&gt;#3,#4：2/6（金）17:00～&#13;&lt;br&gt;#5,#6：2/10（火）17:00～&#13;&lt;br&gt;#7,#8：2/13（金）17:00～&#13;&lt;br&gt;#10,#11：2/17（火）17:00～&#13;&lt;br&gt;#12：2/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;3人旅が中止になり、急遽1人旅に出たナカタアツロウ（原田泰造）は“サウナーの理想郷”とされるサウナ施設で今まで感じたことのない“ととのい”を体験する！　浴槽やサウナ室・外気浴スペース全てに大満足したナカタはクールダウンを兼ねてホテル内を散策することに。そんな時、廃墟の大浴場を使用したデジタルアートの展示会を発見する。中に入ると、そこには過去にタイムスリップしたかのような不思議な空間が広がっていた……！　さらに、サウナ室であの人物と偶然の再会を果たす！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsuxpau38"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ept54btkk3</id>
     <title>探偵が早すぎる_[#３ 最速の探偵がまさかの不在！？]</title>
@@ -124,7 +164,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;長野の別荘地で、雪に覆われ眠るように死んでいる家出少女・石森純子（山田愛奈）が見つかった。遺書はなかったが、警察は自殺と判断。しかし、純子の両親・石森俊一（横田栄司）と石森美穂（霧島れいか）の気持ちは収まらない。愛娘の自殺原因を知りたいと切望する石森夫妻は、弁護士・坂上舞（麻生久美子）のもとへ。フリープログラマー・坂上圭司（山田孝之）とその相棒・真柴祐太郎（菅田将暉）に引き合わされた夫妻は、純子が日記をつけていたパソコンのパスワード解除を依頼する。
+                1/26(月)～ #1-#3&lt;br&gt;2/19(木)～ #4-#6&lt;br&gt;3/17(火)～ #7-#8&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;長野の別荘地で、雪に覆われ眠るように死んでいる家出少女・石森純子（山田愛奈）が見つかった。遺書はなかったが、警察は自殺と判断。しかし、純子の両親・石森俊一（横田栄司）と石森美穂（霧島れいか）の気持ちは収まらない。愛娘の自殺原因を知りたいと切望する石森夫妻は、弁護士・坂上舞（麻生久美子）のもとへ。フリープログラマー・坂上圭司（山田孝之）とその相棒・真柴祐太郎（菅田将暉）に引き合わされた夫妻は、純子が日記をつけていたパソコンのパスワード解除を依頼する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epw1118plb"/>
@@ -164,7 +204,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;データの死後削除を「dele. LIFE」に依頼していた天利聡史（朝比奈秀樹）のパソコンが操作されなくなって、72時間が経った。この事実を知らせる信号を受信した「dele. LIFE」の社長・坂上圭司（山田孝之）は、相棒の真柴祐太郎（菅田将暉）に死亡確認をするよう指示し、そのまま外出する。圭司が向かったのは、とあるカフェ。目の前に現れたのは、圭司がどういうわけか1年に一度会い続けている元恋人・沢渡明奈（柴咲コウ）だった…！
+                1/26(月)～ #1-#3&lt;br&gt;2/19(木)～ #4-#6&lt;br&gt;3/17(火)～ #7-#8&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;データの死後削除を「dele. LIFE」に依頼していた天利聡史（朝比奈秀樹）のパソコンが操作されなくなって、72時間が経った。この事実を知らせる信号を受信した「dele. LIFE」の社長・坂上圭司（山田孝之）は、相棒の真柴祐太郎（菅田将暉）に死亡確認をするよう指示し、そのまま外出する。圭司が向かったのは、とあるカフェ。目の前に現れたのは、圭司がどういうわけか1年に一度会い続けている元恋人・沢渡明奈（柴咲コウ）だった…！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvnw7dre3"/>
@@ -204,7 +244,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                1/26(月)～ #1-#3&lt;br&gt;2/19(木)～ #4-#6&lt;br&gt;3/17(火)～ #7-#8&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;「人は二度死ぬと言う」「呪われた力を持った僕」「あの判断は間違っていなかったはずだ」&lt;br&gt;――そんな不可解なフレーズと葛藤に満ちた、遺書とも取れるメールが「dele. LIFE」に届いた。送信主は日暮裕司（野田洋次郎）という35歳の男。「dele. LIFE」にPDFファイルの死後削除を依頼していた人物だった。メールを受け取った坂上圭司（山田孝之）は「あれまで消えてしまうことが正しいのか」という言葉を目にするや、「あれ」が削除依頼ファイルだと推測。何を思ったか自ら進んでファイルを開き、子どもが色鉛筆で描いたと思われる絵が数点格納されているのを確認する。
+                1/26(月)～ #1-#3&#13;&lt;br&gt;2/19(木)～ #4-#6&#13;&lt;br&gt;3/17(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「人は二度死ぬと言う」「呪われた力を持った僕」「あの判断は間違っていなかったはずだ」&#13;&lt;br&gt;――そんな不可解なフレーズと葛藤に満ちた、遺書とも取れるメールが「dele. LIFE」に届いた。送信主は日暮裕司（野田洋次郎）という35歳の男。「dele. LIFE」にPDFファイルの死後削除を依頼していた人物だった。メールを受け取った坂上圭司（山田孝之）は「あれまで消えてしまうことが正しいのか」という言葉を目にするや、「あれ」が削除依頼ファイルだと推測。何を思ったか自ら進んでファイルを開き、子どもが色鉛筆で描いたと思われる絵が数点格納されているのを確認する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptdz9htt1"/>
@@ -1688,125 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epaliyflen"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep944ntrhw</id>
-    <title>美しい彼（シーズン２）_[最終話《ドラマイズム》]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruhr3kn1v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 美しい彼（シーズン２）
-                &lt;a href="https://tver.jp/series/sruhr3kn1v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep944ntrhw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                普通の恋人同士になりたい清居奏（八木勇征）の気持ちは、一人妄想世界の住人・平良一成（萩原利久）には伝わらない。無神経に傷つくような言葉を言われ、いっそ別れたほうが楽になる、と思った清居だったが…気づけば平良の家にいた。&lt;br&gt;そして、２人のもとには高校の同窓会の誘いが。久々に集まった、同級生たち。高校時代の狭い世界は少しだけ変化を見せていて、城田（坪根悠仁）からはある報告が…!?一方、フォトコンテストも落ち、就職活動もなかなか上手くいかない平良に、小山和希（高野洸）は写真家・野口大海（和田聰宏）を訪ねるように提案をして…。&lt;br&gt;「何がキングだ。俺が欲しいのはそんな敬称じゃない。もっと、もっと、普通の……」
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep944ntrhw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep83qkqua6</id>
-    <title>トリック 1 _[第1話]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トリック 1 
-                &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83qkqua6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/18(水)～ #1-#3&#13;&lt;br&gt;3/12(木)～ #4-#6&#13;&lt;br&gt;4/6(月)～ #7-#10&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;TRICK1 「透視」&#13;&lt;br&gt;売れない奇術師・山田奈緒子（仲間由紀恵）は、ある日、唯一の収入源である見世物小屋の仕事をクビになった。&#13;&lt;br&gt;彼女はそこで雑誌に掲載された、若手物理学者・上田次郎（阿部寛）から霊能力者たちへの挑戦状を見つける。『私の目の前で、超能力者であると証明できたら賞金を支払います』&#13;&lt;br&gt;手品を見せて賞金を…。金欠の奈緒子は、上田の研究室を訪ねることに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep83qkqua6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6a5n9z5o</id>
-    <title>高良くんと天城くん_[第２話《ドラマシャワー》]</title>
-    <updated>2026-02-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8crpsf0b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 高良くんと天城くん
-                &lt;a href="https://tver.jp/series/sr8crpsf0b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6a5n9z5o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ようやく正式な恋人同士となった高良（佐藤新）と天城（織山尚大）。いつでも一緒にいられる幸せを噛みしめていた天城だったが、高良に迫られるという刺激的な夢を見てしまってから、恥ずかしさのあまり高良に不自然な態度を取ってしまう。相談相手の香取（鈴木康介）にも「夢は願望の現れ」と言われ、余計に意識してしまい……。またもや二人はすれ違うことに……!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6a5n9z5o"/>
   </entry>
 </feed>
