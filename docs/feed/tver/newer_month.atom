@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-19T22:06:10+09:00</updated>
+  <updated>2026-02-20T00:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epbpttr9qz</id>
+    <title>プロフェッショナル 保険調査員・天音蓮_[第7話 離婚保険を調査せよ！金メダリスト夫婦が突然の離婚！？]</title>
+    <updated>2026-02-19T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbal79uyb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ プロフェッショナル 保険調査員・天音蓮
+                &lt;a href="https://tver.jp/series/srbal79uyb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月19日(木)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月26日(木)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月19日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbpttr9qz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                誰もいない静寂のチャペル。扉が開くと、純白のウエディングドレスに包まれた凛（岡崎紗絵）が現れる。ゆっくりと進み、視線の先に立つのは――。&lt;br&gt;&lt;br&gt;1週間前、オフィスで天音（玉木宏）と凛、深山（小手伸也）が卓球金メダリストの大河内萌子（堀田茜）とその夫・広也（髙地優吾）夫婦のインタビュー番組を見ている。自分の活躍は、管理栄養士でもある夫の支えがあってのものだ、と話す萌子を見て、凛は二人を「理想の夫婦」だと言うが、天音は鼻で笑う。「結婚だけが幸せの形じゃないんだよ」と。&lt;br&gt;&lt;br&gt;すると、オフィスの呼び鈴が鳴り、深山の元妻・江本しずく（原ふき子）と娘のみつ葉（鈴木誉）が訪れる。しずくが出張の間、みつ葉をここで預かることになったのだ。娘に嫌われたくない深山は、執事のようにみつ葉の言いなりに・・・とそこに沢木（野間口徹）と秘書の沙月（結城モエ）が現れる。今回の調査依頼は“離婚保険”の案件。離婚した際に必要な引っ越し費用、裁判費用、生活費などをカバーする保険だ。少額の案件だが、商品開発責任者だった沢木として、損害を出すわけにはいかないらしい。「保身のためですか」と天音は呆れながらも「で、どこの誰なんですか？請求人は」と訪ねると、幸せそうにカレーを食べる大河内夫婦のTVCMを見て沢木は言う。「彼だよ」――。&lt;br&gt;&lt;br&gt;天音は、“離婚のスペシャリスト”として深山を連れて、広也に会いに行く。広也自身、印税やテレビの出演料など十分な収入があった。にもかかわらず、なぜ離婚保険を解約しなかったのか、離婚の原因は何なのか尋ねる天音。広也によれば、1週間前に突然離婚を切り出され、理由も話してもらえなかったと言う。&lt;br&gt;&lt;br&gt;一方、オフィスでみつ葉の子守役をしていた凛。しかし凛がコンビニに買い物に行った隙に、みつ葉はオフィスから姿を消していた・・・街中を捜す凛。そこに偶然、佐久間（渡部篤郎）が現れ、手分けして探すことに。&lt;br&gt;&lt;br&gt;幸せそうに見えた大河内夫婦の裏に、いったい何があったのか？オフィスからいなくなったみつ葉の行方は・・・？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbpttr9qz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eps1wkl0hf</id>
     <title>ゆかりくんはギャップがずるい_[第3話 ゆかり筋の衝撃]</title>
@@ -648,205 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptaatr4is"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep05suwnp4</id>
-    <title>三国志　秘密の皇帝_[第39話]</title>
-    <updated>2026-02-18T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月18日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep05suwnp4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                郭嘉（かくか）の死後、鮮卑（せんぴ）が廬龍（ろりゅう）の近くに姿を現す。危機を感じた劉平（りゅうへい）は、曹操（そうそう）に援軍を要請する使者を送る。しかし、曹節（そうせつ）が郭嘉から託された袋を開けると、郭嘉が盧龍に援軍を送らぬようにと曹操へ伝えていたことが分かる。そんな折、劉平が送り出した使者たちを捕らえた鮮卑が盧龍の町の外に姿を現し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep05suwnp4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epx0dlp37o</id>
-    <title>あなたを殺す旅_[Episode6 旅の終着点]</title>
-    <updated>2026-02-18T01:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw68lyr70.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あなたを殺す旅
-                &lt;a href="https://tver.jp/series/srw68lyr70" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_01時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_01時25分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx0dlp37o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【FODにてノーカット完全版全話配信中！】&lt;br&gt;&lt;br&gt;病院に運ばれ、意識の無い片岡（和田雅成）と、その顔を祈るように見つめる小田島（髙橋大翔）。かつて親友の朝日（堀海登）がなぜ片岡をかばって命を落としたのか、その理由にようやく辿り着いた小田島は、ある覚悟を胸に桐井（遊屋慎太郎）の前へ。そして、現金2億円と、片岡殺害を命じる桐井の音声を収めたICレコーダーを突きつけ、組から去る事を告げる。そして――海沿いの埠頭に停車した車の中、眠る片岡を横に小田島は静かに銃を握るのだった――
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epx0dlp37o"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppxchxpzc</id>
-    <title>どーする？ごはんSEASON2_[韓国編第4話「練り物研究所」]</title>
-    <updated>2026-02-18T01:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlmq9cffq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ どーする？ごはんSEASON2
-                &lt;a href="https://tver.jp/series/srlmq9cffq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_01時10分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppxchxpzc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                釜山名物のおでんに欠かせない練り物。おでんが好きなジヌは練り物研究所のアルバイト面接を受けることにした。合格者はたった2人。面接会場ではゾンビメイクをした人や練り物を手に持ち演技をしている人たちがいて、ジヌは場違いと面接会場を去ろうとするが…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppxchxpzc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgc3k5qrr</id>
-    <title>略奪奪婚_[第7話 時計じかけの不倫劇と異常な愛情]</title>
-    <updated>2026-02-18T01:10:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9o4l4jzm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 略奪奪婚
-                &lt;a href="https://tver.jp/series/sr9o4l4jzm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月25日(水)_00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgc3k5qrr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                精子の検査を受けた司（伊藤健太郎）は医者から衝撃的な事実を告げられる。一方千春（内田理央）はナオ（松本大輝）の助けもあり、海斗（ISSEI）からえみる（中村ゆりか）に関する証拠を手に入れることに成功。以前のえみるの妊娠への疑惑が確信へと変わる。そんな中、久しぶりに兄・隆（苗代泰地）と対面した司は心無い母親（街田しおん）の言葉から劣等感に苛まれ、事務員の梅田（川島鈴遥）の家へ足が向いてしまい？　［期間限定無料配信］　毎週火曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgc3k5qrr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp01cpi73</id>
-    <title>黒崎さんの一途な愛がとまらない_[第7話 きゅんシーンがとまらない!!小春と黒崎さんがついに…]</title>
-    <updated>2026-02-18T01:04:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrejzzg0i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 黒崎さんの一途な愛がとまらない
-                &lt;a href="https://tver.jp/series/srrejzzg0i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月18日(水)_01時04分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp01cpi73.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                初恋を自覚した小春(豊嶋花)は、勇気を出して黒崎(山中柔太朗)をデートに誘う。チョコレートを手作りし、告白を決意して向かった遊園地にいたのは、コアラのマスクで顔を隠し、逆に周囲の注目を浴びている黒崎だった!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp01cpi73"/>
   </entry>
 </feed>
