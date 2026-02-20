@@ -2,11 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-20T20:06:13+09:00</updated>
+  <updated>2026-02-20T22:06:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eporzvnw8t</id>
+    <title>副会長の主なお仕事_[秘密の儀式]</title>
+    <updated>2026-02-20T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eporzvnw8t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                放課後の生徒会室に、栗下が“とある紙”を持ち込む。その名も「くりしたさん」──降霊ゲーム風でありながら、どこからどう見ても栗下の私情MAXな謎ルール。嫌がる灰屋も巻き込まれ、二人だけの“質問タイム”が始まるが、偏愛ぎみの問いばかりが飛び出し、灰屋の心の平穏は今日も守られない。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eporzvnw8t"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epyjkfdw9h</id>
+    <title>元科捜研の主婦_[6話「パワハラ社長、謎の死！同級生が毒殺犯!?」]</title>
+    <updated>2026-02-20T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月27日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyjkfdw9h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                詩織（松本まりか）の親友が殺人犯!?詩織は、美容系メーカーに勤める大学時代の同級生・由利（黒川智花）再会する。由利の娘・真紀（前田花）と亮介（佐藤大空）もすっかり仲良しに。そんな時、由利は社長の西条（田中幸太朗）に呼び出され、急ぎ会社へ。しかし、西条は社員たちの前で毒殺される。捜査する道彦（横山裕）は、容疑者の由利が詩織の友人だと気づき…。“小さな葉”と“見えない時間差”…科学の力が導く真実とは！　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyjkfdw9h"/>
+  </entry>
 </feed>
