@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-20T18:06:13+09:00</updated>
+  <updated>2026-02-20T20:06:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnudr9oaj</id>
+    <title>3年B組金八先生(第7シリーズ)_[最終回 25年目の贈る言葉～涙の卒業式スペシャル]</title>
+    <updated>2026-02-20T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第7シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnudr9oaj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;しゅう（八乙女光）の身柄が鑑別所に移された。その頃、３年B組の生徒たちは、学級委員を中心に謝恩会について話し合っていた。しゅうが戻ってこなければ謝恩会をやる意味はないと意見が一致し、代わりに何かできることはないかアイデアを募ることに。また舞子（黒川智花）は、しゅうが少年院に入らず保護観察処分で済むよう、みんなで署名を集めて家庭裁判所に嘆願書を出そうと提案する。２回目の審判は、卒業式と同じ日の朝９時に決まる。しゅうは卒業式に出席することができるのか？金八（武田鉄矢）は本当に教師を辞めてしまうのか？いよいよ卒業式当日がやってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnudr9oaj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprqulk9q2</id>
     <title>サ道_[第12話（最終回） サウナとは？]</title>
@@ -3328,45 +3368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephlgs0p82"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephdf2t96p</id>
-    <title>となりのナースエイド_[第2話　モンスターナースエイドvs超わがままVIP患者!]</title>
-    <updated>2026-02-20T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlj7c0k6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ となりのナースエイド
-                &lt;a href="https://tver.jp/series/srwlj7c0k6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephdf2t96p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-5　2/20(金)12:00～&lt;br&gt;#6-7　2/27(金)12:00～&lt;br&gt;#8-10,SP　3/6(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;「私は…人殺しです」自身の秘密を打ち明けた新米ナースエイド・澪(川栄李奈)は、オペ室での一件で病院中から腫れ物扱い。おまけに根も葉もないウワサまで流されて…。そんな中、特別個室にガンで入院中の人気インフルエンサー・高梨萌(恒松祐里)が突然手術を拒否。執刀医の大河(高杉真宙)の説得にも全く応じない。大河に頼まれて澪も説得に当たるが…。萌が手術を嫌がるワケとは!?そして澪の過去には一体何が…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephdf2t96p"/>
   </entry>
 </feed>
