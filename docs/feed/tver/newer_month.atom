@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-21T02:06:13+09:00</updated>
+  <updated>2026-02-21T11:15:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epy40v6x34</id>
+    <title>おとなになっても_[第7話「別居、そして新たな不倫」]</title>
+    <updated>2026-02-21T03:14:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6wh3beew.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ おとなになっても
+                &lt;a href="https://tver.jp/series/sr6wh3beew" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_03時14分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_00時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy40v6x34.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                綾乃(山本美月)に関する情報交換のため、朱里(栗山千明)と仲良くなった恵利(錫木うり)。朱里に会いに職場まで行った際、髪を切ってくれた朱里の同僚・森田(桐山漣)と関わるうちにどんどんと彼に惹かれていく。綾乃は女子生徒2人から託された交換物語を読み、嫌がらせの手紙を書いたとされる女子児童・吉住一花(矢部玲奈)に直接話をすることに。その児童のことを考えながら帰っている途中、偶然朱里に再会する。｢もう声かけない｣という宣言を反射的に破ってしまい、朱里は綾乃のことがまだ好きであると正直に告白する。綾乃もそれに応え、それから2人は約束せずに時折会う関係に。一方恵利は、森田と一緒にホテル街へ来ていて…?&lt;br&gt;【Huluではノーカット版・全12話一挙配信中！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epy40v6x34"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2ntf4u9t</id>
     <title>教えてください、藤縞さん！_[#7 これからも友達でいようね]</title>
