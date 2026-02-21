@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-21T20:05:30+09:00</updated>
+  <updated>2026-02-21T22:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9vaol1sc</id>
+    <title>パンダより恋が苦手な私たち_[第7話 恋人のフリして実家へ…2人の関係が急展開]</title>
+    <updated>2026-02-21T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9vaol1sc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大切な人とずっと一緒にいるためには何が必要?柴田一葉(上白石萌歌)は、変人動物学者・椎堂司(生田斗真)の母・ケイカ(草刈民代)に息子に付きまとう目障りな存在とされ…。そんな中、一葉の両親が熟年離婚!?離婚を阻止するため、司は一葉のために恋人のふりをして福島の実家へ…!司の悲しい生い立ちを聞く。一葉と司の関係が急展開!そしてアリア(シシド・カフカ)の元に怪しい週刊誌の記者が…隠していた過去が明らかに
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9vaol1sc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy40v6x34</id>
     <title>おとなになっても_[第7話「別居、そして新たな不倫」]</title>

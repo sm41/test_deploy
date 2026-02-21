@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-21T20:05:30+09:00</updated>
+  <updated>2026-02-21T22:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2208,45 +2208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epoil6helg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm0ogq3zm</id>
-    <title>アンチヒーロー_[Episode５ －因縁－]</title>
-    <updated>2026-02-20T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqt16o7rn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アンチヒーロー
-                &lt;a href="https://tver.jp/series/srqt16o7rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_12時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm0ogq3zm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-5：2月20日(金)13:00～3月1日(日)12:59&lt;br&gt;#6-10：3月1日(日)13:00～3月10日(火)12:59&lt;br&gt;※本作品は3月10日(火)～にも配信を行います&lt;br&gt;------------&lt;br&gt;遂に明かされる明墨（長谷川博己）と伊達原（野村萬斎）の関係。明墨と志水裕策（緒形直人）との真実も明らかに。そして、父・倉田功（藤木直人）を前に紫ノ宮（堀田真由）は選択を迫られる。愛する父か、自身の正義か。さらに、明墨が緋山（岩田剛典）を無罪にした理由が見え始め、本来繋がるはずのない「点と点」が繋がっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm0ogq3zm"/>
   </entry>
 </feed>
