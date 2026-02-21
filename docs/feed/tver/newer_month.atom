@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-21T22:05:30+09:00</updated>
+  <updated>2026-02-22T00:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdyhuwx8y</id>
+    <title>ぜんぶ、あなたのためだから_[第7話 凄絶!!最恐聖母との血戦]</title>
+    <updated>2026-02-21T23:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
+                &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_23時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdyhuwx8y.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                結婚式で沙也香（井桁弘恵）に薬を盛った最後の容疑者、沙也香の母・香（松下由樹）とついに全面対決!!&#13;&lt;br&gt;和臣（藤井流星）の指示で、桜庭（七五三掛龍也）は香の尾行を開始。&#13;&lt;br&gt;香が病院に通い、「ある薬」を処方されていたことを知り、ますます疑いを強めたふたり…。&#13;&lt;br&gt;ある秘策を胸に、桜庭を伴い香の家、つまり沙也香の実家を訪れることにした和臣だったが、そこで香の「毒親ぶり」を目の当たりにし…!?&#13;&lt;br&gt;【姑VS新郎】の最終決戦が始まる…!!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdyhuwx8y"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep9vaol1sc</id>
     <title>パンダより恋が苦手な私たち_[第7話 恋人のフリして実家へ…2人の関係が急展開]</title>
@@ -248,165 +288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep4tnqlq1t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9t5597fn</id>
-    <title>ゴールデンカムイ_[映画『ゴールデンカムイ』]</title>
-    <updated>2026-02-20T23:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnszju540.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ゴールデンカムイ
-                &lt;a href="https://tver.jp/series/srnszju540" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_23時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月20日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9t5597fn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                舞台は気高き北の大地・北海道。時代は、激動の明治末期。&lt;br&gt;「不死身の杉元」と異名を付けられた元兵士・杉元佐一(山﨑賢人)は、アイヌ民族から強奪された莫大な金塊の存在を知る。金塊を奪った男「のっぺら坊」は、捕まる直前に金塊をとある場所に隠し、そのありかを記した刺青を24人の囚人の身体に彫り、彼らを脱獄させた。囚人の刺青は24人全員で1つの暗号になるという。そんな折、野生のヒグマの襲撃を受けた杉元をアイヌの少女(山田杏奈)が救う。「アシㇼパ」という名の少女は、金塊を奪った男に父親を殺されていた。金塊を追う杉元と、父の仇を討ちたいアシㇼパは、行動を共にすることに。同じく金塊を狙うのは、大日本帝国陸軍「第七師団」の鶴見篤四郎中尉(玉木宏)。そして、もう1人、新撰組の「鬼の副長」こと土方歳三(舘ひろし)が自らの野望実現のため、金塊を追い求めていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9t5597fn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppu7wyt0c</id>
-    <title>DREAM STAGE_[第６話 夢も仲間も捨て…涙と決意のラストライブ]</title>
-    <updated>2026-02-20T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月27日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppu7wyt0c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;「生き残るには１位獲得がマスト」と悲壮な決意で挑んだデビューランキングだったが、TORINNERに敗れたNAZE。デビュー曲で１位を取れなかったグループは数年以内に消えるという過去のデータがTEAM NAZEに重くのしかかる。「勝てなかったのは俺の責任だ、申し訳ない」と頭を下げる吾妻（中村倫也）。そして「負け犬のまま人生を無駄にしたくなければ、他の生き方を選ぶ手もある」という吾妻の言葉を呆然と聞いているユンギ。実はユンギは、芸能活動に反対する父・シニャン（チェ・ジノ）と“１位を取れなかったら芸能活動を辞める”という約束をしていた。シニャンは幾つもの会社を経営する社長。「お前なんかがアイドルなどできる訳ないと言っただろ」と厳しく言い放ち、「人生に失敗したくなければ、私の言う通りにしなさい」と、日本支社の経営を息子であるユンギに委ねようとする。夢を諦める…胸が張り裂けそうな切ない思いを抱えるユンギ。&lt;br&gt;他のメンバーや水星（池田エライザ）がTORINNERに勝てるよう再チャレンジに向けて前向きになる中、ユンギはNAZEを脱退する決意を固める。最後のライブを終えたユンギは、メンバーに「今日でNAZEを辞める」と告げ、「こんな下らない奴らと組んでても未来がない。もう遊んでなんかいられないって言ってんだよ！」と、わざと嫌われるようなことを言い捨て、去っていく。あふれでる涙を止めることができないユンギ。&lt;br&gt;一方、メンバーたちは「遊びだったんだ」「見損なった」と憤慨。吾妻は何とかグループに戻せないかとユンギの父親に相談するが、そこで予想もしなかった秘密が明らかになる――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppu7wyt0c"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eporzvnw8t</id>
-    <title>副会長の主なお仕事_[秘密の儀式]</title>
-    <updated>2026-02-20T22:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 副会長の主なお仕事
-                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eporzvnw8t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                放課後の生徒会室に、栗下が“とある紙”を持ち込む。その名も「くりしたさん」──降霊ゲーム風でありながら、どこからどう見ても栗下の私情MAXな謎ルール。嫌がる灰屋も巻き込まれ、二人だけの“質問タイム”が始まるが、偏愛ぎみの問いばかりが飛び出し、灰屋の心の平穏は今日も守られない。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eporzvnw8t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyjkfdw9h</id>
-    <title>元科捜研の主婦_[6話「パワハラ社長、謎の死！同級生が毒殺犯!?」]</title>
-    <updated>2026-02-20T21:54:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 元科捜研の主婦
-                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月20日(金)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月27日(金)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyjkfdw9h.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詩織（松本まりか）の親友が殺人犯!?詩織は、美容系メーカーに勤める大学時代の同級生・由利（黒川智花）再会する。由利の娘・真紀（前田花）と亮介（佐藤大空）もすっかり仲良しに。そんな時、由利は社長の西条（田中幸太朗）に呼び出され、急ぎ会社へ。しかし、西条は社員たちの前で毒殺される。捜査する道彦（横山裕）は、容疑者の由利が詩織の友人だと気づき…。“小さな葉”と“見えない時間差”…科学の力が導く真実とは！　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyjkfdw9h"/>
   </entry>
 </feed>
