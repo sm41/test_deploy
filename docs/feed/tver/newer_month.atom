@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-22T02:05:30+09:00</updated>
+  <updated>2026-02-22T10:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvsw44wyr</id>
+    <title>＆Hulu_[特集3本(1)実写化第2弾「時計館の殺人」(2)Huluオリジナル「手越祐也のワンダフルライフ」(3)「神の雫/Drops of God」▼「大丈夫、愛だ」第1話後半]</title>
+    <updated>2026-02-22T03:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_03時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月07日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvsw44wyr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特集3本立て&lt;br&gt;(1)Huluオリジナル「時計館の殺人」綾辻ミステリー「館」シリーズ実写化第2弾！十角館の惨劇から3年。新たな事件が…&lt;br&gt;(2)Huluオリジナル「手越祐也のワンダフルライフ」愛犬家ゲストの願望を叶えるワンダフルバラエティ&lt;br&gt;(3)「神の雫/Drops of God」ワインを題材にした漫画をアレンジした山下智久海外ドラマ初主演作&lt;br&gt;▼韓国ドラマ「大丈夫、愛だ」第1話後半！&lt;br&gt;恋愛恐怖症の精神科医とベストセラー作家の愛の行方とは？&lt;br&gt;(C) CJ ENM Co., Ltd, All Rights Reserved.
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvsw44wyr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epdop289sc</id>
     <title>CUT.編集された世界_[#3「CUTのはじまり」]</title>
@@ -168,205 +208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep9vaol1sc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy40v6x34</id>
-    <title>おとなになっても_[第7話「別居、そして新たな不倫」]</title>
-    <updated>2026-02-21T03:14:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6wh3beew.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おとなになっても
-                &lt;a href="https://tver.jp/series/sr6wh3beew" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_03時14分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy40v6x34.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                綾乃(山本美月)に関する情報交換のため、朱里(栗山千明)と仲良くなった恵利(錫木うり)。朱里に会いに職場まで行った際、髪を切ってくれた朱里の同僚・森田(桐山漣)と関わるうちにどんどんと彼に惹かれていく。綾乃は女子生徒2人から託された交換物語を読み、嫌がらせの手紙を書いたとされる女子児童・吉住一花(矢部玲奈)に直接話をすることに。その児童のことを考えながら帰っている途中、偶然朱里に再会する。｢もう声かけない｣という宣言を反射的に破ってしまい、朱里は綾乃のことがまだ好きであると正直に告白する。綾乃もそれに応え、それから2人は約束せずに時折会う関係に。一方恵利は、森田と一緒にホテル街へ来ていて…?&lt;br&gt;【Huluではノーカット版・全12話一挙配信中！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy40v6x34"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2ntf4u9t</id>
-    <title>教えてください、藤縞さん！_[#7 これからも友達でいようね]</title>
-    <updated>2026-02-21T01:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmhuw43k0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 教えてください、藤縞さん！
-                &lt;a href="https://tver.jp/series/srmhuw43k0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_01時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_01時50分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2ntf4u9t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ラブラブモード全開の二人。藤縞はいきなりりおの実家で「結婚を前提に」と宣言！りおは嬉しさと驚きでパニック!?一方、吉埜は「もうお世話はいらない」と、りおを最後の散歩に誘う。想いを告げようとするが…。そんな中、幸せいっぱいの藤縞を会社で呼び止めたのは、“ある人物”だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2ntf4u9t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epajk856ss</id>
-    <title>俺たちバッドバーバーズ_[#7 俺と一緒に死んでくれ]</title>
-    <updated>2026-02-21T01:18:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sril41r09a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 俺たちバッドバーバーズ
-                &lt;a href="https://tver.jp/series/sril41r09a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_01時18分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_01時12分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epajk856ss.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                裏社会のなんでも屋という顔を持つ理容室で働く日暮（中島歩）と月白（草川拓弥）は、「夜中に無断でプロレスリングを使っている変な男がいるから、締め出してほしい」という依頼を受ける。二人はその男をすぐさま撃退するが、ひょんなことからジムに閉じ込められてしまった。扉を開けようと足掻いているうちに、男は再び目を覚まし、突如口の中から銃を取り出してきた！男の正体が判明し、二人は絶体絶命のピンチに！　［期間限定無料配信］　毎週金曜深夜24時42分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epajk856ss"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep88hxnd80</id>
-    <title>婚活バトルフィールド37_[第7戦 結婚したい赤木と内田の場合「結婚相談所」]</title>
-    <updated>2026-02-21T00:47:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr95ydcxne.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 婚活バトルフィールド37
-                &lt;a href="https://tver.jp/series/sr95ydcxne" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_00時47分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_00時41分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep88hxnd80.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚相談所で内田（戸塚純貴）が紹介されたのはなんと青島（福田麻貴）だった。しかしお見合いのはずが、青島による婚活指南が始まる…！赤木（加藤ローサ）も渋々結婚相談所に入会することに。理想ばかりを掲げていてはダメだと条件を妥協しながら年収1000万円のプログラマー・吉田和智（内野謙太）とお見合いをすることに。タイプではないが積極的に距離を縮めてくる吉田に、赤木の心は徐々に揺れ動いていき…　［期間限定無料配信］　毎週金曜深夜24時12分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep88hxnd80"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4tnqlq1t</id>
-    <title>探偵さん、リュック開いてますよ_[第7話「Lost Cat Days 探偵」]</title>
-    <updated>2026-02-21T00:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra88gak1p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 探偵さん、リュック開いてますよ
-                &lt;a href="https://tver.jp/series/sra88gak1p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_00時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_00時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4tnqlq1t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                &lt;探偵×謎のネコ×ヒットマン!?&gt;&#13;&lt;br&gt;猫嫌いの探偵・洋輔(松田龍平)が愛らしすぎる猫のとりこに！&#13;&lt;br&gt;突然の仁義にゃきヒットマン登場で大波乱…&#13;&lt;br&gt;決死の猫レスキュー作戦の行方は!?&#13;&lt;br&gt;&#13;&lt;br&gt;一ノ瀬洋輔（松田龍平）の探偵事務所兼住居の「ゆらぎや」に、一匹の猫が迷い込んでくる。過去のトラウマから猫が大の苦手な洋輔は追い出そうとするが、勇気を振り絞って触れ合ったところ、たちまちとりこに！“イズミ”と名前までつけて溺愛するのだが…その矢先、イズミを狙う怪しい男が西ヶ谷温泉に出現。一体、なぜイズミは追われているのか？イズミの正体とは…？決死の猫レスキュー大作戦が幕を開ける―！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4tnqlq1t"/>
   </entry>
 </feed>
