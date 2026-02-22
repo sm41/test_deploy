@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-22T18:06:30+09:00</updated>
+  <updated>2026-02-22T20:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epthdcuevv</id>
+    <title>3年B組金八先生(第8シリーズ)_[スタートスペシャル ギラリと光るダイヤのような日！]</title>
+    <updated>2026-02-22T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月08日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthdcuevv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;理科の遠藤達也先生（山崎銀之丞）が痴漢容疑で捕まったという知らせを受けた桜中学の坂本金八（武田鉄矢）をはじめ教員たちは騒然となる。数日後、３年B組の生徒・長谷川孝志（坂本優太）の両親（平栗あつみ・吉見一豊）が桜中学へ乗り込んでくる。孝志の両親は夏休みの課題で孝志が描いた絵に対する美術教師・立花かおり（藤澤恵麻）の評価に納得できないと言うのだ。そんな中、授業中に３Bの江藤清花（水沢奈子）が倒れ、救急車で病院へ運ばれる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epthdcuevv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epcpfl8cjo</id>
     <title>カミさんの悪口_[第８話「浮気のススメ」]</title>
@@ -3488,45 +3528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epxmggzsvw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmaymfuuv</id>
-    <title>先生のおとりよせ_[第4話 「発酵する才能」]</title>
-    <updated>2026-02-21T17:00:03+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxxidjhpl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 先生のおとりよせ
-                &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmaymfuuv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/21（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/22（日）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：2/23（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;中田（北村有起哉）は最近、榎村（向井理）の姿を見かけず、互いに連絡もとっていないことに気がつく。そんな中、マンションの隣の部屋からは異臭が…もしかして榎村が過労で孤独死しているのではないか、と中田は慌てて榎村宅に駆け込むが、その臭いの正体とは？！　［期間限定無料配信］　ほんのり官能感漂う！？新感覚グルメドラマがスタート！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmaymfuuv"/>
   </entry>
 </feed>
