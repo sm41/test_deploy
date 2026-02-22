@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-22T22:06:30+09:00</updated>
+  <updated>2026-02-23T00:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfjwoouwg</id>
+    <title>パンチドランク・ウーマン −脱獄まであと××日−_[#5 脱獄計画を止めろ!狙われる命…]</title>
+    <updated>2026-02-22T23:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6mknxzp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンチドランク・ウーマン −脱獄まであと××日−
+                &lt;a href="https://tver.jp/series/srf6mknxzp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_23時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfjwoouwg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                脱獄に手を貸す内通者は、刑務官の部下だった!氷川拘置所の刑務官・冬木こずえ(篠原涼子)は、脱獄を企てるカルト教団の内通者・海老原秀彦(小関裕太)の罠にハマって集団暴行に遭うが、父親殺しの容疑者・日下怜治(ジェシー)に救われピンチを脱出…!しかし怜治は脱獄を取るか、こずえを取るか、究極の選択を迫られ…。裁判当日に脱獄を図る怜治とカルト教団!それを阻止しようとするこずえに、ついに命の危機が迫る!!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfjwoouwg"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephxighn7u</id>
+    <title>ヤンドク！_[橋本環奈ホストでヤンドクキャストと謎のトーク]</title>
+    <updated>2026-02-22T23:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_23時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時09分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxighn7u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                元ヤンキーの主人公が、親友の事故死をきっかけに猛勉強を経て脳神経外科医となり、医療現場に新しい風を吹き込んでいく痛快医療エンターテインメント「ヤンドク！」。この番組は、そんなドラマ「ヤンドク！」の主演・橋本環奈がホストとしてお届けする一風変わったトーク番組。日曜夜に突如湾岸医療センターに出現するトークセット。そこにはなぜか、湖音波先生そっくりのスター・橋本環奈がホストとして座っている。そこにゲストとして呼ばれたのは、「ヤンドク！」に登場する大友先生（音尾琢真）で…？！橋本環奈×大友のシュールなトークをお楽しみください。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephxighn7u"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcohw721m</id>
+    <title>50分間の恋人_[#5 遅すぎた告白]</title>
+    <updated>2026-02-22T23:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 50分間の恋人
+                &lt;a href="https://tver.jp/series/srpbldzfq7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_23時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時24分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcohw721m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                料理を教えてほしいと頼まれ、週末に晴流（伊野尾慧）の自宅を訪ねた菜帆（松本穂香）は、突然やってきた晴流の母・涼子（櫻井淳子）と思いがけなく対面を果たす。初めて会う涼子は、どこか寂しげな印象。晴流との関係が拗れていることを察した菜帆は、二人の間に割り込めない空気を感じ取る。涼子が帰った後、晴流から親子関係がこじれた原因を聞き、晴流に寄り添う菜帆。自分の出過ぎた言動を謝る菜帆に対し、晴流は「辛島殿がいてくれて助かった」と伝える。晴流の母親への心境には微かな変化が…？&lt;br&gt;そして菜帆との出会いによって料理にも目覚めた晴流は、翌週から自分が菜帆の弁当を作ると宣言し、お互いに弁当を作り合うことを提案。菜帆は早速卵焼きの作り方から晴流を特訓する。料理特訓は夜遅くまで続き、菜帆はうとうとしてしまう。その寝顔を優しい眼差しで見つめる晴流。ほどなくして目を覚ました菜帆に、晴流はそっとキスを…！&lt;br&gt;週が明け、菜帆は週末の出来事は単なるはずみだったと自分を言い聞かせて、晴流との弁当交換ランチへと出向く。尾行封じに晴流が指定した場所は、懇意にしている高級料亭の個室。相変わらずズレたチョイスだが、人の目に触れない対策は万全だ。ところが、店内にはパイレーツ社の社長・恭平（高橋光臣）と専務・米田（おいでやす小田）、そしてサミット社・桃田社長（袴田吉彦）の姿が。菜帆が勤めるダブルスターズ社とゲームを共同開発中の桃田は、菜帆に声をかけ…。ついに、晴流と菜帆が会っていることがパイレーツ陣営にバレてしまう！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcohw721m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuxu0b02i</id>
     <title>リブート_[第５話 決戦]</title>
@@ -248,85 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnhztnglf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdyhuwx8y</id>
-    <title>ぜんぶ、あなたのためだから_[第7話 凄絶!!最恐聖母との血戦]</title>
-    <updated>2026-02-21T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
-                &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月21日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdyhuwx8y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚式で沙也香（井桁弘恵）に薬を盛った最後の容疑者、沙也香の母・香（松下由樹）とついに全面対決!!&#13;&lt;br&gt;和臣（藤井流星）の指示で、桜庭（七五三掛龍也）は香の尾行を開始。&#13;&lt;br&gt;香が病院に通い、「ある薬」を処方されていたことを知り、ますます疑いを強めたふたり…。&#13;&lt;br&gt;ある秘策を胸に、桜庭を伴い香の家、つまり沙也香の実家を訪れることにした和臣だったが、そこで香の「毒親ぶり」を目の当たりにし…!?&#13;&lt;br&gt;【姑VS新郎】の最終決戦が始まる…!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdyhuwx8y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9vaol1sc</id>
-    <title>パンダより恋が苦手な私たち_[第7話 恋人のフリして実家へ…2人の関係が急展開]</title>
-    <updated>2026-02-21T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
-                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月21日(土)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_02月28日(土)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月21日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9vaol1sc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                大切な人とずっと一緒にいるためには何が必要?柴田一葉(上白石萌歌)は、変人動物学者・椎堂司(生田斗真)の母・ケイカ(草刈民代)に息子に付きまとう目障りな存在とされ…。そんな中、一葉の両親が熟年離婚!?離婚を阻止するため、司は一葉のために恋人のふりをして福島の実家へ…!司の悲しい生い立ちを聞く。一葉と司の関係が急展開!そしてアリア(シシド・カフカ)の元に怪しい週刊誌の記者が…隠していた過去が明らかに
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9vaol1sc"/>
   </entry>
 </feed>
