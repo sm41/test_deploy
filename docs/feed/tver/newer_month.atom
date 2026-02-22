@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-22T16:05:30+09:00</updated>
+  <updated>2026-02-22T18:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epn5748zsa</id>
+    <title>XBRAID presents さすらい釣り師 糸田三平_[第2話 アマダイと天女伝説の恋！]</title>
+    <updated>2026-02-22T16:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wtvm4o6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ XBRAID presents さすらい釣り師 糸田三平
+                &lt;a href="https://tver.jp/series/sr3wtvm4o6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_16時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn5748zsa.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                主演：遠藤憲一 恋も魚も爆釣か！？【釣り×恋×グルメ×旅情】が楽しめる、バツ2独身おじさんの極上の癒しドラマ！ゲストヒロイン：中村静香
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn5748zsa"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf5g6czpt</id>
+    <title>スケバン刑事_[第20話「呪われた父と娘！？」]</title>
+    <updated>2026-02-22T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf5g6czpt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ホーナー博士の居場所を知る山本から手がかりを得たサキたちは、ホーナー博士を捜し出した。しかし、ホーナー博士とサキたちは海槌に捕まってしまう。剛三はサキに、母が剛三の愛人だったと告げる。本当にサキは剛三の娘なのか？サキは神の助けを借りて、ホーナー親子とともに海槌家から抜け出すことに成功する。剛三は、サキを仲間に欲しいと強く思うのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf5g6czpt"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvsw44wyr</id>
     <title>＆Hulu_[特集3本(1)実写化第2弾「時計館の殺人」(2)Huluオリジナル「手越祐也のワンダフルライフ」(3)「神の雫/Drops of God」▼「大丈夫、愛だ」第1話後半]</title>
