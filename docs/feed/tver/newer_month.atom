@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-23T11:45:31+09:00</updated>
+  <updated>2026-02-23T12:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epckkjqekc</id>
+    <title>笑うハナに恋きたる_[第9話 恋の道に魔多し]</title>
+    <updated>2026-02-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 笑うハナに恋きたる
+                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epckkjqekc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ジェイの提案でハナたち4人は温泉宿に向かう。エミは再びタムにある作戦を持ちかけるが…　一方、タムはジェイのハナへの気持ちを聞いてある決心をする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epckkjqekc"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7jj33phs</id>
+    <title>流星花園II～花より男子～_[第11話　仕組まれた婚約]</title>
+    <updated>2026-02-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 流星花園II～花より男子～
+                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7jj33phs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                失踪したエルサを必死に捜すサクは、つくしに助けを求め、その場に居合わせた花沢類と共に街を捜し回る。やがて大型ビジョンのニュースで司とエルサの婚約を知り、F3も駆けつける。不可解なエルサの行動に戸惑うサクとつくしは真相を探ろうと動き出す。そんな中、つくしは司の母・楓から突然電話で呼び出される。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7jj33phs"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epilhdizoc</id>
     <title>悪夢の不倫バスツアー_[【スマホ用】#2「不倫相手は、妻の先生」]</title>
