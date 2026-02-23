@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-23T18:05:55+09:00</updated>
+  <updated>2026-02-23T20:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ept1j45lt7</id>
+    <title>3年B組金八先生(第8シリーズ)_[第２回 赤い私服の転校生]</title>
+    <updated>2026-02-23T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月09日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept1j45lt7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;３年B組に転校生がやってきた。金八（武田鉄矢）は校長室で真っ赤なセーターを着た私服姿の転校生・森月美香（草刈麻有）と対面する。副校長の北尚明（金田明夫）は次の日からは制服を着てくるよう注意するが、美香は制服を着る意味がわからないと平然と言い、北の指導を拒む。美香の態度に鹿島田浩二校長（浅野和之）と北副校長は烈火のごとく怒り出すが、金八は美香の発言に興味を抱く。その頃、桜中学に区の教育委員・氏家（加藤満）がやってきて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ept1j45lt7"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epdn4xs371</id>
     <title>SHUT UP_[第4話 狂ってるのは世の中の方でしょ？]</title>
@@ -1484,7 +1524,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                2/23(月)～ #1-#3&lt;br&gt;3/20(金)～ #4-#6&lt;br&gt;4/13(月)～ #7-#9&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;若い女性を次々にナイフで殺害。殺した順に腹に数字を書き込む猟奇殺人事件が発生した。3人目の里桜（広瀬アリス）殺害後、現場近くを歩いていた高校生の寺本（石黑英雄）が逮捕されたが、寺本は完全黙秘を続けていた。しかし、被害者・里桜の血痕が検出されたナイフや里桜のピンクの傘を持っていたことなどから犯行は寺本によるものと断定され、送致書が検証捜査係に送られてきた。容疑者が未成年であるため、警察・検察共に急ぎ送検を目指すが、そんな時にこそ捜査に誤りが起きやすいと感じた晶は早速、検証を開始する。
+                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;若い女性を次々にナイフで殺害。殺した順に腹に数字を書き込む猟奇殺人事件が発生した。3人目の里桜（広瀬アリス）殺害後、現場近くを歩いていた高校生の寺本（石黑英雄）が逮捕されたが、寺本は完全黙秘を続けていた。しかし、被害者・里桜の血痕が検出されたナイフや里桜のピンクの傘を持っていたことなどから犯行は寺本によるものと断定され、送致書が検証捜査係に送られてきた。容疑者が未成年であるため、警察・検察共に急ぎ送検を目指すが、そんな時にこそ捜査に誤りが起きやすいと感じた晶は早速、検証を開始する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epi5qljf8z"/>
@@ -1884,7 +1924,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                2/23(月)～ #1-#3&lt;br&gt;3/20(金)～ #4-#6&lt;br&gt;4/13(月)～ #7-#9&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;ホストの北野（本宮泰風）が、ゴミの出し方を注意した自治会長の日出子（梅沢昌代）を刺殺した。送致書には「北野と被害者の姿を向かいの家に住む受験生が目撃」とあるが、夜の8時過ぎに被害者宅のリビングはレースのカーテンだけだったとか。不審に感じた晶（観月ありさ）は検証を開始する。
+                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ホストの北野（本宮泰風）が、ゴミの出し方を注意した自治会長の日出子（梅沢昌代）を刺殺した。送致書には「北野と被害者の姿を向かいの家に住む受験生が目撃」とあるが、夜の8時過ぎに被害者宅のリビングはレースのカーテンだけだったとか。不審に感じた晶（観月ありさ）は検証を開始する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3vdyhb8s"/>
@@ -2768,125 +2808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epion63wqc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbc8jnmuz</id>
-    <title>ジャンヌの裁き_[第7回 最終章突入！まさか...ラストに衝撃の裏切りが!?]</title>
-    <updated>2026-02-22T17:00:07+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srai5ppd5b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ジャンヌの裁き
-                &lt;a href="https://tver.jp/series/srai5ppd5b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbc8jnmuz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/21（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/22（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;自分たちが振りかざした正義が時に人を苦しめてしまうことを痛感した審査会メンバーは、剛太郎（玉木宏）を残し全員が退出。その後、審査会には誰も現れず、代わりに塩川（金子昇）の姿が。なんと桧山（田中直樹）が検事長になるという――。その後、剛太郎らを呼び出した寿（音尾琢真）は、桧山の就任は庄司議員（笹野高史）の力だと明かし、ふみ（桜井ユキ）は驚がく。ふみの姉がセクハラで訴えたのは庄司の息子だったのだ…。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbc8jnmuz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzjd3xeyb</id>
-    <title>ジャンヌの裁き_[第6回 裏切者が判明...ひき逃げ起訴相当が悲劇を!?]</title>
-    <updated>2026-02-22T17:00:06+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srai5ppd5b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ジャンヌの裁き
-                &lt;a href="https://tver.jp/series/srai5ppd5b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzjd3xeyb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/21（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/22（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;佐和子（優香）の調べで桧山（田中直樹）のスパイがついに判明。鈴女（関智一）が正式加入した審査会メンバーは、権力を振りかざす桧山に「一般人の力を見せてやろう」と一致団結。剛太郎（玉木宏）は次回の審査に、桧山が不起訴にした議員・貴美子（高橋由美子）の運転手・健太（坂田聡）のひき逃げ事故を提案する。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzjd3xeyb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaqxxigje</id>
-    <title>ジャンヌの裁き_[第5回 学園の闇に葬られた教師の死の真実!?]</title>
-    <updated>2026-02-22T17:00:05+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srai5ppd5b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ジャンヌの裁き
-                &lt;a href="https://tver.jp/series/srai5ppd5b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaqxxigje.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/21（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/22（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ふみ（桜井ユキ）の細工で桧山（田中直樹）と繋がる人物として根津（長谷川純）が浮上する。さらに桧山を追い詰めるべく無茶な行動をするふみを、剛太郎（玉木宏）が心配する中、審査会では欠席者に変わり鈴女（関智一）が加入することに。この日の事案は駒村学園教諭の転落死だ。当日生徒が腹痛を訴えており、教諭の姉はそれが原因で階段を踏み外したと主張。警察も食中毒で学校責任を追及したが、検察で不起訴になっていた。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaqxxigje"/>
   </entry>
 </feed>
