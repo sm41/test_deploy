@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-24T00:05:55+09:00</updated>
+  <updated>2026-02-24T02:06:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdj5qtbpf</id>
+    <title>親友の「同棲して」に「うん」て言うまで_[第７話・友だちでいようって決意するまで]</title>
+    <updated>2026-02-24T01:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjs8tvmqr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 親友の「同棲して」に「うん」て言うまで
+                &lt;a href="https://tver.jp/series/srjs8tvmqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_01時38分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdj5qtbpf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                湊（吉澤要人）とのお泊り会の翌朝。昨夜のキスを思い出して意識してしまう航（雨宮翔）とは反対に、湊は拍子抜けするほどいつも通りで、その温度差に戸惑いを隠せない。&lt;br&gt;湊から「やりたいことがある」と告げられ、不動産会社に勤める汐入（中山翔貴）のもとを訪れる。実は湊が、2人で住める部屋の紹介を頼んでいたのだった。予想外の展開に混乱してしまった航だったが、蓋をしていた湊に対する感情が一気に溢れ出して――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdj5qtbpf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp1xx6p92</id>
     <title>キンパとおにぎり～恋するふたりは似ていてちがう～_[#7 恋の四角関係の行方は!?「君にとって僕は 僕にとって君は」]</title>
