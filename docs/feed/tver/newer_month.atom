@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-24T12:06:26+09:00</updated>
+  <updated>2026-02-24T14:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -608,45 +608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3wy7a7j7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfjwoouwg</id>
-    <title>パンチドランク・ウーマン −脱獄まであと××日−_[#5 脱獄計画を止めろ!狙われる命…]</title>
-    <updated>2026-02-22T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6mknxzp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パンチドランク・ウーマン −脱獄まであと××日−
-                &lt;a href="https://tver.jp/series/srf6mknxzp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfjwoouwg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                脱獄に手を貸す内通者は、刑務官の部下だった!氷川拘置所の刑務官・冬木こずえ(篠原涼子)は、脱獄を企てるカルト教団の内通者・海老原秀彦(小関裕太)の罠にハマって集団暴行に遭うが、父親殺しの容疑者・日下怜治(ジェシー)に救われピンチを脱出…!しかし怜治は脱獄を取るか、こずえを取るか、究極の選択を迫られ…。裁判当日に脱獄を図る怜治とカルト教団!それを阻止しようとするこずえに、ついに命の危機が迫る!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfjwoouwg"/>
   </entry>
 </feed>

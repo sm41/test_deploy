@@ -2,13 +2,253 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-24T12:06:26+09:00</updated>
+  <updated>2026-02-24T14:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzgrkfvgb</id>
+    <title>若奥さまは腕まくり!_[第６回 初恋合戦]</title>
+    <updated>2026-02-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4gwvutc6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 若奥さまは腕まくり!
+                &lt;a href="https://tver.jp/series/sr4gwvutc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1988年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzgrkfvgb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#4-6：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;#7-9：2月27日(金)14:00～3月5日(木)13:59&lt;br&gt;#10-12：3月2日(月)14:00～3月8日(日)13:59&lt;br&gt;※本作品は3月8日(日)～3月31日(火)も配信を行います&lt;br&gt;------------&lt;br&gt;３姉妹の長女・麻里（西尾麻里）に好きな人ができた。そんな中、次女の花恵（近藤花恵）の家庭教師が広瀬家に来ることになる。聡（三田村邦彦）の会社の専務の息子・木下正敏（石橋保）だった。一流高校でスポーツ万能、おまけにルックスも良い正敏に花恵は一目惚れしてしまう。だが、正敏はなんと麻里が恋する先輩だった。女同士の戦いが始まるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzgrkfvgb"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eps6fd02vv</id>
+    <title>若奥さまは腕まくり!_[第５回 家族旅行につれてって！]</title>
+    <updated>2026-02-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4gwvutc6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 若奥さまは腕まくり!
+                &lt;a href="https://tver.jp/series/sr4gwvutc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1988年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps6fd02vv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#4-6：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;#7-9：2月27日(金)14:00～3月5日(木)13:59&lt;br&gt;#10-12：3月2日(月)14:00～3月8日(日)13:59&lt;br&gt;※本作品は3月8日(日)～3月31日(火)も配信を行います&lt;br&gt;------------&lt;br&gt;子供たちが夏休みに旅行をしたいと言い出した。友子（中山美穂）はぞろぞろ６人で出かけるよりも、聡（三田村邦彦）と２人だけで旅行に行きたいのが本音。友子は秘かに沖縄旅行を申し込んでいたが、子供たちにばれてしまう。そんなある日、３姉妹の末っ子・千恵子（圡井千恵子）が応募したテレビ番組が当選した。家族全員で番組に出場、体を張ったゲームに勝ち、北海道旅行に行けるチャンスを獲得した。だが最後に友子が失敗し、旅行に行けるのが５人だけになってしまう。そこで友子は不参加を申し出るが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eps6fd02vv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epque0wmh1</id>
+    <title>パパはニュースキャスター_[第11回 「さよならパパ」]</title>
+    <updated>2026-02-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epque0wmh1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月15日(日)14:00～2月21日(土)13:59&lt;br&gt;#4-6：2月18日(水)14:00～2月24日(火)13:59&lt;br&gt;#7-9：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#10-12：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;※本作品は3月2日(月)～3月31日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;竜太郎（田村正和）の前に、大塚愛（大塚ちか子）の父親と名乗る男が２人も現れた。１人は五十嵐（小坂一也）と名乗る名古屋の開業医で、もう１人は大塚愛の母親と正式に結婚したという日向（目黒祐樹）という男だ。いずれの主張にも説得力があり、大塚愛を引き取りたいと申し入れた。竜太郎は、自分を含めて誰を父親として選ぶか、大塚愛に任せることにする。数日後、大塚愛が父親として選んだのは五十嵐だった。竜太郎に大塚愛を引き止めろと迫る西尾愛（西尾麻里）と鈴木愛（鈴木美恵子）だったが、竜太郎は大塚愛の決意を尊重することに。そして、大塚愛は１人で名古屋へ行ってしまった。その後、大塚愛の去った鏡家に突然、西尾愛の妹・千恵子（圡井千恵子）がやってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epque0wmh1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epny0mvc4x</id>
+    <title>若奥さまは腕まくり!_[第４回 夏休みアルバイト大作戦！]</title>
+    <updated>2026-02-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4gwvutc6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 若奥さまは腕まくり!
+                &lt;a href="https://tver.jp/series/sr4gwvutc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1988年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epny0mvc4x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#4-6：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;#7-9：2月27日(金)14:00～3月5日(木)13:59&lt;br&gt;#10-12：3月2日(月)14:00～3月8日(日)13:59&lt;br&gt;※本作品は3月8日(日)～3月31日(火)も配信を行います&lt;br&gt;------------&lt;br&gt;子供たちが夏休みに入り、母親代わりの友子（中山美穂）は振り回されてクタクタ。そこで友子は、働きに出る決心をした。アルバイト先はブティック。心配した聡（三田村邦彦）が店を覗くと、店長・宇都宮一郎（藤木孝）が友子に言い寄っているように見えて…。頭にきた聡は思わず宇都宮を殴ってしまい友子は即刻クビ。次のアルバイト先は聡の勤めるスーパーとなったのだが、そこには聡の元恋人が…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epny0mvc4x"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epfd3wf36d</id>
+    <title>パパはニュースキャスター_[第10回 「パパの結婚物語」]</title>
+    <updated>2026-02-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfd3wf36d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月15日(日)14:00～2月21日(土)13:59&lt;br&gt;#4-6：2月18日(水)14:00～2月24日(火)13:59&lt;br&gt;#7-9：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#10-12：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;※本作品は3月2日(月)～3月31日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;竜太郎（田村正和）が風邪で寝込んでしまった。愛たちは、こんな時、竜太郎にお嫁さんがいてくれたらと思うのだが、肝心の竜太郎はまるでその気がない。そんな時、竜太郎が若い女性とホテルへ入るところを写真誌にスクープされてしまう。相手は客室乗務員の工藤今日子（蜷川有紀）で、松本家の妻・文子（松本留美）の後輩だった。酔っていた竜太郎はまた例の悪い癖が出て、彼女を口説いてしまったのだ。一方、竜太郎が今日子と結婚してしまったら、自分たちは追い出されると思った愛たち。結婚相手はみゆき（浅野温子）がよいと考えるのだが、竜太郎は「誰とも結婚する気はない」と言い切る。その夜、鏡家にやってきたみゆきは竜太郎に「愛たちの存在を知っている」と打ち明けるのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfd3wf36d"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep487u01u8</id>
+    <title>パパはニュースキャスター_[最終回 「泣かないでパパ」]</title>
+    <updated>2026-02-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep487u01u8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：2月15日(日)14:00～2月21日(土)13:59&lt;br&gt;#4-6：2月18日(水)14:00～2月24日(火)13:59&lt;br&gt;#7-9：2月21日(土)14:00～2月27日(金)13:59&lt;br&gt;#10-12：2月24日(火)14:00～3月2日(月)13:59&lt;br&gt;※本作品は3月2日(月)～3月31日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;名古屋へ行ったはずの大塚愛（大塚ちか子）が、五十嵐（小坂一也）の家を出て戻ってきてしまった。さらに西尾愛の妹・千恵子（圡井千恵子）まで訪ねてきて、竜太郎（田村正和）は４人の子どもたちに囲まれる。その夜、憔悴（しょうすい）しきった五十嵐が鏡家を訪れ、大塚愛に帰ってきてほしいと訴える。その様子に胸を打たれた鈴木愛（鈴木美恵子）は、大塚愛の代わりに五十嵐家の養女になろうと決めるのだった。一方、西尾愛（西尾麻里）は千恵子を母のもとへ送りに行き、そのまま暮らすことになる。そして、１人残された大塚も、迎えにきた日向（目黒祐樹）に連れられて母のところへ帰って行き、とうとう竜太郎は１人になってしまった。更に、みゆき（浅野温子）も仕事でアメリカへ行くことが決まり、寂しさを隠せない竜太郎。３人の愛に煩わされて怒鳴った日々を思い出し、感傷的になったのも束の間、また新たに３人の少女が竜太郎を訪ねてきて…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep487u01u8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ephgrszmju</id>
     <title>探偵が早すぎる_[#５ 夏祭りの惨劇・刺客は子ども！？]</title>
@@ -1804,7 +2044,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;若い女性を次々にナイフで殺害。殺した順に腹に数字を書き込む猟奇殺人事件が発生した。3人目の里桜（広瀬アリス）殺害後、現場近くを歩いていた高校生の寺本（石黑英雄）が逮捕されたが、寺本は完全黙秘を続けていた。しかし、被害者・里桜の血痕が検出されたナイフや里桜のピンクの傘を持っていたことなどから犯行は寺本によるものと断定され、送致書が検証捜査係に送られてきた。容疑者が未成年であるため、警察・検察共に急ぎ送検を目指すが、そんな時にこそ捜査に誤りが起きやすいと感じた晶は早速、検証を開始する。
+                2/23(月)～ #1-#3&lt;br&gt;3/20(金)～ #4-#6&lt;br&gt;4/13(月)～ #7-#9&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;若い女性を次々にナイフで殺害。殺した順に腹に数字を書き込む猟奇殺人事件が発生した。3人目の里桜（広瀬アリス）殺害後、現場近くを歩いていた高校生の寺本（石黑英雄）が逮捕されたが、寺本は完全黙秘を続けていた。しかし、被害者・里桜の血痕が検出されたナイフや里桜のピンクの傘を持っていたことなどから犯行は寺本によるものと断定され、送致書が検証捜査係に送られてきた。容疑者が未成年であるため、警察・検察共に急ぎ送検を目指すが、そんな時にこそ捜査に誤りが起きやすいと感じた晶は早速、検証を開始する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epi5qljf8z"/>
@@ -1968,325 +2208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epf6q679dt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaxha54kz</id>
-    <title>Answer～警視庁検証捜査官_[第1話]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzt1mwj09.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Answer～警視庁検証捜査官
-                &lt;a href="https://tver.jp/series/srzt1mwj09" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaxha54kz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;あきる野警察署で誤認逮捕が明るみとなり、若き女性署長・新海晶（観月ありさ）の謝罪会見が行われた。型通りの原稿を読む晶だったが、突然晶は「個人的な見解を」と口火を切り、強引な自白誘導があったことを暴露してしまう。女性署長の“内部告発”に世間は賛否両論。捜査一課長・武邑（田山涼成）と首席管理官・有富（風見しんご）は晶を署長に抜てきした警察庁長官官房教養担当主任・東出（遠藤憲一）の前で怒りも露に。「警視庁管内で仕事はさせられない」と人事権のある東出に詰め寄るが、東出にはある目論見があり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaxha54kz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9crp3m0z</id>
-    <title>営業部長 吉良奈津子_[第8話 すれ違う思い・・・復活のラストチャンス！]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6xjnv7c6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 営業部長 吉良奈津子
-                &lt;a href="https://tver.jp/series/sr6xjnv7c6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9crp3m0z.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;営業開発部の廃部に納得がいかない吉良奈津子（松嶋菜々子）は、斎藤良一（石丸幹二）に直談判。廃部撤回を訴える奈津子に、斎藤は1ヵ月以内に30億円のノルマを達成したら社長に撤回を進言してやる、と約束する。&lt;br&gt;奈津子は部員たちに斎藤の決定を伝えるが、そんな短期間で達成できるわけがない、とあきらめ顔。しかし、神崎あすか（足立梨花）が、こうなったら飲料大手の「シティドリンク」の宣伝を取りに行くしかない、と発言。CM、雑誌ともに取れれば100億円も夢ではないが、すでに第二営業部がコンペの参加を表明していた。東邦広告としても、弱小の営業開発部より第二営業部を選ぶのでは、と言う米田利雄（板尾創路）に、奈津子は第二営業部に手を引いてもらうしかない、と覚悟を決める。&lt;br&gt;コンペに勝つには、高木啓介（松田龍平）に頼むしかないと判断した奈津子は、高木の元へ。すでに第二営業部からのオファーを断っていた高木は、考えさせてくれ、と返答。実は、高木はニューヨークで1年に渡って勉強できるコンクールに参加予定だった。&lt;br&gt;その日の夜、奈津子は小山壮太（髙橋幸之介）とふたりだけの夕食をとっていた。その頃、小山浩太郎（原田泰造）も、実家で母親の周子（松原智恵子）と夕食中だった。様子がおかしかった浩太郎。自分は浮気をした、と周子に告白する。以前から、坂部深雪（伊藤歩）との仲を怪しんでいた周子は驚かない。一方、奈津子には高木からメールが届き・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『営業部長 吉良奈津子』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9crp3m0z"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6yemzckn</id>
-    <title>silent_[第4話 戻れると思う。元に戻れたら嬉しいなって]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1dvhg7rz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ silent
-                &lt;a href="https://tver.jp/series/sr1dvhg7rz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6yemzckn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月20日（金） ～ 03月22日（日）&lt;br&gt;#4：02月23日（月） ～ 03月01日（日）&lt;br&gt;#5：02月26日（木） ～ 03月04日（水）&lt;br&gt;#6：03月01日（日） ～ 03月07日（土）&lt;br&gt;#7：03月04日（水） ～ 03月10日（火）&lt;br&gt;#8：03月07日（土） ～ 03月13日（金）&lt;br&gt;#9：03月10日（火） ～ 03月16日（月）&lt;br&gt;#10：03月13日（金） ～ 03月19日（木）&lt;br&gt;#11：03月16日（月） ～ 03月22日（日）&lt;br&gt;&lt;br&gt;紬の家で鉢合わせした紬（川口春奈）・想（目黒蓮）・湊斗（鈴鹿央士）・光（板垣李光人）。&lt;br&gt;思わずその場を去る湊斗だったが、紬はちゃんと二人で話した方がいいと諭す。&lt;br&gt;湊斗は8年ぶりに想と向き合う中で、想が何も変わっていないと感じ、高校仲間のフットサルに参加してみないかと誘う。&lt;br&gt;そんな湊斗に対して、紬と想の復縁を懸念する同級生たちだったが、真子（藤間爽子）は紬が今は湊斗のことを本当に大切に思っていることを理解する。&lt;br&gt;迎えた当日、フットサル場で待つ同級生たち。そのとき、想は・・・&lt;br&gt;&lt;br&gt;【FODプレミアムでは『silent』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6yemzckn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6fh8o3j6</id>
-    <title>新宿スワン_[スカウト6人目「謎の天使」]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr358danbj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 新宿スワン
-                &lt;a href="https://tver.jp/series/sr358danbj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6fh8o3j6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                1/05(月)～ #1-#2&#13;&lt;br&gt;1/29(木)～ #3-#4&#13;&lt;br&gt;2/23(月)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;第6話ゲスト・マイ役　我妻三輪子&#13;&lt;br&gt;&#13;&lt;br&gt;謎の女子高生。&#13;&lt;br&gt;タツヒコに自分からスカウトされることを申し出るが、そこには意外な狙いが…！&#13;&lt;br&gt;微笑の下に隠された前代未聞の依頼内容と、一人のスカウトマン殺人事件を結ぶ黒い接点！&#13;&lt;br&gt;彼女は天使か？それとも悪魔か？&#13;&lt;br&gt;絶体絶命のピンチに陥ったタツヒコの運命は!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6fh8o3j6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5b745299</id>
-    <title>新宿スワン_[スカウト5人目「風俗嬢の危ない秘密」]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr358danbj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 新宿スワン
-                &lt;a href="https://tver.jp/series/sr358danbj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5b745299.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                1/05(月)～ #1-#2&#13;&lt;br&gt;1/29(木)～ #3-#4&#13;&lt;br&gt;2/23(月)～ #5-#6&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;第5話ゲスト・アゲハ役　麻美ゆま&#13;&lt;br&gt;&#13;&lt;br&gt;マンションヘルスで働く風俗嬢。&#13;&lt;br&gt;悪徳店長・遠藤（岡本光太郎）に暴行されているところをタツヒコに助けられ、スカウトに応じることに。&#13;&lt;br&gt;しかしアゲハはある日突然失踪、タツヒコが紹介した店も無断で辞めてしまう。&#13;&lt;br&gt;彼女に隠されていた“危ない”秘密の真相とは!?&#13;&lt;br&gt;彼女を食い物にする意外な黒幕の正体とは!?&#13;&lt;br&gt;窮地に陥った彼女を（自称）正義の味方・タツヒコは救うことができるのか？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5b745299"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3vdyhb8s</id>
-    <title>Answer～警視庁検証捜査官_[第2話]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzt1mwj09.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Answer～警視庁検証捜査官
-                &lt;a href="https://tver.jp/series/srzt1mwj09" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3vdyhb8s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ホストの北野（本宮泰風）が、ゴミの出し方を注意した自治会長の日出子（梅沢昌代）を刺殺した。送致書には「北野と被害者の姿を向かいの家に住む受験生が目撃」とあるが、夜の8時過ぎに被害者宅のリビングはレースのカーテンだけだったとか。不審に感じた晶（観月ありさ）は検証を開始する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3vdyhb8s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0tk7nhlx</id>
-    <title>キミ犯人じゃないよね？_[第1話　「二重密室殺人の彼女」]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3ogwyom9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ キミ犯人じゃないよね？
-                &lt;a href="https://tver.jp/series/sr3ogwyom9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0tk7nhlx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                推理作家志望のフリーター・森田さくら（貫地谷しほり）は、作家担当・夏目ユリ（久保田磨希）と広報担当・市原ミキ（黒谷友香）から成る人気作家“ユリ＆ミキ”に弟子入りし、身辺を世話することに。ところが1カ月後、ユリが鍵のかかった書斎で首を吊って死亡！ 書斎には合鍵がないうえ、ユリは死亡推定時刻の直前、編集者・門倉（吉田晋一）の携帯に「書けないわ。もう終わりね」とメッセージを残していた。そこで、富士見署の主任捜査官・太宰（渡辺いっけい）が“仕事に行き詰っての衝動的な自殺”と断定。捜査は幕引きになりそうになる。しかし、一向に手柄が立てられない“浮いてる坊ちゃん”刑事・宇田川教生（要潤）には、気になることが…。ユリが上下巻セットでレンタルしたDVD「42（YAKUDOSHI）」のうち、上巻がデッキに入っていたのだ。「こんな面白い作品を最後まで観ずに自殺するでしょうか？」 ――宇田川は他殺の可能性を主張するが、浅はかな根拠ゆえに聞き流されてしまう。&#13;&lt;br&gt;そんな中、同じく他殺だとにらんでいたさくらは宇田川に接近。情報料をもらう代わりに、密室トリックの仕組みを解説する。卓越した推理力に感嘆した宇田川は、さくらにさらなる報酬を時給で払うことで“バイト契約”を結び、一緒に犯人を捜すことに…。宇田川によれば、怪しい人物は門倉、ライバル作家・橋口アヤ（宍戸美和公）、そしてユリ＆ミキの人気シリーズ「ささやき刑事」のドラマ版で主演を務める藤村寛平（升毅）。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0tk7nhlx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0ehsw5wp</id>
-    <title>やまとなでしこ_[第4話 ラブホテル事件]</title>
-    <updated>2026-02-23T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr60pqwwxm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ やまとなでしこ
-                &lt;a href="https://tver.jp/series/sr60pqwwxm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月23日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月01日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0ehsw5wp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月20日(金) ～ 03月22日(日)&lt;br&gt;#4：02月23日(月) ～ 03月01日(日)&lt;br&gt;#5：02月26日(木) ～ 03月04日(水)&lt;br&gt;#6：03月01日(日) ～ 03月07日(土)&lt;br&gt;#7：03月04日(水) ～ 03月10日(火)&lt;br&gt;#8：03月07日(土) ～ 03月13日(金)&lt;br&gt;#9：03月10日(火) ～ 03月16日(月)&lt;br&gt;#10：03月13日(金) ～ 03月19日(木)&lt;br&gt;#11：03月16日(月) ～ 03月22日(日)&lt;br&gt;&lt;br&gt;なみ（須藤理彩）、若葉（矢田亜希子）が桜子（松嶋菜々子）の見舞いにやって来ると、桜子はベランダで、携帯電話に入っているメッセージのチェックをしていた。いつものように平然と、デートの約束。二人はあきれるばかりだ。とはいえ「今回の入院で、東十条さんの愛の深さが分かった。だって一晩中、手をにぎってくれていたんですもの」と夢うつつに話す桜子。しかし、本当に一晩中付き添っていたのは欧介なのだが・・・。&lt;br&gt;傷心の欧介に佐久間（西村雅彦）はナースと合コンをセッテイング。とあるレストランで山手線ゲームなどで盛り上がっていると、桜子が現れ、右へ左へとせわしない。東十条と夕食を一緒にとる約束をしながら、病院を抜け出した桜子は、デート相手二人を同じレストランに呼び、ダブルブッキングデートをしていたのだった。&lt;br&gt;桜子を見つけた欧介は、まだ忘れきっていなかった。突然、大はしゃぎし始め、酒をがぶ飲みする始末。&lt;br&gt;桜子は同僚の結婚披露宴になみ、若葉らとともに出席した。「披露宴は成婚率高い合コンよ」と、桜子は招待客の男性たちのテーブルへ近づく。そこへ欧介が現れる。この日の新郎は、欧介が数学を勉強していたときの仲間。「また現れた」とあきれ顔の桜子に、欧介は誤ってケーキを落としてしまう。高級なドレスにクリームがべったり。それをトイレで桜子が落としていると、「一晩中看病していたのは欧介さんなのに、桜子さんの態度は許せない」と若葉となみが入ってきた。桜子は「エッ！」となった・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『やまとなでしこ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0ehsw5wp"/>
   </entry>
 </feed>
