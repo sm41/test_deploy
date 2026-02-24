@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-24T02:06:55+09:00</updated>
+  <updated>2026-02-24T11:11:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epckamv8m2</id>
+    <title>体感予報_[第八話《ドラマシャワー》]</title>
+    <updated>2026-02-24T03:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcq4gvaks.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 体感予報
+                &lt;a href="https://tver.jp/series/srcq4gvaks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_03時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_03時14分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epckamv8m2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大雨に濡れた瀬ヶ崎（樋口幸平）と葉（増子敦貴）。いつも以上に暴君に振る舞う彼に葉は戸惑いつつも、それが瀬ヶ崎の弱さの裏返しであることに気付き、初めて彼の本心に触れた気がした。雲間から光射す、二人の物語の最終章。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epckamv8m2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjs48p9k9</id>
     <title>結婚しない_[第8話 キスの夜・・・恋と人生の大逆転！！]</title>
@@ -1684,7 +1724,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                2/23(月)～ #1-#3&lt;br&gt;3/20(金)～ #4-#6&lt;br&gt;4/13(月)～ #7-#9&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;若い女性を次々にナイフで殺害。殺した順に腹に数字を書き込む猟奇殺人事件が発生した。3人目の里桜（広瀬アリス）殺害後、現場近くを歩いていた高校生の寺本（石黑英雄）が逮捕されたが、寺本は完全黙秘を続けていた。しかし、被害者・里桜の血痕が検出されたナイフや里桜のピンクの傘を持っていたことなどから犯行は寺本によるものと断定され、送致書が検証捜査係に送られてきた。容疑者が未成年であるため、警察・検察共に急ぎ送検を目指すが、そんな時にこそ捜査に誤りが起きやすいと感じた晶は早速、検証を開始する。
+                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;若い女性を次々にナイフで殺害。殺した順に腹に数字を書き込む猟奇殺人事件が発生した。3人目の里桜（広瀬アリス）殺害後、現場近くを歩いていた高校生の寺本（石黑英雄）が逮捕されたが、寺本は完全黙秘を続けていた。しかし、被害者・里桜の血痕が検出されたナイフや里桜のピンクの傘を持っていたことなどから犯行は寺本によるものと断定され、送致書が検証捜査係に送られてきた。容疑者が未成年であるため、警察・検察共に急ぎ送検を目指すが、そんな時にこそ捜査に誤りが起きやすいと感じた晶は早速、検証を開始する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epi5qljf8z"/>
@@ -2084,7 +2124,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                2/23(月)～ #1-#3&lt;br&gt;3/20(金)～ #4-#6&lt;br&gt;4/13(月)～ #7-#9&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;ホストの北野（本宮泰風）が、ゴミの出し方を注意した自治会長の日出子（梅沢昌代）を刺殺した。送致書には「北野と被害者の姿を向かいの家に住む受験生が目撃」とあるが、夜の8時過ぎに被害者宅のリビングはレースのカーテンだけだったとか。不審に感じた晶（観月ありさ）は検証を開始する。
+                2/23(月)～ #1-#3&#13;&lt;br&gt;3/20(金)～ #4-#6&#13;&lt;br&gt;4/13(月)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ホストの北野（本宮泰風）が、ゴミの出し方を注意した自治会長の日出子（梅沢昌代）を刺殺した。送致書には「北野と被害者の姿を向かいの家に住む受験生が目撃」とあるが、夜の8時過ぎに被害者宅のリビングはレースのカーテンだけだったとか。不審に感じた晶（観月ありさ）は検証を開始する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3vdyhb8s"/>
@@ -2168,245 +2208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0ehsw5wp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epthdcuevv</id>
-    <title>3年B組金八先生(第8シリーズ)_[スタートスペシャル ギラリと光るダイヤのような日！]</title>
-    <updated>2026-02-22T20:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
-                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_20時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月08日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthdcuevv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;理科の遠藤達也先生（山崎銀之丞）が痴漢容疑で捕まったという知らせを受けた桜中学の坂本金八（武田鉄矢）をはじめ教員たちは騒然となる。数日後、３年B組の生徒・長谷川孝志（坂本優太）の両親（平栗あつみ・吉見一豊）が桜中学へ乗り込んでくる。孝志の両親は夏休みの課題で孝志が描いた絵に対する美術教師・立花かおり（藤澤恵麻）の評価に納得できないと言うのだ。そんな中、授業中に３Bの江藤清花（水沢奈子）が倒れ、救急車で病院へ運ばれる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epthdcuevv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcpfl8cjo</id>
-    <title>カミさんの悪口_[第８話「浮気のススメ」]</title>
-    <updated>2026-02-22T18:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ カミさんの悪口
-                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_18時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_17時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcpfl8cjo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;肇（田村正和）が裕子（白島靖代）とデートしたと知った由起子（篠ひろ子）はカンカン。肇にすれば、ただ酒を飲んだだけなのにと納得がいかず、夫婦はまた冷戦状態に。次の日、憂さ晴らしに咲（松本明子）と買い物へ行った由起子は、昔の恋人・杉本達夫（目黒祐樹）に再会する。「君は昔のまま」という杉本の言葉は、由起子にとって久々の褒め言葉だった。&lt;br&gt;そんな中、肇は再び裕子の誘いを受け、由起子も杉本から夕食に誘われて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcpfl8cjo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3p6ekfm5</id>
-    <title>カミさんの悪口_[第７話「夫が優しい理由」]</title>
-    <updated>2026-02-22T18:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ カミさんの悪口
-                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_18時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_17時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3p6ekfm5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;咲（松本明子）は茂木（橋爪功）と外で会うことに。一方、片桐（角野卓造）に秘書・磯島裕子（白島靖代）との仲を取り持ってほしいと頼まれた肇（田村正和）だったが、逆に裕子からデートに誘われる。その夜、バーで裕子とグラスを傾ける肇は夢心地だった。しかし、そこへ現れた咲と茂木を見て肇は顔面蒼白。さらに、肇の部下・山田雅子（久本雅美）と片桐までもがやって来て…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3p6ekfm5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0bu8lrnj</id>
-    <title>カミさんの悪口_[第６話「男子厨房に入れ」]</title>
-    <updated>2026-02-22T18:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra51l48hh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ カミさんの悪口
-                &lt;a href="https://tver.jp/series/sra51l48hh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_18時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月02日(月)_17時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0bu8lrnj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月14日(土)18:00～3月31日(火)23:59&lt;br&gt;#3-5：2月14日(土)18:00～2月22日(日)17:59&lt;br&gt;#6-8：2月22日(日)18:00～3月2日(月)17:59&lt;br&gt;#9-11：3月2日(月)18:00～3月10日(火)17:59&lt;br&gt;※本作品は3月10日(火)～3月31日(火)23:59にも配信を行います&lt;br&gt;------------&lt;br&gt;肇（田村正和）のもとに、スミ江（岡本麗）から「由起子（篠ひろ子）がダンス教室でぎっくり腰になったので家まで送る」と連絡が入った。肇は、スミ江と咲（松本明子）が鉢合わせになるのを阻止しようと家へ急ぐ。&lt;br&gt;翌日から、ぎっくり腰の由起子に代わって家事をすることになった肇は悪戦苦闘。ようやく１日が終わろうとしていた時、スミ江が来訪し、由起子の見舞いをすると言い張って…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0bu8lrnj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epx1oajhfv</id>
-    <title>弁護士ソドム_[第7話（最終回） 牧師との最後の闘い]</title>
-    <updated>2026-02-22T17:00:23+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhoi1ekyh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 弁護士ソドム
-                &lt;a href="https://tver.jp/series/srhoi1ekyh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx1oajhfv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/21（土）17:00～&#13;&lt;br&gt;#5,#6,#7：2/22（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ついに、全ての黒幕・牧師（竹中直人）に辿り着いた渉（福士蒼汰）！しかし、記憶を取り戻した宏（勝村政信）が告げたのは、衝撃の14年前の真実。もう一人の真犯人!?　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epx1oajhfv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz4xvenlh</id>
-    <title>弁護士ソドム_[第6話 入れ替わった詐欺師を追え！戸籍売買ビジネスの闇！]</title>
-    <updated>2026-02-22T17:00:22+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhoi1ekyh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 弁護士ソドム
-                &lt;a href="https://tver.jp/series/srhoi1ekyh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月22日(日)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz4xvenlh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/21（土）17:00～&#13;&lt;br&gt;#5,#6,#7：2/22（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;詐欺師の味方・渉（福士蒼汰）が被害者を弁護!?身に覚えのない借金&amp;見ず知らずの養子たち…ネームロンダリングのからくり！戸籍売買トリックで姿を変える詐欺師たち　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epz4xvenlh"/>
   </entry>
 </feed>
