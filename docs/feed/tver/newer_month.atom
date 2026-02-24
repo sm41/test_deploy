@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-24T20:06:26+09:00</updated>
+  <updated>2026-02-24T22:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp2iydsx3</id>
+    <title>東京P.D. 警視庁広報2係_[第5話 「報道協定」誘拐事件、あるいは人命と捜査]</title>
+    <updated>2026-02-24T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
+                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月24日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp2iydsx3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                捜査二課の刑事・仙北谷開智（味方良介）らは、若手政治家・若草賢三（勢登健雄）の公金横領疑惑を追っていて、2年もの歳月をかけ、ガサ入れ目前までこぎつけていた。&lt;br&gt;その翌日、資産家・野上京香（加藤英美里）の愛息子・晃（高木波瑠）の誘拐事件が発生。今泉麟太郎（福士蒼汰）ら警視庁広報課2係にも、この事件の情報が届く。ただし、人質の命に関わる誘拐事件の情報は、特に慎重に扱わなければならず、今泉ら広報2係の面々は、記者たちに知られることなく動くことに。しかし、稲田裕司（金子ノブアキ）ら記者たちも独自のルートから晃の誘拐事件を把握していた。&lt;br&gt;&lt;br&gt;一筋縄ではいかない誘拐事件。そんな中、捜査一課から“報道協定”の要請が出た。犯人を刺激しかねないため、事件に関する報道をメディアに控えてもらう代わりに、捜査状況を記者たちに随時共有する決まりだ。事前に誘拐事件の情報を掴んでいた記者たちは、全社に同じ情報が行き渡ることに難色を示したものの、下地和哉（正名僕蔵）らの説得によりなんとか協定が結ばれた。&lt;br&gt;だが、捜査一課が伝える情報はなぜか極端に少ないため、記者からは次第に不満が漏れ出す。人命に関わる事件だと分かってはいるものの、このままだと協定を守れないという記者まで現れた。そこで2係の面々は、捜査一課が隠している情報を無理矢理にでも得ようと動き出し・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp2iydsx3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9xvmcjhl</id>
+    <title>再会～Silent Truth～ _[第7話 もう逃げられない]</title>
+    <updated>2026-02-24T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv5utjafh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 再会～Silent Truth～ 
+                &lt;a href="https://tver.jp/series/srv5utjafh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月10日(火)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月24日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9xvmcjhl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                23年前のあの日、殉職警察官と相撃ちになって死んだと思われていた銀行強盗犯を射殺したのは、飛奈淳一（竹内涼真）だった！ 淳一の告白に続き、佐久間直人（渡辺大知）からもその瞬間を目撃していたと明かされ、言葉を失う岩本万季子（井上真央）と清原圭介（瀬戸康史）。ところが、一体なぜ…。淳一ら同級生4人とともに現場を再検証していた刑事・南良理香子（江口のりこ）は、ここでの会話を他言しないよう釘を刺す。南良が警察上層部にも報告する気がないことを知り、戸惑う淳一。すると、南良は静かに「あの事件はまだ終わっていないからです」と告げ…。&#13;&lt;br&gt;一方、直人が犯行を自供したスーパー店長殺人事件の捜査は、凶器の拳銃が一向に見つからず難航する。そんな中、「これから話すことは、2人だけの話にしてもらえますか？」――南良はふたたび、事件当夜のアリバイが崩れた万季子のもとへ。南良の《秘密の訪問》を機に、事態は誰も予期していなかった方向へと急転する！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9xvmcjhl"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep03igwqls</id>
     <title>孤独のグルメ Season9_[第8話 群馬県高崎市のおむすびと鮎の塩焼き]</title>
