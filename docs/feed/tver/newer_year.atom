@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-25T18:05:52+09:00</updated>
+  <updated>2026-02-25T20:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep15u8aq4n</id>
+    <title>3年B組金八先生(第8シリーズ)_[第４回 父親はウザイか？]</title>
+    <updated>2026-02-25T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep15u8aq4n.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;父・和彦（小宮孝泰）から受験に専念するようにと大好きな野球を取り上げられ、ショックで部屋に引きこもってしまった里中憲太郎（廣瀬真平）。憲太郎の幼なじみでもある諏訪部裕美（山田麗）から様子が変だと聞いた金八（武田鉄矢）は憲太郎の家を訪ねるが、憲太郎が引きこもっていることを隠している母親の恵美（広岡由里子）からは話をはぐらかされ早々に追い返されてしまう。翌日、今度は悠司（布川隼汰）から河川敷で憲太郎を見かけたとの報告を受け、金八は再び里中家を訪ねるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep15u8aq4n"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epulowtzcc</id>
     <title>錦糸町パラダイス～渋谷から一本～_[第8話 不死身の男 前編]</title>
@@ -2328,85 +2368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epl2zerrvz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5ex7abgb</id>
-    <title>SHUT UP_[第7話 性暴力との闘い。声を上げる者たち]</title>
-    <updated>2026-02-24T17:00:17+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh169q3jm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ SHUT UP
-                &lt;a href="https://tver.jp/series/srh169q3jm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ex7abgb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/23（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/24（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;SNSを使い、世間の同情を集めることに成功した悠馬（一ノ瀬颯）。たける（井上想良）たちの協力を得て、誹謗中傷の矛先は由希（仁村紗和）、恵（莉子）、しおり（片山友希）、紗奈（渡邉美穂）に向く。彼女達のバイト先にもクレームが入るなど、生活に影響が出始める中、彩（芋生悠）から突然連絡が来て…。悠馬と同じサークルに所属する榎本伊月（野村康太）も加わり、この状況を覆す起死回生の一手を考えることに。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5ex7abgb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0myhept0</id>
-    <title>SHUT UP_[第6話 一夜の真実と性的同意]</title>
-    <updated>2026-02-24T17:00:16+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh169q3jm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ SHUT UP
-                &lt;a href="https://tver.jp/series/srh169q3jm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0myhept0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/23（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/24（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;悠馬（一ノ瀬颯）への暴行と100万円強奪の疑いで警察への取り調べを受けることになった由希（仁村紗和）、恵（莉子）、しおり（片山友希）、紗奈（渡邉美穂）。その中で、すべての発端が恵の妊娠であることを知った刑事・相原は、恵にある団体のパンフレットを手渡す。それは、性暴力被害者のケアや、性的同意について考える団体のものだった。後日、恵はおぼつかない足取りで向かってみると、高梨塔子（野呂佳代）と出会い…。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0myhept0"/>
   </entry>
 </feed>
