@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-25T02:06:26+09:00</updated>
+  <updated>2026-02-25T11:07:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epm0pt24ms</id>
+    <title>三国志　秘密の皇帝_[第43話]</title>
+    <updated>2026-02-25T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm0pt24ms.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                曹操（そうそう）を丞相に命じた劉平（りゅうへい）の元に、伏完（ふくかん）と楊彪（ようひょう）が抗議に来る。しかし、劉平と伏寿（ふくじゅ）は、曹操の天下統一を助けることによって漢（かん）王朝の威光を示せると諭す。司馬懿（しばい）は、劉平の命により罪を許され、曹操に仕えることに。劉平に会った司馬懿は、自分を売ったうえに曹操を丞相にしたことを愚かだと罵る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epm0pt24ms"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epdhvd8ceo</id>
     <title>マトリと狂犬_[#５「狂犬の暴走」《ドラマイズム》]</title>
@@ -488,125 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnyzsnd3j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epg64ilvrg</id>
-    <title>シェパード警部・ブロークンウッドの事件簿_[第17話「偽りのロケ地ツアー」前編]</title>
-    <updated>2026-02-24T03:05:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
-                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_03時05分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月17日(火)_03時04分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg64ilvrg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                パブを経営するレイと妻デビーは、映画の撮影地巡りのツアーを催行し人気を集めていた。だがある日、デビーが森で死んでいるのが見つかり、遺体から大量のクモ毒が検出され、殺人と断定される。疑いの目が向いたのは夫のレイ、唯一クモの毒を所持するクモ学者チャンドラ、そしてデビーの身勝手な行動で不利益を被ったツアー業者のランスやニコル。捜査が進みツアーの内容が明らかになると、犯人と意外な動機が浮かび上がる…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epg64ilvrg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy7fro4q2</id>
-    <title>シカゴ･ファイア_[苦い思い]</title>
-    <updated>2026-02-24T02:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シカゴ･ファイア
-                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_02時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月10日(火)_01時44分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy7fro4q2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第14話「苦い思い」(吹替)&lt;br&gt;セブライドは、助っ人として51分署に来ている小隊長が、かつての友人エリック・ウェイリーであることを知る。ドーソンは、ケイシーが家族の問題でごたごたしている間に自分の秘密をシェイに打ち明ける。一方、悪質なヘロインが流通している件でボーデンと消防士たちは奮闘する。クラリスとシェイは乗り越えなければならない新たな問題に直面する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy7fro4q2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdj5qtbpf</id>
-    <title>親友の「同棲して」に「うん」て言うまで_[第７話・友だちでいようって決意するまで]</title>
-    <updated>2026-02-24T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjs8tvmqr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 親友の「同棲して」に「うん」て言うまで
-                &lt;a href="https://tver.jp/series/srjs8tvmqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_01時38分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdj5qtbpf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                湊（吉澤要人）とのお泊り会の翌朝。昨夜のキスを思い出して意識してしまう航（雨宮翔）とは反対に、湊は拍子抜けするほどいつも通りで、その温度差に戸惑いを隠せない。&lt;br&gt;湊から「やりたいことがある」と告げられ、不動産会社に勤める汐入（中山翔貴）のもとを訪れる。実は湊が、2人で住める部屋の紹介を頼んでいたのだった。予想外の展開に混乱してしまった航だったが、蓋をしていた湊に対する感情が一気に溢れ出して――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdj5qtbpf"/>
   </entry>
 </feed>
