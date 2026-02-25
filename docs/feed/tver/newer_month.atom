@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-25T11:07:06+09:00</updated>
+  <updated>2026-02-25T12:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -488,45 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep03igwqls"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnyzsnd3j</id>
-    <title>三国志　秘密の皇帝_[第42話]</title>
-    <updated>2026-02-24T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月24日(火)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月03日(火)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月24日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnyzsnd3j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                劉平（りゅうへい）や曹操（そうそう）たち一行は許都（きょと）に戻る。出仕を拒むために負傷したと偽っていたことが知られた司馬懿（しばい）は、曹操に牢に閉じ込められる。そんな司馬懿を救い出したい劉平は、評定を開く。司馬懿の処分について、臣下たちから様々な意見が飛び交う中，弘農（こうのう）王の位牌を持った唐瑛（とうえい）が現れ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnyzsnd3j"/>
   </entry>
 </feed>
