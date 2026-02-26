@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-26T02:05:52+09:00</updated>
+  <updated>2026-02-26T10:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmp8fwl9x</id>
+    <title>三国志　秘密の皇帝_[第44話]</title>
+    <updated>2026-02-26T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月26日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月05日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月26日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmp8fwl9x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                司馬懿（しばい）の元に、赤壁（せきへき）で曹操（そうそう）が孫権（そんけん）と劉備（りゅうび）に大敗したという知らせが届く。司馬懿と劉平（りゅうへい）は、曹操が江南（こうなん）を平定できないとなれば、漢（かん）王朝と争うことに全精力を使うだろうと予測する。曹氏とうまくやっていけると思っている劉平に対し、司馬懿は曹氏を滅ぼすつもりだと宣言する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmp8fwl9x"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epzxoahojr</id>
+    <title>L&amp;P_[第21話　冷血だから]</title>
+    <updated>2026-02-26T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月26日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月26日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzxoahojr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                目の手術で南湖を訪れた李藍(リー・ラン）は、弟が用意したホテル代を気にかける。そこへ方志靖(ファン・ジージン）が近づき、安宿を紹介するが、李藍は思わぬトラブルに巻き込まれる。一方、朱韻(ジュー・ユン）は李峋(リー・シュン）から両親に紹介してほしいと頼まれ胸を躍らせるが、まだ知らぬ波乱が待ち受けていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzxoahojr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eps4gs9ki4</id>
     <title>悪夢の不倫バスツアー_[#3「一旦、話聞こうか」]</title>
