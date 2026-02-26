@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-26T22:05:52+09:00</updated>
+  <updated>2026-02-27T00:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epl7ue8yk5</id>
+    <title>プロフェッショナル 保険調査員・天音蓮_[第8話 佐久間が極秘潜入捜査！？失踪事件に隠された謎]</title>
+    <updated>2026-02-26T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbal79uyb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ プロフェッショナル 保険調査員・天音蓮
+                &lt;a href="https://tver.jp/series/srbal79uyb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月26日(木)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月05日(木)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月26日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl7ue8yk5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                深夜の路地裏で、フードを被った男が若者たちに錠剤を売りさばいている。「L」と刻まれたそれは、違法ドラッグ「ルーシッド」だ。男は次々と売りさばき、闇の中を歩き去る。&lt;br&gt;&lt;br&gt;オリエント保険の沢木（野間口徹）と沙月（結城モエ）が深山リサーチを訪れ、天音（玉木宏）や凛（岡崎紗絵）に高級菓子をふるまっている。深山（小手伸也）は、オリエント保険のグループ会社・オリエント生命の神木（こがけん）とリモート会議中だ。神木は、失踪中の生命保険の加入者・森重優斗（味方良介）を探してほしいと依頼する。優斗はあと1ヵ月で失踪して7年。行方不明の状態が7年たてば失踪宣告が可能となり、法律上は死亡扱いになる。そうすれば受取人は保険金を請求できるのだ。死亡時の保険金は5000万円。もし生きていれば保険金を支払わずに済む。&lt;br&gt;&lt;br&gt;早速調査を開始する天音と凛は、警察に情報がないかと佐久間（渡部篤郎）に電話するが、繋がらない。&lt;br&gt;その頃、佐久間は薬物依存症の更生施設・特定NPO法人〈シェルター大村〉にいた。「自分の意志でやめられると思っていました・・・」と自分の薬物依存症について、他の入所者に語りかける佐久間。その胸には「佐渡島」のネームプレートが。&lt;br&gt;&lt;br&gt;1週間前、佐久間は刑事部長の大門（戸田昌宏）からシェルター大村の資料を見せられていた。大門はここにルーシッドの製造拠点があると踏んでいるのだ。この薬物は服用すると一瞬でハイになり、自分を見失う。オーバードーズによる死亡例も急増。「これ以上蔓延する前に叩いておきたい」と大門は佐久間に潜入捜査の極秘ミッションを依頼しており、偽名を使ってシェルター大村に忍び込んでいたのだ。&lt;br&gt;&lt;br&gt;保険受取人である森重の妻・葵（徳永えり）のアパートを訪れる天音と凛。失踪時、優斗には2000万円の借金があったと言う。&lt;br&gt;失踪した優斗と若者の間に蔓延する違法薬物・ルーシッド。そして佐久間が潜入するシェルター大村との関係・・・散りばめられた点と点が次第に線となっていく。果たして、この事件の真相とはいったい・・・？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl7ue8yk5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqkcsmo18</id>
     <title>ゆかりくんはギャップがずるい_[第4話 ゆかりくんの後悔]</title>
@@ -528,165 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephgh5zvr7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephhihus6o</id>
-    <title>ラムネモンキー_[第7話 トレンディなクリスマスイヴ]</title>
-    <updated>2026-02-25T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbhgspg4n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラムネモンキー
-                &lt;a href="https://tver.jp/series/srbhgspg4n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephhihus6o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                吉井雄太（反町隆史）たちが「ランボー」と呼んでいた男・二瓶清吉は、1988年のクリスマスに暴行を受けていた。鶴見巡査（濱尾ノリタカ）が調べたところ、ランボーに危害を加えたのは竿竹屋の鳥飼久雄という男だと判明する。&lt;br&gt;鳥飼は地元の暴力団『白狼会』の構成員だった。雄太、藤巻肇（大森南朋）、菊原紀介（津田健次郎）は、当時の鳥飼を知る阿部から話を聞く。阿部によると、鳥飼は竿竹屋の裏で金さえもらえば殺しも行うような危ない仕事を請け負っていたという。「女はうぶな顔をして恐ろしいことを平気でする」という阿部の話に、黙り込む三人。マチルダこと宮下未散（木竜麻生）の失踪にも鳥飼が関わっているのか・・・？&lt;br&gt;西野白馬（福本莉子）から事件のあった1988年のクリスマスに何をしていたのか問われた三人は、部室で映画の編集をしていたことを思い出す。1月6日の上映会を控えて編集作業に熱が入る中、「トレンディさん」と呼んでいた男・望月学が部室に差し入れを持って来ていた。&lt;br&gt;そして、紀介にはある記憶が蘇る。クリスマスの日、マチルダの前に三人の男が現れて愛の告白をする。彼女はそれを相手にせず、立ち去っていった。「マチルダにフラれた誰かが逆恨みしたんだ」と推測する紀介。&lt;br&gt;そんな中、白馬はSNSである画像を目にする。1980年頃の大学生たちの中に、マチルダの姿があった。白馬が画像を投稿した高校生に連絡すると、マチルダと共に写っていた祖父と祖母を紹介してくれるという。四人は早速話を聞きに行くのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephhihus6o"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj1dolo5h</id>
-    <title>相棒 season24_[第17話「惡の芽」]</title>
-    <updated>2026-02-25T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season24
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_22時04分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj1dolo5h.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                亡くなった漫画原作者の弔問に訪れた薫（寺脇康文）はその帰路、頭部に衝撃を受け意識を失う。現場を見た右京（水谷豊）は故意の可能性を指摘。漫画原作者の死も含め捜査を開始する。連載打ち切りを打診していた編集長や作画担当の明智（福本伸一）など、疑わしい人物は浮かび上がってくるものの、いずれもアリバイがあった。そんな中担当編集者の湯田（オラキオ）からは、著作権の相続について権利を主張している人物がいるとの情報が…！食い違う容疑者たちの証言…事件の裏にひそむ恐ろしき真実とは!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epj1dolo5h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epq65qb6lx</id>
-    <title>Sugar Sugar Honey_[with ローズ・グランガトー]</title>
-    <updated>2026-02-25T21:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz5e57jr7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Sugar Sugar Honey
-                &lt;a href="https://tver.jp/series/srz5e57jr7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_21時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq65qb6lx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「離れよう、俺たち。今一緒にいたらダメになる」そう梶（長妻怜央）から言い放たれて、瑞月（川津明日香）は呆然とした。梶は国際大会を控え、日々スイーツの開発に没頭するのだった。ある日、鹿間（市川知宏）がホテルへ瑞月を訪ねてくる。鹿間は瑞月を陸上の世界へ戻し、ともに歩んでいきたいと考えているのだ。瑞月は徐々にホテルの仕事に慣れ、客からの信頼も得ている中で、依然として心が揺れ動いていた。そして、瑞月は意を決して、同僚の志方（駒井蓮）と藤原（福岡聖菜）に相談を持ちかける。今までなら一人で悩んでいたところを。そして自ら答えを導き出すのだった。梶の国際コンテストの行方は。そして、瑞月の本当の居場所はー！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epq65qb6lx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppaqel7at</id>
-    <title>孤独のグルメ Season9_[第9話 福島県郡山市舞木町 ドライブインの焼肉定食]</title>
-    <updated>2026-02-25T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season9
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppaqel7at.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                仕事で福島県郡山市にやってきた井之頭五郎（松重豊）。郡山駅まで五郎を迎えに来た商談相手の木村（渡辺大知）の車に乗り、デコ屋敷が建ち並ぶ民芸品の工房へ向かう。工房にて、商談を終えた五郎と木村は車で市内に帰るはずが……。たどり着いた先は舞木町にある木村の実家であった。お昼ご飯を食べていかないかと木村に誘われるが、五郎は、このあと仕事で宇都宮に行く用事もあり、お腹も空いていないから、と誘いを断る。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppaqel7at"/>
   </entry>
 </feed>
