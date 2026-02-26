@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-26T16:05:52+09:00</updated>
+  <updated>2026-02-26T18:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -528,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eppaqel7at"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm0pt24ms</id>
-    <title>三国志　秘密の皇帝_[第43話]</title>
-    <updated>2026-02-25T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月25日(水)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月04日(水)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月25日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm0pt24ms.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                曹操（そうそう）を丞相に命じた劉平（りゅうへい）の元に、伏完（ふくかん）と楊彪（ようひょう）が抗議に来る。しかし、劉平と伏寿（ふくじゅ）は、曹操の天下統一を助けることによって漢（かん）王朝の威光を示せると諭す。司馬懿（しばい）は、劉平の命により罪を許され、曹操に仕えることに。劉平に会った司馬懿は、自分を売ったうえに曹操を丞相にしたことを愚かだと罵る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm0pt24ms"/>
   </entry>
 </feed>
