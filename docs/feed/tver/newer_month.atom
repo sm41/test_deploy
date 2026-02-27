@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-27T02:05:52+09:00</updated>
+  <updated>2026-02-27T10:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epptbz5pmi</id>
+    <title>三国志　秘密の皇帝_[第45話]</title>
+    <updated>2026-02-27T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月27日(金)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月27日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epptbz5pmi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                曹丕（そうひ）、曹植（そうしょく）そして曹節（そうせつ）の３人は、郭嘉（かくか）が残した袋を開け、劉平（りゅうへい）の正体を知った。曹丕は劉平を慕う曹節がこの秘密を漏らしてしまうかもしれないと言って、袋を劉平に渡すよう曹植に命じる。それを受け、劉平を人目の付かない書庫に呼び出した曹植は、劉平に袋を渡す。しかしそれは、曹丕の罠だった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epptbz5pmi"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep9ffvqjw6</id>
     <title>シリウス_[Ep1]</title>
