@@ -2,11 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-27T20:05:52+09:00</updated>
+  <updated>2026-02-27T22:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epa7ojsg8v</id>
+    <title>副会長の主なお仕事_[ギャルの訪れ]</title>
+    <updated>2026-02-27T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月27日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月27日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa7ojsg8v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                いつもの清楚系副会長が、ある日突然ギャル化して生徒会室に襲来。「生徒の気持ちを学ぶため」と語るものの、見た目と口調のチグハグさに灰屋は翻弄されるばかり。短期間で“ギャル研究”は幕を閉じるが、灰屋がぽろりと漏らしたひと言が栗下に思わぬ火種を残し、偏愛は静かに熱を帯びていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa7ojsg8v"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcg5r98fg</id>
+    <title>元科捜研の主婦_[7話「白骨語る誘拐の真相に涙」]</title>
+    <updated>2026-02-27T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月27日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月06日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月27日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcg5r98fg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                白骨遺体は“悪夢の女”!?詩織（松本まりか）は偶然入った生花店で、店主の彩花（徳永えり）から花束を受け取る倉田（大内リオン）と遭遇。大学の同期・真美子（工藤美桜）へ告白するらしい。だが、その真美子が所有する山から、約20年前に死亡した白骨遺体が見つかる。道彦（横山裕）らは真美子に事情を聞くが、唯一の手掛かりは“なっちゃん”という謎の女。失われた記憶と蘇る追憶…封印された“家族の絆”とは…！　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcg5r98fg"/>
+  </entry>
 </feed>
