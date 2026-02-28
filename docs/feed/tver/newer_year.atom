@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-02-28T18:05:53+09:00</updated>
+  <updated>2026-02-28T20:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyvenawt1</id>
+    <title>3年B組金八先生(第8シリーズ)_[第７回 金八生徒女形競艶]</title>
+    <updated>2026-02-28T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月28日(土)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyvenawt1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;３年B組の漆田駿（坂井太陽）が赤ん坊を背負って登校してきた。駿は父親・錦次（渡辺正行）が大衆演劇一座の座長をしており、赤ん坊はその座員の子どもだった。一座が地方巡業に出てしまったため、仕方なく駿が面倒を見る羽目になったというのだ。金八（武田鉄矢）はとりあえず職員室で赤ん坊を預り、事態を収める。数日後、錦次が金八を訪ねてきた。錦次は金八に駿を一座の跡継ぎにするためには高校へ進学させられないと話し、音楽をやりたいと言い張る駿を説得してほしいと言い出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyvenawt1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplbyrwdr7</id>
     <title>真夜中にハロー！_[第4話 新入社員、扉を開く。]</title>
@@ -3008,45 +3048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epu63gae4r"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep49j94xma</id>
-    <title>ハイエナ_[第2話 トラップへの倍返し!?]</title>
-    <updated>2026-02-27T17:00:27+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdzb3ziii.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ハイエナ
-                &lt;a href="https://tver.jp/series/srdzb3ziii" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月27日(金)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep49j94xma.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：2/27（金）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：2/28（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;凛子にまんまと騙され、大企業のドラ息子・三鬼修吾の離婚訴訟の負けが確定した怜。凛子との甘い日々を思い返し「全部芝居だったのか？」と絶望するも復讐に燃える。新海代表から「一回の失敗くらいで凹むな」と発破をかけられる。一方、大手法律事務所との裁判で勝利が確定した凛子には、富裕層からの依頼が殺到。だが凛子は全て断り、修吾の顧問弁護士の座を奪うことを策略。修吾に対し、ある行動に出る。それを察知した怜は…。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep49j94xma"/>
   </entry>
 </feed>
