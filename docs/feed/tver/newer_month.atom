@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-02-28T20:05:52+09:00</updated>
+  <updated>2026-02-28T22:05:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxw1d0mzn</id>
+    <title>パンダより恋が苦手な私たち_[第8話 初めてのお泊まりで2人の恋が急展開!]</title>
+    <updated>2026-02-28T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_02月28日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月07日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxw1d0mzn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                好きな人に本音で話せない時はどうすればいいの!?柴田一葉(上白石萌歌)は、思いを寄せる変人動物学者・椎堂司(生田斗真)の煮え切らない態度にガッカリ。そんな一葉に特集ページの大仕事が舞い込むが、まさかのトラブルに巻き込まれ…一方、不倫疑惑に揺れる灰沢アリア(シシド・カフカ)は、モデル界から姿を消したワケをついに告白!そして一葉が司の部屋にお泊り!?「そばにいてくれ」もどかしい2人の恋が動き出す!!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxw1d0mzn"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppnjlswkh</id>
     <title>教えてください、藤縞さん！_[#8 幸せなのにキケンな予感]</title>
