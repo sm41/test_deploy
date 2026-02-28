@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-01T00:05:52+09:00</updated>
+  <updated>2026-03-01T02:06:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epznsjdggk</id>
+    <title>CUT.編集された世界_[#4「編集された世界」]</title>
+    <updated>2026-03-01T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgo3qfiie.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ CUT.編集された世界
+                &lt;a href="https://tver.jp/series/srgo3qfiie" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_00時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epznsjdggk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「1年前のあの日、俺たちが渡辺を殺したんだ」&#13;&lt;br&gt;CUTのきっかけとなった2025年2月14日の記憶を取り戻した真中透（窪塚愛流）。&#13;&lt;br&gt;渡辺は、映画「風が止まる場所」の撮影中に起きた事故で、犠牲になったシネマクラブのメンバーだという。&#13;&lt;br&gt;記憶をたどろうとする真中たちだが、次々と雑な編集が重ねられ邪魔をされる。やがて部室は大混乱に。真中たちは「編集の世界」へと迷い込む。&#13;&lt;br&gt;「編集の世界」で気を失った真中透・桜井美月（莉子）・桐生悠真（平野宏周）・北原大聖（丈太郎）・星野沙蘭（奥山葵）の5人は、何もない真っ白な世界で目を覚ます。&#13;&lt;br&gt;待ち受けていたのは、編集をしていた張本人の渡辺。なぜ、渡辺は編集を繰り返したのか？“痛み”を消そうとした理由とは？CUTの真実が明らかに！&#13;&lt;br&gt;そして、真中たちに提示した究極の選択。彼らが選ぶ未来はどんな世界か？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epznsjdggk"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epv0v1ikjo</id>
+    <title>横浜ネイバーズ Season1_[第8話 自己と隣人 毒母との対決！愛されなかった子供たちに救いは訪れるのか！？]</title>
+    <updated>2026-03-01T00:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl0qee5zt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 横浜ネイバーズ Season1
+                &lt;a href="https://tver.jp/series/srl0qee5zt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月07日(土)_23時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv0v1ikjo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ロン（大西流星）はある不動産会社に潜入していた。欽太（原嘉孝）からの情報で、その会社をターゲットにした不動産詐欺が計画されているというのだ。詐欺グループの通称名は「マザーズ・ランド」。女性だけの犯罪グループで、首謀者の似顔絵は母・不二子（伊藤歩）にそっくりだった。人の好い先輩社員・山内（ひょうろく）に仕事を教えてもらいながら、ロンは母の出現を待ちわびていた。&lt;br&gt;&lt;br&gt;一方、不二子はヤマダと名乗り、詐欺仲間と粛々と取引の準備を進めていた。仲間は司法書士役のキシベ（氏家恵）、地主役のモリ（真下有紀）、書類偽造担当のヤマグチ（清瀬ひかり）など女性だけ。それは不二子のこだわりだった。脳裏に蘇る母（大須賀裕子）の姿…暗い闇が不二子を覆っていき…&lt;br&gt;&lt;br&gt;13年前、風呂場で亡くなったロンの父。酒が飲めないはずの父・孝四郎（河相我聞）の部屋に残された2つのビールグラス。テーブルの上の古びたパソコン。そして、父から教わった「親仁善隣」の言葉――&lt;br&gt;稀代の悪女・不二子が語る悲しい真実とは！？&lt;br&gt;ひきこもりから脱却したヒナ（平祐奈）、苦い失恋を経験し成長したマツ（高橋侃）、そして妹の死を乗り越えた凪（紺野彩夏）の他、謎の男・清田（萩原聖人）も登場！？隣人（ネイバーズ）たちによる群像ミステリー、いよいよ最終回！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epv0v1ikjo"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyqd6fvo2</id>
     <title>明月記～夢うつつの皇女～_[第16話]</title>
