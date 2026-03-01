@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-01T18:05:52+09:00</updated>
+  <updated>2026-03-01T20:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epunz7u9ve</id>
+    <title>孤独のグルメ Season1_[第3話 豊島区池袋の汁なし担々麺]</title>
+    <updated>2026-03-01T18:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season1
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epunz7u9ve.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                池袋のマンションギャラリーに呼ばれた五郎は駅前で怪しげな雰囲気の男にティッシュを渡される。マンションギャラリーでは美しいスタッフに迎えられるがそこには鬼の上司が……。そして池袋の街をさまよいこの日出合ったのは、中華・四川の汁なし担々麺だった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epunz7u9ve"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7sz2p0so</id>
     <title>＆Hulu_[特集(1)今観ても面白い“ビバヒル”の魅力をなだぎ武が語り尽くす！(2)綾辻ミステリー実写化第2弾「時計館の殺人」▼19世紀ロンドンが舞台「ディケンジアン」第1話]</title>
@@ -968,45 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epd76megpn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd1xi1r0z</id>
-    <title>明月記～夢うつつの皇女～_[第15話]</title>
-    <updated>2026-03-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru798ajj9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 明月記～夢うつつの皇女～
-                &lt;a href="https://tver.jp/series/sru798ajj9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd1xi1r0z.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                李明月(り・めいげつ)が婚姻により悲しむことがないように、僕固雲伺(ボクトゥ・ユンスー)と愛し合った記憶を消したと凱爾比(カイルビ)は言う。しかし李謙(り・けん)は、明月の幸せのためにも催眠術の解き方を教えてほしいと訴える。そして、過去を知ってもすべて受け入れるし、もし記憶が戻り、この婚姻が解消になったとしても、北宣と汐月の関係は守ると断言するのだった。李謙の誠意と覚悟を見た凱爾比は、彼にある物を手渡し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd1xi1r0z"/>
   </entry>
 </feed>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-01T18:05:52+09:00</updated>
+  <updated>2026-03-01T20:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsw6198cq</id>
+    <title>3年B組金八先生(第8シリーズ)_[第８回 子守歌に託した夢]</title>
+    <updated>2026-03-01T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsw6198cq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;中学生英語スピーチコンテストが近づいてきた。３年B組からは帰国子女で英語が得意な金井亮子（忽那汐里）が選出される。そんな中、茅ヶ崎紋土（カミュー・ケイド）はアメリカにいる父親から届いた手紙のことで悩んでいた。紋土の父親は軍人だが、彼が生まれてすぐアメリカに単身で戻ってしまった。そのため母親の佐和子（池津祥子）１人に育てられた紋土は、見知らぬ父親に好意を抱けずにいたのだ。だが、意を決した紋土は亮子に父からの手紙を訳してもらおうとしたところ、３B生徒にその現場を見られ、ラブレターを渡そうとしたと勘違いされてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsw6198cq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppkewk3vz</id>
     <title>真夜中にハロー！_[第8話 恋する講師、扉を開く。]</title>
@@ -2808,45 +2848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epej0ytesf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcvzuna17</id>
-    <title>特命係長 只野仁 (2003年7月～9月放送)_[第7話 (令和コンプライアンスブレイクスルー版)]</title>
-    <updated>2026-03-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbc66zfuf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 特命係長 只野仁 (2003年7月～9月放送)
-                &lt;a href="https://tver.jp/series/srbc66zfuf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月31日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcvzuna17.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                電王堂の株主総会を来週に控え、悪名高い総会屋・Ｒ会が裏で動き始めているらしい。例によって黒川会長からＲ会の調査を命じられた只野は、さっそく行動を開始。&lt;br&gt;はたしてヤツらの狙いは何なのか…。そんなある日、只野はヤクザに絡まれた紀子をさっそうと助ける一人の男を目撃する。男の名前は細川竜一郎。またの名をカミソリの竜といい、これまでにも数々の企業トラブルや不祥事の裏で暗躍してきたスゴ腕の男だ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcvzuna17"/>
   </entry>
 </feed>
