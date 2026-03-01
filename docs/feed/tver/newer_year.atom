@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-01T20:05:52+09:00</updated>
+  <updated>2026-03-01T22:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2808,45 +2808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epeosjthai"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epej0ytesf</id>
-    <title>特命係長 只野仁 (2003年7月～9月放送)_[第8話 (令和コンプライアンスブレイクスルー版)]</title>
-    <updated>2026-03-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbc66zfuf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 特命係長 只野仁 (2003年7月～9月放送)
-                &lt;a href="https://tver.jp/series/srbc66zfuf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月31日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epej0ytesf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                電王堂の女子更衣室やトイレが何者かによって盗撮され、ビデオテープが裏で出回っていた。どうやら犯人は電王堂内部の者らしい。このままでは会社のイメージダウンにもつながると、黒川会長の命により調査を開始した只野と森脇。さっそくビデオの発売元の事務所を訪ねるが、事務所の連中もそのビデオを持ち込んだ人物の詳しい素性については分からないという。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epej0ytesf"/>
   </entry>
 </feed>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-01T20:05:52+09:00</updated>
+  <updated>2026-03-01T22:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eprmru4hvl</id>
+    <title>リブート_[第６話 終幕]</title>
+    <updated>2026-03-01T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リブート
+                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月08日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprmru4hvl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;第一章完結！&lt;br&gt;真犯人が判明！&lt;br&gt;２人の儀堂が手を組み、麻友の救出のため、敵に対峙する！&lt;br&gt;そして、本物の儀堂、覚醒！&lt;br&gt;何者かの巧妙な画策により、早瀬（鈴木亮平）は突如、警察に拘束されてしまう。&lt;br&gt;身動きの取れない早瀬の前に現れたのは、真北（伊藤英明）。&lt;br&gt;思いもよらぬ形で差し伸べられた“救いの手”。その真の目的とは一体何なのか。&lt;br&gt;一方その頃、儀堂（鈴木亮平・２役）は、麻友（黒木メイサ）を救い出すため、単身で合六（北村有起哉）の自宅へと乗り込んでいた。もはや手段は選ばない儀堂だったが、そこには、用意周到な罠が…。気づいた時には、すでに合六の策略の中に取り込まれていた。&lt;br&gt;その事実を知らぬまま拘束されている早瀬のもとに、儀堂から１本の電話が入る。&lt;br&gt;追い詰められている儀堂、そして囚われた麻友。&lt;br&gt;２人を救うため、早瀬は“警察”としてではなく、“１人の男”として敵地へと乗り込む決意を固める。&lt;br&gt;そこに待ち受けていたのは、真の犯人、そして巨大な裏組織。&lt;br&gt;絶望的な状況の中、早瀬と儀堂はついに同じ敵と対峙する！！&lt;br&gt;その瞬間、儀堂が見せる“刑事としての矜持”とは。&lt;br&gt;運命が再び交錯する、物語最大のターニングポイントへ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprmru4hvl"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epunz7u9ve</id>
     <title>孤独のグルメ Season1_[第3話 豊島区池袋の汁なし担々麺]</title>
@@ -888,125 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epg482acmr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdy7jzfmi</id>
-    <title>明月記～夢うつつの皇女～_[第22話]</title>
-    <updated>2026-03-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru798ajj9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 明月記～夢うつつの皇女～
-                &lt;a href="https://tver.jp/series/sru798ajj9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdy7jzfmi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「将進酒」の詩を李明月(り・めいげつ)に暗記させようとする李謙(り・けん)。明月はそれが嫌で李謙の記憶を消そうと催眠術をかけるが、なぜか彼は実母・鄭(てい)妃の姿を思い出した。香りまで感じるかと思うほど鮮明な記憶の中の母は、側仕えの太監が言うように重い病を患って亡くなったとは思えないほど生気に満ちていた。何かおかしい――李謙に協力し鄭妃の死因を調べ始めた明月だったが、ある日突然、陛下に呼び出され…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdy7jzfmi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdqgvdu58</id>
-    <title>明月記～夢うつつの皇女～_[第11話]</title>
-    <updated>2026-03-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru798ajj9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 明月記～夢うつつの皇女～
-                &lt;a href="https://tver.jp/series/sru798ajj9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdqgvdu58.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                李謙(り・けん)が、自分のことを“単なる手駒にすぎない”と語るのを耳にした李明月(り・めいげつ)は、傷ついた心を紛らわすかのように、康楽(こうらく)公主の部屋で大酒を飲んで泥酔。しばらくして迎えにきた李謙に“顔も見たくない”と言い捨てる。その言葉に僅かに眉を顰めた李謙だったが、帰るのを拒む明月を問答無用で抱きかかえると、その場を後にするのだった。すると、王府に帰る馬車の中で予想もしない出来事が…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdqgvdu58"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd76megpn</id>
-    <title>明月記～夢うつつの皇女～_[第34話]</title>
-    <updated>2026-03-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru798ajj9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 明月記～夢うつつの皇女～
-                &lt;a href="https://tver.jp/series/sru798ajj9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd76megpn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                その手で李明月(り・めいげつ)を殺すか、2人で死ぬか――喬慧心(きょう・けいしん)から決断を迫られた李謙(り・けん)は、迷うことなく愛する明月と共に逝く道を選んだ。来世でまた一緒になろうと誓い合う李謙と明月。だが、慧心が本当に殺したいのは自分だと分かっている明月は、密かに覚悟を決めていた。私がそばにいるから大丈夫だと李謙が明月を抱きしめた次の瞬間、彼女は李謙に催眠術をかける。“私を殺して”と…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd76megpn"/>
   </entry>
 </feed>
