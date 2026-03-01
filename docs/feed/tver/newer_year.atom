@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-01T02:06:52+09:00</updated>
+  <updated>2026-03-01T10:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -804,7 +804,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                電王堂のスポンサーである大福屋デパートの社長が急死した。しかし、こともあろうに彼の愛人が社長から預かった裏帳簿をもとに会社を脅しているという。&lt;br&gt;例によって黒川会長に呼び出され、その裏帳簿を奪回するよう命じられた只野は、さっそくその女・冴子がいる画廊へ行き、彼女を食事に誘う。首尾よく冴子のマンションへと入り込んだ只野だったが、ワインに薬を盛られ、外にほうり出されてしまう。
+                電王堂のスポンサーである大福屋デパートの社長が急死した。しかし、こともあろうに彼の愛人が社長から預かった裏帳簿をもとに会社を脅しているという。&#13;&lt;br&gt;例によって黒川会長に呼び出され、その裏帳簿を奪回するよう命じられた只野は、さっそくその女・冴子がいる画廊へ行き、彼女を食事に誘う。首尾よく冴子のマンションへと入り込んだ只野だったが、ワインに薬を盛られ、外にほうり出されてしまう。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epcetqibxh"/>
@@ -2208,45 +2208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epn7un3ykn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgcx80e6n</id>
-    <title>ライオンの隠れ家_[第８話 姉の覚悟…そして別れのとき]</title>
-    <updated>2026-02-28T15:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp6e5qh3b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ライオンの隠れ家
-                &lt;a href="https://tver.jp/series/srp6e5qh3b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_02月28日(土)_15時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月08日(日)_14時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgcx80e6n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)15:00～&lt;br&gt;#3-5：2月20日(金)15:00～2月28日(土)14:59&lt;br&gt;#6-8：2月28日(土)15:00～3月8日(日)14:59&lt;br&gt;#9-11：3月8日(日)15:00～3月16日(月)14:59&lt;br&gt;※本作品は3月16日(月)～にも配信を行います&lt;br&gt;------------&lt;br&gt;警察で愛生（尾野真千子）と面会した楓（桜井ユキ）は、洸人（柳楽優弥）からのメッセージを伝え、釈放後どうしたいかを彼女に聞く。釈放当日、愛生は再び柚留木（岡山天音）の力を借りて、息子のライオン（佐藤大空）と洸人、美路人（坂東龍汰）が待つ佐渡島へ向かうことに。佐渡島に到着した愛生を迎えた洸人は、久しぶりの姉とどうやって接していいのかわからず困惑。しかし愛生はお構いなしに、自分のペースに洸人たちを巻き込み、ライオンとの再会を心から喜んでいた。その夜、洸人は愛生を呼び止め、最愛の息子・愁人を洸人と美路人に託した思いや祥吾（向井理）のDVのことなどをすべて聞く。洸人もまた長年積もった思いの丈を初めて姉にぶつける——。その頃、記者の天音（尾崎匠海）がたちばな都市建設と亀ヶ谷議員に関する気になる情報を入手していた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgcx80e6n"/>
   </entry>
 </feed>

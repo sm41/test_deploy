@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-01T02:06:52+09:00</updated>
+  <updated>2026-03-01T10:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7sz2p0so</id>
+    <title>＆Hulu_[特集(1)今観ても面白い“ビバヒル”の魅力をなだぎ武が語り尽くす！(2)綾辻ミステリー実写化第2弾「時計館の殺人」▼19世紀ロンドンが舞台「ディケンジアン」第1話]</title>
+    <updated>2026-03-01T02:40:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月01日(日)_02時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7sz2p0so.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特集2本立て&lt;br&gt;(1)なだぎ武が熱く語る！今観ても面白い「ビバリーヒルズ青春白書」の魅力、さらになだぎ武注目の人物とは？&lt;br&gt;(2)「時計館の殺人」綾辻行人「館」シリーズ実写化第2弾！ミステリー史に残る大仕掛け、完全実写化&lt;br&gt;▼文豪ディケンズが生み出した人気キャラクターが同じ街に住んでいたら？奇想天外なアイデアを基に製作されたミステリー「ディケンジアン」第1話！&lt;br&gt;(C)2015 Red Planet (Dickens) Limited
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7sz2p0so"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epznsjdggk</id>
     <title>CUT.編集された世界_[#4「編集された世界」]</title>
