@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-02T20:05:42+09:00</updated>
+  <updated>2026-03-02T22:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2bgpgjdx</id>
+    <title>ヤンドク！_[第8話 謹慎中 親友の病気が発覚！3人の初タイマン秘話]</title>
+    <updated>2026-03-02T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月02日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月09日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2bgpgjdx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                湖音波（橋本環奈）は緊急性があったとはいえ、独断で塩沢菜摘（濱田マリ）の手術を行ったうえ、その件をとがめた鷹山（大谷亮平）に暴言を吐いたことで、中田（向井理）から無期限の謹慎を言い渡される。謹慎中にもかかわらずゲームセンターやスナックで時間を潰す湖音波のもとに、麗奈（内田理央）から翌日の定期検診についての電話が。「マブダチのためなら謹慎なんてクソくらえ」と、検診は自分が担当すると言い張る湖音波。&lt;br&gt;&lt;br&gt;翌日、何食わぬ顔で病院を訪れた湖音波だったが院内からつまみ出され、大友（音尾琢真）が麗奈を診ることに。検診の結果、二年前に患っていた頭蓋咽頭腫の再発は見られずホッとする麗奈。と、そこに看護師に変装した湖音波が忍び込んで来るが、すぐに見つかり中田から呼び出されてしまう…。&lt;br&gt;&lt;br&gt;検診を終えた麗奈と湖音波は、今は亡き親友・真理愛（平祐奈）の誕生日を祝う恒例行事を行っていた。高校1年生当時、ひょんなことから意気投合しマブダチになったことを思い出しながら、真理愛が生きていたらどんな仕事をしていたのか想像して盛り上がる2人。その帰り道、麗奈が突然頭の痛みを訴える。緊急検査の結果、麗奈の脳には頭蓋咽頭腫とは別に、動脈瘤が見つかった。しかし麗奈は息子の丈太郎（原川昊大）との約束のため、開頭手術ではなく、入院期間が短く回復が早いカテーテル手術にして欲しいと申し出る。真理愛のように亡くなる子を出さないために決意して医師になったのに、肝心のマブダチが倒れた時に謹慎中だなんて…悔しさを噛みしめる湖音波は、麗奈の手術を行うため、改めて謹慎を解いてほしいと中田に頭を下げるが、中田は首を縦に振らず。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2bgpgjdx"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epirens8zi</id>
     <title>孤独のグルメ Season9_[第11話 東京都豊島区巣鴨のチャンサンマハと羊肉ジャージャー麺]</title>
