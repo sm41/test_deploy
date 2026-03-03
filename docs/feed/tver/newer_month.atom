@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-03T18:05:42+09:00</updated>
+  <updated>2026-03-03T20:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplozu5alw</id>
+    <title>孤独のグルメ Season9_[第12話（最終回） 神奈川県伊勢佐木長者町のチーズハンバーグと牛ヒレの生姜焼き]</title>
+    <updated>2026-03-03T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season9
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月17日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplozu5alw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                仕事で伊勢佐木長者町にやってきた井之頭五郎（松重豊）。古い街並みを通り、商談相手の伊藤良介が経営するお米屋さんにたどり着く。中に入ると、伊藤の妻の寛子が出て来て、五郎は何故か怒られてしまう。実は、夫の釣り仲間が営業マンのフリをして、夫を釣りに連れ出そうとしに来ていると勘違いされていたのだ。なんとか誤解が解け、商談を始めるがお米屋さんで売っている【おむすび】が気になり商談に集中できない。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplozu5alw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epma8tnk1b</id>
     <title>三国志　秘密の皇帝_[第47話]</title>
