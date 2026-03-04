@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-04T18:06:25+09:00</updated>
+  <updated>2026-03-04T20:05:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp5y6pqpm</id>
+    <title>孤独のグルメ Season10_[第1話 神奈川県相模原市橋本の牛肉のスタミナ炒めとネギ玉]</title>
+    <updated>2026-03-04T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season10
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp5y6pqpm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                JR横浜線と京王相模原線が通る駅「橋本」。仕事でこの地を訪れた五郎（松重豊）は喫茶店で、依頼人である高原良樹（田渕章裕）にアンティークの置時計を紹介するが、喋り出したら止まらない高原の性格に圧倒され、商談が進まず困り果ててしまう。終いには、高原に自社イチオシの商品を実演販売され、思わず買うことに……。疲れ果てた五郎だったが、それでも腹は減る。そんな時、遠くに食堂と書かれた大きな看板を発見する。五郎は、足早に高原のもとを後にし、食堂へ向かうことに。大体の方向と方角を頼りに食堂を探す五郎。ようやく射程圏内に看板を見つけ、いざ食堂の前に立つと“横綱”と言わんばかりの貫録のある雰囲気に、五郎の鼓動は高まり、腹の虫は色めき立つ。胸を借りる気持ちで食堂に入るとそこにはお店に垂れ下がる数々の短冊メニューが……！　王道の定食から中華まで。今宵、五郎のお腹を満たす料理は如何に！　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp5y6pqpm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ephrriee91</id>
     <title>三国志　秘密の皇帝_[第48話]</title>
