@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-04T02:15:47+09:00</updated>
+  <updated>2026-03-04T10:05:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ephrriee91</id>
+    <title>三国志　秘密の皇帝_[第48話]</title>
+    <updated>2026-03-04T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephrriee91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                唐瑛（とうえい）が曹操（そうそう）を狙った刺客だと思い、曹仁（そうじん）は兵を率いて宮中に押し入る。曹仁によって大勢の前で辱められた唐瑛は自害する。劉平（りゅうへい）は司馬懿（しばい）を解放することを要求し、同時に互いに対等な関係を築くことを曹操に提案する。その後、刺客と戦い負傷した曹丕（そうひ）を見舞った曹操は、刺客が男だったことを知り…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephrriee91"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epcd53yddt</id>
     <title>マトリと狂犬_[#6「狂犬が生まれた日」《ドラマイズム》]</title>
@@ -368,45 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eplozu5alw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epma8tnk1b</id>
-    <title>三国志　秘密の皇帝_[第47話]</title>
-    <updated>2026-03-03T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三国志　秘密の皇帝
-                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月10日(火)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epma8tnk1b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                楊彪（ようひょう）が太尉を辞し故郷に帰ると申し出、曹操（そうそう）を呼んで別れの宴が開かれることになった。楊彪（ようひょう）や伏完（ふくかん）が、唐瑛（とうえい）を使い曹操を殺そうとしていると考えた劉平（りゅうへい）と伏寿（ふくじゅ）は、唐瑛を宮中の外に出さないよう手を尽くす。各々、曲水の宴で和やかに詩を披露していくが、杯が曹操の前で止まった時…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epma8tnk1b"/>
   </entry>
 </feed>
