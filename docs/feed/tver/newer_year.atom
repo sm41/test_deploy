@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-04T12:05:25+09:00</updated>
+  <updated>2026-03-04T14:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epicq1m9n9</id>
+    <title>想い出にかわるまで_[第５回「こじれていく結婚」]</title>
+    <updated>2026-03-04T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlv5zr5u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 想い出にかわるまで
+                &lt;a href="https://tver.jp/series/srqlv5zr5u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月10日(火)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1990年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epicq1m9n9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-4：3月1日(日)14:00～3月31日(火)23:59&lt;br&gt;#5：3月4日(水)14:00～3月10日(火)14:00&lt;br&gt;#6：3月7日(土)14:00～3月13日(金)14:00&lt;br&gt;#7：3月10日(火)14:00～3月16日(月)14:00&lt;br&gt;#8：3月13日(金)14:00～3月19日(木)14:00&lt;br&gt;#9：3月16日(月)14:00～3月22日(日)14:00&lt;br&gt;#10：3月19日(木)14:00～3月25日(水)14:00&lt;br&gt;#11：3月22日(日)14:00～3月28日(土)14:00&lt;br&gt;#12：3月25日(水)14:00～3月31日(火)23:59&lt;br&gt;------------&lt;br&gt;結婚延期のことなど全く知らずに浮き足立つ周囲に、るり子（今井美樹）は気まずい思いをしていた。そんな中、水口（財津和夫）がエレベーターでの一件を謝りたいと再びるり子の前に現れ、そこへやって来た直也（石田純一）は、３人でお茶でもどうかと言い出す。すると、水口は直也の前でるり子に好きだと告げ…。&lt;br&gt;一方、直也に自分の思いを伝えた久美子（松下由樹）は、結婚に向けて再出発しようとしているるり子と直也の様子から、自分の入り込む隙などないと思い知らされる。そんなある日の夜、久美子が直也のマンションへ行くと、るり子が泣きながら飛び出してくるのを目撃する。久美子はたまらず直也の部屋に入り、なりふり構わず胸に飛び込んで…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epicq1m9n9"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephu1wxnvu</id>
+    <title>セーラー服と機関銃（長澤まさみ、堤真一）_[第４話 愛した組員の死]</title>
+    <updated>2026-03-04T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgmtav1y4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ セーラー服と機関銃（長澤まさみ、堤真一）
+                &lt;a href="https://tver.jp/series/srgmtav1y4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephu1wxnvu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！主演：堤真一 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月28日(土)14:00～&lt;br&gt;#3：3月1日(日)14:00～3月8日(日)13:59&lt;br&gt;#4：3月4日(水)14:00～3月11日(水)13:59&lt;br&gt;#5：3月8日(日)14:00～3月15日(日)13:59&lt;br&gt;#6：3月11日(水)14:00～3月18日(水)13:59&lt;br&gt;#7：3月15日(日)14:00～3月22日(日)13:59&lt;br&gt;※本作品は3月22日(日)～にも配信を行います&lt;br&gt;------------&lt;br&gt;泉（長澤まさみ）は目高組の組員といる最中、学校の友達に出くわしてしまう。そんな中、目高組の事務所が荒らされる事件が。しかし取られたものは何もなく、佐久間（堤真一）ら組の面々は、泉の父が関わっていたらしいヘロインを浜口組が探しにきたのだと確信する。泉は亡き父が麻薬に関わるような人間ではないと信じるが、さらに今度は組員の武（田口浩正）が襲われてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephu1wxnvu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epk4w81mjz</id>
     <title>ブラックファミリア～新堂家の復讐～_[#1 なりすまし復讐劇]</title>
@@ -2768,245 +2848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eps88cztp4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjgp4hkmt</id>
-    <title>ソロ活女子のススメ_[第8話 ソロ遊園地]</title>
-    <updated>2026-03-03T17:00:10+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srszkhq4o7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ソロ活女子のススメ
-                &lt;a href="https://tver.jp/series/srszkhq4o7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjgp4hkmt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/2（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/3（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/4（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;「ダイジェスト出版」編集部の契約社員・五月女恵（江口のりこ）は、好きな時に好きな場所へ行き、ひとりの時間を楽しむ“ソロ活”に邁進中。『自分自身が絶叫系マシンを好きなのか嫌いなのか』その真相を確かめるべく、恵は有給休暇を取得し遊園地を訪れる。検証するため、絶叫系マシン縛りで次々とアトラクションに挑戦する傍ら、独特の雰囲気を放つ謎の男性客に話しかけられる。男から絶叫マシンの助言を聞いた恵は……　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjgp4hkmt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjsepoxvx</id>
-    <title>ソロ活女子のススメ_[第7話 ソロせんべろ]</title>
-    <updated>2026-03-03T17:00:09+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srszkhq4o7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ソロ活女子のススメ
-                &lt;a href="https://tver.jp/series/srszkhq4o7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjsepoxvx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/2（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/3（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/4（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;五月女恵（江口のりこ）は、好きな時に好きな場所へ行き、ひとりの時間を楽しむ“ソロ活”に邁進中。恵は以前から気になっていた、せんべろの立ち飲み屋を訪れる。美味しいお酒とお店一推しの料理に落ち着いていた頃、店員と常連客の何気ない会話に聞き耳を立てていると……。そして恵はせんべろの醍醐味、ハシゴ酒をするため二軒目へ。するとそこに一人の女性客がやってくる。お店のシステムに慣れていない様子の彼女をみた恵は……　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjsepoxvx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvr10hha5</id>
-    <title>ソロ活女子のススメ_[第6話 ソロ気球]</title>
-    <updated>2026-03-03T17:00:08+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srszkhq4o7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ソロ活女子のススメ
-                &lt;a href="https://tver.jp/series/srszkhq4o7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvr10hha5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/2（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/3（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/4（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;「ダイジェスト出版」編集部の契約社員・五月女恵（江口のりこ）は、好きな時に好きな場所へ行き、ひとりの時間を楽しむ“ソロ活”に邁進中。長年の夢だった“空を飛ぶ”を叶えるべく、恵は都心から1時間程離れた気球フライトが体験できる施設を訪れる。翌日の朝方にフライトを控え、今晩の宿泊場所へ案内された恵は、パイロット吉村の妻にバーベキューに誘われる。そこで意外と知らなかった気球競技のことを知り……。そしていよいよ、恵は風になる……？　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvr10hha5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkvd0233w</id>
-    <title>ソロ活女子のススメ_[第5話 ソロフレンチフルコース]</title>
-    <updated>2026-03-03T17:00:07+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srszkhq4o7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ソロ活女子のススメ
-                &lt;a href="https://tver.jp/series/srszkhq4o7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkvd0233w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/2（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/3（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/4（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;「ダイジェスト出版」編集部の契約社員・五月女恵（江口のりこ）は、好きな時に好きな場所へ行き、ひとりの時間を楽しむ“ソロ活”に邁進中。フランス料理のフルコースディナーの予約を取ろうと様々なお店を調べる恵だったが、「二名様から予約可能」の壁に直面していた……。途方に暮れていた時、会社の上司・黒田彩子（小林きな子）からお店を紹介してもらい、なんとか予約がとれた恵。意を決してお店へと向かった恵は店内の雰囲気に圧倒され……　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkvd0233w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epskwptlj8</id>
-    <title>「ダブルチート 偽りの警官 Season２」WOWOW×テレビ東京 共同製作連続ドラマ_[第8話（最終回）]</title>
-    <updated>2026-03-03T17:00:06+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv3fw5nhv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 「ダブルチート 偽りの警官 Season２」WOWOW×テレビ東京 共同製作連続ドラマ
-                &lt;a href="https://tver.jp/series/srv3fw5nhv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epskwptlj8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/2（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/3（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;サロンの内通者によって海藤（陣内孝則）に正体を知られ、窮地に立たされる春樹（市原隼人）。しかし、勝利を確信する海藤だったが、ひかり（内田理央）たち警察が目の前に現われ…。海藤は自身と「ドミナートル」の全資金を一時的に中国マフィアの元金庫番・張（ジョーナカムラ）に預けることで難を逃れようとするが、矢柴（荒川良々）と山本（結木滉星）がその「張」の居場所を突き止めると、意外な人物にたどり着き!?互いの知略がぶつかり合い事態が二転三転する中、最後に笑うのは誰なのか？そして春樹の本当の目的とは―　［期間限定無料配信］　「ダブルチート 偽りの警官 Season１＆２」 DVD BOX 好評発売中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epskwptlj8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epon8a2tvc</id>
-    <title>「ダブルチート 偽りの警官 Season２」WOWOW×テレビ東京 共同製作連続ドラマ_[第7話]</title>
-    <updated>2026-03-03T17:00:05+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv3fw5nhv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 「ダブルチート 偽りの警官 Season２」WOWOW×テレビ東京 共同製作連続ドラマ
-                &lt;a href="https://tver.jp/series/srv3fw5nhv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月03日(火)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epon8a2tvc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/2（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/3（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;海藤（陣内孝則）を詐欺計画の表舞台に引きずり出すため、春樹（市原隼人）は中国マフィアの元金庫番を利用し、まずは木崎（淵上泰史）を排除しようと企てる。その頃、ひかり（内田理央）たちは春樹の父親が亡くなった事故の背景に海藤の策略があり、さらにはその捜査に九条（升毅）が関わっていたことを突き止める。岩合（伊藤淳史）は刑事部長の城島（羽場裕一）とともに九条の元を訪ね任意同行を求めるが、そこで九条は、春樹との出会いについて語り始め…　［期間限定無料配信］　「ダブルチート 偽りの警官 Season１＆２」 DVD BOX 好評発売中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epon8a2tvc"/>
   </entry>
 </feed>
