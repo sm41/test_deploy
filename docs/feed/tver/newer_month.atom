@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-04T20:05:26+09:00</updated>
+  <updated>2026-03-04T22:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptc346heh</id>
+    <title>相棒 season24_[第18話「ドミノ」]</title>
+    <updated>2026-03-04T22:04:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season24
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_22時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_22時04分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptc346heh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                気鋭のIT企業『ネクサーチ』の社長・関谷（田中幸太朗）が、“ドミノ”に組み込まれた銃で命を狙われた。右京（水谷豊）と薫（寺脇康文）が捜査を開始すると、現場で不可解な動きをしていた清掃員の青年・数原（豊田裕大）を発見。副社長の丹羽（浜野謙太）とも親しいようで、事件とは無関係だと主張する数原だったが、なぜか自身の天才的な頭脳を隠しており…？将来を嘱望される社長はなぜ狙われたのか…“ドミノ”に隠された真実とは!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptc346heh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp5y6pqpm</id>
     <title>孤独のグルメ Season10_[第1話 神奈川県相模原市橋本の牛肉のスタミナ炒めとネギ玉]</title>
