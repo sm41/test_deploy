@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-05T02:06:26+09:00</updated>
+  <updated>2026-03-05T10:05:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzmnph1h7</id>
+    <title>三国志　秘密の皇帝_[第49話]</title>
+    <updated>2026-03-05T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月05日(木)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月12日(木)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月5日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzmnph1h7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                劉平（りゅうへい）は曹操（そうそう）が司馬（しば）家を助ける代わりに、曹仁（そうじん）の罪を減じ、曹操を魏（ぎ）公にする。孔融（こうゆう）や伏完（ふくかん）は強く抗議するが、劉平（りゅうへい）は決定を取り下げない。伏完の動きが怪しいという知らせが曹植（そうしょく）の元に入る。曹植は急いで宮中に向かうが、門番に止められてしまい…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzmnph1h7"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7195rv46</id>
+    <title>L&amp;P_[第22話　ありません]</title>
+    <updated>2026-03-05T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月05日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7195rv46.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                李峋(リー・シュン）は朱韻(ジュー・ユン）を突き放し、立ち上げた会社L&amp;Pからも遠ざけ、黎娜(リーナー）と親しくする。態度に傷ついた朱韻は親の勧めで海外留学を決意するが、あることに気づき大学へ急ぐ。その頃、コンテスト会場には李峋の姿も現れ、運命の歯車が再び動き出そうとしていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7195rv46"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj18ri7xr</id>
     <title>悪夢の不倫バスツアー_[#5「ダムで公開処刑」]</title>
@@ -608,85 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epcvx007d6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epraxe3frr</id>
-    <title>どーする？ごはんSEASON2_[日本編第1話「ジヌ、どーする？〜杏舞 姉妹と手作りチゲ鍋〜」]</title>
-    <updated>2026-03-04T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlmq9cffq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ どーする？ごはんSEASON2
-                &lt;a href="https://tver.jp/series/srlmq9cffq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_01時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epraxe3frr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                マサトに会うために再び名古屋にやってきた韓国人のジヌ。しかしマサトは母親が倒れ約束の場所に現れず、代わりに昔のバイト仲間の杏を紹介される。所持金が少ないジヌを心配した杏は姉と暮らす家に滞在することを提案。それには条件があって…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epraxe3frr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcovctxm0</id>
-    <title>略奪奪婚_[第9話 羊たちの沈黙と絶叫]</title>
-    <updated>2026-03-04T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9o4l4jzm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 略奪奪婚
-                &lt;a href="https://tver.jp/series/sr9o4l4jzm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月11日(水)_01時05分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcovctxm0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                意を決して司（伊藤健太郎）のクリニックを訪ねた千春（内田理央）は、思いがけずえみる（中村ゆりか）と司の幸せそうな姿を見てしまい愕然とする。苦しくなった千春は逃げるようにクリニックをあとにするが、ひょんなことから司は千春がクリニックを訪れていたことを確信する。司から直接会って謝罪したいと言われた千春は行くべきか悩む。そんな中、司の浮気相手の梅田（川島鈴遥）から、司は衝撃的な事実を告げられて―？　［期間限定無料配信］　毎週火曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcovctxm0"/>
   </entry>
 </feed>
