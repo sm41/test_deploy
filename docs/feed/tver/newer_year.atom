@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-05T14:05:25+09:00</updated>
+  <updated>2026-03-05T16:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2128,45 +2128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3t46ipko"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptzmcp650</id>
-    <title>キッズ・ウォー３～ざけんなよ～_[第12話]</title>
-    <updated>2026-03-04T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ キッズ・ウォー３～ざけんなよ～
-                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月04日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月26日(水)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptzmcp650.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                浩（金澤匠）のクラスメート・由美（伊原茉莉花）が、家庭で母親に虐待を受けているらしい。家に帰りたくないと泣く由美を、浩は自分の家にかくまい助けようとする。春子（生稲晃子）は由美の母親に事実を正すが、母親は否定、そ知らぬ顔で由美を連れ帰ってしまう。一方、里香（宮崎真汐）はかつて自分をイジメていた連中に復讐を開始。仲間と共にイジメ3人組の1人・眞弓（高橋祐月）がトイレの個室に入っているところに頭からバケツの水を浴びせかける。その現場を茜（井上真央）が目撃する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptzmcp650"/>
   </entry>
 </feed>
