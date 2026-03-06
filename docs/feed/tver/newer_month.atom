@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-07T00:06:25+09:00</updated>
+  <updated>2026-03-07T02:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkta0wdu4</id>
+    <title>教えてください、藤縞さん！_[#9 恋のスパイスは突然に]</title>
+    <updated>2026-03-07T01:50:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmhuw43k0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 教えてください、藤縞さん！
+                &lt;a href="https://tver.jp/series/srmhuw43k0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_01時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_01時50分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkta0wdu4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                スランプ脱出のため、りおは不思議な魅力の雪麗と急接近！「小説のため、刺激的な体験をさせてあげる」という雪麗の怪しい申し出につい乗ってしまう。後日、りおに呼び出された藤縞が向かったのは、謎の洋館!?そこには、りおとニヤリと笑う雪麗が。「協力」って、まさか藤縞を強引に二人きりの空間に閉じ込めて、りおに「リアルな体験」をさせるってこと!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkta0wdu4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epj7v9bj4e</id>
+    <title>俺たちバッドバーバーズ_[#9 これは俺の戦いだ]</title>
+    <updated>2026-03-07T01:13:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sril41r09a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 俺たちバッドバーバーズ
+                &lt;a href="https://tver.jp/series/sril41r09a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_01時13分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_01時18分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj7v9bj4e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                気になる女子・鈴木さん（角心菜）へのメールの文面に悩む風磨（原田琥之佑）に、立派な大人としてアドバイスをしようと絡んでくる日暮（中島歩）と月白（草川拓弥）。しかし二人が勝手にメールを送信したことで、風磨は怒って出て行ってしまう。そんな中、牛窪（後藤剛範）から連絡が入り、カラオケで日暮たちを襲った男の情報が全く掴めないことを伝えられた月白は、ある作戦で謎の男・しんのすけ（高良健吾）と対峙する―！　［期間限定無料配信］　毎週金曜深夜24時42分からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epj7v9bj4e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epuowro1mo</id>
+    <title>婚活バトルフィールド37_[第9戦 ついに結婚!?「プロポーズ（させる）大作戦」]</title>
+    <updated>2026-03-07T00:42:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr95ydcxne.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 婚活バトルフィールド37
+                &lt;a href="https://tver.jp/series/sr95ydcxne" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_00時42分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_00時47分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuowro1mo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                元カレ・タカシ（桐山漣）との関係に再び希望を見いだした赤木ユカ（加藤ローサ）だったが、相変わらず結婚する気配を見せない彼。しかし青島（福田麻貴）の助言を受けながら既読スルーや匂わせなど、駆け引きを重ねるうちにタカシの態度にも変化が。一方で、青島と内田（戸塚純貴）の関係にも思わぬ変化が生まれ、それぞれの恋の歯車が少しずつ動きだす。そして結婚への期待が高まる中、赤木を待ち受けるのは予想外の出来事で…？　［期間限定無料配信］　毎週金曜深夜24時12分からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuowro1mo"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo4rmp59t</id>
     <title>探偵さん、リュック開いてますよ_[第6話「BAD MEMORY GOOD SOUND」]</title>
