@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>特集</title>
-  <updated>2026-03-06T11:05:26+09:00</updated>
+  <updated>2026-03-06T15:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,9 +10,54 @@
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/specials/actor2603/all26_0306f</id>
+    <title>俳優特集</title>
+    <updated>2026-03-06T15:06:25+09:00</updated>
+    <content type="html">        &lt;div&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/actor2603.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★番組を「お気に入り登録」で見逃し防止！&lt;br&gt;4月から始まる新ドラマに出演する注目俳優の過去作特集です。&lt;br&gt;★配信スケジュールは作品ごとに異なります★
+            &lt;/p&gt;
+        &lt;/div&gt;    </content>
+    <link href="https://tver.jp/specials/actor2603/all26_0306f"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/wbc2603/all26_0306wbc</id>
+    <title>ワールドベースボールクラシック関連番組</title>
+    <updated>2026-03-06T15:06:25+09:00</updated>
+    <content type="html">        &lt;div&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/wbc2603.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                日本テレビで3月5日から18日まで放送される「ワールドベースボールクラシック開幕特番」「ワールドベースボールクラシック詳報」など全9番組をTVerで配信！※リアルタイム配信はTVerテレビアプリおよびChromecastではご覧いただけません。スマホ・タブレット・パソコンからお楽しみください。
+            &lt;/p&gt;
+        &lt;/div&gt;    </content>
+    <link href="https://tver.jp/specials/wbc2603/all26_0306wbc"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/japan-academy26/all26_0306</id>
+    <title>第49回日本アカデミー賞特集</title>
+    <updated>2026-03-06T15:06:25+09:00</updated>
+    <content type="html">        &lt;div&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/japan-academy26.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                年に一度の日本映画の祭典「日本アカデミー賞」&lt;br&gt;最優秀賞の栄冠はどの作品に⁉&lt;br&gt;3月13日(金)の最優秀賞発表に先立ち、優秀賞を受賞されている俳優の方々の関連ドラマを集めました！
+            &lt;/p&gt;
+        &lt;/div&gt;    </content>
+    <link href="https://tver.jp/specials/japan-academy26/all26_0306"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/specials/tx26-economicpg/all26_0303</id>
     <title>新生活準備～経済番組特集～</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tx26-economicpg.jpg"&gt;
 
@@ -27,7 +72,7 @@
   <entry>
     <id>https://tver.jp/specials/ex_spring2603/all26_0302</id>
     <title>テレ朝 ドラバラ祭 2026 春</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ex_spring2603.jpg"&gt;
 
@@ -42,7 +87,7 @@
   <entry>
     <id>https://tver.jp/specials/tver-award2025/jyaatsuku26</id>
     <title>TVerアワード2025</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tver-award2025.jpg"&gt;
 
@@ -57,7 +102,7 @@
   <entry>
     <id>https://tver.jp/specials/goldenkamuy26/all26_0221</id>
     <title>ゴールデンカムイ特集</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/goldenkamuy26.jpg"&gt;
 
@@ -72,7 +117,7 @@
   <entry>
     <id>https://tver.jp/specials/fujidra26-spring/all26_0220</id>
     <title>フジドラSpring</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/fujidra26-spring.jpg"&gt;
 
@@ -87,7 +132,7 @@
   <entry>
     <id>https://tver.jp/specials/tbs2602_popular/all26_0214</id>
     <title>TBS 春の人気番組特集</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tbs2602_popular.jpg"&gt;
 
@@ -102,7 +147,7 @@
   <entry>
     <id>https://tver.jp/specials/ntv_popular2602/all26_0220ntv</id>
     <title>期間限定！日テレ人気番組まつり！</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ntv_popular2602.jpg"&gt;
 
@@ -117,7 +162,7 @@
   <entry>
     <id>https://tver.jp/specials/drama26_start1/winter26_all</id>
     <title>放送中の冬ドラマ特集</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/drama26_start1.jpg"&gt;
 
@@ -132,7 +177,7 @@
   <entry>
     <id>https://tver.jp/specials/hs-soccer/104th-all</id>
     <title>第104回全国高校サッカー選手権特集</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/hs-soccer.jpg"&gt;
 
@@ -147,7 +192,7 @@
   <entry>
     <id>https://tver.jp/specials/kidshiroba/kids_all</id>
     <title>TVerキッズひろば</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/kidshiroba.jpg"&gt;
 
@@ -162,7 +207,7 @@
   <entry>
     <id>https://tver.jp/specials/localprograms/lp-pickup</id>
     <title>ご当地番組大集合！</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/localprograms.jpg"&gt;
 
@@ -177,7 +222,7 @@
   <entry>
     <id>https://tver.jp/specials/24news/latest_episode24</id>
     <title>最新ニュース 24時間配信中！</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/24news.jpg"&gt;
 
@@ -192,7 +237,7 @@
   <entry>
     <id>https://tver.jp/specials/meisaku-drama/stream</id>
     <title>名作ドラマ特集</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/meisaku-drama.jpg"&gt;
 
@@ -207,7 +252,7 @@
   <entry>
     <id>https://tver.jp/specials/mon_variety/v_monday</id>
     <title>月曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/mon_variety.jpg"&gt;
 
@@ -222,7 +267,7 @@
   <entry>
     <id>https://tver.jp/specials/tue_variety/v_tuesday</id>
     <title>火曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tue_variety.jpg"&gt;
 
@@ -237,7 +282,7 @@
   <entry>
     <id>https://tver.jp/specials/wed_variety/v_wednesday</id>
     <title>水曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/wed_variety.jpg"&gt;
 
@@ -252,7 +297,7 @@
   <entry>
     <id>https://tver.jp/specials/thu_variety/v_thursday</id>
     <title>木曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/thu_variety.jpg"&gt;
 
@@ -267,7 +312,7 @@
   <entry>
     <id>https://tver.jp/specials/fri_variety/v_friday</id>
     <title>金曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/fri_variety.jpg"&gt;
 
@@ -282,7 +327,7 @@
   <entry>
     <id>https://tver.jp/specials/sat_variety/v_saturday</id>
     <title>土曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sat_variety.jpg"&gt;
 
@@ -297,7 +342,7 @@
   <entry>
     <id>https://tver.jp/specials/sun_variety/v_sunday</id>
     <title>日曜日バラエティ</title>
-    <updated>2026-03-06T11:05:26+09:00</updated>
+    <updated>2026-03-06T15:06:25+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sun_variety.jpg"&gt;
 
