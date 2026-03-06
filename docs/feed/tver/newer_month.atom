@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-06T02:06:25+09:00</updated>
+  <updated>2026-03-06T10:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep219lg8sg</id>
+    <title>三国志　秘密の皇帝_[第50話]</title>
+    <updated>2026-03-06T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月06日(金)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep219lg8sg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                曹操（そうそう）は反乱を企てた伏完（ふくかん）の娘である伏寿（ふくじゅ）の命を求めた。劉平（りゅうへい）は司馬懿（しばい）に会いに行くが、司馬懿はこれからは自分のやり方で乱世を渡っていくと冷たく突き放す。そして、劉平を崔琰（さいえん）と孔融（こうゆう）が儒者の集会を開く予定である新しく作られた潜龍観（せんりょうかん）に連れていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep219lg8sg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7cqppknl</id>
     <title>シリウス_[Ep2]</title>
