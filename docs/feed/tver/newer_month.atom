@@ -2,11 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-06T20:06:25+09:00</updated>
+  <updated>2026-03-06T22:05:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epupgkajni</id>
+    <title>副会長の主なお仕事_[健康優良副会長]</title>
+    <updated>2026-03-06T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月06日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月20日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epupgkajni.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                天気の悪い放課後、体調のすぐれない灰屋の前に現れたのは、サングラス姿でラップ調の“ウェルネス栗下”。健康アピールは加速する一方で、翌日には栗下自身が“看病されたい理由”を作ろうとさらに奇行を追加。いつもの“距離感のおかしいスキンシップ”も予想外の方向に転がり、灰屋が落ち着ける気配は今日も訪れない。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epupgkajni"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epemdycy1l</id>
+    <title>元科捜研の主婦_[8話「亡き兄が追った7年前の冤罪」]</title>
+    <updated>2026-03-06T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月06日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epemdycy1l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                修一（戸次重幸）が7年前の殺人事件の冤罪を疑っていたと知った詩織（松本まりか）は修一の元上司だった所長の小沢（遠藤憲一）に話を聞くが、何も答えてくれず、逆に科捜研への復職を勧められる。「最後のチャンス」という小沢の言葉に詩織の心は揺れて――。小沢の反応に道彦（横山裕）は、何か隠しているのではと疑うが…。小沢は敵か味方か？真相解明に向け、密かに調べる詩織と道彦はある仮説から驚くべき真相にたどり着く　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epemdycy1l"/>
+  </entry>
 </feed>
