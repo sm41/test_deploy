@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-08T00:06:16+09:00</updated>
+  <updated>2026-03-08T02:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eph91r0siy</id>
+    <title>買われた男_[#9 別れた妻に買われた男…涙の再会]</title>
+    <updated>2026-03-08T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqoatp0he.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 買われた男
+                &lt;a href="https://tver.jp/series/srqoatp0he" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph91r0siy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                昼は会社員、夜は女性用風俗「KIRAMEKI」のセラピストとして働くヤマト（瀬戸利樹）。ヤマトがセラピストになったのは香苗（小島梨里杏）との離婚がきっかけだった。日常の中でのささいなズレから二人の間にはだんだんと溝ができ、気づいた時にはもう修復不可能になっていった。そんな中、初老の男性が「KIRAMEKI」に乗り込んでくる。シアン（池田匡志）を見つけ殴りかかってきた男性は、シアンの客である妻と離婚したと泣きじゃくる。男性が去った後、シアンは龍一（久保田悠来）の一言にイラつき、キツい言葉を吐き捨て、しばらく休むと言って出て行ってしまう。妻を想い悲しむ男性の姿はヤマトの心に影を落とし、元妻・香苗とのことを何度も思い返すように…。そんな中、ヤマトは幼馴染の綾花（武田梨奈）と偶然再会する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph91r0siy"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzj4pkbq7</id>
     <title>相棒 season23_[第10話「雨やどり」]</title>

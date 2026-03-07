@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-08T00:06:16+09:00</updated>
+  <updated>2026-03-08T02:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp7znbej6</id>
+    <title>いま、どこにいるの？　推しにGPSつけてみた_[第1話　推しにGPSつけてみた]</title>
+    <updated>2026-03-08T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs6jkwcj8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ いま、どこにいるの？　推しにGPSつけてみた
+                &lt;a href="https://tver.jp/series/srs6jkwcj8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_00時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp7znbej6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                話題のオーディション番組を経て結成された&#13;&lt;br&gt;アイドルグループ「GOLDEN PASS」、通称「ゴルパス」。&#13;&lt;br&gt;リーダーのアリス（阿部顕嵐）を筆頭に&#13;&lt;br&gt;ゴルパスは徐々に人気を集めて行った。&#13;&lt;br&gt;そんなグループをオーディション時代から追いかける&#13;&lt;br&gt;熱狂的なファン瀬山明日香（樋口日奈）。&#13;&lt;br&gt;メンバーのことをもっと知りたい…&#13;&lt;br&gt;24時間何をしているか知りたい…&#13;&lt;br&gt;変なファンにつきまとわれないか心配…&#13;&lt;br&gt;今どこにいるのか知りたい…&#13;&lt;br&gt;そんな思いから明日香は過剰な行動に出る。&#13;&lt;br&gt;メンバーのスマホの位置情報を共有し、GPSで常にその行動を追うことに。&#13;&lt;br&gt;しかしある日ゴルパスが突然の配信休止を発表。&#13;&lt;br&gt;GPSを見てみると、アリスの自宅で異変が…&#13;&lt;br&gt;&#13;&lt;br&gt;GPSから繰り広げられる新感覚ドラマスタート！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp7znbej6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5edm6f70</id>
+    <title>元カレの猫を、預かりまして。_[第1話 しゃべる猫が恋愛指南！？]</title>
+    <updated>2026-03-08T00:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sromc2ysob.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元カレの猫を、預かりまして。
+                &lt;a href="https://tver.jp/series/sromc2ysob" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_00時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_23時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5edm6f70.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                法人向けセキュリティ会社の営業部・チーフの仕事にやりがいを感じながらも恋愛が面倒くさいお年頃な34歳バリキャリ女性・柴田まさき（柏木由紀）の元に、3年前に別れた元カレから突然の電話。預かってほしいと言われたのはちょいブサ猫。名をヨミチという。なんとこの猫、人の言葉を話し匂いから気持ちが分かるという年齢不詳のオヤジ猫（声・浪川大輔）だった！ヨミチのちょっぴりウザい、でもオトコ心オンナ心の核心を突く恋愛指南で、まさきは部下・矢代（甲斐翔真）の存在を意識し始めて……まさきの日常が少しずつ動き出す。お疲れモードな心を満たす、癒し系もふもふラブコメ！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5edm6f70"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epi9yvyx2m</id>
     <title>ぜんぶ、あなたのためだから_[第9話 修羅場!!真犯人の反撃]</title>
@@ -368,85 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5mcemdfu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epn7t1l9m6</id>
-    <title>DREAM STAGE_[第８話 暴かれた過去が仲間を壊す…愛ゆえの別れ]</title>
-    <updated>2026-03-06T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月06日(金)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn7t1l9m6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3月13日いよいよ最終回】お気に入り登録で見逃さない！&lt;br&gt;パク（キム・ジェギョン）にまたしても裏切られ、怒るナム（ハ・ヨンス）。&lt;br&gt;同じ頃、TORINNERが所属する巨大事務所・Bouquet Musicの日本支社には、ターンとキムゴンの姿が…。彼らをにこやかに出迎えたのは、チェ（イ・イギョン）の忠実な部下・神谷昭司（要潤）。神谷は「NAZEを辞めてTORINNERに入らないか」とワールドツアーや大物アーティストとのコラボなど、TORINNERの今後のド派手な計画を披露して２人を誘惑する。&lt;br&gt;さらに神谷は、吾妻（中村倫也）がかつてK-POP界を追われる原因となった疑惑の記事を取り出し、「このまま吾妻さんを信頼していたら後悔しますよ」と冷酷に笑う。「お母さんの治療費とか、小さい弟の養育費とか。生きていくにはお金がかかりますよねえ」という神谷の言葉に、不安を抑えきれないターンとキムゴン。吾妻を信じたいが、本当に信じて良いのか…。悩む２人が出した結論とは！？&lt;br&gt;一方、神谷は週刊誌記者・風祭（河内大和）を利用して、「吾妻は今、またしても暴力でNAZEを支配している」という悪意に満ちた記事を拡散する。&lt;br&gt;チェと神谷の執拗な攻撃に、ついにTEAM NAZEは崩壊する――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epn7t1l9m6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epupgkajni</id>
-    <title>副会長の主なお仕事_[健康優良副会長]</title>
-    <updated>2026-03-06T22:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 副会長の主なお仕事
-                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月06日(金)_22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月20日(金)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epupgkajni.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                天気の悪い放課後、体調のすぐれない灰屋の前に現れたのは、サングラス姿でラップ調の“ウェルネス栗下”。健康アピールは加速する一方で、翌日には栗下自身が“看病されたい理由”を作ろうとさらに奇行を追加。いつもの“距離感のおかしいスキンシップ”も予想外の方向に転がり、灰屋が落ち着ける気配は今日も訪れない。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epupgkajni"/>
   </entry>
 </feed>
