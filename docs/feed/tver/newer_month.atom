@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-07T02:06:25+09:00</updated>
+  <updated>2026-03-07T13:30:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epaayqkr54</id>
+    <title>おとなになっても_[第9話「全部夢ならいいのに」]</title>
+    <updated>2026-03-07T02:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6wh3beew.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ おとなになっても
+                &lt;a href="https://tver.jp/series/sr6wh3beew" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_02時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_00時39分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaayqkr54.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                時が経って、秋。綾乃(山本美月)は渉(濱正悟)と離婚してからも、子ども達を混乱させないよう学校では大久保姓を名乗っている。学童クラブで働く恵利(錫木うり)とは意外にも関係性が続いているが、朱里(栗山千明)とは1年前のファミレス以来連絡をとっていない。朱里はというと、クラブで出会った茜(織田梨沙)の家に上がりこんでいた。茜にも忘れられない元カノがいるらしく、綾乃のことを話すと興味津々。茜は｢会いにいこう｣と強引に朱里を連れ出し、2人は綾乃の学校へ。校門前で本当に綾乃に会えてしまった朱里は、動揺して茜のことを今の彼女だと紹介してしまう。夜、綾乃の携帯に思わぬ通知が来て…?&lt;br&gt;【Huluではノーカット版・全12話一挙配信中！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epaayqkr54"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkta0wdu4</id>
     <title>教えてください、藤縞さん！_[#9 恋のスパイスは突然に]</title>
