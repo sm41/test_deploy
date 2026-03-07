@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-07T22:06:16+09:00</updated>
+  <updated>2026-03-08T00:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epi9yvyx2m</id>
+    <title>ぜんぶ、あなたのためだから_[第9話 修羅場!!真犯人の反撃]</title>
+    <updated>2026-03-07T23:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srssr1tz9m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ぜんぶ、あなたのためだから
+                &lt;a href="https://tver.jp/series/srssr1tz9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_23時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi9yvyx2m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                沙也香（井桁弘恵）の母・香（松下由樹）を犯人だと確信し、披露宴への出席を拒んだ和臣（藤井流星）。&#13;&lt;br&gt;ついに開かれた披露宴は、香の登場により一転、緊張が走る。&#13;&lt;br&gt;和臣に桜庭（七五三掛龍也）は「犯人は別の人物かもしれない」と進言し…？&#13;&lt;br&gt;&#13;&lt;br&gt;義母と親友たちに囲まれた披露宴で、ついに真犯人が判明！&#13;&lt;br&gt;大暴走する犯人に対抗する和臣と桜庭。&#13;&lt;br&gt;大混乱に陥り、地獄絵図と化した会場で、和臣の愛する妻・沙也香の化けの皮が剥がれ、&#13;&lt;br&gt;2人の関係に激震が走る…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi9yvyx2m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epih1a5x2c</id>
     <title>パンダより恋が苦手な私たち_[第9話 最終回直前!2人の恋の行方は!?]</title>
@@ -408,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epupgkajni"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epemdycy1l</id>
-    <title>元科捜研の主婦_[8話「亡き兄が追った7年前の冤罪」]</title>
-    <updated>2026-03-06T21:54:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 元科捜研の主婦
-                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月06日(金)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epemdycy1l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                修一（戸次重幸）が7年前の殺人事件の冤罪を疑っていたと知った詩織（松本まりか）は修一の元上司だった所長の小沢（遠藤憲一）に話を聞くが、何も答えてくれず、逆に科捜研への復職を勧められる。「最後のチャンス」という小沢の言葉に詩織の心は揺れて――。小沢の反応に道彦（横山裕）は、何か隠しているのではと疑うが…。小沢は敵か味方か？真相解明に向け、密かに調べる詩織と道彦はある仮説から驚くべき真相にたどり着く　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epemdycy1l"/>
   </entry>
 </feed>
