@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-07T20:06:16+09:00</updated>
+  <updated>2026-03-07T22:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epih1a5x2c</id>
+    <title>パンダより恋が苦手な私たち_[第9話 最終回直前!2人の恋の行方は!?]</title>
+    <updated>2026-03-07T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srffwzu21c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パンダより恋が苦手な私たち
+                &lt;a href="https://tver.jp/series/srffwzu21c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epih1a5x2c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                なぜ本気の恋愛から逃げるの…!?柴田一葉(上白石萌歌)のコラムに心を動かされた灰沢アリア(シシド・カフカ)が、ついに3年前の秘密を告白!そしてファッションショーに出ることを決意!そんな中、一葉は椎堂司(生田斗真)からキャンプに誘われ、ドキドキしながら当日を迎えるが…。&lt;br&gt;最終回直前!一葉と司がまさかの決別!?「二度と顔を見せるな」…あふれる思いが止まらない……恋も仕事も転機を迎える涙の第9話!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epih1a5x2c"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epaayqkr54</id>
     <title>おとなになっても_[第9話「全部夢ならいいのに」]</title>
