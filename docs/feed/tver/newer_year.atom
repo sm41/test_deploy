@@ -2,13 +2,373 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-08T02:06:16+09:00</updated>
+  <updated>2026-03-08T10:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz148e6jq</id>
+    <title>私の運命_[Vol.１「悲劇の婚約者」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz148e6jq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;建設会社で受付嬢として働く佐藤千秋（坂井真紀）は社内の有望株・鈴木次郎（東幹久）との結婚を３ヶ月後に控え、幸せを満喫していた。幼い頃に両親を失い、医師の兄・守（段田安則）に育てられた千秋は、次郎の母・真理子（野際陽子）と実の親子のように仲が良い。ある日、会社の健康診断で胸部の再検査を指示された次郎。守が働く大学病院で検査を受けた次郎だったが、守と同期の片桐俊太郎（佐野史郎）が下した診断は“若年性肺ガン”であり、余命３ヶ月から半年の命だった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz148e6jq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnjnx2umy</id>
+    <title>私の運命_[Vol.８「禁じられた遊び」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnjnx2umy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;次郎（東幹久）の婚約解消の意志は固く、悩む千秋（坂井真紀）に守（段田安則）は、里美（常盤貴子）と次郎が病室で親しげにしていたと聞かせた。守の言葉が信じられない千秋は、次郎との間柄を里美に確かめる。しかし、里美は「自分は片桐（佐野史郎）の女だから」と千秋を相手にせず、次郎との昔の関係も悪びれずに伝えた。一方、真理子（野際陽子）は寛子（深浦加奈子）からのアドバイスで、佐藤家の家族関係を調査し始め…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnjnx2umy"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epl5sbv1hr</id>
+    <title>私の運命_[Vol.７「結婚にふさわしい条件」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl5sbv1hr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;一時重体に陥った次郎（東幹久）の危機は、守（段田安則）の応急処置や、その後の片桐（佐野史郎）の尽力で回避された。看護師として見守る里美（常盤貴子）も次郎の無事を喜ぶが、強い絆で結ばれた千秋（坂井真紀）と次郎を前に、自分が再び彼に愛を感じ始めていることを知る。一方、その回復ぶりに千秋は改めて次郎との結婚を決意するが、守は自重を促す。そして、次郎も婚約解消を言い出し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl5sbv1hr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epjqwd14jx</id>
+    <title>私の運命_[Vol.６「母が信じる霊能力者」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjqwd14jx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;集中治療室の次郎（東幹久）が合併症を引き起こした。片桐（佐野史郎）らの尽力でどうにか持ち直したものの、守（段田安則）の懸念通りの経過だ。そんな中、真理子（野際陽子）は勤め先の同僚・久保寛子（深浦加奈子）から、霊宝会という新興宗教を紹介され、半信半疑で霊宝会の集会に参加する。するとその直後、次郎の容体は目に見えて回復。これを見た真理子は、瞬く間に霊宝会に傾倒し、次郎の完治を一心に祈るようになっていき…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjqwd14jx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eph8lvcqb2</id>
+    <title>私の運命_[Vol.３「誰にも言えない秘密」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph8lvcqb2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;自分の病状に疑いを抱いた次郎（東幹久）は、千秋（坂井真紀）と守（段田安則）を問い質すが、２人とも真実を伝えることはなかった。それでも次郎は「術後の診断はありのままに話してほしい」と千秋に約束させる。週末、次郎と千秋は逗子へ１泊旅行に出掛けた。旅行中、入院前のひと時を楽しげに過ごす２人。しかし、胸に痛みを感じる次郎も、真実を隠し通す決心をした千秋も、その心中は複雑だった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph8lvcqb2"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcwfnx3li</id>
+    <title>私の運命_[Vol.４「手術前に彼は別れようと言った」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcwfnx3li.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;次郎（東幹久）の入院前夜、千秋（坂井真紀）らは食事会を開いた。努めて明るく振る舞う千秋や真理子（野際陽子）を前に、守（段田安則）は次郎に手術には反対だと告げる。守の言葉に心が揺れる次郎だが、すでに手術の決心をしたと言い真理子を安心させた。翌日、入院したものの寝付けないでロビーにいた次郎は、見回りをしていた里美（常盤貴子）と久々に談笑する。だが次郎は不安で眠れない夜を過ごし、手術の日を迎えることに。手術室に向かう次郎が付き添う千秋に残した言葉とは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcwfnx3li"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6ipcduar</id>
+    <title>私の運命_[Vol.２「死の告知」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ipcduar.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;片桐（佐野史郎）の手術が成功するように願う千秋（坂井真紀）だが、守（段田安則）は片桐を患者のことを考えない危険な医者だと批判。次郎（東幹久）が治る可能性は１％だと伝える。その頃、看護師の里美（常盤貴子）も複雑な気持ちでいた。里美は片桐の愛人だが、次郎の高校時代の恋人だったからだ…。一方、守から現実を聞かされた千秋は、真理子（野際陽子）に手術をやめるよう持ちかけるが、真理子は可能性に賭けたい、と涙ながらに反対する。それ以降「守は落ちこぼれ医者で千秋はその妹」と考えるようになり、これまでとは違うぎこちなさが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6ipcduar"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep58cfuo9m</id>
+    <title>私の運命_[Vol.９「愛から友達にかわる時」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep58cfuo9m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;千秋（坂井真紀）の知らぬ間に、招待客に結婚式延期の知らせが出されていた。千秋はこれを聞いてショックを受ける。そんな中、学会での成果発表には早期退院が重要と考えた片桐（佐野史郎）の判断で、次郎（東幹久）の退院が決まった。千秋は改めて次郎にプロポーズをし、次郎も千秋のひたむきな愛を受け止めた。退院当日、里美（常盤貴子）は寂しさを隠した笑顔で次郎を見送った。一方、祝杯を挙げる真理子（野際陽子）、次郎、千秋は、久々の幸せを感じていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep58cfuo9m"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep56y9vmgc</id>
+    <title>私の運命_[Vol.５「兄と妹、涙の純愛物語」]</title>
+    <updated>2026-03-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgb73hzfz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 私の運命
+                &lt;a href="https://tver.jp/series/srgb73hzfz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月18日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep56y9vmgc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)10:00～&lt;br&gt;#4-9：3月8日(日)10:00～3月18日(水)9:59&lt;br&gt;#10-15：3月18日(水)10:00～3月28日(土)9:59&lt;br&gt;#16-21：3月28日(土)10:00～&lt;br&gt;------------&lt;br&gt;次郎（東幹久）の手術は終了するが、合併症の危険を指摘された真理子（野際陽子）と千秋（坂井真紀）はショックを受ける。一方、片桐（佐野史郎）らは学会での病理発表に向け、次郎の生存記録を延ばすことに懸命だった。次郎が再び日常生活に戻ることはできないと知る守（段田安則）は、回復を信じる千秋を見るのが辛かった。翌日、次郎に取り付けられた人工呼吸器を見て、千秋は再び不安に襲われた。そんな中、片桐と第一外科主任教授・重村（佐々木勝彦）は製薬会社から新薬の認可の件で接待を受け…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep56y9vmgc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eph91r0siy</id>
     <title>買われた男_[#9 別れた妻に買われた男…涙の再会]</title>
@@ -2968,165 +3328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprnt1nphw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi6fwwu02</id>
-    <title>山村美紗サスペンス 名探偵キャサリン・シリーズ13 山村美紗没後出版処女作 京都・宇治川殺人事件_[山村美紗サスペンス 名探偵キャサリン・シリーズ13 山村美紗没後出版処女作 京都・宇治川殺人事件]</title>
-    <updated>2026-03-07T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmeo0say6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 山村美紗サスペンス 名探偵キャサリン・シリーズ13 山村美紗没後出版処女作 京都・宇治川殺人事件
-                &lt;a href="https://tver.jp/series/srmeo0say6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi6fwwu02.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                かたせ梨乃主演「名探偵キャサリン」第１３弾。本作は山村が１９７４年に作家デビューする以前の６５年に書いた事実上の処女長編「京都・宇治川殺人事件」を基にドラマ化したもの。原作では事件を追うヒロインはキャサリンではないが、山村美紗ならではの京都を舞台とした風情と大胆な犯罪構図の魅力をそのままに、彼女が生み出した代表的なキャラクター・名探偵キャサリンが謎を解くという作品に脚色した。奇しくも山村が亡くなったのは、本作の撮影の最中だった。出世…欲…愛…渦巻く野望。“ミステリーの女王”の原点が甦る！&lt;br&gt;【ストーリー】&lt;br&gt;京都で女性カメラマンとして活躍している“キャサリン”こと希麻倫子（かたせ梨乃）はある日、いつも仕事を受けている新聞社の取材で、最近自分がひいきにしている小間物屋・映屋（うつしや）を取り上げようと提案する。ところが取材当日、アシスタントの飛田三郎（河相我聞）と映屋に出かけると、店先には忌中の張り紙が。驚いた倫子が慌てて映屋の主である野村映子（相本久美子）の自宅を訪ねると、そこには映子の遺影が置かれた祭壇があり、夫の昭夫（京本政樹）がただ１人悲しみに暮れていた。&lt;br&gt;愕然とする倫子に昭夫は、映子は飲酒運転で崖から宇治川に転落し亡くなったらしいという警察の説明を伝える。真面目な映子の飲酒運転が信じられない倫子。昭夫から、映子が車を運転するときはいつもデッキシューズに履き替えていたのに、見つかった遺体はヒールのあるパンプスを履いたままだったと聞き、倫子は映子の事故死に疑いをもつ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi6fwwu02"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgymeqjkr</id>
-    <title>silent_[第8話 伝わらない・・・一緒にいたくているだけなのに]</title>
-    <updated>2026-03-07T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1dvhg7rz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ silent
-                &lt;a href="https://tver.jp/series/sr1dvhg7rz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgymeqjkr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月20日（金） ～ 03月22日（日）&lt;br&gt;#4：02月23日（月） ～ 03月01日（日）&lt;br&gt;#5：02月26日（木） ～ 03月04日（水）&lt;br&gt;#6：03月01日（日） ～ 03月07日（土）&lt;br&gt;#7：03月04日（水） ～ 03月10日（火）&lt;br&gt;#8：03月07日（土） ～ 03月13日（金）&lt;br&gt;#9：03月10日（火） ～ 03月16日（月）&lt;br&gt;#10：03月13日（金） ～ 03月19日（木）&lt;br&gt;#11：03月16日（月） ～ 03月22日（日）&lt;br&gt;&lt;br&gt;想（目黒蓮）は紬（川口春奈）に、声が出せないわけではないが、自分で感じとれないことへの怖さがあることを話し、紬はそれを受け入れる。しかし、2人の距離が縮まるほどに、想は自分と一緒にいるのが大変なのではないかと紬を気遣うようになり、紬は否定するものの、なかなか思いは伝わらない。一方、奈々（夏帆）は春尾（風間俊介）との再会を果たす。「紬と想を見ていたら春尾くんのことを思い出して」と言う奈々。そんな中、紬は実家の群馬に帰り、母・和泉（森口瑤子）に想のことを話そうとするのだが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『silent』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgymeqjkr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgpfdrtjf</id>
-    <title>やまとなでしこ_[第8話 やさしいウソ]</title>
-    <updated>2026-03-07T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr60pqwwxm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ やまとなでしこ
-                &lt;a href="https://tver.jp/series/sr60pqwwxm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgpfdrtjf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月20日(金) ～ 03月22日(日)&lt;br&gt;#4：02月23日(月) ～ 03月01日(日)&lt;br&gt;#5：02月26日(木) ～ 03月04日(水)&lt;br&gt;#6：03月01日(日) ～ 03月07日(土)&lt;br&gt;#7：03月04日(水) ～ 03月10日(火)&lt;br&gt;#8：03月07日(土) ～ 03月13日(金)&lt;br&gt;#9：03月10日(火) ～ 03月16日(月)&lt;br&gt;#10：03月13日(金) ～ 03月19日(木)&lt;br&gt;#11：03月16日(月) ～ 03月22日(日)&lt;br&gt;&lt;br&gt;桜子（松嶋菜々子）は、東十条（東幹久）と結婚式場や旅行会社を回り、さらに結婚式やハネムーンをスケールアップ。幸せそうな桜子だが、東十条は、病院建設を白紙にしたのは、欧介（堤真一）のせいではないか、とモンモンとしていた。思い切って切り出すと「あの土地が嫌なだけ。あの人とは関係ない」と桜子はきっぱり。&lt;br&gt;佐久間（西村雅彦）の家に集まった面々。粕屋（筧利夫）は、東十条の婚約者が建設を取りやめてくれと頼んだことから、建設が中止になったと話す。「いったいあの女は何を企んでいるのか？」と訝しがる面々。しかし、欧介はひとり考え込む。&lt;br&gt;なみ（須藤理彩）が、花房（押尾学）に会いに病院に来ていた。そこへ、粕屋も富士子（市毛良枝）の見舞いに。佐久間から、なみも来ていると聞いた粕屋は大喜びで、なみを探すと、なみは木陰で花房とキスしていた。目撃した粕屋はショック！。思わず、花房につかみかかってしまうのだった。&lt;br&gt;欧介は、立ち退きが中止になったのは、桜子のおかげと感じ、桜子に礼を言おうと、アパート前で待っていた。そこへ桜子。桜子は「もっと高級な住宅街の方がいいと思っただけ」と素っ気ない。しかし、桜子は、富士子の「欧介は貧乏でも幸せにしてくれる。一緒にいれば分かるはず」の言葉が心に引っかかっていたため、「あなたの良く行くところに連れていって」と言い出す。&lt;br&gt;欧介はまず河岸の寿司屋へ。客たちは美人の登場にやんやの騒ぎ。欧介はメニューにはない、賄い丼を桜子に提供する。次に入ったのはパチンコ店。「こんな所にも来るんですか」という桜子の台が大当たり。景品の大きな包みを抱え、二人は次にバッティングセンターに行き、久々に楽しい時間を過ごす。&lt;br&gt;その余韻を引きずり桜子のアパートに戻ってくると、東十条が待っていた。東十条は桜子を訪ねてきたのだが、桜子は高級マンションでなく、質素なアパート暮らしだったことを突き止め、騙された気持ちでいた。「僕の目を盗み、まだこの男と」と迫る東十条に桜子は、言葉がでない。その桜子に替わり、欧介が進み出た。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『やまとなでしこ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgpfdrtjf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcoat2bof</id>
-    <title>コード・ブルー －ドクターヘリ緊急救命－_[第8話 避けられぬ決断]</title>
-    <updated>2026-03-07T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srui4y2rnd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コード・ブルー －ドクターヘリ緊急救命－
-                &lt;a href="https://tver.jp/series/srui4y2rnd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月13日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcoat2bof.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月20日(金) ～ 03月22日(日)&lt;br&gt;#4：02月23日(月) ～ 03月01日(日)&lt;br&gt;#5：02月26日(木) ～ 03月04日(水)&lt;br&gt;#6：03月01日(日) ～ 03月07日(土)&lt;br&gt;#7：03月04日(水) ～ 03月10日(火)&lt;br&gt;#8：03月07日(土) ～ 03月13日(金)&lt;br&gt;#9：03月10日(火) ～ 03月16日(月)&lt;br&gt;#10：03月13日(金) ～ 03月19日(木)&lt;br&gt;#11：03月16日(月) ～ 03月22日(日)&lt;br&gt;&lt;br&gt;藍沢（山下智久）は、三井（りょう）、冴島（比嘉愛未）とともにドクターヘリで中年男性を搬送する。患者の名前は福島達夫（平賀雅臣）。夏祭りの山車が見物客に向って倒れ、その下敷きになった達夫は、腹部に山車の一部と思われる木片が刺さっていた。同じころ、白石（新垣結衣）、緋山（戸田恵梨香）、藤川（浅利陽介）は、黒田（柳葉敏郎）とともに救急車の到着を待っていた。達夫の父で80歳になる重蔵（織本順吉）、達夫の妻・清美（宮地雅子）、そして9歳になる達夫の娘・結菜（大作空）もこの事故に巻き込まれていたのだ。藍沢は、黒田とともに達夫のオペに臨み、刺さっていた木片を除去する。重蔵たちも、幸い、大事には至らなかった。だが、達夫が助かったと知った途端、清美が部屋を変えろと騒ぎだした。重蔵も、治療そっちのけで戦争の話を始めたり、勝手にベッドを抜け出したりして藍沢たちを困らせる。同じ日、藍沢の祖母・絹江（島かおり）がリハビリ病棟に移る。藍沢は、また顔を出すから、と絹江に話しかけた。絹江は、そんな藍沢に、今度孫が来てくれることになった、と嬉しそうに話す。あくる日、消防本部からドクターヘリの出動要請が入る。化学工場で熱傷患者が出たのだという。黒田、白石、冴島は、ただちに現場の工場へと向った。だが、そこで白石は、事故現場にとり残された患者を助けようとして、安全確認をする前に事故現場に入ってしまい・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『コード・ブルー －ドクターヘリ緊急救命－』を全シリーズ配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcoat2bof"/>
   </entry>
 </feed>
