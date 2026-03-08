@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-08T16:06:16+09:00</updated>
+  <updated>2026-03-08T18:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep8x77qzq0</id>
+    <title>スケバン刑事_[第21話「父さんを殺したのはお前だ！！」]</title>
+    <updated>2026-03-08T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月8日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8x77qzq0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                サキは出生の秘密に悩んでいた。なぜ母は父を殺したのか、そのとき目撃したもう一人の人影は誰だったのか。母は本当に剛三の愛人だったのか。そんなサキに暗闇指令は、海槌剛三の逮捕を命じた。鷹の羽学園に急ぐサキたち。サキは剛三の部屋に向うが、何者かに襲われた。三姉妹は記者会見を行おうとしていた。サキたちに勝算はあるのか。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8x77qzq0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epfwjij1lb</id>
     <title>未来電車_[～ドラマ舞台裏～]</title>
@@ -48,85 +88,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfwjij1lb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp7znbej6</id>
-    <title>いま、どこにいるの？　推しにGPSつけてみた_[第1話　推しにGPSつけてみた]</title>
-    <updated>2026-03-08T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs6jkwcj8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ いま、どこにいるの？　推しにGPSつけてみた
-                &lt;a href="https://tver.jp/series/srs6jkwcj8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月7日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp7znbej6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                話題のオーディション番組を経て結成された&#13;&lt;br&gt;アイドルグループ「GOLDEN PASS」、通称「ゴルパス」。&#13;&lt;br&gt;リーダーのアリス（阿部顕嵐）を筆頭に&#13;&lt;br&gt;ゴルパスは徐々に人気を集めて行った。&#13;&lt;br&gt;そんなグループをオーディション時代から追いかける&#13;&lt;br&gt;熱狂的なファン瀬山明日香（樋口日奈）。&#13;&lt;br&gt;メンバーのことをもっと知りたい…&#13;&lt;br&gt;24時間何をしているか知りたい…&#13;&lt;br&gt;変なファンにつきまとわれないか心配…&#13;&lt;br&gt;今どこにいるのか知りたい…&#13;&lt;br&gt;そんな思いから明日香は過剰な行動に出る。&#13;&lt;br&gt;メンバーのスマホの位置情報を共有し、GPSで常にその行動を追うことに。&#13;&lt;br&gt;しかしある日ゴルパスが突然の配信休止を発表。&#13;&lt;br&gt;GPSを見てみると、アリスの自宅で異変が…&#13;&lt;br&gt;&#13;&lt;br&gt;GPSから繰り広げられる新感覚ドラマスタート！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp7znbej6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5edm6f70</id>
-    <title>元カレの猫を、預かりまして。_[第1話 しゃべる猫が恋愛指南！？]</title>
-    <updated>2026-03-08T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sromc2ysob.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 元カレの猫を、預かりまして。
-                &lt;a href="https://tver.jp/series/sromc2ysob" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月21日(土)_23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月7日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5edm6f70.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                法人向けセキュリティ会社の営業部・チーフの仕事にやりがいを感じながらも恋愛が面倒くさいお年頃な34歳バリキャリ女性・柴田まさき（柏木由紀）の元に、3年前に別れた元カレから突然の電話。預かってほしいと言われたのはちょいブサ猫。名をヨミチという。なんとこの猫、人の言葉を話し匂いから気持ちが分かるという年齢不詳のオヤジ猫（声・浪川大輔）だった！ヨミチのちょっぴりウザい、でもオトコ心オンナ心の核心を突く恋愛指南で、まさきは部下・矢代（甲斐翔真）の存在を意識し始めて……まさきの日常が少しずつ動き出す。お疲れモードな心を満たす、癒し系もふもふラブコメ！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5edm6f70"/>
   </entry>
 </feed>
