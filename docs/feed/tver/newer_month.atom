@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-08T18:06:16+09:00</updated>
+  <updated>2026-03-08T20:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkghu7jgm</id>
+    <title>孤独のグルメ Season1_[第4話 千葉県浦安市の静岡おでん]</title>
+    <updated>2026-03-08T18:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season1
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月8日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkghu7jgm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                結婚式場の調度品の打合せのため新浦安駅に降り立った五郎は、ヤシの木に金髪美人の洗礼を受け一瞬デジャブ感覚に。そしてある女性のことを思い出し……。やがて、浦安でなぜか「静岡おでん」と出合うのだった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkghu7jgm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep8x77qzq0</id>
     <title>スケバン刑事_[第21話「父さんを殺したのはお前だ！！」]</title>
@@ -48,45 +88,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep8x77qzq0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfwjij1lb</id>
-    <title>未来電車_[～ドラマ舞台裏～]</title>
-    <updated>2026-03-08T10:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7tqlnuvm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未来電車
-                &lt;a href="https://tver.jp/series/sr7tqlnuvm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月28日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ新広島&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfwjij1lb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第一章から第三章（1975年～2025年）まで、三つの時間軸で構成される三部作ドラマ。&lt;br&gt;主演の長濱ねるをはじめ、広島出身の井上祐貴・藤﨑ゆみあ・塚本恋乃葉、そして国仲涼子と豪華俳優陣が広島に集結。番組ではキャストのインタビューやメイキング映像を交え、ドラマの見どころをお届けするとともに、今、なぜ　TSSがドラマに挑戦したのかを伝える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfwjij1lb"/>
   </entry>
 </feed>
