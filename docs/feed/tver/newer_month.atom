@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-08T10:06:16+09:00</updated>
+  <updated>2026-03-08T12:05:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfwjij1lb</id>
+    <title>未来電車_[～ドラマ舞台裏～]</title>
+    <updated>2026-03-08T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7tqlnuvm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 未来電車
+                &lt;a href="https://tver.jp/series/sr7tqlnuvm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ新広島&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfwjij1lb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第一章から第三章（1975年～2025年）まで、三つの時間軸で構成される三部作ドラマ。&lt;br&gt;主演の長濱ねるをはじめ、広島出身の井上祐貴・藤﨑ゆみあ・塚本恋乃葉、そして国仲涼子と豪華俳優陣が広島に集結。番組ではキャストのインタビューやメイキング映像を交え、ドラマの見どころをお届けするとともに、今、なぜ　TSSがドラマに挑戦したのかを伝える。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfwjij1lb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp7znbej6</id>
     <title>いま、どこにいるの？　推しにGPSつけてみた_[第1話　推しにGPSつけてみた]</title>
@@ -168,165 +208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epih1a5x2c"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaayqkr54</id>
-    <title>おとなになっても_[第9話「全部夢ならいいのに」]</title>
-    <updated>2026-03-07T02:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6wh3beew.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おとなになっても
-                &lt;a href="https://tver.jp/series/sr6wh3beew" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_02時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_00時39分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaayqkr54.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                時が経って、秋。綾乃(山本美月)は渉(濱正悟)と離婚してからも、子ども達を混乱させないよう学校では大久保姓を名乗っている。学童クラブで働く恵利(錫木うり)とは意外にも関係性が続いているが、朱里(栗山千明)とは1年前のファミレス以来連絡をとっていない。朱里はというと、クラブで出会った茜(織田梨沙)の家に上がりこんでいた。茜にも忘れられない元カノがいるらしく、綾乃のことを話すと興味津々。茜は｢会いにいこう｣と強引に朱里を連れ出し、2人は綾乃の学校へ。校門前で本当に綾乃に会えてしまった朱里は、動揺して茜のことを今の彼女だと紹介してしまう。夜、綾乃の携帯に思わぬ通知が来て…?&lt;br&gt;【Huluではノーカット版・全12話一挙配信中！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaayqkr54"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkta0wdu4</id>
-    <title>教えてください、藤縞さん！_[#9 恋のスパイスは突然に]</title>
-    <updated>2026-03-07T01:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmhuw43k0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 教えてください、藤縞さん！
-                &lt;a href="https://tver.jp/series/srmhuw43k0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_01時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_01時50分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkta0wdu4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                スランプ脱出のため、りおは不思議な魅力の雪麗と急接近！「小説のため、刺激的な体験をさせてあげる」という雪麗の怪しい申し出につい乗ってしまう。後日、りおに呼び出された藤縞が向かったのは、謎の洋館!?そこには、りおとニヤリと笑う雪麗が。「協力」って、まさか藤縞を強引に二人きりの空間に閉じ込めて、りおに「リアルな体験」をさせるってこと!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkta0wdu4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj7v9bj4e</id>
-    <title>俺たちバッドバーバーズ_[#9 これは俺の戦いだ]</title>
-    <updated>2026-03-07T01:13:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sril41r09a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 俺たちバッドバーバーズ
-                &lt;a href="https://tver.jp/series/sril41r09a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_01時13分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_01時18分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj7v9bj4e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                気になる女子・鈴木さん（角心菜）へのメールの文面に悩む風磨（原田琥之佑）に、立派な大人としてアドバイスをしようと絡んでくる日暮（中島歩）と月白（草川拓弥）。しかし二人が勝手にメールを送信したことで、風磨は怒って出て行ってしまう。そんな中、牛窪（後藤剛範）から連絡が入り、カラオケで日暮たちを襲った男の情報が全く掴めないことを伝えられた月白は、ある作戦で謎の男・しんのすけ（高良健吾）と対峙する―！　［期間限定無料配信］　毎週金曜深夜24時42分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epj7v9bj4e"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuowro1mo</id>
-    <title>婚活バトルフィールド37_[第9戦 ついに結婚!?「プロポーズ（させる）大作戦」]</title>
-    <updated>2026-03-07T00:42:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr95ydcxne.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 婚活バトルフィールド37
-                &lt;a href="https://tver.jp/series/sr95ydcxne" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月07日(土)_00時42分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月14日(土)_00時47分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuowro1mo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                元カレ・タカシ（桐山漣）との関係に再び希望を見いだした赤木ユカ（加藤ローサ）だったが、相変わらず結婚する気配を見せない彼。しかし青島（福田麻貴）の助言を受けながら既読スルーや匂わせなど、駆け引きを重ねるうちにタカシの態度にも変化が。一方で、青島と内田（戸塚純貴）の関係にも思わぬ変化が生まれ、それぞれの恋の歯車が少しずつ動きだす。そして結婚への期待が高まる中、赤木を待ち受けるのは予想外の出来事で…？　［期間限定無料配信］　毎週金曜深夜24時12分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epuowro1mo"/>
   </entry>
 </feed>
