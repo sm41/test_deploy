@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-09T05:10:05+09:00</updated>
+  <updated>2026-03-09T10:06:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eph6ryv8h6</id>
+    <title>三国志　秘密の皇帝_[第51話]</title>
+    <updated>2026-03-09T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三国志　秘密の皇帝
+                &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月9日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph6ryv8h6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                崔琰（さいえん）の企てを止めた劉平（りゅうへい）が外に出ると、突然潜龍観（せんりょうかん）が崩れ始める。中にいる崔琰を助けようと、劉平は潜龍観の中へ飛び込んだ。その頃、父、伏完（ふくかん）の謀反に加わった罪に問われた伏寿（ふくじゅ）の元には、曹操（そうそう）の命を受けた曹丕（そうひ）と司馬懿（しばい）が訪れていた。司馬懿が用意した毒を自ら仰いだ伏寿は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph6ryv8h6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkni5qnzw</id>
     <title>ラブミーフォローミー！_[第1話 100万円でバズれるか？]</title>
