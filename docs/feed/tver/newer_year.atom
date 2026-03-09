@@ -2,13 +2,493 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-09T16:06:38+09:00</updated>
+  <updated>2026-03-09T18:05:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epl9gqbm0x</id>
+    <title>フリンジマン～愛人の作り方教えます～_[第4話]</title>
+    <updated>2026-03-09T17:00:21+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srroehczf7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ フリンジマン～愛人の作り方教えます～
+                &lt;a href="https://tver.jp/series/srroehczf7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl9gqbm0x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/9（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/10（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/11（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;山口詠美（筧美和子）から元カレと完全に終わったと報告を受けた田斉治（大東駿介）は、自分の関係は終わってなるものかと、井伏真澄（板尾創路）に「本当のデートに誘う方法を教えて欲しい」と懇願。本気モードになったことを悟った井伏もまた、仕事そっちのけで田斉にレクチャーする。詠美をデートに誘うことに成功した田斉は、胸の高鳴りが止まらない。ところが坂田安吾（森田甘路）は偶然、詠美のある秘密に気づいてしまう…。　［期間限定無料配信］　真実の愛とはかけ離れた不謹慎ラブストーリー新感覚不倫コメディードラマが幕を開ける！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl9gqbm0x"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep01kqo0v5</id>
+    <title>フリンジマン～愛人の作り方教えます～_[第3話]</title>
+    <updated>2026-03-09T17:00:20+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srroehczf7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ フリンジマン～愛人の作り方教えます～
+                &lt;a href="https://tver.jp/series/srroehczf7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep01kqo0v5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/9（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/10（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/11（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;元カレを諦めさせるため、山口詠美（筧美和子）に恋人のフリをして欲しいと頼まれる田斉治（大東駿介）。だが詠美と入ったレストランで、妻の美知子（渡辺舞）と背中合わせになるという緊急事態が発生！絶体絶命の中、井伏真澄（板尾創路）は詠美にあだ名をつけてもらうよう指示し、しかも5分後に美知子に席を外させるという。絶体絶命のピンチを回避する井伏の秘策とは？女心を熟知した井伏が、的確な指示で田斉を導いていく！　［期間限定無料配信］　真実の愛とはかけ離れた不謹慎ラブストーリー新感覚不倫コメディードラマが幕を開ける！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep01kqo0v5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0fdsc36l</id>
+    <title>フリンジマン～愛人の作り方教えます～_[第2話]</title>
+    <updated>2026-03-09T17:00:19+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srroehczf7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ フリンジマン～愛人の作り方教えます～
+                &lt;a href="https://tver.jp/series/srroehczf7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0fdsc36l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/9（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/10（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/11（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;家まで送るために山口詠美（筧美和子）とタクシーに同乗した田斉治（大東駿介）。愛人作りのベテラン・井伏真澄（板尾創路）は、詠美の自宅に着く直前、ルート変更を指示する。井伏の的確な指示により、田斉は詠美の家の前で一緒にタクシーに降りることに成功、ついに詠美のマンションへ！ところが部屋の前にはコワモテの男がいて…。美人局!?騙された!?しかし、愛人作りは思わぬ形で進んでいくのだった……。　［期間限定無料配信］　真実の愛とはかけ離れた不謹慎ラブストーリー新感覚不倫コメディードラマが幕を開ける！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0fdsc36l"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epr5m1dgfm</id>
+    <title>フリンジマン～愛人の作り方教えます～_[第1話]</title>
+    <updated>2026-03-09T17:00:18+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srroehczf7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ フリンジマン～愛人の作り方教えます～
+                &lt;a href="https://tver.jp/series/srroehczf7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr5m1dgfm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/9（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/10（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/11（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;冷め切った結婚生活に不満を抱く、田斉（大東駿介）、満島（淵上泰史）、安吾（森田甘路）には共通の夢があった。それは「愛人を作ること」。3人は夢を叶えるべく、満島の同僚・井伏真澄（板尾創路）を呼び出す。実はこの男、最高同時愛人人数11人！愛人教授（ラマン・プロフェッサー）と呼ばれる、愛人作りのベテランなのだ。井伏は田斉たちの申し出を受ける代わりに、4つの掟を守るように指示を出した。（1）四人の間に秘密を作らないこと　（2）四人の愛人作りを互いに全力でサポートすること　（3）四人の情報を決して外部に漏らさないこと　（4）愛人を愛することも愛されることも禁ずる　全ての掟を話し終えた教授は、「愛人同盟」というチーム名を発表し、愛人を作るため、厳しい指導のもと数々のミッションを与えていく…。さっそく田斉の前には愛人の原石・山口詠美（筧美和子）が現れる!?果たして男たちは無事に愛人をゲットすることができるのか!?　［期間限定無料配信］　真実の愛とはかけ離れた不謹慎ラブストーリー新感覚不倫コメディードラマが幕を開ける！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epr5m1dgfm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epd3kcte7k</id>
+    <title>昼のセント酒_[第十二湯（最終回） 浅草 蛇骨湯からの天ぷら盛り合わせ]</title>
+    <updated>2026-03-09T17:00:13+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2zf16jxp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 昼のセント酒
+                &lt;a href="https://tver.jp/series/sr2zf16jxp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd3kcte7k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/7（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/8（日）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/9（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;日の出広告（株）の営業マン・内海孝之（戸次重幸）は、浅草の小さな和菓子店に営業に来ていた。同僚の大西（柄本時生）には、「何年も前に小さな仕事を受けただけの店に通い続けるのは非効率だ」と非難されたが、地道な努力の結果ついに発注をもらい、さらには店主の紹介で大型和菓子店からの発注も受けることになった。改めて『人と人とのつながりを大切に』という自分の信念をかみしめていると、一人の女性外国人に道を聞かれる。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd3kcte7k"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epu86ml0ad</id>
+    <title>昼のセント酒_[第十一湯 高円寺 小杉湯からの焼肉]</title>
+    <updated>2026-03-09T17:00:12+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2zf16jxp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 昼のセント酒
+                &lt;a href="https://tver.jp/series/sr2zf16jxp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu86ml0ad.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/7（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/8（日）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/9（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;日の出広告（株）の営業マン・内海孝之（戸次重幸）は、ティッシュ広告の受注先である、高円寺の美容院に来ていた。「出来のいい広告を早く配りたい」とお願いされ、なぜかティッシュ配りをさせられてしまう内海。真面目にすべてのティッシュを配り終わり、駅に向かって歩き出すと、通りの先に銭湯の袖看板を見つける。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu86ml0ad"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epdkat3nyx</id>
+    <title>昼のセント酒_[第十湯 用賀 藤の湯からの穴子白焼き]</title>
+    <updated>2026-03-09T17:00:11+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2zf16jxp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 昼のセント酒
+                &lt;a href="https://tver.jp/series/sr2zf16jxp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdkat3nyx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/7（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/8（日）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/9（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;日の出広告（株）の営業マン・内海孝之（戸次重幸）は、用賀にある時計店に営業に来ていた。店主が言った「使う人間の心持ち次第で、時間の価値は変わる」という言葉に感銘を受ける内海。仕事を終え駅に向かって歩いていると、前方に細くて小さな煙突を見つける。いつもならわき目も振らず銭湯を探すところだが、先ほどの店主の言葉を思い出して『今日は真面目に営業に専念しよう』と思いとどまる。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdkat3nyx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epzcg4vt42</id>
+    <title>昼のセント酒_[第九湯 静岡県沼津市 吉田温泉からの生桜えび生しらす丼]</title>
+    <updated>2026-03-09T17:00:10+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2zf16jxp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 昼のセント酒
+                &lt;a href="https://tver.jp/series/sr2zf16jxp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzcg4vt42.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/7（土）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/8（日）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/9（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;日の出広告（株）の営業マン・内海孝之（戸次重幸）は、PRを依頼された小学生向けお仕事体験イベントのプログラムを決めるために、出張で静岡県の沼津港を訪れていた。地元漁師の北川（でんでん）のもとで、汗をかきながら漁港の仕事を実際に体験する内海。無事にプログラムも決まり、北川の運転する車で駅へと帰っていると車窓から銭湯の煙突を見つける。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzcg4vt42"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epl66qqnnf</id>
+    <title>レプリカ 元妻の復讐_[8話 セレブ社長とW不倫の罠]</title>
+    <updated>2026-03-09T17:00:05+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk8p5w3lmd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ レプリカ 元妻の復讐
+                &lt;a href="https://tver.jp/series/srk8p5w3lmd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl66qqnnf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/8（日）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/9（月）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/10（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;すみれ（トリンドル玲奈）は花梨（宮本茉由）をIT企業CEO金城（古谷呂敏）と引き合わせる。リッチな金城に舞い上がる花梨。だが金城もまた、花梨に相応しいクズだった。すみれは無名の俳優田森圭（葉山奨之）をニセの彼氏に仕立てると、花梨、金城とのWデートを企てる。その一方ですみれは、加速する復讐計画に、これ以上ミライ（千賀健永）巻き込んではいけないと思い始めてもいた…。孤独を抱え、すみれは次なる一手へ――。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl66qqnnf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6otcdsma</id>
+    <title>レプリカ 元妻の復讐_[7話 罠にかかったクズ元夫]</title>
+    <updated>2026-03-09T17:00:04+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk8p5w3lmd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ レプリカ 元妻の復讐
+                &lt;a href="https://tver.jp/series/srk8p5w3lmd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6otcdsma.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/8（日）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/9（月）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/10（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;すみれ（トリンドル玲奈）は脅迫状の犯人を桔平（木村了）の同僚・芝田（山崎紘菜）だと目星をつけると、ハッタリで彼女を追い詰める。実は芝田は桔平に秘かな想いを寄せており、彼を守ろうとしていた。すみれは芝田に対し、自らの復讐の目的を打ち明けると、桔平の赴任先にまで会いに行く。だが、そこで桔平からの思わぬ逆襲に会う…一方、花梨（宮本茉由）は、IT企業CEO金城樹（古屋呂敏）との出会いに舞い上がっていた…　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6otcdsma"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7ovame1s</id>
+    <title>レプリカ 元妻の復讐_[6話 女王様、屈辱のコスプレ姿]</title>
+    <updated>2026-03-09T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk8p5w3lmd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ レプリカ 元妻の復讐
+                &lt;a href="https://tver.jp/series/srk8p5w3lmd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7ovame1s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/8（日）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/9（月）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/10（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;桔平（木村了）の緊急帰京と、謎の脅迫者のため、すみれ（トリンドル玲奈）の復讐計画は立て直しを迫られる。脅迫状の文面から、犯人は桔平に近しい人間だと思われた。そこですみれは、花梨（宮本茉由）を借金漬けにする策、桔平からの逃亡、そして脅迫状の犯人捜しという三つの問題を、同時に解決するための奇策を思いつく。一方、花梨は金策のため、レンタル恋人の中でも極太客を紹介されるが、それは危ない男だった…　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7ovame1s"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep88v03kgm</id>
+    <title>レプリカ 元妻の復讐_[5話 宿敵の女王が遂に標的に！]</title>
+    <updated>2026-03-09T17:00:02+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk8p5w3lmd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ レプリカ 元妻の復讐
+                &lt;a href="https://tver.jp/series/srk8p5w3lmd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep88v03kgm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/8（日）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/9（月）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/10（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;すみれ（トリンドル玲奈）は花梨（宮本茉由）を夜の酒場に連れ出し、男達にちやほやされる喜びを思い出させる。それで浪費させると、効率の良いバイトとして、レンタル恋人の仕事を紹介する。全ては花梨を堕とすための罠だ…。一方、すみれの正体が葵だと知る者から謎の脅迫状が届き、事態は急変。不穏な空気が漂い始める。復讐は果たして順調に進むのか、それとも破綻するのか!?そんな中、ミライの秘めた過去が明かされる…　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep88v03kgm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx95s8dfy</id>
     <title>探偵が早すぎる　春のトリック返し祭り_[#1 2000億円を巡る遺産バトル開幕！]</title>
@@ -2208,525 +2688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epbe4wv6bj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb8w7q8va</id>
-    <title>アバランチ_[#2 正体]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbctchf6m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アバランチ
-                &lt;a href="https://tver.jp/series/srbctchf6m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb8w7q8va.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                山守（木村佳乃）は、半年前に転落死した夏川洋子（中島亜梨沙）の調査をアバランチメンバーに命じる。東南アジアの開発途上国支援に精力的に携わってきた彼女の死について、警察は自殺と断定。しかし、山守の調べでは不審な点やある大物政治家との関係が疑われていた。&lt;br&gt;夏川の身辺を調査し、永井慎吾（久保田悠来）というジャーナリストの存在を知った羽生（綾野剛）、西城（福士蒼汰）、リナ（高橋メアリージュン）は彼の自宅に向かうが、予想外の事態に遭遇する。一方、その頃、大山（渡部篤郎）は内閣情報調査室のエース・桐島雄司（山中崇）にアバランチについての調査を依頼していた。&lt;br&gt;そんな中、牧原（千葉雄大）はこの事件に対して、メンバーの中でもひときわ特別な感情を抱いていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb8w7q8va"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb8j1tiz6</id>
-    <title>未解決の女 警視庁文書捜査官_[第1話]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未解決の女 警視庁文書捜査官
-                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb8j1tiz6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/16(月)～ #4-#6&#13;&lt;br&gt;4/01(水)～ #7-#8&#13;&lt;br&gt;4/13(月)～ #4-#6&#13;&lt;br&gt;5/04(月)～ #7-#8&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;無鉄砲な熱血捜査で負傷した警視庁捜査一課強行犯係の刑事・矢代朋（波瑠）は復帰早々、異動を命じられる。異動先は薄暗い地下にある窓際部署――「特命捜査対策室」第6係。未解決事件の文書捜査を担当する「文書解読係」だった！　朋は戸惑いながらも、文書解読のエキスパートと呼ばれる不愛想な先輩刑事・鳴海理沙（鈴木京香）らとともに、新部署で働き始めることに。だが、その業務内容の実態は、単なる捜査資料の“倉庫番”にすぎず…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb8j1tiz6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9cipnzex</id>
-    <title>探偵の探偵_[第6話 深まる謎・・・死神へと続く鍵！出会うはずない二人]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srky2rqjz0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 探偵の探偵
-                &lt;a href="https://tver.jp/series/srky2rqjz0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9cipnzex.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月28日(土) ～ 03月30日(月)&lt;br&gt;#4：03月03日(火) ～ 03月09日(月)&lt;br&gt;#5：03月06日(金) ～ 03月12日(木)&lt;br&gt;#6：03月09日(月) ～ 03月15日(日)&lt;br&gt;#7：03月12日(木) ～ 03月18日(水)&lt;br&gt;#8：03月15日(日) ～ 03月21日(土)&lt;br&gt;#9：03月18日(水) ～ 03月24日(火)&lt;br&gt;#10：03月21日(土) ～ 03月27日(金)&lt;br&gt;#11：03月24日(火) ～ 03月30日(月)&lt;br&gt;&lt;br&gt;紗崎玲奈（北川景子）は、DVシェルターから失踪した芦原遥香（西原亜希）の夫・升瀬淳史（中野裕太）のアパートの前で、窪塚悠馬（三浦貴大）と対峙（たいじ）していた。窪塚は、警察が先日病院で死亡した檜池（尾上寛之）を殺害したのは玲奈だと疑い捜査を進めていると明かし、目立つ行動を控えるよう忠告する。窪塚が立ち去ると、玲奈は峰森琴葉（川口春奈）にスマ・リサーチ社に戻り、升瀬が使っている銀行を調べるように命じた。&lt;br&gt;同じ頃、琴葉の姉・織田彩音（中村ゆり）は、夫・哲哉（柏原収史）を会社の前で待っていた。やがて、出てきた哲哉に声をかけると、琴葉に謝ってほしいと言う。玲奈の元にいる琴葉が心配だという彩音に、もう子供じゃないんだから、と返す哲哉。彩音は声を荒らげ、琴葉には自分がいないとダメなのだ、と怒りをあらわにする。&lt;br&gt;一方、升瀬の銀行口座を突き止めた琴葉は玲奈に報告。玲奈は、それをもとに升瀬に連絡を取り、彼が潜伏しているホテルを割り出す。早速、ホテルに向かった玲奈は、升瀬が滞在している部屋の隣室を取る。その後、升瀬が留守にした隙を狙い部屋に侵入、充電中だった升瀬の携帯電話を手に取った。そこには、「野放図」という“半グレ”グループからの呼び出しのメールがあった。さらに、探偵が書いたと思われる遥香の調査報告書を見つける。それは、死神が書いた紗崎咲良（芳根京子）の調査報告書の書式と一致していた･･･。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『探偵の探偵』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9cipnzex"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep971q2swg</id>
-    <title>未解決の女 警視庁文書捜査官_[第2話]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未解決の女 警視庁文書捜査官
-                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep971q2swg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/16(月)～ #4-#6&#13;&lt;br&gt;4/01(水)～ #7-#8&#13;&lt;br&gt;4/13(月)～ #4-#6&#13;&lt;br&gt;5/04(月)～ #7-#8&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;大手IT企業の社長令嬢が連れ去られ、1億円もの身代金を要求される誘拐事件が発生する。早期解決を目指す捜査本部は、各部署から人員をかき集め体制を強化。「特命捜査対策室」からも第6係の刑事・矢代朋（波瑠）が招集される。誘拐されたのは中学生の幸田遥花（畑芽育）。犯人が電話で、父親・幸田雅也（戸次重幸）に遥花の声を聞かせたとき、遥花は「かもめ」とだけ口にしたという。まるで意味が分からない朋だが、その一言は文字フェチの同僚・鳴海理沙（鈴木京香）に12年前のある未解決事件を思い出させることに…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep971q2swg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8wmgmkaw</id>
-    <title>Dr.コトー診療所_[第6話 愛するわが子へ]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srd1irxccb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Dr.コトー診療所
-                &lt;a href="https://tver.jp/series/srd1irxccb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8wmgmkaw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：02月28日(土) ～ 03月30日(月)&lt;br&gt;#4：03月03日(火) ～ 03月09日(月)&lt;br&gt;#5：03月06日(金) ～ 03月12日(木)&lt;br&gt;#6：03月09日(月) ～ 03月15日(日)&lt;br&gt;#7：03月12日(木) ～ 03月18日(水)&lt;br&gt;#8：03月15日(日) ～ 03月21日(土)&lt;br&gt;#9：03月18日(水) ～ 03月24日(火)&lt;br&gt;#10：03月21日(土) ～ 03月27日(金)&lt;br&gt;#11：03月24日(火) ～ 03月30日(月)&lt;br&gt;&lt;br&gt;往診の途中、コトー（吉岡秀隆）と彩佳（柴咲コウ）は、つる子（千石規子）から見かけない少年を紹介された。少年は竜一（神木隆之介）といい、東京で暮らしているはずの茉莉子（大塚寧々）の息子だった。息子が東京の家を出たとの連絡を受けていた茉莉子は、竜一に会うと、すぐに東京に戻るように伝える。久しぶりに会ったせいかぎくしゃくする二人を見かねた原（時任三郎）は、自宅での夕食に二人を誘い、茉莉子と竜一が話す場を持たせようとする。しかしその直後、竜一が行方不明になってしまった。一緒に遊ぶよう言われていた剛洋（富岡涼）は、責任を感じ、コトーと一緒に島中を探しまわる。その時竜一は、あやまってがけから落ちて怪我をしてしまっていた。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『Dr.コトー診療所』を全シリーズ配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8wmgmkaw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep821vfak8</id>
-    <title>アバランチ_[#5 夜明け]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbctchf6m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アバランチ
-                &lt;a href="https://tver.jp/series/srbctchf6m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep821vfak8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                西城（福士蒼汰）を前に羽生（綾野剛）が語るアバランチ発足の理由と真の目的とは――？&lt;br&gt;3年前、日本で開催される国際会議を前に、官邸は国際テロリスト集団からの爆破予告の対応に追われていた。大山（渡部篤郎）がトップに立つ公安部はテロリストの潜伏先を確認したが、情報提供者が拘束されてしまう。救出作戦にあたった公安部外事三課の羽生（綾野剛）が現場に突入するが、それは仕組まれたワナで…。&lt;br&gt;失意の中、警察を辞めた羽生は、小さな町工場で働き始める。もはや正義の力など信じられない羽生は心ここにあらずだった。そんな矢先、羽生の居場所を追っていた山守（木村佳乃）が工場を訪れて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep821vfak8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6k4b2ppl</id>
-    <title>アバランチ_[#6 正義]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbctchf6m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アバランチ
-                &lt;a href="https://tver.jp/series/srbctchf6m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6k4b2ppl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3年前、多くの犠牲者を出した偽装テロ事件を足掛かりに、権力の階段を上っていく大山（渡部篤郎）。大きな野望を胸に秘めた大山が画策する“次なる最悪の一手”を防ぐため、羽生（綾野剛）たちはキーマンである元公安部長の戸倉（手塚とおる）への接触を図る。しかし、これまで情報収集に徹していた大山も、ついにアバランチに対して反撃に出て…。&lt;br&gt;そしてある日、日本列島に緊急ニュースが流れ込む――。アナウンサーが報じたその内容は、「警視庁が、アバランチのメンバー・羽生誠一容疑者をテロ事件の容疑者として全国に特別指名手配」。羽生の身に一体何が？ ついに、アバランチと大山の正義がぶつかり合う壮絶な戦いの幕が開く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6k4b2ppl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4ywqsrqt</id>
-    <title>遺留捜査 （2022）_[第3話]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlz3xim05.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 遺留捜査 （2022）
-                &lt;a href="https://tver.jp/series/srlz3xim05" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ywqsrqt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/27(金)～ #4-#7&#13;&lt;br&gt;4/28(火)～ #8-#10&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;人通りの少ない路地で、若い男性の遺体が見つかった。”特別捜査対策室”のリーダー・佐倉路花（戸田恵子）は、被害者の顔を見てがく然とする。殺されていたのは、少年時代、路花が逮捕した山下駆（入江甚儀）だったのだ。窃盗の常習犯だった駆はその後、少年院に収容されたが、路花の支援もあって更生し、現在は清掃作業員として働いていた。遺留品を調べた糸村聡（上川隆也）は、駆の財布の中からキャラクターが印刷された古いカードを見つける。それはかつて子どもたちの間で大ブームを巻き起こした、チョコレート菓子のおまけだった…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4ywqsrqt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4pnnjbhe</id>
-    <title>遺留捜査 （2022）_[第1話]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlz3xim05.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 遺留捜査 （2022）
-                &lt;a href="https://tver.jp/series/srlz3xim05" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4pnnjbhe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/27(金)～ #4-#7&#13;&lt;br&gt;4/28(火)～ #8-#10&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;災害・気象情報の配信や避難所の運営など防災に特化したベンチャー企業“京都レスキューサービス（KRS）”の社長・吉原弘樹（阿部亮平）が、山間の渓流で遺体となって見つかった。事件の夜は、京都市内で集中豪雨が発生。吉原は土砂降りの中、登山客を捜索している最中に何者かに襲われたものと思われた。&#13;&lt;br&gt;臨場した糸村聡（上川隆也）は、吉原の手首に笛が巻きつけられているのに気づく。それは被災時に救助を呼ぶための“レスキューホイッスル”だったが、糸村は吉原がさらに首から古いホイッスルを下げていたことを発見。吉原はなぜ２つもホイッスルを携帯していたのか、疑問を抱く。&#13;&lt;br&gt;吉原が捜していた男はいまだ行方をくらましたままで、神崎莉緒（栗山千明）ら“特別捜査対策室”メンバーは彼の犯行を怪しみ、捜査を開始する…。&#13;&lt;br&gt;やがて捜査線上には、KRSの副社長・星野菜美（佐津川愛美）や、避難所に居合わせた大学生・五条慶太（押田岳）も浮上する…。古びたホイッスルから糸村が導き出した、事件の思いもよらぬ真相とは…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4pnnjbhe"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4n79mmuj</id>
-    <title>シングルス_[#4 家族との別れは新しい旅立ち]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz753d5f2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シングルス
-                &lt;a href="https://tver.jp/series/srz753d5f2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1997年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4n79mmuj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                あさひ（天海祐希）は家を出て、一人で出産することを決めた。両親は子供の父親を問うが、あさひは渡辺（原田龍二）の名前を明かさなかった。&lt;br&gt;一方、千波（洞口依子）は吉行（蟹江敬三）から手切れ金を突きつけられた。雪子（水野真紀）は激しい腹痛に襲われ、病院に運び込まれた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4n79mmuj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3i9gvotr</id>
-    <title>シングルス_[#2 さよならの向こうに]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz753d5f2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シングルス
-                &lt;a href="https://tver.jp/series/srz753d5f2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1997年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3i9gvotr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                あさひ（天海祐希）は別荘で渡辺（原田龍二）に抱かれた。翌朝やってきたあさひの妹・若菜（遊井亮子）の前では平静を装ったが、若菜は渡辺の心変わりに敏感だった。&lt;br&gt;一方、人工受精の手術を受けた雪子（水野真紀）は、陰性の結果に落胆していた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3i9gvotr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3eck6jvf</id>
-    <title>アバランチ_[#4 仲間]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbctchf6m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アバランチ
-                &lt;a href="https://tver.jp/series/srbctchf6m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3eck6jvf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                羽生（綾野剛）は、「Kファイル」を渡すよう蘭子（国生さゆり）に取り引きを持ちかける。悠源館の実態が公になれば地位や名声を失うが、簡単にファイルを渡すわけにはいかない。焦る蘭子がとった行動が、大山（渡部篤郎）も巻き込み、山守（木村佳乃）も予想していなかった事態に発展。&lt;br&gt;一方、打本（田中要次）は、大山とも懇意の仲で、長年にわたり関東医師連合の会長を務める神崎龍臣（中丸新将）に目をつけていた。&lt;br&gt;意気揚々と作戦に当たる打本。その過去を山守から聞いた羽生、西城（福士蒼汰）、牧原（千葉雄大）は驚きの声を上げる。さらに、山守は西城を大山の秘書で大学の同級生でもある優美（堀田茜）に近づかせるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3eck6jvf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2ps0juvz</id>
-    <title>アバランチ_[#8 真相]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbctchf6m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アバランチ
-                &lt;a href="https://tver.jp/series/srbctchf6m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2ps0juvz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                牧原（千葉雄大）が大山（渡部篤郎）直轄の秘密組織によって拘束された。動揺する山守（木村佳乃）の前に大山が現れ、山守は身動きがとれなくなってしまう。さらに、アバランチの名を語る偽の集団が新たな予告動画をアップ。それは、イベント会場の爆破をにおわせる内容で、リナ（高橋メアリージュン）たちは大山の罠だと勘ぐるが、人命が奪われることを避けたい羽生（綾野剛）は急いで会場へ向かう。&lt;br&gt;爆破予告時間が迫るなか、西城（福士蒼汰）と打本（田中要次）は会場に仕掛けられた爆弾を探し、羽生とリナは牧原の救出を急ぐ。一方、大山からある動画を見せられた山守は、映像を見て思わず息をのみ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2ps0juvz"/>
   </entry>
 </feed>
