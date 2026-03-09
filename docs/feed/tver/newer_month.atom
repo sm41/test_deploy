@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-09T10:06:38+09:00</updated>
+  <updated>2026-03-09T12:05:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epjrl9i6pw</id>
+    <title>笑うハナに恋きたる_[第11話 泣きっ面に裏切り]</title>
+    <updated>2026-03-09T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 笑うハナに恋きたる
+                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月16日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月8日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjrl9i6pw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                会議中のジェイ達の元へ突然ジーノが現れ、アンへある取引を持ちかける。そして脅迫めいた取引に関する情報元の入手先がハナであると言い残す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjrl9i6pw"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcf26y1b6</id>
+    <title>流星花園II～花より男子～_[第13話　あの頃のように]</title>
+    <updated>2026-03-09T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 流星花園II～花より男子～
+                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月9日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcf26y1b6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                西門総二郎の祝賀パーティに招待されながらも、一人残業していたつくしの前に、酒に酔ったF4が現れ昔の日々がよみがえる。一方、サクが道明寺家を訪れエルサの面倒を見ることで、司とエルサにも久々に笑顔が戻る。ある日、総二郎が激しい腹痛で入院し、病室で付き添う両親から思いがけない事実を知らされ、驚愕する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcf26y1b6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eph6ryv8h6</id>
     <title>三国志　秘密の皇帝_[第51話]</title>
@@ -448,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epkghu7jgm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8x77qzq0</id>
-    <title>スケバン刑事_[第21話「父さんを殺したのはお前だ！！」]</title>
-    <updated>2026-03-08T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_16時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月8日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8x77qzq0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                サキは出生の秘密に悩んでいた。なぜ母は父を殺したのか、そのとき目撃したもう一人の人影は誰だったのか。母は本当に剛三の愛人だったのか。そんなサキに暗闇指令は、海槌剛三の逮捕を命じた。鷹の羽学園に急ぐサキたち。サキは剛三の部屋に向うが、何者かに襲われた。三姉妹は記者会見を行おうとしていた。サキたちに勝算はあるのか。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8x77qzq0"/>
   </entry>
 </feed>
