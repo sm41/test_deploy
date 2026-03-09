@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-09T18:05:38+09:00</updated>
+  <updated>2026-03-09T20:05:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwqsf54fi</id>
+    <title>3年B組金八先生(第8シリーズ)_[第16回 ３B生徒に霊能力者がいた!!]</title>
+    <updated>2026-03-09T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwqsf54fi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;川上詩織（牛山みすず）が金八（武田鉄矢）の授業中に疲労で倒れてしまう。保健室で目が覚めた詩織は、金八の背後に見知らぬ人の姿を見つける。詩織は母親の英子（歌川椎子）にそのことを告白すると、それは金八の守護霊で神社を営む詩織の家では代々、女に霊能者の素質があるのだと説明され、詩織は困惑する。翌日、みなみ（菅澤美月）や美恵子（藤井真世）が親に内緒で渋谷のパーティーイベントに行くと騒いでいた。その時詩織の前にみなみの守護霊が現れ、彼女たちを渋谷に行かせないほうがいいと忠告するが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwqsf54fi"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epl9gqbm0x</id>
     <title>フリンジマン～愛人の作り方教えます～_[第4話]</title>
@@ -2608,85 +2648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epc9mtnqj8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc4q69473</id>
-    <title>シングルス_[#3 診察台の上での選択]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz753d5f2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シングルス
-                &lt;a href="https://tver.jp/series/srz753d5f2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1997年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc4q69473.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                渡辺（原田龍二）は転勤でドイツへ旅立った。空港で吐き気に襲われたあさひ（天海祐希）は、妊娠の予感に呆然となった。&lt;br&gt;一方、千波（洞口依子）はついに望んでいた吉行（蟹江敬三）の子を宿した。しかし妊娠を打ち明けた途端、吉行の態度は一変…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epc4q69473"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbe4wv6bj</id>
-    <title>東京独身男子_[episode3]</title>
-    <updated>2026-03-09T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfazfdsbz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京独身男子
-                &lt;a href="https://tver.jp/series/srfazfdsbz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbe4wv6bj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/27(金)～ #4-#6&#13;&lt;br&gt;4/28(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;温泉宿で、岩倉（滝藤賢一）が自分と同じように透子（桜井ユキ）へ好意を寄せていることに気づいた三好（斎藤工）。一方、舞衣（高橋メアリージュン）への想いを断ち切ろうとする太郎（高橋一生）に、かずな（仲里依紗）が突然のキス！しかもこれが初めてではなく「結婚しようって言ったよ、太郎ちゃん」と衝撃の事実を告げられるが、全く思い出せない太郎。密着する2人を三好と岩倉が目撃して…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbe4wv6bj"/>
   </entry>
 </feed>
