@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-09T12:05:38+09:00</updated>
+  <updated>2026-03-09T14:05:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -488,45 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep81hk31wu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkghu7jgm</id>
-    <title>孤独のグルメ Season1_[第4話 千葉県浦安市の静岡おでん]</title>
-    <updated>2026-03-08T18:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season1
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月08日(日)_18時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月8日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkghu7jgm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚式場の調度品の打合せのため新浦安駅に降り立った五郎は、ヤシの木に金髪美人の洗礼を受け一瞬デジャブ感覚に。そしてある女性のことを思い出し……。やがて、浦安でなぜか「静岡おでん」と出合うのだった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkghu7jgm"/>
   </entry>
 </feed>
