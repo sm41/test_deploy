@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-10T16:05:57+09:00</updated>
+  <updated>2026-03-10T18:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epo8uh5w71"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppmgtdym9</id>
-    <title>孤独のグルメ Season10_[第3話 神奈川県横浜市桜木町の真鯛のソテーオーロラソースとまぐろのユッケどんぶり]</title>
-    <updated>2026-03-09T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season10
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月09日(月)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月9日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppmgtdym9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                神奈川県横浜市「桜木町」みなとみらいの運河が見えるベンチで鮫島京子（星野真里）が深刻な顔をし、彼氏との関係に悩んでいる様子。五郎（松重豊）もコーヒー片手に話を聞くが、女心がわかっていない！　と一蹴される。仕事だからと、商談相手の矢沢友江（宍戸美和公）のもとへ向かう。依頼されたブローチをいくつか見せるが、どれが良いか決め兼ねていた矢沢をフォローできず、ここでも女心が分かっていないと言われる始末に……。慣れない対応の連続で腹が減り、お店を探すことにした五郎。すると、駅前に可愛らしい手書きのメニューPOPが立ち並ぶキッチンカフェを発見。電光石火の如き速さで、迷うことなくお店に入ると、そこにはパワフルな女性店主＝姉さんが毎朝市場で取り寄せた新鮮な魚を使って提供する手料理の数々が……。お腹が空くシアワセを噛みしめながら、五郎が注文した姉さん自慢の手料理とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppmgtdym9"/>
   </entry>
 </feed>
