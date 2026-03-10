@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-10T18:05:57+09:00</updated>
+  <updated>2026-03-10T20:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfgt3bo8j</id>
+    <title>3年B組金八先生(第8シリーズ)_[第17回 横綱の品格]</title>
+    <updated>2026-03-10T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月10日(火)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfgt3bo8j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;３年B組男子で１番体格が大きく相撲好きの玉田透（米光隆翔）は、相撲部が有名な私立高校を第１希望にしていた。その透が志望校の入試を翌日に控えた日、五十嵐雅迪（田辺修斗）が風邪で高熱を出しているにも関わらず、無理矢理授業に参加。受験を控えた周囲の生徒たちは風邪をうつされては困ると早退を勧めるが、３年間無遅刻無欠席無早退の皆勤賞を狙っている雅迪は拒む。見かねた英語の矢沢亮先生（山田純大）の指示で、雅迪は保健室に連れて行かれるが、１人で帰宅できず、透が雅迪を背負って帰ることに。すると翌日、入試を迎えた透が４０度近い高熱を出して試験中に倒れてしまい、志望校に落ちてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfgt3bo8j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsyoizg0a</id>
     <title>カミさんの悪口_[第５話「会社襲撃大作戦」]</title>
