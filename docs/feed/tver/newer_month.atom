@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-11T14:05:41+09:00</updated>
+  <updated>2026-03-11T16:06:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -368,45 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epe604272p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuiek94lb</id>
-    <title>東京P.D. 警視庁広報2係_[第7話 止められた汚職事件・・・政治家の圧力、リーク]</title>
-    <updated>2026-03-10T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
-                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月10日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月17日(火)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月10日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuiek94lb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                東京都庁に捜査二課の捜査員たちが家宅捜索に入る。都の行政担当責任者が小城幡建設に入札情報を漏らし、その見返りに2000万円を受け取っていたという官製談合防止法違反の容疑がかけられたのだ。&lt;br&gt;警視庁広報課2係の今泉麟太郎（福士蒼汰）と熊崎心音（吉川愛）は、この後に開かれる捜査二課のレクに備え準備をしようとしていたところ、今泉だけ捜査二課の刑事・仙北谷開智（味方良介）に強引に連れて行かれ、今回の談合事件の情報を記者にリークしてほしいと依頼される。&lt;br&gt;&lt;br&gt;仙北谷曰く、今回の談合事件は内部告発により判明。容疑がかけられたのは都の行政管理担当部長・川島一喜と、小城幡建設の常務・澤田靖の2人なのだが、川島以外の人物にも金が流れているかもしれないという。しかし、その先を内偵捜査しようとしていたところ、警察上層部の働きかけで早々に家宅捜索が決行されてしまった。川島と澤田が逮捕された事により、これ以上の捜査が出来なくなる可能性が高いのだ。&lt;br&gt;&lt;br&gt;川島の“バック”にいるのは誰なのか――。&lt;br&gt;それを突き止めるため、マスコミの力で世間にこの事件を広められれば、引き続き捜査を進める理由が出来るはずだと主張する仙北谷。&lt;br&gt;時を同じくして、とある料亭には小城幡建設の役員と、大物都議会議員が密会していた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epuiek94lb"/>
   </entry>
 </feed>
