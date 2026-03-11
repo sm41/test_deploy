@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-11T20:05:41+09:00</updated>
+  <updated>2026-03-11T22:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1v1yz53m</id>
+    <title>相棒 season24_[最終回SP 第19話「暗闇の鬼」]</title>
+    <updated>2026-03-11T22:04:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season24
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月11日(水)_22時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月11日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1v1yz53m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                警視庁内で、警察庁警備局長の叶恭次（堀部圭亮）が新しい警視総監に内定しているらしいとの噂が流れる中、高級住宅街で同時多発的に空き巣事件が発生。右京（水谷豊）は一軒だけ未遂に終わった家があることに興味を持ち、薫（寺脇康文）と共に捜査を開始。するとその家の持ち主は、特命係に半年ほど在籍した後警視庁を去った、右京の“元相棒”の岩橋虔矢（石黒賢）だった。岩橋は27年前のとある屈辱を特命係に明かす。元相棒の狙いとは!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1v1yz53m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp97zrkd5</id>
     <title>孤独のグルメ Season10_[第5話 千葉県柏市鷲野谷のネギレバ炒と鶏皮餃子]</title>
