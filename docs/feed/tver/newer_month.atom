@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-11T10:06:33+09:00</updated>
+  <updated>2026-03-11T12:06:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epbfyw24qb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5z0delnl</id>
-    <title>孤独のグルメ Season10_[第4話 東京都練馬区大泉学園のサザエとキノコのプロヴァンス風と牛タンシチューのオムライス]</title>
-    <updated>2026-03-10T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season10
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月10日(火)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月10日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5z0delnl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                東京都練馬区「大泉学園」駅からバスを乗り継ぎ、商談相手の原田洋一（えなりかずき）が務めるケアハウスへ。妻へのプレゼント用にアンティークのジュエリーボックスが欲しいようで、いくつか選んだものを見せるが、原田が希望した商品は予算オーバーだった。しかし自分の家族や子どもの写真を見せて執拗に交渉する原田に気圧され、五郎（松重豊）はしぶしぶ了承。商談後、背筋を伸ばすと急に腹が減り、足早にお店を探し始める。住宅街という名の“ハングリーロード”をひたすら歩くが、お店の気配は皆無…。空腹で絶望しかけた時、一軒の洋食屋さんを発見！駆け込みでお店に入る五郎。定番の洋食メニューとおすすめメニューを店員・奥さん（相田翔子）に聞き、自分だけのコースメニューを考えることに。スープ料理にアラカルト、そしてメインディッシュ。洋食オールスターズから厳選した五郎オリジナルのコースメニューとは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5z0delnl"/>
   </entry>
 </feed>
