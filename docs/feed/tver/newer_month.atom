@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-11T12:06:41+09:00</updated>
+  <updated>2026-03-11T14:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -408,45 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epuiek94lb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbfyw24qb</id>
-    <title>再会～Silent Truth～ _[第8話 彼女の真実]</title>
-    <updated>2026-03-10T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv5utjafh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 再会～Silent Truth～ 
-                &lt;a href="https://tver.jp/series/srv5utjafh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月10日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月17日(火)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月10日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbfyw24qb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                スーパーの店長を射殺した真犯人は、犯行を自供した佐久間直人（渡辺大知）ではなく、被害者から恐喝されていた岩本万季子（井上真央）なのか!? 直人の言動から、万季子をかばっていると確信を強めた飛奈淳一（竹内涼真）。だが、直人は「僕と万季ちゃんにしか分からないことがある」とつぶやき、頑として自供を覆そうとしない。&#13;&lt;br&gt;時を同じくして、不測の事態が発生する。直人が隠した凶器の拳銃をこっそり持ち出したと思われる万季子が、息子の正樹（三浦綺羅）を連れて失踪したのだ！ 拳銃にはまだ弾が残っているはず…。最悪の結果が頭をよぎり、胸騒ぎを覚える淳一と万季子の元夫・清原圭介（瀬戸康史）。&#13;&lt;br&gt;そんな中、「お前に隠してることがある」――圭介は淳一にそう告げ、捜査を担当する刑事・南良理香子（江口のりこ）のもとへ。一方、淳一の説得を受け、直人もようやく重い口を開き…。&#13;&lt;br&gt;ついに暴かれる、事件が起きた夜の真相。さらに、万季子と直人だけが共有していた《胸を引き裂く過去の秘密》も明らかになる――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbfyw24qb"/>
   </entry>
 </feed>
