@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-11T18:05:41+09:00</updated>
+  <updated>2026-03-11T20:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp97zrkd5</id>
+    <title>孤独のグルメ Season10_[第5話 千葉県柏市鷲野谷のネギレバ炒と鶏皮餃子]</title>
+    <updated>2026-03-11T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season10
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月11日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月25日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月11日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp97zrkd5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                のどかな田園風景が広がる千葉県柏市。依頼人である吉川将吾（中田圭祐）の案内でこの地を訪れ、吉川の祖母（加藤美智子）の希望でインテリアや雑貨を提案しに来た五郎（松重豊）。商談を終え、吉川の家を後にした五郎は田んぼ道を抜け駐車場へ。そこには去年の暮れ、京都から東京の長旅を共に過ごした“小さな相棒“の姿が！五郎はオーナーの竹内（平原テツ）の海外赴任をきっかけに愛車を譲り受けていたのだ。色々あった旅路を思い返しながら腹が減った五郎はエンジンをかけ、再会した相棒と共に今日も食の探求へ。しばらく走ると、木で隠れていたお店の立看板を発見。そこには年季が入った渋い暖簾のお店が…！いざ入店すると、王道食堂飯の数々が名を連ね、訪れた客が長い時間をかけて浸食したグランドキャニオンの風合いの食卓と店内の雰囲気に期待も高まる。招き猫の導きもあり、悩み抜いた末に五郎が選んだ今宵の料理とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp97zrkd5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epiviky6o0</id>
     <title>三国志　秘密の皇帝_[第53話]</title>
