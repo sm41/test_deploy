@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-12T18:05:41+09:00</updated>
+  <updated>2026-03-12T20:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep8oowoeb5</id>
+    <title>3年B組金八先生(第8シリーズ)_[第19回 やっと見つけた私の居場所]</title>
+    <updated>2026-03-12T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3年B組金八先生(第8シリーズ)
+                &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月26日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8oowoeb5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;都立高校の合格発表日を迎えた。桜中学では、職員室で待つ金八（武田鉄矢）のもとに３年B組の生徒たちが続々と合否を知らせにやってくる。合否結果を受け、３Bではアメリカへ留学予定の美香（草刈麻有）と、都立高校の二次試験を受験する剛史（岩方時郎）以外の生徒たちの進路が決まった。ところが、自分１人だけ受験が残っていることに落ち込む剛史に、美香が自分も都立の二次を受けると言い出す。しかし美香の父親・文郎（宅麻伸）は美香の希望を一蹴。文郎に失望した美香は金八の家を訪ねる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8oowoeb5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3ax06cz3</id>
+    <title>たとえあなたを忘れても_[第１話　役に立たない、すてきなもの]</title>
+    <updated>2026-03-12T19:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2z8fq7fk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ たとえあなたを忘れても
+                &lt;a href="https://tver.jp/series/sr2z8fq7fk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_19時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ax06cz3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ピアニストになる夢を諦め、東京の実家を離れて神戸に一人移り住んだ河野美璃（堀田真由）は、音大時代の奨学金返済を抱えつつも、神戸在住の従兄弟で心療内科医の遠山保（風間俊介）見守りの下、音楽教室のピアノ講師としてささやかな生活を送っている。そんな日々の中で美璃は、帰り道の公園で初めて見かけたキッチンカーに、大好きなメロンジュースがあることを知る。今の美璃にはちょっと手が出ない高級品。だが、大事な予定が控えたある日、美璃は景気づけに購入を決意。この一杯が美璃に、店主・青木空（萩原利久）の微笑みと、何かが始まる予感を運んでくる…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月12日(木) 夜7時15分～　#1&lt;br&gt;3月13日(金) 夜7時15分～　#2&lt;br&gt;3月14日(土) 夜7時15分～　#3&lt;br&gt;3月15日(日) 夜7時15分～　#4&lt;br&gt;3月16日(月) 夜7時15分～　#5&lt;br&gt;3月17日(火) 夜7時15分～　#6&lt;br&gt;3月18日(水) 夜7時15分～　#7&lt;br&gt;3月19日(木) 夜7時15分～　#8&lt;br&gt;3月20日(金) 夜7時15分～　#9（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3ax06cz3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epngfkaj8y</id>
+    <title>痴情の接吻_[第2話 24時間キスの嵐！？甘～い誕生日の夜]</title>
+    <updated>2026-03-12T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srajzcho00.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 痴情の接吻
+                &lt;a href="https://tver.jp/series/srajzcho00" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epngfkaj8y.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                目覚ましのキスと美味しい朝食、そして読書に最適なソファー。&lt;br&gt;すべてをあたえてくれる男とでも、「恋愛なんて、やっぱりめんどくさい」！？&lt;br&gt;&lt;br&gt;忍(橋本良亮)から和華(中村ゆりか)への超一方通行な恋から始まった同居生活に早くも激震！？&lt;br&gt;24時間全力でアプローチする忍に心をかき乱され、大好きな読書にも没頭できなくなる和華。&lt;br&gt;&lt;br&gt;恋人でもない男の誕生日をどう過ごすべきか？&lt;br&gt;和華はついにある決断を下す！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月11日(水) 夜7時～　#1&lt;br&gt;3月12日(木) 夜7時～　#2&lt;br&gt;3月13日(金) 夜7時～　#3&lt;br&gt;3月14日(土) 夜7時～　#4&lt;br&gt;3月15日(日) 夜7時～　#5&lt;br&gt;3月16日(月) 夜7時～　#6&lt;br&gt;3月17日(火) 夜7時～　#7&lt;br&gt;3月18日(水) 夜7時～　#8&lt;br&gt;3月19日(木) 夜7時～　#9&lt;br&gt;3月20日(金) 夜7時～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epngfkaj8y"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppaz2rco0</id>
     <title>Ｄ＆Ｄ 〜医者と刑事の捜査線〜_[第4話 青色の死体と青色の怨念▼3年前の事件から始まる医療界の闇を暴く!!]</title>
@@ -2648,205 +2768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep8dhzvw1n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep85hqge62</id>
-    <title>ドクターX～外科医・大門未知子～ （2013）_[ope.2]</title>
-    <updated>2026-03-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2013）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep85hqge62.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12（木）～ #1-#3&#13;&lt;br&gt;3/16（月）～ #4-#6&#13;&lt;br&gt;4/15（水）～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;蛭間外科統括部長（西田敏行）が今年1月に執刀したばかりの患者・二宮欽也（寺田農）に、再発のガンが見つかった！不動産王の二宮は、帝都医科大学付属病院での蛭間ブランドを支える強力なスポンサー。金のかかる主任教授選を間近に控え、手術ミスの可能性がある再発を認めるわけにいかない蛭間は、新たな初期のガンが発現したと二宮に嘘の告知をする。海老名教授（遠藤憲一）をはじめとする、第二外科の取り巻きたちは、身を投げ打って蛭間の工作に全面協力することに…。&#13;&lt;br&gt;しかし、術前検査の結果、外科的アプローチが困難な転移ガンが発見され、蛭間たちはより厳しい状況に立たされてしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep85hqge62"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep742ve7hj</id>
-    <title>ブスの瞳に恋してる2019 The Voice_[第3話 私でいいんですか？]</title>
-    <updated>2026-03-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srukfv7pj4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ブスの瞳に恋してる2019 The Voice
-                &lt;a href="https://tver.jp/series/srukfv7pj4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月02日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep742ve7hj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月12日(木) ～ 04月02日(木)&lt;br&gt;#4：03月15日(日) ～ 03月21日(土)&lt;br&gt;#5：03月18日(水) ～ 03月24日(火)&lt;br&gt;#6：03月21日(土) ～ 03月27日(金)&lt;br&gt;#7：03月24日(火) ～ 03月30日(月)&lt;br&gt;#8：03月27日(金) ～ 04月02日(木)&lt;br&gt;&lt;br&gt;美幸に本気でプロポーズした理は、実家のお父さんに挨拶に行かせて欲しいと突然の実家訪問。父への挨拶まで済ませたが、まだ理と結婚することが信じられない美幸。「夢ならもっと早く冷めて欲しかった」と泣く美幸に理は――その頃、二人の幸せを壊そうとするやつらも現れ・・・&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ブスの瞳に恋してる2019 The Voice』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep742ve7hj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep71r167e3</id>
-    <title>ドクターX～外科医・大門未知子～ （2017）_[ope.2]</title>
-    <updated>2026-03-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2017）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep71r167e3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12(木)～ #1-#3&#13;&lt;br&gt;3/17(火)～ #4-#6&#13;&lt;br&gt;4/16(木)～ #7-#10&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;失脚の憂き目に遭っていた蛭間重勝（西田敏行）が「東帝大学病院」の院長に返り咲き、“白い巨塔”はふたたび金と欲にまみれた組織へと逆戻りし始める。だが、西山直之（永山絢斗）や伊東亮治（野村周平）ら、ゆとり世代の若手医師たちは組織のことなど我関せず…。堂々と院長回診をすっぽかすなど、我が道を貫く。&#13;&lt;br&gt;そんな折、大門未知子（米倉涼子）は院内で、みぞおちを押さえて意識を失いかけている女性と遭遇。その女性はなんと伊東の母・不二子（中田喜子）だった！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep71r167e3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6ewgjzm2</id>
-    <title>ドクターX～外科医・大門未知子～ （2012）_[OPE.2]</title>
-    <updated>2026-03-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2012）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ewgjzm2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12(木)～ #1-#3&#13;&lt;br&gt;3/16(月)～ #4-#6&#13;&lt;br&gt;4/15(水)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;政治家の紹介で、有名出版社の社長・二階堂（半海一晃）が入院してくる。芸能界や政界に顔が利き、社会的影響力の強い二階堂の入院を、新院長に就任したばかりの毒島（伊東四朗）や事務長の金子（室井滋）らはVIP待遇で迎えるが、順番も守らず、傍若無人な二階堂の態度に、フリー外科医の未知子（米倉涼子）は不満を隠せない。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6ewgjzm2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6e0bbtuh</id>
-    <title>ドクターX～外科医・大門未知子～ （2012）_[OPE.1]</title>
-    <updated>2026-03-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2012）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月12日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6e0bbtuh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12(木)～ #1-#3&#13;&lt;br&gt;3/16(月)～ #4-#6&#13;&lt;br&gt;4/15(水)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;医師とは思えぬ出で立ちの大門未知子（米倉涼子）が紹介状を持って大学病院にやってくる。未知子はフリーランスの外科医。勤務環境の過酷さから複数の医師が一斉に退職し、補充要員として医師紹介所からやってきた。&#13;&lt;br&gt;未知子を見た新人外科医の森本（田中圭）は、驚きを隠せずにいた。前日の夜、居合わせたクラブで倒れた急患の処置をしていたのが、他でもない未知子だったのだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6e0bbtuh"/>
   </entry>
 </feed>
