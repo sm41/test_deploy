@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-13T06:42:55+09:00</updated>
+  <updated>2026-03-13T10:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epf3krae5j</id>
+    <title>王になった男_[第1話]</title>
+    <updated>2026-03-13T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 王になった男
+                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月13日(金)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月20日(金)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月13日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf3krae5j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                王の死により朝鮮の新王に即位したイ･ホンは、暗殺を恐れ眠れぬ夜を過ごしていた。そして恐怖に怯え、先王に縁のある者を次々と処刑していった。一方、王様を笑いの種にした出し物を演じる道化のハソンが、漢陽へとやってきた。だが都である漢陽では、王ではなく、王妃と側室の宣化堂を笑いの種にするのが流行していた。恐怖政治により絶対的地位を築いたホンだったが、いまだ暗殺に怯え、側近の都承旨イ･ギュに自らを守るための策を講じろと命じるのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf3krae5j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprpolvkc3</id>
     <title>シリウス_[Ep3]</title>
