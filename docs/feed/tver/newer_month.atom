@@ -2,11 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-13T20:06:01+09:00</updated>
+  <updated>2026-03-13T22:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eple3qp22z</id>
+    <title>副会長の主なお仕事_[副会長に死角なし]</title>
+    <updated>2026-03-13T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月13日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月13日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eple3qp22z.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                クラスメイトに髪をアレンジされ、いつもと違う雰囲気で現れた灰屋。その瞬間、栗下は“撮影モード”に入り、あらゆる角度から会長を狙い撃ちに。ヘアアレンジを口実に近づく距離はますますゼロに近づき、そこへ書記・田垣が絶妙すぎるタイミングで入室し、説明不能な空気が生徒会室に漂う。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eple3qp22z"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epy64vsogl</id>
+    <title>元科捜研の主婦_[最終話「奇跡の再鑑定…涙の真実」]</title>
+    <updated>2026-03-13T21:54:01+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr53qbc9gs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 元科捜研の主婦
+                &lt;a href="https://tver.jp/series/sr53qbc9gs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月13日(金)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月20日(金)_21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月13日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy64vsogl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                科捜研所長の小沢（遠藤憲一）が7年前の真実を語る!?修一（戸次重幸）は殺された…という詩織（松本まりか）と道彦（横山裕）に小沢は“敵が内部にいる”と語るのだった――。徐々に繋がり出す二つの事件。液体窒素を使った衝撃トリック!?消されたDNA鑑定書と隠された真実…警察を揺るがす深い闇が!?兄の無念を晴らすため、科学の力と家族の絆で真実を炙り出す！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epy64vsogl"/>
+  </entry>
 </feed>
