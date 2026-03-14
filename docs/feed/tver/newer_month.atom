@@ -2,51 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-14T16:06:31+09:00</updated>
+  <updated>2026-03-14T18:05:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://tver.jp/episodes/eprzl93gfw</id>
-    <title>不倫禁止_[特別編 ～不倫を憎む集団の正体～]</title>
-    <updated>2026-03-14T02:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2ly5g7b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 不倫禁止
-                &lt;a href="https://tver.jp/series/srf2ly5g7b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月14日(土)_02時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月13日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprzl93gfw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                TVerで配信中のドラマ「不倫禁止」。『放送禁止』の長江俊和とチャンネル登録者100万人超の人気YouTuber「だいにぐるーぷ」がコラボしておくる本作の魅力とは。出演者のインタビューなども交え、その舞台裏を深掘りします。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eprzl93gfw"/>
-  </entry>
 </feed>
