@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-15T20:05:32+09:00</updated>
+  <updated>2026-03-15T22:06:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6c75k9o8</id>
+    <title>リブート_[第８話 真実]</title>
+    <updated>2026-03-15T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リブート
+                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月15日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6c75k9o8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;最愛の妻の死の全真相が明かされる！&lt;br&gt;早瀬（鈴木亮平）と冬橋（永瀬廉）は、一香（戸田恵梨香）の行方を追っていた。位置情報をもとに自宅を突き止め、ついに一香を追い詰めるものの、あと一歩のところで逃走を許してしまう。&lt;br&gt;執念に火がついた冬橋は、霧矢（藤澤涼架）や“しぇるたー”の仲間たちを総動員し、独自の包囲網を張る。早瀬もまた、別の角度から一香を探るべくハヤセ洋菓子店を訪れ、さらに綾香（与田祐希）のもとへ。&lt;br&gt;早瀬が綾香を訪ねていたその時、一香から連絡が入り、彼女のある決意を聞いてしまう。そんな早瀬が独自に動き続ける様子に、冬橋は強い違和感を抱く。目的は妻・夏海（山口紗弥加）を、そしてマチ（上野鈴華）を殺害に及ばせた一香への復讐のはず。すれ違いは決定的となり、２人はついに仲間割れしてしまう。&lt;br&gt;孤立した早瀬は、自らの調べでついに一香の居場所を突き止める。対峙した早瀬と一香だが、衝撃的な出来事が起こる。&lt;br&gt;その裏で、合六（北村有起哉）は静かに次の一手を打っていた。海江田（酒向芳）を使い、取り返した１００億円相当の商品に、ある企みを仕掛ける。そして、合六が電話をかけた相手は、一香。彼の狙いとは何か。&lt;br&gt;真実と陰謀が交錯する中、それぞれの思惑が新たな局面へと動き出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6c75k9o8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epc9rwyvvg</id>
     <title>孤独のグルメ Season1_[第5話 杉並区永福の親子丼と焼うどん]</title>
