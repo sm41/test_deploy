@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-16T20:06:38+09:00</updated>
+  <updated>2026-03-16T22:06:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eple585dvp</id>
+    <title>ヤンドク！_[第10話 患者の死の真相が明らかに！恩師との絆…]</title>
+    <updated>2026-03-16T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ヤンドク！
+                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eple585dvp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大河原（大塚寧々）は中田（向井理）に、湖音波（橋本環奈）が岐阜の病院から中田宛てに書いた亜里沙（湯山新菜）の紹介状を突きつける。当時、湖音波は「早急な加療目的にてご紹介申し上げます」と記載していたが、目の前の紹介状には「経過観察目的にてご紹介いたします」と文面が書き換わっていた。文書の偽造を疑う大河原に、中田は「その通りです。私が彼女を殺しました」と吐露。するとそこへ湖音波が現れ、「どういうことっすか！」と中田を問い詰める。大河原は鷹山（大谷亮平）が強引な改革を始めた当時、「一緒に戦います」と言ってくれた中田を今も信じている、と静かに訴える。それを聞いた中田は重い口を開き…。&lt;br&gt;湖音波がスタッフルームに戻ると、大友（音尾琢真）が見るからに落ち込んでいた。交際していた麗奈（内田理央）に「僕があなたを守ります！」とプロポーズしたところ、麗奈は激怒しプロポーズを拒否したという。その夜、颯良（宮世琉弥）やソン（許豊凡）が、話を聞いてほしそうな大友に付き合って院内で飲み会をしていると、そこへ潮五郎（吉田鋼太郎）が焼酎片手にやってくる。一方、湖音波は麗奈に大友からのプロポーズを断った理由を尋ねていた。&lt;br&gt;そんな中、中田は鷹山に呼び出される。厚労大臣・海原幸生（井上肇）の脳に動脈瘤が見つかり、その手術を担当してほしいというのだ。中田は執刀医として湖音波を推薦するが、海原は中田に執刀してほしいと依頼する。しぶしぶ引き受ける中田は、湖音波をオペの助手として指名するが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eple585dvp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzkorrste</id>
     <title>孤独のグルメ Season10_[第7話 東京都渋谷区笹塚のふうちゃんぷるととまとカレーつけそば]</title>
@@ -328,45 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epwbntfixx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa2zb8pma</id>
-    <title>仮面の忍者 赤影_[第十八話 秀吉の決断]</title>
-    <updated>2026-03-16T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 仮面の忍者 赤影
-                &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_00時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa2zb8pma.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                炎上し、灰と化した本能寺。織田信長（EXILE TAKAHIRO）の身を案じ、駆けつけた赤影（佐藤大樹）、青影（木村慧人）、二代目白影（笠原秀幸）だったが、幻妖斎（忍成修吾）率いる《霞谷七人衆》の最後の刺客・夢堂典膳（山口祥行）によって連れ去られていて――。夢堂典膳は赤影たちに「天王山でお待ち申す」と告げ、姿を消すのだった。&#13;&lt;br&gt;一方、毛利攻め真っ只中の羽柴秀吉（柄本時生）は、小姓の石田三成（中尾暢樹）に対し「お館様と離れている間にお気に入り筆頭が自分から赤影に移るのでは…」と心配の声を漏らす。三成は、これまでに仕入れた赤影の情報を秀吉に聞かせる。やがて伝令から《本能寺の変》が起こったことを知った秀吉は、毛利攻めを中止し京へと引き返すことを決意。同時に、かつて白影（加藤諒）から言われた「お館様の身に万が一があれば、秀吉様が代わりの魔王となるのです」との言葉を思い出して――!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa2zb8pma"/>
   </entry>
 </feed>
