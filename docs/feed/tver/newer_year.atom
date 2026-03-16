@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-16T14:05:38+09:00</updated>
+  <updated>2026-03-16T16:05:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epn4m8ic36</id>
+    <title>ライオンの隠れ家_[第４話 誕生日は幸せな日]</title>
+    <updated>2026-03-16T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp6e5qh3b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ライオンの隠れ家
+                &lt;a href="https://tver.jp/series/srp6e5qh3b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_14時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn4m8ic36.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：平井まさあき 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：宮﨑優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)15:00～&lt;br&gt;#3-5：3月16日(月)15:00～3月24日(火)14:59&lt;br&gt;#6-8：3月24日(火)15:00～3月31日(火)14:59&lt;br&gt;#9-11：3月31日(火)15:00～&lt;br&gt;------------&lt;br&gt;山梨県で女性の遺体が発見された。行方不明となっている橘愛生（尾野真千子）の可能性があるというニュースを見てしまったライオン（佐藤大空）は、ショックから高熱を出してしまう。取り急ぎ小児科に連れて行くことになった洸人（柳楽優弥）は、問診票を前にライオンの年齢など何も知らないことに改めて気づかされる。仕事を休み、慣れない子どもの看病に四苦八苦する洸人。その日の夜、洸人と美路人（坂東龍汰）はふとしたことからライオンが最近誕生日を迎えていたことを知る。２人はライオンのために内緒で、牧村美央（齋藤飛鳥）や吉見寅吉（でんでん）、貞本洋太（岡崎体育）も呼んでライオンの誕生日会を企画する。一方、山梨の事件を追っていた記者の楓（桜井ユキ）は、刑事の高田快児（柿澤勇人）に近づき捜査の進捗を探っていた。そこである新事実が明らかになるーー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn4m8ic36"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3uvplild</id>
+    <title>ライオンの隠れ家_[第３話 動物園へGO！この子の親は？]</title>
+    <updated>2026-03-16T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp6e5qh3b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ライオンの隠れ家
+                &lt;a href="https://tver.jp/series/srp6e5qh3b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_14時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3uvplild.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：平井まさあき 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：宮﨑優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)15:00～&lt;br&gt;#3-5：3月16日(月)15:00～3月24日(火)14:59&lt;br&gt;#6-8：3月24日(火)15:00～3月31日(火)14:59&lt;br&gt;#9-11：3月31日(火)15:00～&lt;br&gt;------------&lt;br&gt;山梨県で起きた母子行方不明事件。河川敷で見つかった血のついた衣類は橘愛生のDNA型と一致し、彼女のものだと判明した。橘愛生は洸人（柳楽優弥）たちの姉で、行方不明の息子・愁人とライオン（佐藤大空）は同一人物なのか……。洸人は事件に関するニュースを検索していた。そこで愛生の夫・祥吾（向井理）が特定されていることを知り、たちばな都市建設の社員であるとわかる。洸人はその手掛かりをもとに祥吾がライオンの父親だと確信し、会いに行くことを決める。その頃「週刊真相」の記者・工藤楓（桜井ユキ）と天音悠真（尾崎匠海）も、同じ情報にたどり着き祥吾を追っていた。一方、美路人（坂東龍汰）の描いた画が飾られる「あさがお動物園」に行くことになった洸人と美路人とライオン。３人で動物を見て楽しく過ごした後、作品展の会場に行くと、ライブペイントのイベントを担当する美路人のデザイン事務所の同僚である小野寺（森優作）がアクシデントに見舞われていた…。そんな姿を見た美路人は、まさかの行動に――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3uvplild"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3he23mso</id>
+    <title>ライオンの隠れ家_[第５話 母親に会いに行くーー]</title>
+    <updated>2026-03-16T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp6e5qh3b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ライオンの隠れ家
+                &lt;a href="https://tver.jp/series/srp6e5qh3b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_14時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3he23mso.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：平井まさあき 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：宮﨑優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)15:00～&lt;br&gt;#3-5：3月16日(月)15:00～3月24日(火)14:59&lt;br&gt;#6-8：3月24日(火)15:00～3月31日(火)14:59&lt;br&gt;#9-11：3月31日(火)15:00～&lt;br&gt;------------&lt;br&gt;天音（尾崎匠海）が新宿のキャバクラで働いている愛生（尾野真千子）の隠し撮りに成功した。報告を受けた楓（桜井ユキ）は愛生が生きていると独占記事を掲載。愛生の生存がバレたと知ったX（岡山天音）は、愛生に今いる場所からすぐに逃げるよう指示をする。翌朝、愛生の事情を知りたい洸人（柳楽優弥）は楓に連絡を取る。山梨県警の高田（柿澤勇人）も記事を頼りに新宿のキャバクラを訪ね、愛生を追うことに。そんな中、東京の出版社から美路人（坂東龍汰）に絵の仕事が舞い込み、美路人は船木真魚（平井まさあき）と１泊で東京出張へ。洸人、ライオン（佐藤大空）と２人で過ごす夜、突如ライオンから渡されたスマホに愛生から「会いたい」とメッセージが届く。洸人は愛生の事情が分からない状況でライオンと会わせるべきか迷うが、母親に会いたがっているライオンの様子を見て、美路人とライオンと３人で指定された場所まで会いに行くことを決意するーー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3he23mso"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnfgbxvj5</id>
     <title>若奥さまは腕まくり!_[第７回 お見合い大作戦]</title>
@@ -1484,7 +1604,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                いつも通り定時に医局を出た未知子（米倉涼子）は、病院内の廊下で一人の少女・五木田早紀（二宮星）に、「お金いっぱいもらって手術してる人でしょ？」と呼び止められる。早紀は激しい足の痛みを訴え、未知子に手術を懇願。担当が違う上に子どもが得意ではない未知子だったが、泣き叫ぶ早紀を放ってはおけず、通りかかった森本（田中圭）と共に、小児外科の主治医・岸田卓也（福士誠治）のところに送り届ける。
+                3/12(木)～ #1-#3&#13;&lt;br&gt;3/16(月)～ #4-#6&#13;&lt;br&gt;4/15(水)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;いつも通り定時に医局を出た未知子（米倉涼子）は、病院内の廊下で一人の少女・五木田早紀（二宮星）に、「お金いっぱいもらって手術してる人でしょ？」と呼び止められる。早紀は激しい足の痛みを訴え、未知子に手術を懇願。担当が違う上に子どもが得意ではない未知子だったが、泣き叫ぶ早紀を放ってはおけず、通りかかった森本（田中圭）と共に、小児外科の主治医・岸田卓也（福士誠治）のところに送り届ける。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvxjqfom1"/>
@@ -2608,205 +2728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epec8z6tjk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epduy417hn</id>
-    <title>魔法のリノベ_[#1 凸凹バディが誕生！築60年の家をリノベしたい夫婦の本音]</title>
-    <updated>2026-03-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8v8nn469.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 魔法のリノベ
-                &lt;a href="https://tver.jp/series/sr8v8nn469" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epduy417hn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                福山玄之介（間宮祥太朗）は、バツ2で7歳の息子を育てるシングルファザー。脱サラして家業の『まるふく工務店』で営業職として働くも、人の良さからくる押しの弱さでいまだ成約ゼロ。父で社長の蔵之介（遠藤憲一）や、設計士の弟・竜之介（吉野北人）から、営業マンとしての将来を不安視されている。&lt;br&gt;そんなある日、大手リフォーム会社の営業エースとして活躍していた真行寺小梅（波瑠）が助っ人として転職してくる。&lt;br&gt;小梅が玄之介の教育係を兼ねる形でコンビを組むことになった2人は、早速、リノベーションの見積もり依頼があった家へ。玄之介は、家主がリノベーションに意欲的なことから早くも成約への手応えを感じるが、一方の小梅は営業マンとしての玄之介を0点と酷評する･･･。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epduy417hn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epds6k95d9</id>
-    <title>お迎え渋谷くん_[#7 遠距離、すれ違う２人の心に隙…!?]</title>
-    <updated>2026-03-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2pfr2ybp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ お迎え渋谷くん
-                &lt;a href="https://tver.jp/series/sr2pfr2ybp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epds6k95d9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                愛花（田辺桃子）には、自分よりも大崎（宮近海斗）の方がお似合いだと悟った渋谷くん（京本大我）は、愛花から距離を置くことを決意。一方で、俳優としてのチャンスをつかむべく、しばらく京都に滞在することに。神田（内藤秀一郎）から、そのことを教えられた愛花は渋谷くんへの思いに気づき後を追うが、間に合わない。&lt;br&gt;京都で世界的に活躍する監督のもとでワークショップに参加した渋谷くんだったが、脳裏をよぎるのは愛花のことばかり。演技に集中できず、相手役の水沢千夏（玉井詩織）にその気持ちを見透かされてしまう。すると、そんな後輩にかつての自分の姿を重ねた神田が、ある話をぽつりぽつりと話し始める。&lt;br&gt;その頃、愛花もまた、渋谷くんのいない日々に心ここにあらず。心配した大崎は胸の内に秘めていた気持ちを抑えきれなくなり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epds6k95d9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd0ro5smv</id>
-    <title>ドクターX～外科医・大門未知子～ （2013）_[ope.4]</title>
-    <updated>2026-03-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2013）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd0ro5smv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12（木）～ #1-#3&#13;&lt;br&gt;3/16（月）～ #4-#6&#13;&lt;br&gt;4/15（水）～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;銀座の人気クラブ『中園』のママ・四条留美子（釈由美子）が、外科統括部長の蛭間（西田敏行）を訪ねて帝都医大にやってくる。政財界は言うに及ばず、芸能界、スポーツ界、そして医学会にも太いパイプを持つ留美子は、銀座の女帝として蛭間の出世にも一枚噛んでいるらしい。&#13;&lt;br&gt;そんな留美子にすい臓の進行ガンが見つかる。蛭間に所見を聞かれた海老名教授（遠藤憲一）は、手術は難しいと判断。蛭間も化学療法の選択を勧めるが、留美子はそれを拒否。手術をしてくれなければ、蛭間の黒い秘密をすべて世間にバラすと、持参した黒革の手帖を突きつけて…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd0ro5smv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcxw552w4</id>
-    <title>お迎え渋谷くん_[#8 芸能人と保育士の恋は難しい…!?]</title>
-    <updated>2026-03-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2pfr2ybp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ お迎え渋谷くん
-                &lt;a href="https://tver.jp/series/sr2pfr2ybp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcxw552w4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                もう一度、愛花（田辺桃子）との恋に向き合うことを決め、素直な思いを伝えた渋谷くん（京本大我）。しかしその矢先、千夏（玉井詩織）と親しげにしている写真がSNSで拡散されてしまう。響子（長谷川京子）の言葉で、愛花に誤解を与えてしまったことに初めて気付いた渋谷くんは、ショックのあまりその場に崩れ落ちる。&lt;br&gt;その頃、SNSの写真を見た愛花は、渋谷くんの告白を真に受け、浮かれていた自分を恥じていた。相手は人気俳優で、住む世界が違う人だと自らに言い聞かせる愛花。それでも、遥（乙葉）から渋谷くんが愛花と出会って少しずつ変わってきたと聞き、渋谷くんに会いたい気持ちが募って…。&lt;br&gt;京都では、どうやって愛花の誤解を解いたらいいのか思い悩む渋谷くん。そんな渋谷くんの姿を見た神田（内藤秀一郎）は、あることを決意する―！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcxw552w4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbl79inye</id>
-    <title>魔法のリノベ_[#2 寝室で一緒に寝たくない仲良し夫婦の家]</title>
-    <updated>2026-03-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8v8nn469.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 魔法のリノベ
-                &lt;a href="https://tver.jp/series/sr8v8nn469" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbl79inye.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                小梅（波瑠）と玄之介（間宮祥太朗）は互いに傷をさらけ出したことで、『まるふく工務店』新・営業コンビは一気に距離を縮める。&lt;br&gt;小梅は玄之介を一人前の営業に育てあげるべく、寝室のリノベーションを考えている河内夫妻との打ち合わせで、自分が手本を見せると意気込む。ところが、競合相手は小梅の古巣であるグローバルステラDホーム。担当はこともあろうに元カレの久保寺（金子大地）で、小梅は心をかき乱される。&lt;br&gt;子供がいない河内夫妻は、寝室を広くしてくつろげるプライベート空間にしたいと両社に相談。しかし、その理由を尋ねると途端に歯切れが悪くなる。帰り際、小梅は近所の喫茶店で作戦会議をしようと玄之介に告げる。すると、喫茶店にある人物がやって来て2人は思わぬ告白を聞くことになり!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbl79inye"/>
   </entry>
 </feed>
