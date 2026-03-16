@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-16T11:25:49+09:00</updated>
+  <updated>2026-03-16T12:05:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epddriis9u</id>
+    <title>笑うハナに恋きたる_[第12話 真実はウソの裏にあり]</title>
+    <updated>2026-03-16T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 笑うハナに恋きたる
+                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epddriis9u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ジェイとタムのやり取りを見て、ジェイからの信頼感を失ったと思ったハナは、自ら罪を認めてジェイを突き放す。親友と彼女に裏切られたと思い込み、絶望したジェイは、事故を起こした上、相手を殴ってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epddriis9u"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3zps8u51</id>
+    <title>流星花園II～花より男子～_[第14話　素直になれなくて]</title>
+    <updated>2026-03-16T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 流星花園II～花より男子～
+                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月16日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3zps8u51.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                美作あきらは母の命令で見合い相手・シノとのデートに応じるが、気が進まない。一方、エルサ設計の移動販売車が完成し、司とエルサはカフェの仲間とドライブへ。道中、偶然青池和也を見かけた司は無意識に和也の名を口にする。司の記憶が戻ったと思った和也は、すぐにつくしに連絡するが、司が思い出していたのは和也のことだけだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3zps8u51"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsohfa7jk</id>
     <title>王になった男_[第2話]</title>
@@ -248,205 +328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epa2zb8pma"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbomaxoiy</id>
-    <title>パンチドランク・ウーマン −脱獄まであと××日−_[#8 一緒に逃げたい…悪女の嘘と本音]</title>
-    <updated>2026-03-15T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6mknxzp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パンチドランク・ウーマン −脱獄まであと××日−
-                &lt;a href="https://tver.jp/series/srf6mknxzp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月15日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbomaxoiy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「私があなたを逃がしてあげる」――。氷川拘置所の刑務官・冬木こずえ(篠原涼子)は、無実の罪を着せられた収容者・日下怜治(ジェシー)を塀の外に逃がすため、悪女に変貌!敵対する所長代理・小柳太介(宇梶剛士)を失墜させ、所長の権限を奪おうとするが…!そんなこずえの変化に、捜査一課刑事・佐伯雄介(藤木直人)が気付き始め…。覚悟を決めたこずえの脱獄計画とは!?厳格に生きてきた刑務官が、ついに一線を越える!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbomaxoiy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epavthowml</id>
-    <title>ヤンドク！_[環奈の時間～橋本環奈ホストでヤンドクキャストと謎トーク～#4ゲスト：高野（馬場徹）]</title>
-    <updated>2026-03-15T23:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンドク！
-                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月15日(日)_23時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epavthowml.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                元ヤンキーの主人公が、親友の事故死をきっかけに猛勉強を経て脳神経外科医となり、医療現場に新しい風を吹き込んでいく痛快医療エンターテインメント「ヤンドク！」。この番組は、そんなドラマ「ヤンドク！」の主演・橋本環奈がホストとしてお届けする一風変わったトーク番組。日曜夜に突如湾岸医療センターに出現するトークセット。そこにはなぜか、湖音波先生そっくりのスター・橋本環奈がホストとして座っている。そこにゲストとして呼ばれたのは、「ヤンドク！」に登場する看護師の高野ひかり（馬場徹）で…？！橋本環奈×高野のシュールなトークをお楽しみください。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epavthowml"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8oskz04h</id>
-    <title>50分間の恋人_[最終回 最後の50分]</title>
-    <updated>2026-03-15T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpbldzfq7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 50分間の恋人
-                &lt;a href="https://tver.jp/series/srpbldzfq7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月15日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8oskz04h.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                晴流（伊野尾慧）は、スランプ脱却のため海外に拠点を移すことを考え始める。菜帆（松本穂香）は離れる寂しさ以上に晴流の力になることができず、もどかしい気持ちでいた。そんな中、ダブルスターズ社に続き、敵対的買収の標的となったパイレーツ社では、晴流の同期でありライバルでもある氷川（田村健太郎）に引き抜きの噂が出回る。しかし氷川は「マーヴェリックがいるパイレーツ社を辞めるわけがない」「マーヴェリックは俺たちの最後の希望」と晴流への本音を吐露し、期待を込めて発破をかける。その言葉に勇気をもらった晴流は、徹夜で企画を構想。菜帆はそんな晴流に弁当の差し入れをし、さらにはキャラクターのラフ画を作成して、晴流をサポートする。一夜で壮大な企画を完成させた晴流により、パイレーツ社の株価は急上昇。志麻（木村多江）と恭平（高橋光臣）も手を結ぶことで合意する。その矢先、ある人物によって買収話は急展開！？さらに、３０回目の弁当を食べることなく晴流が姿を消してしまう…！ 
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8oskz04h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6c75k9o8</id>
-    <title>リブート_[第８話 真実]</title>
-    <updated>2026-03-15T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リブート
-                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月15日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月22日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6c75k9o8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;最愛の妻の死の全真相が明かされる！&lt;br&gt;早瀬（鈴木亮平）と冬橋（永瀬廉）は、一香（戸田恵梨香）の行方を追っていた。位置情報をもとに自宅を突き止め、ついに一香を追い詰めるものの、あと一歩のところで逃走を許してしまう。&lt;br&gt;執念に火がついた冬橋は、霧矢（藤澤涼架）や“しぇるたー”の仲間たちを総動員し、独自の包囲網を張る。早瀬もまた、別の角度から一香を探るべくハヤセ洋菓子店を訪れ、さらに綾香（与田祐希）のもとへ。&lt;br&gt;早瀬が綾香を訪ねていたその時、一香から連絡が入り、彼女のある決意を聞いてしまう。そんな早瀬が独自に動き続ける様子に、冬橋は強い違和感を抱く。目的は妻・夏海（山口紗弥加）を、そしてマチ（上野鈴華）を殺害に及ばせた一香への復讐のはず。すれ違いは決定的となり、２人はついに仲間割れしてしまう。&lt;br&gt;孤立した早瀬は、自らの調べでついに一香の居場所を突き止める。対峙した早瀬と一香だが、衝撃的な出来事が起こる。&lt;br&gt;その裏で、合六（北村有起哉）は静かに次の一手を打っていた。海江田（酒向芳）を使い、取り返した１００億円相当の商品に、ある企みを仕掛ける。そして、合六が電話をかけた相手は、一香。彼の狙いとは何か。&lt;br&gt;真実と陰謀が交錯する中、それぞれの思惑が新たな局面へと動き出す。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6c75k9o8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc9rwyvvg</id>
-    <title>孤独のグルメ Season1_[第5話 杉並区永福の親子丼と焼うどん]</title>
-    <updated>2026-03-15T18:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season1
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月15日(日)_18時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月29日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月15日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc9rwyvvg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                西永福の駅に降り立った五郎はいつになく浮かない顔。最近なんだかついていないことばかりなのだ。そんな時通った公園の中で釣り堀を見つけた五郎はふと入ってみる。するとそこには謎の男が釣りをしていた。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epc9rwyvvg"/>
   </entry>
 </feed>
