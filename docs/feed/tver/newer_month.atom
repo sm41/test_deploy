@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-17T00:06:38+09:00</updated>
+  <updated>2026-03-17T02:06:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkr4qcxim</id>
+    <title>TXQ FICTION / 神木隆之介_[神木隆之介(3)]</title>
+    <updated>2026-03-17T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ TXQ FICTION / 神木隆之介
+                &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月13日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月16日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkr4qcxim.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                2026年3月16日放送
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkr4qcxim"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epgy01refn</id>
     <title>キンパとおにぎり～恋するふたりは似ていてちがう～_[最終回 国境を超えた恋の結末は!?「アンニョンの先に」]</title>
