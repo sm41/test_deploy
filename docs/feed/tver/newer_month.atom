@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-17T18:05:54+09:00</updated>
+  <updated>2026-03-17T20:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep73u5pz9g</id>
+    <title>孤独のグルメ Season10_[第8話 富山県富山市のかに面おでんと海鮮とろろ丼]</title>
+    <updated>2026-03-17T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season10
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月17日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep73u5pz9g.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                立山連峰を望める富山県「富山市」。廻船問屋群が立ち並ぶ風情ある街並みの中、商談相手の大槻萌（渡邉美穂）のお店へ向かう五郎（松重豊）。大槻は五郎の30年来の友人である滝山（村田雄浩）の姪。富山でお店の開業が夢の大槻はお店のプランを熱心にプレゼン。滝山イズム全開のグイグイさに親近感が沸きつつ大槻の思いに五郎は感心。レトロな路面電車に乗り、車窓から見える景色を楽しんでいると腹が減り、降りてお店を探すことに。ブリにホタルイカ、ます寿司と富山名物を思い浮かべながら探すが、お目当てのお店は中々見つからない。そんな時、暖簾と提灯を発見する。そこには「刺身各種」「おでん」など、実によろしい文字が記載された看板が。富山の地魚や初めて聞く料理名の数々に興味津々の五郎。一人客にも優しい雰囲気に、一か月くらい富山に住みたくなった五郎が酔いしれた懐深い富山飯とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep73u5pz9g"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epgqhycmqc</id>
     <title>王になった男_[第3話]</title>
@@ -448,85 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epg0k3ahqm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9pwuxpon</id>
-    <title>夫に間違いありません_[#11 重ねた罪の先に下す衝撃の決断]</title>
-    <updated>2026-03-16T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srny5zdcay.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫に間違いありません
-                &lt;a href="https://tver.jp/series/srny5zdcay" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月16日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9pwuxpon.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                妊娠という想定外の事態に聖子（松下奈緒）が呆然としている頃、栄大（山﨑真斗）は近くに紗春（桜井ユキ）が潜んでいるとも知らず、一樹（安田顕）と対峙していた。久々の再会を喜べるはずもなく、栄大はその場から立ち去ろうとする父に声を荒らげ、家族のために自首を促すが…。&lt;br&gt;翌朝、聖子は自分のスマホがないことに気付く。実は、栄大が高台に落としてきたのだが、本当のことを言えない栄大は嘘をついてその場をやり過ごす。すると、店に聖子のスマホを持った紗春が現れる。険しい表情を見せる聖子に紗春は不敵な笑みを浮かべ、一樹と栄大の動画を見せ、さらに驚きの要求を突きつける。&lt;br&gt;同じ頃、天童（宮沢氷魚）も一樹が生きている証拠を手に入れていた。記事にすればスクープは必至だったが、天童の中にはある迷いが生じ始めていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9pwuxpon"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eple585dvp</id>
-    <title>ヤンドク！_[第10話 患者の死の真相が明らかに！恩師との絆…]</title>
-    <updated>2026-03-16T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンドク！
-                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月23日(月)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月16日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eple585dvp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                大河原（大塚寧々）は中田（向井理）に、湖音波（橋本環奈）が岐阜の病院から中田宛てに書いた亜里沙（湯山新菜）の紹介状を突きつける。当時、湖音波は「早急な加療目的にてご紹介申し上げます」と記載していたが、目の前の紹介状には「経過観察目的にてご紹介いたします」と文面が書き換わっていた。文書の偽造を疑う大河原に、中田は「その通りです。私が彼女を殺しました」と吐露。するとそこへ湖音波が現れ、「どういうことっすか！」と中田を問い詰める。大河原は鷹山（大谷亮平）が強引な改革を始めた当時、「一緒に戦います」と言ってくれた中田を今も信じている、と静かに訴える。それを聞いた中田は重い口を開き…。&lt;br&gt;湖音波がスタッフルームに戻ると、大友（音尾琢真）が見るからに落ち込んでいた。交際していた麗奈（内田理央）に「僕があなたを守ります！」とプロポーズしたところ、麗奈は激怒しプロポーズを拒否したという。その夜、颯良（宮世琉弥）やソン（許豊凡）が、話を聞いてほしそうな大友に付き合って院内で飲み会をしていると、そこへ潮五郎（吉田鋼太郎）が焼酎片手にやってくる。一方、湖音波は麗奈に大友からのプロポーズを断った理由を尋ねていた。&lt;br&gt;そんな中、中田は鷹山に呼び出される。厚労大臣・海原幸生（井上肇）の脳に動脈瘤が見つかり、その手術を担当してほしいというのだ。中田は執刀医として湖音波を推薦するが、海原は中田に執刀してほしいと依頼する。しぶしぶ引き受ける中田は、湖音波をオペの助手として指名するが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eple585dvp"/>
   </entry>
 </feed>
