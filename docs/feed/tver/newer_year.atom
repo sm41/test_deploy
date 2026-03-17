@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-17T12:05:55+09:00</updated>
+  <updated>2026-03-17T14:05:55+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ept4l54y8d</id>
+    <title>パパはニュースキャスター_[第９回 「湯けむり情話」]</title>
+    <updated>2026-03-17T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept4l54y8d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月2日(月)14:00～3月31日(火)23:59&lt;br&gt;#4：3月6日(金)14:00～3月13日(金)13:59&lt;br&gt;#5：3月8日(日)14:00～3月15日(日)13:59&lt;br&gt;#6：3月10日(火)14:00～3月17日(火)13:59&lt;br&gt;#7：3月13日(金)14:00～3月20日(金)13:59&lt;br&gt;#8：3月15日(日)14:00～3月22日(日)13:59&lt;br&gt;#9：3月17日(火)14:00～3月24日(火)13:59&lt;br&gt;#10：3月20日(金)14:00～3月27日(金)13:59&lt;br&gt;#11：3月22日(日)14:00～3月29日(日)13:59&lt;br&gt;#12：3月24日(火)14:00～3月31日(火)23:59&lt;br&gt;------------&lt;br&gt;愛たちがアルバイトを始めたと知り、竜太郎（田村正和）は十分に小遣いを渡しているだろうと言って怒る。そんなある日、竜太郎は仕事で湯河原温泉へやってきた。久しぶりの解放感を味わっていた時、突然、３人の愛が部屋に飛び込んでくる。隣の松本一家に連れてきてもらったのだという。その上、温泉番組の取材でみゆき（浅野温子）まで現れ、のんびり過ごせるはずの旅行はメチャクチャになってしまった。翌朝、竜太郎が目覚めると、すでに愛たちの姿はない。だが、枕元には彼女たちからのプレゼントが置かれていた。実は、この日は竜太郎の４１歳の誕生日。アルバイトの一件や温泉まで押しかけてきたことは、全て自分のためだったと知った竜太郎は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ept4l54y8d"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epgnv17dfo</id>
+    <title>青い鳥_[第七章 「終着駅」]</title>
+    <updated>2026-03-17T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgxlckmy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 青い鳥
+                &lt;a href="https://tver.jp/series/srxgxlckmy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1997年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgnv17dfo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月7日(土)14:00～&lt;br&gt;#4：3月7日(土)14:00～3月14日(土)13:59&lt;br&gt;#5：3月10日(火)14:00～3月17日(火)13:59&lt;br&gt;#6：3月14日(土)14:00～3月21日(土)13:59&lt;br&gt;#7：3月17日(火)14:00～3月24日(火)13:59&lt;br&gt;#8：3月21日(土)14:00～3月28日(土)13:59&lt;br&gt;#9：3月24日(火)14:00～3月31日(火)13:59&lt;br&gt;#10：3月28日(土)14:00～4月4日(土)13:59&lt;br&gt;#11：3月31日(火)14:00～&lt;br&gt;------------&lt;br&gt;追手が迫る中、理森（豊川悦司）たちは逃避行を再開する。八戸からフェリーに乗り、かほり（夏川結衣）が子供の頃に訪れたという北海道の湖のそばに身を潜める。そして湖畔にあるロッジの管理人の仕事を得て、誌織（鈴木杏）もなんとか小学校に入学できた。だがその直後、広務（佐野史郎）がロッジへ現れた。冷静に話し合おうとする理森に、広務は執拗に暴力をふるう。妻であるかほりすらも殴り飛ばすのを見た理森は、とうとう広務に反撃してしまうのだった。そんな中、かほりは１人断崖へと向かう。広務を振り切り、理森もまたかほりの元へ走るのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epgnv17dfo"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo9ueckq5</id>
     <title>ブラックスキャンダル_[#7 復讐最終章！ゲス社長が秘密にする衝撃事実]</title>
@@ -2608,125 +2688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep9wtdtwe9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvvmuwyr4</id>
-    <title>９ボーダー_[第４話 私どうなりたい？運命を左右する人生の岐路！]</title>
-    <updated>2026-03-16T17:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr300qdjh0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ９ボーダー
-                &lt;a href="https://tver.jp/series/sr300qdjh0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvvmuwyr4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：内田慈 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月13日(金)17:00～4月17日(金)21:59&lt;br&gt;#4：3月16日(月)17:00～3月24日(火)16:59&lt;br&gt;#5：3月20日(金)17:00～3月28日(土)16:59&lt;br&gt;#6：3月24日(火)17:00～4月1日(水)16:59&lt;br&gt;#7：3月28日(土)17:00～4月5日(日)16:59&lt;br&gt;#8：4月1日(水)17:00～4月9日(木)16:59&lt;br&gt;#9：4月5日(日)17:00～4月13日(月)16:59&lt;br&gt;#10：4月9日(木)17:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;会社を辞める宣言をした七苗（川口春奈）は、有給消化で気ままな生活を満喫中。不意のキス以来、コウタロウ（松下洸平）への自分の気持ちを確信し、前向きに２人の関係を考える七苗だったが、コウタロウには何か思うところがあるようで…。一方、八海（畑芽育）は七苗とコウタロウのキスを偶然目撃してショックを受ける陽太（木戸大聖）を前に、より一層切なさを募らせていた。ようやく邦夫（山中聡）との離婚届に判を押した六月（木南晴夏）は、最後に邦夫と話したいと思うも、その最後の一歩をなかなか踏み出せずにいて…。その様子を見守ることしかできずに悩む松嶋（井之脇海）。そんな中、失踪中の大庭家の父・五郎から１枚のハガキが届く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvvmuwyr4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epn4m8ic36</id>
-    <title>ライオンの隠れ家_[第４話 誕生日は幸せな日]</title>
-    <updated>2026-03-16T15:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp6e5qh3b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ライオンの隠れ家
-                &lt;a href="https://tver.jp/series/srp6e5qh3b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_15時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_14時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn4m8ic36.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：平井まさあき 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：宮﨑優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)15:00～&lt;br&gt;#3-5：3月16日(月)15:00～3月24日(火)14:59&lt;br&gt;#6-8：3月24日(火)15:00～3月31日(火)14:59&lt;br&gt;#9-11：3月31日(火)15:00～&lt;br&gt;------------&lt;br&gt;山梨県で女性の遺体が発見された。行方不明となっている橘愛生（尾野真千子）の可能性があるというニュースを見てしまったライオン（佐藤大空）は、ショックから高熱を出してしまう。取り急ぎ小児科に連れて行くことになった洸人（柳楽優弥）は、問診票を前にライオンの年齢など何も知らないことに改めて気づかされる。仕事を休み、慣れない子どもの看病に四苦八苦する洸人。その日の夜、洸人と美路人（坂東龍汰）はふとしたことからライオンが最近誕生日を迎えていたことを知る。２人はライオンのために内緒で、牧村美央（齋藤飛鳥）や吉見寅吉（でんでん）、貞本洋太（岡崎体育）も呼んでライオンの誕生日会を企画する。一方、山梨の事件を追っていた記者の楓（桜井ユキ）は、刑事の高田快児（柿澤勇人）に近づき捜査の進捗を探っていた。そこである新事実が明らかになるーー。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epn4m8ic36"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3uvplild</id>
-    <title>ライオンの隠れ家_[第３話 動物園へGO！この子の親は？]</title>
-    <updated>2026-03-16T15:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp6e5qh3b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ライオンの隠れ家
-                &lt;a href="https://tver.jp/series/srp6e5qh3b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月16日(月)_15時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_14時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3uvplild.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：平井まさあき 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：宮﨑優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)15:00～&lt;br&gt;#3-5：3月16日(月)15:00～3月24日(火)14:59&lt;br&gt;#6-8：3月24日(火)15:00～3月31日(火)14:59&lt;br&gt;#9-11：3月31日(火)15:00～&lt;br&gt;------------&lt;br&gt;山梨県で起きた母子行方不明事件。河川敷で見つかった血のついた衣類は橘愛生のDNA型と一致し、彼女のものだと判明した。橘愛生は洸人（柳楽優弥）たちの姉で、行方不明の息子・愁人とライオン（佐藤大空）は同一人物なのか……。洸人は事件に関するニュースを検索していた。そこで愛生の夫・祥吾（向井理）が特定されていることを知り、たちばな都市建設の社員であるとわかる。洸人はその手掛かりをもとに祥吾がライオンの父親だと確信し、会いに行くことを決める。その頃「週刊真相」の記者・工藤楓（桜井ユキ）と天音悠真（尾崎匠海）も、同じ情報にたどり着き祥吾を追っていた。一方、美路人（坂東龍汰）の描いた画が飾られる「あさがお動物園」に行くことになった洸人と美路人とライオン。３人で動物を見て楽しく過ごした後、作品展の会場に行くと、ライブペイントのイベントを担当する美路人のデザイン事務所の同僚である小野寺（森優作）がアクシデントに見舞われていた…。そんな姿を見た美路人は、まさかの行動に――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3uvplild"/>
   </entry>
 </feed>
