@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-18T10:06:43+09:00</updated>
+  <updated>2026-03-18T19:08:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3ik2g9ew</id>
+    <title>孤独のグルメ Season10_[第9話 東京都荒川区日暮里の酢豚とチャムチャ麺]</title>
+    <updated>2026-03-18T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season10
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月18日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ik2g9ew.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                荒川区「日暮里」。「布の街、布の道」と書かれた旗を横目に通りを歩く五郎（松重豊）。立ち並ぶ繊維問屋街を進み、今回の商談相手である増田の元へ。依頼品である"ネクタイピン"を見せると、イメージにぴったりと喜ぶ増田。そして、自身が担当する映画の主演役者と五郎の背丈が似ているとのことで、衣装合わせの代役も五郎にお願いすることに。最初は困惑したが、誉め言葉の連発でどこかまんざらでもない様子だったが…。慣れないことをした五郎は腹が減り、お店探しへ。腹にジャジャーン！と響くお店を目当てに探し歩いていると、「韓国式中華料理」の看板を発見する。堂々たる文字で書かれたお店の名前とメニューの写真。まさに求めていたお店と言わんばかりに大きく頷き、入店する。メニューの多さに難航した五郎が注文した大満足の料理とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3ik2g9ew"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppe6jpo6w</id>
     <title>王になった男_[第4話]</title>
@@ -248,165 +288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2gah4nkp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep55z44jgh</id>
-    <title>未来のムスコ_[第９話 最終章！時を越えめぐり逢った親子の別れのとき]</title>
-    <updated>2026-03-17T22:57:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvbtifk5i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未来のムスコ
-                &lt;a href="https://tver.jp/series/srvbtifk5i" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_22時57分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep55z44jgh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3月24日いよいよ最終回】お気に入り登録で見逃さない！&lt;br&gt;未来に思いを伝えようと決意した優太。辿り着く答えとは……！？&lt;br&gt;そして颯太は、無事に未来へ帰ることができるのか。&lt;br&gt;&lt;br&gt;未来（志田未来）は、颯太（天野優）が未来に帰る予定の日まであと１０日と迫る中、複雑な思いを抱えていた。未来へ送り返すための条件は整ったものの、肝心の“まーくん”はまだ見つからず…。&lt;br&gt;颯太が未来に帰れるのかという不安と、心の奥にある「帰ってほしくない」という本音の間で、未来の心は揺れていた。&lt;br&gt;そんな中、「自分が“まーくん”になる」と意を決した優太（小瀧望）が、未来の家を訪れる。&lt;br&gt;そこへ偶然、未来の母・直美（神野三鈴）と兄・哲也（古舘佑太郎）も加わり、久々に顔をそろえた一同は、未来と優太が同級生だった頃の思い出話に花を咲かせるのだが…。&lt;br&gt;一方、将生（塩野瑛久）は１人、新作舞台の脚本執筆に没頭していた。&lt;br&gt;将生もまた、ある覚悟を胸に動き出そうとしていて……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep55z44jgh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqzea83p4</id>
-    <title>東京P.D. 警視庁広報2係_[第8話 裏切りか、仲間か・・・逮捕か、闇か・・・迫る圧力]</title>
-    <updated>2026-03-17T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
-                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月24日(火)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqzea83p4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                都の行政担当責任者と小城幡建設による談合事件には、まだ明るみに出ていない“バック”がいる。そう睨んだ捜査二課刑事・仙北谷開智（味方良介）は、広報課2係・今泉麟太郎（福士蒼汰）に協力を仰ぎ、都議会議員の須藤久伸（佃典彦）が関わっていた証拠を入手。須藤の名前こそ伏せられていたが、世間の怒りを買う大きなニュースとして報道された。しかし、広報課2係の時永修次（竹財輝之助）が、この情報を警視庁上層部に横流し。直後にアイドルの大麻所持報道が流れ、須藤のニュースはトップから消えてしまった。&lt;br&gt;&lt;br&gt;このままではいられない今泉と仙北谷は、さらなる証拠を見つけ出すべく、須藤と建設会社の会合に同席していた都庁職員・木村香澄（堀未央奈）との接触を図る。2人は熊崎心音（吉川愛）の協力もあり香澄の話を聞くことに成功。談合事件を告発した張本人が香澄だったと判明したほか、須藤の上にも黒幕がいることも明らかになる。加えて、香澄から小城幡建設役員と須藤の会話の音声データを託される。&lt;br&gt;&lt;br&gt;この音声データが報道されると世間の関心は再び談合事件へ。その後のレクでは、記者クラブからも疑問の声があがるが、捜査二課長の東田次郎（井上尚）は何も答えない。&lt;br&gt;&lt;br&gt;談合事件の揉み消しには刑事部長・福留公康（阪田マサノブ）も関わっている。かかり続ける警視庁上層部からの圧力に、今泉たちはどう立ち向かうのか――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqzea83p4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3epji2ar</id>
-    <title>再会～Silent Truth～ _[最終話 衝撃の真犯人]</title>
-    <updated>2026-03-17T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv5utjafh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 再会～Silent Truth～ 
-                &lt;a href="https://tver.jp/series/srv5utjafh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3epji2ar.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                23年前に銀行強盗犯を射殺したのは、飛奈淳一（竹内涼真）ではなかったかもしれない!? 真相究明の鍵を握るのは、淳一・岩本万季子（井上真央）・清原圭介（瀬戸康史）・佐久間直人（渡辺大知）ら同級生4人が現場から持ち去って隠し、23年後に発生したスーパー店長殺人事件でも使われた殉職警察官の拳銃――。刑事・南良理香子（江口のりこ）の仮説を聞いた万季子は、淳一の潔白を証明したい一心で出頭。店長を殺したのは自分だと認め、所持していた拳銃を南良に差し出した。&#13;&lt;br&gt;すぐさま拳銃を調べ、《重大な事実》に気づく南良。時を同じくして淳一は、直人が何気なく話した《23年前の事件直後の記憶》に、引っかかりを覚え…。&#13;&lt;br&gt;そんな中、南良は執念の捜査の末、ついに《真犯人だと思われる人物》のもとへ向かう――。&#13;&lt;br&gt;23年の時を経て炙り出される、すべての罪と秘密。再会によって、一度は封印したはずの過去と直面し、人生を大きく揺さぶられた同級生たちが選ぶ未来とは…？ この冬一番切ないヒューマンラブミステリー、ついに完結！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3epji2ar"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep73u5pz9g</id>
-    <title>孤独のグルメ Season10_[第8話 富山県富山市のかに面おでんと海鮮とろろ丼]</title>
-    <updated>2026-03-17T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season10
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月17日(火)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月17日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep73u5pz9g.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                立山連峰を望める富山県「富山市」。廻船問屋群が立ち並ぶ風情ある街並みの中、商談相手の大槻萌（渡邉美穂）のお店へ向かう五郎（松重豊）。大槻は五郎の30年来の友人である滝山（村田雄浩）の姪。富山でお店の開業が夢の大槻はお店のプランを熱心にプレゼン。滝山イズム全開のグイグイさに親近感が沸きつつ大槻の思いに五郎は感心。レトロな路面電車に乗り、車窓から見える景色を楽しんでいると腹が減り、降りてお店を探すことに。ブリにホタルイカ、ます寿司と富山名物を思い浮かべながら探すが、お目当てのお店は中々見つからない。そんな時、暖簾と提灯を発見する。そこには「刺身各種」「おでん」など、実によろしい文字が記載された看板が。富山の地魚や初めて聞く料理名の数々に興味津々の五郎。一人客にも優しい雰囲気に、一か月くらい富山に住みたくなった五郎が酔いしれた懐深い富山飯とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep73u5pz9g"/>
   </entry>
 </feed>
