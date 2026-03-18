@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-18T19:08:00+09:00</updated>
+  <updated>2026-03-18T20:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3k9mzsfk</id>
+    <title>パーフェクトクライム_[第４話]</title>
+    <updated>2026-03-18T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sriizryu2p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パーフェクトクライム
+                &lt;a href="https://tver.jp/series/sriizryu2p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月18日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3k9mzsfk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                東雲が仕掛けた罠の正体を知ってしまった香織！&lt;br&gt;それはあまりに甘く残酷な罠だった…東雲が香織に近づいた本当の理由とは！？&lt;br&gt;香織を欺いていた東雲。&lt;br&gt;事の発端はニューヨークでの出来事だった…&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月15日(日) 夜8時00分～　#1&lt;br&gt;3月16日(月) 夜8時00分～　#2&lt;br&gt;3月17日(火) 夜8時00分～　#3&lt;br&gt;3月18日(水) 夜8時00分～　#4&lt;br&gt;3月19日(木) 夜8時00分～　#5&lt;br&gt;3月20日(金) 夜8時00分～　#6&lt;br&gt;3月21日(土) 夜8時00分～　#7&lt;br&gt;3月22日(日) 夜8時00分～　#8&lt;br&gt;3月23日(月) 夜8時00分～　#9&lt;br&gt;3月24日(火) 夜8時00分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3k9mzsfk"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6ize0dbc</id>
+    <title>ももいろ あんずいろ さくらいろ_[第2話「私だけ見て…！強引年下男子に恋心暴走！」]</title>
+    <updated>2026-03-18T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli5jvpsq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ももいろ あんずいろ さくらいろ
+                &lt;a href="https://tver.jp/series/srli5jvpsq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月18日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ize0dbc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                哲也（岐洲匠）と一夜を過ごした杏（奥仲麻琴）だが決して「好き」と口にしない哲也に不安になっていく…。しかも、杏を諦められない翔(中原弘貴）からはいきなりキスされて…！直接哲也の気持ちを確かめたいと、部屋に向かう杏だが、哲也はそっけなく振る舞い…！？&lt;br&gt;一方、哲也に告白した有香（鈴木ゆうか）は「告白は杏への腹いせだ」と見透かされてしまい…！&lt;br&gt;強引年下男子に恋心が暴走する第２話！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月17日(火) 夜7時30分～　#1&lt;br&gt;3月18日(水) 夜7時30分～　#2&lt;br&gt;3月19日(木) 夜7時30分～　#3&lt;br&gt;3月20日(金) 夜7時30分～　#4&lt;br&gt;3月21日(土) 夜7時30分～　#5&lt;br&gt;3月22日(日) 夜7時30分～　#6（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6ize0dbc"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3guulfdn</id>
+    <title>たとえあなたを忘れても_[第７話　心の底から、幸せを願うひと]</title>
+    <updated>2026-03-18T19:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2z8fq7fk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ たとえあなたを忘れても
+                &lt;a href="https://tver.jp/series/sr2z8fq7fk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_19時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月18日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3guulfdn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                コンサートを機に自分のピアノを取り戻した河野美璃（堀田真由）は、ピアノ講師の職に戻り、空き時間には青木空（萩原利久）のキッチンカーを手伝い始める。空といつでも一緒にいられる“今”に幸せを感じる美璃。&lt;br&gt;しかし、記憶を取り戻した空は、これまで感じなかった“未来”への不安を抱くようになる。一方、遠山保（風間俊介）にも転機が訪れ…。やっと平穏な日々を手に入れたように見えた美璃たちに、運命のうねりが押し寄せる…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月12日(木) 夜7時15分～　#1&lt;br&gt;3月13日(金) 夜7時15分～　#2&lt;br&gt;3月14日(土) 夜7時15分～　#3&lt;br&gt;3月15日(日) 夜7時15分～　#4&lt;br&gt;3月16日(月) 夜7時15分～　#5&lt;br&gt;3月17日(火) 夜7時15分～　#6&lt;br&gt;3月18日(水) 夜7時15分～　#7&lt;br&gt;3月19日(木) 夜7時15分～　#8&lt;br&gt;3月20日(金) 夜7時15分～　#9（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3guulfdn"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvdg2yojh</id>
     <title>痴情の接吻_[第8話 偏愛彼氏に異変？「触れられないとおかしくなる」]</title>
@@ -2768,125 +2888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephg0anl3j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph1xrw9m3</id>
-    <title>飴色パラドックス_[第七話《ドラマシャワー》]</title>
-    <updated>2026-03-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srszmwmvp8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 飴色パラドックス
-                &lt;a href="https://tver.jp/series/srszmwmvp8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph1xrw9m3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ようやく互いの気持ちを確かめ合った尾上聡（木村慧人）と蕪木元治（山中柔太朗）。２人の取材は絶好調で、何週も巻頭を独占していた。ある日、尾上は元プロ野球選手の田村吉光がオレオレ詐欺に関わっているという疑惑を耳にする。蕪木に内緒で単独で潜入捜査を開始した尾上は、持ち前のキャラクターで詐欺の証拠となる音声データを入手することに成功するが、蕪木の態度はなぜか素っ気なくて……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph1xrw9m3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgfsy8l4q</id>
-    <title>おかしな刑事_[＃16]</title>
-    <updated>2026-03-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre2jc2a5s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おかしな刑事
-                &lt;a href="https://tver.jp/series/sre2jc2a5s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月11日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgfsy8l4q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                2/22(日)～ #4-#10&#13;&lt;br&gt;3/18(水)～ #11-#17&#13;&lt;br&gt;4/12(日)～ #18-#24&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;《日曜ワイド》&#13;&lt;br&gt;鴨志田新一（伊東四朗）は、警視庁東王子署の警部補。別れた妻との間にもうけた娘・岡崎真実（羽田美智子）は警察庁刑事局のエリート警視だが、鴨志田と真実が実の親子だということは、2人の職場の人間は誰も知らない…。&#13;&lt;br&gt;最近、駅前の“そば処くりはら”という店で開かれている、そば打ち教室に通いはじめた鴨志田。真実が少々心配になって覗いてみたところ、教室といいながらまるで美貌の女将・栗原綾（中田喜子）を囲むファンクラブのような雰囲気で、鴨志田ら生徒たちが和気あいあいとそば打ちを楽しんでいた…。&#13;&lt;br&gt;そんなある日、なんと綾の店で殺人事件が発生する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgfsy8l4q"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfw5bxded</id>
-    <title>ドクターX～外科医・大門未知子～ （2019）_[ope.IV]</title>
-    <updated>2026-03-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2019）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月16日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfw5bxded.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12(木)～ #1-#3&#13;&lt;br&gt;3/17(火)～ #4-#6&#13;&lt;br&gt;4/16(木)～ #7-#10&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;世界記録を叩き出した日本陸上界のエース・四日市清昭（岡田健史）が右足の痛みを訴え、強化合宿先から緊急帰国。「東帝大学病院」に極秘入院する。&#13;&lt;br&gt;さっそく、次世代インテリジェンス手術担当外科部長の潮一摩（ユースケ・サンタマリア）は大門未知子（米倉涼子）や海老名敬（遠藤憲一）を除いた少人数だけでカンファレンスを実施。AIの診断のもと、四日市は膝の滑膜肉腫ステージIIIだと判明する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfw5bxded"/>
   </entry>
 </feed>
