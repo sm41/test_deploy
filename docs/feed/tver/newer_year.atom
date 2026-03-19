@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-19T20:06:02+09:00</updated>
+  <updated>2026-03-19T22:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5wn2au6c</id>
+    <title>離婚後夜_[第1話　「……届かないなぁ」]</title>
+    <updated>2026-03-19T20:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwvdzkak5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 離婚後夜
+                &lt;a href="https://tver.jp/series/srwvdzkak5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_20時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月19日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5wn2au6c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                宝条伊織（佐野晶哉）は、カフェでアルバイトをする大学3年生。&lt;br&gt;ある日、カフェの常連客・香帆（久保田紗友）の人柄に惹かれ“初めての恋心”を抱くのだが…。&lt;br&gt;香帆には、高校生の頃から付き合い、結婚した夫・真也（長谷川慎）の存在があった。&lt;br&gt;しかし、香帆は真也が女性と一緒に歩いているところを目撃して――。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月19日(木) 夜8時15分～　#1&lt;br&gt;3月20日(金) 夜8時15分～　#2&lt;br&gt;3月21日(土) 夜8時15分～　#3&lt;br&gt;3月22日(日) 夜8時15分～　#4&lt;br&gt;3月23日(月) 夜8時15分～　#5&lt;br&gt;3月24日(火) 夜8時15分～　#6&lt;br&gt;3月25日(水) 夜8時15分～　#7&lt;br&gt;3月26日(木) 夜8時15分～　#8&lt;br&gt;3月27日(金) 夜8時15分～　#9&lt;br&gt;3月28日(土) 夜8時15分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5wn2au6c"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep3bbkjjtx</id>
     <title>パーフェクトクライム_[第５話]</title>
@@ -2488,85 +2528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epko3ni537"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl3z0igdt</id>
-    <title>それぞれの孤独のグルメ_[第7話 出雲餃子]</title>
-    <updated>2026-03-18T17:00:17+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ それぞれの孤独のグルメ
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl3z0igdt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/17（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/18（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;それぞれの物語を描くオムニバスグルメドラマ。第7話の主人公は、客室乗務員の川端明日香（比嘉愛未）。空港スタンバイ中に同僚に食事に誘われ夕食は焼き肉と決めていたが、業務終了15分前に出雲便でのフライトが決まる。業務終了後、お腹が減りきっていた川端は、地元めしを探している中「餃子」の赤ちょうちんを発見。彼女が選んだメニューとは？そして、井之頭五郎（松重豊）もなぜか出雲に！　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epl3z0igdt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiabzhm44</id>
-    <title>それぞれの孤独のグルメ_[第6話 ほっこり飯]</title>
-    <updated>2026-03-18T17:00:16+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ それぞれの孤独のグルメ
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiabzhm44.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/17（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/18（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;それぞれの物語を描くオムニバスグルメドラマ。第6話の主人公は、妻を亡くしたばかりの村山幸三（平田満）と大人と喋りたい小学生の朝倉健太（斎藤汰鷹）。ある日、健太はこども食堂の貼り紙に興味を持つ。一方、村山も妻の知人で子ども食堂のスタッフでもある篠崎（櫻井淳子）から、一度見に来ないかと誘われる。さらに、井之頭五郎（松重豊）も…！それぞれの心とお腹を満たしてくれるほっこりグルメとは。　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiabzhm44"/>
   </entry>
 </feed>

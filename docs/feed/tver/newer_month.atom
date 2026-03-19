@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-19T20:06:02+09:00</updated>
+  <updated>2026-03-19T22:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epc500woy1</id>
+    <title>ゆかりくんはギャップがずるい_[第7話 ドライブの先に]</title>
+    <updated>2026-03-19T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srofqchtnc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ゆかりくんはギャップがずるい
+                &lt;a href="https://tver.jp/series/srofqchtnc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月26日(木)_21時25分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月19日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc500woy1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                芽衣子（渡邉美穂）と生徒の芝くる実（米倉れいあ）は華琳（速瀬愛）のことを心配していた。事件から消息を絶っていたのだ。二人は思いきって彼女の実家へ“凸る”ことに。くる実は、兄の芝草一郎（別府由来）に運転を頼んだが、車で迎えに来たのはなんと、ゆかりくん（高尾颯斗）だった。&lt;br&gt;思いがけない3人でのドライブがスタート。芽衣子は自分の勢い任せの計画をゆかりくんに指摘されてしまい…。&lt;br&gt;一方、華琳は自宅に引きこもって曲作りをしていた。能力の限界を感じ、憧れの講師だった芽衣子でさえ同じ「なりそこない」だと感じて、悶々としながらも、音楽の道を諦めきれなかったのだ。すると、突然インターホンが鳴り響き――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epc500woy1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epicptixeg</id>
     <title>最後の雨が降るとき_[第6話　まばたきする人]</title>
