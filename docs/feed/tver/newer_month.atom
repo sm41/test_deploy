@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-19T22:06:02+09:00</updated>
+  <updated>2026-03-20T00:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epono5n649</id>
+    <title>プロフェッショナル 保険調査員・天音蓮_[第11話 ついに最終回！天音と氷室の因縁に決着！]</title>
+    <updated>2026-03-19T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbal79uyb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ プロフェッショナル 保険調査員・天音蓮
+                &lt;a href="https://tver.jp/series/srbal79uyb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月26日(木)_22時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月19日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epono5n649.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【過去の放送回全話＆FODオリジナルストーリー「プロフェッショナル　保険調査員・栗田凛」独占配信中！】&lt;br&gt;&lt;br&gt;東通観光は、1年前に発生したバス横転事故の原因を社長の指示により隠蔽していた。真相が明らかになったことで、バスジャックの人質を解放する小堀（岩﨑大昇）だったが、そこに氷室貴羽（長谷川京子）が現れ、スタンガンで小堀を気絶させる。彼女は凛（岡崎紗絵）だけでなく、なぜか一緒にバスジャックの人質となっていた高校生・夏希（中川陽葵）も車に乗せ、そのまま姿を消してしまう・・・。&lt;br&gt;&lt;br&gt;一方その頃、天音（玉木宏）は人質が解放された採石場で佐久間（渡部篤郎）と合流していた。バスの周囲では鑑識作業が始まっていたが、凛と夏希はすでに連れ去られた後だった。&lt;br&gt;&lt;br&gt;警視庁に移動し、小堀を取り調べる佐久間。バスジャックは氷室の手引きによるもので「自分も似たような思いを抱えている」と彼女は話したという。別室で佐久間は、夏希の父・山倉拓也（杉本哲太）に氷室の写真を見せる。何者かも知らないという山倉だったが、氷室の名前を聞いた瞬間、一瞬表情がこわばる。その動揺を佐久間は見逃さなかった。&lt;br&gt;&lt;br&gt;深い森の中、車を走らせる氷室。腕を縛られたまま凛と夏希は、山小屋に軟禁される。「なんで私たちだけこんな目に？」と凛が尋ねると、氷室は「本命はこっち」と夏希を指し去って行く。山小屋に閉じ込められた2人。凛は隠し持っていた夏希のスマホから電話をかけるが、圏外でつながらない・・・。&lt;br&gt;&lt;br&gt;深山リサーチでは、沢木（野間口徹）と沙月（結城モエ）が、人質の解放を天音と深山（小手伸也）に報告していた。そこに険しい顔で佐久間が現れ、バスジャックや凛たちの連れ去りが氷室の仕業だったと天音に伝える。・・・とその時、天音のスマホが鳴る。その相手はなんと氷室だった―。&lt;br&gt;&lt;br&gt;「あなたの信じてた正義が揺らぐ―」。氷室が天音に突きつけた言葉の意味とは？無関係の少女も巻き込んだ彼女の狙いはいったい何なのか？&lt;br&gt;やがて明らかになる氷室の過去。一つの点と点が線へと繋がり、この事件の真相が解き明かされていく。&lt;br&gt;天音と氷室の対決は、ついに最終局面へ―！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epono5n649"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epc500woy1</id>
     <title>ゆかりくんはギャップがずるい_[第7話 ドライブの先に]</title>
@@ -368,125 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvnxhfs9g"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3j35etxs</id>
-    <title>冬のなんかさ、春のなんかね_[第9話　やさしさ]</title>
-    <updated>2026-03-18T23:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srekizxkmk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 冬のなんかさ、春のなんかね
-                &lt;a href="https://tver.jp/series/srekizxkmk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月25日(水)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月18日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3j35etxs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ある日、ゆきお(成田凌)にあげるマフラーを編んでいる文菜(杉咲花)のもとに荷物が届く。それはクリスマスイブにゆきおとともに一脚ずつ購入した椅子だった。時を同じくして、ゆきおの家にも椅子が届く。そこには紗枝(久保史緒里)の姿があった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3j35etxs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyt1dszjw</id>
-    <title>ラムネモンキー_[第10話 マチルダの帰還]</title>
-    <updated>2026-03-18T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbhgspg4n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラムネモンキー
-                &lt;a href="https://tver.jp/series/srbhgspg4n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月25日(水)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月18日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyt1dszjw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                マチルダこと宮下未散（木竜麻生）の殺害を依頼した「トレンディさん」こと望月は、映画研究部のNo.12のビデオテープを探していたようだ。そのテープには「黒江の婆さん」の家で吉井雄太（反町隆史）たちの追求により、大物政治家の加賀見六郎（高田純次）に依頼されたアホの八郎こと多胡秀明が、マチルダこと宮下未散（木竜麻生）を手にかけたことが判明する。マチルダは黒江恵子から加賀見が映っているビデオテープを託され、説得や脅しにも屈せずにそれを守り通し、加賀見の指示によって消されたのだ。&lt;br&gt;雄太、藤巻肇（大森南朋）、菊原紀介（津田健次郎）、西野白馬（福本莉子）は加賀見の屋敷に押しかける。雄太の兄・健人（松村雄基）が止めるのも聞かず居座る雄太たちを、加賀見は応接室へ通す。プリンを食べながら雄太たちの話を訊く加賀見。一同は黒江の婆さんとマチルダを殺したのではと問うが、加賀見はまったく動揺することなく己を正当化する。健人は、自分たちはテープを渡すように再三マチルダを説得したが、期限の日にマチルダが持ってきたのは別の馬鹿げたテープだったと話す。加賀見は雄太ら一人ひとりのプライベートな事情について語りかけ、暗に脅しをかける。加賀見からのプリンを手に、黙り込む雄太たち・・・。&lt;br&gt;一同はそれぞれの生活に加賀見の影響が及んでいることを自覚し、これ以上戦えば周囲に迷惑がかかり、生活を失いかねないと戦慄する。白馬が働くカフェで、加賀見からもらったプリンを食べるか逡巡する一同。白馬はふと、健人が口にした「馬鹿げたテープ」とは何なのだろうとつぶやく。それを聞いた三人は、あることを思い出して・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyt1dszjw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3ik2g9ew</id>
-    <title>孤独のグルメ Season10_[第9話 東京都荒川区日暮里の酢豚とチャムチャ麺]</title>
-    <updated>2026-03-18T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season10
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月18日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ik2g9ew.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                荒川区「日暮里」。「布の街、布の道」と書かれた旗を横目に通りを歩く五郎（松重豊）。立ち並ぶ繊維問屋街を進み、今回の商談相手である増田の元へ。依頼品である"ネクタイピン"を見せると、イメージにぴったりと喜ぶ増田。そして、自身が担当する映画の主演役者と五郎の背丈が似ているとのことで、衣装合わせの代役も五郎にお願いすることに。最初は困惑したが、誉め言葉の連発でどこかまんざらでもない様子だったが…。慣れないことをした五郎は腹が減り、お店探しへ。腹にジャジャーン！と響くお店を目当てに探し歩いていると、「韓国式中華料理」の看板を発見する。堂々たる文字で書かれたお店の名前とメニューの写真。まさに求めていたお店と言わんばかりに大きく頷き、入店する。メニューの多さに難航した五郎が注文した大満足の料理とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3ik2g9ew"/>
   </entry>
 </feed>
