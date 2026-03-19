@@ -2,13 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-19T18:06:02+09:00</updated>
+  <updated>2026-03-19T20:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3bbkjjtx</id>
+    <title>パーフェクトクライム_[第５話]</title>
+    <updated>2026-03-19T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sriizryu2p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パーフェクトクライム
+                &lt;a href="https://tver.jp/series/sriizryu2p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月19日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3bbkjjtx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                東京の本社に異動した冬木と、彼を追って帰国した美和が結婚したことを知り、打ちのめされる東雲。&lt;br&gt;その後、小野から知らされる意外な事実…。&lt;br&gt;東雲は美和を取り戻そうとするのだが…！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月15日(日) 夜8時00分～　#1&lt;br&gt;3月16日(月) 夜8時00分～　#2&lt;br&gt;3月17日(火) 夜8時00分～　#3&lt;br&gt;3月18日(水) 夜8時00分～　#4&lt;br&gt;3月19日(木) 夜8時00分～　#5&lt;br&gt;3月20日(金) 夜8時00分～　#6&lt;br&gt;3月21日(土) 夜8時00分～　#7&lt;br&gt;3月22日(日) 夜8時00分～　#8&lt;br&gt;3月23日(月) 夜8時00分～　#9&lt;br&gt;3月24日(火) 夜8時00分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3bbkjjtx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7akicvnk</id>
+    <title>ももいろ あんずいろ さくらいろ_[第3話「最強ライバル登場！過去を知る女と衝撃の再会…！」]</title>
+    <updated>2026-03-19T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli5jvpsq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ももいろ あんずいろ さくらいろ
+                &lt;a href="https://tver.jp/series/srli5jvpsq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月19日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7akicvnk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                哲也(岐洲匠)の気まぐれな言動に振り回される杏(奥仲麻琴)。有香(鈴木ゆうか)と翔(中原弘貴)の前で当てつけのようにふるまう哲也に、杏は思わず怒りをぶつける！そんななか、フリーデザイナーの環(高田里穂)と一緒に仕事をすることになった杏。社内で環を見かけた翔は、驚きのあまり、呆然。&lt;br&gt;それに勘づいた有香が翔を問い詰めると…！&lt;br&gt;過去が解き明かされる第３話！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月17日(火) 夜7時30分～　#1&lt;br&gt;3月18日(水) 夜7時30分～　#2&lt;br&gt;3月19日(木) 夜7時30分～　#3&lt;br&gt;3月20日(金) 夜7時30分～　#4&lt;br&gt;3月21日(土) 夜7時30分～　#5&lt;br&gt;3月22日(日) 夜7時30分～　#6（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7akicvnk"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epfi61xxci</id>
+    <title>たとえあなたを忘れても_[第８話　人と人とを、つなぐ記憶]</title>
+    <updated>2026-03-19T19:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2z8fq7fk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ たとえあなたを忘れても
+                &lt;a href="https://tver.jp/series/sr2z8fq7fk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_19時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月19日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfi61xxci.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                いつものようにキッチンカーで働く青木空（萩原利久）。しかし、その日、河野美璃（堀田真由）にいつもの朝は来なかった…。&lt;br&gt;空が再び記憶を失ってしまい、美璃は絶望の淵に立たされる。たとえ空が自分を忘れても、自分は空を忘れることはできない…その気持ちに従い、また自己紹介から始めようとする美璃。しかし、空に一緒にいることを拒絶されてしまう。&lt;br&gt;そんな中、美璃は遠山保（風間俊介）から転勤先の北海道に一緒に来るよう誘われ…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月12日(木) 夜7時15分～　#1&lt;br&gt;3月13日(金) 夜7時15分～　#2&lt;br&gt;3月14日(土) 夜7時15分～　#3&lt;br&gt;3月15日(日) 夜7時15分～　#4&lt;br&gt;3月16日(月) 夜7時15分～　#5&lt;br&gt;3月17日(火) 夜7時15分～　#6&lt;br&gt;3月18日(水) 夜7時15分～　#7&lt;br&gt;3月19日(木) 夜7時15分～　#8&lt;br&gt;3月20日(金) 夜7時15分～　#9（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfi61xxci"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epoc65c45s</id>
+    <title>痴情の接吻_[第9話 父vs偏愛男！同居生活、終わりのはじまり]</title>
+    <updated>2026-03-19T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srajzcho00.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 痴情の接吻
+                &lt;a href="https://tver.jp/series/srajzcho00" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月19日(木)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月19日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoc65c45s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                忍(橋本良亮)と和華(中村ゆりか)、そして岳(井上祐貴)の三角関係に新展開！？&lt;br&gt;気持ちを抑えきれなくなった岳は、ついに和華をデートに誘い…！&lt;br&gt;一方、和華の両親が移住先のマレーシアから突然帰国！&lt;br&gt;和華と忍の関係が、"同居"ではなく"同棲"と知り動転する父から、帰国の理由を聞かされた和華は、ある決断を下す！&lt;br&gt;甘い同居生活に激震が走る第９話！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月11日(水) 夜7時～　#1&lt;br&gt;3月12日(木) 夜7時～　#2&lt;br&gt;3月13日(金) 夜7時～　#3&lt;br&gt;3月14日(土) 夜7時～　#4&lt;br&gt;3月15日(日) 夜7時～　#5&lt;br&gt;3月16日(月) 夜7時～　#6&lt;br&gt;3月17日(火) 夜7時～　#7&lt;br&gt;3月18日(水) 夜7時～　#8&lt;br&gt;3月19日(木) 夜7時～　#9&lt;br&gt;3月20日(金) 夜7時～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epoc65c45s"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjlzs6bum</id>
     <title>それぞれの孤独のグルメ_[第12話（最終回） 新鮮刺身と独り鍋]</title>
@@ -2408,325 +2568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epiabzhm44"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9loar66z</id>
-    <title>それぞれの孤独のグルメ_[第5話 サウナ飯]</title>
-    <updated>2026-03-18T17:00:15+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ それぞれの孤独のグルメ
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9loar66z.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/17（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/18（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/19（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;それぞれの物語を描く孤独のグルメ初のオムニバスグルメドラマ。第5話の主人公は、新人熱波師の進藤由香里（玉井詩織）。心身共に疲れ切っていた時にサウナで熱波師の風を受け救われた進藤は、自分も誰かを幸せにしたいと熱波師を目指しデビュー日を迎えた。緊張のデビュー戦を終え安堵で空腹に。進藤が選んだ疲れも吹き飛ぶサウナ飯とは…なぜかそこには井之頭五郎（松重豊）の姿も。　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9loar66z"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnnqy6f2l</id>
-    <title>孤独のグルメ Season7_[第12話（最終回） 東京都中央区八丁堀のニラ玉ライスとエビチリ]</title>
-    <updated>2026-03-18T17:00:14+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season7
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnnqy6f2l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/16（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/17（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/18（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;八丁堀へ向かう井之頭五郎（松重豊）。商談相手はライブハウス店長・五十嵐（大友康平）だ。商談を終え、五郎は昼食の店探しを始めるが、場所柄もあって高級店ばかり。そんな折、“庶民めし”にぴったりな中華店を発見する。大将（角野卓造）らに迎えられて入った店内には、オーソドックスな手書きメニューがズラリ。その中からニラ玉かエビチリか悩んだ五郎は、結局両方を注文する。運ばれてきた料理は、五郎の予想を次々と裏切っていき……。“庶民めし”と思いきや、出合ったのは、とんでもない中華だった！　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnnqy6f2l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5thpuipf</id>
-    <title>孤独のグルメ Season7_[第11話 千葉県千葉市の特製ニンニクスープと生鮭のバター焼き]</title>
-    <updated>2026-03-18T17:00:13+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season7
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5thpuipf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/16（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/17（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/18（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;井之頭五郎（松重豊）は千葉駅近くでひと仕事を終え、西登戸駅へ移動。風貌はインド人でも関西弁のインド料理店店長・坂田（植野行雄）からの依頼だ。商談を終えるや否やカレーを注文するが、この日は定休日。仕方なく店を出ると、洋食屋さんの立て看板を発見し、店内へ。メニューに迷っていると、目に留まったのは大女将（藤田弓子）が運ぶ特製のニンニクスープ。メインは悩んだ末、魚を選択。これが吉と出るか凶と出るか……？　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5thpuipf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epk564unqt</id>
-    <title>孤独のグルメ Season7_[第10話 韓国ソウル特別市の骨付き豚カルビとおかずの群れ]</title>
-    <updated>2026-03-18T17:00:12+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season7
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk564unqt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/16（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/17（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/18（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;韓国出張2日目。前日の疲れが残ったまま朝を迎えた井之頭五郎（松重豊）だったが、出勤前の人々が集う屋台を発見。トッポギ、天ぷら、スンデ、おでん……さまざまな屋台めしに舌鼓を打つ。五郎は、全州（チョンジュ）での視察報告を行う。そして仕事を終え、五郎はガッツリ系のソウルめしに狙いを定め店探し。やがて一軒の焼肉店にたどり着く。たくさんの小皿や石鍋が運ばれ、テーブルが全州のデジャブといわんばかりの状態に……。このあと五郎は“ガッツリ系の最高峰”と出合うのだった――。　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epk564unqt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjnt1yj6j</id>
-    <title>孤独のグルメ Season7_[第9話 韓国チョンジュ市の納豆チゲとセルフビビンパ]</title>
-    <updated>2026-03-18T17:00:11+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season7
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjnt1yj6j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/16（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/17（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：3/18（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;突然イム社長（ソン・シギョン）に呼び出された井之頭五郎（松重豊）は、1週間後、韓国へ向かう。韓国の伝統工芸品をヨーロッパで販売する新規事業の相談だった。全州（チョンジュ）をめぐるうち、何も食べていないことに気づいた五郎は、店探しを始める。勘で店に入るも、韓国語が読めない五郎はなんの店かわからないまま適当に頼んでしまう。すると次から次へと小皿が運ばれ、極めつけは石鍋！　おかずのテーマパークか!?　……と思いきや、実はこれでビビンパを作る“セルフビビンパ”の店だった。　［期間限定無料配信］　・「孤独のグルメSeason11」&#13;&lt;br&gt;テレ東にて2026年4月3日（金）スタート　&#13;&lt;br&gt;毎週金曜深夜24時12分～24時52分放送！&#13;&lt;br&gt;&#13;&lt;br&gt;・「孤独のグルメ」全話イッキ見！【過去作一挙放送】&#13;&lt;br&gt;テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&#13;&lt;br&gt;&#13;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjnt1yj6j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep18o1r3k5</id>
-    <title>ユーチューバーに娘はやらん！_[第4話 牛丼男VSフォアグラ男!?]</title>
-    <updated>2026-03-18T17:00:10+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmjrgrucb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ユーチューバーに娘はやらん！
-                &lt;a href="https://tver.jp/series/srmjrgrucb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep18o1r3k5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/18（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/19（木）17:00～&#13;&lt;br&gt;#9,#10：3/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;平千紗（佐々木希）が企画した商品に大口契約の依頼が。早速行なわれた打ち合わせで、千紗の思いを知った担当者・野口洋之（平原テツ）は正式契約を決める。一方、自宅ではひょんなことから総一郎（遠藤憲一）、風花（若月佑美）らが勝手に榎本信（金子ノブアキ）タックタック（戸塚純貴）、それぞれと同じ日に食事をする約束を取り付け、千紗はハシゴデートをすることに。こうして仕事も恋も動き始めたかのように見えたのだが……。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep18o1r3k5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4ufz977j</id>
-    <title>ユーチューバーに娘はやらん！_[第3話 恋に迷って（秘）肉まん!?]</title>
-    <updated>2026-03-18T17:00:09+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmjrgrucb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ユーチューバーに娘はやらん！
-                &lt;a href="https://tver.jp/series/srmjrgrucb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ufz977j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/18（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/19（木）17:00～&#13;&lt;br&gt;#9,#10：3/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;平千紗（佐々木希）は占いで「水色のカードが未来を左右する」と告げられ驚く。それは同窓会の招待状が水色だったからだ。総一郎（遠藤憲一）が不安になる中、風花（若月佑美）の後押しもあり同窓会へ向かう千紗。待っていたのは運命の人ではなく、女性同士のマウンティングや自分だけ取り残されている現実であった。疲弊して家に帰るとなぜか食卓にタックタック（戸塚純貴）の姿が!?　総一郎VSタックタックの戦いが今、始まる！　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4ufz977j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoj7ycigt</id>
-    <title>ユーチューバーに娘はやらん！_[第2話 史上最低の再会!?]</title>
-    <updated>2026-03-18T17:00:08+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmjrgrucb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ユーチューバーに娘はやらん！
-                &lt;a href="https://tver.jp/series/srmjrgrucb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月18日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoj7ycigt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：3/18（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：3/19（木）17:00～&#13;&lt;br&gt;#9,#10：3/20（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;衝撃的なソロ披露宴を終えた翌日。タックタック（戸塚純貴）と榎本信（金子ノブアキ）に告白された千紗（佐々木希）は、“90日後までに結婚式を挙げる”という目標を掲げる。告白した2人はというと、タックタックは千紗を思い出し結婚式の映像のアップをためらい始め、榎本はユーチューバーへの敵対心を露わにしていた―。奇妙な三角関係が始まる中、千紗が企画した「ご褒美ブラ」が全く売れず、店から商品を撤去したとの連絡が入る……　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epoj7ycigt"/>
   </entry>
 </feed>
