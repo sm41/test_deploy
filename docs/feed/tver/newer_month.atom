@@ -2,11 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-20T20:06:30+09:00</updated>
+  <updated>2026-03-20T22:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9by58dqc</id>
+    <title>副会長の主なお仕事_[ペアルック・パラドックス]</title>
+    <updated>2026-03-20T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月20日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9by58dqc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                休日、私服で待ち合わせるだけで少し緊張する灰屋。そこへ現れた栗下は、まさかの“完全一致ペアルック”という答え合わせで登場する。灰屋の服装を推理で言い当てる副会長の執念に灰屋は赤面しつつも、カフェや街歩きの中で、“会長と副会長”ではなく“ただの二人”としての距離が、秋空の下でゆっくりと縮まっていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9by58dqc"/>
+  </entry>
 </feed>

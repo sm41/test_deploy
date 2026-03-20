@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-20T20:06:30+09:00</updated>
+  <updated>2026-03-20T22:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplfav4nc9</id>
+    <title>離婚後夜_[第2話　「最低だ、俺」]</title>
+    <updated>2026-03-20T20:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwvdzkak5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 離婚後夜
+                &lt;a href="https://tver.jp/series/srwvdzkak5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_20時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月20日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplfav4nc9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「離婚、しよっか」&lt;br&gt;深く悲しみながらも、離婚を決意した香帆（久保田紗友）。&lt;br&gt;香帆は、しばらく休んでいた小説を執筆する決意を新たにし、&lt;br&gt;新しく住む家を探し始めるのだった。&lt;br&gt;&lt;br&gt;その一方で、伊織（佐野晶哉）は、しばらくカフェに来ない香帆のことばかり考えていた。&lt;br&gt;そんなある日、香帆の姿を見つけると思わず声をかける。&lt;br&gt;普段とは違う香帆の様子に気づきながらも踏み込めないでいた伊織は、&lt;br&gt;思い切って香帆を食事に誘うのだが…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月19日(木) 夜8時15分～　#1&lt;br&gt;3月20日(金) 夜8時15分～　#2&lt;br&gt;3月21日(土) 夜8時15分～　#3&lt;br&gt;3月22日(日) 夜8時15分～　#4&lt;br&gt;3月23日(月) 夜8時15分～　#5&lt;br&gt;3月24日(火) 夜8時15分～　#6&lt;br&gt;3月25日(水) 夜8時15分～　#7&lt;br&gt;3月26日(木) 夜8時15分～　#8&lt;br&gt;3月27日(金) 夜8時15分～　#9&lt;br&gt;3月28日(土) 夜8時15分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplfav4nc9"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxqd6aqnt</id>
     <title>義務と演技_[第６回「セックスレスの特効薬」]</title>
@@ -3568,85 +3608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnpewfey7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnfqfly19u</id>
-    <title>HiGH&amp;LOW ～THE STORY OF S.W.O.R.D.～ Season2_[Episode 10(最終話)]</title>
-    <updated>2026-03-20T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr679aztqj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ HiGH&amp;LOW ～THE STORY OF S.W.O.R.D.～ Season2
-                &lt;a href="https://tver.jp/series/sr679aztqj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnfqfly19u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-5　3/6(金)12:00～&lt;br&gt;#6-7　3/13(金)12:00～&lt;br&gt;#8-10　3/20(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;ノボルの体調は良くなり、退院を祝して復活祭をITOKANで行っていた。ノボルの復帰と共に、山王連合会の復活を望む面々。総長コブラは、いかなる判断を下すのか。一方、親友でもあった龍也の死をきっかけに自暴自棄になる琥珀に迫る謎の男「李」。彼が企てている計画とはいったい―SWORD地区は徐々に勢力が崩れ始めていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnfqfly19u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epn73ovarg</id>
-    <title>シュガーレス_[第5話]</title>
-    <updated>2026-03-20T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw4ihzhew.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シュガーレス
-                &lt;a href="https://tver.jp/series/srw4ihzhew" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn73ovarg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/20(金)12:00～&lt;br&gt;#4-5　3/20(金)12:00～&lt;br&gt;#6-7　3/27(金)12:00～&lt;br&gt;#8-9　4/3(金)12:00～&lt;br&gt;#10-12　4/10(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;椎葉(白濱亜嵐)がキリオ(碓井将大)と対戦中に、その横をシャケ(EXILE SHOKICHI)が通りかかった。椎葉たちを気にもとめずに通り過ぎていくシャケ。しかし、なぜかキリオの様子は一変し、椎葉との喧嘩を途中で放棄してしまう。やる気満々だった椎葉はキリオの変化を不思議に思うが、キリオの仲間・トオル(小野塚勇人)たちにはその理由がわかっていた。かつてキリオはシャケと対戦して惨敗。以来、自慢の左ストレートを放つことができなくなっていたのだ。そんな過去の事情を聞いた椎葉は、No.2のポジションにいながら逃げ腰でやり過ごすキリオの生き方に憤慨し、またもやキリオに再戦を申し込んだ。闘いの最中、椎葉は「左がダメなら右を打て！」「右もダメなら蹴りだ！頭突きだ！」と絶叫。その言葉通り、がむしゃらに向かってくる椎葉の姿を見て、キリオの中にもシャケへの闘志がみなぎってくる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epn73ovarg"/>
   </entry>
 </feed>
