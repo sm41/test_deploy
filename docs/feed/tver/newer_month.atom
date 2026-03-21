@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-21T22:05:48+09:00</updated>
+  <updated>2026-03-22T00:06:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epe90oq799</id>
+    <title>森英恵 Butterfly beyond　テレビ朝日ドラマプレミアム_[生誕100年！世界を魅了したファッションデザイナー森英恵。知られざる若き日の奮闘を描く!!]</title>
+    <updated>2026-03-21T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryasmalwi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 森英恵 Butterfly beyond　テレビ朝日ドラマプレミアム
+                &lt;a href="https://tver.jp/series/sryasmalwi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月04日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe90oq799.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                厳格な父・徳造（仲村トオル）、朗らかな母・ノブ（木村佳乃）のもと、のどかな村で育った英恵（八木莉可子）。東京の女子大に在学中、戦況が悪化し勤労動員へ。そんな中で運命の出会いをはたしたのが、森賢（中島裕翔）だった。終戦後、英恵は賢と結婚。生まれ来る我が子のために洋裁を習いはじめた英恵は、その面白さに夢中になり、スーツやドレスを自在に作れるまでに上達！オーダーメイドの店“ひよしや”を開店するが…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epe90oq799"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnu3mt3il</id>
     <title>ちるらん 新撰組鎮魂歌_[ちるらん 新撰組鎮魂歌 徹底ガイド]</title>
@@ -288,45 +328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfbbo0xfk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9by58dqc</id>
-    <title>副会長の主なお仕事_[ペアルック・パラドックス]</title>
-    <updated>2026-03-20T22:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 副会長の主なお仕事
-                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9by58dqc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                休日、私服で待ち合わせるだけで少し緊張する灰屋。そこへ現れた栗下は、まさかの“完全一致ペアルック”という答え合わせで登場する。灰屋の服装を推理で言い当てる副会長の執念に灰屋は赤面しつつも、カフェや街歩きの中で、“会長と副会長”ではなく“ただの二人”としての距離が、秋空の下でゆっくりと縮まっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9by58dqc"/>
   </entry>
 </feed>
