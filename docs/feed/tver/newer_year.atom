@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-21T14:05:48+09:00</updated>
+  <updated>2026-03-21T16:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplqd29ltv</id>
+    <title>あのクズを殴ってやりたいんだ_[第２話 あのクズの正体]</title>
+    <updated>2026-03-21T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsvfys6xj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あのクズを殴ってやりたいんだ
+                &lt;a href="https://tver.jp/series/srsvfys6xj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplqd29ltv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月21日(土)15:00～&lt;br&gt;#4：3月23日(月)15:00～3月28日(土)14:59&lt;br&gt;#5：3月25日(水)15:00～3月30日(月)14:59&lt;br&gt;#6：3月28日(土)15:00～4月2日(木)14:59&lt;br&gt;#7：3月30日(月)15:00～4月4日(土)14:59&lt;br&gt;#8：4月2日(木)15:00～4月7日(火)14:59&lt;br&gt;#9：4月4日(土)15:00～4月9日(木)14:59&lt;br&gt;#10：4月7日(火)15:00～&lt;br&gt;------------&lt;br&gt;クズだと判明した海里（玉森裕太）のことを殴ってやりたい一心で、ほこ美（奈緒）は羽根木ボクシングジムへと入会。ところが、想像以上にハードなトレーニングに、ほこ美の筋肉は悲鳴をあげていた。ある日、ほこ美は市役所へとやってきた海里と出会う。威勢よく海里のことを殴る宣言をしたほこ美だったが、ひどい筋肉痛をバカにされ、悔しさを募らせる。なんとしても海里を殴るために、ほこ美はトレーナーの羽根木ゆい（岡崎紗絵）からジムへの正式入会条件として出された、縄跳びの自主練に励むのだった。そんな中、地域の活性化プロジェクトに携わるカメラマンとして海里を紹介され、ほこ美は驚きを隠せずにいた。筋肉痛だと知りながら自分をこき使う海里に振り回されっぱなしのほこ美だったが、真剣に撮影する海里の姿に思わず見惚れてしまい…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplqd29ltv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf6htb34b</id>
+    <title>あのクズを殴ってやりたいんだ_[第１話 負けっぱなしは嫌だ！]</title>
+    <updated>2026-03-21T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsvfys6xj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あのクズを殴ってやりたいんだ
+                &lt;a href="https://tver.jp/series/srsvfys6xj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf6htb34b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月21日(土)15:00～&lt;br&gt;#4：3月23日(月)15:00～3月28日(土)14:59&lt;br&gt;#5：3月25日(水)15:00～3月30日(月)14:59&lt;br&gt;#6：3月28日(土)15:00～4月2日(木)14:59&lt;br&gt;#7：3月30日(月)15:00～4月4日(土)14:59&lt;br&gt;#8：4月2日(木)15:00～4月7日(火)14:59&lt;br&gt;#9：4月4日(土)15:00～4月9日(木)14:59&lt;br&gt;#10：4月7日(火)15:00～&lt;br&gt;------------&lt;br&gt;真面目で真っ直ぐな性格の佐藤ほこ美（奈緒）は、幸せいっぱいなはずの結婚式当日、新郎の寺山衛（宮崎秋人）に逃げられてしまう。そこで彼が浮気をしていたことを知り、怒りに震えるほこ美は、殴りかかるも拳は空を切り、そのまま転んでしまった。そんな散々な状況に、カメラマンの葛谷海里（玉森裕太）は居合わせていた。衛と一緒に住んでいた部屋も解約され、ほこ美は母・明美（斉藤由貴）と妹・さや美（鳴海唯）、さや美の娘の美々（磯村アメリ）が暮らす実家へと身を寄せた。結婚式当日の騒動の噂が広まり、勤め先の市役所では腫れ物のように扱われ、式場では当日キャンセルした代金の支払いを強いられ、途方にくれるほこ美。そんなほこ美の前に現れた海里が、「力になれるかもしれない」と言い始め…！？ある日、衛を殴れなかった悔しさから、たまたま通りかかった羽根木ボクシングジムの前で立ち止まるほこ美に、ジムの会長・羽根木成（渡部篤郎）が声をかける。ほこ美は促されるままにジムの中へと歩みを進める。海里との出会いは「運命」なのか！？海里は一体何者なのか！？止まっていたほこ美の人生が、海里との出会いで動き出す！クズきゅんボクシングラブコメディの開幕！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf6htb34b"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf4pjfx89</id>
+    <title>あのクズを殴ってやりたいんだ_[第３話 あのクズなんて好きにならない！]</title>
+    <updated>2026-03-21T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsvfys6xj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あのクズを殴ってやりたいんだ
+                &lt;a href="https://tver.jp/series/srsvfys6xj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf4pjfx89.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月21日(土)15:00～&lt;br&gt;#4：3月23日(月)15:00～3月28日(土)14:59&lt;br&gt;#5：3月25日(水)15:00～3月30日(月)14:59&lt;br&gt;#6：3月28日(土)15:00～4月2日(木)14:59&lt;br&gt;#7：3月30日(月)15:00～4月4日(土)14:59&lt;br&gt;#8：4月2日(木)15:00～4月7日(火)14:59&lt;br&gt;#9：4月4日(土)15:00～4月9日(木)14:59&lt;br&gt;#10：4月7日(火)15:00～&lt;br&gt;------------&lt;br&gt;ほこ美（奈緒）が羽根木ジムに正式に加入できるよう「俺が縄跳び５００回の証人になるよ」と言ってくれた海里（玉森裕太）。クズだと分かっていながらも、ほこ美はふとした時に優しさを見せる海里に不覚にもドキドキしてしまう。ある日、同じ市役所に勤める大葉奏斗（小関裕太）の提案で、海里との仕事の打ち合わせも兼ねた食事会に参加することになったほこ美。なぜか食事会について来た同期の新田撫（玉井詩織）が、ほこ美がボクシングを始めたという話題を振る。「ボクシングは相手を敬うスポーツ」だと話す海里を見て、ほこ美は嬉しい気持ちになるのだった。その後ほこ美は、新しいプロジェクトの一環として行うイベントにボクシング体験を提案する。大葉の後押しもあって企画は通り、イベントを実施することになる。しかしイベント当日、思わぬ事態が起きてしまい……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf4pjfx89"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1prv4y7w</id>
     <title>青い鳥_[第八章 「再会」]</title>
@@ -3328,85 +3448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epip94ntvv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0khwtahw</id>
-    <title>年下の男_[第二回 回りだす崩壊の歯車]</title>
-    <updated>2026-03-20T16:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr687tumcv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 年下の男
-                &lt;a href="https://tver.jp/series/sr687tumcv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_16時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0khwtahw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：3月20日(金)16:00～&lt;br&gt;#3-5：3月20日(金)16:00～3月28日(土)15:59&lt;br&gt;#6-8：3月28日(土)16:00～4月5日(日)15:59&lt;br&gt;#9-11：4月5日(日)16:00～&lt;br&gt;------------&lt;br&gt;一線を越えてしまった伊崎（高橋克典）と花枝（風吹ジュン）。家族の前では若い男と食事したことの感想を、夫・勇一郎（平田満）の方がいいと誤魔化す花枝。そんな母と伊崎のことを何も知らない千華子（稲森いずみ）は、伊崎にプロポーズを断られたにも関わらず、再度アタックしようとしていた。千華子は謙吾（賀集利樹）に想いを打ち明け“年下の男にアプローチされる女”を演じるため、千華子が通うジムに迎えに来てくれるよう頼む。しかし、千華子を振って以来、伊崎はジムに現れない。養父の岡崎次郎（高橋昌也）が伊崎を外で待っていたのが原因で風邪を引いてしまい、献身的に看病していたのだ。そんなある日、伊崎に話をするために来たと言ってジムに現れた次郎を、千華子と謙吾は家まで送ることに。伊崎が帰るまで彼の生い立ちを話す次郎。そして、帰宅した伊崎が感情をあらわにして次郎に自分の想いを伝える姿を見て、千華子は彼への想いをさらに募らせる。一方、花枝は、伊崎とのことは一度きりの過ちと割り切り、彼とはもう会うまいと考えていたが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0khwtahw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epghff8x7y</id>
-    <title>パパはニュースキャスター_[第10回 「パパの結婚物語」]</title>
-    <updated>2026-03-20T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パパはニュースキャスター
-                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月27日(金)_13時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epghff8x7y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月2日(月)14:00～3月31日(火)23:59&lt;br&gt;#4：3月6日(金)14:00～3月13日(金)13:59&lt;br&gt;#5：3月8日(日)14:00～3月15日(日)13:59&lt;br&gt;#6：3月10日(火)14:00～3月17日(火)13:59&lt;br&gt;#7：3月13日(金)14:00～3月20日(金)13:59&lt;br&gt;#8：3月15日(日)14:00～3月22日(日)13:59&lt;br&gt;#9：3月17日(火)14:00～3月24日(火)13:59&lt;br&gt;#10：3月20日(金)14:00～3月27日(金)13:59&lt;br&gt;#11：3月22日(日)14:00～3月29日(日)13:59&lt;br&gt;#12：3月24日(火)14:00～3月31日(火)23:59&lt;br&gt;------------&lt;br&gt;竜太郎（田村正和）が風邪で寝込んでしまった。愛たちは、こんな時、竜太郎にお嫁さんがいてくれたらと思うのだが、肝心の竜太郎はまるでその気がない。そんな時、竜太郎が若い女性とホテルへ入るところを写真誌にスクープされてしまう。相手は客室乗務員の工藤今日子（蜷川有紀）で、松本家の妻・文子（松本留美）の後輩だった。酔っていた竜太郎はまた例の悪い癖が出て、彼女を口説いてしまったのだ。一方、竜太郎が今日子と結婚してしまったら、自分たちは追い出されると思った愛たち。結婚相手はみゆき（浅野温子）がよいと考えるのだが、竜太郎は「誰とも結婚する気はない」と言い切る。その夜、鏡家にやってきたみゆきは竜太郎に「愛たちの存在を知っている」と打ち明けるのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epghff8x7y"/>
   </entry>
 </feed>
