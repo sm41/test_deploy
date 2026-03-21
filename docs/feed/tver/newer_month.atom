@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-21T20:05:48+09:00</updated>
+  <updated>2026-03-21T22:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnu3mt3il</id>
+    <title>ちるらん 新撰組鎮魂歌_[ちるらん 新撰組鎮魂歌 徹底ガイド]</title>
+    <updated>2026-03-21T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srozs5n6nt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ちるらん 新撰組鎮魂歌
+                &lt;a href="https://tver.jp/series/srozs5n6nt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnu3mt3il.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ３月２６、２７日２夜連続放送「ちるらん 新撰組鎮魂歌」主演・山田裕貴、ほか豪華キャスト陣が集結した話題のドラマ！注目のストーリーをいち早くお届け！最強のスタッフ陣がこの作品にかける熱い想いとは！さらに渡辺監督が撮影セットのこだわりを紹介！これを見ればより「ちるらん」の世界に引き込まれること間違いなし！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnu3mt3il"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epkwq0gz3z</id>
     <title>ドラマ『非正規雇用 リズム＆サバイブ』_[ドラマ『非正規雇用 リズム＆サバイブ』]</title>
