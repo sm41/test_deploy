@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-22T00:06:48+09:00</updated>
+  <updated>2026-03-22T02:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfaxzntr8</id>
+    <title>いま、どこにいるの？　推しにGPSつけてみた_[第3話　推しに追われる!?]</title>
+    <updated>2026-03-22T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs6jkwcj8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ いま、どこにいるの？　推しにGPSつけてみた
+                &lt;a href="https://tver.jp/series/srs6jkwcj8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_00時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfaxzntr8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                話題のオーディション番組を経て結成された&#13;&lt;br&gt;アイドルグループ「GOLDEN PASS」&#13;&lt;br&gt;&#13;&lt;br&gt;そんな推しアイドルたちにGPSをつけ行動を監視していた明日香だが、逆にまさかの推しに追われることになってしまう。&#13;&lt;br&gt;そんな中メンバーの1人、ノアが明日香の場所を突き止め話をする事に。そこでノアから告げられたのは「もうゴルパスに関わらないで下さい」&#13;&lt;br&gt;その言葉を受け推しから離れることに、、、&#13;&lt;br&gt;しかし、一度は離れることを決意した明日香だが&#13;&lt;br&gt;推しのピンチな状況を助けるべく再び動き出す！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfaxzntr8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epe90oq799</id>
     <title>森英恵 Butterfly beyond　テレビ朝日ドラマプレミアム_[生誕100年！世界を魅了したファッションデザイナー森英恵。知られざる若き日の奮闘を描く!!]</title>
