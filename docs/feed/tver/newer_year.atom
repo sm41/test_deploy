@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-21T02:06:30+09:00</updated>
+  <updated>2026-03-21T11:09:45+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -3368,45 +3368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvkgro8bi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvipfrbgg</id>
-    <title>過保護のカホコ_[第8話]</title>
-    <updated>2026-03-20T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhopmt3nj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 過保護のカホコ
-                &lt;a href="https://tver.jp/series/srhopmt3nj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月20日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvipfrbgg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/6(金)12:00～&lt;br&gt;#4-5　3/6(金)12:00～&lt;br&gt;#6-7　3/13(金)12:00～&lt;br&gt;#8-10+SP　3/20(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;カホコ(高畑充希)は家族の考え方を巡り初(竹内涼真)と喧嘩別れしてしまったことに激しく落ち込むものの、泉(黒木瞳)と正高(時任三郎)の前では超ハイテンションで振る舞う。病気の初代(三田佳子)にも孫が見せられるようにと婚活を宣言する。一方、なかなか絵に集中できない初のもとにはイト(久保田紗友)が現れ、自分と付き合わないかと迫っていて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvipfrbgg"/>
   </entry>
 </feed>
