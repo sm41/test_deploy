@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-22T16:06:07+09:00</updated>
+  <updated>2026-03-22T18:06:07+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ept47chqqh</id>
+    <title>スケバン刑事_[第22話「地獄に落ちろ！悪魔の一族」]</title>
+    <updated>2026-03-22T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月29日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept47chqqh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                三姉妹が記者会見を行っている最中、剛三はサキに全てを語った。剛三は、不正を知ったサキの父を殺し、母に罪を着せたのだ。三平と神は、その告白をマイクを通じて記者会見場へ流すことに成功した。亜悠巳は神の手によって捕まり、久巳は沼たちによって捕まえられた。剛三は逮捕よりも死を選んだ。麗巳は野望が絶たれたことを知り、爆破装置のスイッチを押す。サキは釈放された母とめでたく再会するのであった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ept47chqqh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4zdtj3en</id>
     <title>＆Hulu_[特集(1)3/31番組派生SPライブ開催！「CANDY TUNEのきゃんちゅーできる？」(2)実写化第2弾「時計館の殺人」の見所▼ドラマ版「ジャッカルの日」前半を放送]</title>
@@ -88,85 +128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfaxzntr8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epe90oq799</id>
-    <title>森英恵 Butterfly beyond　テレビ朝日ドラマプレミアム_[生誕100年！世界を魅了したファッションデザイナー森英恵。知られざる若き日の奮闘を描く!!]</title>
-    <updated>2026-03-21T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryasmalwi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 森英恵 Butterfly beyond　テレビ朝日ドラマプレミアム
-                &lt;a href="https://tver.jp/series/sryasmalwi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月04日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月21日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe90oq799.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                厳格な父・徳造（仲村トオル）、朗らかな母・ノブ（木村佳乃）のもと、のどかな村で育った英恵（八木莉可子）。東京の女子大に在学中、戦況が悪化し勤労動員へ。そんな中で運命の出会いをはたしたのが、森賢（中島裕翔）だった。終戦後、英恵は賢と結婚。生まれ来る我が子のために洋裁を習いはじめた英恵は、その面白さに夢中になり、スーツやドレスを自在に作れるまでに上達！オーダーメイドの店“ひよしや”を開店するが…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epe90oq799"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnu3mt3il</id>
-    <title>ちるらん 新撰組鎮魂歌_[ちるらん 新撰組鎮魂歌 徹底ガイド]</title>
-    <updated>2026-03-21T22:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srozs5n6nt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ちるらん 新撰組鎮魂歌
-                &lt;a href="https://tver.jp/series/srozs5n6nt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnu3mt3il.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ３月２６、２７日２夜連続放送「ちるらん 新撰組鎮魂歌」主演・山田裕貴、ほか豪華キャスト陣が集結した話題のドラマ！注目のストーリーをいち早くお届け！最強のスタッフ陣がこの作品にかける熱い想いとは！さらに渡辺監督が撮影セットのこだわりを紹介！これを見ればより「ちるらん」の世界に引き込まれること間違いなし！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnu3mt3il"/>
   </entry>
 </feed>
