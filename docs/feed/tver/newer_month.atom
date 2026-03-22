@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-22T14:05:07+09:00</updated>
+  <updated>2026-03-22T16:06:07+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -168,45 +168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnu3mt3il"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkwq0gz3z</id>
-    <title>ドラマ『非正規雇用 リズム＆サバイブ』_[ドラマ『非正規雇用 リズム＆サバイブ』]</title>
-    <updated>2026-03-21T17:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmirzdugy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドラマ『非正規雇用 リズム＆サバイブ』
-                &lt;a href="https://tver.jp/series/srmirzdugy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月21日(土)_17時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月04日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月21日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TVQ九州放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkwq0gz3z.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                町工場の非正規社員‧林健斗（加藤 諒）は、極端に声が小さく、社会の隅っこでなんとなく日々をやり過ごしていた。職場に愛着があるわけでもない。ただ周囲の顔色を伺い、波風を立てないように自分を抑える。それが彼の守ってきた、平穏で無機質な日常だった。しかし、AIによる効率化を掲げる企業の買収劇が、その静かな日々を一変させる。容赦なく突きつけられる理不尽な論理。逃げ場のない怒りが限界を超えたとき、健斗の感情は「ダンス」となって爆発する。言葉で届かないなら、ダンスで語り尽くす。感情を乗せたそのリズムは、冷え切っていた仲間の心を揺さぶり、静かな工場を熱狂のステージへと変えていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkwq0gz3z"/>
   </entry>
 </feed>
