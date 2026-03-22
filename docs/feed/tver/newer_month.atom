@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-22T20:06:07+09:00</updated>
+  <updated>2026-03-22T22:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1yc5ka1t</id>
+    <title>リブート_[第９話 夫婦]</title>
+    <updated>2026-03-22T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リブート
+                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月29日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1yc5ka1t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3月29日いよいよ最終回】お気に入り登録で見逃さない！&lt;br&gt;物語は最終章へ！&lt;br&gt;すべてを明かした夫婦の反撃開始！&lt;br&gt;冬橋（永瀬廉）から夏海（戸田恵梨香）を救い出した早瀬（鈴木亮平）。&lt;br&gt;しかし夏海は、なおも自分が“夏海”であることを認めようとしない。&lt;br&gt;そんな彼女に、早瀬は「早瀬として」、ひとりの夫として、そして拓海（矢崎滉）の父として、夏海への思いを涙ながらに語る。守れなかった後悔、愛していたという事実、そして今も消えない家族への願い。その真っ直ぐな言葉に、夏海の心は揺らぐ。&lt;br&gt;やがて夏海は涙ながらに謝罪し、早瀬を受け入れる。家族を守るためには、もはや合六（北村有起哉）を組織ごと潰すしかない。&lt;br&gt;２人は壮絶な覚悟を胸に、合六へ宣戦布告する。&lt;br&gt;だが、その直後、合六は冷酷な報復に出る。&lt;br&gt;手下をハヤセ洋菓子店へと差し向け、拓海を人質に取るのだった。&lt;br&gt;急ぎ救出へ向かう早瀬と夏海。&lt;br&gt;果たして、間に合うのか。&lt;br&gt;一方その頃、合六は裏で真北（伊藤英明）の兄・弥一（市川團十郎）と接触していた。&lt;br&gt;２人の間で交わされる“ある約束”。&lt;br&gt;それは、この抗争をさらに巨大な闇へと発展させるものだった。&lt;br&gt;追い詰められた早瀬は、真北のもとを訪れ、協力を求める。&lt;br&gt;そこで告げられたのは、警察内部に合六のスパイが潜んでいるという衝撃の事実。&lt;br&gt;敵は外だけではない。&lt;br&gt;それぞれが合六を倒すために動き出す中、早瀬は絶体絶命の窮地へと追い込まれていく。&lt;br&gt;家族のために命をかける夫婦のすべてを賭けた最終局面が、幕を開ける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1yc5ka1t"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4692ssw9</id>
     <title>孤独のグルメ Season1_[第11話 文京区根津飲み屋さんの特辛カレーライス]</title>
@@ -128,85 +168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ept47chqqh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4zdtj3en</id>
-    <title>＆Hulu_[特集(1)3/31番組派生SPライブ開催！「CANDY TUNEのきゃんちゅーできる？」(2)実写化第2弾「時計館の殺人」の見所▼ドラマ版「ジャッカルの日」前半を放送]</title>
-    <updated>2026-03-22T02:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_02時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月04日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月21日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4zdtj3en.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                特集は2本立て！&lt;br&gt;(1)日本テレビで4週連続放送された冠番組「CANDY TUNEのきゃんちゅーできる？」&lt;br&gt;番組から派生したSPライブが3月31日開催！それを前に冠番組をおさらい！&lt;br&gt;(2)「時計館の殺人」綾辻ミステリー「館」シリーズ実写化第2弾！十角館の惨劇から3年。新たな事件が…&lt;br&gt;▼エピソード1は「ジャッカルの日」前半&lt;br&gt;1973年に公開された名作映画をドラマ版にリブート&lt;br&gt;(C) Carnival Film &amp; Television Limited 2024.
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4zdtj3en"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfaxzntr8</id>
-    <title>いま、どこにいるの？　推しにGPSつけてみた_[第3話　推しに追われる!?]</title>
-    <updated>2026-03-22T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs6jkwcj8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ いま、どこにいるの？　推しにGPSつけてみた
-                &lt;a href="https://tver.jp/series/srs6jkwcj8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月21日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfaxzntr8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                話題のオーディション番組を経て結成された&#13;&lt;br&gt;アイドルグループ「GOLDEN PASS」&#13;&lt;br&gt;&#13;&lt;br&gt;そんな推しアイドルたちにGPSをつけ行動を監視していた明日香だが、逆にまさかの推しに追われることになってしまう。&#13;&lt;br&gt;そんな中メンバーの1人、ノアが明日香の場所を突き止め話をする事に。そこでノアから告げられたのは「もうゴルパスに関わらないで下さい」&#13;&lt;br&gt;その言葉を受け推しから離れることに、、、&#13;&lt;br&gt;しかし、一度は離れることを決意した明日香だが&#13;&lt;br&gt;推しのピンチな状況を助けるべく再び動き出す！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfaxzntr8"/>
   </entry>
 </feed>
