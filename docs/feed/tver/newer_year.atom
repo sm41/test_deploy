@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-22T18:06:07+09:00</updated>
+  <updated>2026-03-22T20:06:07+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epf1exmuqf</id>
+    <title>パーフェクトクライム_[第８話]</title>
+    <updated>2026-03-22T20:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sriizryu2p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パーフェクトクライム
+                &lt;a href="https://tver.jp/series/sriizryu2p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_20時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月22日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf1exmuqf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                東雲の仕掛けた罠の正体を知り、傷つき、苦しむ香織！&lt;br&gt;一方、香織を憎んでいたはずが心を奪われてしまった東雲。&lt;br&gt;互いに想いを寄せながらもすれ違う２人は…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月15日(日) 夜8時00分～　#1&lt;br&gt;3月16日(月) 夜8時00分～　#2&lt;br&gt;3月17日(火) 夜8時00分～　#3&lt;br&gt;3月18日(水) 夜8時00分～　#4&lt;br&gt;3月19日(木) 夜8時00分～　#5&lt;br&gt;3月20日(金) 夜8時00分～　#6&lt;br&gt;3月21日(土) 夜8時00分～　#7&lt;br&gt;3月22日(日) 夜8時00分～　#8&lt;br&gt;3月23日(月) 夜8時00分～　#9&lt;br&gt;3月24日(火) 夜8時00分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf1exmuqf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epm5zn9m5m</id>
+    <title>ももいろ あんずいろ さくらいろ_[最終話「愛する人か？愛してくれる人か？四角関係ラブ完結！」]</title>
+    <updated>2026-03-22T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli5jvpsq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ももいろ あんずいろ さくらいろ
+                &lt;a href="https://tver.jp/series/srli5jvpsq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月22日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm5zn9m5m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                愛する人か、愛してくれる人か？&lt;br&gt;思いつめるあまり階段から転落してしまった杏(奥仲麻琴)。病室で仲直りを果たした有香(鈴木ゆうか)に対し、「翔(中原弘貴)がいるのに哲也(岐洲匠)のことを気にしてしまう」と明かし…！病室の外で話を聞いてしまった翔は杏の本心を確かめるために、杏と哲也がデートをするように仕組む。杏と哲也の思いはどこに向かうのか…！？&lt;br&gt;四角関係ラブロマンス、ついに完結！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月17日(火) 夜7時30分～　#1&lt;br&gt;3月18日(水) 夜7時30分～　#2&lt;br&gt;3月19日(木) 夜7時30分～　#3&lt;br&gt;3月20日(金) 夜7時30分～　#4&lt;br&gt;3月21日(土) 夜7時30分～　#5&lt;br&gt;3月22日(日) 夜7時30分～　#6（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epm5zn9m5m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprimnzlps</id>
     <title>高原へいらっしゃい（佐藤浩市主演）_[第三話「面川の涙」]</title>
@@ -3608,165 +3688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1d7njbu6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzms6twmk</id>
-    <title>恋ノチカラ_[第6話 大問題発生！！会社が倒産する]</title>
-    <updated>2026-03-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsnjntvxm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 恋ノチカラ
-                &lt;a href="https://tver.jp/series/srsnjntvxm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月28日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzms6twmk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月12日(日)&lt;br&gt;#4：03月16日(月) ～ 03月22日(日)&lt;br&gt;#5：03月19日(木) ～ 03月25日(水)&lt;br&gt;#6：03月22日(日) ～ 03月28日(土)&lt;br&gt;#7：03月25日(水) ～ 03月31日(火)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;#11：04月06日(月) ～ 04月12日(日)&lt;br&gt;&lt;br&gt;壮吾（坂口憲二）が担当していた広小路製薬のパンフレットにミスが見つかった。貫井（堤真一）は、「安心して仕事を任せることもできない！」と責めるが、籐子（深津絵里）は最近仕事に集中できていない壮吾の様子が気にかかっていた。「どこからか引き抜きの話しがきていて、ここを辞めるのでは？」と、隠れて誰かに電話してる壮吾を見ている吉武（西村雅彦）は、冗談めかして言うのだが。&lt;br&gt;その後、籐子は「実は好きな女性のことで悩んでいて・・・」と直接壮吾の口から元気のない理由を打ち明けられ、少しホッとするのだった。&lt;br&gt;そこへ、広小路製薬から、明日のイベント用に使うハーブの種が間違って届いたとの連絡が入る。春菜（矢田亜希子）とデート中の貫井には知らせずに、二人だけで何とかしようと籐子と壮吾は、こころあたりの店に連絡を取り始める。しかし、そこに偶然事務所に戻ってきた貫井は、理由あってそのハーブにこだわる壮吾の思いも聞かず、代用品によってこの危機を乗りきろうと動きだした。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『恋ノチカラ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzms6twmk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy4ge7y3y</id>
-    <title>大切なことはすべて君が教えてくれた_[第6話 半年後]</title>
-    <updated>2026-03-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjku6en1b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大切なことはすべて君が教えてくれた
-                &lt;a href="https://tver.jp/series/srjku6en1b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月28日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy4ge7y3y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：3月13日(金) ～ 4月9日(木)&lt;br&gt;#4：3月16日(月) ～ 3月22日(日)&lt;br&gt;#5：3月19日(木) ～ 3月25日(水)&lt;br&gt;#6：3月22日(日) ～ 3月28日(土)&lt;br&gt;#7：3月25日(水) ～ 3月31日(火)&lt;br&gt;#8：3月28日(土) ～ 4月3日(金)&lt;br&gt;#9：3月31日(火) ～ 4月6日(月)&lt;br&gt;#10：4月3日(金) ～ 4月9日(木)&lt;br&gt;&lt;br&gt;佐伯ひかり（武井咲）の告白により、柏木修二（三浦春馬）とあの夜、関係を持っていないことが判明した。だが、上村夏実（戸田恵梨香）は修二のひかりに対する思いを知り、結婚を取り止めようと決意する。&lt;br&gt;朝のホームルーム。担当する2年1組の生徒の前で、修二は半年間、謹慎することを告げる。生徒の反応は様々だ。夕方。夏実は正門への坂道で修二を待ち伏せする。「結婚式をキャンセルしたって？」と聞く修二に、夏実は万感の思いを込めて「さよなら」と告げる。&lt;br&gt;6カ月後。修二は実家の酒店を手伝っている。髪はボサボサで精気がない。来週から学校に復帰するというのに元気がない修二を両親が心配する。&lt;br&gt;繁華街のカフェで夏実と亜弥（内田有紀）が待ち合わせをする。亜弥は修二の子どもを身ごもっている夏実を気遣う。修二はまだ夏実が妊娠していることを知らない。&lt;br&gt;修二は半年の謹慎が解け、明稜学園高等学校に向かう。誰もいないはずの朝の職員室には夏実の姿があった。「会いたかった」と喜ぶ夏実に修二は戸惑いを隠せない。&lt;br&gt;教頭の鶴岡（風間杜夫）は修二にひかりが2学期いっぱいで他の高校に転校すると伝えた。駅の改札口で修二はひかりと母親の由梨（宮本裕子）と会う。母親から離れて修二と2人になったひかりは事故のときに感じたことを告白する。&lt;br&gt;翌日の夕方の理科実験準備室。夏実が妊娠していることを修二に告げると・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『大切なことはすべて君が教えてくれた』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy4ge7y3y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu1jey5j5</id>
-    <title>特命係長 只野仁 (2007年1月～3月放送)_[第24話 (令和コンプライアンスブレイクスルー版)]</title>
-    <updated>2026-03-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbc66zfuf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 特命係長 只野仁 (2007年1月～3月放送)
-                &lt;a href="https://tver.jp/series/srbc66zfuf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月31日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu1jey5j5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                電王堂の大手クライアントである城山製菓の二代目社長・健志（徳重聡）が、仕事そっちのけで秘書のルミ（荒井美恵子）と遊びまくっているらしい。おかげで今、城山製菓は分裂の危機だという。そこで黒川会長（梅宮辰夫）は只野（高橋克典）に命じ、学生時代は真面目だった彼がどうしてそうなってしまったのか調べさせる。さっそく只野は健志の専属運転手になり、潜入調査を開始するのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epu1jey5j5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epty52vyhm</id>
-    <title>Chef～三ツ星の給食～_[第6話 大切な人に作る涙のスープ]</title>
-    <updated>2026-03-22T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrrht3ogv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Chef～三ツ星の給食～
-                &lt;a href="https://tver.jp/series/srrrht3ogv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月28日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epty52vyhm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月09日(木)&lt;br&gt;#4：03月16日(月) ～ 03月22日(日)&lt;br&gt;#5：03月19日(木) ～ 03月25日(水)&lt;br&gt;#6：03月22日(日) ～ 03月28日(土)&lt;br&gt;#7：03月25日(水) ～ 03月31日(火)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;&lt;br&gt;光子（天海祐希）が、1品しか出せないという屋台のメニューに選んだ鴨のコンフィは、999円という価格、二流の鴨の欠点を感じさせない洗練されたカレー風味が受け、大人気となっていた。同じ頃、篠田（小泉孝太郎）は、三ツ星レストランの味を手頃な値段で楽しめる新店舗「ネオ・ビストロ・ラ・レーヌ」のオープンを控え、メニューの最終調整をしていた。&lt;br&gt;一方、荒木（遠藤憲一）が作った給食の献立に、オニオングラタンスープがあると気づいた光子はテンションがあがる。自分にとって特別な一品だという光子に、荒木は高級食材を使ったスープではダメだと警告。しかし光子は、三ツ星レストランのレシピとまったく同じで給食の予算にはめられる上に、絶対子供が大好きな味だと自信満々。すると、晴子（川口春奈）が、子供の好みに関心のない光子が作るオニオングラタンスープよりはるかにおいしい、特別なレシピで作るオニオングラタンスープを知っていると言った。光子は、自分のスープを食べたら考えが変わると余裕を見せるが、晴子は絶対に変わらないと譲らない。翌朝、晴子が調理室に入ると、光子がスープの下ごしらえをしていた。光子がスープについて話すうち、晴子の顔が曇り、怒りをあらわにするようになる。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『Chef～三ツ星の給食～』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epty52vyhm"/>
   </entry>
 </feed>
