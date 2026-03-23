@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-23T02:06:07+09:00</updated>
+  <updated>2026-03-23T11:50:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epjhwhvdzm</id>
+    <title>王になった男_[第6話]</title>
+    <updated>2026-03-23T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 王になった男
+                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjhwhvdzm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                宣化堂に毒を盛った犯人とされたのは、王妃付きのパク尚宮であった。取り調べが進む中、パク尚宮は毒殺され、王妃ソウンは窮地に陥る。しかし大妃がソウンを呪っていた証拠の品を、女官エヨンがパク尚宮の親族より手に入れる。何とかソウンを救いたいハソンは、大妃の罪を不問に付す代わりに、パク尚宮を殺害した犯人を差しだすよう迫る。実行犯の自白により廃妃を免れるソウン。いよいよ王宮を去る時が来たと覚悟を決めるハソン。一方、心を病んだ王の姿に衝撃を受けたイ・ギュは、ある決意を固めていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjhwhvdzm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0hy62riz</id>
+    <title>ラブミーフォローミー！_[第3話 何でもアリって言ったよね？]</title>
+    <updated>2026-03-23T03:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr46ljbsw3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ラブミーフォローミー！
+                &lt;a href="https://tver.jp/series/sr46ljbsw3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_03時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月13日(月)_01時49分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0hy62riz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                インフルエンサーサバイバル番組「ラブミーフォローミー！」&#13;&lt;br&gt;&#13;&lt;br&gt;規則違反により、突如強制退場を言い渡されたビビビ。規則の曖昧さを指摘したところ、退場を取り消す「スペシャルミッション」を突きつけられる。そんな中、怪しい動きが…？「優勝できたら、なれるかもね、みんなに愛される人気者に……！」　［期間限定無料配信］　毎週日曜深夜1時50分からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0hy62riz"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epow1ixyjx</id>
+    <title>田鎖ブラザーズ_[先取り考察スペシャル]</title>
+    <updated>2026-03-23T02:58:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_02時58分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epow1ixyjx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                兄・岡田将生×弟・染谷将太！時効になった両親殺害事件の犯人を追うため、警察官となった“田鎖ブラザーズ”の完全オリジナルクライムサスペンスの見どころを大公開！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epow1ixyjx"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eptuiin0z8</id>
     <title>#裏アカ教師_[#1「ようこそ、裏アカの世界へ」]</title>

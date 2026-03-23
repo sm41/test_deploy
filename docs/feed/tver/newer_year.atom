@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-23T02:06:07+09:00</updated>
+  <updated>2026-03-23T11:50:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7sj82gsu</id>
+    <title>アンナチュラル_[第５話 死の報復]</title>
+    <updated>2026-03-23T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhvwqg2sh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ アンナチュラル
+                &lt;a href="https://tver.jp/series/srhvwqg2sh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7sj82gsu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：飯尾和樹 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月20日(金)10:00～4月17日(金)21:59&lt;br&gt;#4：3月20日(金)10:00～3月27日(金)9:59&lt;br&gt;#5：3月23日(月)10:00～3月30日(月)9:59&lt;br&gt;#6：3月27日(金)10:00～4月3日(金)9:59&lt;br&gt;#7：3月30日(月)10:00～4月6日(月)9:59&lt;br&gt;#8：4月3日(金)10:00～4月10日(金)9:59&lt;br&gt;#9：4月6日(月)10:00～4月13日(月)9:59&lt;br&gt;#10：4月10日(金)10:00～4月17日(金)9:59&lt;br&gt;------------&lt;br&gt;UDIラボの所長・神倉（松重豊）に中堂（井浦新）の過去を問い詰めたミコト（石原さとみ）は、８年前、中堂が恋人の他殺体を解剖したことを知る。そんなある日、UDIラボに青森からご遺体が届く。解剖を依頼してきたのは鈴木巧（泉澤祐希）で、妻の死因を調べて欲しいという。海に飛び込むところを目撃した人がいたため警察は自殺と判断したが、鈴木は妻が自殺をするはずがないと断言。早速、解剖に取り掛かるミコトたちだったが、葬儀社の木林（竜星涼）が血相を変えてUDIへやってくる。なんと、鈴木が持ち込んだのは葬儀場から盗んだご遺体だったのだ。つまり執刀医のミコトは、死体損壊罪という大罪を犯したことになり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7sj82gsu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz12bjeo8</id>
     <title>ミステリと言う勿れ_[第10話 ファイナルエピソード！さようなら、ライカさん・・・]</title>
@@ -3128,285 +3168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epqohro0g9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqhobusxs</id>
-    <title>ホテルコンシェルジュ_[第３話 VIP客はワガママ歌舞伎役者！一夜限り奇跡の舞]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7iuxdsrd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ホテルコンシェルジュ
-                &lt;a href="https://tver.jp/series/sr7iuxdsrd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqhobusxs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：山田裕貴 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：赤間麻里子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～&lt;br&gt;#4：3月23日(月)12:00～3月28日(土)11:59&lt;br&gt;#5：3月26日(木)12:00～3月31日(火)11:59&lt;br&gt;#6：3月28日(土)12:00～4月2日(木)11:59&lt;br&gt;#7：3月31日(火)12:00～4月5日(日)11:59&lt;br&gt;#8：4月2日(木)12:00～4月7日(火)11:59&lt;br&gt;#9：4月5日(日)12:00～4月10日(金)11:59&lt;br&gt;#10：4月7日(火)12:00～&lt;br&gt;------------&lt;br&gt;ある日、本城（三浦翔平）に貯金箱を持った少女・繭（田牧そら）が話しかけてきた。祖母の誕生日が明日のため、自分と祖母を貯金箱のお金で泊めて欲しいという。当然ながら宿泊費には全く足りない。しかし、コンシェルジュたちから事情を聞いた総支配人・鷲尾（高橋克典）は、“親子宿泊モニター”という名目で無料招待する。その翌日、フォルモントに人気歌舞伎役者の松山惣太郎（大東駿介）がやってきた。惣太郎は従業員の中に美穂子（若村麻由美）の姿を見つけて喜ぶ。以前、ロンドン公演の折に泊まったホテルで世話になったというのだ。ロビーにいた他の客も惣太郎の姿に気付き、たちまち人だかりができてしまい、塔子（西内まりや）は部屋へと案内する。しかし部屋に着いた惣太郎は、事前にリクエストしていたベッドカバーの変更を唐突に指示したり、思いつきで前言を変更し、塔子と客室係の高垣亜里砂（夏菜）は振り回されることに。さらに、塔子は惣太郎を囲む小宴会で、歌舞伎の知識がないために大失態を犯してしまう。一方、繭も祖母の森村澄江（草村礼子）と共にホテルに到着。楽しそうな繭と対照的に澄江は乗り気ではなく、お祝いなどは一切やめていただきたいとコンシェルジュたちに申し出る。繭は澄江を喜ばせたい一心なのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqhobusxs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnl1ix69m</id>
-    <title>じゃあ、あんたが作ってみろよ_[第５話 とり天よ、空を飛べ！]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp2094kb1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ じゃあ、あんたが作ってみろよ
-                &lt;a href="https://tver.jp/series/srp2094kb1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月28日(土)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnl1ix69m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TVerアワード2025 大賞 受賞記念】&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：菅原大吉 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：中条あやみ 関連作品を期間限定配信！！&lt;br&gt;【TBS】火曜ドラマ「時すでにおスシ!?」４月スタート！ 出演：杏花 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月18日(水)12:00～&lt;br&gt;#4：3月19日(木)12:00～3月25日(水)11:59&lt;br&gt;#5：3月22日(日)12:00～3月28日(土)11:59&lt;br&gt;#6：3月25日(水)12:00～3月31日(火)11:59&lt;br&gt;#7：3月28日(土)12:00～4月3日(金)11:59&lt;br&gt;#8：3月31日(火)12:00～4月6日(月)11:59&lt;br&gt;#9：4月3日(金)12:00～4月9日(木)11:59&lt;br&gt;#10：4月6日(月)12:00～&lt;br&gt;------------&lt;br&gt;ミナト（青木柚）が元カノ・関田（芋生悠）と会っているところを目撃し、浮気ではないかと動揺する鮎美（夏帆）。しかし全く悪気のない様子のミナトは、鮎美が待つ家に関田を連れて帰ってきた挙句、一緒に飲もうと提案してくる始末。しかも、鮎美が料理を作ってミナトの帰りを待つ中、スーパーでお惣菜を買って帰ってくるなどマイペースを崩す気配もなく、鮎美は悶々としてしまう。&lt;br&gt;一方、ミナトに鮎美を託すと決めたもののいまだ未練を捨てきれない勝男（竹内涼真）のもとへ、地元の大分から兄・鷹広（塚本高史）が訪ねてくる。そこで勝男は、いつでも自分より優秀で１人で何でも解決できる人だと思っていた鷹広が抱えていた苦悩に触れることに。そして鷹広を励ますため、あることを思い付く。しかし、勝男のその思い付きに鮎美も巻き込まれていき…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnl1ix69m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkv3an1ia</id>
-    <title>流星ワゴン_[第２話「笑って泣ける親子の新コンビ！土下座愛」]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtoctzepc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星ワゴン
-                &lt;a href="https://tver.jp/series/srtoctzepc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkv3an1ia.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)12:00～3月30日(月)11:59&lt;br&gt;#5：3月27日(金)12:00～4月2日(木)11:59&lt;br&gt;#6：3月30日(月)12:00～4月5日(日)11:59&lt;br&gt;#7：4月2日(木)12:00～4月8日(水)11:59&lt;br&gt;#8：4月5日(日)12:00～4月11日(土)11:59&lt;br&gt;#9：4月8日(水)12:00～4月14日(火)11:59&lt;br&gt;#10：4月11日(土)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;再びワゴンに乗った一雄（西島秀俊）と忠雄（香川照之）が次に辿り着いたのは、一雄の勤めていた会社の取引先「タカラベ電機」会長の葬儀会場だった。そこに、一雄の上司・藤木常務（木下ほうか）が現われる。後に一雄のリストラを決める張本人だ。この日行われる精進落としが、実は常務一派の決起集会であったことを憶えていた一雄は、常務に取り入るため、本来断っていたその会に参加することにする。しかし、こちらを見下す常務の態度に機嫌を損ねた忠雄は、踵を返して一雄の家へ。一雄はしぶしぶ追いかけるが、その道中で美代子（井川遥）と広樹（横山幸汰）の姿を見かける。２人は捨て犬を抱いていた。「お父さんに相談してみたら？」と美代子が勧めても、「どうせダメだよ」と広樹は子犬を元いた場所へ返す。捨て犬のことも、広樹の思いも、全く知らなかった一雄。本当にやり直さなければいけないのは、精進落としよりも、こっちなのではないか？そんな考えが一雄と忠雄の頭をよぎる。一雄が忠雄を連れて家に帰るが、広樹は忠雄のことを全く覚えていなかった。だが忠雄に促された広樹は、犬を飼いたいと一雄に頼む。しかし一雄は返事を迷う。一雄には、犬にまつわる少年時代の辛い記憶があるのだ。そしてその出来事は、忠雄が深く関わるものだった…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkv3an1ia"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epg4ugf7ys</id>
-    <title>有閑倶楽部_[第10話　魅録の涙…生きるも死ぬも一緒]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmjfxsoc1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 有閑倶楽部
-                &lt;a href="https://tver.jp/series/srmjfxsoc1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg4ugf7ys.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　3/1(日)12:00～&lt;br&gt;#4-5　3/8(日)12:00～&lt;br&gt;#6-7　3/15(日)12:00～&lt;br&gt;#8-10　3/22(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;有閑倶楽部の部室にクリスマスプレゼントに紛れて届いた拳銃を、魅録(赤西仁)はモデルガンと間違って発射してしまい、マスコミが騒ぎ出してしまう。そんな中、学園の権利書が理事の高千穂(中丸新将)に騙し取られたことが発覚。魅録らは、高千穂が事件の鍵を握っているとにらむがー。有閑倶楽部のメンバーたちは売却の危機が迫る聖プレジデント学園を守ることが出来るのか？6人が自分たちの居場所を守るために巨悪に立ち向かう感動の最終回！！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epg4ugf7ys"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epg1kmmnlo</id>
-    <title>弱くても勝てます～青志先生とへっぽこ高校球児の野望～_[第8話]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryf8ochb1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 弱くても勝てます～青志先生とへっぽこ高校球児の野望～
-                &lt;a href="https://tver.jp/series/sryf8ochb1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月29日(日)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg1kmmnlo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【水ドラ『月夜行路 ―答えは名作の中に―』（２０２６年４月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　3/8(日)12:00～&lt;br&gt;#4-5　3/15(日)12:00～&lt;br&gt;#6-8　3/22(日)12:00～&lt;br&gt;#9-11　3/29(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;いよいよ夏の県大会!甲子園を目標に士気を高める城徳。&lt;br&gt;一方、来年の春に研究室に戻ることが決まった青志(二宮和也)…。&lt;br&gt;青志先生とへっぽこ野球部の最初で最後の夏が始まる!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epg1kmmnlo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdhy7jpa1</id>
-    <title>流星ワゴン_[第３話「成功への道～鉄棒感動物語！奇跡を起こせ」]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtoctzepc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星ワゴン
-                &lt;a href="https://tver.jp/series/srtoctzepc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdhy7jpa1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)12:00～3月30日(月)11:59&lt;br&gt;#5：3月27日(金)12:00～4月2日(木)11:59&lt;br&gt;#6：3月30日(月)12:00～4月5日(日)11:59&lt;br&gt;#7：4月2日(木)12:00～4月8日(水)11:59&lt;br&gt;#8：4月5日(日)12:00～4月11日(土)11:59&lt;br&gt;#9：4月8日(水)12:00～4月14日(火)11:59&lt;br&gt;#10：4月11日(土)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;結局、一雄（西島秀俊）のリストラは回避出来なかった。浮かない表情でワゴンに揺られる一雄。一方、すっかりワゴンでのドライブに慣れた忠雄（香川照之）が暇をもてあまして騒ぐため、橋本（吉岡秀隆）はある場所にワゴンを停める。そこは健太（高木星来）が生前に通っていた小学校だった。そこで、健太は忠雄に逆上がりを教えて欲しいと練習を始めるが、一向にうまくいかない。死んだ時点で出来なかった事は、死んだ後に出来るようになることはないのだ。そうとは知らずに奮闘する健太を眺めながら、橋本は一雄に、健太を成仏させてやってほしいと頼む。未練を断ち切り、自らの死を受け入れなければ、成仏はできない。しかし一雄は「それは父親の役目では」と問うが、橋本は呟く。「私には無理なんです」と。小学校を離れ、一雄と忠雄が次に降り立った過去は、とある工場の前だった。今回は、なぜか健太も一緒に過去の世界へ降り立っていた。はしゃいで駆け出す健太を慌てて追いかける一雄と忠雄。だが、その先で、ある人物の全く知らない一面を目の当たりにする…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdhy7jpa1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd4tyf01o</id>
-    <title>有閑倶楽部_[第8話　花束爆弾！？]</title>
-    <updated>2026-03-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmjfxsoc1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 有閑倶楽部
-                &lt;a href="https://tver.jp/series/srmjfxsoc1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd4tyf01o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　3/1(日)12:00～&lt;br&gt;#4-5　3/8(日)12:00～&lt;br&gt;#6-7　3/15(日)12:00～&lt;br&gt;#8-10　3/22(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;魅録(赤西仁)の母・千秋(秋吉久美子)が海外視察から帰国した。その日は千秋の誕生日で、時宗(鹿賀丈史)から大きな花束を贈られるのが毎年恒例の大切なイベントとなっている。その頃、警視庁に配達されたプレゼント用の花束を手にした時宗は花束の中に爆弾が仕込まれ、離すと爆発する事を知り愕然となる。千秋との約束の時間が迫る中、犯人が千秋と夫婦喧嘩した時に憂さ晴らしで行った店で働くケイコ(鶴見辰吾)だとわかる。時宗は有閑倶楽部のメンバーに、捜索を依頼するがー
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd4tyf01o"/>
   </entry>
 </feed>
