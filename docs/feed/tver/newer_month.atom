@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-23T16:05:09+09:00</updated>
+  <updated>2026-03-23T18:06:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -528,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0ts2h5zy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ept47chqqh</id>
-    <title>スケバン刑事_[第22話「地獄に落ちろ！悪魔の一族」]</title>
-    <updated>2026-03-22T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月22日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月29日(日)_16時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept47chqqh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                三姉妹が記者会見を行っている最中、剛三はサキに全てを語った。剛三は、不正を知ったサキの父を殺し、母に罪を着せたのだ。三平と神は、その告白をマイクを通じて記者会見場へ流すことに成功した。亜悠巳は神の手によって捕まり、久巳は沼たちによって捕まえられた。剛三は逮捕よりも死を選んだ。麗巳は野望が絶たれたことを知り、爆破装置のスイッチを押す。サキは釈放された母とめでたく再会するのであった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ept47chqqh"/>
   </entry>
 </feed>
