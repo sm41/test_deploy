@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-24T18:06:06+09:00</updated>
+  <updated>2026-03-24T20:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epu78lkdu2</id>
+    <title>孤独のグルメ Season10_[第12話（最終回） 東京都千代田区麹町のイタリア食堂のミートローフ]</title>
+    <updated>2026-03-24T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season10
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu78lkdu2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                今年も残すところあと1週間。もうひと踏ん張りといつもの鞄を持ち、商談先へ。施工会社のオフィスで、旧知の社長の永井健太（黒田大輔）と談笑を交えながら打ち合わせをする五郎（松重豊）。仕事納めで片付けをしつつ忘年会の準備をする永井と社員たちを見て年末を実感するのだった。仕事終わり、クリスマスムードゼロの麹町のオフィス街を歩いていると昼休みの時間でランチに行くサラリーマンたちがこぞってオフィスから出てくる。その光景を見て、いつもの如く腹が減った五郎はお店を探しに麹町ランチレースに参戦。せっかくだから飯くらいクリスマスっぽくするか、とお店を探しているといい感じのイタリア料理店を発見し入店する。昭和男が思わず反応してしまうメニューに、お腹にドーンと来る料理の数々。“久しぶりの味と懐かしの旨さ”に思わず笑みをこぼしながら、イタリアンの本気を堪能した五郎のクリスマスランチとは。そして数日後、五郎も2022年の仕事納めと「築地」へ。様々な海産物が陳列された築地市場の活気ある風景の中を歩き、商談相手の小林洋（岩松了）のもとへ。年の瀬はゆっくり過ごすと決めていた矢先、小林から無茶ぶりな依頼を相談される。必死に断り続ける五郎だったが、しぶしぶ依頼を引き受けることに…。呆然とした表情で、エンジンをかけ、小さな相棒と共にゆっくりと走り出していく五郎。果たしてその行き先とは…。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu78lkdu2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqf12qcj6</id>
     <title>王になった男_[第7話]</title>
@@ -488,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epotg6yaf6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplr5b6yq6</id>
-    <title>ヤンドク！_[第11話 最期に残された希望とは？恩師の病を治せるか？]</title>
-    <updated>2026-03-23T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfpk34wmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンドク！
-                &lt;a href="https://tver.jp/series/srfpk34wmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplr5b6yq6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                湖音波（橋本環奈）は手術中の中田（向井理）の動作に違和感を覚え、手術後に「目、見えてないですよね？」と声をかける。すると中田は、髄膜腫で右側の視野が大きく欠けていることを打ち明ける。自分が手術をすると訴える湖音波に対し、「命が助かったとしても視力を失えば医者を続けることはできない」と断る中田。湖音波は食い下がるが、中田の決意は揺るがない。&lt;br&gt;手術を終えた厚労大臣・海原（井上肇）の元を訪れた鷹山（大谷亮平）に、中田は術後のケアについて相談したいと声をかける。二人が会議室へ行くと、そこには大河原（大塚寧々）が待ち受けていた。大河原は自身を含む経営陣の辞職に関する同意書を鷹山に差し出す。亜里沙（湯山新菜）の紹介状の扱いに関して責任を取るべきだと訴えるが、鷹山は反発。そこへ湖音波が入ってくると、室内でのやり取りすべてが院内に生配信されていると告げ…。&lt;br&gt;数日後、院内の状況は様変わりしていた。中田が辞職し姿を消してしまい、不安を覚える脳神経外科の一同に、湖音波は「とにかく手を動かそう！」と発破をかける。湖音波自身も何かに取りつかれたように仕事に没頭し、残業続きの毎日を送っていた。そんなある日の朝、脳神経外科のスタッフルームを潮五郎（吉田鋼太郎）が訪れる。中田が病気だと察した潮五郎は亡くなった妻を思い出したと言い、「今行かんと一生後悔するぞ」と湖音波を諭す。それを聞いて湖音波は中田に会いに行くが、すでに自宅を引き払っており途方に暮れる。そこに、颯良（宮世琉弥）から中田が倒れたと連絡が入る…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplr5b6yq6"/>
   </entry>
 </feed>
