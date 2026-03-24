@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-25T00:06:05+09:00</updated>
+  <updated>2026-03-25T02:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2648,45 +2648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0ffjmo7m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl09ov4pq</id>
-    <title>佐原先生と土岐くん_[第４話《ドラマシャワー》]</title>
-    <updated>2026-03-24T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmoy2dks.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 佐原先生と土岐くん
-                &lt;a href="https://tver.jp/series/srxmoy2dks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl09ov4pq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                文化祭のあと、土岐奏（八村倫太郎）は偶然資料室でスクラップブックを見つける。そのスクラップブックには、高校時代の佐原一狼（岐洲匠）が水泳で全国大会に出場し、大学ではオリンピック代表候補に選ばれたという輝かしい記録が残されていた。しかしそのことについて興味津々で佐原に尋ねてみると、佐原は急に態度を一変させるのだった。一方、土岐は藤堂兄弟のある秘密について知ることになる。そして、兄の慎治（松本大輝）の心の葛藤に気づいた佐原は、自身の過去について語り始め……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epl09ov4pq"/>
   </entry>
 </feed>
