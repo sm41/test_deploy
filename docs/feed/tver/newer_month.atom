@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-24T20:06:05+09:00</updated>
+  <updated>2026-03-24T22:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzmurri1o</id>
+    <title>東京P.D. 警視庁広報2係_[第9話 “真犯人”の告白！刑事部VS公安部の攻防]</title>
+    <updated>2026-03-24T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
+                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzmurri1o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                奈良刑務所に服役中の受刑者・大沼保（大塚明夫）は、面会にやって来たYBX社会部記者・稲田裕司（金子ノブアキ）に向かい、22年前に起きた政和党幹事長・清原崇の爆殺未遂事件について語り始めた。&lt;br&gt;&lt;br&gt;2004年3月15日。大沼は清原が自宅マンションから出てきたところを狙い、マンション前の物置に仕掛けた爆弾を遠隔で起動。物置ごと爆発させ、清原に重傷を負わせたという。&lt;br&gt;つまり、この事件の真犯人は大沼自身だというのだ。&lt;br&gt;22年前の捜査では、当時捜査一課の刑事だった伊澤嘉人（草川拓弥）を犯人だと断定していた。伊澤は、犯行時刻に清原のマンション周辺にいたことが確認されたほか、入信していた自己啓発団体“新生自尊の会”からの命令で犯行に及んだといい、本人の自白まで取れていた。その他にも、伊澤のコートに火薬が付着していたなど証拠は多数あったという。&lt;br&gt;&lt;br&gt;逮捕直前に伊澤は死亡。その後の警察は、“新生自尊の会”の組織的犯行として家宅捜索。団体を解体寸前まで追い込み、2019年には時効を迎えていた。&lt;br&gt;大沼から語られる言葉には、当時現場にいなければ分からなかったであろう事実ばかり。さらに、伊澤を犯人に仕立て上げたのは自分だとも言い出した。&lt;br&gt;&lt;br&gt;清原が89歳でこの世を去ったニュースが流れた矢先。稲田は、大沼の証言を元にこの22年前の事件の真相を報道したのだが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzmurri1o"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu78lkdu2</id>
     <title>孤独のグルメ Season10_[第12話（最終回） 東京都千代田区麹町のイタリア食堂のミートローフ]</title>
@@ -448,85 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep50s35kgs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epx0e3cktl</id>
-    <title>東京P.D. 警視庁広報2係_[第9話 みどころ]</title>
-    <updated>2026-03-23T23:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
-                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx0e3cktl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第9話放送の前に、8話のダイジェストでおさらい！！&lt;br&gt;&lt;br&gt;奈良刑務所に服役中の受刑者・大沼保（大塚明夫）は、面会にやって来たYBX社会部記者・稲田裕司（金子ノブアキ）に向かい、22年前に起きた政和党幹事長・清原崇の爆殺未遂事件について語り始めた。&lt;br&gt;&lt;br&gt;2004年3月15日。大沼は清原が自宅マンションから出てきたところを狙い、マンション前の物置に仕掛けた爆弾を遠隔で起動。物置ごと爆発させ、清原に重傷を負わせたという。&lt;br&gt;つまり、この事件の真犯人は大沼自身だというのだ。&lt;br&gt;22年前の捜査では、当時捜査一課の刑事だった伊澤嘉人（草川拓弥）を犯人だと断定していた。伊澤は、犯行時刻に清原のマンション周辺にいたことが確認されたほか、入信していた自己啓発団体“新生自尊の会”からの命令で犯行に及んだといい、本人の自白まで取れていた。その他にも、伊澤のコートに火薬が付着していたなど証拠は多数あったという。&lt;br&gt;&lt;br&gt;逮捕直前に伊澤は死亡。その後の警察は、“新生自尊の会”の組織的犯行として家宅捜索。団体を解体寸前まで追い込み、2019年には時効を迎えていた。&lt;br&gt;大沼から語られる言葉には、当時現場にいなければ分からなかったであろう事実ばかり。さらに、伊澤を犯人に仕立て上げたのは自分だとも言い出した。&lt;br&gt;清原が89歳でこの世を去ったニュースが流れた矢先。稲田は、大沼の証言を元にこの22年前の事件の真相を報道したのだが・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epx0e3cktl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epotg6yaf6</id>
-    <title>夫に間違いありません_[#12 家族のために罪を犯した女は聖母か悪女か]</title>
-    <updated>2026-03-23T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srny5zdcay.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫に間違いありません
-                &lt;a href="https://tver.jp/series/srny5zdcay" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epotg6yaf6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                家族を守るため、お金と引き換えに紗春（桜井ユキ）を殺してほしいと一樹（安田顕）に頼んだ聖子（松下奈緒）。その夜、仕事を終えた紗春を呼び出した聖子は、一樹とともに、かつて紗春が夫を突き落とした橋へと向かう。&lt;br&gt;一方、紗春の虐待から守るため、希美（磯村アメリ）を警察に保護してもらったという聖子の嘘に気付いた天童（宮沢氷魚）は、その真意を確かめるため聖子のもとへ向かおうとするが、その矢先、紗春が隠してきた秘密を知ることに。&lt;br&gt;その頃、橋の上に到着した聖子は、計画を確実に実行するため、ある細工をしていた。&lt;br&gt;家族を守るため、夫の共犯者になり罪と嘘を重ねてきた聖子と、大きな秘密を胸に抱えて夫を殺害し、保険金がおりることを待つ紗春。まるで導かれるようにつながり、“罪”という名の秘密で結ばれた2人の運命は…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epotg6yaf6"/>
   </entry>
 </feed>
