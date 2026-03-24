@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-24T12:06:05+09:00</updated>
+  <updated>2026-03-24T14:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epoa6e7zgi</id>
+    <title>青い鳥_[第九章 「新たなる旅」]</title>
+    <updated>2026-03-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgxlckmy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 青い鳥
+                &lt;a href="https://tver.jp/series/srxgxlckmy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1997年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoa6e7zgi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：佐野史郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月7日(土)14:00～4月7日(火)21:59&lt;br&gt;#4：3月7日(土)14:00～3月14日(土)13:59&lt;br&gt;#5：3月10日(火)14:00～3月17日(火)13:59&lt;br&gt;#6：3月14日(土)14:00～3月21日(土)13:59&lt;br&gt;#7：3月17日(火)14:00～3月24日(火)13:59&lt;br&gt;#8：3月21日(土)14:00～3月28日(土)13:59&lt;br&gt;#9：3月24日(火)14:00～3月31日(火)13:59&lt;br&gt;#10：3月28日(土)14:00～4月4日(土)13:59&lt;br&gt;#11：3月31日(火)14:00～4月7日(火)21:59&lt;br&gt;------------&lt;br&gt;理森（豊川悦司）は就職先の下関に向かう準備を進めていた。一方、誌織（山田麻衣子）は広務（佐野史郎）が自分をアメリカに留学させ、厄介払いしようとしていることを知る。やるせない気持ちになった誌織は、理森を訪ねる。そこへ広務が誌織を捜して理森の家に乗り込んでくる。誌織はかくまってくれるよう理森に頼むが、理森は広務を家に招き入れ、誌織を引き渡してしまう。広務は一旦誌織を自分の車の中で待たせ、理森に本音を吐き出すように語る。そして、理森が知ることのなかった６年前の事実が語られ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epoa6e7zgi"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0uuyneyn</id>
+    <title>パパはニュースキャスター_[最終回 「泣かないでパパ」]</title>
+    <updated>2026-03-24T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src8do37km.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ パパはニュースキャスター
+                &lt;a href="https://tver.jp/series/src8do37km" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0uuyneyn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ------------&lt;br&gt;#1-3：3月2日(月)14:00～3月31日(火)23:59&lt;br&gt;#4：3月6日(金)14:00～3月13日(金)13:59&lt;br&gt;#5：3月8日(日)14:00～3月15日(日)13:59&lt;br&gt;#6：3月10日(火)14:00～3月17日(火)13:59&lt;br&gt;#7：3月13日(金)14:00～3月20日(金)13:59&lt;br&gt;#8：3月15日(日)14:00～3月22日(日)13:59&lt;br&gt;#9：3月17日(火)14:00～3月24日(火)13:59&lt;br&gt;#10：3月20日(金)14:00～3月27日(金)13:59&lt;br&gt;#11：3月22日(日)14:00～3月29日(日)13:59&lt;br&gt;#12：3月24日(火)14:00～3月31日(火)23:59&lt;br&gt;------------&lt;br&gt;名古屋へ行ったはずの大塚愛（大塚ちか子）が、五十嵐（小坂一也）の家を出て戻ってきてしまった。さらに西尾愛の妹・千恵子（圡井千恵子）まで訪ねてきて、竜太郎（田村正和）は４人の子どもたちに囲まれる。その夜、憔悴（しょうすい）しきった五十嵐が鏡家を訪れ、大塚愛に帰ってきてほしいと訴える。その様子に胸を打たれた鈴木愛（鈴木美恵子）は、大塚愛の代わりに五十嵐家の養女になろうと決めるのだった。一方、西尾愛（西尾麻里）は千恵子を母のもとへ送りに行き、そのまま暮らすことになる。そして、１人残された大塚も、迎えにきた日向（目黒祐樹）に連れられて母のところへ帰って行き、とうとう竜太郎は１人になってしまった。更に、みゆき（浅野温子）も仕事でアメリカへ行くことが決まり、寂しさを隠せない竜太郎。３人の愛に煩わされて怒鳴った日々を思い出し、感傷的になったのも束の間、また新たに３人の少女が竜太郎を訪ねてきて…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0uuyneyn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epxwz1gykc</id>
+    <title>クリスマス･イヴ_[第５夜「信じる者は…救われない」]</title>
+    <updated>2026-03-24T13:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxm4v822x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ クリスマス･イヴ
+                &lt;a href="https://tver.jp/series/srxm4v822x" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_13時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_12時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1990年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxwz1gykc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：仙道敦子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月21日(土)13:00～4月17日(金)21:59&lt;br&gt;#4：3月21日(土)13:00～3月27日(金)12:59&lt;br&gt;#5：3月24日(火)13:00～3月30日(月)12:59&lt;br&gt;#6：3月27日(金)13:00～4月2日(木)12:59&lt;br&gt;#7：3月30日(月)13:00～4月5日(日)12:59&lt;br&gt;#8：4月2日(木)13:00～4月8日(水)12:59&lt;br&gt;#9：4月5日(日)13:00～4月11日(土)12:59&lt;br&gt;#10：4月8日(水)13:00～4月14日(火)12:59&lt;br&gt;#11：4月11日(土)13:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;美咲（清水美砂）の誘惑に負けた剛（吉田栄作）は、一夜の過ちが雪子（仙道敦子）に知られるのを恐れていた。美咲は剛に口止めされたにもかかわらず、村上（宅麻伸）とくるみ（松下由樹）に剛との出来事を話してしまう。&lt;br&gt;しかし、村上から相手にされない美咲は、腹いせにくるみの兄・杉作（ヒロミ）と酒を飲み、くるみの家に押しかける。酔って杉作に絡む美咲に怒ったくるみは、雪子と剛を呼び出し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxwz1gykc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epppmgdlw1</id>
     <title>レガッタ～君といた永遠～_[第７話]</title>
@@ -2608,125 +2728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epjp7ntghi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbo8i6dt0</id>
-    <title>あのクズを殴ってやりたいんだ_[第４話 あのクズの大切な人]</title>
-    <updated>2026-03-23T15:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsvfys6xj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あのクズを殴ってやりたいんだ
-                &lt;a href="https://tver.jp/series/srsvfys6xj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_15時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月28日(土)_14時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbo8i6dt0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月21日(土)15:00～&lt;br&gt;#4：3月23日(月)15:00～3月28日(土)14:59&lt;br&gt;#5：3月25日(水)15:00～3月30日(月)14:59&lt;br&gt;#6：3月28日(土)15:00～4月2日(木)14:59&lt;br&gt;#7：3月30日(月)15:00～4月4日(土)14:59&lt;br&gt;#8：4月2日(木)15:00～4月7日(火)14:59&lt;br&gt;#9：4月4日(土)15:00～4月9日(木)14:59&lt;br&gt;#10：4月7日(火)15:00～&lt;br&gt;------------&lt;br&gt;海里（玉森裕太）とゆい（岡崎紗絵）のことが気になりつつも、ほこ美（奈緒）はボクシングのトレーニングに励んでいた。そんな中、ゆいが羽根木ジムに所属するボクサー・市原香織（晝田瑞希）の試合のセコンドに入ると宣言。その一方で、ゆいの曇った表情が気になったほこ美は、７年前に起こった出来事が関係しているのではと思い、話を聞こうとするが無視されてしまう。諦めきれないほこ美は、ランニングをするゆいの元へ。あまりにしつこいほこ美に思うところがあったのか、自分がトレーナーになった経緯や海里がボクシングをやめた理由を語り始める。それと同時に、ゆいにとって海里がどれほど大切な存在かを知り、ほこ美は複雑な気持ちになるのだった。海里は７年前の事故以来、ボクシングを拒絶していたのだ。香織の試合が決まり、ゆいは海里をなんとか変えたいと思う一心でボクシングの試合に誘う。自分がセコンドに入り、過去を乗り越えた姿を見せることで何かが変わると信じていた。一方、そんなゆいの思いを知ったほこ美もまた、海里の背中を押す。海里はそんな２人の思いを受け止めて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbo8i6dt0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp0biit50</id>
-    <title>恋愛のすゝめ_[＃５ 恋敵との柔道対決！そしてキス!?]</title>
-    <updated>2026-03-23T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs167wjc6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 恋愛のすゝめ
-                &lt;a href="https://tver.jp/series/srs167wjc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_13時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp0biit50.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：本田響矢 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：3月14日(土)14:00～&lt;br&gt;#3：3月15日(日)14:00～3月23日(月)13:59&lt;br&gt;#4：3月19日(木)14:00～3月27日(金)13:59&lt;br&gt;#5：3月23日(月)14:00～3月31日(火)13:59&lt;br&gt;#6：3月27日(金)14:00～4月4日(土)13:59&lt;br&gt;#7：3月31日(火)14:00～4月8日(水)13:59&lt;br&gt;#8：4月4日(土)14:00～&lt;br&gt;------------&lt;br&gt;華子（矢吹奈子）への愛を証明するため、鯨井（植村颯太）に勝負を申し込んだ鳳（綱啓永）。つい勢いで柔道対決を承諾してしまうが、鯨井は柔道元全日本ジュニアの強化選手…。柔道経験ゼロな上、運動音痴の鳳にとってあまりにも無謀な戦いだった。そんな中、虎松（一ノ瀬ワタル）の家が歴史ある柔道場であることを思い出した獅子丸（若林時英）と亀岡（ひょっこりはん）は、鳳に稽古をつけてやってほしいと虎松に懇願する。しかし、虎松は悲しげにそれを拒否。鳳の恋に反対を続けている龍崎（本田響矢）が孤立してしまうのを心配し、虎松は鳳の恋の手助けをすることをためらっていたのだ…。そんな虎松の葛藤に気付いていた鳳は「勉学で勝利の方程式は導き出せる！」とひとり自主練と勉学に励むことに。そして迎えた柔道対決。鳳は圧倒的不利な状況を覆すことができるのか！？そして虎松の思いは！？さらに、決闘が思わぬ大事件に発展する…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp0biit50"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa309j26n</id>
-    <title>アンチヒーロー_[Episode７ －追求－]</title>
-    <updated>2026-03-23T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqt16o7rn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アンチヒーロー
-                &lt;a href="https://tver.jp/series/srqt16o7rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_12時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa309j26n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：細田善彦・麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月10日(火)13:00～&lt;br&gt;#4：3月11日(水)13:00～3月19日(木)12:59&lt;br&gt;#5：3月15日(日)13:00～3月23日(月)12:59&lt;br&gt;#6：3月19日(木)13:00～3月27日(金)12:59&lt;br&gt;#7：3月23日(月)13:00～3月31日(火)12:59&lt;br&gt;#8：3月27日(金)13:00～4月4日(土)12:59&lt;br&gt;#9：3月31日(火)13:00～4月8日(水)12:59&lt;br&gt;#10：4月4日(土)13:00～&lt;br&gt;------------&lt;br&gt;明墨（長谷川博己）の真の目的についに辿り着いた赤峰（北村匠海）と紫ノ宮（堀田真由）。次なるターゲットの闇を暴くことで炙り出される、１２年前の驚愕の真実とは！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa309j26n"/>
   </entry>
 </feed>
