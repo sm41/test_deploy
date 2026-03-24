@@ -2,13 +2,333 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-24T02:06:15+09:00</updated>
+  <updated>2026-03-24T11:18:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epqf12qcj6</id>
+    <title>王になった男_[第7話]</title>
+    <updated>2026-03-24T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 王になった男
+                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqf12qcj6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                かつて夢見た世の中を作ろうと決意したイ･ギュは、大同会の仲間を集めるようウンシムに指示する。ハソンに王と同じ傷を負わせたイ･ギュは、内医院の診察を断らせ、他の者の拝謁を止めさせた。だが王妃ソウンだけは毎日のように薬を煎じて王宮を訪れ、ハソンとソウンの距離は縮まっていく。ソウンの頼みで民に施す救援米を集めるようシン･チスに命じるハソンだが、王室の財源を握るチスは、宮殿再興を口実に一蹴する。戸曹判書に救援米の件を相談するうちに、米で貢納品を統一する大同法の再施行の話が持ち上がるが、そのためには計算能力にたけたチュ･ホゴルの力が必要だった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epqf12qcj6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epo6y9sfg4</id>
+    <title>The Boy Next World ～並行世界の恋人～_[＜地上波版＞【第十話】]</title>
+    <updated>2026-03-24T04:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh68f8hyh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ The Boy Next World ～並行世界の恋人～
+                &lt;a href="https://tver.jp/series/srh68f8hyh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_04時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_03時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo6y9sfg4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                並行世界の真実を知った楓は、沙羅を拒絶してしまう。&lt;br&gt;二人を心配する仁と大河は、改めて話をする。&lt;br&gt;友人たちに背中を押された楓が帰宅すると、机の上に見慣れないものがあり…。&lt;br&gt;沙羅と楓、糸電話で繋がれた二人の愛の結末とは。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo6y9sfg4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7hfjbs40</id>
+    <title>The Boy Next World ～並行世界の恋人～_[＜地上波版＞【第九話】]</title>
+    <updated>2026-03-24T03:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh68f8hyh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ The Boy Next World ～並行世界の恋人～
+                &lt;a href="https://tver.jp/series/srh68f8hyh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_03時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_03時25分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7hfjbs40.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                記憶が戻らない沙羅に気持ちを打ち明け、別れを告げる楓。&lt;br&gt;その瞬間、別の時空にいる沙羅のもとへ声が届いて…。&lt;br&gt;二人を見守っていた仁は、大河にある秘密を打ち明けようとする。&lt;br&gt;会ってほしい人がいると足立に呼び出された楓の前に、再び現れたのは…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7hfjbs40"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epyl5p08a4</id>
+    <title>The Boy Next World ～並行世界の恋人～_[＜地上波版＞【第八話】]</title>
+    <updated>2026-03-24T03:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh68f8hyh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ The Boy Next World ～並行世界の恋人～
+                &lt;a href="https://tver.jp/series/srh68f8hyh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_03時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_02時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyl5p08a4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                沙羅は事故に遭った影響で、楓のことを忘れてしまう。&lt;br&gt;まるで別人のように振る舞う沙羅に、楓は後悔の念に襲われる。&lt;br&gt;一方、羅奈が沙羅の婚約者・鶴久華恋（つるくかれん）を伴い、病室を訪れて…。&lt;br&gt;その頃、別の時空にある白い部屋では、二人の沙羅が会話を交わしていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyl5p08a4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcndc48tr</id>
+    <title>シェパード警部・ブロークンウッドの事件簿_[第21話「車マニアの闇」前編]</title>
+    <updated>2026-03-24T03:20:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
+                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_03時20分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_03時19分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcndc48tr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                クラシックカーが一堂に会するイベントで町中が沸き立つ中、自動車整備工場で身元不明の遺体が見つかる。翌日、その工場の経営者チャーリーが、愛車のそばでガソリンの管を口にくわえて死んでいた。この２つの事件に関連性があるのか、マイクたちは事故と事件の両面から捜査する。捜査が進んでいくと、順風満帆に見えたチャーリーはギャンブル依存症で、実は多額の借金を抱えていたという、彼の闇の一面が明らかになる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcndc48tr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptw8w81hx</id>
+    <title>The Boy Next World ～並行世界の恋人～_[＜地上波版＞【第七話】]</title>
+    <updated>2026-03-24T02:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh68f8hyh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ The Boy Next World ～並行世界の恋人～
+                &lt;a href="https://tver.jp/series/srh68f8hyh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_02時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_02時25分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptw8w81hx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                楓の父の命日。一人で父の好物を買いに回るという楓に、沙羅は自分も同行させてほしいと頼む。&lt;br&gt;買い物を済ませた二人は楓の実家へ行き、家の中である人物と出会う。&lt;br&gt;同じ頃、沙羅に呼び出された大河が沙羅のもとへ向かうと、待っていたのは仁だった。&lt;br&gt;仁の強引な誘いで、二人は映画館デートをすることになるが…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptw8w81hx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7anb1hxs</id>
+    <title>この愛は間違いですか～不倫の贖罪_[「この愛は間違いですか～不倫の贖罪」最終話直前SP]</title>
+    <updated>2026-03-24T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri2e081wj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ この愛は間違いですか～不倫の贖罪
+                &lt;a href="https://tver.jp/series/sri2e081wj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月02日(木)_00時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7anb1hxs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                いよいよ完結！衝撃不倫ドラマ「この愛は間違いですか～不倫の贖罪」。初公開のメイキングや宮本茉由らの独占インタビューと共に泥沼の愛憎劇を徹底復習！役作りへの想いや、素顔が垣間見える特別企画も！　毎週水曜深夜1時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7anb1hxs"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epuahqfyb8</id>
+    <title>シカゴ･ファイア_[英雄の資質]</title>
+    <updated>2026-03-24T02:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シカゴ･ファイア
+                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_02時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_01時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuahqfyb8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第18話「英雄の資質」(吹替)&lt;br&gt;チーフのボーデンとベニー・セブライドの確執は続いており、それはミルズが自分の父親の死についてベニーにぶつかったことにより再燃する。一方、セブライド、ケイシーはベニーと共に、レストランで起こった2件の不審火の謎を解明する。そしてシェイは子供を持つために新たなプランを思いつく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuahqfyb8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep84hyipns</id>
     <title>親友の「同棲して」に「うん」て言うまで_[最終話・親友の「同棲して」に「うん」て言ってから]</title>
@@ -328,245 +648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep98or38eq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjhwhvdzm</id>
-    <title>王になった男_[第6話]</title>
-    <updated>2026-03-23T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 王になった男
-                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjhwhvdzm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                宣化堂に毒を盛った犯人とされたのは、王妃付きのパク尚宮であった。取り調べが進む中、パク尚宮は毒殺され、王妃ソウンは窮地に陥る。しかし大妃がソウンを呪っていた証拠の品を、女官エヨンがパク尚宮の親族より手に入れる。何とかソウンを救いたいハソンは、大妃の罪を不問に付す代わりに、パク尚宮を殺害した犯人を差しだすよう迫る。実行犯の自白により廃妃を免れるソウン。いよいよ王宮を去る時が来たと覚悟を決めるハソン。一方、心を病んだ王の姿に衝撃を受けたイ・ギュは、ある決意を固めていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjhwhvdzm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0hy62riz</id>
-    <title>ラブミーフォローミー！_[第3話 何でもアリって言ったよね？]</title>
-    <updated>2026-03-23T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr46ljbsw3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラブミーフォローミー！
-                &lt;a href="https://tver.jp/series/sr46ljbsw3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月13日(月)_01時49分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0hy62riz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                インフルエンサーサバイバル番組「ラブミーフォローミー！」&#13;&lt;br&gt;&#13;&lt;br&gt;規則違反により、突如強制退場を言い渡されたビビビ。規則の曖昧さを指摘したところ、退場を取り消す「スペシャルミッション」を突きつけられる。そんな中、怪しい動きが…？「優勝できたら、なれるかもね、みんなに愛される人気者に……！」　［期間限定無料配信］　毎週日曜深夜1時50分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0hy62riz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epow1ixyjx</id>
-    <title>田鎖ブラザーズ_[先取り考察スペシャル]</title>
-    <updated>2026-03-23T02:58:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 田鎖ブラザーズ
-                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_02時58分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epow1ixyjx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                兄・岡田将生×弟・染谷将太！時効になった両親殺害事件の犯人を追うため、警察官となった“田鎖ブラザーズ”の完全オリジナルクライムサスペンスの見どころを大公開！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epow1ixyjx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptuiin0z8</id>
-    <title>#裏アカ教師_[#1「ようこそ、裏アカの世界へ」]</title>
-    <updated>2026-03-23T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ #裏アカ教師
-                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月25日(月)_01時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptuiin0z8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                同じ高校に勤める犀川密に憧れて教師になった、真島祈（中村ゆりか）は密（水沢エレナ）の婚約を知りショックで倒れてしまう。目を覚ました祈は保育室の宇佐美先生（高田里穂）になりたい自分にしてくれる魅惑の「裏アカ」をすすめられて…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptuiin0z8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8du2ndei</id>
-    <title>#裏アカ教師_[【スマホ用】#1「ようこそ、裏アカの世界へ」]</title>
-    <updated>2026-03-23T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ #裏アカ教師
-                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月25日(月)_01時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8du2ndei.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                同じ高校に勤める犀川密に憧れて教師になった、真島祈（中村ゆりか）は密（水沢エレナ）の婚約を知りショックで倒れてしまう。目を覚ました祈は保育室の宇佐美先生（高田里穂）になりたい自分にしてくれる魅惑の「裏アカ」をすすめられて…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8du2ndei"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epv9lcvyol</id>
-    <title>仮面の忍者 赤影_[第十九話 最終決戦]</title>
-    <updated>2026-03-23T00:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 仮面の忍者 赤影
-                &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月23日(月)_00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月22日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv9lcvyol.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                幻妖斎（忍成修吾）と夢堂典膳（山口祥行）に連れ去られた織田信長（EXILE TAKAHIRO）の待つ《天王山》に乗り込んだ赤影（佐藤大樹）、青影（木村慧人）、二代目白影（笠原秀幸）。しかし、彼らの前に傀儡甚内に顔を乗っ取られた明智光秀（福士誠治）率いる軍勢や、金目像に潰されたはずの鬼念坊（勝矢）らが立ちふさがる。多勢に無勢のまま、いざ、最終決戦の火ぶたが切られようとしたそのとき、毛利攻めを中止し京へと引き返してきた石田三成（中尾暢樹）、福島正則（水石亜飛夢）、加藤清正（志波景介）が見参！　闇姫（山本千尋）の実弟・仁助（木村風太）も参戦し、一大決戦へ。赤影たちは戦場を三成たちに任せ、信長のもとへと向かうが、悪童子（元木聖也）の魔の手が――。過去に因縁のある青影は、一人で戦いに挑むのだった。ようやく赤影と二代目白影は、傷つき、拘束されている信長の姿を目撃するが、その矢先に典膳の刃が二人に振り下ろされて…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epv9lcvyol"/>
   </entry>
 </feed>
