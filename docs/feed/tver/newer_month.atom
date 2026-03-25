@@ -2,53 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-25T14:05:24+09:00</updated>
+  <updated>2026-03-25T16:06:23+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://tver.jp/episodes/ep1m366w51</id>
-    <title>王になった男_[第8話]</title>
-    <updated>2026-03-25T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 王になった男
-                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月25日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1m366w51.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ハソンはチュ･ホゴルの協力を得るため賭けをする。その結果ハソンは、ホゴルの心を得る。だがその矢先、シン･チスの策で戸曹に監察が入る。戸曹判書が罷免になれば、大同法の施行は困難となる。地方官吏が米を横流ししている証拠をつかむためにも、一刻も早くホゴルの力が必要となるが、ホゴルは命を狙われる。上奏の日、ギュが登庁しないことに気を揉むハソン。ところが上奏が始まると遅れてギュが現れる。引継書の疑惑を証明する証拠とともに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1m366w51"/>
-  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo58cwuhz</id>
     <title>田鎖ブラザーズ_[豪華キャスト集結スペシャル！]</title>
