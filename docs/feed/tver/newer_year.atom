@@ -2,13 +2,693 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-25T10:49:39+09:00</updated>
+  <updated>2026-03-25T12:05:23+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0w3hpwup</id>
+    <title>レガッタ～君といた永遠～_[第８話]</title>
+    <updated>2026-03-25T12:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqjfgvyoq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ レガッタ～君といた永遠～
+                &lt;a href="https://tver.jp/series/srqjfgvyoq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月25日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0w3hpwup.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                大沢誠（速水もこみち）が八木聖也（松田翔太）とともに滝大輔（山本太郎）の地元で特訓を開始してから数日。滝との特訓は、誠たちの体力の限界をはるかに超えていた。それでも倉田健二（窪塚俊介）が見たという"風の向こう側"を目指して漕ぎ続ける誠の姿を見つめる操は、このままでは誠を失うのでは…という恐怖心から自分の本心に気づいていく。そして、その思いをついに誠に告げる。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月18日(水)　昼12時5分～　#1&lt;br&gt;3月19日(木)　昼12時5分～　#2&lt;br&gt;3月20日(金)　昼12時5分～　#3&lt;br&gt;3月21日(土)　昼12時5分～　#4&lt;br&gt;3月22日(日)　昼12時5分～　#5&lt;br&gt;3月23日(月)　昼12時5分～　#6&lt;br&gt;3月24日(火)　昼12時5分～　#7&lt;br&gt;3月25日(水)　昼12時5分～　#8&lt;br&gt;3月26日(木)　昼12時5分～　#9(最終話)
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0w3hpwup"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epo4sflhv9</id>
+    <title>ブラックファミリア～新堂家の復讐～_[#9 ついに犯人判明！]</title>
+    <updated>2026-03-25T12:01:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxms7m2u6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ブラックファミリア～新堂家の復讐～
+                &lt;a href="https://tver.jp/series/srxms7m2u6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo4sflhv9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                一葉（板谷由夏）たち新堂家の罠によって早乙女家は崩壊。しかし、秋生（平山祐介）を問い詰めても、梨里杏（星乃夢奈）は自殺だったという答えしか返ってこない。そんな中、航輔（山中崇）に倫太郎（塩野瑛久）から連絡が来る。彼は、拘束された沙奈（渡邉理佐）の姿を航輔に見せつけ…。一方、一葉は、昏睡状態が続く優磨（森崎ウィン）が残した謎の番号を手がかりに、ある人物に辿り着く。&lt;br&gt;梨里杏の死の真相がついに明らかに！&lt;br&gt;&lt;br&gt;【ブラックファミリア～新堂家の復讐～ 一挙配信】&lt;br&gt;#1 　 3月4日(水) 12:01  ～  4月11日(土) 12:00&lt;br&gt;#2 　 3月6日(金) 12:01  ～  4月11日(土) 12:00&lt;br&gt;#3 　 3月8日(日) 12:01  ～  4月11日(土) 12:00&lt;br&gt;#4 　 3月10日(火) 12:01  ～  3月24日(火) 12:00&lt;br&gt;#5 　 3月13日(金) 12:01  ～  3月27日(金) 12:00&lt;br&gt;#6 　 3月16日(月) 12:01  ～  3月30日(月) 12:00&lt;br&gt;#7 　 3月19日(木) 12:01  ～  4月2日(木) 12:00&lt;br&gt;#8 　 3月22日(日) 12:01  ～  4月5日(日) 12:00&lt;br&gt;#9 　 3月25日(水) 12:01  ～  4月8日(水) 12:00&lt;br&gt;#10   3月28日(土) 12:01  ～  4月11日(土) 12:00
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo4sflhv9"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epc5t2246m</id>
+    <title>架空OL日記_[#9]</title>
+    <updated>2026-03-25T12:01:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvrcd5arn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 架空OL日記
+                &lt;a href="https://tver.jp/series/srvrcd5arn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc5t2246m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                朝、升野（バカリズム）が出社すると、盲腸で入院していた後輩のゆみちゃん（田原可南子）が復帰。入院経験がない升野達はゆみちゃんに質問攻め。そんなゆみちゃんにサエ（佐藤玲）がなぜか嫉妬、謎の行動に出る。そして早帰りの日、副支店長は仕事を６時に終わらせようと張り切っていた。ところが升野達はそんな日に限り、仕事が終わらない。そんな中、颯爽と帰り支度をする副支店長。イライラの限界に達したマキ（夏帆）が怒りをぶちまけるも無視。その直後、副支店長を悲劇が襲う。&lt;br&gt;&lt;br&gt;【架空OL日記  一挙配信】&lt;br&gt;#1 　 3月6日(金) 12:01  ～  4月10日(金) 12:00&lt;br&gt;#2 　 3月8日(日) 12:01  ～  4月10日(金) 12:00&lt;br&gt;#3 　 3月10日(火) 12:01  ～  4月10日(金) 12:00&lt;br&gt;#4 　 3月12日(木) 12:01  ～  3月26日(木) 12:00&lt;br&gt;#5 　 3月15日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#6 　 3月18日(水) 12:01  ～  4月1日(水) 12:00&lt;br&gt;#7 　 3月21日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#8 　 3月23日(月) 12:01  ～  4月6日(月) 12:00&lt;br&gt;#9 　 3月25日(水) 12:01  ～  4月8日(水) 12:00&lt;br&gt;#10   3月27日(金) 12:01  ～  4月10日(金) 12:00
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epc5t2246m"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epwuovwmxg</id>
+    <title>JIN -仁- 完結編_[第六話 坂本龍馬の闇]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkkg582ex.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ JIN -仁- 完結編
+                &lt;a href="https://tver.jp/series/srkkg582ex" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwuovwmxg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)12:00～&lt;br&gt;#3-5：3月16日(月)12:00～3月25日(水)11:59&lt;br&gt;#6-8：3月25日(水)12:00～4月3日(金)11:59&lt;br&gt;#9-11：4月3日(金)12:00～&lt;br&gt;------------&lt;br&gt;南方仁（大沢たかお）はペニシリンの普及のために長崎に来ていた。さらに、もう一つの目的であった坂本龍馬（内野聖陽）との再会も果たす。実は、龍馬に会い、暗殺の事を伝えようと決心していたのだ。しかし、久しぶりに会った龍馬は仁の知っている龍馬ではなかった。龍馬はイギリス商人から武器を手に入れ、幕府と戦争をする長州に武器を売り金儲けをしていたのだ。複雑な気持ちのまま、龍馬と共に長州を訪れる仁。そこで目にしたのは、龍馬が売ったと思われる銃で傷を負った幕府軍の大量の死傷者の姿だった。それを冷ややかに見ている龍馬に仁は、新しく良い国を作るには戦争しかないのかと問い詰める。すると龍馬は、この国を思うからこそ、この戦争は必要だと言い放つ。仁は龍馬の考えを理解することが出来なかった。着々と近づく龍馬への闇。果たして、仁は道に迷う龍馬を救う事が出来るのか！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwuovwmxg"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eppged33n1</id>
+    <title>重版出来！_[第６話 勝ち続ける仕事術…新人ツブシの秘密とは？]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src41uovow.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 重版出来！
+                &lt;a href="https://tver.jp/series/src41uovow" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppged33n1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！出演：内田慈 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月16日(月)12:00～&lt;br&gt;#4：3月19日(木)12:00～3月25日(水)11:59&lt;br&gt;#5：3月22日(日)12:00～3月28日(土)11:59&lt;br&gt;#6：3月25日(水)12:00～3月31日(火)11:59&lt;br&gt;#7：3月28日(土)12:00～4月3日(金)11:59&lt;br&gt;#8：3月31日(火)12:00～4月6日(月)11:59&lt;br&gt;#9：4月3日(金)12:00～4月9日(木)11:59&lt;br&gt;#10：4月6日(月)12:00～&lt;br&gt;------------&lt;br&gt;完成間近の作品「ガールの法則」の原稿を一方的な事情で全部ボツにされ、安井（安田顕）の急な要望にとまどう東江（高月彩良）。“ツブシの安井”が、ついに牙をむく。安井に東江の担当を奪われた心（黒木華）は怒りを隠せないが、担当では無いため自分からは何もすることができなかった。ある日、平日１８時半以降と休日は対応しないという安井に代わり、東江に原稿の相談を持ちかけられた心。直接東江に会って励ますが、簡単なことも相談できない２人の関係が気になり、ますます不信感を抱いていた…。新人ツブシと呼ばれてはいても、担当したすべての作品をそれなりにヒットさせている安井。かつての彼は心に似ており、漫画家との関係も良好だったという。現在、そんな安井は影もかたちもないが、“ツブシの安井”の誕生にはある悲しい理由があった―。奇しくも同じ号で漫画家デビューを果たす中田（永山絢斗）と東江。中田の「ピーヴ遷移」は賛否両論だがネットで話題になり、担当の心について「僕を見つけてくれた、女神です」と感謝する中田。一方で東江は、ついにある決断をする。そんな中、売り上げを伸ばすため、編集長の和田（松重豊）から編集者個人でSNSをはじめるよう指示が出た。様々な意見が出る中、漫画への愛が溢れている謎のアカウントが存在するという話が書店で噂されていたが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppged33n1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eppbtwrt7u</id>
+    <title>JIN -仁- 完結編_[第七話 永遠の愛と別れ]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkkg582ex.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ JIN -仁- 完結編
+                &lt;a href="https://tver.jp/series/srkkg582ex" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppbtwrt7u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)12:00～&lt;br&gt;#3-5：3月16日(月)12:00～3月25日(水)11:59&lt;br&gt;#6-8：3月25日(水)12:00～4月3日(金)11:59&lt;br&gt;#9-11：4月3日(金)12:00～&lt;br&gt;------------&lt;br&gt;坂本龍馬（内野聖陽）と気持ちがすれ違ったまま長崎から江戸・仁友堂に戻った南方仁（大沢たかお）。そこには帰還を喜ぶ仁友堂の面々が。「自分には仲間がいる」仁はその光景に心を癒されるのだった。その頃、龍馬の事を探るよう上役（中原丈雄）から命じられた橘恭太郎（小出恵介）は、度々仁友堂を訪れていた。そんな恭太郎の動きを不審に感じた橘咲（綾瀬はるか）は、龍馬についてあまり恭太郎へ話さぬよう仁に忠告する。そんな時、野風（中谷美紀）から仁と咲宛ての文が届く。そこにはフランス人・ルロン（ジャン・ルイ・バージュ）と正式に国際結婚できることが決まり、２人に婚礼に来てほしいという旨が記されていた。かくして横浜にやって来た仁と咲だが、そこで仁は、野風から診てもらいたい病人がいると告げられる。しかし、どこを見回しても患者の姿はない。戸惑う仁を尻目に野風が着物を脱ぎ始め…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppbtwrt7u"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epomz8scwg</id>
+    <title>大好き！五つ子5_[第18回]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子5
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epomz8scwg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;３年生の男の子からラブレターをもらった紀香（荒井千歩）は、ボーイフレンドの下川真人（石坂良磨）にばれるといけないからと、皆に話さないよう美穂（新穂えりか）に口止めをする。紀香は困ったと言うが、本当は少し嬉しかった。一方、友達と一緒に釣りに行く計画が持ち上がった男の子たち３人は、健一（天田俊明）の釣り竿を借りるために千絵子（茅島成美）の家に出かけていった。釣り竿を探していた３人は健一の荷物の中から鍵のかかった金庫を見つける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epomz8scwg"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmpdh83t2</id>
+    <title>JIN -仁-_[第七話 生きる遺言…]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkkg582ex.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ JIN -仁-
+                &lt;a href="https://tver.jp/series/srkkg582ex" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmpdh83t2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：杏花 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)12:00～&lt;br&gt;#3-5：3月16日(月)12:00～3月25日(水)11:59&lt;br&gt;#6-8：3月25日(水)12:00～4月3日(金)11:59&lt;br&gt;#9-11：4月3日(金)12:00～&lt;br&gt;------------&lt;br&gt;佐分利（桐谷健太）が発端となって起きた騒動は、仁（大沢たかお）が自ら医学所を去るという形で収まったかに見えた。しかし、西洋医学所には依然として、仁のことをよく思っていない医師たちが存在し、仁の医術を支持する洪庵（武田鉄矢）たちにもその影響は及んでいた。ある日、茶屋の娘・茜（橋本真実）が揚げ物用の油をかぶって大やけどを負ったことを知った仁は、咲（綾瀬はるか）と共に急いで茜の家を訪れる。治すには皮膚移植をするしかないと判断した仁は、皮膚移植に必要な大量のペニシリンを洪庵に依頼。快く引き受けた洪庵だったが、「その手術を自分の知人にも見せたい」と仁に申し出るのだった。そして、洪庵とその知人である濱口儀兵衛（石丸謙二郎）が見守る中、茜の皮膚移植の手術が始まった。手術は順調に進み、その医術を目の当たりにした濱口も驚きを隠せない。しかしこの後、仁たちを待ち受けていたのは、予想もしない出来事だった…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmpdh83t2"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epfamxeev3</id>
+    <title>JIN -仁-_[第八話 歴史の針が変わる]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkkg582ex.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ JIN -仁-
+                &lt;a href="https://tver.jp/series/srkkg582ex" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfamxeev3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：杏花 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)12:00～&lt;br&gt;#3-5：3月16日(月)12:00～3月25日(水)11:59&lt;br&gt;#6-8：3月25日(水)12:00～4月3日(金)11:59&lt;br&gt;#9-11：4月3日(金)12:00～&lt;br&gt;------------&lt;br&gt;病院「仁友堂」を開院した仁（大沢たかお）は、より薬効の強いペニシリンを作るため、咲（綾瀬はるか）と共に日々実験を繰り返していた。しかし、薬効の強いペニシリンを作るには莫大な金が必要であり、援助を濱口（石丸謙二郎）に依頼するも、良い返答は得られなかった。その話を聞いた龍馬（内野聖陽）は、なぜか仁を吉原に連れて行く。半分呆れながらも、護衛の恭太郎（小出恵介）と共に３人で吉原を訪れると、野風（中谷美紀）が武士らしき男に詰め寄っていた。その男は野風を軽くあしらい、その場を去ってしまう。その後、人だかりの中に仁を見つけた野風は、病に苦しむ花魁・初音（水沢エレナ）を診察してほしいと告げる。快諾する仁だったが、「初音」という名前を聞いた恭太郎は驚きを隠せないでいた。初音は客の子を妊娠、中絶したことによって敗血症を引き起こしていた。瀕死の状態に陥る中、うわ言で人気女形・澤村田之助（吉沢悠）の名前をつぶやく初音。資金難のためにペニシリン製造が困難を極める中、恭太郎は田之助に援助を求めてはどうかと仁に提案するが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfamxeev3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epey1cikh0</id>
+    <title>妻、小学生になる。_[第６話「夫の次の恋」]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srya5elj3m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 妻、小学生になる。
+                &lt;a href="https://tver.jp/series/srya5elj3m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epey1cikh0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 主演：堤真一 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月16日(月)12:00～&lt;br&gt;#4：3月19日(木)12:00～3月25日(水)11:59&lt;br&gt;#5：3月22日(日)12:00～3月28日(土)11:59&lt;br&gt;#6：3月25日(水)12:00～3月31日(火)11:59&lt;br&gt;#7：3月28日(土)12:00～4月3日(金)11:59&lt;br&gt;#8：3月31日(火)12:00～4月6日(月)11:59&lt;br&gt;#9：4月3日(金)12:00～4月9日(木)11:59&lt;br&gt;#10：4月6日(月)12:00～&lt;br&gt;------------&lt;br&gt;千嘉（吉田羊）は今の万理華（毎田暖乃）が娘の万理華ではないと受け入れる一方で、一つ屋根の下で暮らしながら、どう接していいかわからない。万理華自身も、貴恵（石田ゆり子）としての記憶を思い出した反動で万理華の記憶が薄れていることが心苦しい。圭介（堤真一）もなんとか千嘉の力になりたいが、いい解決策は見つからないでいた。その頃、圭介の会社では、守屋（森田望智）が企画した新商品のPRイベントが大成功。ところが、発売前のトマト缶の商品画像がイベント参加者によってSNS上にフライング投稿されてしまい、計画していたプロモーションが台無しになり…。さらに、麻衣（蒔田彩珠）が恋をしていると万理華から聞かされた圭介は複雑な心境に。問題山積で弱音を吐く圭介に、万理華はバーベキュー大会を開いて、みんなで気晴らししてはどうかと提案し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epey1cikh0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8x6a2ile</id>
+    <title>JIN -仁-_[第六話 生きてこそ…]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkkg582ex.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ JIN -仁-
+                &lt;a href="https://tver.jp/series/srkkg582ex" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8x6a2ile.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：杏花 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)12:00～&lt;br&gt;#3-5：3月16日(月)12:00～3月25日(水)11:59&lt;br&gt;#6-8：3月25日(水)12:00～4月3日(金)11:59&lt;br&gt;#9-11：4月3日(金)12:00～&lt;br&gt;------------&lt;br&gt;江戸時代にはなかったペニシリンを作り上げ、梅毒治療に一石を投じた仁（大沢たかお）。その神がかり的な医術は、江戸の町に次々と広まり、南方大名神という護符まで出回るほどの大評判となっていた。そんな噂を聞き入れてか、仁は医学館の奥医師との対面を申し込まれる。医学館の奥医師である多紀元琰（相島一之）と対面した仁は、多紀からその素性について問いただされる。護衛についてきた龍馬（内野聖陽）や恭太郎（小出恵介）も一緒になって、仁の素性をうまくはぐらかそうとするが、医学館の仁に対する不信感はますます強くなっていった。そんな時、同席していた医学館の福田玄孝（佐藤二朗）が突然腹痛を訴え倒れてしまう。福田を診察し、胃潰瘍穿孔の可能性が高いと判断した仁は、医学館の面々が見つめる中で緊急手術を行うことに。さらに手術後、佐分利（桐谷健太）が、西洋医学所を揺るがす事件を引き起こしていたことが発覚し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8x6a2ile"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep81ebtcwn</id>
+    <title>じゃあ、あんたが作ってみろよ_[第６話 化石男よ、忍耐女を救え！]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp2094kb1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ じゃあ、あんたが作ってみろよ
+                &lt;a href="https://tver.jp/series/srp2094kb1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep81ebtcwn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TVerアワード2025 大賞 受賞記念】&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：菅原大吉 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：中条あやみ 関連作品を期間限定配信！！&lt;br&gt;【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：杏花 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月18日(水)12:00～&lt;br&gt;#4：3月19日(木)12:00～3月25日(水)11:59&lt;br&gt;#5：3月22日(日)12:00～3月28日(土)11:59&lt;br&gt;#6：3月25日(水)12:00～3月31日(火)11:59&lt;br&gt;#7：3月28日(土)12:00～4月3日(金)11:59&lt;br&gt;#8：3月31日(火)12:00～4月6日(月)11:59&lt;br&gt;#9：4月3日(金)12:00～4月9日(木)11:59&lt;br&gt;#10：4月6日(月)12:00～&lt;br&gt;------------&lt;br&gt;ミナト（青木柚）から「結婚願望がない」と突然の別れを告げられた鮎美（夏帆）は、そのことを誰にも告げずに一人暮らしをスタートさせる。だが、気づけば２人分の食事を作ってしまうなど、ふとした時にミナトの不在を実感する…。&lt;br&gt;一方、勝男（竹内涼真）は、近々鮎美を連れて結婚のあいさつをしに帰ってくると思っている父・勝（菅原大吉）に鮎美と別れたことを言い出せず、後ろめたい気持ちを抱いていた。&lt;br&gt;そんな中でも、鶏がらスープさえも自分で作り始めるなど、めきめきと料理の腕を上げる勝男。ある日、椿（中条あやみ）からのホームパーティーの誘いに、勝男ははりきって用意した小籠包を持参する。&lt;br&gt;そして同じ頃、同僚から誘われた婚活パーティーに参加した鮎美は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep81ebtcwn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep71zti7p1</id>
+    <title>JIN -仁- 完結編_[第八話 歴史に逆う命の誕生…]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkkg582ex.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ JIN -仁- 完結編
+                &lt;a href="https://tver.jp/series/srkkg582ex" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep71zti7p1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：2月20日(金)12:00～&lt;br&gt;#3-5：3月16日(月)12:00～3月25日(水)11:59&lt;br&gt;#6-8：3月25日(水)12:00～4月3日(金)11:59&lt;br&gt;#9-11：4月3日(金)12:00～&lt;br&gt;------------&lt;br&gt;１８６７年（慶応３年）秋。天皇に政権を戻す、いわゆる「大政奉還」の実現に向け、坂本龍馬（内野聖陽）は日々奔走していた。暗殺の期日が着々と近づいていることも知らずに…。一方、南方仁（大沢たかお）はそんな龍馬のことを気にかけつつも、癌の転移を抱えながらの出産を控えた野風（中谷美紀）を心配していた。橘咲（綾瀬はるか）も、仁友堂でお産をする野風のため、産婆のもとへ足を運び、少しでも出産の手助けが出来るよう努めていた。そんなある日、野風のお腹の子が逆子とわかり、そのまま産むには危険な状態だと判明。仁友堂の面々は整胎術やお灸で逆子を戻そうと試みるが、突然陣痛が来てお産が始まってしまう。もう残された道は帝王切開しかない。しかし、全身麻酔では胎児に悪影響が出てしまう。母子共に危険な状況を見かねた仁は、ある決断をする…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep71zti7p1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep1535ynwk</id>
+    <title>ママはアイドル!_[最終回 おかあさん引退しないで！涙のさよならコンサート]</title>
+    <updated>2026-03-25T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4g5vn2fy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ママはアイドル!
+                &lt;a href="https://tver.jp/series/sr4g5vn2fy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1987年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1535ynwk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ------------&lt;br&gt;#1-3：3月7日(土)12:00～3月31日(火)23:59&lt;br&gt;#4：3月7日(土)12:00～3月13日(金)11:59&lt;br&gt;#5：3月10日(火)12:00～3月16日(月)11:59&lt;br&gt;#6：3月13日(金)12:00～3月19日(木)11:59&lt;br&gt;#7：3月16日(月)12:00～3月22日(日)11:59&lt;br&gt;#8：3月19日(木)12:00～3月25日(水)11:59&lt;br&gt;#9：3月22日(日)12:00～3月28日(土)11:59&lt;br&gt;#10：3月25日(水)12:00～3月31日(火)23:59&lt;br&gt;------------&lt;br&gt;美穂（中山美穂）と修一（三田村邦彦）の写真が週刊誌に載ってしまい、水沢家は普通の生活が送れなくなっていた。今回の騒動で苛立っていた晶（後藤久美子）と、そんな晶を心配する美穂。２人は些細な事から口論となり、ついに美穂は晶を殴りつけてしまう。その夜、美穂は晶に対し、自分の気持ちに正直に生きようと語る。翌朝、修一は３人の子供たちに、美穂の引退を告げた。今日のコンサートがアイドルとして最後の仕事だという。予想外の告白に、晶をはじめ伸二（大原和彦）たちは動揺の色を隠せない。そして、コンサートが始まろうとしていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1535ynwk"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epwdnltr2j</id>
+    <title>トーキョーカモフラージュアワー_[#1 コリドー街でワンナイトする色白男子]</title>
+    <updated>2026-03-25T11:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkpfcvn7u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ トーキョーカモフラージュアワー
+                &lt;a href="https://tver.jp/series/srkpfcvn7u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_11時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwdnltr2j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                生まれも育ちも山形県のウブな地方男子・宏人（松倉海斗）は、突然の会社の辞令で山形支社から東京本社へ転勤することに。期待を胸に、２５歳で初めて東京での生活を始める。まずはマンション探し。オシャレな部屋を物色しながらテンションも上がる宏人。しかし東京の高い家賃に思わず驚愕してしまう。そして出社初日。宏人は田舎者だと馬鹿にされないように同僚に挨拶する。早速、先輩社員の野田（さや香新山）に飲みに誘われ、右も左も分からないまま付いていく宏人。…一方、曽根ちゃん（片山友希）は目黒ちゃん（樋口日奈）から彼氏のバーテンダー亮くん（松本怜生）を紹介したいと誘われ、ＢＡＲ「エル」に行く約束をしてしまう。そこに現れた宏人と野田先輩。この偶然の出会いが運命を狂わせることをまだ宏人は何も知らない…。&lt;br&gt;&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝   &lt;br&gt;3月25日(水) 昼11時30分～　#1   &lt;br&gt;3月26日(木) 昼11時30分～　#2   &lt;br&gt;3月27日(金) 昼11時30分～　#3   &lt;br&gt;3月28日(土) 昼11時30分～　#4   &lt;br&gt;3月29日(日) 昼11時30分～　#5   &lt;br&gt;3月30日(月) 昼11時30分～　#6   &lt;br&gt;3月31日(火) 昼11時30分～　#7   &lt;br&gt;4月1日(水) 昼11時30分～　#8   &lt;br&gt;4月9日(木) 昼11時30分～　#9   &lt;br&gt;4月10日(金) 昼11時30分～　#10（最終話） 
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwdnltr2j"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epfie45lwm</id>
+    <title>3人のパパ_[第６話 突然の来訪者！美奈子さんに息子が？母親と認めない理由とは]</title>
+    <updated>2026-03-25T11:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmfr7gd9e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 3人のパパ
+                &lt;a href="https://tver.jp/series/srmfr7gd9e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_11時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_10時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfie45lwm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：山田裕貴 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月16日(月)11:00～&lt;br&gt;#4：3月19日(木)11:00～3月25日(水)10:59&lt;br&gt;#5：3月22日(日)11:00～3月28日(土)10:59&lt;br&gt;#6：3月25日(水)11:00～3月31日(火)10:59&lt;br&gt;#7：3月28日(土)11:00～4月3日(金)10:59&lt;br&gt;#8：3月31日(火)11:00～4月6日(月)10:59&lt;br&gt;#9：4月3日(金)11:00～4月9日(木)10:59&lt;br&gt;#10：4月6日(月)11:00～&lt;br&gt;------------&lt;br&gt;拓人（堀井新太）、恭平（山田裕貴）、朔（三津谷亮）は晴大（室野慶心）と大家の美奈子（濱田マリ）らとお花見を計画する。お弁当も準備し、出発しようとすると美奈子は、用事を思い出したから少し待ってくれと出かけて行く。その間に３人は、ひょんなことから若々しい美奈子と小さな男の子の２ショット写真を見つける。写真の裏には「亮介５歳の誕生日」と書かれていた。そんな中、たこやき店に西川亮介（桜田通）と名乗る青年が美奈子を訪ねてやって来る。「亮介」という名前を聞いて、彼が美奈子の息子であると確信した３人は、亮介をシェアハウスに招き入れ事情を聞く。彼は、生き別れた本当の母親である美奈子を探しに来たのだという。用事を終えて戻って来た美奈子は亮介と対面。亮介は生みの親である美奈子に捨てられたと告げるが、美奈子はそんな事実はないと自分の息子だと認めようとしない。そこで３人は美奈子と亮介との親子の絆を取り戻そうと奮闘する。そして、母親が分からない晴大を育てている３人のパパは、母親の存在の大きさに気づかされ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfie45lwm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep05bvxu05</id>
+    <title>君の花になる_[第７話 涙の告白…あふれ出した本当の気持ち]</title>
+    <updated>2026-03-25T11:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzr9okbc1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 君の花になる
+                &lt;a href="https://tver.jp/series/srzr9okbc1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_11時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_10時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep05bvxu05.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：八村倫太郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月15日(日)11:00～&lt;br&gt;#4：3月15日(日)11:00～3月22日(日)10:59&lt;br&gt;#5：3月18日(水)11:00～3月25日(水)10:59&lt;br&gt;#6：3月22日(日)11:00～3月29日(日)10:59&lt;br&gt;#7：3月25日(水)11:00～4月1日(水)10:59&lt;br&gt;#8：3月29日(日)11:00～4月5日(日)10:59&lt;br&gt;#9：4月1日(水)11:00～4月8日(水)10:59&lt;br&gt;#10：4月5日(日)11:00～&lt;br&gt;------------&lt;br&gt;弾（高橋文哉）の高校で行われた8LOOMのライブに駆けつけるも、過去のトラウマから校門の前で動けなくなってしまったあす花（本田翼）。そんなあす花を弾が心配する中、メンバーたちの発案であす花をサプライズで労う「寮母感謝デー」が開催されることに。そのころ、あす花は香坂（内田有紀）から、寮母としての弾との関わり方について釘を刺され、より一層、弾への思いを封印しようと決意していた。そんな中、弾の母校から8LOOMに生徒たちへ向けたビデオメッセージの依頼が舞い込む。撮影に訪れた教師・池谷幸次郎（前田公輝）は、あす花が学校を辞めることになったある出来事について、弾たちに話し始め……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep05bvxu05"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxby21kia</id>
     <title>中学聖日記_[第７話 思わぬ再会…ふたりの止まっていた時間が動きだす!?]</title>
@@ -1728,725 +2408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptyyd4jq1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnymmuql8</id>
-    <title>CODEー願いの代償ー_[#8 最終章突入！復讐すべき相手との直接対決！]</title>
-    <updated>2026-03-24T12:01:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfm3klyfx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ CODEー願いの代償ー
-                &lt;a href="https://tver.jp/series/srfm3klyfx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnymmuql8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                円（松下奈緒）の息子、芯（木村優来）が姿を消してしまい、病院内を探す二宮（坂口健太郎）。すると、芯と、ランリーテクノロジーの社長・市川（玉山鉄二）を見つける。&lt;br&gt;二宮は、“復讐すべき相手”である市川に「あんたがＣＯＤＥを作ったのか？」と問いかけるが…！？&lt;br&gt;一方、取材と称し、ランリーテクノロジーを訪れた椎名（染谷将太）と咲（堀田真由）は、セキュリティーが厳しいシステム開発部のハッキングに挑んでいく…！&lt;br&gt;&lt;br&gt;【CODEー願いの代償ー  一挙配信】&lt;br&gt;#1 　 3月5日(木) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#2 　 3月7日(土) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#3 　 3月9日(月) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#4 　 3月12日(木) 12:01  ～  3月26日(木) 12:00&lt;br&gt;#5 　 3月15日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#6 　 3月18日(水) 12:01  ～  4月1日(水) 12:00&lt;br&gt;#7 　 3月21日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#8 　 3月24日(火) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#9 　 3月27日(金) 12:01  ～  4月10日(金) 12:00&lt;br&gt;#10   3月30日(月) 12:01  ～  4月13日(月) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnymmuql8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnn8qu8xu</id>
-    <title>帰ってきたらいっぱいして。_[#8 それぞれの決断]</title>
-    <updated>2026-03-24T12:01:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5zxcyo7l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 帰ってきたらいっぱいして。
-                &lt;a href="https://tver.jp/series/sr5zxcyo7l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnn8qu8xu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                元カレの歩と再会し、彼をモデルに創り出した新キャラで、三角関係のストーリーを思いつく朱音。漫画は大好評で、編集長の芙美乃から新しいシチュエーションとして「夏の海」を提案された朱音は、直哉と歩を誘って海へと繰り出す。好きなものに打ち込む朱音に惚れ直したという歩は、「朱音に告白する」と直哉に宣言し…！？ &lt;br&gt;&lt;br&gt;【帰ってきたらいっぱいして。 一挙配信】&lt;br&gt;#1 　 3月5日(木) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#2 　 3月7日(土) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#3 　 3月9日(月) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#4 　 3月12日(木) 12:01  ～  3月26日(木) 12:00&lt;br&gt;#5 　 3月15日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#6 　 3月18日(水) 12:01  ～  4月1日(水) 12:00&lt;br&gt;#7 　 3月21日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#8 　 3月24日(火) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#9 　 3月27日(金) 12:01  ～  4月10日(金) 12:00&lt;br&gt;#10   3月30日(月) 12:01  ～  4月13日(月) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnn8qu8xu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkwskzk8b</id>
-    <title>黒い十人の女_[#8 「黒い十人のティーパーティ」]</title>
-    <updated>2026-03-24T12:01:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzu8as2bl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 黒い十人の女
-                &lt;a href="https://tver.jp/series/srzu8as2bl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkwskzk8b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                身の回りにいる様々な女性を愛人にしていた風(船越英一郎)。最も古株の愛人である佳代（水野美紀）の呼びかけで、妻と愛人９人…１０人の女がついに全員集結した！そこで、佳代は驚きの提案をする…その驚愕の内容とは―！？そして、１０人の女たちのもとに突然現れた風。妻と愛人たちの前で、風がとんでもない発言を…その発言をきっかけに、１０人の女たちがついに動き出す！！１０股男・風松吉の運命は―！？&lt;br&gt;&lt;br&gt;【黒い十人の女  一挙配信】&lt;br&gt;#1 　 3月6日(金) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#2 　 3月8日(日) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#3 　 3月10日(火) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#4 　 3月12日(木) 12:01  ～  3月26日(木) 12:00&lt;br&gt;#5 　 3月15日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#6 　 3月18日(水) 12:01  ～  4月1日(水) 12:00&lt;br&gt;#7 　 3月21日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#8 　 3月24日(火) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#9 　 3月27日(金) 12:01  ～  4月10日(金) 12:00&lt;br&gt;#10   3月30日(月) 12:01  ～  4月13日(月) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkwskzk8b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8x7nbksc</id>
-    <title>ブラックリベンジ_[#10[終] ]</title>
-    <updated>2026-03-24T12:01:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtyezf1te.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ブラックリベンジ
-                &lt;a href="https://tver.jp/series/srtyezf1te" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8x7nbksc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                沙織（木村多江）は５年前にねつ造の情報を提供したのが朱里（鈴木砂羽）だった事を知る。沙織は朱里が圭吾（高橋光臣）を陥れた理由には２５年前に校舎の屋上から転落死した北里玲奈が関係していると考え、廃校になった恵蘭女子中学校を訪れる。沙織は当時の事を思い出し、２５年前に玲奈を見かけた教室にやってくると、そこで待っていたのは朱里だった。沙織は２５年前の玲奈の転落死の真相を知る事に…そして、衝撃の結末へ！&lt;br&gt;&lt;br&gt;【ブラックリベンジ  一挙配信】&lt;br&gt;#1 　 2月28日(土) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#2 　 3月2日(月) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#3 　 3月4日(水) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#4 　 3月6日(金) 12:01  ～  3月20日(金) 12:00&lt;br&gt;#5 　 3月9日(月) 12:01  ～  3月23日(月) 12:00&lt;br&gt;#6 　 3月12日(木) 12:01  ～  3月26日(木) 12:00&lt;br&gt;#7 　 3月15日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#8 　 3月18日(水) 12:01  ～  4月1日(水) 12:00&lt;br&gt;#9 　 3月21日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#10    3月24日(火) 12:01  ～  4月7日(火) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8x7nbksc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6snwohic</id>
-    <title>恋愛禁止_[【第８話】事件の犯人は親友？哀しき愛の結末]</title>
-    <updated>2026-03-24T12:01:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvezfkc7c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 恋愛禁止
-                &lt;a href="https://tver.jp/series/srvezfkc7c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6snwohic.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                津坂瑞帆（伊原六花）は虐待通報がありホテルでの生活を続けていた。不安な気持ちから自宅の様子を見に行くと、まるで妻のように振る舞う親友・麻土香（小西桜子）の姿が。真意を確かめるために郷田（渡邊圭祐）の元を訪れる。郷田は麻土香を消しましょうかと提案するが、即座に断る瑞帆。&lt;br&gt;しかし後日瑞帆の自宅を訪れる郷田。麻土香の真意を確かめるように質問を投げかかる。その帰り道、麻土香を待ち伏せする郷田の姿が－&lt;br&gt;&lt;br&gt;【恋愛禁止  一挙配信】&lt;br&gt;#1 　 3月14日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#2 　 3月14日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#3 　 3月14日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#4 　 3月16日(月) 12:01  ～  3月23日(月) 12:00&lt;br&gt;#5 　 3月18日(水) 12:01  ～  3月25日(水) 12:00&lt;br&gt;#6 　 3月20日(金) 12:01  ～  3月27日(金) 12:00&lt;br&gt;#7 　 3月22日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#8 　 3月24日(火) 12:01  ～  3月31日(火) 12:00&lt;br&gt;#9 　 3月26日(木) 12:01  ～  4月2日(木) 12:00&lt;br&gt;#10    3月28日(土) 12:01  ～  4月4日(土) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6snwohic"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5m3ezx8c</id>
-    <title>私の知らない私_[#8【核心】記憶の秘密が暴かれる―]</title>
-    <updated>2026-03-24T12:01:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtuhfkn2m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私の知らない私
-                &lt;a href="https://tver.jp/series/srtuhfkn2m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5m3ezx8c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                芽衣（小野花梨）は、蒼馬（内藤秀一郎）が亡くなった日のことについて、西島（小池徹平）から聞き出そうとするが、会話を録音していることがバレてしまい、家を出て行くことを決心する。&lt;br&gt;一方、動画が広まってしまったことが原因で、芽衣も龍之介（兵頭功海）も会社を退職することに……。&lt;br&gt;そんな中、昨年の誕生日、莉奈（渋谷凪咲）との食事後に電話がかかってきていたことを思い出した芽衣は、衝撃的な事実に辿り着く……！&lt;br&gt;&lt;br&gt;【私の知らない私  一挙配信】&lt;br&gt;#1 　 3月5日(木) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#2 　 3月7日(土) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#3 　 3月9日(月) 12:01  ～  4月13日(月) 12:00&lt;br&gt;#4 　 3月12日(木) 12:01  ～  3月26日(木) 12:00&lt;br&gt;#5 　 3月15日(日) 12:01  ～  3月29日(日) 12:00&lt;br&gt;#6 　 3月18日(水) 12:01  ～  4月1日(水) 12:00&lt;br&gt;#7 　 3月21日(土) 12:01  ～  4月4日(土) 12:00&lt;br&gt;#8 　 3月24日(火) 12:01  ～  4月7日(火) 12:00&lt;br&gt;#9 　 3月26日(木) 12:01  ～  4月9日(木) 12:00&lt;br&gt;#10   3月28日(土) 12:01  ～  4月11日(土) 12:00&lt;br&gt;#11   3月30日(月) 12:01  ～  4月13日(月) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5m3ezx8c"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epybg7ndis</id>
-    <title>流星ワゴン_[第４話「夫の愛で妻を救え！妻の秘密？笑いと涙の家族愛!!」]</title>
-    <updated>2026-03-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtoctzepc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星ワゴン
-                &lt;a href="https://tver.jp/series/srtoctzepc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epybg7ndis.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)12:00～3月30日(月)11:59&lt;br&gt;#5：3月27日(金)12:00～4月2日(木)11:59&lt;br&gt;#6：3月30日(月)12:00～4月5日(日)11:59&lt;br&gt;#7：4月2日(木)12:00～4月8日(水)11:59&lt;br&gt;#8：4月5日(日)12:00～4月11日(土)11:59&lt;br&gt;#9：4月8日(水)12:00～4月14日(火)11:59&lt;br&gt;#10：4月11日(土)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;「もう逃げない」と自らワゴンを降り、自宅に帰ってきた一雄（西島秀俊）。広樹（横山幸汰）を同級生のイジメから救うため、美代子（井川遥）の実家へ引っ越さないかと提案する。しかしワゴンの事も、未来の事も知らない美代子には、一雄の考えがわからない。「美代子は何も心配しなくていいから」と気遣う一雄。しかしその言葉に、美代子は強く憤る。美代子は密会相手の男と離れたくないのだと考えた一雄は、出かける彼女の後をつける。喫茶店に入った美代子を待っていたのは、やはり密会相手の男・古閑（町田啓太）だった。さらに美代子が数十万円もの金を古閑に渡すところを目撃し、一雄はショックを受ける。茫然自失のまま家に帰ると、忠雄（香川照之）が寝室を漁っていた。さらに「金を渡せ」と言ってクローゼットを物色し、隠すようにしまわれている通帳を見つける忠雄。見れば、５００万円あった預金が少しずつ引き出され、残高はわずかしか残っていない。美代子は家族の全財産を男に貢いだのか…。愕然とする一雄。そのとき、ふいに一雄の携帯が鳴る。それは病院からの電話だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epybg7ndis"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjeu2pls6</id>
-    <title>Heaven?～ご苦楽レストラン～_[quatre オーナーの正体！]</title>
-    <updated>2026-03-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfouc4wqu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Heaven?～ご苦楽レストラン～
-                &lt;a href="https://tver.jp/series/srfouc4wqu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjeu2pls6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：内田慈 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月23日(月)12:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)12:00～3月30日(月)11:59&lt;br&gt;#5：3月27日(金)12:00～4月2日(木)11:59&lt;br&gt;#6：3月30日(月)12:00～4月5日(日)11:59&lt;br&gt;#7：4月2日(木)12:00～4月8日(水)11:59&lt;br&gt;#8：4月5日(日)12:00～4月11日(土)11:59&lt;br&gt;#9：4月8日(水)12:00～4月14日(火)11:59&lt;br&gt;#10：4月11日(土)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;ある日「ロワン・ディシー」に、こわもての男２人（山内圭哉、小柳友）がやってくる。彼らは仮名子（石原さとみ）に「期限はとっくに過ぎている」と詰め寄り、さすがの仮名子も押され気味…。そして、「明日までに用意しろ」と無理やり約束させられることに。その様子を見ていた堤（勝村政信）は、仮名子が借金取りに追われているのでは？と想像。さらに、金策に困った仮名子が、従業員の誰かを解雇するのではないか？と不安を募らせる。一方、伊賀（福士蒼汰）や川合（志尊淳）も、仮名子はいったい何者なのか？と思い始める。そこには、山縣（岸部一徳）だけが知るある事実が…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjeu2pls6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdzh9ybpq</id>
-    <title>日本沈没ー希望のひとー_[第８話「日本人大移民計画」]</title>
-    <updated>2026-03-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srllxjshv1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 日本沈没ー希望のひとー
-                &lt;a href="https://tver.jp/series/srllxjshv1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdzh9ybpq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：松山ケンイチ 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：長江英和 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月6日(金)12:00～4月7日(火)21:59&lt;br&gt;#4：3月10日(火)12:00～3月17日(火)11:59&lt;br&gt;#5：3月13日(金)12:00～3月20日(金)11:59&lt;br&gt;#6：3月17日(火)12:00～3月24日(火)11:59&lt;br&gt;#7：3月20日(金)12:00～3月27日(金)11:59&lt;br&gt;#8：3月24日(火)12:00～3月31日(火)11:59&lt;br&gt;#9：3月27日(金)12:00～4月3日(金)11:59&lt;br&gt;#10：3月31日(火)12:00～4月7日(火)21:59&lt;br&gt;------------&lt;br&gt;アメリカの会見を受けて、中国は日本政府との移民交渉を完全に遮断。世界各国も中国の動きに同調し、もはや世界との移民交渉の窓口は閉じられた。また、日本沈没という情報が全世界に知れ渡り、日本国内でも政府や東山総理（仲村トオル）に対しての怒りやデモは日増しに高まっていた。そんな中、中国に再度交渉をしに行った日本政府は、到底不可能な条件を突きつけられる。天海（小栗旬）と常盤（松山ケンイチ）は、何とか移民交渉を進めるために中心となって動くが、なかなかうまくいかない。八方塞がりの中、田所博士（香川照之）からは日本沈没はいつ起きてもおかしくないという話を聞かされる。追い込まれた天海は、唯一の打開策を思いつく―。それは、中国に対しての一か八かの危険な賭け。里城副総理（石橋蓮司）の協力も得て、その賭けに出る天海だったが…。そして、衝撃的な出来事が待ち受けていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdzh9ybpq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbz3l5wcs</id>
-    <title>御上先生_[Episode 5 -confidence-]</title>
-    <updated>2026-03-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 御上先生
-                &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbz3l5wcs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TVerアワード2025 ドラマ優秀賞 受賞記念】&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 主演：岡田将生 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：八村倫太郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月18日(水)12:00～4月17日(金)21:59&lt;br&gt;#4：3月20日(金)12:00～3月27日(金)11:59&lt;br&gt;#5：3月24日(火)12:00～3月31日(火)11:59&lt;br&gt;#6：3月27日(金)12:00～4月3日(金)11:59&lt;br&gt;#7：3月31日(火)12:00～4月7日(火)11:59&lt;br&gt;#8：4月3日(金)12:00～4月10日(金)11:59&lt;br&gt;#9：4月7日(火)12:00～4月14日(火)11:59&lt;br&gt;#10：4月10日(金)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;神崎（奥平大兼）が御上（松坂桃李）と共に、ついに弓弦（堀田真由）と面会できることに…。明かされる弓弦の過去。心を閉ざす彼女に神崎はどう対峙するのか！？&lt;br&gt;一方、３年２組は高校生ビジネスプロジェクトコンクールに向けて動いている。しかし、ここにも大人社会の権力の構図が影響していた。生徒たちは、忖度をもぶち破るプレゼンを目指して議論を深めていくのだが…。&lt;br&gt;そして、御上に突きつけられる試練とは…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbz3l5wcs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5xolfu4v</id>
-    <title>新空港占拠_[第5話　新・突入]</title>
-    <updated>2026-03-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmr1z44t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 新空港占拠
-                &lt;a href="https://tver.jp/series/srxmr1z44t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5xolfu4v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【土ドラ『タツキ先生は甘すぎる！』（２０２６年４月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　3/21(土)12:00～&lt;br&gt;#5　3/24(火)12:00～&lt;br&gt;#6-7　3/28(土)12:00～&lt;br&gt;#8-10　3/31(火)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;武蔵(櫻井翔)は川越(片桐仁)殺害の疑いをかけられたさくら(ソニン)の無実を信じるが、さくらの所持品からある物が見つかってしまう。一方、裕子(比嘉愛未)は謎の男(ジェシー)に命を救われ、頭が混乱…。空港では、獣に毒を飲まされた二葉(奥貫薫)ら人質たちが、このままでは1時間以内に全員死ぬという危機に。助かるために人質たちは【ある方法】を試す…。そんな中、警備部長の大久保は、ある無情な作戦を決行し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5xolfu4v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4m8g406m</id>
-    <title>大好き！五つ子5_[第17回]</title>
-    <updated>2026-03-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子5
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4m8g406m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;その日、桃子（森尾由美）は朝から食欲がなかった。慎吾（中野勇士）は桃子の様子を見て心配し、手伝いを買って出る。さらに慎吾は千絵子（茅島成美）に相談しにいく。事情を聞いた千絵子はあることを思いつき、急いでお弁当の用意を始め…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4m8g406m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epw3hieowo</id>
-    <title>世界で一番熱い夏_[STORY 04 娘との永遠の別れ]</title>
-    <updated>2026-03-24T11:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnx41rbc9n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 世界で一番熱い夏
-                &lt;a href="https://tver.jp/series/srnx41rbc9n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_11時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_10時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw3hieowo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：岸谷五朗 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)11:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)11:00～3月30日(月)10:59&lt;br&gt;#5：3月27日(金)11:00～4月2日(木)10:59&lt;br&gt;#6：3月30日(月)11:00～4月5日(日)10:59&lt;br&gt;#7：4月2日(木)11:00～4月8日(水)10:59&lt;br&gt;#8：4月5日(日)11:00～4月11日(土)10:59&lt;br&gt;#9：4月8日(水)11:00～4月14日(火)10:59&lt;br&gt;#10：4月11日(土)11:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;大輔（岸谷五朗）は、東城（小野武彦）の街頭演説を、群衆に紛れて見ていた。凉子（原沙知絵）は「例の場所で待っている」というメモを大輔から受け取り東城に渡す。怯える東城だったが、凉子は「大輔を捕まえる格好の機会」だと要求をのむよう勧め、２人は会って対峙することに。「どうして俺をハメたんだ？」と大輔が東城に問うと「総理になりたかった。それだけだ」と答えた。大輔は「必ず無実を証明してみせる」と東城に宣戦布告する。&lt;br&gt;ある日、玲子（山口もえ）がヤブさん（田中邦衛）の娘が見つかったと伝える。娘の美香（川越美和）はヤブさんと同じ外科医になっていた。会うつもりはないと言い切るヤブさんだが、娘が描いたボロボロの似顔絵を大切にしているのを見た大輔は、ヤブさんと美香を会わせようとする。&lt;br&gt;そんな中、来未子（和久井映見）が家に帰ってくるとそこには凉子の姿が。ちえみ（仲根紗央莉）からヤブさんの話を聞き出していた凉子は、来未子に北海道の実家に帰ることを進言した。その後、ちえみが行方不明になってしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epw3hieowo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epky1c9fzd</id>
-    <title>ケイゾク_[mystery５ 未来が見える男]</title>
-    <updated>2026-03-24T11:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmyyijs15.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ケイゾク
-                &lt;a href="https://tver.jp/series/srmyyijs15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_11時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月30日(月)_10時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1999年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epky1c9fzd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：長江英和 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：3月1日(日)11:00～4月17日(金)21:59&lt;br&gt;#3：3月22日(日)11:00～4月17日(金)21:59&lt;br&gt;#4：3月22日(日)11:00～3月28日(土)10:59&lt;br&gt;#5：3月24日(火)11:00～3月30日(月)10:59&lt;br&gt;#6：3月28日(土)11:00～4月3日(金)10:59&lt;br&gt;#7：3月30日(月)11:00～4月5日(日)10:59&lt;br&gt;#8：4月3日(金)11:00～4月9日(木)10:59&lt;br&gt;#9：4月5日(日)11:00～4月11日(土)10:59&lt;br&gt;#10：4月9日(木)11:00～4月15日(水)10:59&lt;br&gt;#11：4月11日(土)11:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;二係にヒステリックな主婦・青井ゆかり（筒井真理子）がやってきた。２年前から行方不明になっている夫の捜索状況を確かめにやってきたのだが、警察の対応はのらりくらりとしたもの。怒ったゆかりは、「マスコミに告発しますから」と部屋を出てしまう。慌てた野々村係長（竜雷太）は、謝罪のため柴田（中谷美紀）を連れて青井宅を訪れるがゆかりは留守だったため、野々村は誠意を表すために自分の名刺をゆかりの家のポストに入れて行く。その後、ゆかりはテレビのワイドショーに出演し、行方不明の夫を番組内で霊能者・鷺沼聖（大沢樹生）に捜してもらうと共に、警察のいい加減さを野々村の名刺と共に語るのであった。すると、霊能者・鷺沼が、青井の姿が見えると発言し、テレビスタッフと共に、霊視で見えた場所へ向かう。そこで鷺沼は「誰か、殺された…２階…」とだけ発言し、失神。スタッフがすぐさま２階へ駆け付けると、そこには血を流して倒れた青井の姿が…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epky1c9fzd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzg2u1m7e</id>
-    <title>変態植物倶楽部_[最終話 「チーム名は…変態植物倶楽部で！」]</title>
-    <updated>2026-03-24T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvtbkehgn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 変態植物倶楽部
-                &lt;a href="https://tver.jp/series/srvtbkehgn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzg2u1m7e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【新シーズン放送記念！2週間限定イッキミ】&lt;br&gt;主人公・副島（一ノ瀬ワタル）は、植物に魅せられた男。ある夜、ビカクシダの胞子を手&lt;br&gt;にしたまま眠りについた副島は、夢の中で自らの首元から葉が芽吹き、ビカクシダに乗っ&lt;br&gt;取られるという奇妙な体験をする。翌朝、食品宅配の仕事中、置き配先の玄関で立派なビ&lt;br&gt;カクシダを見つけた副島は、好奇心を抑えきれず住人・花畑（ひょうろく）に声をかけ&lt;br&gt;る。警戒されながらも、SNS で“ソエジマニア”として知られていた副島だと分かると、花&lt;br&gt;畑は態度を一変。案内された室内には紫色の光に照らされた胞子培養のビカクシダが並&lt;br&gt;び、花畑は繁殖の秘密を熱弁する。さらに「植物は人間を利用しているのでは」という花&lt;br&gt;畑の言葉に、副島は夢の記憶をフラッシュバック。やがて二人は「変態植物倶楽部」を結&lt;br&gt;成し、友情を誓うが――副島の首元には、再び小さな葉が芽吹いていた……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzg2u1m7e"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyus5rjry</id>
-    <title>小さな巨人_[#９ 共犯者はあの上司!?逆転劇だ]</title>
-    <updated>2026-03-24T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9kzsg64q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 小さな巨人
-                &lt;a href="https://tver.jp/series/sr9kzsg64q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyus5rjry.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：岡田将生・長江英和 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-5：3月15日(日)10:00～3月24日(火)9:59&lt;br&gt;#6-10：3月24日(火)10:00～4月1日(水)9:59&lt;br&gt;※本作品は4月1日(水)～4月17日(金)にも配信を行います&lt;br&gt;------------&lt;br&gt;香坂（長谷川博己）ら豊洲署員たちは、苦労の末に元捜査二課の刑事・江口（ユースケ・サンタマリア）を殺害したとして、容疑者・横沢裕一（井上芳雄）の身柄を確保した。だが、山田（岡田将生）が横沢と共に姿を消してしまった。香坂は山田と共犯の疑いがあるとして自宅謹慎を言い渡されてしまう。一方、山田は父親で内閣官房副長官の勲（高橋英樹）の家に乗り込むが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyus5rjry"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eps8i3ebqt</id>
-    <title>変態植物倶楽部_[第1話 一ノ瀬ワタル主演！狂おしいほど魅せられた男]</title>
-    <updated>2026-03-24T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvtbkehgn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 変態植物倶楽部
-                &lt;a href="https://tver.jp/series/srvtbkehgn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps8i3ebqt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【新シーズン放送記念！2週間限定イッキミ】&lt;br&gt;主人公・副島（一ノ瀬ワタル）は、水商売で働いていた頃に遺棄された胡蝶蘭を家に持ち帰って育て始めたのがきっかけで、植物に魅せられ、植物に狂った男。現在は植物の世話を優先させるため、時間の融通が聞く食品の宅配デリバリーで生計を立てている。&lt;br&gt;ビカクシダに埋め尽くされた1Kの部屋に暮らす副島は、その日も自転車で食品の宅配デリバリーの仕事に奮闘。最後の宅配が終わって建物から出ると、目の前に植物に埋もれた建物が。そのインパクトにしばらく立ちすくむ副島だが、意を決して店内に足を踏み入れる。すると、奇怪な姿をした植物たちがフロアを埋め尽くしていた。そこは、食虫植物専門店「チェリーラディッシュ」（東京・恵比寿）。副島が唖然としながら店内を見回っていると、ある植物を目にした瞬間、覚醒し……？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eps8i3ebqt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnv2dx2oz</id>
-    <title>小さな巨人_[#７ 100%の証拠より200%の覚悟の戦]</title>
-    <updated>2026-03-24T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9kzsg64q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 小さな巨人
-                &lt;a href="https://tver.jp/series/sr9kzsg64q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnv2dx2oz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：岡田将生・長江英和 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-5：3月15日(日)10:00～3月24日(火)9:59&lt;br&gt;#6-10：3月24日(火)10:00～4月1日(水)9:59&lt;br&gt;※本作品は4月1日(水)～4月17日(金)にも配信を行います&lt;br&gt;------------&lt;br&gt;金崎理事長（和田アキ子）と富永専務（梅沢富美男）が経営する早明学園の不正を暴くため、矢部貴志と名乗って内偵捜査をしていた元捜査二課の刑事・江口和夫（ユースケ・サンタマリア）が殺害された。そして、その現場から走り去った山田（岡田将生）が容疑者として、捜査一課の藤倉良一（駿河太郎）らに拘束される。一方、山田から詳細を報告されていた香坂（長谷川博己）は、祐里（芳根京子）らと独自に捜査を始め、ある有力な情報を手に入れる。しかし、小野田一課長（香川照之）から忠告された渡部（安田顕）に妨害されてしまい…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnv2dx2oz"/>
   </entry>
 </feed>
