@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-25T02:06:06+09:00</updated>
+  <updated>2026-03-25T10:49:39+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1m366w51</id>
+    <title>王になった男_[第8話]</title>
+    <updated>2026-03-25T09:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 王になった男
+                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月25日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1m366w51.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ハソンはチュ･ホゴルの協力を得るため賭けをする。その結果ハソンは、ホゴルの心を得る。だがその矢先、シン･チスの策で戸曹に監察が入る。戸曹判書が罷免になれば、大同法の施行は困難となる。地方官吏が米を横流ししている証拠をつかむためにも、一刻も早くホゴルの力が必要となるが、ホゴルは命を狙われる。上奏の日、ギュが登庁しないことに気を揉むハソン。ところが上奏が始まると遅れてギュが現れる。引継書の疑惑を証明する証拠とともに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1m366w51"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epo58cwuhz</id>
+    <title>田鎖ブラザーズ_[豪華キャスト集結スペシャル！]</title>
+    <updated>2026-03-25T03:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_03時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo58cwuhz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                兄・岡田将生×弟・染谷将太！警察官となった“田鎖ブラザーズ”の完全オリジナルクライムサスペンス！豪華キャストが集結し、ドラマの魅力を伝えるスペシャル番組！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo58cwuhz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplqrjg8qi</id>
     <title>マトリと狂犬_[#９「狂犬たちの終焉」《ドラマイズム》]</title>
@@ -368,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epu78lkdu2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqf12qcj6</id>
-    <title>王になった男_[第7話]</title>
-    <updated>2026-03-24T09:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro5m8q6ct.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 王になった男
-                &lt;a href="https://tver.jp/series/sro5m8q6ct" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月24日(火)_09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_03月31日(火)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqf12qcj6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                かつて夢見た世の中を作ろうと決意したイ･ギュは、大同会の仲間を集めるようウンシムに指示する。ハソンに王と同じ傷を負わせたイ･ギュは、内医院の診察を断らせ、他の者の拝謁を止めさせた。だが王妃ソウンだけは毎日のように薬を煎じて王宮を訪れ、ハソンとソウンの距離は縮まっていく。ソウンの頼みで民に施す救援米を集めるようシン･チスに命じるハソンだが、王室の財源を握るチスは、宮殿再興を口実に一蹴する。戸曹判書に救援米の件を相談するうちに、米で貢納品を統一する大同法の再施行の話が持ち上がるが、そのためには計算能力にたけたチュ･ホゴルの力が必要だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqf12qcj6"/>
   </entry>
 </feed>
