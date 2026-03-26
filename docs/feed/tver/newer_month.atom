@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-26T02:06:24+09:00</updated>
+  <updated>2026-03-26T11:06:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3wylzpv0</id>
+    <title>L&amp;P_[第25話　イケメンだから]</title>
+    <updated>2026-03-26T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月26日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月26日(日)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月25日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3wylzpv0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                李峋(リー・シュン)が面接を受けたサイバー飛揚(フェイヤン)に、朱韻(ジュー・ユン)も就職を決める。飛揚はまだ実績も無いような零細企業で、社長もITに関して素人のワンマン。この飛揚で、朱韻はゲームの制作リーダーを務めることに。李峋も制作チームのメンバーに指名され、朱韻の様子を伺っていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3wylzpv0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5re5hj6f</id>
     <title>この愛は間違いですか～不倫の贖罪_[第12話（最終回） 最後の審判]</title>
@@ -248,165 +288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epezx2px9b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo58cwuhz</id>
-    <title>田鎖ブラザーズ_[豪華キャスト集結スペシャル！]</title>
-    <updated>2026-03-25T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 田鎖ブラザーズ
-                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo58cwuhz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                兄・岡田将生×弟・染谷将太！警察官となった“田鎖ブラザーズ”の完全オリジナルクライムサスペンス！豪華キャストが集結し、ドラマの魅力を伝えるスペシャル番組！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo58cwuhz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplqrjg8qi</id>
-    <title>マトリと狂犬_[#９「狂犬たちの終焉」《ドラマイズム》]</title>
-    <updated>2026-03-25T01:58:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8qcrft60.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ マトリと狂犬
-                &lt;a href="https://tver.jp/series/sr8qcrft60" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_01時58分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_01時57分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplqrjg8qi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                佐伯組に拘束された梅沢（西畑大吾）は、マトリの潜入捜査官だと偽り取引を持ちかけるが、佐伯（深水元基）は信用を得る証として、「黒崎（細田善彦）を殺せ」と梅沢に命じる。そんな絶体絶命の窮地から負傷した黒崎を連れて脱出を試みる梅沢はある衝撃の行動に出るが、更なる地獄が待ち受けていて！？命がけの梅沢、そして振り回された黒崎と葛城（向井理）という狂犬たちの闘いの結末はどうなるのか…麻薬を巡る狂気と欲望、土壇場で信じられるのは誰なのか――。狂犬たちの運命はいかに―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplqrjg8qi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6bxr9iq6</id>
-    <title>ぴーすおぶせーふ_[第2話 イエスマンじゃだめですか？]</title>
-    <updated>2026-03-25T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr25s7151l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぴーすおぶせーふ
-                &lt;a href="https://tver.jp/series/sr25s7151l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_00時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6bxr9iq6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                揉め事が大嫌いなイエスマン・黒島くん(基俊介)は、任務のために嫌々ながら構成員として潜入を試みる。そんな彼には、イエスマンになってしまったある過去があった。&lt;br&gt;一方その頃、備品室に残された灰原さん(佐々木美玲)と白間宮くん(落合モトキ)は、のんびりと自由に過ごしながら事なかれていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6bxr9iq6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0u1yy3bd</id>
-    <title>終のひと_[＃10「告白」]</title>
-    <updated>2026-03-25T01:28:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhukk4g19.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 終のひと
-                &lt;a href="https://tver.jp/series/srhukk4g19" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月25日(水)_01時28分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月01日(水)_00時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月24日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0u1yy3bd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★お気に入り登録で見逃さない★【3月31日いよいよ最終回】&lt;br&gt;ついに嗣江（柿澤勇人）はフミ（筒井真理子）に、末期ガンを患い余命わずかであることを打ち明け、嗣江葬儀店の廃業へ向け粛々と準備を進める。&lt;br&gt;その一方、梵（西山潤）の幼馴染・ムコ（てっぺい右利き）の祖母であり、梵にとっても本当の祖母同然だったキヨ婆（小柳友貴美）が入院し、梵がお見舞いに行った矢先に亡くなってしまう。そしてムコからの依頼で、梵は初めて１人で葬儀を担当することになるのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0u1yy3bd"/>
   </entry>
 </feed>
