@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-26T16:06:00+09:00</updated>
+  <updated>2026-03-26T18:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcrrvpoqf</id>
+    <title>エラー_[畑芽育×志田未来　SPインタビュー＆メイキング]</title>
+    <updated>2026-03-26T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ エラー
+                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月26日(木)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月5日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcrrvpoqf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                この世には、取り返しのつかない過ちが存在する。&lt;br&gt;罪と友情の狭間で揺れ動く二人の女性のヒューマンサスペンス。&lt;br&gt;人は”過ち”を赦せるのか。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcrrvpoqf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep3wylzpv0</id>
     <title>L&amp;P_[第25話　イケメンだから]</title>
