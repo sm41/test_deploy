@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-26T20:06:00+09:00</updated>
+  <updated>2026-03-26T22:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epohxhx9mk</id>
+    <title>ゆかりくんはギャップがずるい_[第8話 ままならないけど、愛おしい]</title>
+    <updated>2026-03-26T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srofqchtnc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ゆかりくんはギャップがずるい
+                &lt;a href="https://tver.jp/series/srofqchtnc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月26日(木)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月02日(木)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月26日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epohxhx9mk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                華琳（速瀬愛）の実家に散らばった楽譜を目にした芽衣子（渡邉美穂）は、彼女の本心を知る。芽衣子は自らの経験も重ね合わせて「夢は大抵叶わない」と現実を突きつけながらも、華琳を優しく励まし、華琳の背中を押すのだった。&lt;br&gt;帰り道、ゆかりくん（高尾颯斗）と芽衣子は寄り道をして海辺を散歩する。長らく会えなかった二人は、以前のように楽しいひとときを過ごしていた…かに見えたとき、突如芽衣子が口を開く。「私たち、先生と生徒に戻ろう」と言うのだ。突然の提案に、ゆかりくんは動揺しながら募る思いがあふれ出てしまい…。&lt;br&gt;二人のままならない人生や恋の行方やいかに――！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epohxhx9mk"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp4a8k3qv</id>
     <title>最後の雨が降るとき_[第7話　同じことをする]</title>
