@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-27T18:06:00+09:00</updated>
+  <updated>2026-03-27T20:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvtogwvpb</id>
+    <title>それでも愛を誓いますか？_[#5 既婚者の理性と、あふれ出る本能]</title>
+    <updated>2026-03-27T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srykbxlgbh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ それでも愛を誓いますか？
+                &lt;a href="https://tver.jp/series/srykbxlgbh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月27日(金)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvtogwvpb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                純須武頼（池内博之）から連絡手段をブロックされた足立沙織（酒井若菜）は、純（松本まりか）のＳＮＳをフォローし始め、純を怯えさせる。武頼は純を守ると決意するが、会社の前で沙織に待ち伏せされてしまう。武頼が会ってくれないなら、純に会いに行くという沙織の脅しめいた言葉に、武頼は断りきれなくなり…。&lt;br&gt;　一方の純は、武頼との夫婦のあり方への不安や、沙織に対する恐怖を感じながらも、正社員になるという新たな目標に向かって夜遅くまで研修に励む。長い一日が終わり、ふと一息つきながらひとり菓子パンを頬張る純。その時、押さえ込んでいたさまざまな思いが涙となってこぼれ落ちる。前日から純の様子がおかしいと気づいていた真山篤郎（藤原季節）は、そんな純を見て…！？&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月23日(月) 夜7時～　#1&lt;br&gt;3月24日(火) 夜7時～　#2&lt;br&gt;3月25日(水) 夜7時～　#3&lt;br&gt;3月26日(木) 夜7時～　#4&lt;br&gt;3月27日(金) 夜7時～　#5&lt;br&gt;3月28日(土) 夜7時～　#6&lt;br&gt;3月29日(日) 夜7時～　#7&lt;br&gt;3月30日(月) 夜7時～　#8&lt;br&gt;3月31日(火) 夜7時～　#9&lt;br&gt;4月1日(水) 夜7時～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvtogwvpb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epthxgi0cl</id>
     <title>高原へいらっしゃい（佐藤浩市主演）_[第五話「こころのホテルって何ですか」]</title>
@@ -3568,45 +3608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3ik0csym"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3bg7p52l</id>
-    <title>御上先生_[Episode 6 -confession-]</title>
-    <updated>2026-03-27T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 御上先生
-                &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月27日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3bg7p52l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TVerアワード2025 ドラマ優秀賞 受賞記念】&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 主演：岡田将生 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：八村倫太郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月18日(水)12:00～4月17日(金)21:59&lt;br&gt;#4：3月20日(金)12:00～3月27日(金)11:59&lt;br&gt;#5：3月24日(火)12:00～3月31日(火)11:59&lt;br&gt;#6：3月27日(金)12:00～4月3日(金)11:59&lt;br&gt;#7：3月31日(火)12:00～4月7日(火)11:59&lt;br&gt;#8：4月3日(金)12:00～4月10日(金)11:59&lt;br&gt;#9：4月7日(火)12:00～4月14日(火)11:59&lt;br&gt;#10：4月10日(金)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;週刊誌に記事が出て、生徒たちは御上（松坂桃李）の兄・宏太（新原泰佑）のことを知る。&lt;br&gt;「昔のことだ」と、生徒からの問いに答えない御上だが、御上の過去を知るある人物の後押しもあり、静かに口を開く。&lt;br&gt;果たして御上は何を語るのか――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3bg7p52l"/>
   </entry>
 </feed>
