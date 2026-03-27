@@ -2,11 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-27T20:06:00+09:00</updated>
+  <updated>2026-03-27T22:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcvmusbe1</id>
+    <title>副会長の主なお仕事_[副会長のお仕事]</title>
+    <updated>2026-03-27T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8zwupnem.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 副会長の主なお仕事
+                &lt;a href="https://tver.jp/series/sr8zwupnem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月27日(金)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月10日(金)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月27日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcvmusbe1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                11月1日。放課後の生徒会室。珍しくひとりになった灰屋は、静まり返った部屋の中で、栗下と過ごしてきた日々をそっと思い返す。&lt;br&gt;伏せられたティーカップ、少し整頓された棚──どれもが、二人だけの時間の名残を静かに宿していた。そこへ、買い物袋を抱えた栗下が戻ってくる。変わらない笑みのまま、“会長を支える副会長としての思い”を穏やかに告げる栗下。二人だけの生徒会偏愛コメディ、ここに完結──？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcvmusbe1"/>
+  </entry>
 </feed>
