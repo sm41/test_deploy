@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-27T02:06:00+09:00</updated>
+  <updated>2026-03-27T10:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epn2zg12fw</id>
+    <title>シリウス_[Ep5]</title>
+    <updated>2026-03-27T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruw67gye8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シリウス
+                &lt;a href="https://tver.jp/series/sruw67gye8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月27日(金)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_02時45分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月26日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn2zg12fw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                最終決戦。ウンチャンとシヌはついにコ・ソクミンを追い詰めるが、ウンチャンが致命傷を負ってしまう。 ようやく兄の想いを理解したシヌは、眠る兄を前に過去の誤解や憎しみを乗り越えた涙を流す。そして―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn2zg12fw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu65x6qb0</id>
     <title>女の子が抱いちゃダメですか？_[＃４「抱くってこういうことですか？」《ドラマフィル》]</title>
