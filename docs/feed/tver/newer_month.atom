@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-28T16:05:35+09:00</updated>
+  <updated>2026-03-28T18:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep54uzywlb</id>
+    <title>晩餐ブルース Special_[春のトマトシチュー＆お花見弁当！]</title>
+    <updated>2026-03-28T17:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre723cjzw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 晩餐ブルース Special
+                &lt;a href="https://tver.jp/series/sre723cjzw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月28日(土)_17時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月25日(土)_15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep54uzywlb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ただ一緒に晩ご飯を食べる晩餐活動＝晩活を始めて1年。優太（井之脇海）と耕助（金子大地）は、葵（草川拓弥）の提案で、亀1匹を交えたルームシェアを開始。休職を経て職場復帰した優太はチーフ監督に抜擢され喜ぶが、理想のリーダー像を目指す中で、空回っていく。一方、食堂店主として歩み始めた耕助は、疎遠だった父・弘（菅原大吉）からの突然の連絡に困惑。新たな壁に直面する二人が晩活を通して、それぞれの答えに辿り着く！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep54uzywlb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplq1mhd1w</id>
     <title>田鎖ブラザーズ_[見どころ徹底捜査スペシャル！]</title>
