@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-28T18:05:35+09:00</updated>
+  <updated>2026-03-28T20:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epqkrywrb5</id>
+    <title>それでも愛を誓いますか？_[#6 夫婦の務め？夫を追い詰める妻の責任感]</title>
+    <updated>2026-03-28T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srykbxlgbh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ それでも愛を誓いますか？
+                &lt;a href="https://tver.jp/series/srykbxlgbh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月28日(土)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqkrywrb5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                純須武頼（池内博之）と、夫婦としてお互いきちんと向き合うことを確認し合った純（松本まりか）は、意を決し足立沙織（酒井若菜）に会いに行く。“妻の務め”として、夫を支える姿勢を示す純。だが、沙織からは、純のその“義務感”が武頼を追い詰めていると反論されてしまう。純と対峙しても動じることのない沙織に、逆にたじろいでしまう純。しかし、そんな沙織もまた、職場の学校では、武頼のことが原因で立場を危うくしていた…。&lt;br&gt;　そんな中純は、正社員を目指して泊まりがけの社員研修へと出かける。真山篤郎（藤原季節）たち若手社員に混ざって研修を受ける純は、真山が同期の橘野明（吉田沙世）と親しげに接する姿を見て、これまでにない感情を抱く…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月23日(月) 夜7時～　#1&lt;br&gt;3月24日(火) 夜7時～　#2&lt;br&gt;3月25日(水) 夜7時～　#3&lt;br&gt;3月26日(木) 夜7時～　#4&lt;br&gt;3月27日(金) 夜7時～　#5&lt;br&gt;3月28日(土) 夜7時～　#6&lt;br&gt;3月29日(日) 夜7時～　#7&lt;br&gt;3月30日(月) 夜7時～　#8&lt;br&gt;3月31日(火) 夜7時～　#9&lt;br&gt;4月1日(水) 夜7時～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epqkrywrb5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjy4vsakf</id>
     <title>９ボーダー_[第７話 家族旅行で深まる絆…言えなかった本当の気持ち]</title>
@@ -3048,85 +3088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epsoka6dup"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqcaz00vz</id>
-    <title>となりのナースエイドSP 2025_[復活!となりのナースエイドSP2025]</title>
-    <updated>2026-03-27T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlj7c0k6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ となりのナースエイドSP 2025
-                &lt;a href="https://tver.jp/series/srwlj7c0k6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月27日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqcaz00vz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/20(金)12:00～&lt;br&gt;#4-5　3/13(金)12:00～&lt;br&gt;#6-7　3/20(金)12:00～&lt;br&gt;#8-10,SP　3/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;外科医に復帰して1年、澪(川栄李奈)は星嶺医大のエースとして大活躍。海外に旅立ったきり音信不通の大河(高杉真宙)のかわりにイケメン外科医の虎徹(千葉雄大)とバディを組み絶好調だが、なんとナースエイドとしても働き続け、患者への想いが強いあまり二刀流として頑張りすぎな毎日。そんな中、大河が電撃帰国も、何か様子がおかしい?澪・大河・虎徹の三角関係勃発に、新たな謎。そして連続ドラマで明かされなかった、戦慄の秘密も明かされる!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqcaz00vz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqa6032to</id>
-    <title>ハコヅメ～たたかう！交番女子～_[第8話]</title>
-    <updated>2026-03-27T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupy1oaxt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ハコヅメ～たたかう！交番女子～
-                &lt;a href="https://tver.jp/series/srupy1oaxt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月27日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqa6032to.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/20(金)12:00～&lt;br&gt;#4-5　3/13(金)12:00～&lt;br&gt;#6-7　3/20(金)12:00～&lt;br&gt;#8-9　3/27(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;川合(永野芽郁)は藤(戸田恵梨香)が交番にやってきた“本当の理由”を知る。3年前、同期・桜(徳永えり)をひき逃げした犯人を追っていた藤。「守護天使が犯人じゃないか?」という伊賀崎(ムロツヨシ)の勘にすがり、1人で手がかりを探していたところ、桜に似た川合の存在を知り、この子の側にいたら守護天使が現れるかもと自ら交番に異動してきたという。藤が真実を隠していた事に混乱する川合。最強ペアの絆に危機が…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqa6032to"/>
   </entry>
 </feed>
