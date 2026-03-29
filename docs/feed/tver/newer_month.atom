@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-29T16:06:10+09:00</updated>
+  <updated>2026-03-29T18:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcj6cj1nc</id>
+    <title>スケバン刑事_[第23話「恐るべき死の爆弾人形！！」]</title>
+    <updated>2026-03-29T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月29日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcj6cj1nc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                麗巳は死んではいなかった。麗巳はサキを殺す計画を立てる。米軍スーパーウェポン研究所員につくらせた人形をサキの友人の妹に与えた。その人形は、サキの声に反応して爆発する恐ろしい兵器だったのだ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcj6cj1nc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epktufsgfd</id>
     <title>＆Hulu_[特集は綾辻ミステリー「館」シリーズの実写化第2弾「時計館の殺人」の見所を紹介▼名作映画をドラマ版にリブート。サスペンスアクション「ジャッカルの日」後半を放送]</title>

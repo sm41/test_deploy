@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-29T16:06:10+09:00</updated>
+  <updated>2026-03-29T18:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epq1mzlonw</id>
+    <title>とんび_[第八話 父と息子の遺言状]</title>
+    <updated>2026-03-29T17:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmcjp1ao0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ とんび
+                &lt;a href="https://tver.jp/series/srmcjp1ao0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq1mzlonw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月13日(金)17:00～&lt;br&gt;#4：3月15日(日)17:00～3月22日(日)16:59&lt;br&gt;#5：3月19日(木)17:00～3月26日(木)16:59&lt;br&gt;#6：3月22日(日)17:00～3月29日(日)16:59&lt;br&gt;#7：3月26日(木)17:00～4月2日(木)16:59&lt;br&gt;#8：3月29日(日)17:00～4月5日(日)16:59&lt;br&gt;#9：4月2日(木)17:00～4月9日(木)16:59&lt;br&gt;#10：4月5日(日)17:00～&lt;br&gt;------------&lt;br&gt;平成８年。ヤス（内野聖陽）の父親の息子と名乗る島野昭之（内倉憲二）から、突然、ヤスに電話がかかってきた。島野から「父親が会って詫びたいと言っているので、東京にきて頂けないですか？」と相談されたヤス。父親とは５０年近く音信不通で、生きているとも思っていなかったヤスは、何の感情も湧かず再会するべきか悩む。照雲（野村宏伸）らに相談するが、アキラ（佐藤健）と東京には行かない約束をしているため断ろうとする。そんな矢先、たえ子（麻生祐未）から幼い頃の話をされて東京に行くことを決意したヤスは、葛原（音尾琢真）が運転するトラックに同乗して島野のもとを訪れることに…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epq1mzlonw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqdmypddh</id>
     <title>Around40～注文の多いオンナたち～_[＃８ 彼が結婚しない理由]</title>
@@ -3048,85 +3088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5m9w8u1x"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3xk2m3ih</id>
-    <title>ライアーゲーム シーズン2_[第8話 天才と天才の秘密]</title>
-    <updated>2026-03-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr38tiiobq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ライアーゲーム シーズン2
-                &lt;a href="https://tver.jp/series/sr38tiiobq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月28日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月03日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3xk2m3ih.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月06日(月)&lt;br&gt;#4：03月16日(月) ～ 03月22日(日)&lt;br&gt;#5：03月19日(木) ～ 03月25日(水)&lt;br&gt;#6：03月22日(日) ～ 03月28日(土)&lt;br&gt;#7：03月25日(水) ～ 03月31日(火)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;&lt;br&gt;セミファイナル前半戦が終わろうとしていた。神崎直（戸田恵梨香）や秋山深一（松田翔太）、葛城リョウ（菊地凛子）の作戦で、ほぼ全員が勝ち上がりの条件である十字架4本を手に入れていた。しかし、ゲーム終了まで残りわずかになって、まだ十字架4本を持っていないプレイヤーがいて・・・。ゲームが終了し、勝ち上がって喜んでいるプレイヤーに対して葛城はこのゲームで蹴落とさなかったことを必ず後悔すると告げた。&lt;br&gt;そして、後半戦が始まることになった。後半戦のゲームは3回戦で戦った密輸ゲームをアレンジした“ゴールドラッシュゲーム”だ。1人に貸し付けられたのは1億円と、相手国の金庫に3億円、合計4億円の金塊だ。プレイヤーは光の国と炎の国に分かれ、相手敷地内にある金庫から金塊を持ち帰る。最後まで運びきれず金庫に残った金塊は相手国のものとなり、トータル賞金額の多い国が勝ちとなる。さらに、勝利国全員がファイナルステージに進めるわけではなく、国の総資産額14億円につき1人という狭き門となる。また、プレイヤーにはファイナルステージ辞退の権利も与えられていて、賞金の半額を返却することなく勝ち抜けすることもできる。&lt;br&gt;チーム分けが決まり、直、秋山、福永ユウジ（鈴木浩介）は光の国になる。次にチームメイトの金塊を持ち出す順番が決められる権限を持つが、大敗した場合は国の負債の半額を持つというリーダーを決めることに。リスクが大きい為、ためらっているプレイヤーを見た直はリーダーに立候補。炎の国のリーダーは葛城になった。そして、セミファイナル後半戦が始まった・・・！&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ライアーゲーム』を全シリーズ配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3xk2m3ih"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3h4lxpou</id>
-    <title>出入禁止の女 ～事件記者 クロガネ～_[第4話]</title>
-    <updated>2026-03-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlzujvpoy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 出入禁止の女 ～事件記者 クロガネ～
-                &lt;a href="https://tver.jp/series/srlzujvpoy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月28日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月26日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3h4lxpou.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/28(土)～ #4-#5&#13;&lt;br&gt;4/27(月)～ #6-#8&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;仕事帰りにスーパーで買い物をしていた京都タイムス社会部記者・鉄忍布（観月ありさ）は、息子・一路（前田旺志郎）の小学校時代の友人・吉野幸太（渋谷龍生）が、副店長・那須慎二（蟹江一平）に万引きを疑われているところに出くわす。忍布は、幸太の所持品を那須に確認させて彼の潔白を証明、家まで送り届けた。&#13;&lt;br&gt;ところが翌朝、なんと那須がスーパーの駐車場から刺殺死体となって見つかった…！　実は、那須は京都タイムスの前身、“京都新報”時代に“町のヒーロー”として取り上げたことのある人物だった。10年前、スーパーの前で刃物を持った男が無差別に通行人に襲いかかる事件が起きたのだが、その際、逃げ遅れた子どもを命がけで救ったのが元ボクサーの那須だったのだ。かつての記事を思い出した京都タイムスオーナー・磯村憲吉（小林稔侍）は、那須の死を徹底的に美談に仕立てるよう、社会部デスクの古林千華子（財前直見）に指示する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3h4lxpou"/>
   </entry>
 </feed>
