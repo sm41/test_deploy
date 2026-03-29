@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-29T02:06:35+09:00</updated>
+  <updated>2026-03-29T11:12:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epktufsgfd</id>
+    <title>＆Hulu_[特集は綾辻ミステリー「館」シリーズの実写化第2弾「時計館の殺人」の見所を紹介▼名作映画をドラマ版にリブート。サスペンスアクション「ジャッカルの日」後半を放送]</title>
+    <updated>2026-03-29T02:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_02時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月11日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epktufsgfd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特集は「時計館の殺人」第5章&lt;br&gt;綾辻行人「館」シリーズ実写化第２弾！ミステリー史に残る大仕掛けを完全実写化！&lt;br&gt;▼エピソード1は「ジャッカルの日」後半&lt;br&gt;1973年に公開された名作映画をドラマ版にリブート。凄腕の殺し屋ジャッカルと彼を追う英国秘密情報部MI６のスリリングな攻防を描くサスペンスアクション。&lt;br&gt;(C) Carnival Film &amp; Television Limited 2024.
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epktufsgfd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ept8mqydqz</id>
     <title>いま、どこにいるの？　推しにGPSつけてみた_[第4話　推しが犯人!?]</title>
