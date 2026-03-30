@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-30T20:05:45+09:00</updated>
+  <updated>2026-03-30T22:05:45+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epak6q90wm</id>
+    <title>ハケンのキャバ嬢・彩華_[第９話　キャバ嬢とゲス週刊誌]</title>
+    <updated>2026-03-30T20:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhg2ihapi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ハケンのキャバ嬢・彩華
+                &lt;a href="https://tver.jp/series/srhg2ihapi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_20時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epak6q90wm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ある日、ボクシング元世界チャンピオンの鶴橋勇太（小林且弥）と同伴出勤することになった舞。一方、御倉花は「ひぐらし信用金庫」で働く同僚、志田亮介（上杉柊平）とレストランで食事をし、いい雰囲気になっていた。『セ・ラ・ヴィ』では、鶴橋を接客する舞のテーブルに、新人キャバ嬢のエリ（仲村美海）がヘルプとしてつくことになるが−−−−。エリは舞が席を外した隙に、胸を強調しながら鶴橋に急接近。エリの行動が、やがて舞や彩華をも巻き込む重大な事件を巻き起こす・・・！？&lt;br&gt;&lt;br&gt;＝＝＝＝配信スケジュール＝＝＝＝&lt;br&gt;3月22日(日) 夜8時45分～　#1&lt;br&gt;3月23日(月) 夜8時45分～　#2&lt;br&gt;3月24日(火) 夜8時45分～　#3&lt;br&gt;3月25日(水) 夜8時45分～　#4&lt;br&gt;3月26日(木) 夜8時45分～　#5&lt;br&gt;3月27日(金) 夜8時45分～　#6&lt;br&gt;3月28日(土) 夜8時45分～　#7&lt;br&gt;3月29日(日) 夜8時45分～　#8&lt;br&gt;3月30日(月) 夜8時45分～　#9&lt;br&gt;3月31日(火) 夜8時45分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epak6q90wm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epfx2l8dim</id>
     <title>それでも愛を誓いますか？_[#8 すれ違いをとかす夜…夫婦水入らずの旅へ。]</title>
@@ -2648,45 +2688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2jaiekra"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzrn2xrtp</id>
-    <title>七人の秘書_[Mission1]</title>
-    <updated>2026-03-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6gub0vi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 七人の秘書
-                &lt;a href="https://tver.jp/series/srx6gub0vi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzrn2xrtp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/29(日)～ #1-#3&#13;&lt;br&gt;4/22(水)～ #4-#6&#13;&lt;br&gt;5/19(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ホテルのVIPルームで密会している東都銀行の頭取・一原福造（橋爪功）と秘書・照井七菜（広瀬アリス）。楽しい時間を過ごす2人だが、突然福造が苦しみ始め、意識を失う…。すると、ホテルの制服を着た望月千代（木村文乃）、長谷不二子（菜々緒）、パク・サラン（シム・ウンギョン）、鰐淵五月（室井滋）が現れ、心肺蘇生を試みる。しかし、その甲斐なく福造は死亡。オロオロ取り乱すだけの七菜を横目に、4人は淡々と部屋に残った証拠の隠滅作業を進める。一方、フロントでは風間三和（大島優子）が、支配人に宿泊記録の削除を命じていた。その後、三和の手引きで風のように去って行く5人――。&#13;&lt;br&gt;実は生前、福造が行きつけのラーメン店の店主で司法書士の資格をもつ萬敬太郎（江口洋介）に、どこで倒れても自宅で亡くなったことにしてくれと依頼しており、彼の指示で5人が駆けつけたのだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzrn2xrtp"/>
   </entry>
 </feed>
