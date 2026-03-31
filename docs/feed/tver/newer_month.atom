@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-31T02:05:45+09:00</updated>
+  <updated>2026-03-31T10:56:07+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epaencw0mu</id>
+    <title>シカゴ･ファイア_[小さな消防士]</title>
+    <updated>2026-03-31T03:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シカゴ･ファイア
+                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_03時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_01時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月30日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaencw0mu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第19話「小さな消防士」(吹替)&lt;br&gt;低所得者向けアパートで救助した少年が命を落とすという悲劇に見舞われ、51分署のメンバーは落ち込む。ミルズを異例の速さでレスキュー隊に推薦するというセブライドの決定を不快に思うメンバー。ヘザー・ダーデンをめぐりセブライドとケイシーの間に緊張が高まる。一方チームが、地域と消防署の平和と安全を脅かす地元のドラッグディーラーたちの怒りを買う。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epaencw0mu"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmh2e8vfm</id>
+    <title>シェパード警部・ブロークンウッドの事件簿_[第22話「車マニアの闇」後編]</title>
+    <updated>2026-03-31T03:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
+                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_03時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_03時04分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月30日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmh2e8vfm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                クラシックカーが一堂に会するイベントで町中が沸き立つ中、自動車整備工場で身元不明の遺体が見つかる。翌日、その工場の経営者チャーリーが、愛車のそばでガソリンの管を口にくわえて死んでいた。この２つの事件に関連性があるのか、マイクたちは事故と事件の両面から捜査する。捜査が進んでいくと、順風満帆に見えたチャーリーはギャンブル依存症で、実は多額の借金を抱えていたという、彼の闇の一面が明らかになる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmh2e8vfm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsc7a3pyf</id>
     <title>産まない女はダメですか？ DINKsのトツキトオカ_[第1話 「穴を開け続けた1年」]</title>
@@ -408,165 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eps1kwrejb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgdlg43gx</id>
-    <title>パンチドランク・ウーマン −脱獄まであと××日−_[最終話 禁断の脱獄!2人が手にするのは愛か?絶望か?]</title>
-    <updated>2026-03-29T23:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6mknxzp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パンチドランク・ウーマン −脱獄まであと××日−
-                &lt;a href="https://tver.jp/series/srf6mknxzp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_23時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月29日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgdlg43gx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                彼となら、地獄に堕ちても構わない…!刑務官・冬木こずえ(篠原涼子)は、無実の罪を着せられた収容者・日下怜治(ジェシー)を救うため、婚約者の刑事・佐伯雄介(藤木直人)を振り切り、ついに脱獄!警察の目をかいくぐり、監禁された怜治の妹・寿々(梶原叶渚)を助けに向かおうとするが――。&lt;br&gt;すべてを失ってまで怜治と一緒に生きることを決めたこずえ!2人が手にいれるのは愛か、それとも絶望か――運命の最終回!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgdlg43gx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdd484luo</id>
-    <title>リブート_[最終話 再起動]</title>
-    <updated>2026-03-29T22:14:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpleivvzt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リブート
-                &lt;a href="https://tver.jp/series/srpleivvzt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_22時14分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月29日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdd484luo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                愛のために、自らを犠牲にした最強夫婦の最期…。&lt;br&gt;冬橋（永瀬廉）に捕らわれ、逃げ場を失った早瀬（鈴木亮平）。&lt;br&gt;命運は、もはや一瞬の判断に委ねられていた。&lt;br&gt;その頃、夏海（戸田恵梨香）もまた、合六（北村有起哉）のもとで追い詰められていた。&lt;br&gt;だが彼女は、すでに早瀬へすべてをさらけ出している。&lt;br&gt;秘密も、後悔も、罪も。&lt;br&gt;もう守るものはない。だからこそ、恐れる理由もない。&lt;br&gt;怯えを失った夏海のまっすぐな眼差しに、初めて焦燥を覚える合六。&lt;br&gt;優位に立っていたはずの男の均衡が、静かに崩れ始める。&lt;br&gt;そして合六は、ついに“１００億”の受け渡しへと動き出す。&lt;br&gt;それは取引か、罠か――あるいは最後の賭けか。&lt;br&gt;果たして、早瀬の運命は！？&lt;br&gt;交錯する思惑の果てに、事件に翻弄され続けた夫婦の物語が、ついに終止符を迎える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdd484luo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1mda88r3</id>
-    <title>孤独のグルメ Season1_[第7話 武蔵野市吉祥寺喫茶店のナポリタン]</title>
-    <updated>2026-03-29T18:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season1
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_18時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月29日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1mda88r3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎（松重豊）はジャズ喫茶マスター（うじきつよし）に呼ばれ吉祥寺に降り立つが、様々な店やレストランなど混在する独特の活気にいつになく心が乱れお昼に何を食べるかさえ迷ってしまう。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1mda88r3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcj6cj1nc</id>
-    <title>スケバン刑事_[第23話「恐るべき死の爆弾人形！！」]</title>
-    <updated>2026-03-29T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月29日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_16時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月29日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcj6cj1nc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                麗巳は死んではいなかった。麗巳はサキを殺す計画を立てる。米軍スーパーウェポン研究所員につくらせた人形をサキの友人の妹に与えた。その人形は、サキの声に反応して爆発する恐ろしい兵器だったのだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcj6cj1nc"/>
   </entry>
 </feed>
