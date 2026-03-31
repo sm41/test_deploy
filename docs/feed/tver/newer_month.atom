@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-31T20:06:52+09:00</updated>
+  <updated>2026-03-31T22:06:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7posw338</id>
+    <title>東京P.D. 警視庁広報2係_[第10話 刑事部VS公安部！再捜査なるのか迫る時効]</title>
+    <updated>2026-03-31T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
+                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7posw338.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                22年前に起きた、政和党幹事長・清原崇の爆殺未遂事件。犯人は、安藤直司（緒形直人）の後輩で、当時捜査一課の刑事だった伊澤嘉人（草川拓弥）ではなく、現在奈良刑務所に服役している受刑者・大沼保（大塚明夫）だった。&lt;br&gt;加えて、大沼は2004年3月の犯行以降7年ほど海外に滞在していたため、まだ時効は成立していない事も判明した。&lt;br&gt;この事実を知った広報課2係・今泉麟太郎（福士蒼汰）と安藤は、再捜査するべきだと訴えるのだが、捜査一課特捜係管理官・上田学（神尾佑）は、上層部が公安部の捜査を覆すことに抵抗があるため首を縦に振らないと告げる。&lt;br&gt;&lt;br&gt;そこで、YBX社会部記者・稲田裕司（金子ノブアキ）に協力を仰ぎ、爆殺未遂事件の時効が成立していないことを大々的に報道。世間を味方につけて事件の再捜査を促す。&lt;br&gt;さらに捜査一課長・北川一（津田寛治）も、大沼の仮出所が迫っていることを理由に再捜査をしたほうがいいのではと公安部長の宮内修也（高橋洋）らに提案。&lt;br&gt;ついに、警視総監・藤原剣治（吹越満）は大沼の再捜査を決断することに。大沼の時効が成立するまであと10日と迫っており・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7posw338"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epaencw0mu</id>
     <title>シカゴ･ファイア_[小さな消防士]</title>
@@ -208,45 +248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epcs6drye3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm5sagcbl</id>
-    <title>笑うハナに恋きたる_[第14話 想うに別れが…]</title>
-    <updated>2026-03-30T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 笑うハナに恋きたる
-                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月29日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm5sagcbl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                エミはジェイに自分の思いを伝えるが、エミのことを友達以上に考えられない上、エミはタムのことが好きだと思っていたジェイは戸惑う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm5sagcbl"/>
   </entry>
 </feed>

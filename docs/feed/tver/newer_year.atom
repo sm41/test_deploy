@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-31T20:06:52+09:00</updated>
+  <updated>2026-03-31T22:06:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7qzteizb</id>
+    <title>ハケンのキャバ嬢・彩華_[最終回　涙のラストゲーム]</title>
+    <updated>2026-03-31T20:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhg2ihapi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ハケンのキャバ嬢・彩華
+                &lt;a href="https://tver.jp/series/srhg2ihapi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_20時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7qzteizb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                鉄パイプを持った覆面男に襲われた舞（岡本夏美）と彩華（夏菜）。彩華はその正体が『ひぐらし信用金庫』で働く志田亮介（上杉柊平）であることを知ってしまう・・！城金（木下ほうか）や塚原（庄野崎謙）らが病院に駆けつけると、頭に包帯を巻いた舞と花が病室で眠っていた。そこで舞は彩華と花の秘密を知ってしまう。舞と花、そして彩華は、『セ・ラ・ヴィ』を襲う最大の危機に立ち向かう…！&lt;br&gt;&lt;br&gt;＝＝＝＝配信スケジュール＝＝＝＝&lt;br&gt;3月22日(日) 夜8時45分～　#1&lt;br&gt;3月23日(月) 夜8時45分～　#2&lt;br&gt;3月24日(火) 夜8時45分～　#3&lt;br&gt;3月25日(水) 夜8時45分～　#4&lt;br&gt;3月26日(木) 夜8時45分～　#5&lt;br&gt;3月27日(金) 夜8時45分～　#6&lt;br&gt;3月28日(土) 夜8時45分～　#7&lt;br&gt;3月29日(日) 夜8時45分～　#8&lt;br&gt;3月30日(月) 夜8時45分～　#9&lt;br&gt;3月31日(火) 夜8時45分～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7qzteizb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwgitt1as</id>
     <title>それでも愛を誓いますか？_[#9 残酷なキス、満たされる身体と埋められない心。]</title>
@@ -2328,125 +2368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep57fzy636"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph3177zlb</id>
-    <title>流星ワゴン_[第６話「チュウさんVS忠さん 頑固オヤジを倒せ!!」]</title>
-    <updated>2026-03-30T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtoctzepc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星ワゴン
-                &lt;a href="https://tver.jp/series/srtoctzepc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph3177zlb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)12:00～3月30日(月)11:59&lt;br&gt;#5：3月27日(金)12:00～4月2日(木)11:59&lt;br&gt;#6：3月30日(月)12:00～4月5日(日)11:59&lt;br&gt;#7：4月2日(木)12:00～4月8日(水)11:59&lt;br&gt;#8：4月5日(日)12:00～4月11日(土)11:59&lt;br&gt;#9：4月8日(水)12:00～4月14日(火)11:59&lt;br&gt;#10：4月11日(土)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;忠雄（香川照之）が現実世界で今にも死にそうな状態にあることを、とうとう本人に明かした一雄（西島秀俊）。死の淵でなにか大きな後悔を抱いた忠雄の、やり直したいという強い思いが生み出した生霊…それが一雄の旅の中に現われた若い忠雄なのだ。後悔したまま現実の忠雄が死んでしまえば、生霊の忠雄は永遠にこの世をさまようことになる。それを知った忠雄は、この時代の自分と接触しようと広島県福山市・鞆の浦の家へ向かう。一方、出会うはずのない２人の忠雄が出会えば、時間の流れにゆがみが生じ、全てが元に戻され、これまでのやり直しの旅が無かったことになると知った一雄は、大急ぎで忠雄を止めに走る。この時代の忠雄は一度倒れているが、頑なに検査を受けることを拒んだ。その結果、後にがんが発覚した時には既に手遅れだった。“あのとき検査を受けておけばよかった”…それが死の淵での後悔だと確信している忠雄は、一雄にこの時代の自分を説得しろと言う。しかし、一雄は現実の忠雄とは長く口も聞いていない。ふんぎりのつかない一雄が家の前で躊躇していると、澄江（倍賞美津子）と智子（市川実和子）がその姿を見つける。６年ぶりに実家へ足を踏み入れた一雄は、７２歳の忠雄と対峙するが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph3177zlb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epglsyj33b</id>
-    <title>アンサンブル_[最終回 二人に降る雪]</title>
-    <updated>2026-03-30T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2yfshoc4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アンサンブル
-                &lt;a href="https://tver.jp/series/sr2yfshoc4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epglsyj33b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【日本アカデミー賞　優秀主演男優賞／優秀助演男優賞／話題賞（俳優部門） 受賞記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　3/9(月)12:00～&lt;br&gt;#4-5　3/16(月)12:00～&lt;br&gt;#6-7　3/23(月)12:00～&lt;br&gt;#8-10　3/30(月)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;宇井(田中圭)を振り、真戸原(松村北斗)の元へ向かった瀬奈(川口春奈)…真戸原とやり直すことはできるのか?真戸原は実母との過去から抜け出せるのか?調和と感動の最終回。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epglsyj33b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfg7eyvry</id>
-    <title>アンサンブル_[#9 「私」を幸せにするのは誰？]</title>
-    <updated>2026-03-30T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2yfshoc4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ アンサンブル
-                &lt;a href="https://tver.jp/series/sr2yfshoc4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfg7eyvry.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【日本アカデミー賞　優秀主演男優賞／優秀助演男優賞／話題賞（俳優部門） 受賞記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　3/9(月)12:00～&lt;br&gt;#4-5　3/16(月)12:00～&lt;br&gt;#6-7　3/23(月)12:00～&lt;br&gt;#8-10　3/30(月)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;真戸原(松村北斗)が消えて絶望する瀬奈(川口春奈)は、宇井(田中圭)の手助けで立ち直ろうとするが、真戸原が去った本当の理由を聞いて心が揺れる。一方、母の実家にいた真戸原の元に意外な訪問者が。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfg7eyvry"/>
   </entry>
 </feed>
