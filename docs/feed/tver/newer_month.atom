@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-03-31T16:05:52+09:00</updated>
+  <updated>2026-03-31T18:05:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -248,45 +248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epm5sagcbl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9ztnnnu1</id>
-    <title>流星花園II～花より男子～_[第16話　再び雨の中で]</title>
-    <updated>2026-03-30T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 流星花園II～花より男子～
-                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月30日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9ztnnnu1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                病院から姿を消した司を捜していたつくしは、司とエルサが抱き合う姿を目撃し傷心する。つくしは身を引く決意をエルサに告げ、一人旅立つ。列車内で財布を紛失したつくしは、ぶつかった相手・トクが盗んだのではと後を追う。トクの性癖を知る妹・アミは、一文無しのつくしに部屋を提供する。そんな中、アミの店に花沢類が現れ、物語は新たな展開を迎える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9ztnnnu1"/>
   </entry>
 </feed>
