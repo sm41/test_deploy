@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-03-31T18:05:52+09:00</updated>
+  <updated>2026-03-31T20:06:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwgitt1as</id>
+    <title>それでも愛を誓いますか？_[#9 残酷なキス、満たされる身体と埋められない心。]</title>
+    <updated>2026-03-31T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srykbxlgbh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ それでも愛を誓いますか？
+                &lt;a href="https://tver.jp/series/srykbxlgbh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwgitt1as.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                純須純（松本まりか）との旅行から戻った武頼（池内博之）は、お土産を持って滝中河五郎（菅原大吉）宅を訪問。生まれたばかりの我が子を世話する五郎と栞（内田慈）の夫婦関係がこれまでとは違って見え、武頼は自分たち夫婦のカタチについて改めて思いを巡らすとともに、純が何を求めていたのかをようやく理解する。しかし、今のままでは純の願いを叶えることはできない。武頼は純とも相談し、一緒に医療機関を受診することにするが…。&lt;br&gt;職場での純は、武頼へのさまざまな思いを振り払うかのように仕事に邁進。そんな中、しばらく距離を置いていた真山篤郎（藤原季節）と、久しぶりにゲームをする時間を持つ。無邪気にゲームに熱中するうち、二人の距離は徐々に縮まっていき…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;3月23日(月) 夜7時～　#1&lt;br&gt;3月24日(火) 夜7時～　#2&lt;br&gt;3月25日(水) 夜7時～　#3&lt;br&gt;3月26日(木) 夜7時～　#4&lt;br&gt;3月27日(金) 夜7時～　#5&lt;br&gt;3月28日(土) 夜7時～　#6&lt;br&gt;3月29日(日) 夜7時～　#7&lt;br&gt;3月30日(月) 夜7時～　#8&lt;br&gt;3月31日(火) 夜7時～　#9&lt;br&gt;4月1日(水) 夜7時～　#10（最終話）
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwgitt1as"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyfipzw9g</id>
     <title>ライオンの隠れ家_[第９話 ライオンを助けたい！]</title>
@@ -2408,45 +2448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfg7eyvry"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdhylmfs6</id>
-    <title>大好き！五つ子5_[第21回]</title>
-    <updated>2026-03-30T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子5
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月30日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月13日(月)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdhylmfs6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;自由研究のテーマが被ってもめる剛（金澤翔太）と紀香（荒井千歩）のトラブルを解決した美穂（新穂えりか）のアイデアに、桃子（森尾由美）と他の子どもたちは感心する。さらに美穂は、菊地宙太コーチ（池田幹）が持ちかけてきた相談事にもエジソン先生こと藤本仙太郎（鶴田忍）に相談したら、という助言をしてますます本領を発揮である。そんな美穂に仙台の勇太から葉書が届いた。自分の夢を語り、美穂の夢は？と問う文面に困惑して…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdhylmfs6"/>
   </entry>
 </feed>
