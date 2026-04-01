@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-01T02:05:52+09:00</updated>
+  <updated>2026-04-01T10:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -288,85 +288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep7posw338"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaencw0mu</id>
-    <title>シカゴ･ファイア_[小さな消防士]</title>
-    <updated>2026-03-31T03:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シカゴ･ファイア
-                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_03時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月30日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaencw0mu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第19話「小さな消防士」(吹替)&lt;br&gt;低所得者向けアパートで救助した少年が命を落とすという悲劇に見舞われ、51分署のメンバーは落ち込む。ミルズを異例の速さでレスキュー隊に推薦するというセブライドの決定を不快に思うメンバー。ヘザー・ダーデンをめぐりセブライドとケイシーの間に緊張が高まる。一方チームが、地域と消防署の平和と安全を脅かす地元のドラッグディーラーたちの怒りを買う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaencw0mu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmh2e8vfm</id>
-    <title>シェパード警部・ブロークンウッドの事件簿_[第22話「車マニアの闇」後編]</title>
-    <updated>2026-03-31T03:05:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
-                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_03時05分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_03時04分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月30日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmh2e8vfm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                クラシックカーが一堂に会するイベントで町中が沸き立つ中、自動車整備工場で身元不明の遺体が見つかる。翌日、その工場の経営者チャーリーが、愛車のそばでガソリンの管を口にくわえて死んでいた。この２つの事件に関連性があるのか、マイクたちは事故と事件の両面から捜査する。捜査が進んでいくと、順風満帆に見えたチャーリーはギャンブル依存症で、実は多額の借金を抱えていたという、彼の闇の一面が明らかになる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmh2e8vfm"/>
   </entry>
 </feed>
