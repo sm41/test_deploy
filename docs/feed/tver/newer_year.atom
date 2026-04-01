@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-01T14:06:06+09:00</updated>
+  <updated>2026-04-01T16:05:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsmegdav4</id>
+    <title>理想ノカレシ_[＃７「ついに契約恋愛終了!?涙のワケは…」]</title>
+    <updated>2026-04-01T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0zagidj7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 理想ノカレシ
+                &lt;a href="https://tver.jp/series/sr0zagidj7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_14時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsmegdav4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：細田善彦 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)15:00～4月12日(日)20:59&lt;br&gt;#4：3月22日(日)15:00～3月29日(日)14:59&lt;br&gt;#5：3月25日(水)15:00～4月1日(水)14:59&lt;br&gt;#6：3月29日(日)15:00～4月5日(日)14:59&lt;br&gt;#7：4月1日(水)15:00～4月8日(水)14:59&lt;br&gt;#8：4月5日(日)15:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;顔を隠さず優芽子（大政絢）の会社に乗り込んできた人気アイドルの葵（堀未央奈）。不穏な予感をたずさえてやってきた葵を、たまらず優芽子は別の場所へと連れ出すのだった。そこで葵は優芽子に５万円を握らせると、光琉（佐藤大樹）との契約恋愛を終わらせろと迫る。そして葵の口から、光琉に関するさらなる衝撃の事実が語られ…。その後、光琉の元を訪れた葵は、優芽子に光琉の秘密を打ち明けたことを話す。焦った光琉は優芽子の部屋へと押しかけ事情を説明するものの、そんな光琉に優芽子は辛辣な言葉を投げつけてしまう。そのまま部屋を飛び出した優芽子を追いかけてきたのは、葵とのやり取りを一部始終聞いていた水上（細田善彦）で…？そんな中、落ち込む優芽子の姿を見た冬馬（小宮璃央）は、ある思いを胸に優芽子に自分の気持ちを伝え…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsmegdav4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epketnmjdi</id>
     <title>セーラー服と機関銃（長澤まさみ、堤真一）_[第６話 目高組の解散!!]</title>
@@ -2208,165 +2248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprs0j353s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprlsb5p9h</id>
-    <title>新空港占拠_[第10話(最終回)　新・真相]</title>
-    <updated>2026-03-31T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmr1z44t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 新空港占拠
-                &lt;a href="https://tver.jp/series/srxmr1z44t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月11日(土)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprlsb5p9h.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【土ドラ『タツキ先生は甘すぎる！』（２０２６年４月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　3/21(土)12:00～&lt;br&gt;#5　3/24(火)12:00～&lt;br&gt;#6-7　3/28(土)12:00～&lt;br&gt;#8-10　3/31(火)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;「全員、皆殺しだ」 暴走を始めた大河(ジェシー)が空港から人質全員を奪って逃走!その行き先と目的を知った武蔵(櫻井翔)は、大河の計画を食い止めるべく、最後の闘いに挑む!一方のさくら(ソニン)は、人質全員の命を守るため、意を決してある人物に救いを求める…「教えてください。新見大河を止める方法を」――。大河が暴こうとしている最後の嘘…真の山猫の正体とは!?そして、最後に訪れる衝撃の十数秒!運命の最終回!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eprlsb5p9h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epq36xckz8</id>
-    <title>重版出来！_[第８話 鬼編集長男泣き！14歳の笑顔を取り戻せ！]</title>
-    <updated>2026-03-31T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src41uovow.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 重版出来！
-                &lt;a href="https://tver.jp/series/src41uovow" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月06日(月)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq36xckz8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！出演：内田慈 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月16日(月)12:00～4月12日(日)20:59&lt;br&gt;#4：3月19日(木)12:00～3月25日(水)11:59&lt;br&gt;#5：3月22日(日)12:00～3月28日(土)11:59&lt;br&gt;#6：3月25日(水)12:00～3月31日(火)11:59&lt;br&gt;#7：3月28日(土)12:00～4月3日(金)11:59&lt;br&gt;#8：3月31日(火)12:00～4月6日(月)11:59&lt;br&gt;#9：4月3日(金)12:00～4月9日(木)11:59&lt;br&gt;#10：4月6日(月)12:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;“打倒エンペラー”のモットーを掲げるも、売り上げ１位の「エンペラー」に追いつけず苦戦中の「バイブス」。編集部内にはいつもに増して吠える編集長・和田（松重豊）の声が響く。何もしなくとも雑誌が売れていた時代とは違い、役員たちは会議で利益のことばかり突っ込んでくる。厳しい現実の中、決断をし部下を引っ張っていく編集長として和田は数字に追われる日々が続く。機嫌の悪い和田に、中田（永山絢斗）のネームを「魅力に欠ける」と言われ落ち込む心（黒木華）だが、追い討ちをかけるように、あれだけ止まることのなかった中田のネームが突然止まってしまう。さらに、連載を抱えている大塚（中川大志）も五百旗頭（オダギリジョー）に止められていたエゴサーチをしてしまったせいでネームが描けなくなってしまった。大塚の弱点を冷静に見抜き的確にアドバイスをする五百旗頭に対し、心は原因不明の中田のスランプに戸惑いどうすることもできない。五百旗頭は、中田の弱点は「他人を理解しない所」だと心に言うが…。一方、「タイムマシンにお願い」の電子書籍化の許諾交渉をするため、引き続き伝説の漫画家・牛露田（康すおん）の家に通う和田。かつて天才と呼ばれていたが、酒におぼれ廃人のようになってしまった牛露田は、漫画どころか線も引けない状態で生活保護を受けており、和田の言葉掛けもむなしく、耳を傾けようともしない。そんな牛露田と共に暮らす中学生の娘・アユ（蒔田彩珠）は、「あんなのが父で恥ずかしい」と父の存在を恥じ、孤独で荒んだ日々を送っていた。唯一のアユの心のよりどころは、亡き母・祥子との思い出だけだ。生活環境により学校でいじめを受けているアユに、漫画を好きになってもらおうと接触する心は、尊敬する書店員・河舞子（濱田マリ）の人生を変えた、ある１冊の漫画を渡す…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epq36xckz8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp3naxhk4</id>
-    <title>日本沈没ー希望のひとー_[最終話「さよなら日本」]</title>
-    <updated>2026-03-31T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srllxjshv1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 日本沈没ー希望のひとー
-                &lt;a href="https://tver.jp/series/srllxjshv1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp3naxhk4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】火曜ドラマ「時すでにおスシ!?」４月７日（火）よる１０時スタート！ 出演：松山ケンイチ 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：長江英和 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：3月6日(金)12:00～4月7日(火)21:59&lt;br&gt;#4：3月10日(火)12:00～3月17日(火)11:59&lt;br&gt;#5：3月13日(金)12:00～3月20日(金)11:59&lt;br&gt;#6：3月17日(火)12:00～3月24日(火)11:59&lt;br&gt;#7：3月20日(金)12:00～3月27日(金)11:59&lt;br&gt;#8：3月24日(火)12:00～3月31日(火)11:59&lt;br&gt;#9：3月27日(金)12:00～4月3日(金)11:59&lt;br&gt;#10：3月31日(火)12:00～4月7日(火)21:59&lt;br&gt;------------&lt;br&gt;天海（小栗旬）、常盤（松山ケンイチ）ら未来推進会議が中心となり、日本人移民の変異株感染による事態の打開に挑むが、状況は改善しない。そして、遂に全世界で日本人移民の受け入れ停止が発表される。そんな中、追いうちをかけるように田所博士（香川照之）から、「日本沈没までもう時間がない」と警告される。それでも最後の一人を救うまで、天海は関東に残って立ち向かう決意をする。そして、ついに恐れていた日本沈没がー。天海や常盤は、無事なのか…日本人にとって希望のひととなれたのか！？日本の未来は！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epp3naxhk4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkky2e54t</id>
-    <title>ホテルコンシェルジュ_[第７話 涙の結婚式！病の父に贈る奇跡のバージンロード!!]</title>
-    <updated>2026-03-31T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7iuxdsrd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ホテルコンシェルジュ
-                &lt;a href="https://tver.jp/series/sr7iuxdsrd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_03月31日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月05日(日)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkky2e54t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山田裕貴 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：赤間麻里子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～4月12日(日)20:59&lt;br&gt;#4：3月23日(月)12:00～3月28日(土)11:59&lt;br&gt;#5：3月26日(木)12:00～3月31日(火)11:59&lt;br&gt;#6：3月28日(土)12:00～4月2日(木)11:59&lt;br&gt;#7：3月31日(火)12:00～4月5日(日)11:59&lt;br&gt;#8：4月2日(木)12:00～4月7日(火)11:59&lt;br&gt;#9：4月5日(日)12:00～4月10日(金)11:59&lt;br&gt;#10：4月7日(火)12:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;フォルモントにベルボーイ・牧原豪太（小関裕太）の母・葉子（前田美波里）がやってきた。葉子は老舗旅館の女将で、テレビ出演もしている有名人。以前葉子の下で働いていたという珠久里（尾美としのり）は久々の再会に舞い上がる。しかし、当の牧原は母の前でいいところを見せようと張り切るものの、ことごとく裏目に出て失敗ばかり。さらに、葉子からは旅館を売却しようと思っていると告げられる。その頃、相談デスクでは塔子（西内まりや）がクリスマスに結婚式を挙げる小野寺美香（藤澤恵麻）、新郎の原口俊介（須田邦裕）たちと打ち合わせをしていた。美香はフォルモントで父・幸一（小林隆）とバージンロードを歩くのが幼い頃からの夢だったという。しかし、幸一が末期がんに侵されていて、クリスマスまで生きていられないかもしれないという悩みを抱えていた。それを聞いた新郎・俊介は式を早めたいと塔子に相談するが、年内は全く空きがない状況。翌日、塔子は本城（三浦翔平）との会話の中であることを思いつき、総支配人の鷲尾（高橋克典）に相談に行く。鷲尾はこのアイデアを実行すべく動きだすが、GMの美穂子（若村麻由美）は気持ちが先走りしすぎだと塔子を非難する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkky2e54t"/>
   </entry>
 </feed>
