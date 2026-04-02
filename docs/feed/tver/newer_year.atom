@@ -2,13 +2,573 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-02T22:06:35+09:00</updated>
+  <updated>2026-04-03T00:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwlxgfcuq</id>
+    <title>相棒 season23_[第11話「33人の亀山薫」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwlxgfcuq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特命係に飛び込んできた伊丹（川原和久）が、右京（水谷豊）に衝撃的な出来事を告げる。「亀山薫が殺されました…」。現場に向かった2人は、そこで驚きの事実を知る。殺害され、川に遺棄された亀山薫は貿易会社の社員で、特命係の薫（寺脇康文）とは同姓同名の別人だった。実は、右京はこの日、薫があるパーティーに参加していることを知っていた。それは、同姓同名の男女が親睦を深めるために集まった『亀山薫の会』という会合。殺害された貿易会社の亀山は会の代表で、特命係の薫は“ある理由”から総帥を務めているという。今回の初めての会合には、鳥取の役所に勤めていることから『役所の亀山薫（羽野晶紀）』と呼ばれる女性のほか、様々な経歴を持つ計33人の亀山薫が集まっていた。捜査を進めると、会場はパーティー開催中、ある種の密室状態になっていたことが判明。被害者が出た形跡がなかったため、犯人は犯行後、非常階段から遺体を遺棄したと考えられた。そのため容疑者は、被害者を除く32人の“亀山薫”に絞られた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwlxgfcuq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvk97uax0</id>
+    <title>相棒 season23_[最終回SP 第19話「怪物と聖剣～決戦」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvk97uax0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                各地で若者の遺体が相次いで見つかり、全員が、右京（水谷豊）と薫（寺脇康文）の追っていた連続強盗事件の実行犯であることが判明。ただ、不正な利権を追及していた都議・橋迫倫子 （愛希れいか）の家が襲われた件には、別の犯人が関与している可能性が高いと思われた。いっぽう、都知事の一岡（片桐仁）は、派手なパフォーマンスで熱狂的な支持を集め、総理の椅子に少しずつ近づいていた。そんな中、利権が絡んだ凶悪な事件が発生。世論さえ操られている危険な状況に。そして、不自然に右京に接近してきた浦神鹿（毎熊克哉）にも動きが。さらに、強盗事件の主犯格として木原健二 （平山祐介）という男が浮上して…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvk97uax0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epq7z5c96r</id>
+    <title>トランジットガールズ_[第1話]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnnozfb8d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ トランジットガールズ
+                &lt;a href="https://tver.jp/series/srnnozfb8d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq7z5c96r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;高校三年生の葉山小百合（伊藤沙莉）は、二年前に母を亡くしてから、父の圭吾（Mummy-D）と二人で暮らしている。&lt;br&gt;ある日、圭吾が再婚することになり、葉山家にやってきたのは、義母の志田まどか（霧島れいか）、そして、義姉となるゆい（佐久間由衣）。&lt;br&gt;突然の出来事を受け入れられない小百合は、ゆいに暴言を吐くが、ゆいの口をついて出たのは、意外な一言だった・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トランジットガールズ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epq7z5c96r"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epn0z7vu59</id>
+    <title>相棒 season23_[第13話「レジリエンス」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn0z7vu59.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                未解決事件を取材していた美和子（鈴木砂羽）が、右京（水谷豊）と薫（寺脇康文）に相談を持ち掛ける。5年前、23歳の青年が公園で何者かに殺害された事件を、改めて調べてほしいという。2人はさっそく被害者の母親から事情を聞くが、そのかたわらには平井（和泉元彌）という男性がいた。元警察官だったという彼は、思うところあって未解決事件の被害者を支援しているらしい。ところが、その事情聴取中に平井が突然、「犯人は私です」と告白。支援者として被害者の母親に近づいたのは、隠蔽工作のためとも思われたが、右京は納得がいかない様子。そんな中、平井はさらに驚くべき罪を告白する。実は、青年を殺害する前、すでに3人もの人間を殺めているというのだ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn0z7vu59"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmeebolk6</id>
+    <title>大切なことはすべて君が教えてくれた_[第10話 結婚]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjku6en1b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大切なことはすべて君が教えてくれた
+                &lt;a href="https://tver.jp/series/srjku6en1b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmeebolk6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：3月13日(金) ～ 4月9日(木)&lt;br&gt;#4：3月16日(月) ～ 3月22日(日)&lt;br&gt;#5：3月19日(木) ～ 3月25日(水)&lt;br&gt;#6：3月22日(日) ～ 3月28日(土)&lt;br&gt;#7：3月25日(水) ～ 3月31日(火)&lt;br&gt;#8：3月28日(土) ～ 4月3日(金)&lt;br&gt;#9：3月31日(火) ～ 4月6日(月)&lt;br&gt;#10：4月3日(金) ～ 4月9日(木)&lt;br&gt;&lt;br&gt;2学期の終業式が終わった後、夏実（戸田恵梨香）と修二（三浦春馬）は翌日会うことを約束した。だが、修二は街で、旅に出ようとするひかり（武井咲）と偶然会い、ひかりの寝台特急での旅に途中まで同行することになる。行先は札幌だ。ひかりは修二に「先生、どこまで行くの」と聞くが「戻れるところで戻るよ」と夏実との約束は守るようだ。&lt;br&gt;夏実もそんな修二を信頼しており、修二を批判するひかりの母・由梨（宮本裕子）に対して「柏木先生はお母さんの代わりに行ったのかもしれません」と修二を擁護する。&lt;br&gt;寝台特急の中で、修二とひかりは本音で話し合う。修二は早朝、ひかりからお願いされ、函館駅で降りることにする。そして、函館駅で修二は・・・。&lt;br&gt;夏実と修二の「試される愛」の行方は？そして、旅を終えたひかりは・・・？&lt;br&gt;&lt;br&gt;【FODプレミアムでは『大切なことはすべて君が教えてくれた』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmeebolk6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmea2ynzy</id>
+    <title>Chef～三ツ星の給食～_[第10話 三ツ星給食が起こす奇跡]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrrht3ogv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ Chef～三ツ星の給食～
+                &lt;a href="https://tver.jp/series/srrrht3ogv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmea2ynzy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月09日(木)&lt;br&gt;#4：03月16日(月) ～ 03月22日(日)&lt;br&gt;#5：03月19日(木) ～ 03月25日(水)&lt;br&gt;#6：03月22日(日) ～ 03月28日(土)&lt;br&gt;#7：03月25日(水) ～ 03月31日(火)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;&lt;br&gt;篠田（小泉孝太郎）から「ラ・キュイジーヌ・ドゥ・ラ・レーヌ」に戻ってほしいと頼まれた光子（天海祐希）は、自分を追い出しておいて今さら身勝手な言い分だと反発する。しかし篠田は意外な告白をして、光子が輝けるのは三ツ星のステージだと言い残して去って行く。予想もしなかった篠田の言葉に、光子も内心揺れ動く。そんなふたりのやりとりを、偶然、晴子（川口春奈）が目撃する。&lt;br&gt;荒木（遠藤憲一）は、校長・坂東（春風ひとみ）とともに市長を訪ね、学校で開催する「給食の地産地消イベント」に来てほしいと要請する。自校給食を残したい一心の荒木は、うちの給食は世界一だと言ってしまう。イベントまで1週間となった頃、給食で使用する地元野菜のサンプルが届けられた。しいたけ、ピーマン、ネギ、セロリで、光子は、どれも最高の食材だと目を輝かせるが、荒木らは絶句。それは「残食四天王」と言われる、子どもが最も苦手な野菜だった。これを最高においしくすることが、給食をアピールする絶好のチャンスだと光子は言う。早紀（友近）も、イベントを盛り上げるべく、イベントをアピールする動画を制作してネット上で流すことを提案する。荒木のメニュー作りは難航し、3日前になっても、しいたけを使ったメインメニューが決まらないでいた。一方、奥寺（豊原功補）は光子のアドバイスを受けて「三種の神器のトゥルト」の改良に取り組んでいた。イベントが迫ったある日、光子は篠田と向かい合い・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『Chef～三ツ星の給食～』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmea2ynzy"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epi7z42i3r</id>
+    <title>相棒 season23_[第17話「盗まれた死体」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi7z42i3r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                闇バイトを使って金庫泥棒を繰り返す反社組織『スカル』。警察は特別班を組織して、ユキチと呼ばれるリーダーを追っていたが、素性すら掴めずにいた。そんな中、右京（水谷豊）と薫（寺脇康文）は、スーツケースを盗まれたという少女と遭遇。事情を聞くと、少女は弱みにつけ込まれて“運び”の指示を受けたものの、中身が死体と気づいて逃走。しかし、報復の恐怖から現場に戻ったところで、右京たちに声を掛けられたという。その少女に指示を出していたのがユキチだった。同じ頃、ユキチを追う特別班の刑事が、何者かに拉致される事件が発生。さらに、その刑事の娘も不気味な集団に監禁されていた。いっぽう、右京と薫は、死体運搬に使われたスーツケースの遺留品から、被害者が住田（松岡広大）という反社組織メンバーの可能性が高いことを掴んでいた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi7z42i3r"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epefmdfsdz</id>
+    <title>相棒 season23_[第15話「キャスリング」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epefmdfsdz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）が山荘でチェスを指している。道に迷ったという口実で、その場に入り込んでいるようだ。チェスの相手で山荘の主は、奥田剛（佐野史郎）という男性。奥田は、今から15年前に都内で発生し、いまだ解決されていない母子殺害事件の被害者遺族だった。しかし、奥田自身にも疑わしいところがあり、警察に疑われた過去が。奥田と2人きりの山荘でチェスを指しながら、そうした事件の概要と現在の捜査状況について淡々と語る右京。そんな中、右京は都心に残っていた薫（寺脇康文）にメッセージを送り、奥田のアリバイ確認を依頼する。何か事情があると察した薫は、さっそく行動を開始。右京と奥田は、それを皮切りに、チェスになぞらえた壮絶な頭脳戦に突入していく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epefmdfsdz"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epc8wq3iw1</id>
+    <title>恋ノチカラ_[第10話 さようなら]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsnjntvxm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 恋ノチカラ
+                &lt;a href="https://tver.jp/series/srsnjntvxm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc8wq3iw1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月12日(日)&lt;br&gt;#4：03月16日(月) ～ 03月22日(日)&lt;br&gt;#5：03月19日(木) ～ 03月25日(水)&lt;br&gt;#6：03月22日(日) ～ 03月28日(土)&lt;br&gt;#7：03月25日(水) ～ 03月31日(火)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;#11：04月06日(月) ～ 04月12日(日)&lt;br&gt;&lt;br&gt;貫井（堤真一）は、辛い状況ではあるが共に頑張っていきたいといい、籐子（深津絵里）たちを安心させる。そんな時、籐子が楠木文具の社長（志賀廣太郎）から百周年企画に関する広告の件を打診されてきた。何とか社長の力になりたいと思う籐子に、貫井が協力を申し出てきた。大手化粧品メーカーとの仕事を蹴ってまでも、楠木文具の仕事に打ち込むその姿は、情熱を持って何かをすすめるかつての貫井そのものだった。&lt;br&gt;そんな中、春菜（矢田亜希子）だけは心を痛めていた。貫井と籐子のことが気に掛かって仕方がない。ついつい籐子のことも避けてしまう。&lt;br&gt;そして籐子自身も、このままこの状態を続けておくことは、互いのためによくないことだと思い始めていた。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『恋ノチカラ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epc8wq3iw1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epbscs2s1a</id>
+    <title>相棒 season23_[第16話「花は咲く場所を選ばない」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbscs2s1a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                2か月前、小手鞠（森口瑤子）に誘われて一面の菜の花畑を訪れた右京（水谷豊）は、そこで虻川希美（松井愛莉）という女性と出会う。希美は、日本画の巨匠・虻川徹の娘で、自身もすでに高い評価を受けている美大生。小手鞠は、芸者時代に徹夫妻と交流を持ち、希美とも顔見知りだという。その菜の花畑は1年前、徹が心臓の病気で急死した場所でもあった。2か月後、画商の男性が刺殺される事件が発生。現場の状況などから、希美が容疑者として浮上する。警察は、画商が徹の死にかかわっていて、それを知った希美が殺意を抱いたのではないかと疑っていた。捜査に乗り出した右京と薫（寺脇康文）は、行方が分からなくなっている希美を捜すため、被害者の画商が最近、推していた倉田ひかり（山谷花純）という画家から事情を聞く。ひかりは、希美と同い年の美大生だが、境遇の違いから接点はなかったと語る。そんな中、徹の遺産をめぐって、驚くべき事実が明らかになる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbscs2s1a"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epalww04tr</id>
+    <title>相棒 season23_[最終回SP前篇 第18話「怪物と聖剣」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epalww04tr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                匿名流動型犯罪の統合捜査本部に駆り出された右京（水谷豊）と薫（寺脇康文）は、ここ2か月で相次いでいる4件の住居侵入・強盗事件を担当。被害者への聞き込みから、右京は橋迫倫子（愛希れいか）という都議の家だけ、犯行の様態が特殊なことに気づく。事情を聞くと、倫子の事務所に都の公共事業や助成金に関する怪文書が送られてきていたことが判明。それは都の税金が不可解な形で100億円以上も流出していることを示すものだった。一連の事件が巨大な利権と絡んでいる可能性を感じた右京と薫は、都知事の一岡（片桐仁）を直撃。しかし、取りつく島なくかわされてしまう。その頃、事件と何らかの接点がありそうな木原健二（平山祐介）という男や、不自然に右京に接触してきた浦神鹿（毎熊克哉）という男など、謎めいた存在が静かに動き始めていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epalww04tr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep93ovbovr</id>
+    <title>相棒 season23_[第14話「中園照生の受難」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep93ovbovr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                中園（小野了）が突然、音信不通になった。内村（片桐竜次）は、自分の忠告により将来を悲観した中園が、衝動的に行方をくらませたと考え、特命係に捜索を指示した。聞き込みから始めた右京（水谷豊）と薫（寺脇康文）は、中園が最近、老後の趣味を見つけようとしていたという情報を掴む。そんな中、内村のスマホに、中園が監禁されている動画が送りつけられてきた。犯人の要求は、私人逮捕系動画配信グループのリーダーの解放で、『名誉毀損罪で未決勾留中の男を自由にしろ。さもなければ、中園を殺害する』というものだった。実は中園は、警察の会見で、問題のグループを悪しざまに非難しており、それを逆恨みしての犯行と思われた。が、右京は別の可能性を視野に、中園が通い始めていた盆栽教室を訪問。主宰の結城江梨子（西山繭子）に話を聞くと、中園は教室の人気者で、トラブルはなかったという。ただ、さらに捜査を進めると、中園と江梨子の間に不穏な噂があることが分かる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep93ovbovr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6xe35g0t</id>
+    <title>101回目のプロポーズ_[第10話 僕はあきらめない]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 101回目のプロポーズ
+                &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6xe35g0t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月15日(水)&lt;br&gt;#4：03月16日(月) ～ 04月03日(金)&lt;br&gt;#5：03月19日(木) ～ 04月03日(金)&lt;br&gt;#6：03月22日(日) ～ 04月03日(金)&lt;br&gt;#7：03月25日(水) ～ 04月03日(金)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;#11：04月06日(月) ～ 04月12日(日)&lt;br&gt;#12：04月09日(木) ～ 04月15日(水)&lt;br&gt;&lt;br&gt;藤井（長谷川初範）が薫（浅野温子）にプロポーズした。それを達郎（武田鉄矢）が聞いていた。肩を落として立ち去る達郎を、薫は複雑な思いで見送った。翌日、藤井は達郎に、「こんなことになるとは思わなかった。謝る。上司としてではなく男として・・・」と頭を下げる。&lt;br&gt;達郎は会社に辞表を出した。達郎が会社を辞めたと知って純平（江口洋介）、千恵（田中律子）は驚く。もちろん薫もショックを受ける。達郎は薫に会った。「あたしを恨んでいるでしょうね」と薫から言われた達郎は「そんなことはありません。自分自身を恨んでいます」と言った。薫は達郎に婚約指輪を返した。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『101回目のプロポーズ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6xe35g0t"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep50yxbhoe</id>
+    <title>相棒 season23_[第12話「細かいことが気になる患者」]</title>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season23
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep50yxbhoe.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）の脳波に異常が見つかり、検査入院することになった。ただ、検査を担当する院長は研究が本職で、経営は素人。病院の存続が危ぶまれるほどの経営難に陥っていた。そこに、ライリー・櫻井（岩谷健司）と名乗るコンサルタント会社の代表が現れる。「病院再建のスペシャリストである我々に任せれば大丈夫」と力強く語り、院長の信頼を得て改革の提案を始めた。そんな中、入院中の右京は不穏な動きを察知し、ライリーをはじめ、コンサルタント会社の社員からも事情を聞くが、上手くかわされてしまう。入院中ということで自分では動けない右京は、見舞いに来た薫（寺脇康文）に協力を要請。薫が病院外での捜査を始めると、意外な事実が浮かび上がってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep50yxbhoe"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxxugdf5o</id>
     <title>あんどーなつ_[第十一話 京都から来た男]</title>
@@ -1608,365 +2168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep315okvmv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfwb4ex3k</id>
-    <title>大好き！五つ子5_[第23回]</title>
-    <updated>2026-04-01T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子5
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfwb4ex3k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;ボランティアの出し物を何にするかがなかなか決まらず、今日も桜井家の子どもたちは大もめである。その頃、千絵子（茅島成美）はエジソン先生（鶴田忍）からコンサートのチケットを２枚もらうが、予定が重なっていたため、桃子（森尾由美）のところに持ってくる。しかし、その日は良介（新井康弘）の帰りが遅いため、桃子も行けない。悩んでいるところに秀子（真瀬樹里）が現れ、桃子たちは秀子にチケットを渡そうと考えた。すると美穂（新穂えりか）は、秀子がパートナーに片岡（宮下直紀）と陽（安藤亮司）のどちらを選ぶかを確認しようとして…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfwb4ex3k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9b5tqmev</id>
-    <title>神の雫_[第2話 第一の使徒登場!]</title>
-    <updated>2026-04-01T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs3eso5gw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 神の雫
-                &lt;a href="https://tver.jp/series/srs3eso5gw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9b5tqmev.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【アニメ「神の雫」（２０２６年４月１０日スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/1(水)12:00～&lt;br&gt;#4-5　4/8(水)12:00～&lt;br&gt;#6-7　4/15(水)12:00～&lt;br&gt;#8-9　4/22(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;亡き父が残した、20億円相当するワインコレクションの遺産をめぐる遠峰一青(田辺誠一)との戦いを決意した神咲雫(亀梨和也)。ついに、本格的な対決の幕が開けられた。ストイックなまでに人生を賭けて戦いに挑む一青と、この対決を父からの挑戦状だと思って立ち向かおうとする雫。最後まで一時も目が離せない、最初の遺言状「第一の使徒」の対決はいかに!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9b5tqmev"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep98w38y4n</id>
-    <title>神の雫_[第3話 父が教えた団欒の味]</title>
-    <updated>2026-04-01T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs3eso5gw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 神の雫
-                &lt;a href="https://tver.jp/series/srs3eso5gw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep98w38y4n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【アニメ「神の雫」（２０２６年４月１０日スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/1(水)12:00～&lt;br&gt;#4-5　4/8(水)12:00～&lt;br&gt;#6-7　4/15(水)12:00～&lt;br&gt;#8-9　4/22(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;亡き父が残した、20億円相当するワインコレクションをめぐる神咲雫(亀梨和也)と遠峰一青(田辺誠一)の戦いの一戦目は、神咲雫の勝利で幕を閉じた。そして、「第二の使徒」をめぐる対決が始まる。遺言状には“団欒”など温かみのある、昔を懐かしむような言葉でワインのイメージが書かれていた。雫は亡き父には似つかわしくない言葉に戸惑う。一方、前回の敗北により、焦りをみせる一青。最後まで一時も目が離せない、「第二の使徒」の対決はいかに!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep98w38y4n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2k6fmaik</id>
-    <title>神の雫_[第1話 遺産対決究極の味]</title>
-    <updated>2026-04-01T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs3eso5gw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 神の雫
-                &lt;a href="https://tver.jp/series/srs3eso5gw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2k6fmaik.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【アニメ「神の雫」（２０２６年４月１０日スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/1(水)12:00～&lt;br&gt;#4-5　4/8(水)12:00～&lt;br&gt;#6-7　4/15(水)12:00～&lt;br&gt;#8-9　4/22(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;神咲雫(亀梨和也)のもとに、突然、世界的ワイン評論家である父の訃報が届く。雫が父に反発し、何年も帰っていなかった家に帰ると、「幻のワイン“神の雫”を探し出した兄弟の内1人に20億円を越えるワインコレクションを譲る」という遺言と共に、死ぬ直前に養子縁組をしたという、ワイン評論家・遠峰一青(田辺誠一)が現れる。思いとは裏腹に20億円を賭けた戦いの渦に巻き込まれていく雫。男と男の華麗なる戦いが幕を開ける!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2k6fmaik"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuwvapk7w</id>
-    <title>トーキョーカモフラージュアワー_[#8 しあわせ芝居が終わる時]</title>
-    <updated>2026-04-01T11:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkpfcvn7u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トーキョーカモフラージュアワー
-                &lt;a href="https://tver.jp/series/srkpfcvn7u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_11時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuwvapk7w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                優しく尽くしてくれる弥恵（秋田汐梨）のことを大切にしたいと思いながらも曽根ちゃん（片山友希）のことが忘れられず、自分の気持ちに迷いを感じている宏人（松倉海斗）。そんなある日、宏人の職場に挨拶しにきた取引相手の女性がなんと…曽根ちゃんだった！突然の再会にア然となる宏人とは対照的に、冷静沈着に名刺交換をする曽根ちゃん。宏人は思いきって曽根ちゃんの気持ちを確かめようとするのだが…。一方、閉店後のＢＡＲでは、目黒ちゃん（樋口日奈）が彼氏の亮くん（松本怜生）の本心を確かめようとしていた。浮気の証拠写真を突きつけた挙句「私は亮くんの何？」と逃げ道のない質問を投げる目黒ちゃんに悪びれることなく、セフレが居ることを認める亮くん。目黒ちゃんはついに別れを決意するのだが…&lt;br&gt;&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝   &lt;br&gt;3月25日(水) 昼11時30分～　#1   &lt;br&gt;3月26日(木) 昼11時30分～　#2   &lt;br&gt;3月27日(金) 昼11時30分～　#3   &lt;br&gt;3月28日(土) 昼11時30分～　#4   &lt;br&gt;3月29日(日) 昼11時30分～　#5   &lt;br&gt;3月30日(月) 昼11時30分～　#6   &lt;br&gt;3月31日(火) 昼11時30分～　#7   &lt;br&gt;4月1日(水) 昼11時30分～　#8   &lt;br&gt;4月9日(木) 昼11時30分～　#9   &lt;br&gt;4月10日(金) 昼11時30分～　#10（最終話） 
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epuwvapk7w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5a2566ra</id>
-    <title>君の花になる_[第９話 大好きだから幸せになってほしい…涙の決断]</title>
-    <updated>2026-04-01T11:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzr9okbc1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 君の花になる
-                &lt;a href="https://tver.jp/series/srzr9okbc1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_11時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_10時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5a2566ra.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：八村倫太郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月15日(日)11:00～4月12日(日)20:59&lt;br&gt;#4：3月15日(日)11:00～3月22日(日)10:59&lt;br&gt;#5：3月18日(水)11:00～3月25日(水)10:59&lt;br&gt;#6：3月22日(日)11:00～3月29日(日)10:59&lt;br&gt;#7：3月25日(水)11:00～4月1日(水)10:59&lt;br&gt;#8：3月29日(日)11:00～4月5日(日)10:59&lt;br&gt;#9：4月1日(水)11:00～4月8日(水)10:59&lt;br&gt;#10：4月5日(日)11:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;あす花（本田翼）と弾（高橋文哉）のツーショット写真がネットで拡散され大騒ぎとなる。自らの意思で事務所を訪れたあす花は花巻社長（夏木マリ）に謝罪。そんなあす花を、花巻社長は8LOOMのツアー初日の会場に連れて行き…。そして、あす花は寮を出ていく。その後、ケンジ（宮野真守）は8LOOMに、ファンのためにメンバー全員で謝罪配信をするよう提案する。しかし弾はあす花との間に後ろめたいことは何もないと、謝罪を拒否。そんな弾に花巻社長は活動自粛を言い渡す。さらに、なる（宮世琉弥）は「今の弾は8LOOMにいらない」と言い放ち…。メンバーたちの絆に、亀裂が入り始める。そして弾が活動を自粛して３カ月。他のメンバーの懸命な活動の甲斐もあり、8LOOMは徐々に信頼を取り戻していた。しかし１人曲作りに励む弾は、なかなかいい楽曲が作れずにいて……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5a2566ra"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzwqwd5sz</id>
-    <title>小さな巨人_[＃４ 捜査一課長を逮捕!?上司との直接対決！]</title>
-    <updated>2026-04-01T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9kzsg64q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 小さな巨人
-                &lt;a href="https://tver.jp/series/sr9kzsg64q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzwqwd5sz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：岡田将生・長江英和 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-5：4月1日(水)10:00～4月9日(木)9:59&lt;br&gt;#6-10：4月9日(木)10:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;香坂（長谷川博己）は、山田（岡田将生）と手を組み京子（富永沙織）殺害事件の真相を突き止めるため、鍵となるアリサ（佐々木希）の身柄を押さえようとするが、寸前の所で取り逃がしてしまう。そんな中、警察の内部に内通者がいることに気付き、この事件の背後には小野田（香川照之）がいると悟った香坂は、小野田が警察の情報を外部に流しているのならばこちらも、と供述を変えた菜穂（吉田羊）の一件を新聞社にリークする。その狙いは、記事を見た中田（桂文枝）が憤慨し、小野田と接触する様子を押さえるためだ。予想通りの動きを見せた中田と小野田。「チャンスはこの一度きりだ」と渡部（安田顕）ら芝署員と共に２人が会合する店に潜む香坂だが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzwqwd5sz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi1a9vo59</id>
-    <title>小さな巨人_[＃１ 新警察ヒーロー誕生 敵は味方のフリをする 裏切り上司を倒せ!!]</title>
-    <updated>2026-04-01T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9kzsg64q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 小さな巨人
-                &lt;a href="https://tver.jp/series/sr9kzsg64q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi1a9vo59.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：岡田将生・長江英和 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-5：4月1日(水)10:00～4月9日(木)9:59&lt;br&gt;#6-10：4月9日(木)10:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;警視庁捜査一課強行班１係長の香坂真一郎（長谷川博己）は、今年３度目の捜査本部事件を解決する活躍をみせていた。その祝勝会と称して、前捜査一課長の三笠洋平（春風亭昇太）と料亭で会食していると、どこで聞きつけたのか現捜査一課長・小野田義信（香川照之）が現れる。三笠と小野田は優秀な部下の香坂を評価しているという共通点はあるが、互いの捜査理論の違いから腹の底ではいがみあっていた。会食を終えた香坂は、料亭の前で中小企業の社長・中田隆一（加藤晴彦）の飲酒運転を疑い、取り調べた際に隆一の車を傷付けてしまう。すると翌朝、大手ニュースサイト・ゴーンバンクの見出しに“飲酒状態の刑事、車を破損”と記事が掲載される。香坂は、警察官による不正を調査する監察官・柳沢肇（手塚とおる）に呼び出され、宴席の直後に取り調べをしたのではないかと問いただされる。黙秘を続けるが、上司にあたる小野田が呼び出され、日本酒を飲んだことを打ち明けられてしまい、警察の名誉を傷付けたとして所轄への異動を命じられてしまう。香坂が所轄にやってくると、日本経済のトップに立つIT企業ゴーンバンク社の社長・中田和正（桂文枝）が誘拐される事件が発生する。捜査一課の時と同様に捜査をしようとする香坂だが、これまで部下だった警視庁捜査一課長付運転担当・山田春彦（岡田将生）に「所轄は後方支援。現場は本庁に任せてください」と釘を刺される。香坂のもとに残されたのは、問題だらけの所轄刑事のみ。彼は窮地を脱し、捜査一課に返り咲くことはできるのか！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi1a9vo59"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephme0c9aj</id>
-    <title>小さな巨人_[＃３ 警察に裏切り者が！あの上司に一喝!!]</title>
-    <updated>2026-04-01T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9kzsg64q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 小さな巨人
-                &lt;a href="https://tver.jp/series/sr9kzsg64q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephme0c9aj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：岡田将生・長江英和 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：安田顕 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-5：4月1日(水)10:00～4月9日(木)9:59&lt;br&gt;#6-10：4月9日(木)10:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;香坂（長谷川博己）は、渡部（安田顕）と共に捜査を続け、山田（岡田将生）の助けもあり、京子（富永沙織）を殺害した真犯人を菜穂（吉田羊）から聞き出そうとする。しかし、供述を一転されてしまい、捜査一課と所轄は深い痛手を負った。そんな中、小野田（香川照之）は事件を解決するためなら、なんでも使うと所轄との合同捜査本部を設置する。一方、この事件の最重要人物とされる隆一（加藤晴彦）は、バーのオーナー・山本アリサ（佐々木希）の証言からアリバイが成立していた。だが、アリサの写真を見た香坂は、左遷させられた一件の時に、隆一とアリサが一緒にいたことを思い出す。２人の関係次第ではアリバイを崩せると考え、指示に逆らって捜査をするため、一課に合流した中村俊哉（竜星涼）から情報を得てアリサの店に向かうが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephme0c9aj"/>
   </entry>
 </feed>
