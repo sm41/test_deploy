@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-02T18:05:35+09:00</updated>
+  <updated>2026-04-02T20:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz2lg8fw5</id>
+    <title>最後の雨が降るとき_[第8話　涙の名前]</title>
+    <updated>2026-04-02T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_19時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月2日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz2lg8fw5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                天娣(ティエンディ)は雨神(オラド)との過去の思い出が蘇る中で、人を好きになる感覚を思い出していた。そして、思いがけず雨神の中国語名を知った天娣の脳裏には、さらに過去の記憶が蘇り、自分がどれだけ雨神を好きなのか、彼に打ち明ける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz2lg8fw5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epb52aeilx</id>
     <title>多すぎる恋と殺人_[【冒頭6分先行配信】4月6日(月)24時24分 ~ 放送予定]</title>
