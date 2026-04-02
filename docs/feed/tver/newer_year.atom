@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-02T02:06:35+09:00</updated>
+  <updated>2026-04-02T10:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfo9nwv18</id>
+    <title>持続可能な恋ですか？～父と娘の結婚行進曲～_[第７話 結婚を前提としない交際開始!!諦めない男の逆襲！]</title>
+    <updated>2026-04-02T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4akaw4mf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 持続可能な恋ですか？～父と娘の結婚行進曲～
+                &lt;a href="https://tver.jp/series/sr4akaw4mf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfo9nwv18.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：井川遥 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：細田善彦 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)10:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)10:00～3月30日(月)9:59&lt;br&gt;#5：3月27日(金)10:00～4月2日(木)9:59&lt;br&gt;#6：3月30日(月)10:00～4月5日(日)9:59&lt;br&gt;#7：4月2日(木)10:00～4月8日(水)9:59&lt;br&gt;#8：4月5日(日)10:00～4月11日(土)9:59&lt;br&gt;#9：4月8日(水)10:00～4月14日(火)9:59&lt;br&gt;#10：4月11日(土)10:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;メモを残し沢田家から出て行ってしまった颯（磯村勇斗）。電話をしても留守電、LINEも既読スルー。杏花（上野樹里）と林太郎（松重豊）は、突然姿を消したことを心配するも、颯はある場所へと向かっていた…。そんな中、ついにヴァネッサ（柚希礼音）に独立の話を打ち明けた杏花。ヴァネッサからは、友人のコンサルタントを紹介すると意外にも前向きな答えが。ヴァネッサと一緒にレストランでその友人を待っていると、現れたのは意外な人物で…。一方、ついに付き合うことになった杏花と晴太（田中圭）は「結婚を前提にしないお付き合い」のルールを決めることに。晴太は、「虹朗（鈴木楽）ファーストで杏花は仕事ファーストでいこう」と決める。さらに２人はデートへ出かけるも、ハプニングが起きてしまう。同じ頃、父・林太郎の元に一通のメールが届く。それは明里（井川遥）からのまさかのデートのお誘いで、林太郎は慌てふためき…。偶然にも杏花と林太郎、それぞれデートに出かけることになった父娘２人の行方は…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfo9nwv18"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epq7xxovhg</id>
     <title>相棒 season8_[第3話「ミス・グリーンの秘密」]</title>
@@ -2048,365 +2088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epgj2704wy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdq7x0glv</id>
-    <title>バツイチがモテるなんて聞いてません_[×１「バツイチがモテるなんて聞いてません」《ドラマ特区》]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr256l0bgv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バツイチがモテるなんて聞いてません
-                &lt;a href="https://tver.jp/series/sr256l0bgv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdq7x0glv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                小野和葉（高梨臨）は、女性ファッション誌編集部で働く優秀な編集者。夫の不倫が原因で、35歳でバツイチに。&lt;br&gt;会社で同僚らに無理して明るく自らの離婚を発表する和葉だが、そこに見知らぬ顔が。配属初日の体育会系新入社員、満井絢斗（綱啓永）だった。初対面でバツイチ報告を聞かれてしまい赤面する和葉だが、その満井の指導係に指名される。&lt;br&gt;さっそく満井と衣装探しに出かける和葉は、満井のファッションセンスの無さを見かねて、満井の洋服を選び、さらには髪型まで変え、大変身させる。&lt;br&gt;後日和葉は、人気俳優・速水蓮介（塩野瑛久）のフォトブックの打ち合わせで、速水のマネージャーから心無いバツイチいじりを受ける。満井はそんな和葉を守るため、勢いで自分が女性経験のないことまで告白する。その打ち合わせの後、満井は和葉に―!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdq7x0glv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdb2x1uov</id>
-    <title>未解決の女 警視庁文書捜査官 Season２_[第6話 最終章「影の斜塔」]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未解決の女 警視庁文書捜査官 Season２
-                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdb2x1uov.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9（月）～ #1-#3&#13;&lt;br&gt;3/16（月）～ #4-#5&#13;&lt;br&gt;4/01（水）～ #6-#7&#13;&lt;br&gt;4/13（月）～ #4-#5&#13;&lt;br&gt;5/04（月）～ #6-#7&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;人気イタリアンレストランのオーナー・入沢博人（武田航平）が手足を縛られた状態で、新店舗の冷凍施設に閉じ込められ、凍死した未解決事件から5年――。成功のノウハウをまとめた自著『億りびと』を上梓したばかりのネット長者・西松文也（渡辺邦斗）が、入沢と同じように手足を縛られ、ホテルのバスタブで溺死しているのが見つかった。その遺体を見た「特命捜査対策室」第6係の刑事・矢代朋（波瑠）は、くるぶしに彫られた奇妙な刺青に目を留める。文書捜査のエキスパート・鳴海理沙（鈴木京香）によると、その刺青は「梵字」。しかも、5年前の被害者・入沢の腕にも「梵字」の刺青が彫られていたというではないか！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdb2x1uov"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd95xrdfe</id>
-    <title>左ききのエレン_[第２話「パパの手はそうじゃなかったんだ」]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry4mvr2wk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 左ききのエレン
-                &lt;a href="https://tver.jp/series/sry4mvr2wk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd95xrdfe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                広告代理店で働く朝倉光一（神尾楓珠）は、予算３億のキャンペーンをめぐる競合に勝利したものの、その後のメンバーからは外され、やりきれない想いを抱えていた。そんな時、同期の朱音優子（田中真琴）から渡された雑誌に、かつて高校時代に対抗心を燃やしていた山岸エレン（池田エライザ）の姿が……。&lt;br&gt;その頃エレンは、加藤さゆり（中村ゆりか）のサポートのもと、ニューヨークで画家として活動するも、過去のある呪縛に囚われ、新たな作品が描けずにもがき苦しんでいた……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd95xrdfe"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd5bv8z6a</id>
-    <title>バツイチがモテるなんて聞いてません_[×２「塞翁が馬なんて言うかもしれません」《ドラマ特区》]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr256l0bgv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バツイチがモテるなんて聞いてません
-                &lt;a href="https://tver.jp/series/sr256l0bgv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd5bv8z6a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                新入社員の満井（綱啓永）から突然告白された和葉（高梨臨）。まさかの告白に動揺が隠せない和葉に対し、満井はその後も何事もなかったように接してくる。満井を意識して、仕事に集中できない和葉は、夢乃（湯上響花）に満井を任せて距離を置くように。&lt;br&gt;その日の夜、母（余貴美子）から今後の人生についての説教を受け、意気消沈してしまった和葉。バツイチになり初めての２連休を謳歌しようと試みるも、友達は家族の予定で捕まらない。街中ですれ違う人々を見る内に、結婚していた頃の自分と比べてしまい虚しくなる。&lt;br&gt;そんな中、速水（塩野瑛久）のドラマ現場にエキストラとして和葉と満井が参加することに。久々に二人きりになった和葉と満井はお互いの素直な気持ちをぶつけ合い―。一方、速水は独身になった和葉をやけに気にしていて―!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd5bv8z6a"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcui12y0l</id>
-    <title>左ききのエレン_[第１話「オレは、オレの事ばっかりだ」]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry4mvr2wk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 左ききのエレン
-                &lt;a href="https://tver.jp/series/sry4mvr2wk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcui12y0l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                広告代理店で働く駆け出しのデザイナー・朝倉光一（神尾楓珠）は、いつか“何者か”になることを夢見て、がむしゃらに働く毎日を過ごしていた。そんな中、予算３億のキャンペーンをめぐる競合の案件で、上司である神谷雄介（石崎ひゅーい）からロゴのデザインという大役を任される。しかし、光一を待っていたのは、思いもよらない展開だった――。そんな中、光一はニューヨークで活動する天才画家で高校の同級生・山岸エレン（池田エライザ）との思い出の地を訪れ、ある事件を思い出す……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcui12y0l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbqdnduhb</id>
-    <title>私の彼が姉の夫になった理由_[第1話「目が覚めたら恋人が姉の夫に!?」《ドラマフィル》]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr19ni0nr3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私の彼が姉の夫になった理由
-                &lt;a href="https://tver.jp/series/sr19ni0nr3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbqdnduhb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                恋も仕事も順調だった。あの日が来るまでは――。アパレル店で働く宮田愛子（秋田汐梨）は、幼い頃に両親を亡くすも、優しい姉の紗栄子（高田里穂）と幼なじみで医師の彼氏・吉村優馬（影山拓也）と幸せな日々を送っていた。そして25歳の誕生日を控えた愛子は、優馬に「大切な話がある」と言われ、「プロポーズかも？」と胸が高鳴る。しかし、ある日の帰宅途中、何者かに背中を押され階段から転落し、意識不明に！目を覚ますと信じがたい事実を知ることに…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbqdnduhb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep98zadbky</id>
-    <title>スーパーのカゴの中身が気になる私_[最終話 花束を持った死神]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbuemrnkm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スーパーのカゴの中身が気になる私
-                &lt;a href="https://tver.jp/series/srbuemrnkm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep98zadbky.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼詳細スケジュールはこちら▼&lt;br&gt;更新を見逃さない「お気に入り登録」も！Huluでは全話配信中！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;配信期間：3/15（日）～4/11（土）&lt;br&gt;＃1~3：3/15（日）～4/11（土）&lt;br&gt;＃4：3/20（金・祝）～3/26（木） &lt;br&gt;＃5：3/22（日）～3/28（土）&lt;br&gt;＃6：3/24（火）～3/30（月）&lt;br&gt;＃7：3/26（木）～4/1（水）&lt;br&gt;＃8：3/28（土）～4/3（金）&lt;br&gt;＃9：3/30（月）～4/5（日）&lt;br&gt;＃10：4/1（水）～4/7（火）&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;由里子（新谷あやか）から「豊田豊と不倫している」と打ち明けられた雄三（戸塚純貴）はショックを受け、「カゴの中身を見るのはやめよう」と考え始める。が、いつもの癖でついつい目がお客さんのカゴの中に。&lt;br&gt;この日やってきたパジャマにサンダルの顔色の悪い男（吉村界人）のカゴの中は、花束とお刺身。&lt;br&gt;そして、スーパーガネシヤで「強盗事件」が発生！&lt;br&gt;君枝（石田ひかり）が人質になった時、雄三がとった行動とは…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep98zadbky"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6zys8ya6</id>
-    <title>素直になれなくて_[第1話 今､何してるの？]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwvhjdf0d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 素直になれなくて
-                &lt;a href="https://tver.jp/series/srwvhjdf0d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6zys8ya6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;ナカジ（瑛太）とハル（上野樹里）は、ツイッターを通して知り合った。ナカジこと中島圭介は、戦場カメラマンだった父・亮介（吉川晃司）に憧れて同じ道を歩もうとしていた。が、駆け出しゆえに、いまはまだ成人雑誌のグラビア撮影やアシスタントの仕事をしながら生計を立てていた。ハルこと水野月子は、私立高校の非常勤講師。なかなか素直になれないタイプのハルは、いままで男性と付き合った経験もなかった。&lt;br&gt;ツイッターでのやり取りを通じてナカジに好感を抱いていたハルは、初めて彼に会う機会を得る。何人かのフォロワーとともに、渋谷で会うことになったのだ。ひとりでは不安だったハルは、高校時代からの親友で、子ども服店で働いている西村光（関めぐみ）に頼みこんで一緒に行く約束を取り付ける。&lt;br&gt;約束の店を訪れたハルと光は、そこでドクターことパク・ソンス（ジェジュン）、リンダこと市原薫（玉山鉄二）と出会う。ドクターは、韓国からやってきて日本の大学に入り、医師になったのだという。リンダは、雑誌の編集者だった。光は、そんなふたりにキャビンアテンダントをしている、と嘘をつく。&lt;br&gt;ほどなく、店にナカジがやってくる。その顔を見たハルは驚いた。昼間、カフェでハルがコーヒーを倒してしまい、ズボンを汚してしまった相手がナカジだったのだ。その際、慌ててズボンを拭こうとしたハルは、ナカジからチカン呼ばわりされていた。&lt;br&gt;気まずいまま何となく盛り上がれないでいるナカジ、ハルとは対照的に、ドクター、光、リンダは、2次会に行こうと盛り上がる。ナカジとハルは、ともに2次会をパスして帰ることにした。が、実はふたりは同じ駅を利用する、近所同士だった。&lt;br&gt;ドクター、光、リンダはカラオケ店に入った。そのとき、ドクターの携帯電話が鳴った。担当患者が急変したから病院に戻る、というドクター。残された光は、リンダをホテルに誘った。&lt;br&gt;電車を降りたハルは、ナカジに別れを告げてコンビニに立ち寄る。ナカジは、ハルを家まで送り届けるため、外で待っていた。ハルは、そんなナカジに、チカン呼ばわりしたことを謝ってほしいと言い出す。さらにハルは、汚してしまったズボンをクリーニングして返す、といってナカジの持っていた紙袋を取ろうとした。だが、引っ張り合いになった拍子に転んでしまい、足を擦りむいてしまうハル。ナカジは、ハルをアパートに連れて行き、手当てをした。そのときナカジは、ハルのふとした表情に心惹かれ・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『素直になれなくて』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6zys8ya6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6r8vztee</id>
-    <title>未解決の女 警視庁文書捜査官_[最終回]</title>
-    <updated>2026-04-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未解決の女 警視庁文書捜査官
-                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6r8vztee.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/9(月)～ #1-#3&#13;&lt;br&gt;3/16(月)～ #4-#6&#13;&lt;br&gt;4/01(水)～ #7-#8&#13;&lt;br&gt;4/13(月)～ #4-#6&#13;&lt;br&gt;5/04(月)～ #7-#8&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;百々瀬佐智（谷村美月）を誘拐し、その父・百々瀬博昭（石黒賢）から身代金をせしめて逃亡した秋田昇（岡田浩暉）が、「特命捜査対策室」第6係の熱血刑事・矢代朋（波瑠）を銃で撃って逃走した！　まもなく、朋を撃った拳銃と、4日前に藤枝信也（長谷川朝晴）を撃った拳銃が同じものだと判明。どちらも秋田の犯行だったと裏付けられる。&#13;&lt;br&gt;しかし同時に、不穏な情報も浮かび上がる。なんと使用された拳銃は、科捜研で15年前に登録されている晴海東署のものと同じだったのだ！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6r8vztee"/>
   </entry>
 </feed>
