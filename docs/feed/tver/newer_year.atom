@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-02T14:05:35+09:00</updated>
+  <updated>2026-04-02T16:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsbjtgyku</id>
+    <title>あのクズを殴ってやりたいんだ_[第８話 恋のバトル?!やっぱり好きだ…！]</title>
+    <updated>2026-04-02T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsvfys6xj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あのクズを殴ってやりたいんだ
+                &lt;a href="https://tver.jp/series/srsvfys6xj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_14時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsbjtgyku.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：玉森裕太・冨手麻妙 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月21日(土)15:00～4月12日(日)20:59&lt;br&gt;#4：3月23日(月)15:00～3月28日(土)14:59&lt;br&gt;#5：3月25日(水)15:00～3月30日(月)14:59&lt;br&gt;#6：3月28日(土)15:00～4月2日(木)14:59&lt;br&gt;#7：3月30日(月)15:00～4月4日(土)14:59&lt;br&gt;#8：4月2日(木)15:00～4月7日(火)14:59&lt;br&gt;#9：4月4日(土)15:00～4月9日(木)14:59&lt;br&gt;#10：4月7日(火)15:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;大葉（小関裕太）に告白されたほこ美（奈緒）は、市役所で孤立した自分を支えてくれている大葉の存在を、改めて意識するようになる。そして、成（渡部篤郎）とゆい（岡崎紗絵）がほこ美のプロテスト合格発表を待っている中、海里（玉森裕太）が帰国する。ゆいは間に合わなかった海里を責めるが、実は遅れた理由があったのだった…。アメリカにいた半年間で起こった出来事を聞いた海里は、ほこ美の幸せを考えたら自分は身を引いた方がいいのではと思い悩む。その矢先、ほこ美が大葉といるところへバッタリ出くわしてしまった。海里はほこ美の楽しそうな表情を目の当たりにする。さらに、ほこ美を思う大葉から宣戦布告をされてしまい…。その後、羽根木ボクシングジムで開催されたキッズボクシングイベントのカメラマンとして参加していた海里はほこ美が不在と聞き、内心がっかりしていた。だが、このイベントがキッカケで海里は大葉と再び火花を散らすことになり…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsbjtgyku"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epi9py97hk</id>
     <title>誰にも言えない_[最終回 「運命は巡る！悲劇のリインカネーション」]</title>
@@ -1808,45 +1848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep0sx7elfj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4u185ejf</id>
-    <title>物産展の女～宮崎編～_[前編 宮崎県日向市]</title>
-    <updated>2026-04-01T01:00:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srap66rtet.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 物産展の女～宮崎編～
-                &lt;a href="https://tver.jp/series/srap66rtet" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4u185ejf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2：4/1（水）1:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;社長肝いり案件である宮崎物産展を担当することになった食品バイヤー・春花（平祐奈）と熱量低めの後輩・高城（杢代和人）。地元の絶品グルメに舌鼓を打ち『八幡』の店主（やす）に出店交渉をするも一筋縄ではいかず…。苦戦していた二人の前に現れたのは真っ赤なスーツを着た圧倒的なオーラをまとう謎の女・御厨京子（山口紗弥加）だった！　［期間限定無料配信］　「物産展の女～高崎編～」テレビ東京系列にて3月31日(火)スタート！深夜24時30分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4u185ejf"/>
   </entry>
 </feed>

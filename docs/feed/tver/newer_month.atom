@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-02T14:05:35+09:00</updated>
+  <updated>2026-04-02T16:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -368,85 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep98n2puw5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvy9y4rhg</id>
-    <title>終のひと_[最終回「愛がすべてのこと」]</title>
-    <updated>2026-04-01T01:26:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhukk4g19.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 終のひと
-                &lt;a href="https://tver.jp/series/srhukk4g19" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_01時26分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvy9y4rhg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                嗣江（柿澤勇人）の死が近いと知った梵（西山潤）は、嗣江の「生前葬」をしようと提案する。入院中の嗣江は梵の準備を手伝うため病院を飛び出し、自分が生まれてからこれまでの出来事を語り始める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvy9y4rhg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbryjkf4y</id>
-    <title>物産展の女～高崎編～_[高崎小麦、親子を救う。]</title>
-    <updated>2026-04-01T01:00:03+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srap66rtet.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 物産展の女～高崎編～
-                &lt;a href="https://tver.jp/series/srap66rtet" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbryjkf4y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                銀座の老舗百貨店の食品バイヤーである春花（平祐奈）と高城（杢代和人）は、一ヶ月後に開催される群馬物産展に向けて高崎パスタの名店「ウィンディ」と出店交渉中。だが店を継いだ娘・秋穂（大友花恋）に「父の約束は無効」と断られてしまう。突然店を任され、レシピもないまま父の味の再現に苦悩する秋穂。そこに現れた伝説のバイヤー・御厨（山口紗弥加）は、あることに気が付き…？高崎小麦が親子の絆を繋ぐ!?空腹必至の極上グルメお仕事ドラマ第2弾！　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbryjkf4y"/>
   </entry>
 </feed>
