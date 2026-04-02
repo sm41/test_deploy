@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-02T16:05:35+09:00</updated>
+  <updated>2026-04-02T18:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epplcbcn6b</id>
+    <title>高原へいらっしゃい（佐藤浩市主演）_[第七話「ホテルを愛するそれぞれの思い」]</title>
+    <updated>2026-04-02T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9jlde09p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 高原へいらっしゃい（佐藤浩市主演）
+                &lt;a href="https://tver.jp/series/sr9jlde09p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_17時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epplcbcn6b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：染谷将太・井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)18:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)18:00～3月30日(月)17:59&lt;br&gt;#5：3月27日(金)18:00～4月2日(木)17:59&lt;br&gt;#6：3月30日(月)18:00～4月5日(日)17:59&lt;br&gt;#7：4月2日(木)18:00～4月8日(水)17:59&lt;br&gt;#8：4月5日(日)18:00～4月11日(土)17:59&lt;br&gt;#9：4月8日(水)18:00～4月14日(火)17:59&lt;br&gt;#10：4月11日(土)18:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;ホテル営業は、皆の努力の甲斐もあり、軌道に乗りつつある。そんな中、矢野（竹脇無我）からホテルは秋に売却すると告げられた若月（西村雅彦）だけは気が重く、面川（佐藤浩市）にも言えないストレスで苛立っていた。ある日、面川はさおり（井川遥）たちから麻美（純名りさ）の息子・広之（高橋快聖）の誕生会をしてやりたいと相談される。客がいない時間でという条件で承諾した。しかし、ある電話がきっかけで、麻美の様子がおかしくなる。麻美に好意を持つ五十嵐敏彦（高知東生）は心配になる。すると、麻美の夫と名乗る倉石（尾美としのり）という男がホテルに現れて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epplcbcn6b"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep80iwp29j</id>
+    <title>とんび_[第九話 突然の終わり…]</title>
+    <updated>2026-04-02T17:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmcjp1ao0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ とんび
+                &lt;a href="https://tver.jp/series/srmcjp1ao0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep80iwp29j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：麻生祐未 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月13日(金)17:00～4月12日(日)20:59&lt;br&gt;#4：3月15日(日)17:00～3月22日(日)16:59&lt;br&gt;#5：3月19日(木)17:00～3月26日(木)16:59&lt;br&gt;#6：3月22日(日)17:00～3月29日(日)16:59&lt;br&gt;#7：3月26日(木)17:00～4月2日(木)16:59&lt;br&gt;#8：3月29日(日)17:00～4月5日(日)16:59&lt;br&gt;#9：4月2日(木)17:00～4月9日(木)16:59&lt;br&gt;#10：4月5日(日)17:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;平成１０年。ヤス（内野聖陽）はアキラ（佐藤健）から「結婚したい人がいるから会ってほしい」と相談される。さらにその女性が年上で慶応大卒の美人と聞いたヤスは、たえ子（麻生祐未）や照雲（野村宏伸）ら町中の人に自慢する。きっと妻の美佐子（常盤貴子）に似ている女性に違いないと思い、ヤスは上機嫌だった。しかし、アキラとともに現れた坂本由美（吹石一恵）を見たヤスは、年齢が予想以上に上であり、美佐子にも似ていないことで機嫌が悪くなってしまう。そのヤスの様子に耐えられなくなった由美は、アキラより７歳年上で離婚経験があり、子供もいることを打ち明ける。すると、ヤスは結婚に猛反対。言い争いになったアキラは由美を連れて東京に帰ってしまうのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep80iwp29j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsbjtgyku</id>
     <title>あのクズを殴ってやりたいんだ_[第８話 恋のバトル?!やっぱり好きだ…！]</title>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-02T16:05:35+09:00</updated>
+  <updated>2026-04-02T18:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epb52aeilx</id>
+    <title>多すぎる恋と殺人_[【冒頭6分先行配信】4月6日(月)24時24分 ~ 放送予定]</title>
+    <updated>2026-04-02T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7208gcpq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 多すぎる恋と殺人
+                &lt;a href="https://tver.jp/series/sr7208gcpq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月07日(火)_00時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb52aeilx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「この遺体、私が昨日寝た人です…」&lt;br&gt;谷崎真奈美(森カンナ)は、たくさんの恋人(通称・マイラブ)を持つ、&lt;br&gt;警視庁捜査一課の刑事。&lt;br&gt;ツンデレ枠・筋肉枠・枯れオジ枠・真面目枠・後輩枠・ドS枠&lt;br&gt;など様々なマイラブたちと人生を謳歌している。&lt;br&gt;そんなある日突然、自分と関係を持った男性が次々と殺される事件が発生。&lt;br&gt;真奈美に片思いする後輩刑事・壮馬(西垣匠)とタッグを組み、&lt;br&gt;奇妙な連続殺人事件の真相を追う。&lt;br&gt;−殺らせない、私がヤりつづけるために−&lt;br&gt;自由に生きる「奔放刑事」のたくさんの恋と別れを描く&lt;br&gt;超・刺激的なラブ×サスペンス×コメディー！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epb52aeilx"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7t1cdjiw</id>
     <title>L&amp;P_[第26話　心してかかれ]</title>
@@ -288,85 +328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep7cfbxrxv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epx7z02hx3</id>
-    <title>失恋カルタ_[第１話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「あ」《ドラマイズム》]</title>
-    <updated>2026-04-01T01:56:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8o52a7s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 失恋カルタ
-                &lt;a href="https://tver.jp/series/srr8o52a7s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_01時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_01時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx7z02hx3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                花屋のバイト先で運命的に出会った野崎（阿部顕嵐）と4年間の恋を重ねた千波（梅澤美波）は、ある日突然「もう別れたい」と告げられる。そんなつらい失恋を乗り越え、アパレル会社のPRとして働く千波は、仕事では充実した日々を送っていた。落ち込む千波を支えるのは、大学時代からの友人で、フリーライターで恋人とラブラブな光（西垣匠）と、恋愛を冷めた目で見る彩世（加藤小夏）。老舗ゲーム会社で”恋愛カルタ”の企画を担当する彩世は、千波の失恋を”カルタの句”のネタにしつつも、３人はいつものように笑い合っていた。そんな中、大学の同級生・美咲の結婚式に出席した３人だが、美咲が突然、「私は、あなたに失恋したの」と言い残し、結婚式から逃げ出してしまう。衝撃の光景を目の当たりにした３人は、美咲が残した言葉の意味を考え続けていて――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epx7z02hx3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep98n2puw5</id>
-    <title>ぴーすおぶせーふ_[第3話 恋心と現状維持]</title>
-    <updated>2026-04-01T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr25s7151l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぴーすおぶせーふ
-                &lt;a href="https://tver.jp/series/sr25s7151l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_00時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep98n2puw5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                最強すぎる妻・藍谷官房長官(田辺桃子)が備品室に現れ、大ファンの灰原さん(佐々木美玲)は大興奮!それとは真逆に白間宮くん(落合モトキ)はどぎまぎし始める。再会を喜ぶ暇もなく、藍谷は「さっさと構成員をボコボコにして情報を聞き出そう」と提案するが、白間宮くんの「現状維持キープ」に怒りと不安を感じる。&lt;br&gt;警察官としての職務と保身の間で揺れる黒島くん(基俊介)をよそに、灰原さんは藍谷官房長官の本音に気づく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep98n2puw5"/>
   </entry>
 </feed>
