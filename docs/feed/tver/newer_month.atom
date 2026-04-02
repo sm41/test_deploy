@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-02T12:06:35+09:00</updated>
+  <updated>2026-04-02T14:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,85 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epbryjkf4y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppfbc5qy4</id>
-    <title>どーする？ごはんSEASON2_[日本編第5話「篠島で、どーする？ ～マサトと再会！？新鮮タコしゃぶ～」]</title>
-    <updated>2026-04-01T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlmq9cffq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ どーする？ごはんSEASON2
-                &lt;a href="https://tver.jp/series/srlmq9cffq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_01時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppfbc5qy4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                姿を消したジヌを探しに杏がやってきたのは篠島。この日、島ではジヌの歌手仲間、マサトのライブが開催されていた。マサトからライブに来てと誘われていたジヌも島のライブ会場を訪れたが、マサトの人気ぶりを目の当たりにし誰にも会わないまま立ち去ってしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppfbc5qy4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjhjy16xb</id>
-    <title>ＧＩＦＴ_[見どころ大公開SP]</title>
-    <updated>2026-04-01T00:24:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＧＩＦＴ
-                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月01日(水)_00時24分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjhjy16xb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                堤真一主演！宇宙物理学者と車いすラグビーの弱小チームが本気で心と身体をぶつけ合う！暗闇を生きてきた人たちへ神様からの“愛”という名のギフトの物語。舞台裏大公開！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjhjy16xb"/>
   </entry>
 </feed>
