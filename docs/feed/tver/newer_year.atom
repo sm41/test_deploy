@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-03T14:05:35+09:00</updated>
+  <updated>2026-04-03T16:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxmftt94q</id>
+    <title>結婚したい男たち_[最終回 もう待たせない]</title>
+    <updated>2026-04-03T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjq18tudv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 結婚したい男たち
+                &lt;a href="https://tver.jp/series/srjq18tudv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxmftt94q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：3月15日(日)15:00～4月12日(日)20:59&lt;br&gt;#4-6：3月15日(日)15:00～3月25日(水)14:59&lt;br&gt;#7-9：3月25日(水)15:00～4月3日(金)14:59&lt;br&gt;#10-12：4月3日(金)15:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;舞（南果歩）は森彦（片岡鶴太郎）にプロポーズの返事をするため競馬場へやって来た。森彦をかつて傷つけたことを申し訳なく思い、「私なんかじゃないほうがいい」と断る舞。森彦はボルネオ行きの寸前まで恥も外聞もかなぐり捨て、舞のもとに通いつめるが、そんな森彦に追い詰められた舞は、「私たちは縁がなかった」とプロポーズを断って…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxmftt94q"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epx7n3dwto</id>
+    <title>結婚したい男たち_[第10回 明日が見えない]</title>
+    <updated>2026-04-03T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjq18tudv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 結婚したい男たち
+                &lt;a href="https://tver.jp/series/srjq18tudv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx7n3dwto.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月15日(日)15:00～4月12日(日)20:59&lt;br&gt;#4-6：3月15日(日)15:00～3月25日(水)14:59&lt;br&gt;#7-9：3月25日(水)15:00～4月3日(金)14:59&lt;br&gt;#10-12：4月3日(金)15:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;理沙（和久井映見）は、俊（風間トオル）と忍（山口智子）に「婚約を解消しなければ死ぬ」と言い放つ。周囲はうろたえるものの、当の忍は婚約解消に同意し、理沙は俊にアタックを開始する。&lt;br&gt;そんなある日、森彦（片岡鶴太郎）へボルネオ行きの辞令が予定より２ヶ月も早く出た。ボルネオに行くまでに結婚しようと必死に見合い相手を探す森彦は、やっとのことでお見合いにこぎつけるが、舞（南果歩）から「母親が倒れたので田舎へ帰る」という電話を受け…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epx7n3dwto"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmq9bsyjz</id>
+    <title>結婚したい男たち_[第11回 素直になれたら…]</title>
+    <updated>2026-04-03T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjq18tudv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 結婚したい男たち
+                &lt;a href="https://tver.jp/series/srjq18tudv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmq9bsyjz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月15日(日)15:00～4月12日(日)20:59&lt;br&gt;#4-6：3月15日(日)15:00～3月25日(水)14:59&lt;br&gt;#7-9：3月25日(水)15:00～4月3日(金)14:59&lt;br&gt;#10-12：4月3日(金)15:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;森彦（片岡鶴太郎）の舞（南果歩）への思いを目の当たりにした忍（山口智子）は２人を引き合わせようと、森彦を舞の母親の見舞いへ誘う。そこで森彦は改めて舞に結婚を申し込み、舞が嫌ならボルネオ転勤は断ると熱く語る。&lt;br&gt;一方、忍は俊（風間トオル）との婚約を正式に解消した。みんなが俊を慰めるべく森彦と千代之介（布施博）の家に集まり、その席上、涼子（とよた真帆）は勉（橋爪功）との交際を宣言し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmq9bsyjz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzg1lcfot</id>
     <title>いつかティファニーで朝食を_[シーズン2　第8話]</title>
@@ -3088,125 +3208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epalww04tr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep93ovbovr</id>
-    <title>相棒 season23_[第14話「中園照生の受難」]</title>
-    <updated>2026-04-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season23
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep93ovbovr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                中園（小野了）が突然、音信不通になった。内村（片桐竜次）は、自分の忠告により将来を悲観した中園が、衝動的に行方をくらませたと考え、特命係に捜索を指示した。聞き込みから始めた右京（水谷豊）と薫（寺脇康文）は、中園が最近、老後の趣味を見つけようとしていたという情報を掴む。そんな中、内村のスマホに、中園が監禁されている動画が送りつけられてきた。犯人の要求は、私人逮捕系動画配信グループのリーダーの解放で、『名誉毀損罪で未決勾留中の男を自由にしろ。さもなければ、中園を殺害する』というものだった。実は中園は、警察の会見で、問題のグループを悪しざまに非難しており、それを逆恨みしての犯行と思われた。が、右京は別の可能性を視野に、中園が通い始めていた盆栽教室を訪問。主宰の結城江梨子（西山繭子）に話を聞くと、中園は教室の人気者で、トラブルはなかったという。ただ、さらに捜査を進めると、中園と江梨子の間に不穏な噂があることが分かる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep93ovbovr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6xe35g0t</id>
-    <title>101回目のプロポーズ_[第10話 僕はあきらめない]</title>
-    <updated>2026-04-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 101回目のプロポーズ
-                &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月09日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6xe35g0t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月15日(水)&lt;br&gt;#4：03月16日(月) ～ 04月03日(金)&lt;br&gt;#5：03月19日(木) ～ 04月03日(金)&lt;br&gt;#6：03月22日(日) ～ 04月03日(金)&lt;br&gt;#7：03月25日(水) ～ 04月03日(金)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;#11：04月06日(月) ～ 04月12日(日)&lt;br&gt;#12：04月09日(木) ～ 04月15日(水)&lt;br&gt;&lt;br&gt;藤井（長谷川初範）が薫（浅野温子）にプロポーズした。それを達郎（武田鉄矢）が聞いていた。肩を落として立ち去る達郎を、薫は複雑な思いで見送った。翌日、藤井は達郎に、「こんなことになるとは思わなかった。謝る。上司としてではなく男として・・・」と頭を下げる。&lt;br&gt;達郎は会社に辞表を出した。達郎が会社を辞めたと知って純平（江口洋介）、千恵（田中律子）は驚く。もちろん薫もショックを受ける。達郎は薫に会った。「あたしを恨んでいるでしょうね」と薫から言われた達郎は「そんなことはありません。自分自身を恨んでいます」と言った。薫は達郎に婚約指輪を返した。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『101回目のプロポーズ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6xe35g0t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep50yxbhoe</id>
-    <title>相棒 season23_[第12話「細かいことが気になる患者」]</title>
-    <updated>2026-04-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season23
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep50yxbhoe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                右京（水谷豊）の脳波に異常が見つかり、検査入院することになった。ただ、検査を担当する院長は研究が本職で、経営は素人。病院の存続が危ぶまれるほどの経営難に陥っていた。そこに、ライリー・櫻井（岩谷健司）と名乗るコンサルタント会社の代表が現れる。「病院再建のスペシャリストである我々に任せれば大丈夫」と力強く語り、院長の信頼を得て改革の提案を始めた。そんな中、入院中の右京は不穏な動きを察知し、ライリーをはじめ、コンサルタント会社の社員からも事情を聞くが、上手くかわされてしまう。入院中ということで自分では動けない右京は、見舞いに来た薫（寺脇康文）に協力を要請。薫が病院外での捜査を始めると、意外な事実が浮かび上がってくる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep50yxbhoe"/>
   </entry>
 </feed>

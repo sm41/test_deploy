@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-03T14:05:35+09:00</updated>
+  <updated>2026-04-03T16:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -208,45 +208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1y5c6v6l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvormawb5</id>
-    <title>あざとかわいいワタシが優勝_[第1話]</title>
-    <updated>2026-04-02T21:53:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreel7k3xi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あざとかわいいワタシが優勝
-                &lt;a href="https://tver.jp/series/sreel7k3xi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月02日(木)_21時53分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月2日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvormawb5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「あざとかわいい」、それは私らしい生き方を証明する言葉。&lt;br&gt;デザインマーケティング課に異動してきた松嶋琴音（大友花恋）は、天性のあざとさを武器に、次々と男性社員たちの心を掴んでいく。&lt;br&gt;しかし、教育係の佐原なず奈（桜井玲香）が、自分を凌駕する計算高さで周囲を魅了する「あざとかわいい」のトップオブトップであることに直感で気づき、静かに闘志を燃やす。&lt;br&gt;そんな中、社内のエース・清水将貴（船津稜雅／超特急）が新課長として着任。その完璧なルックスとスペックに目をつけた琴音は、清水を次なる標的に定めるが、そこには常になず奈の影がちらついていて……。&lt;br&gt;笑顔の裏で強烈な本音をぶつけ合う二人の「あざとかわいい」女子による、プライドをかけたバトルの行方は――？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvormawb5"/>
   </entry>
 </feed>
