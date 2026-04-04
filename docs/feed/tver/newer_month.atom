@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-04T14:05:35+09:00</updated>
+  <updated>2026-04-04T16:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epl3459iax</id>
+    <title>春の新ドラマ合体　みどころSP_[春の新ドラマ合体　みどころSP]</title>
+    <updated>2026-04-04T15:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvdtdysad.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 春の新ドラマ合体　みどころSP
+                &lt;a href="https://tver.jp/series/srvdtdysad" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月04日(土)_15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月21日(日)_22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月4日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl3459iax.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                2026年春を彩る日テレ系3ドラマの見どころを徹底解剖！&lt;br&gt;気になる見どころをひと足早く大公開！！&lt;br&gt;&lt;br&gt;【水曜ドラマ『月夜行路 ―答えは名作の中に―』】&lt;br&gt;4月8日(水)よる10時スタート！&lt;br&gt;波瑠 麻生久美子&lt;br&gt;栁俊太郎 作間龍斗(ACEes) 渋川清彦 田中直樹　ほか&lt;br&gt;&lt;br&gt;【土曜ドラマ『タツキ先生は甘すぎる！』】&lt;br&gt;4月11日(土)よる9時スタート！&lt;br&gt;町田啓太 松本穂香 藤本美貴 寺田心 三遊亭好楽 比嘉愛未 江口洋介　ほか&lt;br&gt;&lt;br&gt;【日曜ドラマ『10回切って倒れない木はない』】&lt;br&gt;4月12日(日)よる10時30分スタート！&lt;br&gt;志尊淳 仁村紗和 京本大我 長濱ねる　ほか
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epl3459iax"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epe5ecc4if</id>
     <title>週末旅の極意3～結婚ってしなきゃいけないもの？～_[第1話 結婚の足枷]</title>
