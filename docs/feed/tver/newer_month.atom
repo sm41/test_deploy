@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-05T00:06:35+09:00</updated>
+  <updated>2026-04-05T02:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9w54hkry</id>
+    <title>大丸愛は選択する_[第1話「このまま一緒に逃げよう」]</title>
+    <updated>2026-04-05T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraud3no2l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大丸愛は選択する
+                &lt;a href="https://tver.jp/series/sraud3no2l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月05日(日)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月31日(日)_00時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月4日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9w54hkry.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                刑事課で働く大丸愛（熊元プロレス）。彼女は、困っている人を放っておけない優しい性格と、大好きな少女漫画の影響で、訳アリ男性につい同情して、なぜかその男性に好かれてしまうクセが…。&#13;&lt;br&gt;この日はアイドルグループ「ROYAL CARATS（ロイヤルカラッツ）」初のワンマンライブが開催。しかし、ライブ中に事務所の金庫が盗まれる事件が発生！メンバーの中で唯一冷静な様子のリーダー・ダイヤ（髙松アロハ）の様子が気になってしまう愛。&#13;&lt;br&gt;そんなある日、愛はダイヤが物思いにふける場面に遭遇する。涙を流すダイヤを見た愛は、独断で尾行をすることに！なんとダイヤは「とある事実」を隠していた。警察が迫る中、ダイヤは愛にまさかの“選択”を委ねる！果たして、ダイヤにときめく愛の選択は…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9w54hkry"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5dpolajs</id>
+    <title>時すでにおスシ!?_[見どころガイド]</title>
+    <updated>2026-04-05T00:58:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 時すでにおスシ!?
+                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月05日(日)_00時58分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月09日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月4日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5dpolajs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                永作博美主演！子育てを終え、第二の人生を歩む主人公は“鮨アカデミー”へ！？笑いあり！ロマンスあり！おスシあり！の人生応援ドラマ！メイキングとインタビューを公開！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5dpolajs"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep22r6wfmw</id>
     <title>ターミネーターと恋しちゃったら_[第1話 護りに来た、未来から]</title>

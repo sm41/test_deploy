@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-05T00:06:35+09:00</updated>
+  <updated>2026-04-05T02:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epg9qhkwj5</id>
+    <title>湯遊ワンダーランド_[第１話 銭湯×女性サウナ 禁断の世界を覗き見…]</title>
+    <updated>2026-04-05T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr54oz00oi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 湯遊ワンダーランド
+                &lt;a href="https://tver.jp/series/sr54oz00oi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月05日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月19日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg9qhkwj5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週土曜 深夜24時55分から放送中】&lt;br&gt;漫画家・きつこ（ともさかりえ）は漫画のネタが思い浮かばず、悪夢にうなされるどん底の日々を過ごしていた。&lt;br&gt;そんなきつこを見た弟・やっちゃん（須賀健太）は、毒が回っていると指摘し、サウナに行くことを勧める。&lt;br&gt;きつこは疑いながらも苦しみから解放されるなら…と、意を決し銭湯へ向かう。&lt;br&gt;懐かしい雰囲気と広いお風呂を楽しんだきつこは、ついに重いサウナの扉を開ける。&lt;br&gt;そして、初めて出会うサウナの世界に戸惑っていると、銭湯を牛耳るババア＝ヌシ（大島蓉子）が現れ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epg9qhkwj5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvqb44q7a</id>
     <title>NICE FLIGHT!_[＃7　最終章！思い合うからこそ…すれ違う二人!!]</title>
@@ -2888,85 +2928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epz9r1rhrr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz1isa8px</id>
-    <title>こっち向いてよ向井くん_[第6話　俺って美和子の何…?]</title>
-    <updated>2026-04-03T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkeg29ibo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ こっち向いてよ向井くん
-                &lt;a href="https://tver.jp/series/srkeg29ibo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月10日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz1isa8px.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　3/6(金)12:00～&lt;br&gt;#4-5　3/27(金)12:00～&lt;br&gt;#6-7　4/3(金)12:00～&lt;br&gt;#8-10　4/10(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;向井くん(赤楚衛二)、10年ぶりに再会した美和子(生田絵梨花)とうまくいき始め、すっかり昔に戻った気分でいたけど…美和子にはつい最近まで彼氏がいたって!?俺ってもしかして、淋しさを紛らわす要員?相談相手の洸稀(波瑠)はなぜか会ってくれないし、妹・麻美(藤原さくら)は芽衣(穂志もえか)の宣戦布告に我慢の限界だし…。悩める恋愛迷子たちを試練が待ち受ける…!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epz1isa8px"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy9uxnqqc</id>
-    <title>瑠璃の島_[瑠璃の島 スペシャル2007]</title>
-    <updated>2026-04-03T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8380puni.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 瑠璃の島
-                &lt;a href="https://tver.jp/series/sr8380puni" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy9uxnqqc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/20(金)12:00～&lt;br&gt;#4-5　3/20(金)12:00～&lt;br&gt;#6-7　3/27(金)12:00～&lt;br&gt;#8-10,SP　4/3(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;日本の外れ、沖縄の離島「鳩海島」で、一人の少女が、強く生き、島人との温かな絆を育み、 成長していく姿を描いた連続ドラマ「瑠璃の島」（2005年4月期放送）。&lt;br&gt;&lt;br&gt;あれから2年。&lt;br&gt;すっかり島の子となり、逞しく成長した中学2年生の瑠璃（成海璃子）。&lt;br&gt;そこに、瑠璃の担任・さなえ（小西真奈美）から鳩海島の話を聞いた、宮原（田辺誠一）と、 瑠璃と同い年の息子・詩音（神木隆之介）が突然、移住してくる。&lt;br&gt;住民の数も増え、平和な日々が続くようにみえた鳩海島だったのだが……。&lt;br&gt;&lt;br&gt;瑠璃の等身大のピュアな初恋と、島の変革に巻き込まれる島人たちの激動を描きます。&lt;br&gt;ハイビスカスが咲き乱れ、青い海、美しい珊瑚礁に囲まれた南の島から贈る、瑠璃の成長記。&lt;br&gt;涙と笑いに彩られた感動の物語です。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy9uxnqqc"/>
   </entry>
 </feed>
