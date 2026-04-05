@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-05T02:05:35+09:00</updated>
+  <updated>2026-04-05T10:06:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep03ewjza8</id>
+    <title>持続可能な恋ですか？～父と娘の結婚行進曲～_[第８話 父娘のダブル告白!?私が選ぶ新しい世界]</title>
+    <updated>2026-04-05T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4akaw4mf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 持続可能な恋ですか？～父と娘の結婚行進曲～
+                &lt;a href="https://tver.jp/series/sr4akaw4mf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月05日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月11日(土)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep03ewjza8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：井川遥 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：細田善彦 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)10:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)10:00～3月30日(月)9:59&lt;br&gt;#5：3月27日(金)10:00～4月2日(木)9:59&lt;br&gt;#6：3月30日(月)10:00～4月5日(日)9:59&lt;br&gt;#7：4月2日(木)10:00～4月8日(水)9:59&lt;br&gt;#8：4月5日(日)10:00～4月11日(土)9:59&lt;br&gt;#9：4月8日(水)10:00～4月14日(火)9:59&lt;br&gt;#10：4月11日(土)10:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;杏花（上野樹里）と晴太（田中圭）がマンションから出てくる姿を目撃した安奈（瀧内公美）。安奈は杏花のヨガスタジオを訪れ、そこで改めて杏花が「仕事ファーストで独立を成功させたい」と思っていることを知る。その様子にどこか無理をしているのではないかと思いつつも、安奈は杏花の独立へ向けたプランを提案するのだった。だが虹朗（鈴木楽）の母としては複雑な心境の安奈で…。一方、林太郎（松重豊）は明里（井川遥）からお見合いを申し込まれ驚きを隠せずにいた。これは婚活の練習なのか…。林太郎は明里の真意が分からず電話をするも、お見合い当日までの接触を断られてしまう。そんな中、フランスから戻ってきた颯（磯村勇斗）が沢田家へ。颯は杏花に予想外の“お土産”を持ってきていて…。安奈のアシストの元、順調に独立へ向けて動き出した杏花だったが、晴太から突如SOSの連絡が…。虹朗が熱を出してしまい、学童へお迎えが必要だが晴太は仕事ですぐには戻れない場所にいるという。杏花は自分が迎えに行くと返事をするが、独立に向けた重要な打ち合わせに出なければならず…。仕事とプライベートの選択を迫られることになった杏花が選ぶのは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep03ewjza8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epg9qhkwj5</id>
     <title>湯遊ワンダーランド_[第１話 銭湯×女性サウナ 禁断の世界を覗き見…]</title>
@@ -2808,125 +2848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epx7n3dwto"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmq9bsyjz</id>
-    <title>結婚したい男たち_[第11回 素直になれたら…]</title>
-    <updated>2026-04-03T15:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjq18tudv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 結婚したい男たち
-                &lt;a href="https://tver.jp/series/srjq18tudv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_15時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmq9bsyjz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月15日(日)15:00～4月12日(日)20:59&lt;br&gt;#4-6：3月15日(日)15:00～3月25日(水)14:59&lt;br&gt;#7-9：3月25日(水)15:00～4月3日(金)14:59&lt;br&gt;#10-12：4月3日(金)15:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;森彦（片岡鶴太郎）の舞（南果歩）への思いを目の当たりにした忍（山口智子）は２人を引き合わせようと、森彦を舞の母親の見舞いへ誘う。そこで森彦は改めて舞に結婚を申し込み、舞が嫌ならボルネオ転勤は断ると熱く語る。&lt;br&gt;一方、忍は俊（風間トオル）との婚約を正式に解消した。みんなが俊を慰めるべく森彦と千代之介（布施博）の家に集まり、その席上、涼子（とよた真帆）は勉（橋爪功）との交際を宣言し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmq9bsyjz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzg1lcfot</id>
-    <title>いつかティファニーで朝食を_[シーズン2　第8話]</title>
-    <updated>2026-04-03T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgjphdb6t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ いつかティファニーで朝食を
-                &lt;a href="https://tver.jp/series/srgjphdb6t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月10日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzg1lcfot.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;・シーズン2&lt;br&gt;#1-5　3/20(金)12:00～&lt;br&gt;#6-7　3/27(金)12:00～&lt;br&gt;#8-9　4/3(金)12:00～&lt;br&gt;#10-12　4/10(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;里沙(新木優子)は米谷(石田法嗣)との交際は順調に進んでいるが、その一方である問題を抱えていた。麻里子(トリンドル玲奈)は高浪(丸山智己)との関係に少し疲れ始めていた。典子(森カンナ)はそんな麻里子を心配し…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzg1lcfot"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz9r1rhrr</id>
-    <title>14才の母～愛するために　生まれてきた～_[第8話「二つの命…どちらを選ぶ？」]</title>
-    <updated>2026-04-03T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtiz1xs9o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 14才の母～愛するために　生まれてきた～
-                &lt;a href="https://tver.jp/series/srtiz1xs9o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月10日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2006年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz9r1rhrr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　2/27(金)12:00～&lt;br&gt;#4-5　3/27(金)12:00～&lt;br&gt;#6-8　4/3(金)12:00～&lt;br&gt;#9-11　4/10(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;突然の腹痛に見舞われた未希（志田未来）は的場クリニックに搬送され、体に“問題”があることを春子（高畑淳子）に知らされ、入院することになった。静香（室井滋）の会社が倒産すると書かれた新聞記事を見て、加奈子（田中美佐子）と忠彦（生瀬勝久）は愕然とする。未希が知れば体に障るだろうと不安になるが、何か詳しいことを知っているのではないか、と波多野（北村一輝）を訪ねることにする。一方、債権者から身を隠すため夜逃げをした静香は必死になって会社を盛り返そうとしていたが、智志（三浦春馬）はメモを残して姿を消してしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epz9r1rhrr"/>
   </entry>
 </feed>
