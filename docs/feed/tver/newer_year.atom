@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-05T18:05:35+09:00</updated>
+  <updated>2026-04-05T20:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -3008,45 +3008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epb15ca2bn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9binha6x</id>
-    <title>マイガール_[＃2]</title>
-    <updated>2026-04-04T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjxt83wzq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ マイガール
-                &lt;a href="https://tver.jp/series/srjxt83wzq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月04日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9binha6x.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/ 4(土) ~　#1-#3&#13;&lt;br&gt;4/ 8(水) ~　#4-#6&#13;&lt;br&gt;4/18(土)~　#7-#10&#13;&lt;br&gt;&#13;&lt;br&gt;遂に、正宗（相葉雅紀）とコハル（石井萌々果）の生活が始まった。しかし、コハルを引き取ったことは、アパートの大家・室田夫妻（八名信夫、大森暁美）や正宗の母・光代（室井滋）、勤め先の写真スタジオにも内緒。保育園に預けている間以外、コハルの相手をしてやれる相手は正宗しかいない状況だ。ところが、子育ての経験がない正宗は、満足に世話をしてあげることができず、戸惑うばかり…。そんな折、正宗は世界的に有名な写真家・霧島（村杉蝉之介）のアシスタントを担当することに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9binha6x"/>
   </entry>
 </feed>
