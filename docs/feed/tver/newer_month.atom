@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-05T10:06:35+09:00</updated>
+  <updated>2026-04-05T12:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epodhgdieo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epe73663ta</id>
-    <title>月夜行路 ―答えは名作の中に―_[【第1話冒頭先行配信】主演 波瑠×麻生久美子4月8日(水)よる10:00スタート]</title>
-    <updated>2026-04-03T17:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxnogfmcq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 月夜行路 ―答えは名作の中に―
-                &lt;a href="https://tver.jp/series/srxnogfmcq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月03日(金)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月08日(水)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe73663ta.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                仕事漬けの夫と反抗期の子どもにないがしろにされる主婦・沢辻涼子(麻生久美子)。45歳の誕生日…彼女が偶然出会ったのは、文学オタクの銀座のバーのママ・野宮ルナ(波瑠)。&lt;br&gt;ルナは鋭い洞察力で、涼子とのわずかな会話と、服装や持ち物から家族構成や夫の職業、20年前の“ある後悔”まで見抜いてみせる。&lt;br&gt;そして、なかば強引に大阪へ連れ出すが…そこで待ち受けていたのは――まさかの殺人事件！夏目漱石、太宰治、江戸川乱歩…&lt;br&gt;ルナは、文学の知識をフルに生かして事件の真相と入り組んだ人間ドラマを紐解いていく！&lt;br&gt;謎解きを楽しみながら教科書でおなじみの名作文学から生きるヒントを学べる！&lt;br&gt;あの日の葛藤、選択、後悔…人生を振り返って今よりちょっとだけ自分を愛せるようになる&lt;br&gt;笑って泣ける【痛快文学ロードミステリー】。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epe73663ta"/>
   </entry>
 </feed>
