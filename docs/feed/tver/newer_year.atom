@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-07T00:05:35+09:00</updated>
+  <updated>2026-04-07T02:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1448,45 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep9nwpn1f2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8h46jgnf</id>
-    <title>単身花日_[第5話「チヨコレイト ― 泥棒猫との再会」]</title>
-    <updated>2026-04-06T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwyop39fq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 単身花日
-                &lt;a href="https://tver.jp/series/srwyop39fq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月06日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8h46jgnf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/17(火)～ #1-#3&#13;&lt;br&gt;4/6(月)～ #4-#6&#13;&lt;br&gt;5/5(火)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ハウスメーカー「サンバスホーム・ハウジング」の桜木舜（重岡大毅）が東京出張から鹿児島に帰って来る日。舜のアパートでは、武田花（新木優子）がウキウキと手料理を準備していた。すると玄関のドアが開き、舜が帰宅…と思いきや、花の前に現れたのは、険しい顔をした片山直哉（田中樹）だった！　片山は、驚く花を強引に連れ出す。&#13;&lt;br&gt;そんなことがあったとはつゆ知らず、帰宅した舜は料理と花のメモを見て、“どうやって家に入ったんだ!?”とあ然…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8h46jgnf"/>
   </entry>
 </feed>
