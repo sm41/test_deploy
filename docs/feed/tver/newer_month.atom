@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-06T10:05:35+09:00</updated>
+  <updated>2026-04-06T12:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplr6u0rgs</id>
+    <title>流星花園II～花より男子～_[第17話　やさしい嘘]</title>
+    <updated>2026-04-06T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 流星花園II～花より男子～
+                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月06日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplr6u0rgs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                花沢類と過ごす時間で、つくしは徐々に元気を取り戻す。弦楽器工房でバイオリンを弾く類に魅せられたアミは勇気を出し告白するが、類は愛することと「好き」は違うと説き、アミはつくしへの思いを確かめる。一方、司はエルサに記憶が戻ったことを告げようとするがサクに阻止され、サクはエルサの秘密を司に語り始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplr6u0rgs"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epb83sgfgb</id>
+    <title>笑うハナに恋きたる_[第15話 止めても止まらぬ恋]</title>
+    <updated>2026-04-06T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 笑うハナに恋きたる
+                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月06日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月13日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月5日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb83sgfgb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ジェイの祖母はアンからある秘密を打ち明けられ、手のひらを返したかのように、ジェイとハナとの結婚に乗り気になる。一方、ジェイとの結婚を避けるため、シュウはタムにある依頼をする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epb83sgfgb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwo21xqsb</id>
     <title>#裏アカ教師_[【スマホ用】#4「私が慰めてあげる」]</title>
