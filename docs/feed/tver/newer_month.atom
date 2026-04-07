@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-07T20:06:35+09:00</updated>
+  <updated>2026-04-07T22:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epesctv7mg</id>
+    <title>東京P.D. 警視庁広報2係_[第11話 真実か事実か・・・明らかになる“死”の真相]</title>
+    <updated>2026-04-07T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07vn1iy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 東京P.D. 警視庁広報2係
+                &lt;a href="https://tver.jp/series/sri07vn1iy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月7日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epesctv7mg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                22年前、政和党幹事長・清原崇を爆殺しようとした真犯人・大沼保（大塚明夫）。その決定的な証拠となる改造携帯電話の発見に至ったものの、警視総監の藤原剣治（吹越満）は因果関係が立証できないとしてこれを認めず、そのまま時効を迎えてしまった。&lt;br&gt;&lt;br&gt;この状況に納得がいかない大沼は、集団移送中に逃走。伊澤家へと向かい、伊澤陽子（中込佐知子）のもとに来ていた安藤直司（緒形直人）に銃を突きつける。安藤が制止し揉み合いになるも、大沼はすかさず発砲。銃弾を受けた安藤を人質に取り、伊澤家に立てこもる。&lt;br&gt;ほどなくして、今泉麟太郎（福士蒼汰）ら広報課2係一同も、この立てこもり事件を知る。YBX社会部記者・稲田裕司（金子ノブアキ）には、大沼から直接連絡がきたらしく、この立てこもりの様子を全テレビ局で生中継しろと要求されたと明かす。&lt;br&gt;&lt;br&gt;伊澤家付近には規制線が張られ、SITや捜査一課の面々が伊澤家へ突入する準備を進めていた。そんなとき、捜査一課の管理官・上田学（神尾佑）の携帯電話に大沼から着信が入る。そして、大沼は要求を破れば安藤の命はないと言い捨てる。&lt;br&gt;いつでも突入できる準備は整うが、立てこもりの様子が中継されている今の状況では、SITの動きは大沼に筒抜け状態。今泉ら広報課2係は、報道各社の協力を得て中継映像に死角を作ろうとするのだが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epesctv7mg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuoivcacb</id>
     <title>ワカコ酒_[第2夜　焼き餃子]</title>
