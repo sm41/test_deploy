@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-07T16:06:35+09:00</updated>
+  <updated>2026-04-07T18:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epuoivcacb</id>
+    <title>ワカコ酒_[第2夜　焼き餃子]</title>
+    <updated>2026-04-07T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月7日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuoivcacb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                今宵の酒の肴は「焼き餃子」。今日も明日も、もう誰にも会う予定がないから、気兼ねなく食べられる。香ばしい皮にみっちりと肉が詰まり、ニンニクの香りを立ちのぼらせながら、カリッと焼き上がった餃子。それに合うのはビールだ……　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuoivcacb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplrseu8bv</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第１話「宮門への潜入」]</title>
