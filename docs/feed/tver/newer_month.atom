@@ -2,13 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-07T02:05:35+09:00</updated>
+  <updated>2026-04-07T10:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplrseu8bv</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第１話「宮門への潜入」]</title>
+    <updated>2026-04-07T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月7日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplrseu8bv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                江湖の二大門派･宮門と無鋒は長きにわたり対立を続けていた。無鋒は女刺客を没落した名家の娘･雲為衫（ユン・ウェイシャン）に仕立て上げ、宮門に潜入させようとしていた。目的は宮門の後継者の花嫁に選ばれること。一方、宮門の子息･宮子羽（ゴン･ズーユー）は花嫁候補の中に刺客がいるという情報を得て父と兄に知らせるが、それは無鋒が仕組んだ策略だった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplrseu8bv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epk05shiak</id>
+    <title>シェパード警部・ブロークンウッドの事件簿_[第23話「真夏のサンタクロース」前編]</title>
+    <updated>2026-04-07T03:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs493t4z6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シェパード警部・ブロークンウッドの事件簿
+                &lt;a href="https://tver.jp/series/srs493t4z6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_03時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_03時04分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk05shiak.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                町でクリスマスパレードが行われた日の夜、サンタ服を着た町長の遺体が自宅で発見された。発見者は一人娘のヘイリーだ。町長は首を刺されており、現場にはシャンパンと食べかけのパイ、煙のにおいが残されていた。来たる町長選挙をめぐる犯行を疑い、マイクたちは対立候補者の身辺を洗っていくが、第一容疑者として浮上してきたのは何とジャレッドだった。しかし、ジャレッドも町で倒れた状態で見つかり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epk05shiak"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3553ejs0</id>
+    <title>シカゴ･ファイア_[野心]</title>
+    <updated>2026-04-07T02:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ シカゴ･ファイア
+                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_02時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_02時34分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3553ejs0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第20話「野心」(吹替)&lt;br&gt;ミルズがレスキュー隊を目指すことをセブライドが後押ししていることで、ミルズは同僚から反感を買いつつある。救急の候補生タラはドーソンとシェイのもとで、2、3シフト研修することになる。そんな時、シェイは留守中のクリストファーの妻で妊娠中のシンディ・ハーマンを妊娠合併症から救う。一方ドーソンとケイシーは、再び心を寄せ合うが、ケイシーの元へ思いがけない人が訪ねて来る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3553ejs0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5jr4fqwp</id>
+    <title>時すでにおスシ!?_[放送直前スペシャル]</title>
+    <updated>2026-04-07T02:37:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 時すでにおスシ!?
+                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_02時37分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月09日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5jr4fqwp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                永作博美主演！笑いあり！ロマンスあり！おスシあり！の人生応援ドラマ！盛りだくさんの特別メイキング映像やキャストインタビューなど、ドラマの見どころを大公開！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5jr4fqwp"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep2c8gb9tv</id>
+    <title>田鎖ブラザーズ_[放送間近！完全ガイドSP]</title>
+    <updated>2026-04-07T02:37:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_02時37分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2c8gb9tv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                岡田将生×染谷将太による、警察官となった兄弟の完全オリジナルクライムサスペンス！豪華キャストのスペシャルインタビューとともに、ドラマの見どころに迫る！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2c8gb9tv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epsuusjuzp</id>
     <title>スモークブルーの雨のち晴れ_[第１話・再会]</title>
