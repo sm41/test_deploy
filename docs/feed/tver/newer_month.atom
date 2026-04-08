@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-08T02:06:35+09:00</updated>
+  <updated>2026-04-08T10:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eplorywa11</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第２話「あぶり出される刺客」]</title>
+    <updated>2026-04-08T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月22日(水)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月8日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplorywa11.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                宮子羽は、捕らえられた花嫁候補たちを宮門の外へ逃がそうとするが、雲為衫は彼の真意を訝り、一人別行動を取る。だが、宮子羽に見咎められ、止む無く行動を共に。そんな一行の行く手を毒に精通する宮遠徴（ゴン･ユエンジー）が阻む。彼のまいた毒によって一人の女が刺客としてあぶり出されるが、宮遠徴から敵意を露わにされた宮子羽は彼と刃を交える。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplorywa11"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epgipzng11</id>
     <title>失恋カルタ_[第２話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「こ」《ドラマイズム》]</title>
@@ -768,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epygajba3f"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep75gtmdu6</id>
-    <title>産まない女はダメですか？ DINKsのトツキトオカ_[第2話 「ケーキ叩き潰した夜」]</title>
-    <updated>2026-04-06T23:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94fxxt4d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 産まない女はダメですか？ DINKsのトツキトオカ
-                &lt;a href="https://tver.jp/series/sr94fxxt4d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月06日(月)_23時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_23時05分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep75gtmdu6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚5年目のDINKs夫婦・アサと哲也。毒親の過去から「子供は持たない」と誓うアサをよそに、父親願望を募らせた哲也は避妊具に細工をし、妻に望まぬ妊娠をもたらす。診察先の産婦人科には哲也の高校時代の後輩・沙也香が勤務しており、夫の裏切りと過去を知る女の存在が、アサの人生を大きく狂わせていく。　［期間限定無料配信］　毎週月曜夜11時6分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep75gtmdu6"/>
   </entry>
 </feed>
