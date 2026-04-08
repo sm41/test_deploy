@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-08T14:06:01+09:00</updated>
+  <updated>2026-04-08T16:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -568,85 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3553ejs0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5jr4fqwp</id>
-    <title>時すでにおスシ!?_[放送直前スペシャル]</title>
-    <updated>2026-04-07T02:37:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時すでにおスシ!?
-                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_02時37分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月09日(火)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5jr4fqwp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                永作博美主演！笑いあり！ロマンスあり！おスシあり！の人生応援ドラマ！盛りだくさんの特別メイキング映像やキャストインタビューなど、ドラマの見どころを大公開！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5jr4fqwp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2c8gb9tv</id>
-    <title>田鎖ブラザーズ_[放送間近！完全ガイドSP]</title>
-    <updated>2026-04-07T02:37:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 田鎖ブラザーズ
-                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_02時37分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月6日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2c8gb9tv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                岡田将生×染谷将太による、警察官となった兄弟の完全オリジナルクライムサスペンス！豪華キャストのスペシャルインタビューとともに、ドラマの見どころに迫る！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2c8gb9tv"/>
   </entry>
 </feed>
