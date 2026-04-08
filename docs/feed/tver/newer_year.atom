@@ -2,13 +2,493 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-08T22:06:01+09:00</updated>
+  <updated>2026-04-09T00:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzzbmb05g</id>
+    <title>相棒 season13_[第6話「ママ友」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzzbmb05g.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）と享（成宮寛貴）は、東京郊外の新興住宅地に住む雅代（岩崎ひろみ）という主婦から奇妙な話を聞く。一昨日、数組の家族で行ったバーベキューの最中に、一人の女性が突然、行方不明になってしまったという。バーベキューの参加者は近くの公園で知り合ったママ友4人とその夫や子供で、消えたのは半年前に引っ越してきた広子（三輪ひとみ）という独身女性。彼女は、写真を撮ると言って一人で山に入ると、そのまま戻らなかったといい、雅代はママ友の中に広子に危害を加えた犯人がいるのではないかと疑っていた。手掛かりは、参加メンバーみんながバーベキュー中に撮っていたスナップ写真。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzzbmb05g"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eprfrfll0v</id>
+    <title>相棒 season13_[第4話「第三の女」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprfrfll0v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                捜査一課に浅木真彩（原田夏希）という、警察庁に出向していた女性が新加入することになった。伊丹（川原和久）・芹沢（山中崇史）と組むことになった彼女は、早速ビルから転落死した身元不明女性の捜査に加わる。既に捜査に乗り出していた右京（水谷豊）と享（成宮寛貴）は、死亡直前の女性の行動から、警備会社の関係者ではないかと推理。調べると、彼女は警察庁を退職後に警備会社に移籍した名取恵子（菅原あき）という女性であることが分かる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprfrfll0v"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epm9s9xz04</id>
+    <title>トランジットガールズ_[第3話]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnnozfb8d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ トランジットガールズ
+                &lt;a href="https://tver.jp/series/srnnozfb8d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm9s9xz04.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;父親の葉山圭吾（Mummy-D）が志田まどか（霧島れいか）と再婚したことで、一つ屋根の下で暮らすことになった高校三年生の小百合（伊藤沙莉）とカメラマンアシスタントのゆい（佐久間由衣）。&lt;br&gt;ある夜、ゆいから「多分、あなたのことが好きなんだと思う」と真剣なまなざしで想いを伝えられ、小百合の気持ちは混乱する。&lt;br&gt;翌日、体調を崩してしまった小百合は、学校に出かけるふりをして近所にある神社へと向かう。その小百合の後をつけてきたゆい。しばらくして、小百合はゆいの姿に気付いて、イライラしながら「帰って」と言う。さらに、ゆいのことを「お姉ちゃんでもない」と言い放つと、一方のゆいも「あなたのこと妹と思ってない」とも言い返す。そんなゆいにため込んでいた不満をぶつけた小百合だったが、かなりの発熱で意識ももうろうとしていた。&lt;br&gt;家に帰り寝込むことになった小百合の枕元で、ゆいは付きっきりで世話をする。そして、2人の間に少しずつ変化が起きてくる・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トランジットガールズ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epm9s9xz04"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epk8d0bx4q</id>
+    <title>相棒 season13_[第3話「許されざる者」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk8d0bx4q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                出版社に勤める長谷川（夙川アトム）という男性が自室で殺害された。室内が派手に荒らされていたことから、捜査一課は強盗殺人の線で捜査を始める。しかし、長谷川は3年前、強盗殺人の容疑者として裁判にかけられたものの、人権派の女性弁護士・永井多恵（片岡礼子）の手腕もあって、無罪となった人物であることが判明。さらに、今回の現場マンションが巨大な密室状態になっていることを知った右京（水谷豊）は、そこにミステリーを感じ、享（成宮寛貴）と共に独自の捜査を開始する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epk8d0bx4q"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epi9ovl5ji</id>
+    <title>相棒 season13_[第8話「幸運の行方」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi9ovl5ji.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特命係の右京（水谷豊）と享（成宮寛貴）はとある街の商店街でパトロールをしていた。その商店街にある質店の気のいい店主・久米（矢崎滋）は、ある夜、腐れ縁の幼馴染みの小池（斉木しげる）が、見知らぬ若い女性とラブホテルに入っていく姿を目撃し、一部始終をスマホで録画する。久米は、小池の妻と昔から顔見知りなこともあって、その動画を手に小池を問い詰めるが、売り言葉に買い言葉で、本意とは裏腹に“口止め料”を受け取ってしまう。そんな中、度々質入れに来ている常連客の若者・平（足立理）に、金庫から金品を奪われてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi9ovl5ji"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epg1js55cv</id>
+    <title>相棒 season13_[第1話「ファントム・アサシン」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg1js55cv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ある日、右京（水谷豊）のもとに、かつて事件を通じて特命係とかかわったホームレスの吉田一郎（松尾貴史）が訪ねてくる。ゴミ箱から拾ったバラバラのレジュメを繋ぎ合わせたところ、そこには歩道橋から転落死したと報じられた男性会社員の詳細な個人情報が書かれていたという。それが何らかの事件であることを察した右京と享（成宮寛貴）は、独自の捜査を開始する。&#13;&lt;br&gt;そんな中、右京は歩道橋付近の防犯カメラに、先日絞殺された大学准教授が映っているのを発見。ふたつの事件の繋がりを疑う。そして、吉田から受け取ったレジュメから、社美彌子（仲間由紀恵）という女性の指紋が見つかる。彼女は、内閣情報調査室総務部門（通称・内調）に在籍する、情報機関のスペシャリストだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epg1js55cv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epdafljj3t</id>
+    <title>101回目のプロポーズ_[第12話 SAY YES]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 101回目のプロポーズ
+                &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月15日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1991年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdafljj3t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：03月13日(金) ～ 04月15日(水)&lt;br&gt;#4：03月16日(月) ～ 04月03日(金)&lt;br&gt;#5：03月19日(木) ～ 04月03日(金)&lt;br&gt;#6：03月22日(日) ～ 04月03日(金)&lt;br&gt;#7：03月25日(水) ～ 04月03日(金)&lt;br&gt;#8：03月28日(土) ～ 04月03日(金)&lt;br&gt;#9：03月31日(火) ～ 04月06日(月)&lt;br&gt;#10：04月03日(金) ～ 04月09日(木)&lt;br&gt;#11：04月06日(月) ～ 04月12日(日)&lt;br&gt;#12：04月09日(木) ～ 04月15日(水)&lt;br&gt;&lt;br&gt;薫（浅野温子）は、マンションでチェロの練習をしている。「一緒に暮らさないか」という藤井（長谷川初範）、「司法試験に合格したら、あの教会に婚約指輪を置いておきます」と言った達郎（武田鉄矢）。2人の顔が浮かんできた。&lt;br&gt;薫は達郎に、合格祈願にお守りを渡そうとした。マンションを訪れると達郎は留守。達郎は近くの神社でお百度参りをしていた。物陰からそれを見つめる薫。藤井は近く営業二部の部長になる。そんな藤井に薫はプロポーズに返事を・・・。そして達郎の司法試験発表の日。薫は教会へ出かけた。祭壇に指輪のケースが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『101回目のプロポーズ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdafljj3t"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epa6z1lqwf</id>
+    <title>相棒 season13_[第9話「サイドストーリー」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa6z1lqwf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                三塚奈々（まつながひろこ）という若い女性介護士が殺害される事件が発生。彼女はキャバクラ嬢という“別の一面”も持っていたため、ワイドショーなどでも大々的に取り上げられ、いわれのない中傷を受けていた。犯人は現行犯に近いかたちで逮捕されていたが、「真犯人は別にいる」という匿名の通報があり、特命係はその捜査を申しつけられる。早速、行動を開始した右京（水谷豊）と享（成宮寛貴）は、奈々が担当していた寝た切りの老婦人・佳枝（丘みつ子）のもとを訪れる。佳枝はかなり気難しいタイプで、面倒を見ている一人息子の茂樹（吉満寛人）も、仕事との板挟みで手を焼いている様子だった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa6z1lqwf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9actmkv7</id>
+    <title>相棒 season13_[第10話「ストレイシープ」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9actmkv7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                年の瀬の夕方、6歳の少年が何者かに公園で誘拐される。&#13;&lt;br&gt;その頃、杉下右京（水谷豊）は、西田悟巳（石田ひかり）という女性の葬儀に参列していた。彼女の遺品に右京宛ての手紙があったため、呼ばれたという。そこには右京への思いが綴られていた。&#13;&lt;br&gt;一方、警視庁では、元東京地検特捜部のエースで、現在は衆議院議員の橘高誠一郎（三浦浩一）の要請で、飛城雄一（平岳大）という男について報告が行われていた。飛城は新タイプの犯罪を次々と考案し、「犯罪の神様」とまで言われている男だというが、正体は警察でも掴めていなかった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9actmkv7"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8k58js06</id>
+    <title>相棒 season13_[第7話「死命」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8k58js06.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                享（成宮寛貴）は、悦子（真飛聖）から情報を得て、保険金殺人の疑いがある案件を単独捜査していた。被疑者は田無（米村亮太朗）という30代の男。彼は、4年前に20歳も年上の女性と結婚したが、2年後にその女性が急死し、巨額の保険金を受け取っていた。田無をマークしていた享は、右京（水谷豊）の助言で捜査一課に応援を要請。身柄の確保に動くが、追い詰められた田無は、享の目の前で自殺してしまう。捜査に落ち度はなかったものの、ショックを受けた享は辞職を考える。そんな中、田無の墓参りに訪れた享は、そこで彼の友人だという若い女性・美波（清水くるみ）と知り合う。享は美波に誘われ、若者たちを支援する団体へと向かうが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8k58js06"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5kmlrtig</id>
+    <title>相棒 season13_[第5話「最期の告白」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5kmlrtig.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）と享（成宮寛貴）が留置場に入れられる。発端は4日前。食事をしていた2人は、無銭飲食でわざと捕まろうとしている男・滝沢（佐藤正宏）と知り合う。体調も思わしくない様子の彼は、どうしても年越しを拘留施設で迎えたいのか、「5年前に人を殺した」と口走る。そのただならぬ様子に引っ掛かりを覚えた右京たちが、当時の事件を調べると、目黒区で起きた連続強盗殺人が浮かび上がってくる。しかし、岩倉（ダンカン）という男が犯人として捕まっており、既に死刑が確定していた。ただ、これまでの経緯から、この件に冤罪の可能性を感じた右京たちは、捜査を担当した中根署に出向く。そこは、享が特命係に移籍する前に刑事をしていた所轄署で、岩倉を取り調べたのは元上司の堀江（山口良一）だった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5kmlrtig"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep2g5pzdau</id>
+    <title>相棒 season13_[第2話「14歳」]</title>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season13
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2g5pzdau.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                文科省の官僚・高宮（山崎銀之丞）が殺人容疑で逮捕された。しかし、取り調べをのらりくらりとかわし、容疑を認めようとしない。そんな中、警察に「高宮は被害者に強請られていた」という告発メールが届く。一連の出来事に引っ掛かりを覚えた右京（水谷豊）と享（成宮寛貴）は、独自の捜査を開始。現場を調べていると、そこに容疑者・高宮の息子を名乗る、優（濱田龍臣）という14歳の少年が現れる。父が殺人などするはずがないと考え、自分で調べているらしい。そして、聡明で如才ない優は、右京から「密告メールを送ったのは君ですね」と指摘されても動じず、逆に「お2人を僕のゲームのプレイヤーに認定します」と不敵な態度を示す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2g5pzdau"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epp9polofi</id>
     <title>高原へいらっしゃい（佐藤浩市主演）_[第九話「仲間を裏切る野望」]</title>
@@ -1608,365 +2088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epm7jndn9j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqsjgqqse</id>
-    <title>スウィート･ホーム_[Vol.11 絶体絶命！傷だらけの翼]</title>
-    <updated>2026-04-07T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sracas9uue.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スウィート･ホーム
-                &lt;a href="https://tver.jp/series/sracas9uue" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqsjgqqse.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)13:00～4月12日(日)20:59&lt;br&gt;#4-6：3月26日(木)13:00～4月1日(水)12:59&lt;br&gt;#7-9：4月1日(水)13:00～4月7日(火)12:59&lt;br&gt;#10-12：4月7日(火)13:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;頼子（野際陽子）との最終面接で、塾に伝わる“合格カーディガン”を託された若葉（山口智子）は受験への勇気が湧く。吉永、桜井家でも面接の練習を繰り返し、各々が万全の体制で本番を迎える。&lt;br&gt;いよいよ１校目の試験当日。子供たちは満点の出来ながら、それぞれの父親が面接で足を引っ張り、結果は不合格に。そんな中、２校目で合格通知を得たのは吉永家だった。一方、滑り止め全てが不合格となり、焦りも頂点に達した若葉には信じがたいニュースがもたらされる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqsjgqqse"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiwhdpfhx</id>
-    <title>スウィート･ホーム_[Vol.10 合格の秘訣３ヵ条]</title>
-    <updated>2026-04-07T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sracas9uue.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スウィート･ホーム
-                &lt;a href="https://tver.jp/series/sracas9uue" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiwhdpfhx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)13:00～4月12日(日)20:59&lt;br&gt;#4-6：3月26日(木)13:00～4月1日(水)12:59&lt;br&gt;#7-9：4月1日(水)13:00～4月7日(火)12:59&lt;br&gt;#10-12：4月7日(火)13:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;頼子（野際陽子）から、名門校の慶陽を受験させてみては、と言われた若葉（山口智子）は上機嫌になる。早速、慶陽の入学説明会に出掛けた井上一家。そこで、翼（益田圭太）は「この学校に通いたい」と言い、若葉と実（布施博）を喜ばせた。&lt;br&gt;その週末、翼の受験に関する家族会議が井上家で開かれ、６校の志望校と願書提出の割り振りが決まった。頼子から最後の心構えを教えられ、若葉の気合も充分。やっと書き終えた願書は家族が分担して提出し終わり、あとは１ヶ月後の試験に向けてラストスパートあるのみだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiwhdpfhx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephr93kh0s</id>
-    <title>スウィート･ホーム_[最終回 翼の合格発表]</title>
-    <updated>2026-04-07T13:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sracas9uue.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スウィート･ホーム
-                &lt;a href="https://tver.jp/series/sracas9uue" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1994年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephr93kh0s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山口智子 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：3月8日(日)13:00～4月12日(日)20:59&lt;br&gt;#4-6：3月26日(木)13:00～4月1日(水)12:59&lt;br&gt;#7-9：4月1日(水)13:00～4月7日(火)12:59&lt;br&gt;#10-12：4月7日(火)13:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;周囲が合格の喜びに湧く中で、まだ合格の通知を得ていない若葉（山口智子）とかがり（高樹沙耶）は落ち込む。頼子（野際陽子）はそんな２人を「親子の愛情が奇跡を起こす」と励ますのだった。&lt;br&gt;しかし、実（布施博）は事業部存続をかけた重要な会議に出るべく、慶陽の面接を欠席することに。実に失望する若葉だったが、「男は仕事に必死なんだ」という武雄（橋爪功）の助言に頭を冷し、翼（益田圭太）と２人で面接に挑む決意を固める。受験当日、会議で熱意が認められ、部続行の感触を得た実は、そのまま面接会場へ急行しようとするが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephr93kh0s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ept9ftz507</id>
-    <title>大好き！五つ子5_[第27回]</title>
-    <updated>2026-04-07T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子5
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept9ftz507.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;桃子（森尾由美）は子どもたちが楠家に行くことを止め、かわりに自分が料理教室を休んで、千絵子（茅島成美）の世話をする決心をした。そんな中、紀香（荒井千歩）は千絵子を元気にするためにフラダンスを踊らせるということを思いつき、他の子どもたちも賛同する。しかし、楠家に行くことは止められていた。そこで、美穂（新穂えりか）は桃子が料理教室を休まないようにしむけ、その隙に楠家へ行こうと図る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ept9ftz507"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epg4nuivj4</id>
-    <title>花より男子_[＃５ 命がけの愛の告白]</title>
-    <updated>2026-04-07T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr43rylmfe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 花より男子
-                &lt;a href="https://tver.jp/series/sr43rylmfe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月13日(月)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg4nuivj4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月4日(土)0:00～4月24日(金)23:59&lt;br&gt;#4：4月4日(土)0:00～4月10日(金)11:59&lt;br&gt;#5：4月7日(火)12:00～4月13日(月)11:59&lt;br&gt;#6：4月10日(金)12:00～4月16日(木)11:59&lt;br&gt;#7：4月13日(月)12:00～4月19日(日)11:59&lt;br&gt;#8：4月16日(木)12:00～4月22日(水)11:59&lt;br&gt;#9：4月19日(日)12:00～4月24日(金)23:59&lt;br&gt;※本作品は5月29日(金)～6月30日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;下着姿でイケメンの男とホテルのベッドで寝ているつくし（井上真央）の写真が、大量に学園のカフェで貼り出された。ショックを受けた道明寺（松本潤）は、つくしに背を向ける。身に覚えのないつくしは、心配した桜子（佐藤めぐみ）の提案で、誤解を解くために道明寺の家を訪れるが、逆に怒りを買ってしまう。そんな中、つくしは家族と食卓で写真を撮っているうちに、ホテルの部屋にシャッターを切った第三者がいたことに気付く。自分が何者かにはめられたことに気付いたつくしは、犯人探しに乗り出そうとするが、桜子はつくしを信用しない道明寺のためには協力できないという。一方、つくしがアルバイト先の団子屋で優紀（西原亜希）とその話をしていると、西門（松田翔太）と美作（阿部力）が現れる。探偵ごっこを手伝うと言う西門に、美作は店番をおしつけられてしまう。そして写真からイケメン男がつけていた指輪を入手した店を調べた西門は、男の正体がホストのリュウジ（半田健人）だとつきとめる。その頃、桜子はつくしを罠にはめた犯人をはっきりさせようと、道明寺を呼び出していた。西門と犯人探しをしていたつくしは、偶然、街で道明寺と桜子とすれ違う。しかし、道明寺はつくしに一瞥もくれず、去ってしまう。そんな道明寺の態度に、なぜか胸が痛むつくし。そんな折、桜子から「道明寺が仲直りをしたいと言っているから私の家に来て」と電話で呼び出されたつくしは…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epg4nuivj4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep56ru3t3k</id>
-    <title>御上先生_[Episode 9 -joker-]</title>
-    <updated>2026-04-07T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 御上先生
-                &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep56ru3t3k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 主演：岡田将生 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：八村倫太郎 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月18日(水)12:00～4月17日(金)21:59&lt;br&gt;#4：3月20日(金)12:00～3月27日(金)11:59&lt;br&gt;#5：3月24日(火)12:00～3月31日(火)11:59&lt;br&gt;#6：3月27日(金)12:00～4月3日(金)11:59&lt;br&gt;#7：3月31日(火)12:00～4月7日(火)11:59&lt;br&gt;#8：4月3日(金)12:00～4月10日(金)11:59&lt;br&gt;#9：4月7日(火)12:00～4月14日(火)11:59&lt;br&gt;#10：4月10日(金)12:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;「助けて」という富永蒼（蒔田彩珠）の元に向かった御上（松坂桃李）と次元（窪塚愛流）。彼らが目にしたのは、聡明で明るい彼女とは程遠い、苦しみを抱えた姿だった…。&lt;br&gt;さらに、冴島（常盤貴子）から語られる隣徳学院で起きた出来事や、戸倉樹（高橋恭平）が背負っていた苦悩も明かされ、つまびらかになり始める隣徳の不正。&lt;br&gt;そして遂に、３年２組の中で不正入学をした生徒の名前が判明し、ヤマトタケルが姿を現す。その人物は、本当に味方なのか、それとも敵なのか――。&lt;br&gt;物語は最大のクライマックスへ――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep56ru3t3k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3hmq7vof</id>
-    <title>ホテルコンシェルジュ_[最終話 涙のラストサプライズ！母娘に奇跡を]</title>
-    <updated>2026-04-07T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7iuxdsrd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ホテルコンシェルジュ
-                &lt;a href="https://tver.jp/series/sr7iuxdsrd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3hmq7vof.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】日曜劇場「ＧＩＦＴ」４月１２日（日）よる９時スタート！ 出演：山田裕貴 関連作品を期間限定配信！！&lt;br&gt;【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：赤間麻里子 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)12:00～4月12日(日)20:59&lt;br&gt;#4：3月23日(月)12:00～3月28日(土)11:59&lt;br&gt;#5：3月26日(木)12:00～3月31日(火)11:59&lt;br&gt;#6：3月28日(土)12:00～4月2日(木)11:59&lt;br&gt;#7：3月31日(火)12:00～4月5日(日)11:59&lt;br&gt;#8：4月2日(木)12:00～4月7日(火)11:59&lt;br&gt;#9：4月5日(日)12:00～4月10日(金)11:59&lt;br&gt;#10：4月7日(火)12:00～4月12日(日)20:59&lt;br&gt;------------&lt;br&gt;大手エステ会社「エリコツバキビューティー」のイベント前日、塔子（西内まりや）の言動がきっかけで椿映里子社長（泉ピン子）はイベント中止を宣言。さらに、３０周年のキャンペーンも全て白紙に戻すという。フォルモントにとっては絶体絶命のピンチ。塔子は謝罪するが、GMの美穂子（若村麻由美）からは謝って済むレベルではないと叱責される。一方、総支配人の鷲尾（高橋克典）は冷静に塔子を諭す。その後、社長の成沢（伊武雅刀）を加えて緊急会議が開かれた。映里子と旧知の成沢は彼女の言動を訝しがる。その席上、本城（三浦翔平）は自分に映里子の説得を任せて欲しいと言い出す。映里子は娘の美麗（内山理名）に全てを託して会社から手を引くことを密かに考えていて、本城はその極秘文書の作成を頼まれていたのだ。全てを任された本城の説得で映里子は宣言を撤回、イベントは予定通り行われることになった。そしてイベント開始直前、塔子が椿親子に仲直りしてもらいたいと言い出す。美穂子はまたかと怒るが、珍しく本城がこれに賛同。塔子と本城の熱弁を聞いた美穂子は、２人へのサプライズを提案する。イベントが終わるまでにサプライズの準備を完了しなければならない。鷲尾の指揮の下、成沢までも巻き込んだフォルモントを上げてのサプライズが始まる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3hmq7vof"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephh3a5b4p</id>
-    <title>山田太郎ものがたり_[第五話 灼熱!!浴衣デート]</title>
-    <updated>2026-04-07T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9up5tnir.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 山田太郎ものがたり
-                &lt;a href="https://tver.jp/series/sr9up5tnir" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephh3a5b4p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月4日(土)0:00～4月24日(金)23:59&lt;br&gt;#4：4月4日(土)0:00～4月9日(木)9:59&lt;br&gt;#5：4月7日(火)10:00～4月12日(日)9:59&lt;br&gt;#6：4月9日(木)10:00～4月14日(火)9:59&lt;br&gt;#7：4月12日(日)10:00～4月17日(金)9:59&lt;br&gt;#8：4月14日(火)10:00～4月19日(日)9:59&lt;br&gt;#9：4月17日(金)10:00～4月22日(水)9:59&lt;br&gt;#10：4月19日(日)10:00～4月24日(金)23:59&lt;br&gt;※本作品は5月29日(金)～6月30日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;期末試験の成績が発表された。３年生は今回も太郎（二宮和也）と御村（櫻井翔）が満点の同点１位だ。夏休みを前に、特別進学クラスでは進路指導が行われることに。太郎は１年の頃から就職を希望しているが、鳥居（吹石一恵）は太郎に大学進学を勧める。しかし、太郎は「家が貧乏なので（進学は無理）」の一点張り。困り果てた鳥居は、御村に助けを求める。全てを知っている御村は「家庭訪問したら？」とアドバイス。早速山田家を家庭訪問した鳥居は、太郎の状況を知って愕然とする。一方、太郎が貧乏だと知った隆子（多部未華子）はまともに太郎と目を合わせられなくなっていた。玉の輿に乗ることが夢の隆子にとって、貧乏な太郎は恋愛対象にならないのだ。懸命に忘れようとする隆子だったが、御村から「お金以外に大事なものがあるのでは？」と言われ…。そんなある日、太郎は家族と七夕のお願いごとを書いて笹に飾ることに。するとよし子（村中暖奈）が短冊に「新しい洋服が欲しい」と書いた。友だちとお祭りに行くというよし子に太郎が「彼氏？」と聞くと、よし子が顔を真っ赤にする。ショックを受ける太郎だったが、よし子のために浴衣を用意しようと奔走する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephh3a5b4p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep421kungb</id>
-    <title>特上カバチ!!_[＃５ 息子名義で金借りまくるオヤジをしばき倒す秘策 鬼の大野の目にも涙!!!の巻]</title>
-    <updated>2026-04-07T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1lw5e8zw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 特上カバチ!!
-                &lt;a href="https://tver.jp/series/sr1lw5e8zw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月12日(日)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep421kungb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月4日(土)0:00～4月24日(金)23:59&lt;br&gt;#4：4月4日(土)0:00～4月9日(木)9:59&lt;br&gt;#5：4月7日(火)10:00～4月12日(日)9:59&lt;br&gt;#6：4月9日(木)10:00～4月14日(火)9:59&lt;br&gt;#7：4月12日(日)10:00～4月17日(金)9:59&lt;br&gt;#8：4月14日(火)10:00～4月19日(日)9:59&lt;br&gt;#9：4月17日(金)10:00～4月22日(水)9:59&lt;br&gt;#10：4月19日(日)10:00～4月24日(金)23:59&lt;br&gt;※本作品は5月29日(金)～6月30日(火)にも配信を行います&lt;br&gt;------------&lt;br&gt;合コン帰りにばったり出くわした田村（櫻井翔）と美寿々（堀北真希）は、大野（中村雅俊）が女子高校生にお金を手渡しする場面に遭遇。美寿々は大野に抗議しようとするが、以前にも同じような光景を見たことのある田村はそれを阻止。触れられない問題だといい、美寿々に呆れられる。だがその女子高生は大野の娘・杏（菊里ひかり）で…。そんな中、大野は杏の誕生日にレストランを予約していたが「約束があるから」とあっさりと振られてしまったことを検備沢（浅野ゆう子）に相談。「彼氏が出来たんじゃない？」と言われた大野は不安でたまらない。大野は、事務所の面々に杏の交友関係を調べるように指示。田村は美寿々と栄田（高橋克実）と共に杏のデートを尾行することに…。そんな中、栄田が杏の彼・甲斐洸（太賀）には未成年とは思えない多額の借金があることを突き止める。大野は何としても杏から洸を引き離そうとするのだが…。一方、田村は洸の借金は実は彼の父・正太郎（山崎銀之丞）が借りたものであること、正太郎が洸の勤務先の経理担当者を騙して、給料を全額横取りしたことを知る。見かねた田村が正太郎の元を訪ねるが、正太郎は未成年の法的弱みを知り尽くしたなかなかの曲者で、田村は何も出来ずに退散する羽目に。未成年の息子名義で借金しまくる父に対する究極の秘策はあるのか？果たして田村と美寿々は洸を守ることが出来るのか…！！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep421kungb"/>
   </entry>
 </feed>
