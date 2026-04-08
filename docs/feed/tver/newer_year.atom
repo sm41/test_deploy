@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-08T16:06:01+09:00</updated>
+  <updated>2026-04-08T18:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp9polofi</id>
+    <title>高原へいらっしゃい（佐藤浩市主演）_[第九話「仲間を裏切る野望」]</title>
+    <updated>2026-04-08T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9jlde09p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 高原へいらっしゃい（佐藤浩市主演）
+                &lt;a href="https://tver.jp/series/sr9jlde09p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_17時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp9polofi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：染谷将太・井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)18:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)18:00～3月30日(月)17:59&lt;br&gt;#5：3月27日(金)18:00～4月2日(木)17:59&lt;br&gt;#6：3月30日(月)18:00～4月5日(日)17:59&lt;br&gt;#7：4月2日(木)18:00～4月8日(水)17:59&lt;br&gt;#8：4月5日(日)18:00～4月11日(土)17:59&lt;br&gt;#9：4月8日(水)18:00～4月14日(火)17:59&lt;br&gt;#10：4月11日(土)18:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;小池（菅原文太）から「２０年前に働いていたシンガポールのオリエントホテルを売却して従業員を放り出したのが矢野社長（竹脇無我）だ。そこの二の舞いにはさせられない」と聞かされた面川（佐藤浩市）たち。このホテルだけは守りたいという小池に、若月（西村雅彦）は「このホテルは１０月に売却されます」と告げる。そんな中、ホテルに沖修介（宅麻伸）という男が外国人女性と共にやって来た。沖は八ヶ岳高原ホテルのボイラー室など、様々な場所を覗き込んだり、怪しい行動を取る。その後、作業着姿の宮梶幸雄（光石研）という男がホテルを訪れ、泊めてほしいと告げる。その宮梶が、暗くなってから外へ出て暗がりで倒れているのを近所の人が発見し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp9polofi"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy8ff6cxd</id>
     <title>なにさまっ!_[第十話 イタリアからの男]</title>
@@ -1928,45 +1968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep421kungb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2jmvl2tu</id>
-    <title>佐原先生と土岐くん_[第６話《ドラマシャワー》]</title>
-    <updated>2026-04-07T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmoy2dks.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 佐原先生と土岐くん
-                &lt;a href="https://tver.jp/series/srxmoy2dks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月07日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月14日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2jmvl2tu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                文化祭が終了し、高校２年の土岐奏（八村倫太郎）は進路を考える時期に差し掛かっていた。周りの友人たちが夢に向かって具体的な進路を決めている中、土岐は未だに自分の将来についての明確な答えを持っていないことに焦りを感じ始めていた。そんな中、清笠高校に新任の教師、猫戸湊（堀海登）がやって来る。猫戸は偶然にも、佐原の高校時代の水泳部の後輩だというが、佐原との間には何か気まずい雰囲気が漂っており……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2jmvl2tu"/>
   </entry>
 </feed>
