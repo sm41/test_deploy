@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-08T20:06:01+09:00</updated>
+  <updated>2026-04-08T22:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3dvey0ax</id>
+    <title>ボーダレス～広域移動捜査隊～_[第1話 3つの強盗傷害事件を追え！]</title>
+    <updated>2026-04-08T22:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
+                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月8日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3dvey0ax.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                新たな刑事ドラマが、いま始動する。&#13;&lt;br&gt;&#13;&lt;br&gt;警察庁が試験的に立ち上げた【移動捜査課】――事件現場へ捜査本部ごと向かう《爆走する捜査本部》という、前代未聞の発想が、警察の常識を覆していく。&#13;&lt;br&gt;&#13;&lt;br&gt;若き刑事・黄沢蕾（佐藤勝利）が飛び乗ったのは、その中核を担う捜査本部車【一番星】。警視庁の地下駐車場を飛び出したトラックは、警察内部に根付く縄張り意識という“見えない壁”を越える存在として、街へと走り出す。&#13;&lt;br&gt;&#13;&lt;br&gt;港区と文京区で連続発生した高齢夫婦を狙う緊縛強盗事件を巡り、課長の赤瀬則文（井ノ原快彦）率いる【移動捜査課】は、反発渦巻く所轄署の狭間で捜査を開始。配属されたばかりの黄沢蕾は、「警察は一つではないのか」という疑問を胸に、最前線へと放り込まれていく。&#13;&lt;br&gt;&#13;&lt;br&gt;そんな矢先、千葉県市川市で三件目の事件が発生し、警視庁と千葉県警の対立まで絡み合い、捜査は一気に混迷を深める。&#13;&lt;br&gt;&#13;&lt;br&gt;その最中、事件に関与したという若い男が自首し、阿久津翔一（菅生新樹）の存在が浮かび上がるが、その供述には拭えない違和感が残る。仲沢桃子（土屋太鳳）と共に真相を追う黄沢蕾は、整備士・緑川宗一郎（北大路欣也）の言葉「ノイズをよく聞け」を手がかりに、事件の核心へ迫っていく。&#13;&lt;br&gt;&#13;&lt;br&gt;最初の事件――【一番星】は、警察のあらゆる“境界”を越えて、止まることなく走り出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3dvey0ax"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplorywa11</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第２話「あぶり出される刺客」]</title>
