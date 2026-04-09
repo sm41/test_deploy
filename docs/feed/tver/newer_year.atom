@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-09T16:06:01+09:00</updated>
+  <updated>2026-04-09T18:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epi5pxeiuz</id>
+    <title>９ボーダー_[最終話 怒涛のラストイヤー、辿り着いた未来]</title>
+    <updated>2026-04-09T17:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr300qdjh0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ９ボーダー
+                &lt;a href="https://tver.jp/series/sr300qdjh0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi5pxeiuz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：内田慈 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：3月13日(金)17:00～4月17日(金)21:59&lt;br&gt;#4：3月16日(月)17:00～3月24日(火)16:59&lt;br&gt;#5：3月20日(金)17:00～3月28日(土)16:59&lt;br&gt;#6：3月24日(火)17:00～4月1日(水)16:59&lt;br&gt;#7：3月28日(土)17:00～4月5日(日)16:59&lt;br&gt;#8：4月1日(水)17:00～4月9日(木)16:59&lt;br&gt;#9：4月5日(日)17:00～4月13日(月)16:59&lt;br&gt;#10：4月9日(木)17:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;リニューアルしたおおば湯は、新設した酵素風呂と飲食部門の集客に伸び悩んでおり、七苗（川口春奈）は頭を抱えていた。さらに、清澄白河で再開発計画が持ち上がり、なんとおおば湯のある商店街が丸ごと立ち退きを要請される事態に！しかも、それはコウタロウ（松下洸平）が働く会社のプロジェクトだった…。そのことを知った七苗は複雑な気持ちを抱えるも、おおば湯の経営安定に集中することを決意する。しかし、ふとした時に思い出すのはコウタロウのこと。一方、芝田悠斗として暮らすコウタロウもまた、日常の中でふいに七苗を思い出していた。そして、松嶋（井之脇海）からプロポーズされた六月（木南晴夏）は、松嶋に自分の思いを伝えることを決意。八海（畑芽育）が自分の夢に向かって突き進んでいるなか、時おり口にする立花の名前に陽太（木戸大聖）はモヤモヤを募らせていた。“モヤり”や“焦り”を感じながらも前に進んできた３姉妹の恋の行方、そして、それぞれが選ぶ未来とは…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi5pxeiuz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu0ui9xss</id>
     <title>大好き！五つ子5_[第29回]</title>
@@ -1808,165 +1848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnpk1vv9h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnjbw3ysb</id>
-    <title>バーテンダー_[glass 4]</title>
-    <updated>2026-04-08T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf4t7nxzl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バーテンダー
-                &lt;a href="https://tver.jp/series/srf4t7nxzl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnjbw3ysb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/ 4(土) ～ #1-#3&#13;&lt;br&gt;4/ 8(水) ～ #4-#6&#13;&lt;br&gt;4/18(土)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;斬新かつ万人受けする特集の企画を出そうと息巻く美和（貫地谷しほり）に頼まれ、溜（相葉雅紀）は大人気のバーへ付き添い、プロの視点で評価することに。ところが、目当てのバーは定休日。2人はその店の地下にあった「バー・ノースウィンド」に入る。退廃的な空気を漂わせる北方（カンニング竹山）がバーテンダーを務めるその店は、客層も店内の雰囲気も品のある「ラパン」とは真逆。美和は中に入るのを躊躇するが、北方の姿を見た溜は進んでカウンターに座り、ブラッディ・メアリーを注文する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnjbw3ysb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplmoqp6hl</id>
-    <title>和田家の男たち_[第5話]</title>
-    <updated>2026-04-08T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf3b7pcrx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 和田家の男たち
-                &lt;a href="https://tver.jp/series/srf3b7pcrx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplmoqp6hl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/4(土) ～　#1-#3&#13;&lt;br&gt;4/8(水) ～　#4-#6&#13;&lt;br&gt;4/18(土)～　#7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;和田寛（段田安則）の恋バナを題材に記事を書いた優（相葉雅紀）だったが、思うようにビューが伸びず三ツ村翔星（正門良規）から扱う題材について指摘を受けてしまう。さまざまな記事内容を提案するも、「ユーザーの好みに合わない記事を出すのは書き手の自己満足でしかない」とあしらわれ…。&#13;&lt;br&gt;そんな優のもとに、ある日ネットニュースサイト『ニュース・チェイス』編集部の片岡直樹（野間口徹）から連絡が来る。奇しくも『バズとぴ』の方針に疑問を抱いていた優。寛からは「不義理をしても羽ばたいたほうがいいときはある。波に乗らないでどうする」と背中を押され、片岡に会ってみることに！&#13;&lt;br&gt;すると、思いがけず『バズとぴ』での記事を絶賛され、“専属契約”まで提示された優の心は大きく揺れ動き…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplmoqp6hl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkh73d8k0</id>
-    <title>バーテンダー_[glass 6]</title>
-    <updated>2026-04-08T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf4t7nxzl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バーテンダー
-                &lt;a href="https://tver.jp/series/srf4t7nxzl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkh73d8k0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/ 4(土) ～ #1-#3&#13;&lt;br&gt;4/ 8(水) ～ #4-#6&#13;&lt;br&gt;4/18(土)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;かつて溜（相葉雅紀）をクビにした「ラッツホテル」のチーフバーテンダー・加瀬五朗（竹中直人）が、フランス大使館が主催するパーティーのため、フレンチシェフの山之内清治（大友康平）を伴って凱旋来日した。美和（貫地谷しほり）とともに泰三（津川雅彦）のもとを訪れた溜は、奇しくもそこで加瀬と再会する。加瀬は泰三に頼まれ、「ホテルカーディナル」で行われるフランスフェアの特別顧問を引き受けていたのだ。気まずさを感じながらも、加瀬に近況を報告しようとする溜。ところが、加瀬は優しい口調で「君と僕は、もう師匠でも弟子でもないんだから」と告げ、話を遮る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkh73d8k0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epii4vbobb</id>
-    <title>左ききのエレン_[第４話「サラリーマンやれよ」]</title>
-    <updated>2026-04-08T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry4mvr2wk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 左ききのエレン
-                &lt;a href="https://tver.jp/series/sry4mvr2wk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月21日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epii4vbobb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ポテトやの担当営業・流川俊（吉村界人）は、朝倉光一（神尾楓珠）が提出したクリエイティブ至上主義の案に苛立ちを見せていた。そんな中、光一は上司の神谷雄介（石崎ひゅーい）から、流川がクリエイティブを憎むきっかけとなったある出来事を聞かされる……。再びキャンバスに向かいはじめた山岸エレン（池田エライザ）だったが、一足飛びにはいかず、マネージャーの加藤さゆり（中村ゆりか）も手を焼いていた。そんなある日、天才モデル・岸あかり（八木アリサ）が突然２人の前に現れて……！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epii4vbobb"/>
   </entry>
 </feed>
