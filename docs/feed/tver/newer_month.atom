@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-10T04:28:29+09:00</updated>
+  <updated>2026-04-10T10:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -888,45 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3dvey0ax"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplorywa11</id>
-    <title>雲之羽～揺らめく愛、刹那の二人～_[第２話「あぶり出される刺客」]</title>
-    <updated>2026-04-08T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
-                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月08日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月22日(水)_10時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月8日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplorywa11.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                宮子羽は、捕らえられた花嫁候補たちを宮門の外へ逃がそうとするが、雲為衫は彼の真意を訝り、一人別行動を取る。だが、宮子羽に見咎められ、止む無く行動を共に。そんな一行の行く手を毒に精通する宮遠徴（ゴン･ユエンジー）が阻む。彼のまいた毒によって一人の女が刺客としてあぶり出されるが、宮遠徴から敵意を露わにされた宮子羽は彼と刃を交える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplorywa11"/>
   </entry>
 </feed>
