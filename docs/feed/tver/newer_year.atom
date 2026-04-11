@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-11T16:06:30+09:00</updated>
+  <updated>2026-04-11T18:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epppn3mk07</id>
+    <title>高原へいらっしゃい（佐藤浩市主演）_[最終回スペシャル「また会う日まで！それぞれの旅立ち」]</title>
+    <updated>2026-04-11T18:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9jlde09p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 高原へいらっしゃい（佐藤浩市主演）
+                &lt;a href="https://tver.jp/series/sr9jlde09p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月11日(土)_18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epppn3mk07.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「田鎖ブラザーズ」４月１７日（金）よる１０時スタート！ 出演：染谷将太・井川遥 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)18:00～4月17日(金)21:59&lt;br&gt;#4：3月24日(火)18:00～3月30日(月)17:59&lt;br&gt;#5：3月27日(金)18:00～4月2日(木)17:59&lt;br&gt;#6：3月30日(月)18:00～4月5日(日)17:59&lt;br&gt;#7：4月2日(木)18:00～4月8日(水)17:59&lt;br&gt;#8：4月5日(日)18:00～4月11日(土)17:59&lt;br&gt;#9：4月8日(水)18:00～4月14日(火)17:59&lt;br&gt;#10：4月11日(土)18:00～4月17日(金)21:59&lt;br&gt;------------&lt;br&gt;八ヶ岳高原ホテルはユナイトホテルに買収されてしまった。その話を聞いた祐子（余貴美子）は、父・矢野（竹脇無我）のもとへ押しかける。一方、沖（宅麻伸）は、面川（佐藤浩市）と小池（菅原文太）だけはホテルに残って欲しいと告げた。これに対し、面川はスタッフ全員の雇用を条件として提案したが却下される。面川は動揺するスタッフ全員に頭を下げる。「我々に残された１日１日だけのことを考えましょうよ。今はまだここは私たちのホテルなんだから」との小池の言葉に、スタッフ全員が前を向き、ホテル最後の日まで頑張る決意をする。ホテル最終日には祐子が息子の大（染谷将太）を連れてホテルにやってきた。ホテルスタッフ全員がバラバラの道を歩むことに。そして１年後、ホテルスクールの講師をしていた面川に、大が「また、八ヶ岳高原ホテルに行きたい」と言い出し、祐子と３人で再び高原のホテルを訪れることになった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epppn3mk07"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epedsil9ix</id>
     <title>クリスマス･イヴ_[最終夜「この日を忘れない」]</title>

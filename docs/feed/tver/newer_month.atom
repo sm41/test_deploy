@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-11T16:06:30+09:00</updated>
+  <updated>2026-04-11T18:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -488,45 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnlg7bize"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjeicq945</id>
-    <title>あざとかわいいワタシが優勝_[第2話]</title>
-    <updated>2026-04-09T21:53:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreel7k3xi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あざとかわいいワタシが優勝
-                &lt;a href="https://tver.jp/series/sreel7k3xi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_21時53分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月9日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjeicq945.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「あざとかわいい」、それは周到に用意された鎧。&lt;br&gt;松嶋琴音（大友花恋）は、清水課長（船津稜雅）と佐原なず奈（桜井玲香）が二人きりになるのを阻止するため、捨て身の作戦で二人のランチに乗り込む。手作り弁当で清水の胃袋を掴み手応えを感じる琴音だったが、なず奈もまた、清水へのぬかりないアピールで応戦する。&lt;br&gt;そんな中、部署を揺るがす重大なミスが発覚。窮地に立たされた琴音を前に、なず奈は教育係として「私の責任です」とフォローに入る。このピンチを逆手に取り、休日出勤を通じて清水への接近を試みる二人だったが、なず奈はしたたかなあざとさで清水との距離を急速に縮めていき――！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjeicq945"/>
   </entry>
 </feed>
