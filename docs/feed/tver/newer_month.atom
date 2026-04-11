@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-11T14:06:30+09:00</updated>
+  <updated>2026-04-11T16:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -528,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epjeicq945"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8kpcvapz</id>
-    <title>最後の雨が降るとき_[第9話　ウソに隠された願い]</title>
-    <updated>2026-04-09T19:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 最後の雨が降るとき
-                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月09日(木)_19時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月09日(土)_19時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月9日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8kpcvapz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                雲神(トエム)は、なぜ風神(ファリ)が雨神(オラド)を使って天娣(ティエンディ)に手を下そうとしているのか疑問に思い、風神を問い詰める。一方、天娣は旅行プランを心臓病の少女・頌恩(ソンエン)に伝えるが、直後に頌恩は倒れてしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8kpcvapz"/>
   </entry>
 </feed>
