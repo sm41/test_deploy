@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-13T04:45:37+09:00</updated>
+  <updated>2026-04-13T10:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epq9srvpja</id>
+    <title>VIVANT_[最終話 40年の宿命が完結！選ぶのは父か日本か？]</title>
+    <updated>2026-04-13T05:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ VIVANT
+                &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月13日(月)_05時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月18日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq9srvpja.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】日曜劇場『VIVANT』続編 ７月スタート！ 前作を期間限定配信！！&lt;br&gt;------------&lt;br&gt;#1-3：3月22日(日)5:00～4月18日(土)23:59&lt;br&gt;#4：3月28日(土)5:00～4月3日(金)4:59&lt;br&gt;#5：3月31日(火)5:00～4月6日(月)4:59&lt;br&gt;#6：4月3日(金)5:00～4月8日(水)4:59&lt;br&gt;#7：4月6日(月)5:00～4月11日(土)4:59&lt;br&gt;#8：4月8日(水)5:00～4月13日(月)4:59&lt;br&gt;#9：4月11日(土)5:00～4月16日(木)4:59&lt;br&gt;#10：4月13日(月)5:00～4月18日(土)23:59&lt;br&gt;------------&lt;br&gt;「私は、“別班”の任務としてここに来ました」乃木（堺雅人）が“別班”を裏切っていなかったことが判明。そして、撃たれた別班員たちは急所を外されていて、日本で生きていた。事実を知って激昂するノコル（二宮和也）と、乃木の言葉に刀を抜くベキ（役所広司）。過酷な運命を乗り越えた親子。４０年の時を超えた宿命の物語の結末は―。愛を探す冒険の果てに、それぞれの想いが集結する！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epq9srvpja"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo1i25dtn</id>
     <title>セレブ男子は手に負えません_[#1　それって管理人の仕事ですか？]</title>

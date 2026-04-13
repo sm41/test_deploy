@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-13T04:45:37+09:00</updated>
+  <updated>2026-04-13T10:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epjd8gdir0</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第４話「もう一人の刺客」]</title>
+    <updated>2026-04-13T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月13日(月)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月13日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjd8gdir0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                執刃の座についた宮子羽はまず父と兄の死への疑念を払うべく、２人の死体を調べることにする。２人が毒に侵されたことは紛れもなく、毒薬を扱う宮遠徴を尋問するも、反発を招くだけだった。雲為衫は無鋒が放ったもう一人の刺客、上官浅と力を合わせようとするが、上官浅は自分に与えられた任務を明かそうとはしなかった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjd8gdir0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eph7p3jruz</id>
     <title>#裏アカ教師_[【スマホ用】#5「はめられた不倫教師」]</title>
@@ -768,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep26s67iyp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxuogfw1u</id>
-    <title>あやしいパートナー ～Destiny Lovers～_[第２話「原因と結果」]</title>
-    <updated>2026-04-10T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
-                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月10日(金)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月17日(金)_14時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月10日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxuogfw1u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                恋人ヒジュンの殺人の疑いをかけられたボンヒはジウクを頼るが、ジウクは地検長から必ずボンヒを有罪にするよう言われ思い悩む。ジウクは、毛嫌いしている弁護士ウニョクに、誰も引き受けない彼女の弁護を依頼し、捜査を進めるが、ある証拠がでてきて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxuogfw1u"/>
   </entry>
 </feed>
