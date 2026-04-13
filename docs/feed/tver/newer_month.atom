@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-13T12:05:27+09:00</updated>
+  <updated>2026-04-13T14:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -728,85 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epd62670cq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm5zdn0jo</id>
-    <title>週末旅の極意3～結婚ってしなきゃいけないもの？～_[第2話 結婚の矛盾]</title>
-    <updated>2026-04-11T01:23:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srky6tgtpk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 週末旅の極意3～結婚ってしなきゃいけないもの？～
-                &lt;a href="https://tver.jp/series/srky6tgtpk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月11日(土)_01時23分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_00時52分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月10日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm5zdn0jo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「結婚」について考えるために始まった綾香（深川麻衣）と隆（千賀健永）の「週末旅」。綾香の口から思わぬ事実が明らかになり、隆は綾香と結婚するべきなのか心が揺れていた…。そんな隆が、自身の本心を確かめるために週末旅の目的地に決めたのは、2人が付き合って初めて旅行をした京都。付き合いたての頃のように街歩きをし、宿で過ごす時間に癒され、グルメを満喫する時間を過ごす。そんな中、隆が気付いた気持ちとは―。　［期間限定無料配信］　毎週金曜深夜24時52分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm5zdn0jo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1m5ca45g</id>
-    <title>この番組は番宣番組です。_[「地球最後のテレビマン　宇佐美一男」]</title>
-    <updated>2026-04-11T01:19:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl54cw6st.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ この番組は番宣番組です。
-                &lt;a href="https://tver.jp/series/srl54cw6st" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月11日(土)_01時19分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_00時49分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月10日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1m5ca45g.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                この番組はテレビのためのフィクションです。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1m5ca45g"/>
   </entry>
 </feed>
