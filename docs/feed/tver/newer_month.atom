@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-14T05:12:08+09:00</updated>
+  <updated>2026-04-14T10:05:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfn6hhjat</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第５話「信頼を得るための方策」]</title>
+    <updated>2026-04-14T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月14日(火)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月14日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfn6hhjat.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                発疹の原因を探る宮子羽をかわすため、雲為衫と上官浅は結託して他の花嫁候補の薬に毒を仕込む。さらに雲為衫は発疹は毒ではなく上官浅の茶のせいだと暗に仄めかす。宮子羽に疑われた上官浅は雲為衫を責めるが、敵対する宮子羽と宮尚角の花嫁の座を狙う２人が、激しく対立してこそ信頼を得られると雲為衫は考えていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfn6hhjat"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuyq708bn</id>
     <title>シェパード警部・ブロークンウッドの事件簿_[第24話「真夏のサンタクロース」後編]</title>
@@ -768,165 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epaatm8nx1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwcda760m</id>
-    <title>よくおごってくれる綺麗なお姉さん_[第3話]</title>
-    <updated>2026-04-12T02:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
-                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月12日(日)_02時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月07日(火)_02時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月11日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwcda760m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ジナの両親に誘われたギュミンはジナの家で食事をするが、ジナの父親サンギはギュミンが浮気したと知りつかみ合いのケンカになる。そして、ギュミンは自分だけでなくジナも浮気したと訴える。そんな大騒動の中、ジュニがジナの弟スンホに連れられジナの家を訪れる。そして、ギュミンはジナの浮気相手はジュニだと言い…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwcda760m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6cvsijkv</id>
-    <title>よくおごってくれる綺麗なお姉さん_[第4話]</title>
-    <updated>2026-04-12T02:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
-                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月12日(日)_02時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月07日(火)_02時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月11日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6cvsijkv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ギュミンにつきまとわれるジナは、過去を消す決心をし思い出の品を処分する。そんな中、ジナが自分に会いに来ていたことを知ったジュニはジナの元を訪ねる。いきなり目の前に現われたジュニに驚くジナ。家に来た理由を聞かれたジナは、最初はごまかすが本当はジュニに会いに来ていたと話す。2人の距離はどんどん縮まるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6cvsijkv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwhp8oaq2</id>
-    <title>＆Hulu_[▼韓国で大ヒットのラブコメディー「ああ、私の幽霊さま」第1話後半を放送]</title>
-    <updated>2026-04-12T02:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月12日(日)_02時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月25日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月11日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwhp8oaq2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼Just One Episodeは、「ああ、私の幽霊さま」第1話後半。恋に内気なボンソンに、肉食系幽霊が憑依し、性格が一変、片想いだったオーナーシェフに急接近！２人の運命が変わる、衝撃の終盤に注目です！&lt;br&gt;© CJ ENM Co., Ltd, All Rights Reserved.
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwhp8oaq2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyy0ho3gn</id>
-    <title>102回目のプロポーズ_[102回目のプロポーズ徹底解剖！“ぼくも死にません”スペシャル]</title>
-    <updated>2026-04-12T01:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 102回目のプロポーズ
-                &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月12日(日)_01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月12日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月11日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyy0ho3gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第3話の放送を前に、「102回目のプロポーズ」をより楽しむための特別番組『102回目のプロポーズ徹底解剖！“ぼくも死にません”スペシャル』を放送！&lt;br&gt;特別メイキング映像に加え、唐田えりか×武田鉄矢によるこの番組だけのスペシャルインタビューをお届け。さらに、空野太陽役・せいや（霜降り明星）や企画・鈴木おさむのインタビューも収録し、作品の裏側と魅力に迫ります。&lt;br&gt;そして、第1話・第2話の名シーンを振り返りながら、物語の核心にぐっと近づく見どころを徹底解説！&lt;br&gt;令和に蘇るラブストーリーの真髄を、ぜひチェックしてください！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyy0ho3gn"/>
   </entry>
 </feed>
