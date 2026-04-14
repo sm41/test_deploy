@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-14T16:05:32+09:00</updated>
+  <updated>2026-04-14T18:05:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmeimav6m</id>
+    <title>ワカコ酒_[第4夜　ざる豆腐]</title>
+    <updated>2026-04-14T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月14日(火)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月14日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmeimav6m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「ざる豆腐」。シンプルながらも奥深い豆腐の世界。塩のみで大豆の味を堪能するワカコ。薬味を変えればまた違った味わいに……「熱燗」が進むワカコ、偶然見つけたその店で多くの発見をするワカコであった……　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmeimav6m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epfn6hhjat</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第５話「信頼を得るための方策」]</title>
@@ -648,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epomo44e5d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiq56r2lj</id>
-    <title>エラー_[ep1「背中を押す」]</title>
-    <updated>2026-04-12T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ エラー
-                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月12日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月12日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiq56r2lj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                すべての始まりは、廃墟ビルで起きた悲劇だった。&lt;br&gt;取り返しのつかない“過ち”を犯し、秘密を抱える中田ユメ（畑芽育）。そして、最愛の母・美郷（榊󠄀原郁恵）を突然失い、深い悲しみを負う大迫未央（志田未来）。&lt;br&gt;&lt;br&gt;遺書もなく動機も不明なまま、担当刑事から自殺の可能性が高いと告げられ絶望する未央。「加害者の娘」として理不尽にアパートを追い出された彼女の前に、引越し業者として現れたのがユメだった。しかしユメは、なぜか未央が探し求めていたはずの“母の遺書”を持っていて…。&lt;br&gt;出会ってはいけない二人の友情の行く末は？本格ヒューマンサスペンスが開幕！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiq56r2lj"/>
   </entry>
 </feed>
