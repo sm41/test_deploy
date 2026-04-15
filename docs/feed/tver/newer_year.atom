@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-15T18:06:20+09:00</updated>
+  <updated>2026-04-15T20:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1728,45 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep60dq693h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4rg3g2km</id>
-    <title>陽はまた昇る_[第4話]</title>
-    <updated>2026-04-14T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3157q9az.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 陽はまた昇る
-                &lt;a href="https://tver.jp/series/sr3157q9az" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月14日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4rg3g2km.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/24(火)～ #1-#3&#13;&lt;br&gt;4/14(火)～ #4-#6&#13;&lt;br&gt;5/12(火)～ #7-#9&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;遠野教場（＝クラス）の訓練生たちが使用している談話室で、アイドルの写真集が見つかった。「このような不謹慎極まりないものを隠し持っていたとは許しがたい事実」と、息巻く初任教養部長・簑島佐和子（真矢みき）。そこまで騒ぎ立てるほどのことでない、と遠野一行（佐藤浩市）は思いながらも教室へ。写真集を掲げながら、咄嗟に浮かべた訓練生たちの表情をチェックし、持ち主を一瞬にして見抜く。その洞察力に舌を巻く訓練生たち。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4rg3g2km"/>
   </entry>
 </feed>
