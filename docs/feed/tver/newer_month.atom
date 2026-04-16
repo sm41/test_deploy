@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-16T10:06:25+09:00</updated>
+  <updated>2026-04-16T12:05:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -688,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep6ac0d0qy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfs8ldxs2</id>
-    <title>夫婦別姓刑事_[第1話 消せない過去と秘密の関係]</title>
-    <updated>2026-04-14T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr70fmk4xw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫婦別姓刑事
-                &lt;a href="https://tver.jp/series/sr70fmk4xw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月14日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月14日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfs8ldxs2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                警察には「夫婦は同じ部署に所属してはいけない」という暗黙のルールがある―――&lt;br&gt;&lt;br&gt;東京都・中野区にある沼袋警察署。&lt;br&gt;決して大きいとはいえないこの警察署の刑事課に所属する名バディ刑事・四方田誠と鈴木明日香。&lt;br&gt;抜群のコンビネーションで事件を解決していく2人だが、実は誰にも言えない秘密を抱えている。それは2人が“夫婦”であること。&lt;br&gt;&lt;br&gt;夫婦であることを隠し、別姓のままバディを組み、職場では“単なる同僚刑事”として振る舞う2人は「絶対にバレてはいけない」毎日を過ごしていた。&lt;br&gt;&lt;br&gt;ある日、事件現場に急行する誠と明日香。&lt;br&gt;到着した先は都内で発生している連続殺人事件・・・ではなく沼袋のとあるマンション。&lt;br&gt;そこで誠は、娘・音花の中学校時代の担任である喜多村拓春と再会する。&lt;br&gt;この思わぬ再会をきっかけに誠と明日香は5年前に起きたとある殺人事件と向き合うことに
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfs8ldxs2"/>
   </entry>
 </feed>
