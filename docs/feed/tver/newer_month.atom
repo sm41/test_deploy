@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-16T07:17:25+09:00</updated>
+  <updated>2026-04-16T10:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppwfts1dr</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第７話「執刃の資格」]</title>
+    <updated>2026-04-16T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月16日(木)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月16日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppwfts1dr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                死んだ賈家職の部屋から無鋒の令牌が見つかり長老たちはこの一件を幕引きに。だが宮尚角はいまだ宮子羽を執刃と認めず、真の執刃ならば三域試練を突破せよと告げる。こうして宮子羽は三域試練に挑むことに。一方、宮尚角は長老たちに前執刃の死の前日、宮門の最高機密・無量流火の存在を無鋒に知られ、急遽鄭家に向かったと告げる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppwfts1dr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epzpkoftzg</id>
+    <title>L&amp;P_[第28話　当然のことだ]</title>
+    <updated>2026-04-16T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月16日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月16日(土)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月15日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzpkoftzg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                飛揚(フェイヤン）で朱韻(ジュー・ユン）たちのゲームが大ヒットする一方、L&amp;P代表の高見鴻（ガオ・ジェンホン）は類似作を投入し妨害を仕掛ける。さらに侯寧(ホウ・ニン）がL&amp;Pのサーバーに不正侵入し、その事実を知った見鴻の通報が、李峋(リー・シュン）らに新たな波乱を呼ぼうとしていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzpkoftzg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep3hfhyztr</id>
     <title>サレタ側の復讐～同盟を結んだ妻たち～_[第3話 ゲス不倫を捉えた隠しカメラ]</title>
@@ -648,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epfs8ldxs2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmeimav6m</id>
-    <title>ワカコ酒_[第4夜　ざる豆腐]</title>
-    <updated>2026-04-14T17:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ワカコ酒
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月14日(火)_17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月14日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmeimav6m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「ざる豆腐」。シンプルながらも奥深い豆腐の世界。塩のみで大豆の味を堪能するワカコ。薬味を変えればまた違った味わいに……「熱燗」が進むワカコ、偶然見つけたその店で多くの発見をするワカコであった……　[期間限定無料配信]
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmeimav6m"/>
   </entry>
 </feed>
