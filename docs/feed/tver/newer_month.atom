@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-17T12:06:20+09:00</updated>
+  <updated>2026-04-17T14:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyprq2jr6</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第４話「再会、そして再会」]</title>
+    <updated>2026-04-17T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月17日(金)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月17日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyprq2jr6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                真犯人らしき人物と接近したボンヒだが、捕まえることができずに悔しがる。ジウクはボンヒの身の危険を察し、自宅に彼女を招くことに。ボンヒは何とか自立するため、面接を受けることにするが…。そんな中、ジウクの元恋人ユジョンが現れる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyprq2jr6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epeduclhto</id>
     <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第2話]</title>
