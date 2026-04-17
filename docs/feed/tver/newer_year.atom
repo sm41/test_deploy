@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-17T20:06:20+09:00</updated>
+  <updated>2026-04-17T22:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1448,45 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep51lkdzhw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4gspp0gm</id>
-    <title>ドクターX～外科医・大門未知子～ （2016）_[ope.9]</title>
-    <updated>2026-04-16T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2016）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月16日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4gspp0gm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12(木)～ #1-#3&#13;&lt;br&gt;3/17(火)～ #4-#7&#13;&lt;br&gt;4/16(木)～ #8-#11&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;長年にわたって「東帝大学病院」のライバル関係にあった「慶林大学病院」が、最新の病院ランキングで1位を獲得。「東帝大」の院長・蛭間重勝（西田敏行）は“打倒、慶林”を合言葉に、医師たちに発破をかける。一方、蛭間の妻・華子（藤真利子）率いる「東帝婦人会」と、「慶林大」院長の妻・鮫島律子（高橋ひとみ）率いる「慶林婦人会」の関係もピリピリ・ムード…。「慶林大」に営業をかけようとする神原晶（岸部一徳）に連れられ、両者の親睦会に顔を出した大門未知子（米倉涼子）も、華子と律子の熾烈な嫌味合戦を目の当たりにし、唖然とする。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4gspp0gm"/>
   </entry>
 </feed>
