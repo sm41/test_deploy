@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-18T10:05:58+09:00</updated>
+  <updated>2026-04-18T12:05:58+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -728,45 +728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eppwfts1dr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzpkoftzg</id>
-    <title>L&amp;P_[第28話　当然のことだ]</title>
-    <updated>2026-04-16T08:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ L&amp;P
-                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月16日(木)_08時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月16日(土)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月15日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzpkoftzg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                飛揚(フェイヤン）で朱韻(ジュー・ユン）たちのゲームが大ヒットする一方、L&amp;P代表の高見鴻（ガオ・ジェンホン）は類似作を投入し妨害を仕掛ける。さらに侯寧(ホウ・ニン）がL&amp;Pのサーバーに不正侵入し、その事実を知った見鴻の通報が、李峋(リー・シュン）らに新たな波乱を呼ぼうとしていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzpkoftzg"/>
   </entry>
 </feed>
