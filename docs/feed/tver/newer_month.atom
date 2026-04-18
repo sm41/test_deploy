@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-18T20:05:59+09:00</updated>
+  <updated>2026-04-18T22:05:58+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep06o333y4</id>
+    <title>タツキ先生は甘すぎる！_[第2話　学校って、ダルいよねぇ]</title>
+    <updated>2026-04-18T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp8uxgiz9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ タツキ先生は甘すぎる！
+                &lt;a href="https://tver.jp/series/srp8uxgiz9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月20日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep06o333y4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                友達が多く、勉強も運動も得意な小学5年生・杉谷朔玖(高木波瑠)が『ユカナイ』にやってきた。タツキ(町田啓太)は朔玖に好きなものを切り貼りする“コラージュ”をやろうと提案。朔玖は、武士とサッカー選手が戦うコラージュを作る。しかし、その中にいる戦いから一人逃げているサッカー選手と、威圧感のある武将の存在が気になるタツキたち。やがて、朔玖が学校に行けなくなったのはあることが始まった頃だと判明し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep06o333y4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8wy2lr1h</id>
+    <title>昭和LOVERS_[昭和100年、大晦日の夜に起きた小さな奇跡＜前編＞]</title>
+    <updated>2026-04-18T21:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4zrq9q0c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 昭和LOVERS
+                &lt;a href="https://tver.jp/series/sr4zrq9q0c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_21時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月31日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : J:COM BS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8wy2lr1h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                女子大生・葵が訪れた「純喫茶愛言葉」。そこにいたのは、時代に取り残されても“人のぬくもり”を信じ続ける喫茶店のママ、常連客たちだった。彼らが守りたいものとはー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8wy2lr1h"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4hyo475t</id>
     <title>週末旅の極意3～結婚ってしなきゃいけないもの？～_[第3話 結婚の本音]</title>
