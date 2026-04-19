@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-19T18:05:30+09:00</updated>
+  <updated>2026-04-19T20:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvk40jkuq</id>
+    <title>孤独のグルメ Season1_[第10話 豊島区東長崎のしょうが焼目玉丼]</title>
+    <updated>2026-04-19T18:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season1
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvk40jkuq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎は映画関係の仕事をする男、安田に呼ばれ、小道具の食器の注文を受ける。その後街を散策するが、そこはまさに学生の街だった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvk40jkuq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0mb10tc1</id>
     <title>スケバン刑事_[第26話「特別篇　麻宮サキ名場面集」]</title>
@@ -808,45 +848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephyaeq6ct"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep98zatp8l</id>
-    <title>君が死刑になる前に_[第３話「仲間の嘘、秘めた想い」]</title>
-    <updated>2026-04-17T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srn59ozoz7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 君が死刑になる前に
-                &lt;a href="https://tver.jp/series/srn59ozoz7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月17日(金)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月11日(木)_23時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月16日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep98zatp8l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                7年前にタイムスリップした琥太郎（加藤清史郎）、隼人（鈴木仁）、凛（与田祐希）は＜教師連続殺害事件＞を食い止めるべく動くが、第３の事件が起きてしまう。&lt;br&gt;被害者・宮地は、既に起きた２つの事件の現場で不審な動きが目撃されていた人物であった。&lt;br&gt;凛はこの事件に関わることをやめて、元の時代に戻ることだけを考えるべき、と訴えるが…。&lt;br&gt;そんな中、宮地の殺害現場の近くに汐梨（唐田えりか）がいたことが判明し——！？&lt;br&gt;&lt;br&gt;ＴＶｅｒでは１・２話と、琥太郎の過去を描いた２．５話を無料配信中！&lt;br&gt;便利なお気に入り登録をお願いします！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep98zatp8l"/>
   </entry>
 </feed>
