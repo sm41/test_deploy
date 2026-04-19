@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-19T10:06:30+09:00</updated>
+  <updated>2026-04-19T12:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7imhblwe</id>
+    <title>花より男子_[最終回 最高のラストプレゼント]</title>
+    <updated>2026-04-19T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr43rylmfe.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 花より男子
+                &lt;a href="https://tver.jp/series/sr43rylmfe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7imhblwe.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月4日(土)0:00～4月24日(金)23:59&lt;br&gt;#4：4月4日(土)0:00～4月10日(金)11:59&lt;br&gt;#5：4月7日(火)12:00～4月13日(月)11:59&lt;br&gt;#6：4月10日(金)12:00～4月16日(木)11:59&lt;br&gt;#7：4月13日(月)12:00～4月19日(日)11:59&lt;br&gt;#8：4月16日(木)12:00～4月22日(水)11:59&lt;br&gt;#9：4月19日(日)12:00～4月24日(金)23:59&lt;br&gt;------------&lt;br&gt;晴男（小林すすむ）の作った借金を返すため、休学届を出してバイトに励むつくし（井上真央）は、椿（松嶋菜々子）の提案で日本一の女子高生を決めるミスコン・TOJ（ティーンオブジャパン）に出場することに。椿は優勝賞金の５００万円で借金を返済し、つくしと道明寺（松本潤）の交際を楓（加賀まりこ）に認めさせようというのだ。一方、楓はつくしに対抗する刺客として、道明寺の婚約者・栗巻あや乃（酒井彩名）をTOJに送り込んでいた…。TOJの第１次審査で、つくしはある特技を披露し、第２次審査へ進むことに。だが、２次審査のファッションセンス対決を前に、衣装を破られてしまったつくしは大ピンチ！果たして、皆の期待を一身に受けて大会優勝を目指すつくしの運命は！？その頃、道明寺は、ある大きな決断を迫られていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7imhblwe"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epcyg8ioen</id>
     <title>特上カバチ!!_[最終回 最後の敵！それは父!!]</title>
@@ -1688,45 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep7ts5r0x2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzytt0j0l</id>
-    <title>ドクターX～外科医・大門未知子～ （2021）_[ope.VII]</title>
-    <updated>2026-04-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruxir97gn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ドクターX～外科医・大門未知子～ （2021）
-                &lt;a href="https://tver.jp/series/sruxir97gn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月17日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzytt0j0l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/12(木)～ #1-#3&#13;&lt;br&gt;3/18(水)～ #4-#6&#13;&lt;br&gt;4/17(金)～ #7-#10&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;生まれ変わった「東帝大学病院」のブランディングを強化するため、「メディカルソリューション本部」の本部長・蜂須賀隆太郎（野村萬斎）が新たな人材を“サポート役”として呼び寄せた。その人材とは、以前「東帝大学病院」でも働いていた外科医・森本光（田中圭）！　大門未知子（米倉涼子）のような外科医になりたいと憧れるも、腕も自信も到底及ばず、頼りない男だった森本…。だが今では、ある事情から配信し始めた動画がバズり、若手医師たちのカリスマ的存在に！　“医療系インフルエンサー”として多大な影響力を手にした森本は、昔とは打って変わり、威風堂々と「東帝大学病院」に凱旋。尊敬する未知子に対しても、「これからの医者の武器はメスじゃない。影響力だ」と大口を叩く。&#13;&lt;br&gt;そんな中、未知子はたまたま入った定食屋で、店主・七宮安江（根岸季衣）の体調に問題があることを察知する。検査の結果、安江の胃がんがかなり進行していることを知った未知子は、早急なオペが必要だと判断。「東帝大学病院」ではパンデミックの影響で延期していたオペが再開され、手術室は連日埋まっている状況だったが、なんとかピンポイントで空いていた手術室をおさえる。ところがその矢先、院長代理・蛭間重勝（西田敏行）の手引きで環境大臣が緊急入院！　手術室を横取りしてしまう。しかも、もともと手術や長期入院に消極的だった安江は、未知子に無断でそそくさと退院してしまい…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzytt0j0l"/>
   </entry>
 </feed>

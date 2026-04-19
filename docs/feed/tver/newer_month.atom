@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-19T10:06:30+09:00</updated>
+  <updated>2026-04-19T12:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -808,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep98zatp8l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqud33nwg</id>
-    <title>惡の華_[第2話]</title>
-    <updated>2026-04-17T00:30:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 惡の華
-                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月17日(金)_00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月16日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqud33nwg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                春日（鈴木福）は、クラスメートの佐伯（井頭愛海）の体操着を盗んでしまった所を、仲村（あの）に見られ、バラさない代わりに主従関係にも似た契約を結ぶことになる。その翌日、教室では一連の犯人は仲村ではないかと騒ぎになり、春日は「そんな証拠はない」と訴えると、庇う形に見え、仲村との関係を怪しまれる。放課後、佐伯から声をかけられ、庇ったことを誉められデートの約束を交わす。楽しいデート当日そこに現れたのは…　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqud33nwg"/>
   </entry>
 </feed>
