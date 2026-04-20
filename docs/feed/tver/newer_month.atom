@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-20T09:46:34+09:00</updated>
+  <updated>2026-04-20T10:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcgnq90gu</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第８話「さらなる刺客の存在」]</title>
+    <updated>2026-04-20T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月20日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcgnq90gu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                宮尚角の暮らす角宮に迎えられた上官浅だが、到着早々、侍衛たちに取り囲まれる。宮遠徴の暗器入れがなくなったのがその理由だった。だが、衣の中から出てきたのは暗器ではなく宮尚角の玉牌だった。昔落とした玉牌を持っていた上官浅に宮尚角は警戒心をぬぐい切れない。宮尚角は宮門にまだ刺客が潜んでいると確信していた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcgnq90gu"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxjga4sna</id>
     <title>#裏アカ教師_[【スマホ用】#6「裏アカ先生」]</title>
