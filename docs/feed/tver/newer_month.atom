@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-20T10:06:19+09:00</updated>
+  <updated>2026-04-20T12:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzdtxikaq</id>
+    <title>流星花園II～花より男子～_[第19話　心の距離]</title>
+    <updated>2026-04-20T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 流星花園II～花より男子～
+                &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月20日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月20日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzdtxikaq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                骨髄移植のドナーが不適合となったエルサと残された時間を過ごすため、司は世界旅行へ旅立つ。台北に戻ったつくしは、司の会社を辞め旅行社で働き始める。ミミとつくしの誘いを断った青池和也は友人とクラブへ出かけ、フロアーダンサーとして踊るミミが客に絡まれるのを目撃する。翌日、訪ねてきた和也にミミは意外な真実を明かす。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzdtxikaq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epchavs0ws</id>
+    <title>笑うハナに恋きたる_[第16話 雨降って心固まる]</title>
+    <updated>2026-04-20T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 笑うハナに恋きたる
+                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epchavs0ws.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ジェイとタムはハナを巡って正々堂々と戦うことを誓う。ジェイはハナの気持ちを取り戻そうと、家に入りきらないほどの花束を贈ったり、タムの仕事中を狙ってディナーに誘ったりする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epchavs0ws"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epcgnq90gu</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第８話「さらなる刺客の存在」]</title>
@@ -848,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep9eeyajm0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyprq2jr6</id>
-    <title>あやしいパートナー ～Destiny Lovers～_[第４話「再会、そして再会」]</title>
-    <updated>2026-04-17T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
-                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月17日(金)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_14時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月17日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyprq2jr6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                真犯人らしき人物と接近したボンヒだが、捕まえることができずに悔しがる。ジウクはボンヒの身の危険を察し、自宅に彼女を招くことに。ボンヒは何とか自立するため、面接を受けることにするが…。そんな中、ジウクの元恋人ユジョンが現れる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyprq2jr6"/>
   </entry>
 </feed>
