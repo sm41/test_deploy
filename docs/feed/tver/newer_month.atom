@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-20T20:05:19+09:00</updated>
+  <updated>2026-04-20T22:06:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep97e1gxks</id>
+    <title>サバ缶、宇宙へ行く_[第2話 先生、サバ缶を宇宙に飛ばす条件に奮闘するも生徒が]</title>
+    <updated>2026-04-20T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月20日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep97e1gxks.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                学校存続の危機にある若狭水産高校に新米教師として赴任してきた朝野峻一（北村匠海）は、生徒たちと「サバ缶を宇宙食にする」という目標を掲げる。&lt;br&gt;それにはNASAが宇宙食を作るために考えた食品衛生管理システム「HACCP（ハサップ）」を取得することが絶対条件。「宇宙でもどこでも、飛ばせるもんなら飛ばしたろうや」とやる気を見せるのは、菅原奈未（出口夏希）。&lt;br&gt;&lt;br&gt;その一言に、寺尾創亮（黒崎煌代）、福原凪沙（夏目透羽）、佐々木柚希（ゆめぽて）たちも意気込み、HACCP取得という目標に向けて一致団結する。&lt;br&gt;しかし、東京から転校してきた菊池遥香（西本まりん）はその雰囲気に馴染めずにいた。&lt;br&gt;遥香は東京の友だちのSNSを見ては落ち込み、自身は「こんなとこにいて何が楽しいの？」、「東京に戻りたい」などと書き込む日々。そんな中、両親の営むクリーニング店の店番中に朝野が客としてやってくる。「……よく来たよね、こんなとこに」と言う遥香に対して、「僕は楽しいよ。つまらなくしてるのは菊池さん自身なんじゃないかな」と答える朝野。すると、遥香はこれ以上の関わりを遮断するようにバックヤードに去ってしまう…。&lt;br&gt;同じ頃、JAXA（宇宙航空研究開発機構）で宇宙日本食開発担当となった木島真（神木隆之介）は「宇宙日本食認証基準案」の“新しい基準”を作るために最も大事な「食」の安全について、考えを巡らせていた――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep97e1gxks"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7i2o8q7o</id>
     <title>孤独のグルメ Season3_[第3話 静岡県賀茂郡河津町の生ワサビ付わさび丼]</title>
@@ -968,45 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epz4gbdhpe"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9eeyajm0</id>
-    <title>刑事、ふりだしに戻る_[1話 死んだ刑事が10年前に転生]</title>
-    <updated>2026-04-17T22:09:02+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwtlcpo1t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 刑事、ふりだしに戻る
-                &lt;a href="https://tver.jp/series/srwtlcpo1t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月17日(金)_22時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月17日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9eeyajm0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                その目立たない性格ゆえ、周囲からモブさんと呼ばれている山梨県古田署の刑事・誠（濱田岳）は、退職届を提出していた。背景には恋人・美咲（石井杏奈）を亡くした10年前の悲劇が。同期・吉岡（鈴木伸之）や副署長・黒崎（生瀬勝久）らの慰留も受け入れず、意志は固い。そんな中発生した発砲事件をきっかけに、誠の運命を揺るがす予期せぬ出来事が。美咲を殺した犯人・槇村（池内博之）との追跡劇、驚愕の新事実、そして――。　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9eeyajm0"/>
   </entry>
 </feed>
