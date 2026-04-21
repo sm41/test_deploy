@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-21T22:05:21+09:00</updated>
+  <updated>2026-04-22T00:05:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epq9ygn24f</id>
+    <title>早坂架威のごっこ倶楽部TV_[「しあわせの風吹く島」後編]</title>
+    <updated>2026-04-21T22:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcb3t38u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 早坂架威のごっこ倶楽部TV
+                &lt;a href="https://tver.jp/series/srfcb3t38u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月21日(火)_22時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月21日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月21日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 福島中央テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq9ygn24f.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                いわきを離れ東京でサラリーマンをしている主人公。母が入院していたことを知り、急遽帰省する。大人になって改めて故郷を歩く中で見えてきたものとは…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epq9ygn24f"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eplsa7ewp4</id>
+    <title>時すでにおスシ!?_[第３話【サバとサバイバル】]</title>
+    <updated>2026-04-21T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 時すでにおスシ!?
+                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月21日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月21日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplsa7ewp4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;「よこた鮨アカデミー」に激震が走る。大江戸（松山ケンイチ）が、かつて店主として営んでいた鮨屋さんで弟子を殴り、閉店に追い込まれたというニュース記事を胡桃（ファーストサマーウイカ）が見つけてきたのだ。記事の内容を認める大江戸に対し、横田（関根勤）は「しばらく休みを取るように」と出勤停止を言い渡す。&lt;br&gt;講師不在という異例の事態に困惑するみなと（永作博美）たち。一方、胡桃は大江戸を厳しく追及したものの、森（山時聡真）から「和を乱している」と責められ、孤立を深めていく。自分の考えに縛られ、完璧主義ゆえに自分を追い込んできた胡桃は次第に体と心の異変を感じる……。&lt;br&gt;クラスがバラバラになっている状況に、みなとは何か働きかけることができないか考えていた。また、大江戸は自らの原点である師匠・土方洋司（金田明夫）のもとを訪ねており…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplsa7ewp4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplfqe6snv</id>
     <title>夫婦別姓刑事_[第2話 信じる心と夫婦の絆]</title>
@@ -728,525 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epzdtxikaq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epchavs0ws</id>
-    <title>笑うハナに恋きたる_[第16話 雨降って心固まる]</title>
-    <updated>2026-04-20T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 笑うハナに恋きたる
-                &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epchavs0ws.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ジェイとタムはハナを巡って正々堂々と戦うことを誓う。ジェイはハナの気持ちを取り戻そうと、家に入りきらないほどの花束を贈ったり、タムの仕事中を狙ってディナーに誘ったりする。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epchavs0ws"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcgnq90gu</id>
-    <title>雲之羽～揺らめく愛、刹那の二人～_[第８話「さらなる刺客の存在」]</title>
-    <updated>2026-04-20T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
-                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_10時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月20日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcgnq90gu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                宮尚角の暮らす角宮に迎えられた上官浅だが、到着早々、侍衛たちに取り囲まれる。宮遠徴の暗器入れがなくなったのがその理由だった。だが、衣の中から出てきたのは暗器ではなく宮尚角の玉牌だった。昔落とした玉牌を持っていた上官浅に宮尚角は警戒心をぬぐい切れない。宮尚角は宮門にまだ刺客が潜んでいると確信していた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcgnq90gu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxjga4sna</id>
-    <title>#裏アカ教師_[【スマホ用】#6「裏アカ先生」]</title>
-    <updated>2026-04-20T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ #裏アカ教師
-                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_01時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxjga4sna.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                高校教師・真島祈（中村ゆりか）は同じ高校に勤める憧れの先生である犀川密（水沢エレナ）になりすました裏アカを開設。 &lt;br&gt;祈は密の婚約を破断にさせるために、罠を仕組み、密の婚約者である千秋を寝取り、追い打ちをかけるように、千秋に密が不倫している偽装写真を送り、ついに密の婚約を破談させることに成功。 &lt;br&gt;さらに、生徒にも裏アカがバレてしまい追い込まれる密。一方の祈はすっかり裏アカの世界に魅了されて…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxjga4sna"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvuwq2cx2</id>
-    <title>#裏アカ教師_[#6「裏アカ先生」]</title>
-    <updated>2026-04-20T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ #裏アカ教師
-                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月20日(月)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月27日(月)_01時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvuwq2cx2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                高校教師・真島祈（中村ゆりか）は同じ高校に勤める憧れの先生である犀川密（水沢エレナ）になりすました裏アカを開設。 &lt;br&gt;祈は密の婚約を破断にさせるために、罠を仕組み、密の婚約者である千秋を寝取り、追い打ちをかけるように、千秋に密が不倫している偽装写真を送り、ついに密の婚約を破談させることに成功。 &lt;br&gt;さらに、生徒にも裏アカがバレてしまい追い込まれる密。一方の祈はすっかり裏アカの世界に魅了されて…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvuwq2cx2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epayd2dce5</id>
-    <title>10回切って倒れない木はない_[第2話「すり替わった記憶」]</title>
-    <updated>2026-04-19T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 10回切って倒れない木はない
-                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月21日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epayd2dce5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                韓国有数の財閥の養子キム・ミンソク(志尊淳)は、身内に裏切られて全てを失った孤独の中、東京で出会った診療所の医師・河瀬桃子(仁村紗和)から思いがけない言葉をかけられる――「10回切って、倒れない木はない」。それはミンソクが幼い頃に実父からもらった大切な言葉。なぜ桃子がその言葉を知っているのか?ミンソクは桃子の過去が気になり始めるが…。その記憶を辿っていくうちに、思いもよらない結末が訪れる…!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epayd2dce5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfb9fb5tc</id>
-    <title>エラー_[ep2「目をくらます」]</title>
-    <updated>2026-04-19T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ エラー
-                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfb9fb5tc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                大迫未央（志田未来）の母・美郷（榊󠄀原郁恵）の転落死は自殺ではなく、鳩に驚いた中田ユメ（畑芽育）があやまって突き落としたのだった。罪悪感に苛まれるユメとは裏腹に、真相を知らない未央はユメに救われ、絆は深まっていく。&lt;br&gt;&lt;br&gt;そんな中、「屋上にもう一人いた」という目撃証言により、未央は再捜査に期待を寄せる。一方、自首を覚悟するユメを、恋人・佐久間（藤井流星）は引き留めるが、実は、人物特定につながる物的証拠を、ユメは現場に残していた！さらに、佐久間がユメをかばうのにも、とある秘密があって・・・
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfb9fb5tc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmpe7yizl</id>
-    <title>ＧＩＦＴ_[第２話 わりとマジです。天才学者の本領発揮！]</title>
-    <updated>2026-04-19T22:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＧＩＦＴ
-                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_22時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月26日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmpe7yizl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;「ブルズを日本一にする」という超難問に嬉々として取り組む伍鉄（堤真一）は、チームにある提案をする。真剣に練習する涼（山田裕貴）たち「マジ派」と、レクリエーション感覚で楽しみたい坂東拓也（越山敬達）たち「レク派」で対戦し、伍鉄が「レク派」を勝たせたら自身がサブコーチに就任するというものだ。選手たちを天文の世界に見立てて作戦を練る伍鉄に、人香（有村架純）も興味を抱く。&lt;br&gt;その頃、シャークヘッドのヘッドコーチ・国見明保（安田顕）から引き抜きの誘いがあり、心が揺れる涼。強豪のシャークに移れば世界で戦える可能性があるが、涼は国見に強いわだかまりを持っていた。&lt;br&gt;一方、伍鉄は日野（吉瀬美智子）に同行して、車いす生活を送る朝谷圭二郎（本田響矢）の自宅へ。父・礼二（岡安泰樹）と母・美雪（今藤洋子）から圭二郎をブルズに入れてほしいと頼まれるが、伍鉄は両親の問題点を鋭く指摘し……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmpe7yizl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvk40jkuq</id>
-    <title>孤独のグルメ Season1_[第10話 豊島区東長崎のしょうが焼目玉丼]</title>
-    <updated>2026-04-19T18:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season1
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_18時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvk40jkuq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎は映画関係の仕事をする男、安田に呼ばれ、小道具の食器の注文を受ける。その後街を散策するが、そこはまさに学生の街だった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvk40jkuq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0mb10tc1</id>
-    <title>スケバン刑事_[第26話「特別篇　麻宮サキ名場面集」]</title>
-    <updated>2026-04-19T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月26日(日)_16時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0mb10tc1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第17話までに新撮映像を一部加えた特別篇。本来、第18話として放送する予定だったが、本放送では放送されず、再放送で放送された幻の一篇。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0mb10tc1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6oo9ieuw</id>
-    <title>よくおごってくれる綺麗なお姉さん_[第6話]</title>
-    <updated>2026-04-19T02:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
-                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_02時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月07日(火)_02時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6oo9ieuw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ジナは出張に行くことになる。ジュニはジナの出張についていき、2人だけの甘い時間を過ごす。そんな中、ミヨンはギョンソンとジュニを家に招待する。2人だけで生きてきたギョンソンとジュニをミヨンはかわいがりながらも、ジナの前では2人の境遇を非難する。ジナはミヨンにギュミンの話は持ち出さないよう言うが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6oo9ieuw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2zc9tpyn</id>
-    <title>よくおごってくれる綺麗なお姉さん_[第5話]</title>
-    <updated>2026-04-19T02:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
-                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_02時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月07日(火)_02時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2zc9tpyn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                互いの気持ちを確認し合ったジナとジュニはギョンソンにも話せず、2人だけの秘密の恋愛を始める。そんな中、ギュミンはジナへの執着心が大きくなり店にまで押しかけるようになる。キスを迫るギュミンに対し、ジナは必死に抵抗する。一方、ギョンソンからジナと連絡がつかないと聞いたジュニはジナが働く店へと向かうが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2zc9tpyn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyb8613g8</id>
-    <title>大丸愛は選択する_[【1話完結】美少年を監視する鬼母]</title>
-    <updated>2026-04-19T01:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraud3no2l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大丸愛は選択する
-                &lt;a href="https://tver.jp/series/sraud3no2l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月31日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyb8613g8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                刑事課で働く大丸愛（熊元プロレス）は、とある事件の犯人を追うため森に来ていた。巴（守屋麗奈）と森の中を調べていくうちに、謎の美少年（白鳥晴都＆稲毛眞生）に出会う。彼らが住む不気味な館には、異質な様子を放つ母（音月桂）の姿が。「外の人間と接したことがない」という少年たちは、どうやら異様な生活を送って来たようで…。愛に次第に心を開き、突然まさかの“選択”を尋ねる！&#13;&lt;br&gt;果たして、2人に迫られる愛の選択は…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyb8613g8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqedzs7be</id>
-    <title>時光代理人_[第2話 三つの伝言]</title>
-    <updated>2026-04-19T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry1smt6x2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時光代理人
-                &lt;a href="https://tver.jp/series/sry1smt6x2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月20日(土)_23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqedzs7be.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                トキ（佐藤大樹）とヒカル（本郷奏多）が営む時光写真館に、写真の修復依頼が来る。依頼者の岩堀健吾（橋本淳）が手にしていたのは、高校時代の青春と家族の記憶を刻んだ三枚の写真。バスケの試合に負け、初恋を告げられず、母に素直になれなかった…「あの時きちんと伝えておけばよかった」と語る健吾の想いにこたえたいと息巻くトキに、いつもなら慎重なヒカルもすぐにOKを出す。言えなかったメッセージをたずさえ、ヒカルのナビゲートのもと過去へと踏み出すトキ。いつものように感情のままに行動して過去を変えてしまいそうになるが、ヒカルはなぜか強く止めることはせず…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqedzs7be"/>
   </entry>
 </feed>
