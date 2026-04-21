@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-21T00:05:19+09:00</updated>
+  <updated>2026-04-21T10:40:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epuknnenth</id>
+    <title>佐原先生と土岐くん_[最終話《ドラマシャワー》]</title>
+    <updated>2026-04-21T03:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmoy2dks.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 佐原先生と土岐くん
+                &lt;a href="https://tver.jp/series/srxmoy2dks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月21日(火)_03時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_03時14分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuknnenth.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ある日、怪我をして登校した土岐奏（八村倫太郎）。彼は他校のヤンキーに絡まれたが、佐原一狼（岐洲匠）との約束を守るため、応戦せずに我慢をしたのだった。しかし、再びヤンキーが学校に現れ、土岐は一人で立ち向かおうとする。土手でヤンキーと対峙する土岐。ここは土岐にとっての思い出の場所である。そしてその思い出は佐原にとっても大事なものだった――。佐原と土岐の絆が深まる感動の最終話。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epuknnenth"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzsq20vsk</id>
     <title>遺産争族_[第9話]</title>
@@ -1408,365 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1eecyazy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplhlry8j5</id>
-    <title>怪物くん_[第8話 怪物界vs悪魔界因縁の最終対決]</title>
-    <updated>2026-04-18T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre2uhhj4u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 怪物くん
-                &lt;a href="https://tver.jp/series/sre2uhhj4u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplhlry8j5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-5　4/4(土)00:00～&lt;br&gt;#6-7　4/11(土)12:00～&lt;br&gt;#8-9,SP1,SP2　4/18(土)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;怪物くん(大野智)に怪物大王(鹿賀丈史)から最終試練の結果が言い渡される。&lt;br&gt;結果はなんと合格！やっと怪物ランドに帰れることになったのだ。&lt;br&gt;喜ぶお供たちをよそに、何故か怪物くんだけ元気がない。&lt;br&gt;「俺は帰ってもいいんだけどよぉ、ウタコ(川島海荷)とヒロシ(濱田龍臣)が悲しむだろ？」&lt;br&gt;そう心配する怪物くんだったが、ヒロシとウタコに「帰った方がいいんじゃない？」「私達の事は気にしなくていいよ！」と明るく答えられてしまいショックを受ける怪物くん。&lt;br&gt;遂に100年の眠りから覚め、復活したデモキン(松岡昌宏)の壮大な復讐劇が始まる！&lt;br&gt;人間界での修行を超えた厳しい試練に、怪物くんの運命は！？&lt;br&gt;信頼と裏切りが渦巻く、「怪物くん」最終章の幕が上がる！！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplhlry8j5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8mmuutqz</id>
-    <title>怪物くん_[もう帰ってきたよ!! 怪物くん全て新作SP]</title>
-    <updated>2026-04-18T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre2uhhj4u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 怪物くん
-                &lt;a href="https://tver.jp/series/sre2uhhj4u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8mmuutqz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-5　4/4(土)00:00～&lt;br&gt;#6-7　4/11(土)12:00～&lt;br&gt;#8-9,SP1,SP2　4/18(土)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;ヒロシ(濱田龍臣)やウタコ(川島海荷)と別れ、怪物ランドに戻ってしまった怪物くん(大野智)…しかし!みんなのヒーロー怪物くんが、もう帰ってきました!!番組タイトルにもありますが、よくある総集編じゃなくて、全てが新作です!待ちに待ったあのゲストや、驚きのサプライズゲスト!「ユカイツーカイ怪物くん」をみんなでダンス!怪物くんの魅力がぎっしり詰まった90分!「もう帰って来た!! 怪物くん全て新作SP」ご家族皆さんで、是非ご覧下さい!!見のがしたら…これはマズイね!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8mmuutqz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5cv4ct89</id>
-    <title>怪物くん 完全新作スペシャル!!_[怪物くん 完全新作スペシャル!!]</title>
-    <updated>2026-04-18T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre2uhhj4u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 怪物くん 完全新作スペシャル!!
-                &lt;a href="https://tver.jp/series/sre2uhhj4u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5cv4ct89.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-5　4/4(土)00:00～&lt;br&gt;#6-7　4/11(土)12:00～&lt;br&gt;#8-9,SP1,SP2　4/18(土)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;人間界で大王になる為の修行を終えた怪物くん(大野智)だったが「面倒くさい!」と次期大王の自覚ゼロ!ドラキュラ(八嶋智人)・オオカミ男(上島竜兵)・フランケン(チェ・ホンマン)は、そんな怪物くんの面倒を見きれず「腐りかけトリオ」と呼ばれる始末。我慢の限界に達した怪物大王(鹿賀丈史)は“ある決断”をする。怪物くんとお供に永遠の別れ!?怪物くんと怪子ちゃん(ベッキー)が結婚!?果たして、怪物くんは新大王になれるのか!?怪物ランドで繰り広げられる“絆”をめぐる大冒険!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5cv4ct89"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4oegxdw8</id>
-    <title>怪物くん_[最終話 人間最高!王子パワー解放]</title>
-    <updated>2026-04-18T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre2uhhj4u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 怪物くん
-                &lt;a href="https://tver.jp/series/sre2uhhj4u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4oegxdw8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-5　4/4(土)00:00～&lt;br&gt;#6-7　4/11(土)12:00～&lt;br&gt;#8-9,SP1,SP2　4/18(土)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;遂に怪物大王(鹿賀丈史)から魔王石を奪還したデモキン(松岡昌宏)は、人間の子供を洗脳し、絶滅寸前の悪魔族として迎え入れようと子供達に魔の手を伸ばす！&lt;br&gt;魔王石を手にし、絶対的魔力を誇るデモキンは、人間界と怪物界、そして悪魔界の3界を治めるという壮大な野望を達成させようとしていた！&lt;br&gt;岩石化された怪物大王の前で恐怖に震える怪物くん(大野智)。&lt;br&gt;魔王石を奪われ、怪物大王を失った今、悪魔王子デモキンに対抗するのは不可能…&lt;br&gt;怪物王子VS悪魔王子、いよいよ最終決戦！！&lt;br&gt;長きにわたる戦いの行方はいかに！？&lt;br&gt;人間界に再び平和は訪れるのか！？&lt;br&gt;怪物くんは無事に怪物ランドへ帰ることができるのか！？&lt;br&gt;そして、待っている永遠の別れ…&lt;br&gt;怒涛の最終回！！世界の運命が、怪物くんにゆだねられた！！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4oegxdw8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep56jcjrjm</id>
-    <title>ディア・シスター_[第3話 初めての朝帰り！？]</title>
-    <updated>2026-04-18T02:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ディア・シスター
-                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_02時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep56jcjrjm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;日光アレルギーで赤い湿疹が出てしまった美咲（石原さとみ）は、姉の葉月（松下奈緒）に余計な心配をかけたくない、と永人（岩田剛典）が住むトレーラーハウスに泊まる。美咲の寝顔を見つめていた永人は彼女に顔を近づけ・・・。&lt;br&gt;一方、区役所に出勤した葉月は、結婚が破談になったため辞職願を取り下げてもらおうと考えていた。ところが、そこで思わぬ事件が起きる。課内のファックスに「深沢葉月は妹に婚約者を寝取られた」「深沢葉月の婚約者には本命の恋人がいた」などと、葉月を中傷する怪文書が次々と送り付けられてきたのだ。困惑した葉月は、宗一郎（田辺誠一）に相談しようとしたが予定があって会えないという。&lt;br&gt;その夜、葉月は『APPLESEED』で親友の和子（森カンナ）と会う。和子は、犯人は元婚約者の達也（平岡祐太）らに違いないと憤る。偶然その紙を見てしまった陽平（平山浩行）も葉月が心配でたまらない。&lt;br&gt;葉月が帰宅すると、母・七重（片平なぎさ）が美咲と酒盛りをしていた。七重の婚約者・渋川（渡辺裕之）が、日曜日に葉月、美咲と一緒に食事をしたいと言っているからスケジュールを空けておいてほしい、と伝える七重。しかし葉月は、今はそんな気分ではないと返し七重と口論になってしまう。&lt;br&gt;七重が帰った後、美咲は例の怪文書のことを知る。すると美咲は、いい機会だからドレスデザイナーになる夢にチャレンジしてみるべきだと言い出し・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep56jcjrjm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epztfodscn</id>
-    <title>トランジットガールズ_[第6話]</title>
-    <updated>2026-04-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnnozfb8d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トランジットガールズ
-                &lt;a href="https://tver.jp/series/srnnozfb8d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epztfodscn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;自分の部屋で一緒にいた幼なじみの直（健太郎）から、「俺、おまえのことが好きだ」と告白され、ぼうぜんとする小百合（伊藤沙莉）。「俺と付き合ってほしい」と交際を申し込まれる。&lt;br&gt;直が帰った後、小百合は部屋に入ろうとするゆい（佐久間由衣）を呼び止める。「そっちで寝ていい？」と聞く小百合。&lt;br&gt;直が小百合のことを想っていることに気付いていたゆいは、直に告白されて動揺している小百合を優しく抱きしめる・・・。同じベッドで眠る2人。しかし、そんな2人を、ゆいの母親・まどか（霧島れいか）が見てしまう。&lt;br&gt;翌日、学校のプールサイドで小百合と直に振られてしまった未来（吉田里琴）が対峙（たいじ）して・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トランジットガールズ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epztfodscn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwe9ugpqk</id>
-    <title>マイガール_[＃10]</title>
-    <updated>2026-04-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjxt83wzq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ マイガール
-                &lt;a href="https://tver.jp/series/srjxt83wzq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwe9ugpqk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/ 4(土) ~　#1-#3&#13;&lt;br&gt;4/ 8(水) ~　#4-#6&#13;&lt;br&gt;4/18(土)~　#7-#10&#13;&lt;br&gt;&#13;&lt;br&gt;正宗（相葉雅紀）は写真スタジオを辞め、コハル（石井萌々果）と一緒に静岡へ引っ越すことを決意。正宗から「静岡でも写真を続ける」と言われて心が晴れたコハルは、陽子（優香）と同じ小学校の受験に向けて前向きになる。しかし、正宗は内心、写真を完全に諦め、安定した就職先を探そうと考えていた…。&#13;&lt;br&gt;そんな中、正宗は最後の仕事として、カメラマン・剣持（大杉漣）の撮影アシスタントをすることに。すると突然、なぜか剣持は正宗に撮影させ、「これで面接は終了だ」と言い残して帰って行った！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwe9ugpqk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvew7173k</id>
-    <title>バーテンダー_[Last glass]</title>
-    <updated>2026-04-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf4t7nxzl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バーテンダー
-                &lt;a href="https://tver.jp/series/srf4t7nxzl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvew7173k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/ 4(土) ～ #1-#3&#13;&lt;br&gt;4/ 8(水) ～ #4-#6&#13;&lt;br&gt;4/18(土)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;泰三（津川雅彦）の葬儀が終わった。長年の夢だった「ホテルカーディナル」メインバーの完成を見ぬまま他界した泰三。美和(貫地谷しほり)は祖父の願いを叶えてあげたかった、と悔やむ。そんななか、美和は泰三からの遺言書を受け取る。なんと泰三は自分が所有していた「カーディナル」の莫大な株を美和に譲る、と記していた。それは美和が筆頭株主になり、「カーディナル」に役員待遇で入ることを意味する…。決断を迫られた美和は、大いに頭を悩ませる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvew7173k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsx3cqm4b</id>
-    <title>死神くん_[第8話]</title>
-    <updated>2026-04-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8euso75v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 死神くん
-                &lt;a href="https://tver.jp/series/sr8euso75v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月18日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月24日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsx3cqm4b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/ 4(土) ~　#1-#3&#13;&lt;br&gt;4/ 8(水) ~　#4-#6&#13;&lt;br&gt;4/18(土)~　#7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;悪魔に魂を奪われるという事態が起き、死神（大野智）と監死官（桐谷美玲）の寿命を現すロウソクは風前の灯となっていた。&#13;&lt;br&gt;&#13;&lt;br&gt;そんな中、会社経営に行き詰まった内田克也（小市慢太郎）が妻の美恵（中越典子）と息子の翔太（高橋來）を道連れに一家心中を図ろうとする。これ以上予定外の死者を出すことは、死神たちにとっては命取りになる失態。救急隊員に匿名の通報をし、なんとか最悪の事態は回避するのだった。&#13;&lt;br&gt;&#13;&lt;br&gt;だが死亡者リストにはすでに克也の名前が…。克也は末期のガンを患っており、自分が死んだ後多額の借金とともに残されてしまう美恵と翔太の運命を悲観し、無理心中を図ったのだ！　死神から克也の運命を聞かされ、途方に暮れる美恵。さっそく再就職先を探し始めるが、どこの会社にも冷たくあしらわれてしまう。学校の成績も振るわず、好き嫌いも直らない、友達も出来ない翔太の存在も、美恵の頭を悩ませる原因のひとつだった。&#13;&lt;br&gt;&#13;&lt;br&gt;自分が美恵を困らせていることを感じ、落ち込む翔太の前に悪魔（菅田将暉）が現れる。「3つまでなら、魂と引き換えに願いを叶えますよ」と言う悪魔に、翔太が告げた願いは「じゃあ友達になってよ」だった…。&#13;&lt;br&gt;悪魔を友達にして自信をつけた翔太は、まさかのふたつ目の願い事をしてしまい…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsx3cqm4b"/>
   </entry>
 </feed>
