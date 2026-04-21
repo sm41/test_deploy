@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-21T14:06:20+09:00</updated>
+  <updated>2026-04-21T16:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1088,45 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epqedzs7be"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5959k5tr</id>
-    <title>ターミネーターと恋しちゃったら_[第3話 人間らしさとは？]</title>
-    <updated>2026-04-19T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srd1o6cdlb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ターミネーターと恋しちゃったら
-                &lt;a href="https://tver.jp/series/srd1o6cdlb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月19日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5959k5tr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                壁の穴でつながった部屋で、未来からやって来たアンドロイド・時沢エータ（宮舘涼太）と暮らしはじめた少女漫画編集者・神尾くるみ（臼田あさ美）。&#13;&lt;br&gt;しかし、くるみを護るようプログラミングされているエータに朝から晩まで見つめられて、どうにも落ち着かない日々…。&#13;&lt;br&gt;くるみはついつい「少しは人間らしく生活してほしい」と文句を言ってしまう。&#13;&lt;br&gt;くるみのいう“人間らしい生活”を実践すべくエータが奮闘する中、副島（松倉海斗）たちがエータの歓迎会を企画。&#13;&lt;br&gt;ひとりになりたいくるみはエータに参加をすすめ、一人で残業をすることに…&#13;&lt;br&gt;その直後、くるみに思いもよらぬ危機が襲いかかる！&#13;&lt;br&gt;絶体絶命のピンチに陥ったくるみを、エータは救い出すことができるのか!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5959k5tr"/>
   </entry>
 </feed>
