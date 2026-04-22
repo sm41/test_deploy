@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-22T20:05:36+09:00</updated>
+  <updated>2026-04-22T22:05:36+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptx6y3qwm</id>
+    <title>ボーダレス～広域移動捜査隊～_[第3話 悲しみの点と線]</title>
+    <updated>2026-04-22T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
+                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月22日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月22日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptx6y3qwm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                山梨県の住宅で強盗殺人事件が起き、男性が殺害される！&#13;&lt;br&gt;発見者は被害者の母親・友里恵（南野陽子）で、事件当夜に付近を歩いていた男性・深沢（植草克秀）が重要参考人として浮上する。&#13;&lt;br&gt;山梨県警と警視庁が捜査に乗り出したことで、《移動捜査課》にも出動命令が。&#13;&lt;br&gt;友里恵、深沢の双方に事情聴取をした蕾（佐藤勝利）、桃子（土屋太鳳）だったが、2人は互いに面識はないと返答。&#13;&lt;br&gt;しかし蕾らはそれぞれの自宅で抱いた違和感の正体に気づく。&#13;&lt;br&gt;さらに、深沢の娘の部屋を見た須黒（横田栄司）も、とあるものを発見し…？&#13;&lt;br&gt;設定なき男女を深沢と被害者宅を繋ぐ手がかりを確証に変えるべく、【一番星】が東京と山梨を大爆走する…！&#13;&lt;br&gt;そしてラスト、【一番星】のメンバーの一人に不穏な動きが…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptx6y3qwm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epegzwrdqn</id>
     <title>孤独のグルメ Season3_[第5話 中野区東中野の羊の鉄鍋とラグマン]</title>
