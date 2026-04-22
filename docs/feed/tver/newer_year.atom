@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-22T22:05:36+09:00</updated>
+  <updated>2026-04-23T00:05:36+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epu9tz8mcq</id>
+    <title>愛しあってるかい！_[第7話 赤ちゃん抱いて授業はつらいぜ]</title>
+    <updated>2026-04-23T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8lnhsmf4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 愛しあってるかい！
+                &lt;a href="https://tver.jp/series/sr8lnhsmf4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月29日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1989年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu9tz8mcq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;一平（陣内孝則）の教え子の卒業生が女房に家出された。一平は赤ちゃんを預かることになって大騒ぎ。吹雪（小泉今日子）は、このところ忍（和久井映見）が元気がなく、成績が落ちてきたのに気づいた。恵（船田幸）に聞くと、忍は誠（近藤敦）に恋をしたという。吹雪は忍のことを相談しようと一平のところへ行く。&lt;br&gt;一平のマンションには純（田中律子）がいた。赤ちゃんを見に来たのだ。一平は大慌てで純を風呂場に隠す。その日、吹雪と拓実（柳葉敏郎）はコンサートへ行く。里美（藤田朋子）は何かイライラしている。だが、2人はコンサートが終わるとそのまま別れて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『愛しあってるかい！』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu9tz8mcq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epreq5nd4x</id>
+    <title>危険なアネキ_[第8話 お母ちゃんが見つかった]</title>
+    <updated>2026-04-23T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr99chv0zo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 危険なアネキ
+                &lt;a href="https://tver.jp/series/sr99chv0zo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月29日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epreq5nd4x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;皆川寛子（伊東美咲）と勇太郎（森山未來）の前に、父親からは死んだ、と聞かされていた母、容子（萬田久子）が姿を現した。自分から名乗り出ることが出来ない容子を心配する五十嵐祐一（矢柴俊博）という男が、寛子に報せてきたのだ。五十嵐が持ってきた家族写真を見て、母親だと確信する寛子はさっそく会いに行くのだが、母親の突然の出現に戸惑う勇太郎は半信半疑。&lt;br&gt;寛子は、容子をアパートに連れ帰り、親子として暮らそうとするのだが、勇太郎は冷淡。それでも寛子は、バイト先や病院、果ては『ブルーベルベット』にまで容子を伴い、周囲の人々に嬉しそうに母親と紹介する。&lt;br&gt;そんな時、病院には北村さおり（釈由美子）を訪ねて根本俊哉（岡田浩暉）が現れる。根本は、息子の太一（小室優太）の見舞いのように装いながら、さおりに金をせびりにきたのだ。さおりは、そんな根本を帰らせるのだが・・・。&lt;br&gt;寛子の上機嫌は続く。容子と一緒にバイトしたため給料も2倍。そこで、寛子は親子で温泉旅行に行こうと勇太郎に提案する。だが、勇太郎は頑として応じない。さらに、勇太郎は容子がいなかったおかげで、幼い頃に惨めな思いをしたと恨んでもいた。そんな話を、当の容子に聞かれてしまう。&lt;br&gt;次の日、容子は荷物とともに姿を消してしまう。寛子は容子の姿を捜して、アパートを飛び出した。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『危険なアネキ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epreq5nd4x"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz0vgk1lf</id>
     <title>神の雫_[第8話 初恋の詩に秘めた謎]</title>
@@ -1328,45 +1408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epuknnenth"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzsq20vsk</id>
-    <title>遺産争族_[第9話]</title>
-    <updated>2026-04-21T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5mci6ow3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 遺産争族
-                &lt;a href="https://tver.jp/series/sr5mci6ow3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月21日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月17日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzsq20vsk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/3(火)～ #1-#3&#13;&lt;br&gt;3/26(木)～ #4-#6&#13;&lt;br&gt;4/21(火)～ #7-#9&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;仏壇のろうそくが原因で河村家が火事に…！&#13;&lt;br&gt;リビングに閉じ込められてしまった育生（向井理）、楓（榮倉奈々）ら河村家の面々。火の手もすぐそばに迫る中、恒三（岸部一徳）たちは家の外への脱出を試みる！&#13;&lt;br&gt;育生も龍太郎（伊東四朗）を背負って部屋を出るが、龍太郎は「部屋にある金庫が気になる」と、止める育生を振り切って部屋に引き返してしまう…！果たして龍太郎の運命は…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzsq20vsk"/>
   </entry>
 </feed>
