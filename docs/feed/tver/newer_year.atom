@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-23T00:05:36+09:00</updated>
+  <updated>2026-04-23T10:56:51+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1368,45 +1368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epzzgjg7iq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuknnenth</id>
-    <title>佐原先生と土岐くん_[最終話《ドラマシャワー》]</title>
-    <updated>2026-04-21T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmoy2dks.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 佐原先生と土岐くん
-                &lt;a href="https://tver.jp/series/srxmoy2dks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月21日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月28日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuknnenth.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ある日、怪我をして登校した土岐奏（八村倫太郎）。彼は他校のヤンキーに絡まれたが、佐原一狼（岐洲匠）との約束を守るため、応戦せずに我慢をしたのだった。しかし、再びヤンキーが学校に現れ、土岐は一人で立ち向かおうとする。土手でヤンキーと対峙する土岐。ここは土岐にとっての思い出の場所である。そしてその思い出は佐原にとっても大事なものだった――。佐原と土岐の絆が深まる感動の最終話。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epuknnenth"/>
   </entry>
 </feed>
