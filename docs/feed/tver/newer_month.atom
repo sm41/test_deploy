@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-23T12:06:00+09:00</updated>
+  <updated>2026-04-23T14:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppfzaueq3</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第５話「人類から人質に」]</title>
+    <updated>2026-04-23T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月23日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppfzaueq3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                被疑者から脱却するため、真犯人を追うボンヒ。しかし、仕事もうまくいかず、ジヘからジウクの立場が危うい状況を聞き、仕事も諦めて彼の家を出る。一方、ジウクは弁護士事務所を去り独立。パン係長を引き抜き、ボンヒを迎えに行く。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppfzaueq3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep8e0p3vla</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第１１話「不穏な接触」]</title>
