@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-23T18:06:00+09:00</updated>
+  <updated>2026-04-23T20:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppcbosum6</id>
+    <title>ディア・シスター_[第5話 暴かれたヒミツ！？]</title>
+    <updated>2026-04-23T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディア・シスター
+                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppcbosum6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;美咲（石原さとみ）が紛失し慌てていたのは、母子手帳だった。同じ頃、葉月（松下奈緒）の部屋でその母子手帳を偶然見つけた宗一郎（田辺誠一）は顔色を変え、葉月を置いて帰ってしまう。&lt;br&gt;慌てた美咲が永人（岩田剛典）のトレーラーハウスを飛び出すと、宗一郎が現れ、誰の子どもなのか、と問い詰める。美咲は、とっさに永人の子どもだと返すが、そこに、何も知らない永人が帰ってきてしまう。美咲はその場をしのぐために永人に・・・。&lt;br&gt;一方、宗一郎が突然帰ってしまったことにショックを受けた葉月は、彼に好きな相手がいることを察する。自分も陽平（平山浩行）に対して同じことをしてしまった、と反省した葉月は、APPLESEEDの農場を訪れて陽平に謝ると、もう宗一郎のことは諦めると告げるが・・・。&lt;br&gt;そして週末、永人のスケートボードの大会がやってきた。久しぶりの出場、そして優勝候補と言われ、気合十分でウォーミングアップする永人。そこに宗一郎が激励の差し入れを持ってくる。てっきり美咲と永人が付き合っていると思い「二人を邪魔する気はない」と言う宗一郎に、永人は「自分と美咲は付き合っていない」と断りを入れる。その言葉に混乱した宗一郎は思わず永人に衝撃の事実を告げてしまう・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppcbosum6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epay4wngph</id>
     <title>大好き！五つ子６_[第９回]</title>
@@ -404,7 +444,7 @@
             &lt;hr&gt;
 
             &lt;p&gt;
-                3/29（日）～ #1-#3&#13;&lt;br&gt;4/22（水）～ #4-#5&#13;&lt;br&gt;5/19（火）～ #6-#7&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;レコード会社A VICTORYの専務でプロデューサーのマサ（三浦翔平）は、FAXで届いたアユ（安斉かれん）からのラブレターを読んでいた。ふと気配を感じ、振り向くと…そこにはウエディングドレスを着た秘書の姫野礼香（田中みな実）が！　礼香は「マサとの結婚式で着るドレスを借りてきた」とニッコリ。予想外のできごとにフリーズするマサだが、キスを迫る礼香を押しのけ、「結婚できない」と静かに告げる。すると、「約束いはーーーーーーーん！」。礼香から笑顔が消えた…。&#13;&lt;br&gt;アユからの愛の告白で自分の気持ちに気づいたマサは、アユを呼び出す。ついに気持ちが一つになり、幸せいっぱいの二人だが…。
+                3/29（日）～ #1-#3&lt;br&gt;4/22（水）～ #4-#5&lt;br&gt;5/19（火）～ #6-#7&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;レコード会社A VICTORYの専務でプロデューサーのマサ（三浦翔平）は、FAXで届いたアユ（安斉かれん）からのラブレターを読んでいた。ふと気配を感じ、振り向くと…そこにはウエディングドレスを着た秘書の姫野礼香（田中みな実）が！　礼香は「マサとの結婚式で着るドレスを借りてきた」とニッコリ。予想外のできごとにフリーズするマサだが、キスを迫る礼香を押しのけ、「結婚できない」と静かに告げる。すると、「約束いはーーーーーーーん！」。礼香から笑顔が消えた…。&lt;br&gt;アユからの愛の告白で自分の気持ちに気づいたマサは、アユを呼び出す。ついに気持ちが一つになり、幸せいっぱいの二人だが…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptnj0z2jy"/>
