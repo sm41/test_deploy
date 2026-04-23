@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-23T10:56:51+09:00</updated>
+  <updated>2026-04-23T12:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epay4wngph</id>
+    <title>大好き！五つ子６_[第９回]</title>
+    <updated>2026-04-23T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epay4wngph.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;桃子（森尾由美）のパート先であるスーパーの店長・竹内真紀子（あいはら友子）には五つ子と同級生の娘・由佳（鈴木かすみ）がいて、ある日家の鍵をなくしたとスーパーにやってきた。あいにく真紀子が外出中だったため、桃子は桜井家で昼食を食べるよう誘う。由佳を迎えた慎吾（中野勇士）と剛（金澤翔太）は色めき立った。拓也（谷野欧太）も興味あるらしく由佳の方をチラチラと気にしている。しかし、五つ子が話しかけても木で鼻をくくったような由佳の態度に、美穂（新穂えりか）と紀香（荒井千歩）は不満を爆発させ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epay4wngph"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu9tz8mcq</id>
     <title>愛しあってるかい！_[第7話 赤ちゃん抱いて授業はつらいぜ]</title>

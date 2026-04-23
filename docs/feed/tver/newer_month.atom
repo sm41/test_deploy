@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-23T10:56:51+09:00</updated>
+  <updated>2026-04-23T12:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -808,45 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eph3i26on1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiryum7sp</id>
-    <title>雲之羽～揺らめく愛、刹那の二人～_[第９話「三域試練への挑戦」]</title>
-    <updated>2026-04-21T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
-                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月21日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月05日(火)_10時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月21日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiryum7sp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                三域試練に挑戦する宮子羽は後山に入る。後山の情報を掴みたい雲為衫は宮子羽を守るために同行したいと訴え、その力があることを示すため侍衛の金繁（ジン･ファン）と対決する。一方、上官浅は美食によって宮尚角と宮遠徴の心を掴もうとしていた。雲為衫はそんな上官浅からの情報として、宮尚角が宮子羽を陥れようとしていると金繁に明かす。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiryum7sp"/>
   </entry>
 </feed>
