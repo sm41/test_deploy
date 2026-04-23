@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-23T22:06:00+09:00</updated>
+  <updated>2026-04-24T00:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptakocgnc</id>
+    <title>トランジットガールズ_[第8話]</title>
+    <updated>2026-04-24T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnnozfb8d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ トランジットガールズ
+                &lt;a href="https://tver.jp/series/srnnozfb8d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月24日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptakocgnc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;娘・ゆい（佐久間由衣）が姿を消した翌日。葉山家のリビングに飾られているクリスマスツリーをじっと眺めていた母・まどか（霧島れいか）は、「今までありがとう」と書いたメモ用紙をテーブルの上に置き、部屋を出て行く。しばらくして、帰宅した小百合（伊藤沙莉）が、そのメモの存在に気付いて・・・。&lt;br&gt;2日後。小百合が死んだ母親の墓参りに出かけると、先に墓の前で手を合わせている人影が。&lt;br&gt;クリスマスイブの夜。小百合が、エプロンを付けて料理をしようと台所に向かうと、父・圭吾（Mummy-D）が帰ってくる。そして、圭吾は「メリークリスマス」と言い、クリスマスプレゼントを渡す。そこには小百合が欲しかったプレゼントが入っていて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トランジットガールズ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptakocgnc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppcbosum6</id>
     <title>ディア・シスター_[第5話 暴かれたヒミツ！？]</title>
