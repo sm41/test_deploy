@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-24T02:06:00+09:00</updated>
+  <updated>2026-04-24T10:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epr7yh99db</id>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第3話]</title>
+    <updated>2026-04-24T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月24日(金)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_02時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月23日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr7yh99db.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                重要な選択をする際に訪れる場所…スティーブは、アシュリー達と共に占い師のもとを訪ねる。彼は、自身のことや会社に関わることを的中されたと思い込み信頼してしまうが、アシュリーは、会社をダメにしたくないと専門コンサルタントを社に招き、意見を求める。しかし、そこで下された予想外の見解に彼女達は拍子抜けする。人事部チーフを務めるモニカは、これまでに風変わりな社内企画を連発しているが、今回の新たな提案に対しても内容が馬鹿げているとアシュリー達は難色を示す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epr7yh99db"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5vehzmqm</id>
     <title>女の子が抱いちゃダメですか？_[＃８「ひとつになってもいいですか？」《ドラマフィル》]</title>
