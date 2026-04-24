@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-24T16:06:00+09:00</updated>
+  <updated>2026-04-24T18:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1088,45 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epaepte8w5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2a7w2whv</id>
-    <title>ぴーすおぶせーふ_[第6話 とりあえず様子見]</title>
-    <updated>2026-04-22T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr25s7151l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぴーすおぶせーふ
-                &lt;a href="https://tver.jp/series/sr25s7151l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月22日(水)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月21日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2a7w2whv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                黒島くん(基俊介)、灰原さん(佐々木美玲)、白間宮くん(落合モトキ)は極上の牛タン弁当まで振る舞われ、事なかれ全開でくつろぎ始める。&lt;br&gt;そんな中、人気インフルエンサー「タンバリントランポリン」(wink first)が、カイザー軍団に挑発した映像をアップしたことで状況は一変。カイザー軍団が激怒し、現場はピリピリムードに。怯える3人だったが、カイザー軍団のリーダーのアカウントを発見する!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2a7w2whv"/>
   </entry>
 </feed>
