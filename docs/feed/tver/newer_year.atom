@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-26T00:06:12+09:00</updated>
+  <updated>2026-04-26T02:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epm7uxciea</id>
+    <title>湯遊ワンダーランド_[第4話 アカスリ天国＆韓国グルメ…女性サウナーのオアシス登場]</title>
+    <updated>2026-04-26T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr54oz00oi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 湯遊ワンダーランド
+                &lt;a href="https://tver.jp/series/sr54oz00oi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm7uxciea.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                漫画が描けず行き詰ったきつこ（ともさかりえ）は、パソコンで「気持ちいいサウナ」を検索し、新大久保にある女性専用の韓国風サウナへ。まずは名物の垢すりで、溜まりに溜まった垢を取ってもらう。続いてよもぎサウナへ。よもぎの香りが毛穴から体に入っていく感覚に幸せを感じる。さらに併設のレストランでサムギョプサルを満喫しすっかりリフレッシュする。&lt;br&gt;後日、別のサウナに向かったきつこ。平和すぎる雰囲気に満足しながらも、何か物足りなさを感じてしまう。そんな中マナーの悪い客を目にして…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epm7uxciea"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyo632no8</id>
     <title>相棒 season6_[最終回「黙示録」]</title>
