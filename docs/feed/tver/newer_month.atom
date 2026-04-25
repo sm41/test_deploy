@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-25T20:06:12+09:00</updated>
+  <updated>2026-04-25T22:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2uojajfm</id>
+    <title>タツキ先生は甘すぎる！_[第3話 俺も分からないんです]</title>
+    <updated>2026-04-25T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp8uxgiz9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ タツキ先生は甘すぎる！
+                &lt;a href="https://tver.jp/series/srp8uxgiz9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月20日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月25日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2uojajfm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                もうすぐ学校は夏休み。『ユカナイ』ではどこにも行かずに一泊しながらBBQやゲームをする「ユカナイキャンプ」を予定中。そんな中、塾とピアノに行く以外は部屋に閉じこもっている小6・寧々(本屋碧美)が今月で退会するという。寧々はタツキ(町田啓太)と“ビーズアート”をするが、色を自分で決められず…。一方、塾とピアノのどちらを優先するかで対立する寧々の両親は、寧々が塾をサボったことが原因で衝突し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2uojajfm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep52j044g1</id>
+    <title>昭和LOVERS_[昭和100年、大晦日の夜に起きた小さな奇跡＜後編＞]</title>
+    <updated>2026-04-25T21:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4zrq9q0c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 昭和LOVERS
+                &lt;a href="https://tver.jp/series/sr4zrq9q0c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_21時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月31日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月25日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : J:COM BS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep52j044g1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                昭和100年の冬、「純喫茶　愛言葉」存続の危機！女子大生の葵が、喫茶店のママ・常連客とともに令和の“人のぬくもり”を使って挑む奇跡の大逆転！心温まる結末とはー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep52j044g1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep6i09cirm</id>
     <title>ちるらん 新撰組鎮魂歌_[江戸青春篇 第２夜]</title>
@@ -608,85 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep898i6e1y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epju018io7</id>
-    <title>今夜、秘密のキッチンで_[第3話 シェフの正体が明らかに！新たな疑惑]</title>
-    <updated>2026-04-23T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
-                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月23日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epju018io7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                Kei（高杉真宙）と出会い、少しずつ人生が変わり始めたあゆみ（木南晴夏）。彼との時間は、辛い結婚生活を送るあゆみの心の支えとなっていた。&lt;br&gt;&lt;br&gt;フラッシュバックで山から転落する自分を見たというKeiの話を聞いたあゆみは、図書館で新聞記事を調べ始める。すると、2ヶ月前に神奈川県のとある山で、都内レストランに勤務する男性が転落したという記事を見つける。これはKeiの事かもしれない・・・この事故が原因で、Keiは幽霊となったのだろうか。&lt;br&gt;&lt;br&gt;月が浮かぶ夜、キッチンにKeiが現れる。転落事故の記事を見せるあゆみ。この山にはKeiのフラッシュバックのきっかけとなったアミガサタケというキノコが自生していて、これを採りに行って足を滑らせたのかもしれない。Keiのことを引き続き調べてみるというあゆみ。&lt;br&gt;&lt;br&gt;娘の陽菜（吉田萌果）との心の距離は縮まりつつあるあゆみだったが、渉（中村俊介）との生活は相変わらずで、今日も陽菜の野菜嫌いは母親のせいだと、責任をなすり付けられていた。「少しでも笑顔になれるような、美味しいご飯を作ってあげたい」というあゆみの優しい思いに、Keiは野菜嫌いを克服するレシピの考案を約束する。&lt;br&gt;&lt;br&gt;そんなある日、料理研究家の藤子（瀧本美織）が坪倉家を訪れる。彼女は急な来訪を装っていたが、何か目的があるようで・・・。一方、渉はあゆみの心の変化に気づき始める・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epju018io7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8oa3mg8x</id>
-    <title>未解決の女　警視庁文書捜査官 Season３_[第2話　アキチャン失踪事件]</title>
-    <updated>2026-04-23T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未解決の女　警視庁文書捜査官 Season３
-                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月23日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8oa3mg8x.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                親友が亡くなった未解決事件を追う中で、襲撃された日名子（黒島結菜）を救ったのは、かつて理沙（鈴木京香）とともに6係に所属していた矢代（波瑠）だった…！&#13;&lt;br&gt;謎の脅迫文で結ばれた3年前の未解決事件と現在の連続猟奇殺人事件。両事件の真犯人と驚愕の真相が、文字を糸口についに暴かれる！&#13;&lt;br&gt;&#13;&lt;br&gt;そんな中、都内の大学で《警察宛ての怪文書》と《人型に膨らんだシュラフの写真》が見つかった！ 「ケイサツのミナサンへ　カワイイアキチャンは モウジキ ツチニカエル ハヤクタスケテ」などと記された怪文書の内容が、《アキチャン》という人物を略取または誘拐したことをほのめかす声明文とも読み取れたため、警視庁は極秘で捜査本部を設置。早期解決を目指し、鳴海理沙（鈴木京香）ら6係はすぐさま、管理官・岩下敦子（りょう）が新設した情報分析班と同時進行で、解読に着手する。だが、「モアイのハナヅラ」「ジュウジのキズ」など、犯人が文中に散りばめたヒントはどれも意味不明で…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8oa3mg8x"/>
   </entry>
 </feed>
