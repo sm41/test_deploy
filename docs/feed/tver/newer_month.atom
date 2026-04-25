@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-25T14:05:12+09:00</updated>
+  <updated>2026-04-25T16:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -688,45 +688,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep8oa3mg8x"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epei7cqhuk</id>
-    <title>あざとかわいいワタシが優勝_[第4話]</title>
-    <updated>2026-04-23T21:53:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreel7k3xi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あざとかわいいワタシが優勝
-                &lt;a href="https://tver.jp/series/sreel7k3xi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月23日(木)_21時53分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月23日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epei7cqhuk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「あざとかわいい」、それは、どんな場所にも現れる、厄介な存在…&lt;br&gt;清水将貴（船津稜雅）への恋を諦めると宣言した佐原なず奈（桜井玲香）は、“あざとかわいい”の先輩として松嶋琴音（大友花恋）の恋を応援するセコンドとなる。プレゼントをくれたり何かと気にかけてくれる清水課長の優しさにますます夢中になる琴音だったが、そこへ新たな“あざかわ女子”木之本紗綾（蒼井陽奈）が異動してくる。&lt;br&gt;あどけない笑顔と京都弁で男性社員たちの心を次々と掴む紗綾のあざとさに、琴音はライバルとして危機感を募らせていく。一方、清水を諦めたなず奈に新たな恋をと、琴音は同期の田中（八神慶仁郎）を味方につけようとするが田中には何か別の思惑があるようで、どこか様子がおかしく…。&lt;br&gt;清水課長を巡るあざかわバトルは新たな局面へ――！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epei7cqhuk"/>
   </entry>
 </feed>
