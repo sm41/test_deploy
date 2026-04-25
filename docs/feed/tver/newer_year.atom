@@ -2,13 +2,453 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-25T22:06:12+09:00</updated>
+  <updated>2026-04-26T00:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyo632no8</id>
+    <title>相棒 season6_[最終回「黙示録」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyo632no8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                死刑囚の錦貴文（久松信美）が獄中で死亡した。右京（水谷豊）と薫（寺脇康文）は病死であることを証明するための解剖に立ち合うが、右京は貴文の刑が19年間も執行されなかったことに疑問を抱く。&#13;&lt;br&gt;25年前、解雇されたことを恨み、元上司の妻を包丁で刺すと家に火を放ち娘をも殺害した貴文。無罪を主張したが、いくつかの証拠が決め手となり死刑が確定していた。&#13;&lt;br&gt;しかし、一方で貴文を無罪と信じる弁護士・茂手木（ベンガル）は再審を請求していたが棄却されていた。&#13;&lt;br&gt;右京は当時の裁判官の生き残り、あの三雲判事（石橋凌）から事情を聞くが、三雲は正式な捜査でなければ、と多くを語ろうとしない。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyo632no8"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epr6ydv947</id>
+    <title>相棒 season6_[第17話「新・Wの悲喜劇」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr6ydv947.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                美和子（鈴木砂羽）がスキーで足を負傷、動けなくなってしまった。さぞや不便をしているのではないか、と右京（水谷豊）とたまきは料理を持って亀山家を訪ねる。&#13;&lt;br&gt;マンションの前で薫（寺脇康文）と出会った右京とたまきは、亀山家の一つ上の階に住む主婦・白鳥寿々美（中島知子）を紹介される。どうやら薫は寿々美にも右京のことをしゃべっているらしい。それぞれの部屋へ向かう途中、4人の話題は犯罪の検挙率に。およそ30％という低さに驚く寿々美。が、右京は殺人事件については約96％で、人殺しはほぼ間違いなく捕まっているとクギを刺すように付け加える。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epr6ydv947"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epqhjfm1kh</id>
+    <title>相棒 season6_[第13話「マリリンを探せ」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqhjfm1kh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                薫（寺脇康文）と親しいゲイバーのママ・ヒロコ（深沢敦）の愛犬マリリンがいなくなってしまった。ヒロコに泣きつかれた薫は、公園で一緒にマリリンを探すが、偶然そこで福光（近藤大介）の刺殺体を発見してしまう。携帯電話が奪われており、これまで2件発生していた携帯電話だけを奪っていく殺人犯と同一人物による犯行の可能性が高い。&#13;&lt;br&gt;翌日には稲垣（北村栄基）という男が自宅マンションから転落死。近くから例の殺人事件の被害者のものと思われる携帯電話が発見され、犯人らしい人物から「俺を探しても無駄だ」と電話が入る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epqhjfm1kh"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epp6j6tlfl</id>
+    <title>危険なアネキ_[第9話 人生最悪の姉弟ゲンカ！]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr99chv0zo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 危険なアネキ
+                &lt;a href="https://tver.jp/series/sr99chv0zo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp6j6tlfl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;これからはお互い何でも話すと約束した皆川寛子（伊東美咲）と勇太郎（森山未來）姉弟。しかし寛子は、母・容子（萬田久子）がお金を持って逃げたことを勇太郎に話せずにいた。&lt;br&gt;一方、北村さおり（釈由美子）の息子、太一（小室優太）の病室には根本俊哉（岡田浩暉）が再三現れていた。根本の出現は、さおりだけでなく中村拓未（平岡祐太）やスタッフたちにも波紋を投げかけていく。&lt;br&gt;そんなとき、田中（荒川良々）と市橋（おかやまはじめ）が寛子と勇太郎の元に来た。今週中に利子分600万円だけでも返済しないと『みながわ』の土地が競売にかけられると言うのだ。勇太郎は夜勤を増やし、寛子も高賃金のアルバイトを始める。&lt;br&gt;そして、勇太郎は銀行から200万円の融資を受けることに成功。喜んでいた矢先、電話が鳴る。寛子の留守にかかった電話は容子だった。謝罪の言葉だけを残して電話を切る容子。さっぱりわけが分からぬ勇太郎は翌日、容子がいた施設に出かけ、五十嵐祐一（矢柴俊博）から思わぬ話を聞かされ・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『危険なアネキ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp6j6tlfl"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epnozhmbli</id>
+    <title>相棒 season6_[第16話「悪女の証明」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnozhmbli.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                外務省の外交費不正流用が明るみになる中、外務省職員の草葉（奥田達士）がビルの非常階段から転落死した。草葉は15時に現場ビルで何者かと待ち合わせをしていたらしい。さらに不正流用問題で矢面に立たされている山浦事務次官（堀内正美）の子飼いの部下であることがわかった。&#13;&lt;br&gt;右京（水谷豊）と薫（寺脇康文）は山浦から話を聞くが、山浦は外交費の不正流用などない、と強く言い切る。その言葉は、衆議院議員の雛子（木村佳乃）への非難ともとれるのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnozhmbli"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epis3avq5r</id>
+    <title>相棒 season6_[第15話「20世紀からの復讐」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epis3avq5r.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ダンボール箱に仕掛けた爆弾を遠隔操作で爆発させる連続爆弾事件が発生。その犯人が今度はコンビニに置かれたダンボール箱に爆弾を仕掛けた！&#13;&lt;br&gt;犯人はコンビニ店員の佐藤（近藤公園）に電話をかけ、客を人質にとるよう指示。偶然居合わせた薫（寺脇康文）も人質となってしまう。&#13;&lt;br&gt;現場に駆けつけた右京（水谷豊）は、鑑識の米沢（六角精児）から、犯人は半径1km圏内でしか操作できない受信機を使用していることを知らされる。ということは、犯人はコンビニから半径1km以内にいるということか。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epis3avq5r"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eped1gvuwb</id>
+    <title>相棒 season6_[第11話「ついている女」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eped1gvuwb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                かつて右京（水谷豊）と薫（寺脇康文）に殺人未遂で逮捕された“ついてない女”幸子（鈴木杏樹）が刑務所から脱獄した。すっかり更生した幸子は、あと1年半で出所したら服飾の仕事がしたいと右京らに手紙を送ってきていたのに。健康診断で異状が見つかった幸子は春麗（MEGUMI）という囚人と医療刑務所に送られることになったが、その途中、春麗の仲間らしき男たちが護送車を急襲。実は幸子は春麗脱獄に巻き込まれただけだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eped1gvuwb"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep83wcdxfa</id>
+    <title>相棒 season6_[第12話「狙われた女」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83wcdxfa.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                護送車襲撃は元・城代金融の向島（正城慎太郎）が幸子（鈴木杏樹）への復讐のため仕掛けた罠だった。右京（水谷豊）らは向島らのアジトを探し出そうとするが、幸子は春麗（MEGUMI）の機転で向島らのもとを脱出。奪った拳銃を手に2人で逃亡を続ける。&#13;&lt;br&gt;捜査一課もアジトを発見、向島らを拘束するが、その連絡を受けた右京はふと疑問を口にする。資金力のない向島に今回のような事件を起こせるとは思えない。もしかして向島らを操る黒幕が別にいるのでは…。右京らは戸崎刑務官（久世星佳）をそれとなく締め上げ、犯人と通じていたことを引き出すと、彼女がゴッドという黒幕の命令で動いていたことを知る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep83wcdxfa"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6igo3noj</id>
+    <title>愛しあってるかい！_[第8話 日米親善！交換留学生が来たぜ]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8lnhsmf4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 愛しあってるかい！
+                &lt;a href="https://tver.jp/series/sr8lnhsmf4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月02日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1989年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6igo3noj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;アメリカの外交官の息子ポール（スティーブ・アンドリュース）が南青山高、娘のメリー（ソフィア・ローソン）が表参道女子高で1週間勉強することになった。これをきっかけにアメリカの高校と提携しようと目論む学校側は、2人をVIP扱い。ところが、授業中に居眠りしているポールの頭をポカリ。職員室で叱られた一平は大変なヤツを預かったと頭を抱え込む。吹雪（小泉今日子）の方は英語の発音がメリーと違うと生徒たちから言われ、これまた考え込む。&lt;br&gt;ポールは吹雪、メリーは一平が気に入った様子。追いかけてキスをする。それを見た拓実（柳葉敏郎）ら教師たち、純（田中律子）ら生徒たちも、恋に積極的になり・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『愛しあってるかい！』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6igo3noj"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4dbemmcj</id>
+    <title>相棒 season6_[第18話「白い声」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4dbemmcj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                右京（水谷豊）と薫（寺脇康文）は、調布のマンションでの殺人事件への捜査協力を求めるビラを手に入れる。が、調べてみたものの、警視庁のデータベースにそんな事件は存在しない。ビラを配っていた男性＝中津留（山本亘）によると、娘の順子がマンションの自室でストーカーに殺害されたのだと言う。しかし、所轄署の熊沢刑事（上杉祥三）の判断は急性心不全による病死だった。それで警視庁のデータベースになかったらしい。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4dbemmcj"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep1v6tyeh5</id>
+    <title>相棒 season6_[第14話「琥珀色の殺人」]</title>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 相棒 season6
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1v6tyeh5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                有名なウイスキー評論家の勝谷（伊藤高）が何者かに殺害された。現場には「PAIRTICHE（パーチー）」「1970」という高級スコッチが残され、勝谷がそのスコッチをオンザロックで飲んだらしいことがわかる。しかし、このスコッチに氷を入れてはせっかくのシェリーの香りが台無しだ。勝谷ほどウイスキーに精通した人間がそんな飲み方をするだろうか。ということは、ウイスキーに疎い犯人が偽装工作を行った？&#13;&lt;br&gt;しかし、同時にウイスキーに詳しい犯人が、わざと疎い人間であるかのように装った可能性もある。右京（水谷豊）は不審を抱くが、薫（寺脇康文）は氷を入れたのは勝谷の趣味かも、と疑問を。そこで右京らは勝谷のなじみの店で勝谷の酒の飲み方を調べることにする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1v6tyeh5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4bqdn1lf</id>
     <title>SUPER RICH_[第1話 金持ち女社長、人生最大の大失敗！]</title>
@@ -1728,45 +2168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epc72joi03"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptakocgnc</id>
-    <title>トランジットガールズ_[第8話]</title>
-    <updated>2026-04-24T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnnozfb8d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トランジットガールズ
-                &lt;a href="https://tver.jp/series/srnnozfb8d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月24日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_04月30日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptakocgnc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;娘・ゆい（佐久間由衣）が姿を消した翌日。葉山家のリビングに飾られているクリスマスツリーをじっと眺めていた母・まどか（霧島れいか）は、「今までありがとう」と書いたメモ用紙をテーブルの上に置き、部屋を出て行く。しばらくして、帰宅した小百合（伊藤沙莉）が、そのメモの存在に気付いて・・・。&lt;br&gt;2日後。小百合が死んだ母親の墓参りに出かけると、先に墓の前で手を合わせている人影が。&lt;br&gt;クリスマスイブの夜。小百合が、エプロンを付けて料理をしようと台所に向かうと、父・圭吾（Mummy-D）が帰ってくる。そして、圭吾は「メリークリスマス」と言い、クリスマスプレゼントを渡す。そこには小百合が欲しかったプレゼントが入っていて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『トランジットガールズ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptakocgnc"/>
   </entry>
 </feed>
