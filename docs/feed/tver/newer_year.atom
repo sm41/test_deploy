@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-26T18:06:12+09:00</updated>
+  <updated>2026-04-26T20:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyaijmxf0</id>
+    <title>ディア・シスター_[第6話 心も体もハダカに]</title>
+    <updated>2026-04-26T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディア・シスター
+                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月03日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyaijmxf0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;美咲（石原さとみ）は、現在妊娠15週目で、子どもの父親は宗一郎（田辺誠一）だと永人（岩田剛典）に告白した。さらに美咲は、もうひとつ話しておきたいことがある、と続け、自身に関するある秘密を打ち明ける・・・。&lt;br&gt;一方、葉月（松下奈緒）は、陽平（平山浩行）からアプローチを受けていた。一緒に畑仕事をしたことや、料理を教えてもらったことを親友の和子（森カンナ）に報告する。&lt;br&gt;別の日、美咲は、永人を誘って両親学級に参加する。楽しそうに沐浴（もくよく）指導や沐浴（もくよく）後のお手入れ指導を受けるふたり。帰り道、永人は、転んだら大変だから、と言って美咲に手を差し出した。美咲は、その手を握り、彼と手をつないで歩きだす。&lt;br&gt;大ゲンカをして以来、美咲と葉月はまだどこかぎくしゃくしたままの状態が続いていたが、そんな折、美咲の提案で葉月・七重（片平なぎさ）と毎年家族旅行していた熱海に行くことになった。さらにこれも美咲の提案で永人のみならず、陽平も誘おうという話になり慌てる葉月だったが、逆に七重に陽平が新しい彼氏だと誤解される始末。&lt;br&gt;そして旅行当日。美咲と葉月が玄関を開けると、そこには永人と・・・陽平。したり顔の美咲を思いっきりつねる葉月。結局5人で熱海に向い、早速浴衣に着替え、露天風呂に行こうと舞い上がる一同だったが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epyaijmxf0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprl49hdd6</id>
     <title>きみはペット_[４．恋愛感染症]</title>
