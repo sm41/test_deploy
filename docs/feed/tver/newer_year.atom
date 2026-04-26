@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-26T10:06:12+09:00</updated>
+  <updated>2026-04-26T12:06:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epznd7apm0</id>
+    <title>魔王_[第５話「殺人予告…!?魔王に届く赤い封筒」]</title>
+    <updated>2026-04-26T11:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 魔王
+                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_11時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_10時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epznd7apm0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4-5：4月26日(日)11:00～5月4日(月)10:59&lt;br&gt;#6-7：5月4日(月)11:00～5月12日(火)10:59&lt;br&gt;#8-9：5月12日(火)11:00～5月20日(水)10:59&lt;br&gt;#10-11：5月20日(水)11:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;成瀬（大野智）は、海沿いに建つ病院を訪れる。姉の真紀子（優香）を見舞うためだが、昔話を始めた“姉”との会話になぜか細心の注意を払う。&lt;br&gt;一方、図書館で自分あての赤い封筒を見つけた芹沢（生田斗真）は、その中に入ったタロットカードが“避けられない変化が起きる”ことを意味するとしおり（小林涼子）から聞く。さらにタロットカードの残像で山野（清水優）の姿が見えたと知り、彼が犯人の「雨野真実」であると確信。尾行を重ねるが、なかなか証拠をつかめないでいた。&lt;br&gt;ある日、しおりに呼び出された成瀬が「ガランサス」に向かうと、泣きじゃくる空（大野百花）の姿が。母親が殺人事件に関わったことで、保育園でいじめられているというのだ。擦り傷だらけの空の寝顔を見た成瀬は、しおりに「殺人事件に関わって怖くないですか」と問いかける。&lt;br&gt;そんな中、芹沢が「雨野真実」の名前に隠されたある秘密にたどり着いた！ようやく犯人への手がかりを見つけたと思った芹沢はしおりから衝撃の告白を受ける。しおりは１１年前の事件の第一発見者であると言うのだ。激しく動揺する芹沢にさらなる衝撃が。池畑（六平直政）と接触した栄作（石坂浩二）が芹沢を呼び出し、刑事を辞めるように命令したのだ。栄作との間にはどうしようもない深く大きな溝があり、芹沢は絶望する。そんな芹沢の前に成瀬が現れた。成瀬は芹沢に「どうか早く犯人に辿り着いて下さい」と言葉をかけ、芹沢はその言葉を励ましと受け止めるのだが…。そんな成瀬の元に赤い封筒が届いた。一体、誰が何のために…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epznd7apm0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eph9n293ow</id>
+    <title>魔王_[第４話「狙われた魔王 地獄の門は開かれた」]</title>
+    <updated>2026-04-26T11:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 魔王
+                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_11時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_10時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph9n293ow.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4-5：4月26日(日)11:00～5月4日(月)10:59&lt;br&gt;#6-7：5月4日(月)11:00～5月12日(火)10:59&lt;br&gt;#8-9：5月12日(火)11:00～5月20日(水)10:59&lt;br&gt;#10-11：5月20日(水)11:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;ある日、成瀬（大野智）の前に雑誌記者の池畑隆宏（六平直政）が現れる。成瀬の素性を知っているかのような口ぶりの池畑は、栄作（石坂浩二）から依頼された顧問弁護士の話を断ってくれと言う。彼が栄作に恨みを持っていることを察した成瀬は「決断は自分で下す」と言い切りながらも、栄作の息子が刑事だと伝える。&lt;br&gt;その頃芹沢（生田斗真）は、しおり（小林涼子）のサイコメトリーに導かれて、自分が関わった１１年前の現場に辿り着く。そして、一連の殺人事件が自分の起こした１１年前の事件と関わりがあることを確信し、愕然とする。石本（脇知弘）の遺体を前にある決意をした芹沢は、中西（三宅裕司）に辞表を提出。芹沢は中学校の卒業アルバムから、自分たちが苛めていた山野圭太（清水優）の存在を思い出し、彼が働く出版社を訪ねる。成瀬の弟・英雄（竹内寿）は山野を庇って死んだのだった。芹沢は山野が「雨野真実」だと睨み、「自分の周りの人を殺さないでくれ」と懇願するが、山野は何のことか分からないと否定。さらに「君は本当に酷い人」と芹沢に言い捨てる。憔悴しきった芹沢はしおりの元へ。彼女の言葉と笑顔に、刑事として生きていく決意を固める。&lt;br&gt;そんな中、またもや「雨野真実」から芹沢に宅配便が届く。芹沢は山野が犯人かどうか調べるため、多恵（奥貫薫）と空（大野百花）に捜査を依頼。成瀬もその現場に立ち会うことになるのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph9n293ow"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epm7uxciea</id>
     <title>湯遊ワンダーランド_[第4話 アカスリ天国＆韓国グルメ…女性サウナーのオアシス登場]</title>
@@ -2168,45 +2248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep05fdp4iq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc72joi03</id>
-    <title>大好き！五つ子６_[第10回]</title>
-    <updated>2026-04-24T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子６
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月24日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc72joi03.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;樹里（平本亜夢）が夜中に泣き出した。「お父さんが遠くに行ってしまう」夢を見たのだという。小百合（佐久間由枝）が離婚すると言い張っていることを知った桃子（森尾由美）と良介（新井康弘）はやるせない。事情を知らない五つ子は素朴な疑問を小百合にぶつけるが、小百合の返事はなんだか曖昧だ。カンのいい美穂（新穂えりか）は小百合と西園寺（飯田基祐）が離婚するのではないかと言い出した。他のメンバーは否定するが、拓也（谷野欧太）が、桜井家を出てアパートを借りるという小百合と桃子の言い合いを聞いてしまったため、美穂の説はがぜん真実味を増す。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epc72joi03"/>
   </entry>
 </feed>
