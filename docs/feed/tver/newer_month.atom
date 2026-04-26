@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-27T00:06:12+09:00</updated>
+  <updated>2026-04-27T02:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsttmh8gn</id>
+    <title>#裏アカ教師_[#7「やめられない密の味」]</title>
+    <updated>2026-04-27T01:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ #裏アカ教師
+                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月27日(月)_01時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_01時34分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月26日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsttmh8gn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                高校教師・真島祈（中村ゆりか）は同じ高校に勤める憧れの先生である犀川密（水沢エレナ）になりすました裏アカを開設。祈は罠を仕組み、密の婚約者である千秋を寝取って婚約を破談させる。生徒にまで裏アカが知れ渡り密は退職。密そのものになれる裏アカにすっかりはまって、密の何もかもを奪っていく祈だったが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsttmh8gn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmlhl9t11</id>
+    <title>#裏アカ教師_[【スマホ用】#7「やめられない密の味」]</title>
+    <updated>2026-04-27T01:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ #裏アカ教師
+                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月27日(月)_01時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_01時34分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月26日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmlhl9t11.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                高校教師・真島祈（中村ゆりか）は同じ高校に勤める憧れの先生である犀川密（水沢エレナ）になりすました裏アカを開設。祈は罠を仕組み、密の婚約者である千秋を寝取って婚約を破談させる。生徒にまで裏アカが知れ渡り密は退職。密そのものになれる裏アカにすっかりはまって、密の何もかもを奪っていく祈だったが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmlhl9t11"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplvz6pwo4</id>
     <title>10回切って倒れない木はない_[第3話「住む世界の違う人」]</title>
