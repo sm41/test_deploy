@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-26T12:06:11+09:00</updated>
+  <updated>2026-04-26T14:06:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eprl49hdd6</id>
+    <title>きみはペット_[４．恋愛感染症]</title>
+    <updated>2026-04-26T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4mym6spy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ きみはペット
+                &lt;a href="https://tver.jp/series/sr4mym6spy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月26日(日)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprl49hdd6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4：4月26日(日)14:00～5月4日(月)13:59&lt;br&gt;#5：4月30日(木)14:00～5月8日(金)13:59&lt;br&gt;#6：5月4日(月)14:00～5月12日(火)13:59&lt;br&gt;#7：5月8日(金)14:00～5月16日(土)13:59&lt;br&gt;#8：5月12日(火)14:00～5月20日(水)13:59&lt;br&gt;#9：5月16日(土)14:00～5月24日(日)13:59&lt;br&gt;#10：5月20日(水)14:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;家出をしたと心配していたモモ（松本潤）が帰ってきた。&lt;br&gt;そんな中、蓮實（田辺誠一）とデートするも、まだきごちない様子のスミレ（小雪）。外のベンチでいい雰囲気になったところへ、蓮實の携帯に柴織（酒井若菜）から電話が入った。別れた彼氏にストーカーのようにつきまとわれて困っているというのだ。蓮實は今度相談に乗ると言って電話を切るが、スミレは複雑な思いを抱く。&lt;br&gt;後日、スミレが風邪を引いたと人伝いに聞いた蓮實から、もっと自分に甘えて欲しいと言われ、落ち込むスミレ。モモはそんなスミレに「もっと両想いを楽しめば？」とアドバイスし…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprl49hdd6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epznd7apm0</id>
     <title>魔王_[第５話「殺人予告…!?魔王に届く赤い封筒」]</title>
