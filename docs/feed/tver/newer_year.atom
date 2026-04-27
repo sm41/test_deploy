@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-27T02:06:12+09:00</updated>
+  <updated>2026-04-27T12:47:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7kd5e0ip</id>
+    <title>大好き！五つ子６_[第11回]</title>
+    <updated>2026-04-27T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月27日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7kd5e0ip.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;慎吾（中野勇士）がケガをしてサッカーの試合に出られなくなってしまった。剛（金澤翔太）が慎吾の代役としてスタメンでフォワードに入ることになる。剛の初めてのレギュラー入りである。桃子（森尾由美）と良介（新井康弘）はもちろん、千絵子（茅島成美）も大喜びする。皆のはしゃぎようを横目に慎吾は押し黙っていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7kd5e0ip"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyj90mn23</id>
     <title>セレブ男子は手に負えません_[#2　恋愛は絶対に禁止]</title>
@@ -2048,525 +2088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephtqg30ng"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph6kymn97</id>
-    <title>バンビ～ノ！_[第2話　負けてたまるか]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwg1x7cq3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バンビ～ノ！
-                &lt;a href="https://tver.jp/series/srwg1x7cq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph6kymn97.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/25(土)0:00～&lt;br&gt;#4-5　5/4(月)12/00～&lt;br&gt;#6-8　5/13(水)12:00～&lt;br&gt;#9-11　5/22(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;香取(佐藤隆太)の助手兼見習いとなった伴(松本潤)はまだまだ仕事についていけず、焦ってもたつくばかり。あまりの忙しさに頭は真っ白になり、何をすればいいかわからなくなる。動きの止まった伴を香取は「邪魔くせぇなぁ!」と一蹴する。ランチが終わった後、どうしたらよいかわからず落ちこむ伴を見たあすか(香里奈)は、「香取さんが何をして欲しいかを第一に考えるべきじゃないの」と言葉をかける。これで要領をつかみ、みんなが驚くほどの手際を見せるのだが―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph6kymn97"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph09t43s1</id>
-    <title>ラストホープ_[第1話 死なせない、ただ一人として・・・見放された患者たちの最後の砦]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8b3j7stf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラストホープ
-                &lt;a href="https://tver.jp/series/sr8b3j7stf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph09t43s1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;相葉雅紀主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月25日(土) ～ 05月28日(木)&lt;br&gt;#4：04月28日(火) ～ 05月04日(月)&lt;br&gt;#5：05月01日(金) ～ 05月07日(木)&lt;br&gt;#6：05月04日(月) ～ 05月10日(日)&lt;br&gt;#7：05月07日(木) ～ 05月13日(水)&lt;br&gt;#8：05月10日(日) ～ 05月16日(土)&lt;br&gt;#9：05月13日(水) ～ 05月19日(火)&lt;br&gt;#10：05月16日(土) ～ 05月22日(金)&lt;br&gt;#11：05月19日(火) ～ 05月25日(月)&lt;br&gt;&lt;br&gt;帝都大学医学部附属病院は、つい先ころ、新生の目玉として高度先端医療センターを発足した。診療科ごとに分かれていた先端医療を集約することで、患者の病気を総合的に診断、治療するという画期的な試みだ。専属メンバーは総合医の波多野卓巳（相葉雅紀）、脳神経外科医の橘歩美（多部未華子）、心臓外科医で消化器外科医でもある高木淳二（田辺誠一）、血液内科医の荻原雪代（小池栄子）、神経眼科医の副島雅臣（北村有起哉）、先端応用医学研究室教授兼務の研究医・古牧利明（小日向文世）。彼らを集めたのは、センター長を務める鳴瀬哲司（髙嶋政宏）だ。&lt;br&gt;メンバーは各分野のスペシャリストたちなのだが、個性的でクセのある医師ばかり。総合医の卓巳は問診に時間をかけるため、担当の時間にはいつも患者の大渋滞が起こってしまい、看護師の時田真希（桜庭ななみ）たちを困らせていた。しかし、それは患者とじっくり向き合い、お互いに信頼しあうための卓巳のやり方。また、卓巳は診断に悩んだ時は、必ずメンバーを呼ぶのだ。&lt;br&gt;この日は、歩美が呼ばれた。患者は宮本孝介（佐藤祐基）。肝臓や直腸など多臓器に腫瘍を患っていて、心臓バイパス手術も受けているため、15もの病院で治療を断られた末にここにたどり着いたのだ。冷静に話を聞く孝介とは対照的に、付き添って来た婚約者の森田理沙子（佐藤江梨子）は不安そう。治癒の可能性はゼロではないと言う歩美の言葉も得て、卓巳は治療を請け負う。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ラストホープ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph09t43s1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfgax5kw9</id>
-    <title>謎解きはディナーのあとで_[第1話 名探偵登場！・・・殺人現場では、靴をお脱ぎください！？]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5kvaxqv2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 謎解きはディナーのあとで
-                &lt;a href="https://tver.jp/series/sr5kvaxqv2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfgax5kw9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;櫻井翔主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月25日(土) ～ 05月28日(木)&lt;br&gt;#4：04月28日(火) ～ 05月04日(月)&lt;br&gt;#5：05月01日(金) ～ 05月07日(木)&lt;br&gt;#6：05月04日(月) ～ 05月10日(日)&lt;br&gt;#7：05月07日(木) ～ 05月13日(水)&lt;br&gt;#8：05月10日(日) ～ 05月16日(土)&lt;br&gt;#9：05月13日(水) ～ 05月19日(火)&lt;br&gt;#10：05月16日(土) ～ 05月22日(金)&lt;br&gt;&lt;br&gt;大財閥「宝生グループ」を束ねる宝生家に、1人の男がやって来た。男の名は影山（櫻井翔）。影山は長年、宝生家の1人娘・麗子（北川景子）に仕えた唐沢（伊東四朗）の後任の執事となる。&lt;br&gt;そのころ、麗子は事件現場にいた。麗子は身分を隠し、国立署の刑事として働いている。一方、麗子の上司、風祭京一郎警部（椎名桔平）は現場に高級車で乗りつける目立ちたがり屋。麗子と違い、自分が風祭モータースの御曹司であることを隠さない。むしろ金持ちであることをひけらかす。そんな風祭も当然、麗子の本当の素性は知らない。&lt;br&gt;事件の被害者は吉本瞳（木南晴夏）という派遣社員。コーポの自室で首を絞められて殺害されたようだが、この遺体は何かがおかしい。なぜなら、被害者はブーツを履いたまま、部屋の中で殺されていたのだ。違和感を覚える麗子に先んじるように、風祭は同じ疑問をとうとうと述べ始めた。容疑者像まで一気にまくしたてる風祭だが、その推理は小学生でも話せるような稚拙なもの。麗子が別の見解を述べるとすぐに乗っかり、あたかも自分が考えたことのようにつなぐ風祭。麗子は、そんな厚顔無恥な風祭がウザったくて仕方がない。&lt;br&gt;とりあえず捜査を終えて、風祭と別れた麗子はいら立ちを石ころに込めてキック。その石が高級リムジンにあたってしまった。すると降りてきた男が、修理代を尋ねる麗子におよその値段を答える。しかし・・・男は「お嬢様」と麗子に頭を下げた。そう、男は執事の影山。麗子を迎えに来たのだ。&lt;br&gt;新しい執事の登場も、令嬢である麗子にとってはさまつなこと。どんなに優秀な執事も、令嬢である麗子にとっては当たり前の存在である・・・はずだった。&lt;br&gt;それは、突然ディナーのときにやってきた。&lt;br&gt;昼間に起きた事件のあらましを誰にとはなしに話す麗子。しかし、それを聞いた影山が突然、こう言ったのだ。&lt;br&gt;「失礼ですがお嬢様。お嬢様はアホでいらっしゃいますか？」と・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『謎解きはディナーのあとで』をスピンオフ含め全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfgax5kw9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf68sl3o5</id>
-    <title>世界一難しい恋_[第3話]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmcd18r2p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 世界一難しい恋
-                &lt;a href="https://tver.jp/series/srmcd18r2p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf68sl3o5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/25(土)0:00～&lt;br&gt;#4-5　5/4(月)12:00～&lt;br&gt;#6-7　5/13(水)12:00～&lt;br&gt;#8-10　5/22(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;人生で初めての恋に落ちている一流ホテル社長・鮫島零治(大野智)は、その気持ちを相手の超マイペース女・美咲(波瑠)に伝えようと決意する。しかし、恋愛経験ゼロの零治が思いつく告白方法はまったくの的外れ…。そんな中、美咲がライバル社長・和田(北村一輝)と会っていたと知るや、二人の関係を疑い彼女をクビにすると宣言してしまう。果たして、零治はうまく気持ちを伝えることができるのか?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf68sl3o5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf23yg4ui</id>
-    <title>きみはペット_[１．美少年の飼い方]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4mym6spy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ きみはペット
-                &lt;a href="https://tver.jp/series/sr4mym6spy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf23yg4ui.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4：4月26日(日)14:00～5月4日(月)13:59&lt;br&gt;#5：4月30日(木)14:00～5月8日(金)13:59&lt;br&gt;#6：5月4日(月)14:00～5月12日(火)13:59&lt;br&gt;#7：5月8日(金)14:00～5月16日(土)13:59&lt;br&gt;#8：5月12日(火)14:00～5月20日(水)13:59&lt;br&gt;#9：5月16日(土)14:00～5月24日(日)13:59&lt;br&gt;#10：5月20日(水)14:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;大手新聞社で働くキャリアウーマンの巌谷スミレ（小雪）は「人前で泣くくらいなら死んだほうがマシ」という考えを持ち、学歴もキャリアもルックスも完璧にしていた。しかし、それが仇となり２年半付き合った彼氏・吉田勇治（長野博）に振られてしまう。&lt;br&gt;スミレが偏頭痛と戦いながら帰路に着くと、家の前にダンボールが置かれていることに気づく。中には怪我をした美少年・合田武志（松本潤）が入っていた。雨が降り出し、熱もあった武志を、スミレは一晩だけ看病することに。だが、翌日もスミレにまとわりついてくる武志。その人懐っこい様子が、昔飼っていたペットのモモに似ていると思ったスミレは、行き場がないと言う武志に「私に飼われる？ペットとしてなら置いてあげてもいい」と、大胆な提案をするが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf23yg4ui"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc6coohwc</id>
-    <title>マラソン_[マラソン]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srueqk4hb2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ マラソン
-                &lt;a href="https://tver.jp/series/srueqk4hb2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc6coohwc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;4月25日(土)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;二宮和也が自閉症の青年ランナーを熱演！韓国中を感動の渦に巻き込んだ実話を日本に舞台を移し、障害を持つ子供をとりまく家族や社会を軸に人と人との絆やつながりを描く。母親役の田中美佐子、コーチ役の松岡昌宏をはじめ、桜井幸子、山崎一、金田明夫、内藤剛志ら演技派俳優たちが顔を揃える。&lt;br&gt;【ストーリー】&lt;br&gt;宮田彰太郎（二宮和也）は福祉施設「和泉園」に通う、鉄道が大好きな「自閉症」の２０歳の愛らしい青年。母親の晴江（田中美佐子）は障害を克服しようと、彰太郎が幼い頃から、身体を鍛えるためによく山登りに連れて行った。彰太郎が走ることにおいて、並外れた能力を持っていることに気付いた晴江は、走る息子の姿に一筋の希望を見出し、粘り強くマラソンの練習をさせていた。ある日、フリーライターの岡村さなえ（桜井幸子）が自閉症の取材で「和泉園」にやってくる。そこで晴江と知り合ったさなえは、彰太郎が出場する１０キロマラソン大会を取材する。彰太郎のランナーとしての素質を目の当たりにしたさなえは、フルマラソン（４２．１９５キロ）に挑戦することを晴江にすすめる。さらに、コーチとして有名マラソンランナーの野口洋二（松岡昌宏）を紹介。洋二は訳あって陸上から離れていたが、晴江から哀願されしぶしぶ了解し、練習を開始する。走る素質はあるものの、「自閉症」ゆえの様々な障害を克服しなければならない彰太郎に戸惑う洋二。しかし、練習を重ねるうちに子供のように純粋で率直な彰太郎を洋二は少しずつ受け入れるようになる。そして彰太郎も洋二に心を開き始め、フルマラソン大会出場に向けた練習を続けるのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epc6coohwc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbb8bkyns</id>
-    <title>バンビ～ノ！_[第1話　仕事って甘くない]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwg1x7cq3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バンビ～ノ！
-                &lt;a href="https://tver.jp/series/srwg1x7cq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbb8bkyns.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/25(土)0:00～&lt;br&gt;#4-5　5/4(月)12/00～&lt;br&gt;#6-8　5/13(水)12:00～&lt;br&gt;#9-11　5/22(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;博多の小さなイタリア料理店サンマルツァーノでアルバイトをしていた大学4年生の伴省吾(松本潤)。店の厨房にも入り、客から褒められて自信満々だった伴は、バイト仲間で恋人の恵理(吹石一恵)に「将来一緒に店をやりたい」と夢を語っていた。そんな伴を見ていたシェフの遠藤進(山本圭)は、春休みの間、東京の一流店バッカナーレで“ヘルプ”として働くよう勧めた。遠藤はすでにオーナーシェフ・宍戸鉄幹(市村正親)に話をつけていたのだ。「助けてやろうじゃないの」と強気でバッカナーレへ向かった伴だったが―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbb8bkyns"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb10kw4lv</id>
-    <title>素直になれなくて_[第9話 君の命]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwvhjdf0d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 素直になれなくて
-                &lt;a href="https://tver.jp/series/srwvhjdf0d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb10kw4lv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;ナカジ（瑛太）は、父親の亮介（吉川晃司）が肺ガンに冒されていることを知り、大きなショックを受けていた。その亮介は、息子が最近カメラマンとして歩み始めたことで、もう一度写真を撮りたい、と思い始め、祥子（風吹ジュン）にモデルを頼む。&lt;br&gt;一方、ドクター（ジェジュン）は、ハル（上野樹里）に指輪をプレゼントするためにアルバイトを始めた。そのドクターの元に、父親が倒れたという手紙が届く。韓国へ戻らなくてはならなくなったドクターは、ハルにプロポーズをして、一緒に韓国に来てもらいたいと伝える。&lt;br&gt;そんな折、ピーち（関めぐみ）は、落ち込んでいるリンダ（玉山鉄二）を励ますため、スナナレ会の5人で海へ行こうと提案する。そこでドクターは、日本で過ごす最後の夏になる、と皆に話し・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『素直になれなくて』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb10kw4lv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb0ja88q0</id>
-    <title>ラッキーセブン_[第10話 仲間達よ永遠に！]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre8mw6xwl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラッキーセブン
-                &lt;a href="https://tver.jp/series/sre8mw6xwl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb0ja88q0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;松本潤主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月04日(土) ～ 05月01日(金)&lt;br&gt;#4：04月07日(火) ～ 04月13日(月)&lt;br&gt;#5：04月10日(金) ～ 04月16日(木)&lt;br&gt;#6：04月13日(月) ～ 04月19日(日)&lt;br&gt;#7：04月16日(木) ～ 04月22日(水)&lt;br&gt;#8：04月19日(日) ～ 04月25日(土)&lt;br&gt;#9：04月22日(水) ～ 04月28日(火)&lt;br&gt;#10：04月25日(土) ～ 05月01日(金)&lt;br&gt;&lt;br&gt;時多駿太郎（松本潤）は、何者かに連れ去られた藤崎瞳子（松嶋菜々子）の行方を捜査してほしいと警察署に駆け込むが、桐原由貴（吹石一恵）に断られてしまう。&lt;br&gt;駿太郎は、負傷して入院中の旭淳平（大泉洋）にそのことを報告。淳平は、警察に八神コーポレーションと通じている者がいる、八神コーポレーションの八神景介（鹿賀丈史）こそが、瞳子の父・眞人が死の直前まで調べていた男だと話した。&lt;br&gt;その後、駿太郎らを前にした筑紫昌義（角野卓造）は、16年前、弁護士だった眞人が八神の土地買収にまつわる不正の証拠を掴んだ直後に、不審な死を遂げたのだと明かした。そんなとき、駿太郎、筑紫、水野飛鳥（仲里依紗）、茅野メイ（入来茉里）の携帯電話に、瞳子を誘拐した犯人からメールが届く。犯人は、瞳子と引き換えに眞人の手帳を渡すよう指示。その後、指定場所で飛鳥が待機していると、駿太郎にボディーガードを頼んだ史織（夏帆）が現れ手帳を受け取った。史織は、バイクに乗った男にそれを手渡した。&lt;br&gt;男を見送った駿太郎らは、手帳に付属した万年筆に仕掛けたGPSで手帳の行方を追う。追跡を続けるとGPSは、海上の客船の上で止まった。早速、駿太郎と飛鳥は船内に潜入する。&lt;br&gt;その頃、船内に拉致されていた瞳子の元へ、手帳を手にした男（永井大）が現れた。それは、瞳子を付け狙っていた男だった。やがて万年筆のGPSに気づいた男はそれを破壊、船内に侵入者がいると確信し、それを捕らえるよう部下に指示。すると、男たちが現れ駿太郎を取り囲んだ。そのなかに、あろうことか新田輝（瑛太）がいて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ラッキーセブン』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb0ja88q0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epash8yri2</id>
-    <title>魔王_[第２話「裏切りの罠…引き裂かれた親子!!」]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 魔王
-                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epash8yri2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4-5：4月26日(日)11:00～5月4日(月)10:59&lt;br&gt;#6-7：5月4日(月)11:00～5月12日(火)10:59&lt;br&gt;#8-9：5月12日(火)11:00～5月20日(水)10:59&lt;br&gt;#10-11：5月20日(水)11:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;１１年前の忌まわしい記憶。それは芹沢（生田斗真）が成瀬（大野智）の弟・英雄（竹内寿）を刺殺してしまった事件。成瀬の壮大な復讐は、まずその記憶を芹沢に呼び覚ますことから始まった…。熊田（森下哲夫）の通夜には芹沢家の面々が出席。&lt;br&gt;そこには今回の事件の加害者・林（きたろう）の弁護人となった成瀬も参列していた。成瀬と初めて顔を合わせた栄作（石坂浩二）は、成瀬に強い関心を示し、顧問弁護士として迎えたいと言い出す。典良（劇団ひとり）や芹沢が困惑する中、成瀬の顔には、意味深な冷たい笑みが浮かんでいた―――。&lt;br&gt;熊田の事件に関する捜査本部が縮小される中、懸命に「雨野真実」を探していた芹沢の元に、またしても宅配便が届く。中には前回とは違う絵柄のタロットカードと、謎の手紙が同封されていた。いったいどんな意味が隠されているのか…！？自分になぜタロットカードが送られてくるのか分からず、すっきりしない芹沢。しかし、タロットカードが届いてすぐ熊田が殺された事に気づき、中西（三宅裕二）らと共に、今回も自分の周囲の人間が狙われるのではと予測する。誰かの恨みをかう人間。芹沢が一番に思い当たったのは、父・栄作だった！&lt;br&gt;その頃、芹沢の中学からの友人で取り立て屋の石本陽介（脇知弘）は、知り合いの保証人になって借金を負った新谷多恵（奥貫薫）に追い込みを掛ける。そのあまりの激しさに、多恵は心の平衡を崩していた…。&lt;br&gt;一方の成瀬は図書館を訪れ、しおり（小林涼子）に会う。両親がいないという共通点もあり、自然と惹かれあっていく２人。ある日、成瀬がしおりの友達が経営するカフェにコーヒーを飲みに行くと、そこへ芹沢が現れた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epash8yri2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaoa54q5d</id>
-    <title>僕とシッポと神楽坂_[第3話]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8yyz9026.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 僕とシッポと神楽坂
-                &lt;a href="https://tver.jp/series/sr8yyz9026" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaoa54q5d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ～ #1-#3&#13;&lt;br&gt;4/27(月) ～ #4-#6&#13;&lt;br&gt;5/18(月) ～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;町内会の寄り合いに出席した達也（相葉雅紀）は、そこで扇店『かなめ屋』を営む小宮千津（加賀まりこ）と会う。&#13;&lt;br&gt;千津の飼い猫・カナメは、徳丸（イッセー尾形）がいたころからの患畜。達也はたまにはカナメを病院に見せにきてほしい、と声をかける。&#13;&lt;br&gt;そんなある日、姿を消していたはずの徳丸が突然『坂の上動物病院』に現れる。勝手に病院に入り込んでいたのを発見したトキワ（広末涼子）は、徳丸を泥棒と勘違い！　トキワが徳丸を威嚇しているところに、ちょうど出勤した達也は、その光景にびっくりしてしまう…！　その後、徳丸が獣医師として南米に行っていたことを聞いたトキワは、7年前に南米に発って以来、行方不明になっている夫に思いを馳せ…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaoa54q5d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9w3rphlg</id>
-    <title>フリーター、家を買う。_[第10話 母さんが、笑った]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryfr16613.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ フリーター、家を買う。
-                &lt;a href="https://tver.jp/series/sryfr16613" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月01日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9w3rphlg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;二宮和也主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月04日(土) ～ 05月01日(金)&lt;br&gt;#4：04月07日(火) ～ 04月13日(月)&lt;br&gt;#5：04月10日(金) ～ 04月16日(木)&lt;br&gt;#6：04月13日(月) ～ 04月19日(日)&lt;br&gt;#7：04月16日(木) ～ 04月22日(水)&lt;br&gt;#8：04月19日(日) ～ 04月25日(土)&lt;br&gt;#9：04月22日(水) ～ 04月28日(火)&lt;br&gt;#10：04月25日(土) ～ 05月01日(金)&lt;br&gt;&lt;br&gt;誠治（二宮和也）は、隣人の西本（坂口良子）の差し金とは知らず、相沢（ムロツヨシ）という男にだまされて商品を購入させられた寿美子（浅野温子）のために、自分が働いて貯めてきた100万円を使ったことを大悦土木のメンバーに話す。職長の大悦（大友康平）は誠治へ大悦土木の正社員にならないかと持ちかける。一方で誠治は、先日寿美子の為に最終面接を受けずに家へ戻った会社から、会って話がしたいと言われる。ある日、武家には姑との関係が悪化した亜矢子（井川遥）が息子の智也（橋本智哉）を連れて帰ってきてしまう。また設計部門に行くことが決まった真奈美（香里奈）は、和歌山に2年間研修に行くことになって・・・。誠治は大悦土木の仲間と離れてしまうのか。真奈美との関係は？そして、目標だった家を、買うことができるのか。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『フリーター、家を買う』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9w3rphlg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9akmn87r</id>
-    <title>ラストホープ_[第2話 誰もやらないなら私が救う・・・最先端医療か最高難易度の手術か]</title>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8b3j7stf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラストホープ
-                &lt;a href="https://tver.jp/series/sr8b3j7stf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月25日(土)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9akmn87r.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;相葉雅紀主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月25日(土) ～ 05月28日(木)&lt;br&gt;#4：04月28日(火) ～ 05月04日(月)&lt;br&gt;#5：05月01日(金) ～ 05月07日(木)&lt;br&gt;#6：05月04日(月) ～ 05月10日(日)&lt;br&gt;#7：05月07日(木) ～ 05月13日(水)&lt;br&gt;#8：05月10日(日) ～ 05月16日(土)&lt;br&gt;#9：05月13日(水) ～ 05月19日(火)&lt;br&gt;#10：05月16日(土) ～ 05月22日(金)&lt;br&gt;#11：05月19日(火) ～ 05月25日(月)&lt;br&gt;&lt;br&gt;診察室の波多野卓巳（相葉雅紀）が橘歩美（多部未華子）を呼んだ。この日、卓巳が診察する患者、櫻井菜穂（小島藤子）は2つの部位に脳動脈瘤を患っていて、ひとつが巨大なために他の医大で手術を受けたが失敗。帝都大学附属病院の脳外科からも治療を断られたため、高度先端医療センターに回されたのだ。&lt;br&gt;そのため卓巳は脳神経外科医の歩美の意見が知りたかった。卓巳が歩美に菜穂の病状を説明していると高木淳二（田辺誠一）が顔を出す。高木は困難な治療になると菜穂の受け入れに反対するが、卓巳と歩美の見解は前向き。そんな3人の前に、看護師の今井麻衣（江口のりこ）が患者を呼び入れる。&lt;br&gt;菜穂は父の雅彦（小市慢太郎）に付き添われていた。前回手術を失敗した病院を雅彦が医療ミスで訴えていると口にしたため、高木はますます菜穂の受け入れを卓巳たちに止めさせようとする。しかし、このままでは5年以内に死に至る可能性が高いとストレートに菜穂に告げる歩美は、誰も手術をしなければ自分がやると言い切ってしまう。そんな歩美の熱意に、菜穂も手術を任せたいと応えた。この言葉に卓巳もセンターは患者にとってのラストホープだと受け入れを承諾。だが、歩美は自らも医療ミスで訴えられている。また、卓巳は別の意味で櫻井父娘への懸念を抱いていた。それでも、チームはカンファレンスで菜穂の治療を検討し始める。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ラストホープ』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9akmn87r"/>
   </entry>
 </feed>
