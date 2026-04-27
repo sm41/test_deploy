@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-27T16:06:56+09:00</updated>
+  <updated>2026-04-27T18:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6yajnd2b</id>
+    <title>ワカコ酒_[第7夜　だし巻きたまご]</title>
+    <updated>2026-04-27T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月27日(月)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6yajnd2b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「だし巻きたまご」。黄金色の卵の層が幾重にも重なり、程よい触感とその熱々の断面からあふれ出す出汁のうまみ……ぬる燗を口に運んだなら心地よい空間に包まれる。まるで音楽に身をゆだねるようにその時を味わうワカコ……　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6yajnd2b"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epmpqun08f</id>
     <title>流星花園II～花より男子～_[最終20話　約束の場所へ]</title>
