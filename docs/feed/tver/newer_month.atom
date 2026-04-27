@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-27T20:05:57+09:00</updated>
+  <updated>2026-04-27T22:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz9c1cswd</id>
+    <title>サバ缶、宇宙へ行く_[第3話 先生、卒業していく生徒の思いと強さ知って感涙する]</title>
+    <updated>2026-04-27T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月27日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz9c1cswd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                若狭水産高校の教師、朝野峻一（北村匠海）と生徒たちは、NASA（アメリカ航空宇宙局）が作った食品衛生管理システムのHACCP（ハサップ）認証を取得するため申請を提出。それから半年以上が経過し、菅原奈未（出口夏希）たちは進路について本格的に考える時期を迎えていた。&lt;br&gt;生徒一人ひとりが進路の悩みを抱える中、朝野からついにHACCP認証の報告を受ける。その場にいた奈未の「宇宙へ飛ばす。うちらのサバ缶」という言葉をきっかけに、NASAへ「サバ缶を宇宙に届けたい」と英語でメールを送ることにしたが、なしのつぶて。&lt;br&gt;そんな中、アメリカにあるNASAではなく日本からと気づいた朝野は茨城県つくば市にあるJAXA（宇宙航空研究開発機構）に出向き、宇宙教育センターの皆川有紀（ソニン）を訪ねる。朝野は若水の生徒たちが、自分たちが作るサバ缶を宇宙食にするため試行錯誤を重ねている経緯を伝え、実現に向けてのアドバイスを求める。すると、皆川は「自分は教育センターの人間なので答えられないが、宇宙食開発担当者たちにつなぐことはできるかも」と話し、そのために“宇宙食として成立する設計”を10日後に提出して欲しいと課題を提示する。&lt;br&gt;朝野から報告を受け、やる気を見せる奈未たちとは対照的に、否定的な意見を言うのは木村琉空（山下永玖）。高校3年生の彼らにとって高校生活はあと半年もない。進路に悩む琉空は「現実を見ろよ」と同級生たちに苛立ちを隠せない。そんな琉空のある言葉に、寺尾創亮（黒崎煌代）は怒りを露わにして…。&lt;br&gt;そんな折、JAXAで「宇宙日本食認証基準案」を開発中の木島真（神木隆之介）に、皆川が、高校生たちがサバ缶を宇宙食にするため奔走している話を伝える。しかし、木島は現実的ではないと断言。&lt;br&gt;10日後に迫るリミット。そして、生徒たちが選ぶ未来、朝野と生徒たちが描く夢の行く末は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz9c1cswd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep29w8xv9l</id>
     <title>孤独のグルメ Season3_[第7話 目黒区駒場東大前のマッシュルームガーリックとカキグラタン]</title>
