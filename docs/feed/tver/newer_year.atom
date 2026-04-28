@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-28T10:05:56+09:00</updated>
+  <updated>2026-04-28T12:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdj7rc89j</id>
+    <title>大好き！五つ子６_[第12回]</title>
+    <updated>2026-04-28T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdj7rc89j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;５人でそれぞれに将来の夢を語るうち、みんながバラバラになってしまうのだと感じ、寂しくなった拓也（谷野欧太）は、美咲（前園りさ）から双子にはシンクロニシティという神秘的な絆が存在するのだと聞かされる。拓也は五つ子のシンクロニシティを証明して５人の絆を確認したいと考え、いろいろな実験を試みる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdj7rc89j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4ctb7xiy</id>
     <title>その着せ替え人形は恋をする_[#1「真逆の２人」《ドラマイズム》]</title>
