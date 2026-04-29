@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-29T22:05:20+09:00</updated>
+  <updated>2026-04-30T00:06:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptgbfk8o6</id>
+    <title>向こう側の僕_[＃４「未来につなげる小さな一歩」]</title>
+    <updated>2026-04-29T23:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srshfh4z2l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 向こう側の僕
+                &lt;a href="https://tver.jp/series/srshfh4z2l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_23時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月20日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptgbfk8o6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                授業で学んだことを実行する。&lt;br&gt;小さな一歩が、&lt;br&gt;未来につながっていく
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptgbfk8o6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epx7pgwizg</id>
+    <title>月夜行路 ―答えは名作の中に―_[第四話 旅の答えは太宰治に…23年ごしの再会、そして告白。]</title>
+    <updated>2026-04-29T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxnogfmcq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 月夜行路 ―答えは名作の中に―
+                &lt;a href="https://tver.jp/series/srxnogfmcq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx7pgwizg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【カズトと23年越しの再会&amp;告白…君の名は希望】&lt;br&gt;&lt;br&gt;「なぜ結婚を誓った彼は、突然私を捨てた?」&lt;br&gt;「一週間後の留守電…何を伝えたかった?」&lt;br&gt;涼子(麻生久美子)の未練を解くためカズト(作間龍斗)を探すルナ(波瑠)たち。大阪中の“佐藤さん”を訪ね歩くもリスト残り3軒…焦燥の中、なんと昔のカズトと瓜二つの青年が出現!奏と名乗る彼もまた涼子が気になる様子で…長い歳月を超えた驚きの真実が明らかに!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epx7pgwizg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epmc32we74</id>
     <title>孤独のグルメ Season3_[第9話 練馬区小竹向原のローストポークサンドイッチとサルシッチャ]</title>
