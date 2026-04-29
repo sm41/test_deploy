@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-29T11:00:50+09:00</updated>
+  <updated>2026-04-29T12:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epfehiy98j</id>
+    <title>大好き！五つ子６_[第13回]</title>
+    <updated>2026-04-29T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月13日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfehiy98j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;鎌倉行きを前に桃子（森尾由美）に古着の整理を頼まれた五つ子。美穂（新穂えりか）のアイデアでガレージセールを催し、いらない服を売ろうということになった。遊びに来た由佳（鈴木かすみ）は５人の準備の様子を見て「ままごと感覚ならやめた方がいい」と冷たく言い放つ。もともと由佳が気に入らなかった美穂（新穂えりか）はついにブチ切れてしまい…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epfehiy98j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epv2gupaek</id>
     <title>私の彼が姉の夫になった理由_[第7話「暗闇の監禁生活」《ドラマフィル》]</title>
