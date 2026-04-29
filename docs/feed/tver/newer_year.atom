@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-29T18:06:20+09:00</updated>
+  <updated>2026-04-29T20:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6hcnmm9p</id>
+    <title>ディア・シスター_[第7話 命がけの愛情]</title>
+    <updated>2026-04-29T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディア・シスター
+                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月06日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6hcnmm9p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;美咲（石原さとみ）の前に現れた宗一郎（田辺誠一）が、お腹の子どものDNA鑑定を要求してきた。宗一郎は「もし自分の子なら一緒に育てたい」と美咲に告げる。&lt;br&gt;一方、葉月（松下奈緒）は陽平（平山浩行）からプロポーズされて・・・。&lt;br&gt;そして、宗一郎に迫られた美咲は、永人（岩田剛典）に相談する。頼ってばっかりで恐縮する美咲に、永人は「俺は美咲にとって唯一無二の存在になるって決めたから」と力強く宣言、弁護士の友人に連絡を取りつける。&lt;br&gt;後日、美咲と永人は、永人の友人の弁護士を訪ね、親権についての助言を受ける。美咲の「母親が死んだ場合はどうなるのか」という質問に、不安を抱く永人。&lt;br&gt;その夜、美咲が帰宅すると、そこにはなんと宗一郎の姿が・・・。そして葉月は、宗一郎から美咲の妊娠を聞かされていた・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6hcnmm9p"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eply4sp07p</id>
     <title>チェイサーゲームW2 美しき天女たち_[最終話 運命は私たちが変える]</title>
@@ -1408,125 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eplxeyce6s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl0hgjzqs</id>
-    <title>トリック 2_[第10話]</title>
-    <updated>2026-04-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トリック 2
-                &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl0hgjzqs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/11(水)～ #1-#3&#13;&lt;br&gt;3/31(火)～ #4-#7&#13;&lt;br&gt;4/28(火)～ #8-#11&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;episode5 「最終章！妖術使いの森」&#13;&lt;br&gt;来さ村という村の、1度入ったら2度と出て来れないという伝説がある白木の森に、高速道路建設の話が持ち上がる。村の発展を願う役場の建設部長・橋本（市川勇）は森に調査隊を出すが、誰も無事に帰って来ない。そんな中、上田（阿部寛）とそのアシスタントの奈緒子（仲間由紀恵）、民俗学の権威・柳田国男（寺田農）、ルポライターの小松純子（石野真子）、秘境探検家で俳優のアラン井上（手塚とおる）、建設会社に勤務する日向（佐藤二朗）といった面々で調査を行うことになり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epl0hgjzqs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkzd6t5sn</id>
-    <title>漂着者_[ep,7]</title>
-    <updated>2026-04-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0c3j535g.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 漂着者
-                &lt;a href="https://tver.jp/series/sr0c3j535g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkzd6t5sn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/11(水)～ #1-#3&#13;&lt;br&gt;3/31(火)～ #4-#6&#13;&lt;br&gt;4/28(火)～ #7-#9&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;ヘミングウェイ（斎藤工）と対談していた総理大臣が落下してきたシャンデリアの下敷きになって死亡。ヘミングウェイが死を予言する言葉を叫んだ後に、シャンデリアが落下するという決定的な瞬間の動画が拡散され、世間が騒然となる中、外務大臣の藤沼恵美子（峯村リエ）が総理大臣臨時代理に任命される。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkzd6t5sn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epja7b3njk</id>
-    <title>オトナ女子_[第9話 輝くキス]</title>
-    <updated>2026-04-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdiubyg3f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ オトナ女子
-                &lt;a href="https://tver.jp/series/srdiubyg3f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月04日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epja7b3njk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;亜紀（篠原涼子）のマンションに、いきなり高山（江口洋介）がやってくる。応対した亜紀に、「会いたくて・・・」という高山。亜紀は、戸惑いながらも高山を迎え入れるが・・・。&lt;br&gt;萠子（吉瀬美智子）は、店にやってきた母・絹江（朝加真由美）に、ひとり暮らしをするために部屋を借りようと思っていることを告げる。しかし絹江は、それを認めようとはせず、「私のこと、捨てるつもりなの？」と言い出す。&lt;br&gt;同じころ、とあるネット掲示板に、栗田（谷原章介）と関係を持ったという女性たちが集まり、彼に関する書き込みをしていることが判明する。秘書の玲子（東加奈子）からその話を聞いた栗田は、このくらいやられても仕方ないと返す。&lt;br&gt;亮介（吉沢亮）は、カフェ『caldo』を訪れ、高山に恋愛相談を持ち掛ける。亮介が亜紀に思いを寄せているとは知らない高山は、相手の趣味や嗜好を知ることの必要性を説き、若いのだから失うことを恐れずにぶつかってみればいい、とアドバイスした。&lt;br&gt;一方、みどり（鈴木砂羽）は、もう一度話し合いをするために、三男・陵（浦上晟周）をいじめていた相手の家を訪れる。するとそこに沢田（千葉雄大）もやってくる。しかし、相手側の両親は、みどりが金目当てで騒ぎ立てていると決めつける。&lt;br&gt;そんな折、亜紀たちが取り組んでいたアラフォー向け恋愛アプリがとうとう完成する。社内で打ち上げをすることにした亜紀は、高山にも声をかけ・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『オトナ女子』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epja7b3njk"/>
   </entry>
 </feed>

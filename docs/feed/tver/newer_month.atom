@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-29T18:06:20+09:00</updated>
+  <updated>2026-04-29T20:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmc32we74</id>
+    <title>孤独のグルメ Season3_[第9話 練馬区小竹向原のローストポークサンドイッチとサルシッチャ]</title>
+    <updated>2026-04-29T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season3
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月13日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmc32we74.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                小竹向原駅で下車した井之頭五郎（松重豊）。仕事で訪れたギャラリーでは、依頼主が明日の開店準備に追われていた。ところが、店に置くアクセサリーが配送ミスで届かないという。五郎は知り合いの業者に電話を入れて、明日までに用意できる商品を探すなどの仕事をこなしているうちに、ギャラリーで朝を迎える。久しぶりの徹夜で猛烈に腹が減った五郎は、焼き立てのパンが食べられる1軒のカフェのような店を見つける。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmc32we74"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep9flbn9ee</id>
     <title>輝く星のターミナル_[第1話]</title>
