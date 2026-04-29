@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-04-29T14:05:20+09:00</updated>
+  <updated>2026-04-29T16:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1608,45 +1608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep67u5qt7z"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5tjl4asb</id>
-    <title>トリック 2_[最終回]</title>
-    <updated>2026-04-28T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ トリック 2
-                &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5tjl4asb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/11(水)～ #1-#3&#13;&lt;br&gt;3/31(火)～ #4-#7&#13;&lt;br&gt;4/28(火)～ #8-#11&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;episode5 「妖術使いの謎 完結編」&#13;&lt;br&gt;姿を消した橋本（市川勇）の死体が発見される。上田（阿部寛）はその近くで妖術使いを見たという。しかし彼が見た妖術使いは、仮面を被っていた。しかし奈緒子（仲間由紀恵）が会った妖術使いは椎名桔平の顔…。柳田（寺田農）は、妖術使いは相手の目に映る自分の顔を自由に変えられると言う。しかしそれは、誰でも妖術使いのふりができるということ？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5tjl4asb"/>
   </entry>
 </feed>
