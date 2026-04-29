@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-29T02:05:57+09:00</updated>
+  <updated>2026-04-29T11:00:50+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9flbn9ee</id>
+    <title>輝く星のターミナル_[第1話]</title>
+    <updated>2026-04-29T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9flbn9ee.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                憧れの仁川空港公社に入社して１年になるハン･ヨルムは不器用な性格がゆえに数々のトラブルを起こし旅客サービスチームに異動を命じられる。新しい部署で心機一転するつもりが初日から寝坊してしまう。統合失調症の迷子を捜索することになったヨルムだが、新入社員のイ･スヨンが自分の指導員になったことが気に入らず指示を無視して単独行動を行う。しかし、そこで客に襲われそうになり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9flbn9ee"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep1ihw5ue3</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第１４話「期待の証」]</title>
+    <updated>2026-04-29T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月29日(水)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月13日(水)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1ihw5ue3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                第一の試練を突破したものの、宮子羽にはまだあと二つ試練が残っていた。先行きを案じる宮子羽だが雪重子は前執刃がどれほど宮子羽に期待を寄せていたかを話して聞かせる。その証が紅玉侍の身分を持つ一流の侍衛・金繁を宮子羽のそばに置いたことだった。羽宮に戻った宮子羽は雲為衫に記録の一件を問い質しに向かう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1ihw5ue3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0ccm0ack</id>
     <title>失恋カルタ_[第５話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「つ」《ドラマイズム》]</title>
@@ -888,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep29w8xv9l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6yajnd2b</id>
-    <title>ワカコ酒_[第7夜　だし巻きたまご]</title>
-    <updated>2026-04-27T17:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ワカコ酒
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月27日(月)_17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6yajnd2b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「だし巻きたまご」。黄金色の卵の層が幾重にも重なり、程よい触感とその熱々の断面からあふれ出す出汁のうまみ……ぬる燗を口に運んだなら心地よい空間に包まれる。まるで音楽に身をゆだねるようにその時を味わうワカコ……　[期間限定無料配信]
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6yajnd2b"/>
   </entry>
 </feed>
