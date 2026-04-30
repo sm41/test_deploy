@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-30T10:06:20+09:00</updated>
+  <updated>2026-04-30T12:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epis3msky8</id>
+    <title>輝く星のターミナル_[第2話]</title>
+    <updated>2026-04-30T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epis3msky8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ヨルムは以前会ったことがあると伝えるが、スヨンは記憶にないと突き放す。ある日、空港に爆弾を仕掛けたという脅迫電話があり職員たちに緊張が走る。ごみ箱で不審な袋を発見したヨルムは恐る恐る袋の中身を見るが、そこには大量の金塊が。その金塊が密輸に関係があると考えたヨルムは事件を解決し手柄を立てようとするが、スヨンに管轄外のことに関わらず自分の仕事をするべきだととがめられる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epis3msky8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep91y97t4x</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第１５話「策略の失敗」]</title>
@@ -888,85 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epyhni40yi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptxa57kua</id>
-    <title>シカゴ･ファイア_[別れの時]</title>
-    <updated>2026-04-28T03:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シカゴ･ファイア
-                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_03時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_01時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptxa57kua.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第23話「別れの時」(吹替)&lt;br&gt;ケイシー小隊長は意に反してボイト率いる特捜班に協力することとなる。出所後もボイトは相変わらず不正を続けているようだった。シェイは親になることに期待が膨らむ。一方ミルズとドーソンの関係に変化が。モリーズのオープンを51分署が応援する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptxa57kua"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd83juqog</id>
-    <title>クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２_[第2話]</title>
-    <updated>2026-04-28T03:05:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpc9l1j0q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２
-                &lt;a href="https://tver.jp/series/srpc9l1j0q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_03時05分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_03時04分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd83juqog.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                アレックスが個人的に格闘技を教わっていた青年が、駐車場で遺体となって見つかる。被害者は賭けで作った借金を返すためにどこかのクラブの大会に参加し、賞金を獲得しようとしていた、と妻は証言。アレックスたちは現場に落ちていたメダルと通話記録から、地下格闘技クラブと思われる場所を見つけて潜入し、アレックスとエルネストが試合に出場することに。その間、カイはクラブのオーナーを尾行し怪しげな貨物を発見する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd83juqog"/>
   </entry>
 </feed>
