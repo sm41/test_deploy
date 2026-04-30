@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-30T12:05:20+09:00</updated>
+  <updated>2026-04-30T14:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzzpaj4al</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第７話「アリバイ」]</title>
+    <updated>2026-04-30T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzzpaj4al.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ボンヒの告白を断るジウク。ボンヒはジウクと距離を保とうと努力し、ウニョクは彼女を慰める。ヒョンスの弁護のため事件を調べるジウクとボンヒ。しかしヒョンスの意外な一面を見たジウクは、彼に不信感を抱きながら事件の真相に迫る。そして、ついに判決の時がくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzzpaj4al"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epis3msky8</id>
     <title>輝く星のターミナル_[第2話]</title>
@@ -186,7 +226,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_02時40分&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
                 &lt;th&gt;
@@ -888,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep7tkv3iou"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyhni40yi</id>
-    <title>雲之羽～揺らめく愛、刹那の二人～_[第１３話「記録の行方」]</title>
-    <updated>2026-04-28T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
-                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_10時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月28日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyhni40yi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                宮子羽は雲為衫と力を合わせてついに第一の試練を突破する。水辺で熱い抱擁を交わす２人。雲為衫のもとにやって来た上官浅は金繁の手元にある破れた記録を盗んでほしいと頼む。そこに宮子羽の出生の秘密が記載されていると知る雲為衫はこの依頼を断るが、宮尚角の信頼を得て任務を遂行したい上官浅は諦めず無理強いを。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyhni40yi"/>
   </entry>
 </feed>
