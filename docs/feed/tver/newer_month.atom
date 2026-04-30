@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-30T02:05:20+09:00</updated>
+  <updated>2026-04-30T10:06:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep91y97t4x</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第１５話「策略の失敗」]</title>
+    <updated>2026-04-30T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月14日(木)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep91y97t4x.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                霧姫夫人の証言で、宮尚角が疑問を呈した宮子羽の出生に関する策略は失敗に終わる。霧姫夫人は宮子羽に実母の蘭（ラン）夫人のことを話して聞かせる。母が自分に冷たかった理由を知った宮子羽は、母の心情を理解する。反撃の機会を失った宮尚角は怒りを露わにしていた。宮遠徴は上官浅が手に入れた記録に問題があったとして暗に彼女を責める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep91y97t4x"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvzqx8clh</id>
+    <title>L&amp;P_[第30話　不安にさせる]</title>
+    <updated>2026-04-30T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvzqx8clh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                飛揚(フェイヤン）の社長は、李峋(リー・シュン）の新しいゲーム企画を社員たちに発表する。内容が恋愛育成ゲームと知り、朱韻(ジュー・ユン）は気が進まない。しかもデザイン担当は修竹（シウジュ）。なぜ彼が引き受けたのか・・・疑問を持った朱韻は探るように食事に誘うが、その答えはまだ闇の中にあった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvzqx8clh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ephz7f5l5i</id>
     <title>AIに話しすぎた男_[AIに話しすぎた男]</title>
@@ -888,205 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epd83juqog"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy4bqlrdh</id>
-    <title>スモークブルーの雨のち晴れ_[第４話・自覚]</title>
-    <updated>2026-04-28T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmrxmnprs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スモークブルーの雨のち晴れ
-                &lt;a href="https://tver.jp/series/srmrxmnprs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月05日(火)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy4bqlrdh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                朔太郎（武田航平）が久慈（渋谷謙人）の家に出入りする中、アメリカ在住の兄・実（田中幸太朗）が一時帰国。いずれ兄家族が住む予定の久慈家を見に来るという知らせに、久慈は気が重くなる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy4bqlrdh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvzszppjx</id>
-    <title>やたらやらしい深見くん_[#4 俺のものだけのはずだったのに]</title>
-    <updated>2026-04-28T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxpahxjjr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ やたらやらしい深見くん
-                &lt;a href="https://tver.jp/series/srxpahxjjr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月05日(火)_01時35分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvzszppjx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                イメチェンした深見が社内で注目を浴び、梶は理由のわからない苛立ちを覚える。自分だけが知っているはずの姿を他人に見られることが面白くない。ホテルで主導権を握ろうとするも余裕は空回りし、深見が特別な存在になっていることを自覚してしまう。優しく気遣われた瞬間、強がりが崩れた梶は「しばらく会うのをやめよう」と距離を置く。初めて、感情をコントロールできなくなっていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvzszppjx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epskfjs5k4</id>
-    <title>犬飼さんは隠れ溺愛上司_[#4 それでも、好き]</title>
-    <updated>2026-04-28T01:20:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvqwj0nt0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 犬飼さんは隠れ溺愛上司
-                &lt;a href="https://tver.jp/series/srvqwj0nt0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月05日(火)_01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epskfjs5k4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                職場で先輩から冷たい態度を取られ落ち込む渚。残業を手伝ってくれた犬飼を夕食に招くが、緊張から距離が近づきすぎてしまう。戸惑いながらも渚は、自分の気持ちは本物だと気づき、初めて自ら想いを伝える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epskfjs5k4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epimyhqn0p</id>
-    <title>share_[第2話 恋をしてはいけない人]</title>
-    <updated>2026-04-28T01:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrvlrfses.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ share
-                &lt;a href="https://tver.jp/series/srrvlrfses" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月05日(火)_01時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epimyhqn0p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                同居して早々、寝ぼけた理央にキスをされたはる。衝撃的な朝を迎え、気づけば理央のことばかり考えてしまう。“好きになってはいけない人”を好きだった経験から、はるは人を好きになることに臆病になっていた。そんな中、理央のセフレである岩倉智則がシェアハウスを訪れる。はるに高圧的な態度を取り、見せつけるように理央にキスをして…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epimyhqn0p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epco2xx9vs</id>
-    <title>多すぎる恋と殺人_[4話【全話配信中】恋人たちの殺し合い]</title>
-    <updated>2026-04-28T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7208gcpq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 多すぎる恋と殺人
-                &lt;a href="https://tver.jp/series/sr7208gcpq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月28日(火)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epco2xx9vs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                マイラブ同士のデスゲームが開幕！？&lt;br&gt;警視庁捜査一課刑事・谷崎真奈美(森カンナ)の50人の恋人＝マイラブたちが次々と殺害される連続殺人事件。真奈美は残されたマイラブたちを守るためにみんなをペンションに集めたが、目を離した隙に、マイラブの1人、EITOが殺害されてしまった…！――「初めまして。アイチャンです。この方は……真奈美さんに近づいたため、殺害させていただきました」――。&lt;br&gt;どこに潜んでいるのか、姿を見せない『アイチャン』は、真奈美に近づく者を徹底的に排除すると宣言。&lt;br&gt;突然始まったマイラブ同士によるデスゲーム！もう誰も死なせたくない真奈美は、後輩刑事・黒岩壮馬(西垣匠)と一緒に、24時間以内に『アイチャン』の正体を突き止めようとするが…。止まらない連続殺人の行方は――！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epco2xx9vs"/>
   </entry>
 </feed>
