@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-04-30T18:06:21+09:00</updated>
+  <updated>2026-04-30T20:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6yue77in</id>
+    <title>最後の雨が降るとき_[第10話　世界よりも君を選ぶ]</title>
+    <updated>2026-04-30T19:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_19時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_19時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6yue77in.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                天娣(ティエンディ)が居た交差点で、集まっていた人が次々と倒れる事態が起こる。その悲惨な光景は天娣が“時の幻影”で見た光景だった。原因不明の事態に、人々は不安を感じる。身の危険を感じた雨神(オラド)は、天娣と共に瞬間移動をする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6yue77in"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epkszu8ioz</id>
+    <title>孤独のグルメ Season3_[第10話 荒川区西尾久の炎の酒鍋と麦とろ飯]</title>
+    <updated>2026-04-30T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season3
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月14日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkszu8ioz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                都電荒川線の荒川遊園地前駅で下車した井之頭五郎（松重豊）は「あらかわ遊園」内の「下町都電ミニ資料館」へ。そこで、資料館のイベントのための模型を依頼される。その後、五郎は、キャリーバッグのキャスターが壊れて困っているおばあさんに出会い、一緒に宮ノ前駅で降りてバッグを運んでやる。そうして腹が減った五郎。そこで、とんかつを選んだ五郎だったが、店内にはとんかつだけでなく、鍋を囲む家族客の姿が……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkszu8ioz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzzpaj4al</id>
     <title>あやしいパートナー ～Destiny Lovers～_[第７話「アリバイ」]</title>
