@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-01T22:05:46+09:00</updated>
+  <updated>2026-05-02T00:06:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1l8n94by</id>
+    <title>田鎖ブラザーズ_[ep.03]</title>
+    <updated>2026-05-01T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月1日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1l8n94by.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;真（岡田将生）と稔（染谷将太）の両親を殺した犯人と目されていた津田雄二（飯尾和樹）が見つかった。しかし津田は末期がんで病院に運びこまれており、昏睡状態。このまま目を覚まさない可能性も…。犯人かもしれない相手が目の前にいるのに手も足も出せない状況に、真と稔は打ちひしがれる。&lt;br&gt;そんな中、管内のアパートで放火殺人と思われる事件が発生する。被害者は一人暮らしの２０代女性・水澤愛子（武上陽奈）。事件直前に連絡を取っていた友人・横倉沙紀（石川瑠華）によると、「東郷」という男に付きまとわれていたという。稔は、調べるうちにある物証を発見。それは放火事件に隠された謎を解き明かす鍵となっていく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1l8n94by"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwil56zb7</id>
     <title>刑事、ふりだしに戻る_[3話 前世と違う“真犯人”]</title>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-01T22:05:46+09:00</updated>
+  <updated>2026-05-02T00:06:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5e8s4qj0</id>
+    <title>愛しあってるかい！_[第10話 クリスマスは愛と涙と感動だ！]</title>
+    <updated>2026-05-02T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8lnhsmf4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 愛しあってるかい！
+                &lt;a href="https://tver.jp/series/sr8lnhsmf4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月02日(土)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1989年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5e8s4qj0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;クリスマスが近づき、南青山高、表参道女子高の生徒たちはソワソワ。一平（陣内孝則）は学校の体育館でクリスマスパーティーを開くことにした。章吾（角田英介）らは学校の帰り、純（田中律子）らにクリスマスパーティーのビラを配る。会費2,000円で飲み放題、食べ放題。吹雪（小泉今日子）もそのビラを手にする。&lt;br&gt;一平は拓実（柳葉敏郎）、誠（近藤敦）とパーティーでの芝居の相談。張り切っている。その当日。西麻布高が送迎バスで表参道女子高の生徒たちを根こそぎ連れ去った。南青山高のパーティー会場には女性なし。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『愛しあってるかい！』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5e8s4qj0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep8bba6yy9</id>
     <title>大好き！五つ子６_[第15回]</title>
