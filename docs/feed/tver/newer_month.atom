@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-01T02:06:21+09:00</updated>
+  <updated>2026-05-01T11:10:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep67ktkl84</id>
+    <title>輝く星のターミナル_[第3話]</title>
+    <updated>2026-05-01T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月1日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep67ktkl84.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                力のことで目立ちたくないスヨンだが、思いがけず脅迫電話の犯人に出くわしてしまい、捕まえるべきか葛藤する。ヨルムは暴言を吐いた謝罪も兼ねてスヨンに昼食を差し入れるが、不注意でスヨンの右手に熱湯をかけてしまい…。会社を辞める決心をしたスヨンだったがヤン･ソグンに説得されＴ２へ異動する。同じくＴ２へ異動したヨルムは、天敵であるイ･ウテクとソ･イヌに再会し絶望する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep67ktkl84"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmja1rdyy</id>
+    <title>その天才様は偽装彼女に執着する_[第2話 凛は俺の恋人だけど＜ドラマトリップ＞]</title>
+    <updated>2026-05-01T03:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr03vdkq4c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ その天才様は偽装彼女に執着する
+                &lt;a href="https://tver.jp/series/sr03vdkq4c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_03時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月18日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmja1rdyy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                郁からの「偽装彼女」の提案に戸惑う凛は、その依頼を受けるかどうか決めかねていた。前にいた会社でのトラブルや元カレに捨てられたことを思い出し、自信を持てずにいた 。そんな中、郁の仕事の付き添いでかつての職場を訪れることになった凛は、宗太と再会。ヨリを戻そうと詰め寄られて困惑する凛との間に、郁が割って入る。郁の不器用な優しさに触れた凛は、契約の締結を決意して―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmja1rdyy"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epsnjgdblq</id>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第4話]</title>
+    <updated>2026-05-01T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_02時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsnjgdblq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                人事部チーフのモニカは、社員が柔軟で効率的に働けるようにと「タメ口推奨」を決定し、新しい文化を創るために社内専用通貨“スティーブマネー”を導入すると宣言した。アシュリーはこの提案をバカにしていた一人であったが、逆に“スティーブマネー”で稼いでやろうとさまざまな方法を試み、流通の9割以上を独占する。しかしモニカの策略にはまってしまい・・・。ジェイは、“スティーブマネー”に執着するアシュリーの様子を心配していた最中、偶然モニカの秘密を知ることになりモニカに突きつける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsnjgdblq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjx3ppkl0</id>
     <title>ネタジョ_[第1話「NON STYLE」《ドラマフィル》]</title>
@@ -248,45 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epckxi1emt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkcjt67tk</id>
-    <title>今夜、秘密のキッチンで_[第4話 突然の告白！俺はあなたが好きー]</title>
-    <updated>2026-04-30T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
-                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_04月30日(木)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkcjt67tk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                Kei（高杉真宙）は、2ヵ月前の転落事故で昏睡状態となったイタリアンレストランのシェフ・若林慧〈あきら〉で、藤子（瀧本美織）の婚約者だった。真実を慧に伝えてしまったら、記憶を取り戻してもう会えないかもしれない・・・。そう思うと、あゆみ（木南晴夏）はその日の夜に現れたKeiに全てを伝えることはできなかった。&lt;br&gt;&lt;br&gt;翌朝、新玉ねぎとクレソンの味噌汁を食卓に出すあゆみ。予想外の美味しさに、渉（中村俊介）はいつもの文句が言えない。急に薬膳に詳しくなったあゆみを怪しんだ渉は、社長室で舞（佐津川愛美）に電話をかける。「誰かいい人がいるのかもしれない」という舞の言葉に、苛立ちを見せる渉。&lt;br&gt;&lt;br&gt;一方、あゆみは、転落事故を調査していた里佳（月城かなと）に連絡を取る。とそこに隣人の幽霊・林太郎（安井順平）が現れ、あゆみは悩みを打ち明ける。慧はこのキッチンに何か心残りがあるのではないかと、彼は言うのだが・・・。&lt;br&gt;&lt;br&gt;その日、あゆみがパントリーに食材をしまっていると、棚の奥から1冊のノートを見つける。その表紙に記された『Kei』の文字。あゆみは息をのみ、震える手でページをめくってゆく・・・。そこには四季に合わせたイタリアン薬膳のメニューが書かれており、最後のレシピ『夏のポルペッテ』は食材がいくつか記されているものの、作り方は未完成のままだった。&lt;br&gt;&lt;br&gt;心残りとは、このノートのことなのだろうか？もし慧がこれを見てしまったら・・・。ノートを抱きしめ、パントリーを飛び出すあゆみ。なぜ慧のノートがここに・・・？今、二人の運命が大きく動き始める・・・！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkcjt67tk"/>
   </entry>
 </feed>

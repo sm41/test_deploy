@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-01T02:06:21+09:00</updated>
+  <updated>2026-05-01T11:10:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -208,45 +208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2f744nba"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1x6jfwfh</id>
-    <title>素直になれなくて_[第11話 未来へ。]</title>
-    <updated>2026-05-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwvhjdf0d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 素直になれなくて
-                &lt;a href="https://tver.jp/series/srwvhjdf0d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1x6jfwfh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;ナカジ（瑛太）は、新聞社から父・亮介（吉川晃司）のもとに、ある紛争地帯を取材してほしい、というオファーがあったことを聞かされる。そんな折、ベストマガジンの奥田編集長（渡辺えり）に会ったナカジは、彼女から紹介してもらった大事な撮影の仕事を、リンダ（玉山鉄二）のもとにかけつけるために中断してしまったことを詫びた。&lt;br&gt;一方、ハル（上野樹里）は、先日受験した私立高校の専任教諭採用試験の結果を、推薦者である桐成高校の校長（鶴田忍）に報告しにいく。そんな中、ドクター（ジェジュン）は、正式に結婚を考えてほしいとハルに伝え・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『素直になれなくて』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1x6jfwfh"/>
   </entry>
 </feed>
