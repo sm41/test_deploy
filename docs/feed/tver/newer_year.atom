@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-01T11:10:32+09:00</updated>
+  <updated>2026-05-01T12:06:46+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep8bba6yy9</id>
+    <title>大好き！五つ子６_[第15回]</title>
+    <updated>2026-05-01T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8bba6yy9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;突然、良枝（岩本多代）が桜井家に現れた。剛（金澤翔太）が「今年は鎌倉に行けない」と電話してきたため、直接事情を聞こうと乗り込んできたのだ。さらに良枝は桃子（森尾由美）がパートに出ていることを知り、「聞いてなかった」と怒りのボルテージをあげてしまい、出かける時間が迫っていた桃子は困ってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8bba6yy9"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnqxkjczl</id>
     <title>謎解きはディナーのあとで_[第5話 アリバイをご所望でございますか]</title>
@@ -168,45 +208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2vz7sbj8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2f744nba</id>
-    <title>鍵のかかった部屋_[第5話 鍵のかかっていない部屋]</title>
-    <updated>2026-05-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkr1m6s81.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 鍵のかかった部屋
-                &lt;a href="https://tver.jp/series/srkr1m6s81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2f744nba.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;大野智主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月25日(土) ～ 05月28日(木)&lt;br&gt;#4：04月28日(火) ～ 05月04日(月)&lt;br&gt;#5：05月01日(金) ～ 05月07日(木)&lt;br&gt;#6：05月04日(月) ～ 05月10日(日)&lt;br&gt;#7：05月07日(木) ～ 05月13日(水)&lt;br&gt;#8：05月10日(日) ～ 05月16日(土)&lt;br&gt;#9：05月13日(水) ～ 05月19日(火)&lt;br&gt;#10：05月16日(土) ～ 05月22日(金)&lt;br&gt;#11：05月19日(火) ～ 05月25日(月)&lt;br&gt;&lt;br&gt;榎本径（大野智）は、ある新築の家で起こった死亡事件現場にやってきた。その家は、高校教師・杉崎（新井浩文）が結婚を機に建てたものだが、引き渡し直後に起こった震度4の地震で大きく歪んでしまった。杉崎は施工会社に手抜きだとクレームをつけ、社長の竹本（田窪一世）が補修工事を請け負うことになった。その下見の最中に、竹本が亡くなったのだ。&lt;br&gt;榎本を呼んだのは、青砥純子（戸田恵梨香）でも芹沢豪（佐藤浩市）でもなく、刑事・鴻野（宇梶剛士）だった。榎本の知識や能力を見て協力を依頼したのだ。現場には、現在手がけている買収契約に施工会社が関係していた芹沢と、偶然、榎本と行動をともにしていた純子も集まった。&lt;br&gt;遺体発見現場のリビングも、大きく歪んでいた。ドア枠も歪みまともにドアが開閉できない状態だった。窓は完全に施錠されていたため、逃走経路に使えた可能性があるのは廊下側のドアだけだが、歪んだドアを閉めるには内側からある一定の場所を何度も強い力で叩く必要があった。しかし、閉めてしまえば開けることは困難で、仮に殺人だったとしても犯人は部屋に閉じ込められることになる。&lt;br&gt;この部屋は密室だったのか、と尋ねる純子に、榎本は部屋にもうひとつの開口部があるので断定できないと言った。その穴とは、リビングの壁に開けられたエアコンのダクト用の穴だった。その穴を使い、外からドアを閉めることが可能なのか、榎本は考え込み・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『鍵のかかった部屋』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2f744nba"/>
   </entry>
 </feed>
