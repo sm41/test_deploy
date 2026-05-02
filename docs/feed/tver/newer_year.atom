@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-02T02:05:46+09:00</updated>
+  <updated>2026-05-02T11:10:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epu8hevtcl</id>
+    <title>SUPER RICH_[第2話 あと1億足りない！救いの女神が降臨？]</title>
+    <updated>2026-05-02T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjl4xbh3h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ SUPER RICH
+                &lt;a href="https://tver.jp/series/srjl4xbh3h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月02日(土)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月08日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu8hevtcl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月25日(土) ～ 6月8日(月)&lt;br&gt;#2：5月2日(土) ～ 6月8日(月)&lt;br&gt;#3：5月9日(土) ～ 6月8日(月)&lt;br&gt;#4：5月11日(月) ～ 5月18日(月)&lt;br&gt;#5：5月14日(木) ～ 5月21日(木)&lt;br&gt;#6：5月17日(日) ～ 5月24日(日)&lt;br&gt;#7：5月20日(水) ～ 5月27日(水)&lt;br&gt;#8：5月23日(土) ～ 5月30日(土)&lt;br&gt;#9：5月26日(火) ～ 6月2日(火)&lt;br&gt;#10：5月29日(金) ～ 6月5日(金)&lt;br&gt;#11：6月1日(月) ～ 6月8日(月)&lt;br&gt;&lt;br&gt;氷河衛（江口のりこ）は、アパートを引き払い無一文で実家に帰ることも出来ないと言う春野優（赤楚衛二）を自分のマンションに連れて行く。すると、マンションの前で宮村空（町田啓太）と今吉零子（中村ゆり）が待っていた。&lt;br&gt;『スリースターブックス』に戻った衛は、当座必要なお金の工面について幹部たちと話し合う。空たちは一ノ瀬亮（戸次重幸）を探して金を返してもらうか、警察に被害届を出した方が良いと迫るが…。&lt;br&gt;その頃、優も『スリースターブックス』について来ていた。宿泊先のあてがないと言う優は、空に編集部へと連れていかれる。空は碇健二（古田新太）に頼んで、仮眠スペースで優を預かってもらうことに。&lt;br&gt;翌日、衛が出社すると島谷聡美（松嶋菜々子）が来ていた。聡美は『MEDIA』社との業務提携を衛に持ちかける。『スリースターブックス』存続に必要な金を出すと言う聡美だが、衛に対してある条件を提示し…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『SUPER RICH』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu8hevtcl"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5e8s4qj0</id>
     <title>愛しあってるかい！_[第10話 クリスマスは愛と涙と感動だ！]</title>
@@ -128,45 +168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnqxkjczl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc6a3fhdv</id>
-    <title>オトナ女子_[第10話 これが私の生きる道]</title>
-    <updated>2026-05-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdiubyg3f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ オトナ女子
-                &lt;a href="https://tver.jp/series/srdiubyg3f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc6a3fhdv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;亜紀（篠原涼子）は、高山（江口洋介）が執筆していた小説を偶然読んでしまい、大きなショックを受ける。そこには、高山と出会ってからの亜紀のことが綴られていた。池田（平山浩行）は、泣きながらカフェ『caldo』を飛び出した亜紀の姿を見つけ、彼女を追いかける。しかし亜紀は、何も話そうとはしなかった。&lt;br&gt;あくる日、亮介（吉沢亮）は、徹夜して作った企画書を亜紀に提出する。そのとき、亜紀のようすがどこかおかしいことに気づいた亮介は、何かあれば相談に乗る、と声をかける。そんな中、フルテージに高山がやってきて、亜紀を呼び出す。そこで高山は、小説を書くことを認めてほしい、と言い出し、亜紀を怒らせてしまう。&lt;br&gt;萠子（吉瀬美智子）は、母・絹江（朝加真由美）と別居することを田代（丸山智己）に打ち明ける。すると田代は、もっといい解決法があると思う、と告げる。&lt;br&gt;一方、みどり（鈴木砂羽）は、授業参観で三男・陵（浦上晟周）のクラスを訪れる。そこで陵は、「最近思うこと」というテーマで書いた作文を発表する。&lt;br&gt;別の日、亜紀は萠子、みどりと女子会を開く。そこに、池田から「会いたい」という電話が入り・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『オトナ女子』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epc6a3fhdv"/>
   </entry>
 </feed>
