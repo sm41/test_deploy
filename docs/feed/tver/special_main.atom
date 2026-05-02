@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>特集</title>
-  <updated>2026-05-02T15:05:57+09:00</updated>
+  <updated>2026-05-02T19:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -12,7 +12,7 @@
   <entry>
     <id>https://tver.jp/specials/cx_dorakatsu/all_dorakatsu</id>
     <title>#ドラ活</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/cx_dorakatsu.jpg"&gt;
 
@@ -27,7 +27,7 @@
   <entry>
     <id>https://tver.jp/specials/arashicollection/all26_0404</id>
     <title>ARASHI Collection</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/arashicollection.jpg"&gt;
 
@@ -42,7 +42,7 @@
   <entry>
     <id>https://tver.jp/specials/variety_202604/start26_0403</id>
     <title>続々登場！春の新バラエティ特集</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/variety_202604.jpg"&gt;
 
@@ -57,7 +57,7 @@
   <entry>
     <id>https://tver.jp/specials/keibalive/all26_0403</id>
     <title>『みんなのKEIBA』＆『競馬BEAT』ライブ配信</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/keibalive.jpg"&gt;
 
@@ -72,7 +72,7 @@
   <entry>
     <id>https://tver.jp/specials/drama26_start4/spring26_all</id>
     <title>放送中の春ドラマ特集</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/drama26_start4.jpg"&gt;
 
@@ -87,14 +87,14 @@
   <entry>
     <id>https://tver.jp/specials/movie26_conan/26release_0410</id>
     <title>劇場版『名探偵コナン ハイウェイの堕天使』公開記念</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/movie26_conan.jpg"&gt;
 
             &lt;hr&gt;
 
             &lt;p&gt;
-                劇場版『名探偵コナン ハイウェイの堕天使』公開記念＜2026年4月10日(金)公開＞&lt;br&gt;公開を記念して、関連作200話を毎日配信します。（各話の配信期間は1週間）&lt;br&gt;&lt;br&gt;＜配信予定＞&lt;br&gt;2026年3月14日（土）風の女神 萩原千速＆神奈川県警セレクションスタート&lt;br&gt;2026年4月8日（水）疾風の拳撃！世良真純・赤井一家セレクション&lt;br&gt;2026年5月6日（水）絆と秩序の捜査録！警察学校＆警視庁セレクション&lt;br&gt;&lt;br&gt;＜風の女神 萩原千速＆神奈川県警セレクション＞&lt;br&gt;4/1(水)          蘭も倒れたバスルーム（後編）&lt;br&gt;4/2(木)          風の女神・萩原千速（前編）&lt;br&gt;4/3(金)          風の女神・萩原千速（後編）&lt;br&gt;4/4(土)          千速と重悟の婚活パーティー（前編）&lt;br&gt;4/5(日)          千速と重悟の婚活パーティー（後編）&lt;br&gt;4/6(月)          赤レンガ倉庫 消えた誘拐犯（前編）&lt;br&gt;4/7(火)          赤レンガ倉庫 消えた誘拐犯（後編）&lt;br&gt;&lt;br&gt;＜疾風の拳撃！世良真純・赤井一家セレクション＞&lt;br&gt;4/8(水)          幽霊ホテルの推理対決（前編）&lt;br&gt;4/8(水)          幽霊ホテルの推理対決（後編）&lt;br&gt;4/9(木)          探偵事務所籠城事件（勃発）&lt;br&gt;4/9(木)          探偵事務所籠城事件（狙撃）&lt;br&gt;4/10(金)        探偵事務所籠城事件（解放）&lt;br&gt;4/10(金)        コナンVS平次 東西探偵推理勝負&lt;br&gt;4/11(土)        探偵たちの夜想曲（事件）&lt;br&gt;4/11(土)        探偵たちの夜想曲(誘拐)&lt;br&gt;4/12(日)        探偵たちの夜想曲（推理）&lt;br&gt;4/12(日)        探偵たちの夜想曲(バーボン)&lt;br&gt;4/13(月)        工藤優作の未解決事件(コールド・ケース)(前編)&lt;br&gt;4/13(月)        工藤優作の未解決事件(コールド・ケース)(後編)&lt;br&gt;4/14(火)        灰原の秘密に迫る影(前編)&lt;br&gt;4/14(火)        灰原の秘密に迫る影(後編)&lt;br&gt;4/15(水)        漆黒の特急(ミステリートレイン)(発車)&lt;br&gt;4/15(水)        漆黒の特急(ミステリートレイン)(隧道)&lt;br&gt;4/16(木)        漆黒の特急(ミステリートレイン)(交差)&lt;br&gt;4/16(木)        漆黒の特急(ミステリートレイン)(終点)&lt;br&gt;4/17(金)        怪盗キッドと赤面の人魚(ブラッシュマーメイド)(前編)&lt;br&gt;4/17(金)        怪盗キッドと赤面の人魚(ブラッシュマーメイド)(後編)&lt;br&gt;4/18(土)        果実が詰まった宝箱(前編)&lt;br&gt;4/18(土)        果実が詰まった宝箱(後編)&lt;br&gt;4/19(日)        容疑者か京極真(前編)&lt;br&gt;4/19(日)        容疑者か京極真(後編)&lt;br&gt;4/20(月)        赤い女の惨劇(湯煙)&lt;br&gt;4/20(月)        赤い女の惨劇(悪霊)&lt;br&gt;4/21(火)        赤い女の惨劇(復讐)&lt;br&gt;4/21(火)        意外な結果の恋愛小説(前編)&lt;br&gt;4/22(水)        意外な結果の恋愛小説(後編)&lt;br&gt;4/22(水)        真夏のプールに沈む謎(前編)&lt;br&gt;4/23(木)        真夏のプールに沈む謎(後編)&lt;br&gt;4/23(木)        死ぬほど美味いラーメン2(前編)&lt;br&gt;4/24(金)        死ぬほど美味いラーメン2(後編)&lt;br&gt;4/24(金)        仲の悪いガールズバンド(前編)&lt;br&gt;4/25(土)        仲の悪いガールズバンド(後編)&lt;br&gt;4/25(土)        霊魂探偵殺害事件(前編)&lt;br&gt;4/26(日)        霊魂探偵殺害事件(後編)&lt;br&gt;4/26(日)        試着室の死角(前編)&lt;br&gt;4/27(月)        試着室の死角(後編)&lt;br&gt;4/27(月)        さざ波の魔法使い(前編)&lt;br&gt;4/28(火)        さざ波の魔法使い(後編)&lt;br&gt;4/28(火)        JKトリオ秘密のカフェ(前編)&lt;br&gt;4/29(水)        JKトリオ秘密のカフェ(後編)&lt;br&gt;4/29(水)        紅の修学旅行(鮮紅編)&lt;br&gt;4/30(木)        紅の修学旅行(恋紅編)&lt;br&gt;4/30(木)        代役・京極真(前編)&lt;br&gt;5/1(金)        代役・京極真(中編)&lt;br&gt;5/1(金)        代役・京極真(後編)&lt;br&gt;5/2(土)        米花商店街ダストミステリー&lt;br&gt;5/2(土)        骨董盆は隠せない(前編)&lt;br&gt;5/3(日)        骨董盆は隠せない(中編)&lt;br&gt;5/3(日)        骨董盆は隠せない(後編)&lt;br&gt;5/4(月)        天罰くだる誕生パーティー(前編)&lt;br&gt;5/4(月)        天罰くだる誕生パーティー(後編)&lt;br&gt;5/5(火)        ホテル連続爆破事件（前編）&lt;br&gt;5/5(火)        ホテル連続爆破事件（後編）&lt;br&gt;&lt;br&gt;※ 配信予定/内容は予告なく変更になる場合がありますので、あらかじめご了承ください。
+                劇場版『名探偵コナン ハイウェイの堕天使』公開記念＜2026年4月10日(金)公開＞&lt;br&gt;公開を記念して、関連作200話を毎日配信します。（各話の配信期間は1週間）&lt;br&gt;&lt;br&gt;＜配信予定＞&lt;br&gt;2026年3月14日（土）風の女神 萩原千速＆神奈川県警セレクションスタート&lt;br&gt;2026年4月8日（水）疾風の拳撃！世良真純・赤井一家セレクション&lt;br&gt;2026年5月6日（水）絆と秩序の捜査録！警察学校＆警視庁セレクション&lt;br&gt;&lt;br&gt;＜疾風の拳撃！世良真純・赤井一家セレクション＞&lt;br&gt;5/1(金)        代役・京極真(中編)&lt;br&gt;5/1(金)        代役・京極真(後編)&lt;br&gt;5/2(土)        米花商店街ダストミステリー&lt;br&gt;5/2(土)        骨董盆は隠せない(前編)&lt;br&gt;5/3(日)        骨董盆は隠せない(中編)&lt;br&gt;5/3(日)        骨董盆は隠せない(後編)&lt;br&gt;5/4(月)        天罰くだる誕生パーティー(前編)&lt;br&gt;5/4(月)        天罰くだる誕生パーティー(後編)&lt;br&gt;5/5(火)        ホテル連続爆破事件（前編）&lt;br&gt;5/5(火)        ホテル連続爆破事件（後編）&lt;br&gt;&lt;br&gt;＜絆と秩序の捜査録！警察学校＆警視庁セレクション＞&lt;br&gt;5/6(水)        警察学校編 Wild Police Story CASE.松田陣平&lt;br&gt;5/7(木)        警察学校編 Wild Police Story CASE.伊達航&lt;br&gt;5/8(金)        警察学校編 Wild Police Story CASE.萩原研二&lt;br&gt;5/9(土)        警察学校編 Wild Police Story CASE.諸伏景光&lt;br&gt;5/10(日)        警察学校編　Wild Police Story　CASE. 降谷零&lt;br&gt;5/11(月)        新幹線護送事件（前編）&lt;br&gt;5/12(火)        新幹線護送事件（後編）&lt;br&gt;5/13(水)        シカゴから来た男（前編）&lt;br&gt;5/14(木)        シカゴから来た男（後編）&lt;br&gt;5/15(金)        悪意と聖者の行進（前編）&lt;br&gt;5/16(土)        悪意と聖者の行進（後編）&lt;br&gt;5/17(日)        揺れる警視庁　1200万人の人質&lt;br&gt;5/18(月)        超秘密の通学路（前編）&lt;br&gt;5/19(火)        超秘密の通学路（後編）&lt;br&gt;5/20(水)        本庁の刑事恋物語 偽りのウエディング&lt;br&gt;5/21(木)        霧にむせぶ魔女（前編）&lt;br&gt;5/22(金)        霧にむせぶ魔女（後編）&lt;br&gt;5/23(土)        初恋のビデオレター&lt;br&gt;5/24(日)        初恋の共同捜査（前編）&lt;br&gt;5/25(月)        初恋の共同捜査（後編）&lt;br&gt;5/26(火)        命を賭けた恋愛中継（中継開始）&lt;br&gt;5/27(水)        命を賭けた恋愛中継（絶体絶命）&lt;br&gt;5/28(木)        命を賭けた恋愛中継（現場突入）&lt;br&gt;5/29(金)        現場の隣人は元カレ&lt;br&gt;5/30(土)        現場の隣人は元カレ&lt;br&gt;5/31(日)        太閤恋する名人戦&lt;br&gt;6/1(月)        太閤恋する名人戦&lt;br&gt;6/2(火)        千葉のＵＦＯ難事件&lt;br&gt;6/3(水)        千葉のＵＦＯ難事件&lt;br&gt;6/4(木)        婚姻届けのパスワード&lt;br&gt;6/5(金)        婚姻届けのパスワード&lt;br&gt;6/6(土)        ミニパトポリス大追跡&lt;br&gt;6/7(日)        標的は警視庁交通部（一）&lt;br&gt;6/8(月)        標的は警視庁交通部（二）&lt;br&gt;6/9(火)        標的は警視庁交通部（三）&lt;br&gt;6/10(水)        標的は警視庁交通部（四）&lt;br&gt;6/11(木)        太閤名人の将棋盤（初手編）&lt;br&gt;6/12(金)        太閤名人の将棋盤（妙手編）&lt;br&gt;6/13(土)        太閤名人の将棋盤（王手編）&lt;br&gt;&lt;br&gt;※ 配信予定/内容は予告なく変更になる場合がありますので、あらかじめご了承ください。
             &lt;/p&gt;
         &lt;/div&gt;    </content>
     <link href="https://tver.jp/specials/movie26_conan/26release_0410"/>
@@ -102,7 +102,7 @@
   <entry>
     <id>https://tver.jp/specials/ex_spring2603/all26_0302</id>
     <title>テレ朝 ドラバラ祭 2026 春</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/ex_spring2603.jpg"&gt;
 
@@ -117,7 +117,7 @@
   <entry>
     <id>https://tver.jp/specials/kidshiroba/kids_all</id>
     <title>TVerキッズひろば</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/kidshiroba.jpg"&gt;
 
@@ -132,7 +132,7 @@
   <entry>
     <id>https://tver.jp/specials/localprograms/lp-pickup</id>
     <title>ご当地番組大集合！</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/localprograms.jpg"&gt;
 
@@ -147,7 +147,7 @@
   <entry>
     <id>https://tver.jp/specials/24news/latest_episode24</id>
     <title>24時間ニュース配信中</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/24news.jpg"&gt;
 
@@ -162,7 +162,7 @@
   <entry>
     <id>https://tver.jp/specials/meisaku-drama/stream</id>
     <title>名作ドラマ特集</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/meisaku-drama.jpg"&gt;
 
@@ -177,7 +177,7 @@
   <entry>
     <id>https://tver.jp/specials/mon_variety/v_monday</id>
     <title>月曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/mon_variety.jpg"&gt;
 
@@ -192,7 +192,7 @@
   <entry>
     <id>https://tver.jp/specials/tue_variety/v_tuesday</id>
     <title>火曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/tue_variety.jpg"&gt;
 
@@ -207,7 +207,7 @@
   <entry>
     <id>https://tver.jp/specials/wed_variety/v_wednesday</id>
     <title>水曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/wed_variety.jpg"&gt;
 
@@ -222,7 +222,7 @@
   <entry>
     <id>https://tver.jp/specials/thu_variety/v_thursday</id>
     <title>木曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/thu_variety.jpg"&gt;
 
@@ -237,7 +237,7 @@
   <entry>
     <id>https://tver.jp/specials/fri_variety/v_friday</id>
     <title>金曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/fri_variety.jpg"&gt;
 
@@ -252,7 +252,7 @@
   <entry>
     <id>https://tver.jp/specials/sat_variety/v_saturday</id>
     <title>土曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sat_variety.jpg"&gt;
 
@@ -267,7 +267,7 @@
   <entry>
     <id>https://tver.jp/specials/sun_variety/v_sunday</id>
     <title>日曜日バラエティ</title>
-    <updated>2026-05-02T15:05:57+09:00</updated>
+    <updated>2026-05-02T19:05:57+09:00</updated>
     <content type="html">        &lt;div&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/sun_variety.jpg"&gt;
 
