@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-03T16:06:27+09:00</updated>
+  <updated>2026-05-03T18:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppl886tv2</id>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第1話「登場！謎のスケバン鉄仮面」]</title>
+    <updated>2026-05-03T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_11月02日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppl886tv2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                暗闇指令たちは、二代目麻宮サキを捜していた。全国のスケバンに、一代目麻宮サキのレベルにあわせた戦闘シュミレーションを行っていた。暗闇指令の部下、西脇が土佐のスケバン鉄仮面、五代陽子を指名。陽子はみごと戦闘シュミレーションをクリヤーした。陽子は自分の素性を知るため二代目麻宮サキを襲名するのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppl886tv2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyl7r1tvc</id>
     <title>よくおごってくれる綺麗なお姉さん_[第9話]</title>
