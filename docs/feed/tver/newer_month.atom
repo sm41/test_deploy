@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-03T22:05:27+09:00</updated>
+  <updated>2026-05-04T00:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzurmr1hj</id>
+    <title>10回切って倒れない木はない_[第4話「本当に大切な人」]</title>
+    <updated>2026-05-03T23:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 10回切って倒れない木はない
+                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_23時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzurmr1hj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「私は、キム・ミンソクの婚約者です」――。韓国を追われた財閥の御曹司キム・ミンソク(志尊淳)と、診療所の医師・河瀬桃子(仁村紗和)。心を通わせ始めた2人の前に、ミンソクの婚約者を名乗る女・新海映里(長濱ねる)が現れた。セレブな婚約者の存在にショックを受ける桃子。映里が日本に来たワケは?ミンソクと映里の間に一体何が…?不安に駆られる桃子の身に、危険が迫る!!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzurmr1hj"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epqstsuyd8</id>
+    <title>エラー_[ep4「腹をくくる」]</title>
+    <updated>2026-05-03T23:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ エラー
+                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_23時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時09分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqstsuyd8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ユメ（畑芽育）は未央（志田未来）に真実を告白した手紙を書き置き、警察署へと足を運ぶ。ところが、そこに、母・千尋（栗山千明）から金を盗んだ太郎（坂元愛登）が連行されてくることになり、ユメは自首どころではなくなってしまう。結局、ユメは釈放となった太郎とともに帰宅。そのユメを、家の前で近藤さくら（北里琉）が待ち構えている。未央の目に触れる前に手紙を読み、持ち出していたさくらは、ユメを犯罪者と罵倒。ユメは、この期に及んで太郎に真実が伝わることを恐れ、あと１日だけ黙っていてほしいとさくらに懇願し、未央のもとへと向かう。今度こそ真実を伝えると心に誓うユメだが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epqstsuyd8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppiwaninn</id>
     <title>ＧＩＦＴ_[第４話 星がそろった！天才学者の勝利学]</title>
@@ -808,285 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epmja1rdyy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsnjgdblq</id>
-    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第4話]</title>
-    <updated>2026-05-01T02:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
-                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_02時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_02時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsnjgdblq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                人事部チーフのモニカは、社員が柔軟で効率的に働けるようにと「タメ口推奨」を決定し、新しい文化を創るために社内専用通貨“スティーブマネー”を導入すると宣言した。アシュリーはこの提案をバカにしていた一人であったが、逆に“スティーブマネー”で稼いでやろうとさまざまな方法を試み、流通の9割以上を独占する。しかしモニカの策略にはまってしまい・・・。ジェイは、“スティーブマネー”に執着するアシュリーの様子を心配していた最中、偶然モニカの秘密を知ることになりモニカに突きつける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsnjgdblq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjx3ppkl0</id>
-    <title>ネタジョ_[第1話「NON STYLE」《ドラマフィル》]</title>
-    <updated>2026-05-01T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzzu4ls15.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ネタジョ
-                &lt;a href="https://tver.jp/series/srzzu4ls15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月26日(金)_01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjx3ppkl0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                幼い頃から「オール阪神・巨人」の漫才テープを聴いて育った、自他共に認める「ネタジョ」の幸子。さらに漫才漬けの生活がしたいと模索していたところ、NON STYLEの漫才と石田明の書籍「答え合わせ」に触れて衝撃を受ける。幸子は馴染みの喫茶店「フラ」にて、人生の大きな決断をすることに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjx3ppkl0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyurj5cn9</id>
-    <title>ディープリベンジ-顔を捨てた家政婦-_[第４話・ギャンブルより怖い女、知らないでしょ？たまには地獄を覗きませんか？]</title>
-    <updated>2026-05-01T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srejg9hs9j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ディープリベンジ-顔を捨てた家政婦-
-                &lt;a href="https://tver.jp/series/srejg9hs9j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_00時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyurj5cn9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                良一（飯島寛騎）が無類のギャンブル好きであることを知った香子（堀未央奈）は、彼をさらにギャンブルに溺れさせる計画を進める。思惑通り、良一は会社の金にまで手を出すほど追い詰められていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyurj5cn9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxca8pvz8</id>
-    <title>あの夜、社長の子供を授かりました_[#3「愛の約束」《ドラマ特区》]</title>
-    <updated>2026-05-01T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr2r0wkbz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あの夜、社長の子供を授かりました
-                &lt;a href="https://tver.jp/series/srr2r0wkbz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxca8pvz8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                産婦人科の前で栞里（佐々木美玲）の妊娠を知った恵一（和田雅成）は、「誰の子だよ」と問い詰める。答えられない栞里を見て、妊娠の事実を社内に言いふらすと脅し、「それが嫌なら俺が新プロジェクトメンバーに入れるように協力しろ」と迫る。&lt;br&gt;拒絶できない栞里は、恵一に命じられるまま、彼が自分の手柄として提出するための新商品企画書を代筆させられることに。後日、恵一は栞里に書かせた企画書を手に、貴人の前で自信満々にプレゼンを行うが…!?&lt;br&gt;一方、新プロジェクトに情熱を注ぐ貴人（森次政裕）は、メンバーの意見を真摯に聞き、栞里の感性を高く評価する。さらに貴人は、オーダーメイドワンピースを栞里にプレゼントし、「私にとって必要な存在だ」とまっすぐに想いを伝える。貴人の誠実な姿勢に対して栞里は、憧れと恋心を少しずつ募らせていき…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxca8pvz8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epotdyxx5w</id>
-    <title>るなしい_[第五話 神の子とチョコバナナ]</title>
-    <updated>2026-05-01T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4uh6omhf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ るなしい
-                &lt;a href="https://tver.jp/series/sr4uh6omhf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_02時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epotdyxx5w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                るなの復讐が進む中、迎えた文化祭当日。&#13;&lt;br&gt;悩み相談ビジネスが軌道に乗るケンショー。&#13;&lt;br&gt;白熱するビジネスバトルの行方とは？だが、想像を絶する惨劇の幕が開く…　［期間限定無料配信］　テレビ東京にて毎週木曜深夜24時30分から放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epotdyxx5w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl3l1ujj2</id>
-    <title>君が死刑になる前に_[第５話　新章突入！再び2026年へ「過去を変えた代償」]</title>
-    <updated>2026-05-01T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srn59ozoz7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 君が死刑になる前に
-                &lt;a href="https://tver.jp/series/srn59ozoz7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月07日(木)_23時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl3l1ujj2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ＜教師連続殺害事件＞の犯人を突き止めた琥太郎（加藤清史郎）たちは、再びタイムスリップし、もとの時代に戻ってきた。&lt;br&gt;琥太郎たちは、冤罪被害者になりかけた汐梨（唐田えりか）に焦点をあてたドキュメンタリー映画の制作に取り掛かるため、刑事の伊藤（内博貴）と深沢（ニシダ・コウキ）らへの連絡を試みることに。&lt;br&gt;ところが、下山が逮捕されたことにより“本来起きるはずのないこと”が現実に起きていることが判明し……！？&lt;br&gt;&lt;br&gt;ＴＶｅｒではこれまでの全話と、琥太郎の過去を描いたオリジナルストーリーを無料配信中！&lt;br&gt;便利なお気に入り登録をお願いします！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epl3l1ujj2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epckxi1emt</id>
-    <title>惡の華_[第4話]</title>
-    <updated>2026-05-01T00:30:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 惡の華
-                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月08日(金)_02時10分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epckxi1emt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                春日（鈴木福）と仲村（あの）によってクソムシの海と化した教室。達成感に満たされた仲村と春日は明日が楽しみだねと別れる。翌朝、教室ではクラスメイトが大騒ぎの中、床に描かれた華の絵を見た佐伯（井頭愛海）は、すべて春日のした事だと察知する。仲村から春日との秘密の契約について聞かされると、いてもたってもいられず、春日をさらに追い詰めてしまう。春日は、逃げるように仲村にすがり、2人はあの山の向こうへと向かう　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epckxi1emt"/>
   </entry>
 </feed>
