@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-04T00:06:27+09:00</updated>
+  <updated>2026-05-04T02:06:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzd106kdb</id>
+    <title>#裏アカ教師_[【スマホ用】#8「叶わない恋」]</title>
+    <updated>2026-05-04T01:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ #裏アカ教師
+                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月04日(月)_01時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_01時34分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzd106kdb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                高校教師・真島祈（中村ゆりか）は同じ高校に勤める憧れの先生である犀川密（水沢エレナ）になりすました裏アカを開設。密の全てを奪い、裏アカの快感に魅せられていく祈だったが、密を苦しめることに執着しもっと攻めた投稿を提案する李人と意見が対立。祈は李人と決別して教室で一人、禁断の撮影を続ける。その祈の背後に怪しい影が…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epzd106kdb"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epgyhx14qz</id>
+    <title>#裏アカ教師_[#8「叶わない恋」]</title>
+    <updated>2026-05-04T01:35:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk2xzrtzv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ #裏アカ教師
+                &lt;a href="https://tver.jp/series/srk2xzrtzv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月04日(月)_01時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月11日(月)_01時34分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgyhx14qz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                高校教師・真島祈（中村ゆりか）は同じ高校に勤める憧れの先生である犀川密（水沢エレナ）になりすました裏アカを開設。密の全てを奪い、裏アカの快感に魅せられていく祈だったが、密を苦しめることに執着しもっと攻めた投稿を提案する李人と意見が対立。祈は李人と決別して教室で一人、禁断の撮影を続ける。その祈の背後に怪しい影が…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epgyhx14qz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzurmr1hj</id>
     <title>10回切って倒れない木はない_[第4話「本当に大切な人」]</title>
@@ -848,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep67ktkl84"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmja1rdyy</id>
-    <title>その天才様は偽装彼女に執着する_[第2話 凛は俺の恋人だけど＜ドラマトリップ＞]</title>
-    <updated>2026-05-01T03:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr03vdkq4c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ その天才様は偽装彼女に執着する
-                &lt;a href="https://tver.jp/series/sr03vdkq4c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_03時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月18日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 4月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmja1rdyy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                郁からの「偽装彼女」の提案に戸惑う凛は、その依頼を受けるかどうか決めかねていた。前にいた会社でのトラブルや元カレに捨てられたことを思い出し、自信を持てずにいた 。そんな中、郁の仕事の付き添いでかつての職場を訪れることになった凛は、宗太と再会。ヨリを戻そうと詰め寄られて困惑する凛との間に、郁が割って入る。郁の不器用な優しさに触れた凛は、契約の締結を決意して―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmja1rdyy"/>
   </entry>
 </feed>
