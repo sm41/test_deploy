@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-04T02:06:28+09:00</updated>
+  <updated>2026-05-04T11:21:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnsdsaf6e</id>
+    <title>輝く星のターミナル_[第4話]</title>
+    <updated>2026-05-04T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月04日(月)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月4日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnsdsaf6e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                税関がスーツケースに貼った検査対象のシールを剥がそうとしていた女性客とナ･ヨンジュがトイレでもめているのを目撃し仲裁に入ったヨルム。正しい行いをしたと思ったヨルムだが、上司から責められ不本意ながら謝罪に向かう。しかし、ヨルムは勇気を出して自分の意見を口にする。一方、イヌはスヨンの過去の事故を知っているがゆえに、スヨンが普通に生活できていることに驚きを隠せないでいた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnsdsaf6e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvub0za6p</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第１６話「解毒の方法」]</title>
+    <updated>2026-05-04T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月04日(月)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月18日(月)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月4日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvub0za6p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                宮尚角が月長老を暗殺した無鋒の刺客・無名（ウーミン）を見つけ出すと約束した期日。宮尚角は霧姫夫人を無名だと名指しする。宮子羽は自分への腹いせだと不快感を露わにする。体に仕込まれた毒に苦しむ雲為衫は苦痛を抑える薬を得るために上官浅と取引を。だがその薬の内容は宮遠徴に筒抜けだった。そんな中、解毒薬を取りに行く日が迫る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvub0za6p"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzd106kdb</id>
     <title>#裏アカ教師_[【スマホ用】#8「叶わない恋」]</title>
@@ -888,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epli83htc4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep67ktkl84</id>
-    <title>輝く星のターミナル_[第3話]</title>
-    <updated>2026-05-01T10:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 輝く星のターミナル
-                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月01日(金)_10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月1日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep67ktkl84.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                力のことで目立ちたくないスヨンだが、思いがけず脅迫電話の犯人に出くわしてしまい、捕まえるべきか葛藤する。ヨルムは暴言を吐いた謝罪も兼ねてスヨンに昼食を差し入れるが、不注意でスヨンの右手に熱湯をかけてしまい…。会社を辞める決心をしたスヨンだったがヤン･ソグンに説得されＴ２へ異動する。同じくＴ２へ異動したヨルムは、天敵であるイ･ウテクとソ･イヌに再会し絶望する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep67ktkl84"/>
   </entry>
 </feed>
