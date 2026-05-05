@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-05T14:06:42+09:00</updated>
+  <updated>2026-05-05T16:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -888,45 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epqstsuyd8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppiwaninn</id>
-    <title>ＧＩＦＴ_[第４話 星がそろった！天才学者の勝利学]</title>
-    <updated>2026-05-03T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＧＩＦＴ
-                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppiwaninn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;圭二郎（本田響矢）と激突し転倒した坂東（越山敬達）に、過剰とも言える反応を見せた母・陽子（西尾まり）。日野（吉瀬美智子）はその理由である３年前の出来事を、圭二郎や人香（有村架純）に話して聞かせる。&lt;br&gt;坂東の実力を見抜いている伍鉄（堤真一）は、坂東を惑星、陽子をその周りを回る巨大衛星に例え、坂東が輝ける方法を思案。その答えを見つけ、陽子に会いに行くことに。&lt;br&gt;そんな中、圭二郎のラグ車にクラック（ひび割れ）が見つかった。車いす職人の高水潔（田口浩正）に修理を依頼しに行くが、気難しい高水を圭二郎が激怒させてしまい、おまけにラグ車の損傷が激しく修理も利かない状態だとわかる。&lt;br&gt;一方、人香の父・英夫（山中聡）には異変が起きていて……！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppiwaninn"/>
   </entry>
 </feed>
