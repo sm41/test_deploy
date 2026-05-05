@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-05T16:05:42+09:00</updated>
+  <updated>2026-05-05T18:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epa0t450gd</id>
+    <title>ワカコ酒_[第10夜　お好み焼き]</title>
+    <updated>2026-05-05T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa0t450gd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。広島へ帰省したワカコは友人と一緒に広島グルメ三昧。久しぶりの「府中焼き」、香ばしく焼けたパリパリのソバ生地に背油ミンチのうまみが行き渡る。卵と炙りネギの香りが口いっぱいに広がり今日はビールも思い切って大ジョッキで……故郷「広島」の料理が次々と胃袋に収まってゆき……　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa0t450gd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnmwjnl2e</id>
     <title>輝く星のターミナル_[第5話]</title>
@@ -848,45 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epzurmr1hj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqstsuyd8</id>
-    <title>エラー_[ep4「腹をくくる」]</title>
-    <updated>2026-05-03T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ エラー
-                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時09分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqstsuyd8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ユメ（畑芽育）は未央（志田未来）に真実を告白した手紙を書き置き、警察署へと足を運ぶ。ところが、そこに、母・千尋（栗山千明）から金を盗んだ太郎（坂元愛登）が連行されてくることになり、ユメは自首どころではなくなってしまう。結局、ユメは釈放となった太郎とともに帰宅。そのユメを、家の前で近藤さくら（北里琉）が待ち構えている。未央の目に触れる前に手紙を読み、持ち出していたさくらは、ユメを犯罪者と罵倒。ユメは、この期に及んで太郎に真実が伝わることを恐れ、あと１日だけ黙っていてほしいとさくらに懇願し、未央のもとへと向かう。今度こそ真実を伝えると心に誓うユメだが…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqstsuyd8"/>
   </entry>
 </feed>
