@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-05T18:05:43+09:00</updated>
+  <updated>2026-05-05T20:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep8wxdjzsd</id>
+    <title>孤独のグルメ Season3_[第12話（最終回） 品川区大井町のいわしのユッケとにぎり寿司]</title>
+    <updated>2026-05-05T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season3
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8wxdjzsd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は大井町駅に降り立ち商談相手の待つ猫カフェへ。カフェの主人に依頼されていた商品の資料を見せると、険しい表情になってしまう。五郎は内心、期待にそえなかったかもしれないと焦るが、田中が言い出したのは意外なリクエストだった。何とかリクエストに応える約束をして商談を終えた五郎は、記憶をたどって小さな飲食店が軒を連ねる路地へ向かう。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8wxdjzsd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epa0t450gd</id>
     <title>ワカコ酒_[第10夜　お好み焼き]</title>
@@ -848,45 +888,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epgyhx14qz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzurmr1hj</id>
-    <title>10回切って倒れない木はない_[第4話「本当に大切な人」]</title>
-    <updated>2026-05-03T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 10回切って倒れない木はない
-                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzurmr1hj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「私は、キム・ミンソクの婚約者です」――。韓国を追われた財閥の御曹司キム・ミンソク(志尊淳)と、診療所の医師・河瀬桃子(仁村紗和)。心を通わせ始めた2人の前に、ミンソクの婚約者を名乗る女・新海映里(長濱ねる)が現れた。セレブな婚約者の存在にショックを受ける桃子。映里が日本に来たワケは?ミンソクと映里の間に一体何が…?不安に駆られる桃子の身に、危険が迫る!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzurmr1hj"/>
   </entry>
 </feed>

@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-05T18:05:43+09:00</updated>
+  <updated>2026-05-05T20:05:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5sp2xmmf</id>
+    <title>ディア・シスター_[第9話 最後の約束]</title>
+    <updated>2026-05-05T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディア・シスター
+                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5sp2xmmf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;美咲（石原さとみ）は産婦人科へ健診に行く。次は性別がわかるかも、と聞いていたことを思い出した永人（岩田剛典）は、「一緒に行く」と言って大慌てで支度する。性別がわかると子どもの名前を考え始める気が早い永人。そして、「今度の大会で優勝したら・・・」と言いかけるが・・・。&lt;br&gt;宗一郎（田辺誠一）は、別れた妻の貴子（音月桂）と会っていた。美咲が妊娠したことを知った貴子は、「自分の人生はあの子のせいで全てが狂った」と憤る。&lt;br&gt;一方、葉月（松下奈緒）は、クビになったドレス工房「RYO」の展示会に招待される。ひとりで行く勇気がない葉月は、陽平（平山浩行）を誘う。会場には「RYO」オーナー兼デザイナーの柴田亮（鈴木一真）もいて、そこで葉月は、意外なものを目にする。&lt;br&gt;そんな中、永人が出場するスケートボードの大会が開かれる。応援に駆け付けた美咲だったが、その背後には怪しい人影があり・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5sp2xmmf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqzrva29i</id>
     <title>大好き！五つ子６_[第17回]</title>
@@ -1688,45 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep6r8vztee"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4z5w368o</id>
-    <title>謎解きはディナーのあとで_[第6話 綺麗な薔薇には殺意がございます]</title>
-    <updated>2026-05-04T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5kvaxqv2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 謎解きはディナーのあとで
-                &lt;a href="https://tver.jp/series/sr5kvaxqv2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月04日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月10日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4z5w368o.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;櫻井翔主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：04月25日(土) ～ 05月28日(木)&lt;br&gt;#4：04月28日(火) ～ 05月04日(月)&lt;br&gt;#5：05月01日(金) ～ 05月07日(木)&lt;br&gt;#6：05月04日(月) ～ 05月10日(日)&lt;br&gt;#7：05月07日(木) ～ 05月13日(水)&lt;br&gt;#8：05月10日(日) ～ 05月16日(土)&lt;br&gt;#9：05月13日(水) ～ 05月19日(火)&lt;br&gt;#10：05月16日(土) ～ 05月22日(金)&lt;br&gt;&lt;br&gt;朝食時、いつものように優雅にミルクをサーブする影山（櫻井翔）。ただその相手は宝生麗子（北川景子）ではなく猫だった。迷い猫の面倒を見る影山を「暇ね」とからかう麗子。が、影山は麗子こそ朝から国立署管内で殺人事件が起きたと騒いでいるが、のんびり朝食を食べていていいのかと切り返す。慌てて麗子が携帯電話を確認すると風祭警部（椎名桔平）からの着信履歴が無数に連なっていた。&lt;br&gt;事件があったのは藤倉ホテルの創業一族の藤倉家の温室。その一番奥にあるバラ園でつるバラがからまる台座の上で高原恭子（山口あゆみ）が殺されていた。恭子は駅前のクラブで働くホステスで1カ月前から藤倉家に居候していたとのこと。死因は絞殺による窒息死で、着衣に汚れがないことなどから別の場所で殺害されて、ここまで運ばれてきたのだと推測された。現場の状況から風祭は国立七不思議の1つ「紅バラの祟り」を麗子に語って聞かせるのだった。&lt;br&gt;「紅バラの祟り」とは、かつて藤倉家の長男が、働いていた黒川紅子（建みさと）というメイドに恋をした。身分違いの恋に怒った藤倉家の人々は紅子がかわいがっていた黒猫を殺してしまう。すると、失意の紅子がバラ園で自殺。以降、このバラ園に携わる者たちに次々と不幸が襲いかかったというものだった。&lt;br&gt;例によって、風祭とともに一通りの事情聴取を影山に見守られながら終えた麗子。屋敷に戻ると、影山はいつになく麗子のことを褒めまくる。国立七不思議の謎を解くのが夢だった影山は、どうしても今回の事件の謎を解きたくて仕方なかったのだ。影山に押し切られる形で事情聴取の詳細を話す麗子。&lt;br&gt;あらましを聞き終えた影山は、今回の事件は「紅バラの祟り」とは無関係の殺人事件だと断言。犯人の目星がつかない麗子に影山は、「それでもお嬢様はプロの刑事でございますか。ズブの素人よりもレベルが低くていらっしゃいます」と強烈な言葉を浴びせて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『謎解きはディナーのあとで』をスピンオフ含め全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4z5w368o"/>
   </entry>
 </feed>
