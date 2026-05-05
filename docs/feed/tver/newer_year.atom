@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-05T02:57:22+09:00</updated>
+  <updated>2026-05-05T10:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epw3z325r4</id>
+    <title>その着せ替え人形は恋をする_[#2「初めての友達」《ドラマイズム》]</title>
+    <updated>2026-05-05T03:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3zi3hn15.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ その着せ替え人形は恋をする
+                &lt;a href="https://tver.jp/series/sr3zi3hn15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_03時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_03時14分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw3z325r4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                海夢（永瀬莉子）のコスプレ衣装を作ることになった新菜（野村康太）。自分と住む世界が違う海夢と接点ができたことを信じられずにいた。すると突然、海夢が新菜の家を訪ねてくる。採寸が待ちきれず、新菜の家を調べてやってきたという。海夢の行動力に驚かされながらも、無事採寸を終える新菜。休みが明け、学校でも気にせず話しかけてくる海夢に対し、周囲の目を気にして距離を置こうとする新菜。海夢は友達なのに避けられる意味がわからないと新菜に伝える。初めて友達だと言ってくれる人が現れたことに嬉しさを隠せない新菜は、海夢のために頑張って衣装を作ろうと決意するのだった。そして海夢に頭師になりたい気持ちを明かし、海夢に心を開いていくのであった。そんな中、新菜は海夢がコスプレイベントに参加するつもりだと知る。しかしそのイベントは２週間後に迫っていてー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epw3z325r4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epycxgs3hz</id>
     <title>単身花日_[最終話「衝撃の懺悔 ― 単身花日」]</title>
@@ -1688,205 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epf1c7x4dl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzj4pkbq7</id>
-    <title>相棒 season23_[第10話「雨やどり」]</title>
-    <updated>2026-05-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season23
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzj4pkbq7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                美術館を訪れた右京（水谷豊）が、突然の荒天で雨やどりをしていると、隣に誰かと待ち合わせをしている様子の青年が。右京は、青年の特徴的な傘が印象に残る。翌日、スナックのママが撲殺される事件が発生。現場には、殺害時に青年の傘がそこに置かれ、持ち去られた痕跡があった。それに気づいた右京は、薫（寺脇康文）と共に青年の行方を捜索。すると、青年は長年続く洋傘店の一人息子で、福丸健吾（碓井将大）という人物であることが判明。しかし、健吾は半年前、職人気質の父とぶつかり、今は家を出ているらしい。その後、福丸を捜し当てた右京は、偶然を装って接触。事情を聞くと、福丸は片想いしていた女性と雨やどりをきっかけに交流を持ち、逢瀬を重ねていた。ところが、塔子（青島心）というその女性は半年前に突然、姿を消してしまったらしい。右京は、現場から消えた傘は、福丸が塔子にプレゼントしたものではないかと推理し、塔子と被害者に何らかの接点がないか調べ始めるが…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzj4pkbq7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu5n88fcg</id>
-    <title>相棒 season23_[第6話「薔薇と髭の夜明け」]</title>
-    <updated>2026-05-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season23
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu5n88fcg.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                特命係と親交の深いゲイバーのママ・ヒロコ（深沢敦）が、殺人事件の現場付近で目撃され、そのまま姿を消した。殺害されたのは、ＮＰＯを利用したマネーロンダリング疑惑が掛かったコンサル会社の社長・幸田。ヒロコが携わっているボランティア食堂を隠れ蓑に、脱税や援助の着服をしていたことが発覚。ヒロコが抗議に向かったというが、そのまま行方不明になっているらしい。右京（水谷豊）と薫（寺脇康文）は、ヒロコのボランティア仲間である泉川（西銘駿）らと協力して捜索を開始する。いっぽう、捜査一課は司法書士の矢野（柾木玲弥）から事情を聞いていた。矢野は、幸田に脱税方法を入れ知恵していた疑いがあり、最後に連絡を取っていたのも矢野だった。そんな中、幸田が10年前、いまだ解決されていない強盗事件にかかわっていた可能性が浮上してくる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epu5n88fcg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqht1eo9v</id>
-    <title>相棒 season23_[元日SP　第9話「最後の一日」]</title>
-    <updated>2026-05-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season23
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqht1eo9v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                大晦日。市民合唱団に入団した美和子（鈴木砂羽）と小手鞠（森口瑤子）は、年末コンサートを前に練習の真っ最中。その頃、右京（水谷豊）は、陣川（原田龍二）の付き添いでデパートの宝石店にいた。相変わらず恋多き陣川は、出産を控えた“運命の相手”にプロポーズするため、指輪を購入したいらしい。いっぽう、薫（寺脇康文）、伊丹（川原和久）、益子（田中隆三）の3人は、警察学校時代の同期・澤田菜穂（櫻井淳子）の自宅を訪れ、夫の正志（藤本隆宏）を紹介されていた。同じ頃、芹沢（山中崇史）と麗音（篠原ゆき子）は、角田（山西惇）の応援で、喫茶店に潜入中。容疑の掛かった反社会的組織の関係者を待ち伏せているようだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqht1eo9v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppzvbyhat</id>
-    <title>相棒 season8_[第11話「願い」]</title>
-    <updated>2026-05-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppzvbyhat.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                とある家から発見された古い盗聴器。その家は16年前の少女失踪事件の被害者宅であった。少女は今も見つかっていない。右京（水谷豊）と尊（及川光博）は事件を再び洗い直すことに。当時14歳の遥は友人と会うため、自宅を出たまま忽然と姿を消した。盗聴器の発見により、その犯人が事前に彼女の行動を探っていたのではないか？&#13;&lt;br&gt;右京と尊は当時遥と同居していた叔母・涼子（黒田福美）に話を聞くのだが、16年前の事件に触れたくない様子。16年前に一体何があったのか？ さらに同じ手口の事件が再び起こる！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppzvbyhat"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppdbi8noq</id>
-    <title>相棒 season8_[第15話「狙われた刑事」]</title>
-    <updated>2026-05-03T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season8
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppdbi8noq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                捜査一課の伊丹刑事（川原和久）が店でラーメンを食べていると突然隣の客がもがき倒れた！毒物が仕込まれていたと分るが、右京（水谷豊）の推理によれば、どうやら狙われたのは伊丹のようだ。右京は尊（及川光博）とともに伊丹を警護することに。伊丹は10年前のある殺人事件が原因ではないかと思い出す。当時、強引な取り調べをした伊丹は容疑者たちに恨まれている可能性もある。&#13;&lt;br&gt;捜査一課イチ熱い伊丹が右京らの警護も振り切り勝手に動き出すが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppdbi8noq"/>
   </entry>
 </feed>
