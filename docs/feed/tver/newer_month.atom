@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-05T20:05:43+09:00</updated>
+  <updated>2026-05-05T22:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epggvepger</id>
+    <title>リボーン ～最後のヒーロー～_[第4話 変わりゆく歴史ー宿敵の陰謀ー]</title>
+    <updated>2026-05-05T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruwf1bmff.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ リボーン ～最後のヒーロー～
+                &lt;a href="https://tver.jp/series/sruwf1bmff" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epggvepger.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                英人に転生した根尾光誠（高橋一生）がこれまで行ってきた言動や行動が思いがけない事態を招く！&#13;&lt;br&gt;なんと根尾光誠の歴史を変えてしまっている可能性が浮上。&#13;&lt;br&gt;転生前の光誠が行っていないはずのパリ出張に行くことになったうえ、&#13;&lt;br&gt;その日は同時多発テロが起きた当日。&#13;&lt;br&gt;このままでは光誠がテロに巻き込まれる…!?&#13;&lt;br&gt;光誠たちを命の危機から救うべく、英人は東郷義隆（市村正親）の協力を得て出張を阻止しようと動き出す！&#13;&lt;br&gt;そんな中、英人発案の「温暖化対策グッズ」のビジネスをめぐり、あかり商店とNEOXISが蒼萬社長・一萬田仁志（坪倉由幸）から特許権侵害で訴えられてしまう。実は、半導体事業で争うNEOXISへの嫌がらせで…!?&#13;&lt;br&gt;対抗すべくあかり商店街とNEOXISは協力し戦うことに。&#13;&lt;br&gt;そして半導体事業を通して英人として生きる光誠と、平成に生きる光誠の“2人の根尾光誠”が急接近し…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epggvepger"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5ecwi9fv</id>
+    <title>夫婦別姓刑事_[第4話 報われない愛の形]</title>
+    <updated>2026-05-05T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr70fmk4xw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 夫婦別姓刑事
+                &lt;a href="https://tver.jp/series/sr70fmk4xw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ecwi9fv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                麻薬組織を仕切る男「オズ」の正体を暴くため、中華料理店を営みながら潜入捜査を続けていた四方田誠（佐藤二朗）ら沼袋所の刑事たち。誠が作った秩父の郷土料理「みそポテト」がバズってしまい、ライバーのレア（香音）まで来店し、店内で生配信を始める。配信を終えたレアを追って店を出た池田絆（中村海人）だったが、突然何者かに刺されてしまう・・・！鈴木明日香（橋本愛）は必死に追いかけるが、犯人はレアと共にタクシーに乗り込んで去っていく。&lt;br&gt;&lt;br&gt;池田を襲撃した犯人の目的は？レアは連れ去られた被害者か？それとも共犯者か？&lt;br&gt;&lt;br&gt;果たして誠たちは麻薬密売グループを逮捕出来るのか？&lt;br&gt;&lt;br&gt;交差する2つの事件の捜査を続ける誠たちの前に、華やかなライバーの世界の裏に隠された仕組みと深い闇が浮き彫りになっていく――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5ecwi9fv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep8wxdjzsd</id>
     <title>孤独のグルメ Season3_[第12話（最終回） 品川区大井町のいわしのユッケとにぎり寿司]</title>
