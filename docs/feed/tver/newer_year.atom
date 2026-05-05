@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-05T10:05:42+09:00</updated>
+  <updated>2026-05-05T12:06:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epqzrva29i</id>
+    <title>大好き！五つ子６_[第17回]</title>
+    <updated>2026-05-05T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqzrva29i.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;周平（見栄晴）の様子がおかしかったのは、警察を辞めて転職を決意していたからだった。高校時代の同級生から声をかけられ、ラーメン屋を始めるつもりだというが、まだ恵（長谷川真弓）にも話していないのだという。リフォームに反対したのもお金がいるためだった。それを聞いて驚いた良介（新井康弘）が周平を問いつめていると、慎吾（中野勇士）を先頭に五つ子が部屋に入ってきた。５人は周平を応援するという。それに力を得てか周平は翌朝、恵と良枝（岩本多代）に決意を打ち明けるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epqzrva29i"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epw3z325r4</id>
     <title>その着せ替え人形は恋をする_[#2「初めての友達」《ドラマイズム》]</title>
@@ -1688,45 +1728,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep4z5w368o"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epf1c7x4dl</id>
-    <title>湯遊ワンダーランド_[第5話 新たなサウナ女子誕生！パリ気分が味わえるピンクの館!?]</title>
-    <updated>2026-05-03T01:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr54oz00oi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 湯遊ワンダーランド
-                &lt;a href="https://tver.jp/series/sr54oz00oi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月03日(日)_01時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月17日(日)_01時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf1c7x4dl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                コンビニの店員に覚えられてしまっただけで、もう金輪際そこへ行けないと嘆くきつこ（ともさかりえ）。アシスタントの沼崎（樋口日奈）にはその感覚が理解できない。そういう沼崎は、きつこの目をみようとしない。きつこに訳を問われると「その人が何を考えてるか知りたくないんです」と話す。きつこはそんな沼崎を思い切ってサウナへ誘う。そこで知った沼崎の秘密とは…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epf1c7x4dl"/>
   </entry>
 </feed>
