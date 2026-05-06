@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-07T00:06:27+09:00</updated>
+  <updated>2026-05-07T02:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep4mmucqbe</id>
+    <title>鬼女の棲む家_[６話　晒された夫 真相は？]</title>
+    <updated>2026-05-07T00:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhtnz3pig.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 鬼女の棲む家
+                &lt;a href="https://tver.jp/series/srhtnz3pig" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月07日(木)_00時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月14日(木)_00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月6日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4mmucqbe.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「透さんのハズがない……。」&lt;br&gt;美魔女インフルエンサー・海老原麗華（まりゑ）による未成年売春斡旋の闇を暴き、世に晒し、大炎上へと導いた明香里（石田ひかり）。炎上の余波でラウンジの顧客リストが流出し、そこに名を連ねていた政界の大物たちの悪事も明るみになって大スキャンダルへと発展していく。しかし、その炎は、やがて自らの足元をも焼き始める――。拡散された店内写真の中に、夫・透（竹財輝之助）を見つけてしまう。&lt;br&gt;そんな場所に出入りするはずがない。そう信じていた。だが、これまでに服のポケットから見つかったラウンジの名刺。いつの間にか外された高級時計。革靴からスニーカーへと変わった足元。いくつかの見過ごしてきた違和感が、一本の線となって繋がり、明香里の胸をざわつかせていく。透に詰め寄る明香里。しかし、透の口から語られたのは“衝撃の告白”だった。明香里は、透を狂わせた如月マリナへの復讐を誓う。だが、その先に待っているのは、さらなる闇だった――。&lt;br&gt;&lt;br&gt;★TVerお気に入り登録をよろしくお願いします！&lt;br&gt;【中京テレビ・日本テレビ系全国ネット 毎週水曜24時24分～放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4mmucqbe"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep3lb9fn69</id>
     <title>102回目のプロポーズ_[第5話 僕は死んでません！ 恋愛ターミネーターの復活]</title>

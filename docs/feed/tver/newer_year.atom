@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-07T00:06:27+09:00</updated>
+  <updated>2026-05-07T02:06:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -968,45 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epewh4858u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epejyljic3</id>
-    <title>単身花日_[第8話「夢の同棲生活 ― 地獄のアヒージョ」]</title>
-    <updated>2026-05-05T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwyop39fq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 単身花日
-                &lt;a href="https://tver.jp/series/srwyop39fq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月31日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejyljic3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/17(火)～ #1-#3&#13;&lt;br&gt;4/6(月)～ #4-#6&#13;&lt;br&gt;5/5(火)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「最後に2人に会えてよかった」――桜木舜（重岡大毅）とスナック「花日」のママ・清水めぐみ（長井短）に、意味深な言葉を残して店を出て行った武田花（新木優子）。嫌な予感にかられた舜は、花を探し回っていた片山直哉（田中樹）とともに屋上に向かい、崩れ落ちる花を抱きしめる。すると、花が震えながら「しばらく桜木くんの部屋にいさせてほしい」と言い始めて!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epejyljic3"/>
   </entry>
 </feed>
