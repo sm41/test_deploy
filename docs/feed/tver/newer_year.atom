@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-07T16:06:27+09:00</updated>
+  <updated>2026-05-07T18:05:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epqzrva29i"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epw3z325r4</id>
-    <title>その着せ替え人形は恋をする_[#2「初めての友達」《ドラマイズム》]</title>
-    <updated>2026-05-05T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3zi3hn15.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ その着せ替え人形は恋をする
-                &lt;a href="https://tver.jp/series/sr3zi3hn15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw3z325r4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                海夢（永瀬莉子）のコスプレ衣装を作ることになった新菜（野村康太）。自分と住む世界が違う海夢と接点ができたことを信じられずにいた。すると突然、海夢が新菜の家を訪ねてくる。採寸が待ちきれず、新菜の家を調べてやってきたという。海夢の行動力に驚かされながらも、無事採寸を終える新菜。休みが明け、学校でも気にせず話しかけてくる海夢に対し、周囲の目を気にして距離を置こうとする新菜。海夢は友達なのに避けられる意味がわからないと新菜に伝える。初めて友達だと言ってくれる人が現れたことに嬉しさを隠せない新菜は、海夢のために頑張って衣装を作ろうと決意するのだった。そして海夢に頭師になりたい気持ちを明かし、海夢に心を開いていくのであった。そんな中、新菜は海夢がコスプレイベントに参加するつもりだと知る。しかしそのイベントは２週間後に迫っていてー。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epw3z325r4"/>
   </entry>
 </feed>

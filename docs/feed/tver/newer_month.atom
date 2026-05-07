@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-07T16:06:27+09:00</updated>
+  <updated>2026-05-07T18:05:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1088,45 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eph8zt3pc3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgnp3dcu2</id>
-    <title>シカゴ･ファイア_[山あり谷あり]</title>
-    <updated>2026-05-05T03:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcwoxs1jd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ シカゴ･ファイア
-                &lt;a href="https://tver.jp/series/srcwoxs1jd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_03時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_02時34分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月4日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgnp3dcu2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                第24話「山あり谷あり」(吹替)&lt;br&gt;【シーズン1 最終話】州のクック刑務所からの出動要請を受け、はしご隊は一触即発の危険なエリアに足を踏み入れ、暴動を起こしそうな受刑者たちをなんとか鎮めようと奮闘する。シェイはまだ子供を持つ夢に希望を持っている。ハーマンの妻シンディは5人目の子供の出産で大変な思いをする。一方ミルズとドーソンは互いの私生活について重大な結論を出すことに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgnp3dcu2"/>
   </entry>
 </feed>
