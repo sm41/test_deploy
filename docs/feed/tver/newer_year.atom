@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-07T22:05:27+09:00</updated>
+  <updated>2026-05-08T03:53:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epem4opgk2</id>
+    <title>Oh,My Dad!!_[第2話 15分拡大スペシャル 母という存在の大きさすれ違う父子の想い]</title>
+    <updated>2026-05-08T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgf85aw7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ Oh,My Dad!!
+                &lt;a href="https://tver.jp/series/srxgf85aw7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epem4opgk2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;アパートを追い出された新海元一（織田裕二）は、ひとり息子の光太（田中奏生）とともにこっそりネットカフェに泊まろうとする。だが、夜中に光太が店員に見つかってしまい、店を追い出されてしまう。&lt;br&gt;一方、光太が通う保育園では、緊急時に備えて引き渡し訓練が行われる。元一は、一番に迎えに行く、と光太に約束すると、仕事を求めて人材派遣会社に登録しに行く。そんな折、元一は、日藤物産の岸田史顕（八嶋智人）から急な仕事を依頼される。頼んでいた専門家が急病になったため、同社の上層部に燃料電池について解説をしてほしいという。&lt;br&gt;日藤物産を訪れた元一は、そこで早坂美月（長谷川京子）と再会する。元一と美月が元恋人同士だと知らない岸田は、美月に元一を紹介した。仕事を終えた元一は、自ら開発したマグネシウム空気電池への興味を見せた重役にその説明をしていたせいで、光太を引き取りにいくのが遅くなってしまう。光太は、悪い子にしているとパパもママも迎えに来ない、と友だちにからかわれながらも、ひとりで元一を待ち続けていた。&lt;br&gt;あくる日、光太を保育園に送り届けた元一は仕事を探しに行く。すると、保育園から光太が腹痛を訴えているという連絡が入る。元一は、慌てて保育園に駆けつけた。しかし光太は、もう治った、と元気一杯だった。翌日、元一はついに運送会社の仕事を得る。が、仕事先に向かおうとした矢先に、またもや保育園から電話が入り・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『Oh,My Dad!!』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epem4opgk2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqaoebt59</id>
     <title>花より男子2(リターンズ)_[第６話 告白は大波乱!!]</title>
@@ -368,85 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1uwxmh1b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5sp2xmmf</id>
-    <title>ディア・シスター_[第9話 最後の約束]</title>
-    <updated>2026-05-05T19:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ディア・シスター
-                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_19時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5sp2xmmf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;美咲（石原さとみ）は産婦人科へ健診に行く。次は性別がわかるかも、と聞いていたことを思い出した永人（岩田剛典）は、「一緒に行く」と言って大慌てで支度する。性別がわかると子どもの名前を考え始める気が早い永人。そして、「今度の大会で優勝したら・・・」と言いかけるが・・・。&lt;br&gt;宗一郎（田辺誠一）は、別れた妻の貴子（音月桂）と会っていた。美咲が妊娠したことを知った貴子は、「自分の人生はあの子のせいで全てが狂った」と憤る。&lt;br&gt;一方、葉月（松下奈緒）は、クビになったドレス工房「RYO」の展示会に招待される。ひとりで行く勇気がない葉月は、陽平（平山浩行）を誘う。会場には「RYO」オーナー兼デザイナーの柴田亮（鈴木一真）もいて、そこで葉月は、意外なものを目にする。&lt;br&gt;そんな中、永人が出場するスケートボードの大会が開かれる。応援に駆け付けた美咲だったが、その背後には怪しい人影があり・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5sp2xmmf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqzrva29i</id>
-    <title>大好き！五つ子６_[第17回]</title>
-    <updated>2026-05-05T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子６
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqzrva29i.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;周平（見栄晴）の様子がおかしかったのは、警察を辞めて転職を決意していたからだった。高校時代の同級生から声をかけられ、ラーメン屋を始めるつもりだというが、まだ恵（長谷川真弓）にも話していないのだという。リフォームに反対したのもお金がいるためだった。それを聞いて驚いた良介（新井康弘）が周平を問いつめていると、慎吾（中野勇士）を先頭に五つ子が部屋に入ってきた。５人は周平を応援するという。それに力を得てか周平は翌朝、恵と良枝（岩本多代）に決意を打ち明けるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqzrva29i"/>
   </entry>
 </feed>

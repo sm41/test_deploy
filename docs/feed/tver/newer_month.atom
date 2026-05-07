@@ -2,13 +2,373 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-07T22:05:27+09:00</updated>
+  <updated>2026-05-08T03:53:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epk9qgzgf3</id>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第5話]</title>
+    <updated>2026-05-08T02:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_02時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_02時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk9qgzgf3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                著名人が講演形式で語る人気TV番組「君の心を変える時間」から出演オファーを受けたスティーブは、嬉しさの余り真っ先に両親のもとへ報告に向かう。だが、弁護士である両親の関心は同業で活躍する兄に向いていた。彼は複雑な思いを抱えながらもマッコムのCEOとして名を刻む好機に収録に臨んだが、思いもよらない事態に巻き込まれていく。一方、彼から高齢者向け講座を任されていたアシュリーとジェイは、別々の講師を手配していたことに当日気づく。講座は無事に終了したものの、世代の異なる講師同士の皮肉の応酬が始まってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epk9qgzgf3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epu2ku0yhn</id>
+    <title>るなしい_[第六話 神の子は蘇る]</title>
+    <updated>2026-05-08T02:41:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4uh6omhf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ るなしい
+                &lt;a href="https://tver.jp/series/sr4uh6omhf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_02時41分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_00時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu2ku0yhn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ケンショー（窪塚愛流）によって、仕舞い込んだはずの恋心をこじ開けられたるな（原菜乃華）が姿を消して8年――。社会人になったスバル（本島純政）は出版社で働きながら、平凡な日々を過ごしていた。ある日、スバルの元に「火神の医学鍼灸院」から掲載依頼が入る。鍼灸院を訪れたスバルは、大人になったるなと再会し、“空白期間”を知ることに。スバルはるなのために再び筆を走らせるが、その記事が絶縁していたはずのあの男を呼び戻す引き金となってしまい…　［期間限定無料配信］　テレビ東京にて毎週木曜深夜24時30分から放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu2ku0yhn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephvqe09mk</id>
+    <title>惡の華_[第5話]</title>
+    <updated>2026-05-08T02:11:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 惡の華
+                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_02時11分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_00時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephvqe09mk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                春日（鈴木福）と仲村（あの）と佐伯（井頭愛海）は、真夜中に出歩き、雨の中の山奥で警察に保護される。春日は仲村からの拒絶に、絶望に似た感情を抱き、どこにも行けなかった事を悔やむ。傷ついた仲村を一人にしない為、いつかの作文を書いてきた春日は、仲村に「もう一度契約しよう」と持ち掛ける。今度はクソムシの海から這い出す契約を…。必ず向こう側を見せると約束した春日は、ある計画を実行するため女子更衣室に向かう。　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて好評放送中！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephvqe09mk"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epbbp26ri8</id>
+    <title>ネタジョ_[第2話「ミルクボーイ」《ドラマフィル》]</title>
+    <updated>2026-05-08T01:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzzu4ls15.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ネタジョ
+                &lt;a href="https://tver.jp/series/srzzu4ls15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_01時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbbp26ri8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                会社を辞め、喫茶店でバイトを始めた幸子は、ひょんなことから「見守り」の仕事を引き受ける。そこで遭遇した不可解なリズムに困惑するも、劇場の舞台に立つミルクボーイの漫才に開眼。繰り返される旋律のごとき“システム”は、その裏側に“人間味”あってこそ。笑いの深淵、その答えは「湿布」の中に!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbbp26ri8"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epis9y3ywh</id>
+    <title>その天才様は偽装彼女に執着する_[第3話 ずっと俺のとこいなよ＜ドラマトリップ＞]</title>
+    <updated>2026-05-08T01:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr03vdkq4c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ その天才様は偽装彼女に執着する
+                &lt;a href="https://tver.jp/series/sr03vdkq4c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_01時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月18日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epis9y3ywh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「偽装彼女」の契約が始まるも、婚活を諦めない凛。郁から心ない言葉を投げかけられると声を荒げて怒り、家を飛び出してしまう。違和感を覚えた郁は凛の兄・昴に話を聞くと、凛は過去の出来事から「崩壊した家族の幸せを取り戻さなければ」という過度な責任感を抱えていることを知る。一方、モラハラ男とのデートに向かう凛は、突然後ろから手を引かれる。振り返ると、そこには郁が立っていて―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epis9y3ywh"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epz578rlho</id>
+    <title>あの夜、社長の子供を授かりました_[#4「愛しい夫婦の時間」《ドラマ特区》]</title>
+    <updated>2026-05-08T01:29:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr2r0wkbz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あの夜、社長の子供を授かりました
+                &lt;a href="https://tver.jp/series/srr2r0wkbz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_01時29分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_01時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz578rlho.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「もう少し話しませんか？俺の家で」&lt;br&gt;貴人（森次政裕）からの言葉を受け入れ、栞里（佐々木美玲）は彼のマンションへと向かう。&lt;br&gt;社長の家に２人きり…!?これまでにないシチュエーションにドキドキしていると「少し、顔が赤くないですか？」と覗き込む貴人の顔が近づいてきて…互いに照れながらも笑顔に包まれる。結婚を決意した２人はデートをしたり、買い物をしたり、幸せな時間を一緒に過ごしていく。栞里の実家への挨拶を終えて両親に認められ、一緒に暮らし始めた２人。&lt;br&gt;次は貴人の実家へ挨拶することになり、順調に見えた２人に貴人の父・常一（神保悟志）が立ちはだかる。&lt;br&gt;栞里と目も合わせずに、貴人に向かい「お前の人生を台無しにするほどの価値が彼女にあるのか？」と問う常一。さらには貴人には浅風玲奈（大原梓）という許嫁がいることを知ることに…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epz578rlho"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epal6sc3qo</id>
+    <title>ディープリベンジ-顔を捨てた家政婦-_[第５話・その秘密は全てを壊す。それでも知る覚悟、あなたにある？]</title>
+    <updated>2026-05-08T01:29:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srejg9hs9j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディープリベンジ-顔を捨てた家政婦-
+                &lt;a href="https://tver.jp/series/srejg9hs9j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_01時29分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_00時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epal6sc3qo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                蓮（日影琉叶）が絵梨華（石川恋）の子どもではない可能性を知った香子（堀未央奈）は、その真相を確かめるために密かにDNA検査を行う。御堂家の財産を狙う澤井愛子（藤江萌）もまた、その証拠を手に入れようと香子と手を組むことにする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epal6sc3qo"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptwbe6odr</id>
+    <title>君が死刑になる前に_[第６話「2人を繋ぐ因縁」]</title>
+    <updated>2026-05-08T00:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srn59ozoz7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 君が死刑になる前に
+                &lt;a href="https://tver.jp/series/srn59ozoz7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_00時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月14日(木)_23時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptwbe6odr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                琥太郎（加藤清史郎）たちは、事件の真相を追うため、そして本来は亡くなるはずのなかった刑事の伊藤（内博貴）を救うべく、再び２０１９年に戻ることを決意。前回タイムスリップした場所に向かうと、再び過去に戻ることに成功する。&lt;br&gt;以前いたときから2週間が経過しており、汐梨（唐田えりか）の指名手配は解除されていたが、彼女は姿をくらましていた。&lt;br&gt;伊藤に話を聞きに行った琥太郎たちは、汐梨の衝撃的な過去を知る——！&lt;br&gt;&lt;br&gt;ＴＶｅｒでは１～３話＋最新話を無料配信中！&lt;br&gt;便利なお気に入り登録をお願いします！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptwbe6odr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epeyrubxyj</id>
+    <title>今夜、秘密のキッチンで_[第5話 涙の決断！記憶を失っても生き返って]</title>
+    <updated>2026-05-07T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
+                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月07日(木)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月14日(木)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeyrubxyj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                慧（高杉真宙）が昏睡状態で生きていること、そして藤子（瀧本美織）という婚約者がいることを慧に伝えたあゆみ（木南晴夏）。未完成だったレシピノートを完成させ、生き返って藤子の元に帰るべきだと言うあゆみに、慧は言った。「俺は、あなたのことが好きなんです」と―。&lt;br&gt;&lt;br&gt;「レシピノートを完成させて、この世界とちゃんとお別れする。そして、生き返ったら戻ってくるから。あなたの元に」。まっすぐ見つめる慧に、涙ぐみながら頷くあゆみ。二人は、最高のレシピを完成させるために協力し合うことを誓う。その様子を苦しげに見つめていた隣人の幽霊・林太郎（安井順平）は、何も言わず壁をすり抜けて去って行く。&lt;br&gt;&lt;br&gt;翌朝、渉（中村俊介）は久しぶりに二人きりで外食しようと、あゆみを誘う。戸惑いながらも、あゆみは誘いを受け入れ、渉の出社を見送る。慧のレシピノートがなぜこの家のキッチンにあったのか、渉に直接確かめなければならない、と心に決めるあゆみ。&lt;br&gt;&lt;br&gt;一方、慧と坪倉グループの間に何があったのか、真相を追い求める藤子、そして里佳（月城かなと）。少しずつ慧に関する事実が明らかになっていく中、レシピの完成を目指す慧とあゆみ。月の輝く下で『夏のポルペッテ』は完成するのだろうか？そして二人の恋の行方は・・・？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epeyrubxyj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epnghne8yo</id>
     <title>未解決の女　警視庁文書捜査官 Season３_[第4話 令和の三億円事件！愛憎の3文字]</title>
@@ -968,165 +1328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep60xj4fep"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epggvepger</id>
-    <title>リボーン ～最後のヒーロー～_[第4話 変わりゆく歴史ー宿敵の陰謀ー]</title>
-    <updated>2026-05-05T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruwf1bmff.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リボーン ～最後のヒーロー～
-                &lt;a href="https://tver.jp/series/sruwf1bmff" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epggvepger.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                英人に転生した根尾光誠（高橋一生）がこれまで行ってきた言動や行動が思いがけない事態を招く！&#13;&lt;br&gt;なんと根尾光誠の歴史を変えてしまっている可能性が浮上。&#13;&lt;br&gt;転生前の光誠が行っていないはずのパリ出張に行くことになったうえ、&#13;&lt;br&gt;その日は同時多発テロが起きた当日。&#13;&lt;br&gt;このままでは光誠がテロに巻き込まれる…!?&#13;&lt;br&gt;光誠たちを命の危機から救うべく、英人は東郷義隆（市村正親）の協力を得て出張を阻止しようと動き出す！&#13;&lt;br&gt;そんな中、英人発案の「温暖化対策グッズ」のビジネスをめぐり、あかり商店とNEOXISが蒼萬社長・一萬田仁志（坪倉由幸）から特許権侵害で訴えられてしまう。実は、半導体事業で争うNEOXISへの嫌がらせで…!?&#13;&lt;br&gt;対抗すべくあかり商店街とNEOXISは協力し戦うことに。&#13;&lt;br&gt;そして半導体事業を通して英人として生きる光誠と、平成に生きる光誠の“2人の根尾光誠”が急接近し…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epggvepger"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5ecwi9fv</id>
-    <title>夫婦別姓刑事_[第4話 報われない愛の形]</title>
-    <updated>2026-05-05T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr70fmk4xw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫婦別姓刑事
-                &lt;a href="https://tver.jp/series/sr70fmk4xw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ecwi9fv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                麻薬組織を仕切る男「オズ」の正体を暴くため、中華料理店を営みながら潜入捜査を続けていた四方田誠（佐藤二朗）ら沼袋所の刑事たち。誠が作った秩父の郷土料理「みそポテト」がバズってしまい、ライバーのレア（香音）まで来店し、店内で生配信を始める。配信を終えたレアを追って店を出た池田絆（中村海人）だったが、突然何者かに刺されてしまう・・・！鈴木明日香（橋本愛）は必死に追いかけるが、犯人はレアと共にタクシーに乗り込んで去っていく。&lt;br&gt;&lt;br&gt;池田を襲撃した犯人の目的は？レアは連れ去られた被害者か？それとも共犯者か？&lt;br&gt;&lt;br&gt;果たして誠たちは麻薬密売グループを逮捕出来るのか？&lt;br&gt;&lt;br&gt;交差する2つの事件の捜査を続ける誠たちの前に、華やかなライバーの世界の裏に隠された仕組みと深い闇が浮き彫りになっていく――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5ecwi9fv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8wxdjzsd</id>
-    <title>孤独のグルメ Season3_[第12話（最終回） 品川区大井町のいわしのユッケとにぎり寿司]</title>
-    <updated>2026-05-05T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season3
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8wxdjzsd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎（松重豊）は大井町駅に降り立ち商談相手の待つ猫カフェへ。カフェの主人に依頼されていた商品の資料を見せると、険しい表情になってしまう。五郎は内心、期待にそえなかったかもしれないと焦るが、田中が言い出したのは意外なリクエストだった。何とかリクエストに応える約束をして商談を終えた五郎は、記憶をたどって小さな飲食店が軒を連ねる路地へ向かう。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8wxdjzsd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epa0t450gd</id>
-    <title>ワカコ酒_[第10夜　お好み焼き]</title>
-    <updated>2026-05-05T17:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ワカコ酒
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa0t450gd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。広島へ帰省したワカコは友人と一緒に広島グルメ三昧。久しぶりの「府中焼き」、香ばしく焼けたパリパリのソバ生地に背油ミンチのうまみが行き渡る。卵と炙りネギの香りが口いっぱいに広がり今日はビールも思い切って大ジョッキで……故郷「広島」の料理が次々と胃袋に収まってゆき……　[期間限定無料配信]
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epa0t450gd"/>
   </entry>
 </feed>
