@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-07T10:05:27+09:00</updated>
+  <updated>2026-05-07T12:05:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eph6b6rhjs</id>
+    <title>輝く星のターミナル_[第7話]</title>
+    <updated>2026-05-07T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月07日(木)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph6b6rhjs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ヨルムはバッグを届けるために黙って帰ってしまったスヨンの元へ向かう。そこでヨルムはスヨンに告白され困惑し、その話を聞いたウンソプは動揺する。ソグンはスヨンについて勘ぐるなとイヌに忠告するが、真実を知りたいイヌはスヨンが着用している補装具の安全性について会議で問題を提起し調査させることに。そんな中、ウテクのもとに大柄の男たちが駐車代行を再開させてくれと乗り込んでくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eph6b6rhjs"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbyfh3bhn</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第１９話「第二の試練」]</title>
@@ -1288,45 +1328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep6bqzhkny"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep00qg5kza</id>
-    <title>多すぎる恋と殺人_[5話 【今だけ全話配信中】真犯人発覚！？衝撃のラストへ]</title>
-    <updated>2026-05-05T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7208gcpq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 多すぎる恋と殺人
-                &lt;a href="https://tver.jp/series/sr7208gcpq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月4日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep00qg5kza.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                殺さなければ、殺される…！警視庁捜査一課刑事・谷崎真奈美（森カンナ）の50人の恋人＝マイラブたちが次々に殺害される連続殺人事件。姿を見せない連続殺人の指示役『アイチャン』にペンションを支配され、マイラブ同士のデスゲームが始まってしまった！&lt;br&gt;不安と恐怖の中、マイラブの１人で舞台俳優の鰐淵猛が、真奈美に疑惑の目を向ける。真奈美は否定するものの、疑いを強める鰐淵に果物ナイフで脅され、後輩刑事・黒岩壮馬（西垣匠）と一緒にペンションを追い出されてしまう…。さらにそこへ、真奈美を連続殺人の容疑者とにらむ捜査一課管理官・高峰綾乃（桜井玲香）の追っ手が迫り…！&lt;br&gt;警察からもマイラブからも信じてもらえず、絶体絶命の真奈美！そんな中、ついに『アイチャン』が姿を現す！？その正体は！？連続殺人事件は予想外の新展開へ！！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep00qg5kza"/>
   </entry>
 </feed>
