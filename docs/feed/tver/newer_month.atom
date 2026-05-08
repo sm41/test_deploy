@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-08T12:06:04+09:00</updated>
+  <updated>2026-05-08T14:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epbmc8wyh0</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第１０話「真実義務と秘密保持」]</title>
+    <updated>2026-05-08T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbmc8wyh0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                夫殺害を自首する女性を弁護するウニョク。簡単そうな案件だが、ジウクは彼の態度が気になっていた。そしてその事件はボンヒの調べから、ある事実にたどり着く。ヒョンスに疑いを持ち、彼の身辺を探るジウクとパン係長。ジウクは、そのことをボンヒに言えずにいた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbmc8wyh0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptjnsiaew</id>
+    <title>最後の雨が降るとき_[第11話　生まれ育った場所]</title>
+    <updated>2026-05-08T13:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_13時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月08日(月)_13時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptjnsiaew.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                風神(ファリ)は天娣(ティエンディ)の同僚たちの記憶を修正し姿を消す。風神の行動に疑問を感じる天娣。また、知恵の神・溥輝(プーフイ)も風神の行動を怪しみ、妻の規律神(マルサカダ)が本当に原生地(ピノカヤン)に帰ったのか心配になる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptjnsiaew"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep637vegnv</id>
     <title>輝く星のターミナル_[第8話]</title>
@@ -1208,45 +1288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep6w18bdso"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmt3x6f26</id>
-    <title>失恋カルタ_[第６話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「ね」《ドラマイズム》]</title>
-    <updated>2026-05-06T01:56:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8o52a7s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 失恋カルタ
-                &lt;a href="https://tver.jp/series/srr8o52a7s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月06日(水)_01時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月13日(水)_01時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmt3x6f26.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「お試し」で付き合い始めた彩世（加藤小夏）と村田（若林時英）。職場でこっそりデートの約束を交わし、二人の距離は着実に縮まっていく。千波（梅澤美波）も出版社の編集者・渋谷（深水元基）とついに恋人同士に。それぞれの新しい恋が動き出した矢先、光（西垣匠）と陸（伊藤絃）の間には静かな亀裂が広がり始めていた。 父親の入院、嵩む医療費──陸は光に打ち明けられないままバイトを掛け持ちし、夢への貯金を取り崩していく。光の優しさや眩しさが、かえって自分との差を突きつける。すれ違い続けた二人の想いは、ある夜、取り返しのつかない言葉となって溢れ出してしまい……。 幸せの真っ只中にいる千波と彩世のもとに、光からの不在着信があり──。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmt3x6f26"/>
   </entry>
 </feed>
