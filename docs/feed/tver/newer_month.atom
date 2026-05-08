@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-08T10:06:05+09:00</updated>
+  <updated>2026-05-08T12:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep637vegnv</id>
+    <title>輝く星のターミナル_[第8話]</title>
+    <updated>2026-05-08T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep637vegnv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                イヌが補装具の調査を指示したと知ったスヨンは罪悪感はないのかとイヌを責めるが、イヌは事故を招いたのはスヨン自身だと言い放つ。ウンソプはヨルムに恋心をアピールするが、鈍感なヨルムは全く気づかない。スヨンは寝る場所がなく困っていたヨルムを自分の家に連れて行く。ヨルムは断り家を出ようとするがスヨンが引き止める。翌朝スヨンの家を出たヨルムは家の前でヨンジュに出くわして…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep637vegnv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epks809tnz</id>
     <title>財閥復讐～兄嫁になった元嫁へ～ Dynasty_[出口のない地獄]</title>
@@ -1208,165 +1248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epmt3x6f26"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjytyna6c</id>
-    <title>ぴーすおぶせーふ_[第8話(最終話) 最後も安定の事なかれ主義？]</title>
-    <updated>2026-05-06T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr25s7151l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ぴーすおぶせーふ
-                &lt;a href="https://tver.jp/series/sr25s7151l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月06日(水)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjytyna6c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「2代目カイザー」として指名された3人。黒島くん(基俊介)はまんざらでもなく 「優しい国を作りたい」と夢を語る。&lt;br&gt;しかし、灰原さん(佐々木美玲)はその夢に鋭くツッコみ、白間宮くん(落合モトキ)もまた、これまでは都合よくやり続けてきただけだと諭し、目を覚まさせようとする…。 “事なかれ主義者”たちが選んだ、世界を救うための「最後の手段」とは?巻き込まれ続けた3人の会話劇、ついに完結!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjytyna6c"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxxd47ry0</id>
-    <title>こないだおばさんって言われたよ_[第1話 おばさんと言われた日]</title>
-    <updated>2026-05-06T01:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8ildo0yc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ こないだおばさんって言われたよ
-                &lt;a href="https://tver.jp/series/sr8ildo0yc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月06日(水)_01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月01日(水)_00時49分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxxd47ry0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                主人公、54歳の独身女性・三河芽衣子（飯島直子）は、脱サラしてドーナツ屋を営んでいる。ある日、年下の彼氏の村山（神谷圭介）が若い女性と“パパ活”をしていたことが発覚！「気持ち悪い！」と潔く別れる芽衣子だったが……。仕事はできるのに恋愛は全く学ばず今日に至る。傷心の芽衣子を支えたのは、筋肉系アイドル・タスク（上野勇希）への推し活だった。しかし翌日、タスクが突然“授かり婚”を発表。芽衣子は推しまで失い、絶望のどん底に落ちる。やけ食いしながら夜道を歩く芽衣子は、偶然大金の入った財布を拾い交番へ届ける。交番を後にしようしたその時、持ち主の若い男性（旭惟吹）が現れ、感謝の言葉とともに放った一言、&lt;br&gt;―――「ありがとう、おばさん！」―――。&lt;br&gt;生まれて初めて面と向かって“おばさん”と呼ばれた芽衣子は大きなショックを受け、現実の年齢を突きつけられる。さらに母（梅沢昌代）の怪我をきっかけに「老い」や「将来の孤独」への不安が芽衣子を襲う。そんな中、既婚者の親友・頼子（堀内敬子）が見知らぬ男性とイチャイチャしているところに遭遇してしまい――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxxd47ry0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgnww83us</id>
-    <title>早坂架威のごっこ倶楽部TV_[「恋が愛にかわるとき」後編]</title>
-    <updated>2026-05-05T22:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcb3t38u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 早坂架威のごっこ倶楽部TV
-                &lt;a href="https://tver.jp/series/srfcb3t38u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_22時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月05日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 福島中央テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgnww83us.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                東京からいわきに訪れた倦怠期のカップル。&lt;br&gt;2人きりだと思っていたのに彼氏が&lt;br&gt;男友達も一緒に誘ったことで&lt;br&gt;思い描いていた旅行にならず戸惑う彼女。&lt;br&gt;果たして2人の恋の行方は？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgnww83us"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep60xj4fep</id>
-    <title>時すでにおスシ!?_[第５話【巻き込まれ、巻き寿司】]</title>
-    <updated>2026-05-05T22:57:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時すでにおスシ!?
-                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月05日(火)_22時57分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月12日(火)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月5日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep60xj4fep.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;鮨アカデミーでの授業も折り返し地点に差し掛かり、みなと（永作博美）たちは大江戸（松山ケンイチ）と一対一で卒業後の進路を考える「進路面談」に臨むことに。卒業後のことを全く考えていなかったみなとが途方に暮れる中、クラスメイトでまっすぐに鮨職人を目指していたはずの森蒼斗（山時聡真）もまた、何やら浮かない様子。進路アンケートも白紙で提出し、「どうしたらいいのか分からなくなった…」と話す森を前に、大江戸も困惑してしまう。そんな矢先、森の母・温子（佐藤江梨子）が激怒しながら鮨アカデミーに乗り込んでくる。どうやら森は家族にも内緒で大学を辞めており、祖父・克己（でんでん）の傾きかけた鮨屋さんを継ぐべく鮨アカデミーに入学していたことが発覚。&lt;br&gt;一方、荒ぶる温子にみなとは同じ母親として寄り添い、話を聞いているうちに“姐さん”として慕われ、その末に思いがけぬ展開に巻き込まれていく…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep60xj4fep"/>
   </entry>
 </feed>
