@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-08T16:06:04+09:00</updated>
+  <updated>2026-05-08T18:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5wduznna"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1uwxmh1b</id>
-    <title>大好き！五つ子６_[第18回]</title>
-    <updated>2026-05-06T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子６
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月06日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月20日(水)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1uwxmh1b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;鎌倉の桜井家は周平（見栄晴）の転職問題で殺伐としていた。美穂（新穂えりか）はそんな雰囲気にもめげず、自転車泥棒を捕まえようと計画。五つ子と樹里（平本亜夢）、亜理沙（斉藤瑠花）の７人は手分けして聞き込みを始める。一方、良枝（岩本多代）は周平に内緒でリフォーム業者を呼び、恵（長谷川真弓）と共に打ち合わせを始めてしまうが、折悪しくそこに周平が帰ってきて業者を追い返してしまう。その頃、東京の桜井家でも問題が発生。小百合（佐久間由枝）が仕事を１日で辞めてしまったのだ。その上やっとかかってきた西園寺（飯田基祐）からの電話を小百合は素っ気なく切ってしまい…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1uwxmh1b"/>
   </entry>
 </feed>
