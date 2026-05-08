@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-09T00:06:05+09:00</updated>
+  <updated>2026-05-09T02:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eps6rijo0s</id>
+    <title>余命３ヶ月のサレ夫_[#3 十年不倫…悲しみのDNA鑑定]</title>
+    <updated>2026-05-09T00:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruts7aghq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 余命３ヶ月のサレ夫
+                &lt;a href="https://tver.jp/series/sruts7aghq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月09日(土)_00時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps6rijo0s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                余命宣告、妻・美月（桜井日奈子）の不倫という悲劇に見舞われた葵（白洲迅）は、会社の後輩・岩崎（庄司浩平）らのサポートで、闘病と仕事の両立に励んでいた。&#13;&lt;br&gt;ある日、美月の不倫相手・ケンジ（高橋光臣）の会社を突き止めた葵と岩崎は、いざ偵察へ。するとそこで、思いもよらないケンジの姿を目の当たりにすることに…！&#13;&lt;br&gt;そんな中、葵は抗がん剤の投薬治療で入院することになる。&#13;&lt;br&gt;一方の美月は、同僚の送別旅行とウソをつき、ケンジと温泉旅館に向かう――。&#13;&lt;br&gt;&#13;&lt;br&gt;―余命宣告され絶望する夫、そのとき妻は不倫に溺れていた―&#13;&lt;br&gt;主演に白洲迅、ヒロインに桜井日奈子という実力派俳優のタッグで国内累計1億ビュー超えの大ヒットコミックをドラマ化！&#13;&lt;br&gt;余命宣告された夫が、遺産を狙う妻と愛人への復讐に突き進む、禁断のノンストップ《リベンジ・ラブサスペンス》！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eps6rijo0s"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ephdp63r8t</id>
     <title>田鎖ブラザーズ_[ep.04]</title>
