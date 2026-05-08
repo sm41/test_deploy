@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-08T18:06:04+09:00</updated>
+  <updated>2026-05-08T20:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epa33mws4e</id>
+    <title>ディア・シスター_[第10話 星に願いを]</title>
+    <updated>2026-05-08T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9x4awsw6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディア・シスター
+                &lt;a href="https://tver.jp/series/sr9x4awsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa33mws4e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月4日(土) ～ 5月15日(金)&lt;br&gt;#2：4月11日(土) ～ 5月15日(金)&lt;br&gt;#3：4月18日(土) ～ 5月15日(金)&lt;br&gt;#4：4月20日(月) ～ 4月27日(月)&lt;br&gt;#5：4月23日(木) ～ 4月30日(木)&lt;br&gt;#6：4月26日(日) ～ 5月3日(日)&lt;br&gt;#7：4月29日(水) ～ 5月6日(水)&lt;br&gt;#8：5月2日(土) ～ 5月9日(土)&lt;br&gt;#9：5月5日(火) ～ 5月12日(火)&lt;br&gt;#10：5月8日(金) ～ 5月15日(金)&lt;br&gt;&lt;br&gt;美咲（石原さとみ）は、永人（岩田剛典）からプロポーズされた。荷物を取りに来た際に偶然話を聞いてしまった葉月（松下奈緒）は、永人に返事はしたのか、と美咲に尋ねる。しかし美咲は、いろいろなことが起こりすぎて永人のことをどう思っているのか、自分自身でもわからない、と答え・・・。&lt;br&gt;そんな折、永人は美咲にプロポーズのことを再度切り出そうとするが、永人と宗一郎（田辺誠一）の父・永一郎（清水紘治）の突然の訪問を受けてしまう。事情を知った永一郎は、「息子の人生を考えたら、親としてこんな結婚は認めるわけにはいかない」と怒り、美咲を追い返してしまい・・・。&lt;br&gt;そして、出産予定日まで1カ月を切った4月のある夜、無事に産んでほしいという葉月と七重（片平なぎさ）の願いもむなしく、美咲の容体が急変してしまう。ストレッチャーに乗せられ手術室に運ばれる道中で、美咲は、葉月に対し「もしものときはお願いね・・・」と後を託し・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ディア・シスター』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa33mws4e"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epcbvycw19</id>
     <title>きみはペット_[７．おうちにかえろう]</title>
