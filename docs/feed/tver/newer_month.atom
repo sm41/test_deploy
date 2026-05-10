@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-10T20:05:35+09:00</updated>
+  <updated>2026-05-11T01:40:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epv68hc3yj</id>
+    <title>10回切って倒れない木はない_[第5話「隠されていた真実」]</title>
+    <updated>2026-05-10T23:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 10回切って倒れない木はない
+                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月10日(日)_23時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月17日(日)_22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月10日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv68hc3yj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                家族も地位も失った韓国の財閥御曹司キム・ミンソク(志尊淳)は、日本で出会った大切な人・河瀬桃子(仁村紗和)への思いを募らせ、桃子の幼なじみ・山城拓人(京本大我)に「桃子先生のことだけは譲れない」と本音をぶつけるが、拓人から宣戦布告される。桃子と拓人の結婚を望む姉・杏子(入山法子)の思いを知ったミンソクは、桃子を笑顔に出来るのは自分ではないかもと思い…身を引こうとするミンソクと桃子の恋の行方は―!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epv68hc3yj"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epa0puw1cv</id>
+    <title>エラー_[ep5「口がすべる」]</title>
+    <updated>2026-05-10T23:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ エラー
+                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月10日(日)_23時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月17日(日)_23時09分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月10日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa0puw1cv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ユメ（畑芽育）は、相続放棄の決定に従い実家の整理を始めた未央（志田未来）を手伝う。その傍ら、手紙の返却と口止めの代金として百万円をさくら（北里琉）に支払うユメだが、手紙は既に廃棄したという…。そんな中で迎えた大迫家引っ越しの前日、未央は実家での最後のひと時をユメと共に過ごす。生前の母を思い浮かべ涙ぐむ未央を、ユメは「これからもずっと友達でいたい」と覚悟を決めて抱きしめる。ユメの心からの言葉に慰められる未央。絆を深める二人だが、お互いの知らないところで真実は徐々に漏れ出し、状況を蝕み始めていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epa0puw1cv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptftwh7bd</id>
+    <title>ＧＩＦＴ_[第５話 二つの星がそろう時、勝利の音が鳴る?!]</title>
+    <updated>2026-05-10T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＧＩＦＴ
+                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月10日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月17日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月10日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptftwh7bd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;メモリアルカップ出場に向け、ブルズは活気づいていた。圭二郎（本田響矢）は目覚ましい成長を見せ、そんな彼を涼（山田裕貴）も認め始めている。もちろん伍鉄（堤真一）はスネークに勝つための戦術に余念がない。&lt;br&gt;その伍鉄が自分の父親だと母・広江（山口智子）から聞かされた坂本昊（玉森裕太）はある日、伍鉄に会い、思ってもいないことを口走ってしまう。&lt;br&gt;一方、人香（有村架純）はブルズの練習に顔を出せずにいた。英夫（山中聡）が１０年前に起こした事故の相手が圭二郎だとわかったからだ。思い悩む人香は、涼から自身の境遇を聞き、意を決して圭二郎にすべてを打ち明ける。それを聞いた圭二郎は……。&lt;br&gt;チームに重苦しいムードが漂う中、メモリアルカップ試合当日を迎える。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptftwh7bd"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1g7ymvml</id>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第2話「カンフー学園を叩け！」]</title>
@@ -1088,85 +1208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnghne8yo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptt2gs44y</id>
-    <title>あざとかわいいワタシが優勝_[第6話]</title>
-    <updated>2026-05-07T21:53:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreel7k3xi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あざとかわいいワタシが優勝
-                &lt;a href="https://tver.jp/series/sreel7k3xi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月07日(木)_21時53分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月21日(木)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptt2gs44y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「あざとかわいい」、それは時に憧れを抱かれ、時に強烈な嫉妬の対象となる。&lt;br&gt;木之本紗綾（蒼井陽奈）へのパワハラを疑われ、落ち込む松嶋琴音（大友花恋）。居酒屋で佐原なず奈（桜井玲香）に相談していると、偶然、瀬口義宣（長万部純）と田中理人（八神慶仁郎）に遭遇する。&lt;br&gt;なず奈に向けられる瀬口と田中の熱い視線に、琴音は二人の恋の矢印を確信する。そんな中、社内で紗綾による重大なミスが発覚。これまでチヤホヤしていた社員たちからも厳しい目を向けられ孤立する紗綾に、琴音は自ら救いの手を差し伸べる。心待ちにしていた清水将貴（船津稜雅）との食事もキャンセルしてフォローに回る琴音やなず奈に、紗綾も心を開き始める。&lt;br&gt;ようやく平和が訪れたかと思った矢先…ついに、なず奈があざかわ女子としての本領を発揮し始めて――！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptt2gs44y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd21spenq</id>
-    <title>孤独のグルメ Season4_[第3話 神奈川県足柄下郡箱根町のステーキ丼]</title>
-    <updated>2026-05-07T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season4
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月07日(木)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月21日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd21spenq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                箱根登山鉄道の宮ノ下駅に降り立った五郎。心地よく夏を感じていると「いのしし注意」の看板を見つけ、ちょっとビビる。駅向かいにある足湯のあるカフェの二階にあるギャラリーで仕事を済ますと、「ノスタルジック散策路」という地図を見つけ、すこし歩いてみることにする。その後いろいろあり……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epd21spenq"/>
   </entry>
 </feed>
