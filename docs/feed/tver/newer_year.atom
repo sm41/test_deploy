@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-10T18:05:35+09:00</updated>
+  <updated>2026-05-10T20:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epbztwmdqf</id>
+    <title>わが家は楽し_[わが家は楽し]</title>
+    <updated>2026-05-10T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcnv8uewv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ わが家は楽し
+                &lt;a href="https://tver.jp/series/srcnv8uewv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月10日(日)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_18時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbztwmdqf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                長年「家族」をテーマに数々の名作を撮り続けた映画界の巨匠・山田洋次と、ホームドラマのレジェンド・石井ふく子がタッグを組み、今の家族を、そして夫婦の絆を笑いと涙と哀愁をもって描く！主演は小日向文世が務め、戸田恵子、髙橋海人（King &amp; Prince）、桜井ユキ、山田杏奈、えなりかずきといった豪華俳優陣が集結。人と人との繋がりが希薄になっている現代だからこそ、孫・親・祖父母の広い世代に「家族」について見つめ直すきっかけを訴える珠玉のホームドラマ！&lt;br&gt;【ストーリー】&lt;br&gt;仕事一筋だった主人公・平山幸之助（小日向文世）は、長年勤めた会社を定年退職。妻の史枝（戸田恵子）とともに穏やかな余生を送ることを楽しみにしていた。しかし、専業主婦である史枝には、「ブックカフェを開業したい」という密かな夢があった。史枝は、幸之助の退職金を使ってカフェを始めたいと考えていたが、幸之助はこれに猛反対。史枝は何とか幸之助を説得しようと試みるも、まったく聞く耳を持たない。これがきっかけで家族たちを巻き込む離婚問題にまで発展してしまう…。&lt;br&gt;この事態に、同居する長男で大学生の和夫（髙橋海人）は、自分の将来について悩みながらも、両親の離婚話にどう関わるべきか戸惑い、彼女の吉岡美鈴（山田杏奈）にも相談する。だが、そんな美鈴には和夫の知らない過去があった。また、長女で税理士をしている濱口遥（桜井ユキ）は、結婚して実家を離れているが、この騒動に心を痛め、夫の雄太（えなりかずき）とともに両親の関係を修復させるべく働きかける。&lt;br&gt;そして、家族たちが幸之助と史枝の行く末を心配する中、予期せぬ出来事が発生する…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbztwmdqf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwsjkqmmn</id>
     <title>ラストホープ_[第8話 君は一人じゃない！！一緒に立ち向かう医者と希望の最先端移植]</title>
