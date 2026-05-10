@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-10T16:05:35+09:00</updated>
+  <updated>2026-05-10T18:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1g7ymvml</id>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第2話「カンフー学園を叩け！」]</title>
+    <updated>2026-05-10T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月10日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月17日(日)_16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月10日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1g7ymvml.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                子供の頃から鉄仮面をつけて育ってきた五代陽子へ初の指令が下った。カンフークラブ紅龍会が支配する学園まで行き、紅龍会を壊滅させることであった。陽子は、その学園に通う矢島雪乃を説得し、ともに闘い紅龍会壊滅を果たす。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1g7ymvml"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0q1sfyn2</id>
     <title>よくおごってくれる綺麗なお姉さん_[第11話]</title>
