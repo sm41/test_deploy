@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-11T18:05:14+09:00</updated>
+  <updated>2026-05-11T20:06:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkg0nlw1n</id>
+    <title>SUPER RICH_[第4話 過去と決別出来るか…！五千万稼ぐ方法]</title>
+    <updated>2026-05-11T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjl4xbh3h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ SUPER RICH
+                &lt;a href="https://tver.jp/series/srjl4xbh3h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月11日(月)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月18日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkg0nlw1n.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月25日(土) ～ 6月8日(月)&lt;br&gt;#2：5月2日(土) ～ 6月8日(月)&lt;br&gt;#3：5月9日(土) ～ 6月8日(月)&lt;br&gt;#4：5月11日(月) ～ 5月18日(月)&lt;br&gt;#5：5月14日(木) ～ 5月21日(木)&lt;br&gt;#6：5月17日(日) ～ 5月24日(日)&lt;br&gt;#7：5月20日(水) ～ 5月27日(水)&lt;br&gt;#8：5月23日(土) ～ 5月30日(土)&lt;br&gt;#9：5月26日(火) ～ 6月2日(火)&lt;br&gt;#10：5月29日(金) ～ 6月5日(金)&lt;br&gt;#11：6月1日(月) ～ 6月8日(月)&lt;br&gt;&lt;br&gt;氷河衛（江口のりこ）は春野優（赤楚衛二）を『スリースターブックス』の社員として採用することに。そんな中、一ノ瀬亮（戸次重幸）が逮捕されたと連絡が入る。&lt;br&gt;衛、宮村空（町田啓太）、今吉零子（中村ゆり）ら役員が集まり、亮を相手に民事裁判を起こそうと協議するが、優は蚊帳の外。優は仕方なく、田中リリカ（志田未来）たちインターンとラーメン屋に集う。優は自分たちも何か出来ないかと提案するが、リリカに見守ることしか出来ないと言われてしまう。&lt;br&gt;衛は亮の面会に行くが、亮に民事裁判のことを伝えられずにいた。その後の役員会議で、衛が新たな会社の目標として月5千万円の売り上げを掲げると、空は新しい企画への参画を提案する。それは、飲料メーカーのペットボトルのラベルに漫画を掲載するというもの。興味を示した衛は、早速、空とコンペの説明会に参加するが、会場で空は急に顔色を変え、席を外してしまい…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『SUPER RICH』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkg0nlw1n"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epr6mqdwkw</id>
     <title>大好き！五つ子６_[第21回]</title>
