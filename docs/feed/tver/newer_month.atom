@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-11T14:05:14+09:00</updated>
+  <updated>2026-05-11T16:06:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1088,45 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epk9qgzgf3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu2ku0yhn</id>
-    <title>るなしい_[第六話 神の子は蘇る]</title>
-    <updated>2026-05-08T02:41:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4uh6omhf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ るなしい
-                &lt;a href="https://tver.jp/series/sr4uh6omhf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_02時41分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu2ku0yhn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ケンショー（窪塚愛流）によって、仕舞い込んだはずの恋心をこじ開けられたるな（原菜乃華）が姿を消して8年――。社会人になったスバル（本島純政）は出版社で働きながら、平凡な日々を過ごしていた。ある日、スバルの元に「火神の医学鍼灸院」から掲載依頼が入る。鍼灸院を訪れたスバルは、大人になったるなと再会し、“空白期間”を知ることに。スバルはるなのために再び筆を走らせるが、その記事が絶縁していたはずのあの男を呼び戻す引き金となってしまい…　［期間限定無料配信］　テレビ東京にて毎週木曜深夜24時30分から放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epu2ku0yhn"/>
   </entry>
 </feed>
