@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-11T02:46:17+09:00</updated>
+  <updated>2026-05-11T10:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnft0enpr</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第２０話「試言草の効能」]</title>
+    <updated>2026-05-11T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月11日(月)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月25日(月)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnft0enpr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                無鋒は雲為衫と上官浅がもたらした情報によって宮門の破滅を目論んでいた。一方、宮子羽は毒に苦しみながら解毒薬の調合を急いでいた。そこに雲為衫の正体に疑念を持った宮尚角が現れる。雲為衫を連れ帰り、尋問するという宮尚角に声を荒げる宮子羽。その時、月長老が真実を引き出す薬、試言草を雲為衫に差し出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnft0enpr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epesosn6bf</id>
     <title>#裏アカ教師_[#9「裏アカの代償」]</title>
@@ -1208,45 +1248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptwbe6odr"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epeyrubxyj</id>
-    <title>今夜、秘密のキッチンで_[第5話 涙の決断！記憶を失っても生き返って]</title>
-    <updated>2026-05-07T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
-                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月07日(木)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月14日(木)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月7日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeyrubxyj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                慧（高杉真宙）が昏睡状態で生きていること、そして藤子（瀧本美織）という婚約者がいることを慧に伝えたあゆみ（木南晴夏）。未完成だったレシピノートを完成させ、生き返って藤子の元に帰るべきだと言うあゆみに、慧は言った。「俺は、あなたのことが好きなんです」と―。&lt;br&gt;&lt;br&gt;「レシピノートを完成させて、この世界とちゃんとお別れする。そして、生き返ったら戻ってくるから。あなたの元に」。まっすぐ見つめる慧に、涙ぐみながら頷くあゆみ。二人は、最高のレシピを完成させるために協力し合うことを誓う。その様子を苦しげに見つめていた隣人の幽霊・林太郎（安井順平）は、何も言わず壁をすり抜けて去って行く。&lt;br&gt;&lt;br&gt;翌朝、渉（中村俊介）は久しぶりに二人きりで外食しようと、あゆみを誘う。戸惑いながらも、あゆみは誘いを受け入れ、渉の出社を見送る。慧のレシピノートがなぜこの家のキッチンにあったのか、渉に直接確かめなければならない、と心に決めるあゆみ。&lt;br&gt;&lt;br&gt;一方、慧と坪倉グループの間に何があったのか、真相を追い求める藤子、そして里佳（月城かなと）。少しずつ慧に関する事実が明らかになっていく中、レシピの完成を目指す慧とあゆみ。月の輝く下で『夏のポルペッテ』は完成するのだろうか？そして二人の恋の行方は・・・？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epeyrubxyj"/>
   </entry>
 </feed>
