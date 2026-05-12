@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-12T03:11:09+09:00</updated>
+  <updated>2026-05-12T10:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epk7516n8z</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第２１話「第二の試練を通過」]</title>
+    <updated>2026-05-12T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月12日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk7516n8z.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                一人分しかない解毒薬を宮子羽は雲為衫に与える。雲為衫は宮子羽の想いに打たれ号泣するが、そのまま倒れてしまう。前山では霧姫夫人と上官浅が互いの任務を知ろうと腹の探り合いを繰り広げていた。目を覚ました雲為衫は月長老から体に仕込まれたはずの毒が実は滋養薬だったと聞かされる。こうして宮子羽は第二の試練を通過する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epk7516n8z"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj1p2vlev</id>
     <title>クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２_[第3話]</title>
@@ -1208,165 +1248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epl5w9gpyg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcvrcek9w</id>
-    <title>週末旅の極意3～結婚ってしなきゃいけないもの？～_[第6話 正解]</title>
-    <updated>2026-05-09T02:53:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srky6tgtpk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 週末旅の極意3～結婚ってしなきゃいけないもの？～
-                &lt;a href="https://tver.jp/series/srky6tgtpk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月09日(土)_02時53分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_00時52分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcvrcek9w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                綾香（深川麻衣）は、大学時代の同級生・久美子（柳ゆり菜）とさくら（高山璃子）と女子旅へ！向かったのは、雄大な箱根の自然が眼前に広がる「箱根・芦ノ湖　はなをり」。旅館での贅沢な時間を楽しみながら、10年ぶりの女子旅に心弾ませる3人。話題は、他愛のない話からそれぞれの結婚観の話になっていた。家事に育児の大変さに愚痴をこぼしながらも、生活が楽であることと幸福は必ずしもイコールではないと語るさくら。一方で、個人としての幸せを大切にし、無理に結婚しなくてもいいと語る久美子。2人の価値観を聞いた綾香は…。　［期間限定無料配信］　毎週金曜深夜24時52分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcvrcek9w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvsa09tes</id>
-    <title>孤独のグルメ Season11_[第6話 豚うす切鉄板焼]</title>
-    <updated>2026-05-09T02:22:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season11
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月09日(土)_02時22分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月16日(土)_18時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvsa09tes.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                東京都目黒区「池尻大橋」。依頼人の久我山に提案する商品を探すため、アンティークショップを訪れた五郎。気になった商品を写真におさめて久我山に「後ほど写真を送ります」とメールすると「今すぐ送ってほしい」との返事が。喫茶店でお茶しながら送ろうと思っていた五郎は、慌てて喫茶店を探すのだった。その後、久我山が気に入った商品を購入すると、店員の北原（坪倉由幸）が五郎がウイスキー好きだと勘違いしてしまう。ウイスキーへの熱い思いを語り始めた北原の勢いは止まらず、五郎は適当に話を合わせることに。店を出ると、どっと疲れ腹が減った五郎はお店探しへ。しばらく商店街で探し歩いていると「鉄板焼不二」の看板を発見。お店の名前にも魅力を感じ、早速入店すると、ホール担当のさえこ（矢田亜希子）に席を案内される。店内に響き渡るジューといういい音に期待が高まる中、五郎が注文した鉄板焼き料理とは。　［期間限定無料配信］　テレビ東京にて毎週金曜深夜24時12分から放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvsa09tes"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eps6rijo0s</id>
-    <title>余命３ヶ月のサレ夫_[#3 十年不倫…悲しみのDNA鑑定]</title>
-    <updated>2026-05-09T00:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruts7aghq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 余命３ヶ月のサレ夫
-                &lt;a href="https://tver.jp/series/sruts7aghq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月09日(土)_00時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps6rijo0s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                余命宣告、妻・美月（桜井日奈子）の不倫という悲劇に見舞われた葵（白洲迅）は、会社の後輩・岩崎（庄司浩平）らのサポートで、闘病と仕事の両立に励んでいた。&#13;&lt;br&gt;ある日、美月の不倫相手・ケンジ（高橋光臣）の会社を突き止めた葵と岩崎は、いざ偵察へ。するとそこで、思いもよらないケンジの姿を目の当たりにすることに…！&#13;&lt;br&gt;そんな中、葵は抗がん剤の投薬治療で入院することになる。&#13;&lt;br&gt;一方の美月は、同僚の送別旅行とウソをつき、ケンジと温泉旅館に向かう――。&#13;&lt;br&gt;&#13;&lt;br&gt;―余命宣告され絶望する夫、そのとき妻は不倫に溺れていた―&#13;&lt;br&gt;主演に白洲迅、ヒロインに桜井日奈子という実力派俳優のタッグで国内累計1億ビュー超えの大ヒットコミックをドラマ化！&#13;&lt;br&gt;余命宣告された夫が、遺産を狙う妻と愛人への復讐に突き進む、禁断のノンストップ《リベンジ・ラブサスペンス》！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eps6rijo0s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephdp63r8t</id>
-    <title>田鎖ブラザーズ_[ep.04]</title>
-    <updated>2026-05-08T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 田鎖ブラザーズ
-                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月08日(金)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月15日(金)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月8日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephdp63r8t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;死亡した津田が、自分たちの両親を殺した犯人だと信じていた真（岡田将生）と稔（染谷将太）は、津田の遺品の中から鍵と電話番号が書かれたメモを見つける。&lt;br&gt;一方、強行犯係では、放火殺人事件で殺された愛子（武上陽奈）につきまとっていたとされる「東郷」という男が、金塊強奪犯の平中勇吾（福松凜）と共謀して愛子を追っていたと見立て、平中のマンションを捜索することに。するとその最中、逃走していた平中が変わり果てた姿で発見されたとの一報が入り…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephdp63r8t"/>
   </entry>
 </feed>
