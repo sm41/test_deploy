@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-13T18:05:51+09:00</updated>
+  <updated>2026-05-13T20:06:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep41n8dgbf</id>
+    <title>孤独のグルメ Season4_[第6話 東京都江東区木場のチーズクルチャとラムミントカレー]</title>
+    <updated>2026-05-13T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season4
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月13日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep41n8dgbf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                東西線木場駅から出てくる五郎。小雨の中、橋の向こうのフラワーショップを見る。女性店長（笛木優子）がかいがいしく働いているその店に向かう五郎。シングルマザーの集まるイベントに関するお願いをされるが……悩んでいるといつものごとくお腹がすいてきた。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep41n8dgbf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eper5fixeh</id>
     <title>輝く星のターミナル_[第11話]</title>
@@ -768,85 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epcfaa3ken"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epanx6teh5</id>
-    <title>産まない女はダメですか？ DINKsのトツキトオカ_[第7話 「堕ろして、2人でやり直そう」]</title>
-    <updated>2026-05-11T23:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94fxxt4d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 産まない女はダメですか？ DINKsのトツキトオカ
-                &lt;a href="https://tver.jp/series/sr94fxxt4d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月11日(月)_23時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月18日(月)_23時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epanx6teh5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                結婚5年目のDINKs夫婦・アサと哲也。毒親の過去から「子供は持たない」と誓うアサをよそに、父親願望を募らせた哲也は避妊具に細工をし、妻に望まぬ妊娠をもたらす。診察先の産婦人科には哲也の高校時代の後輩・沙也香が勤務しており、夫の裏切りと過去を知る女の存在が、アサの人生を大きく狂わせていく。　［期間限定無料配信］　毎週月曜夜11時6分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epanx6teh5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epriepr4lr</id>
-    <title>銀河の一票_[#4 選挙の天才・テンサウザンド]</title>
-    <updated>2026-05-11T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrkc0o6aw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 銀河の一票
-                &lt;a href="https://tver.jp/series/srrkc0o6aw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月11日(月)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月18日(月)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epriepr4lr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                あかり（野呂佳代）がついに都知事選への立候補を決意するが、知名度も政治経験もない無名の新人。あかりは一から政治を学ぶため猛勉強を始める。&lt;br&gt;一方、茉莉（黒木華）は無名のあかりを選挙戦のトップに押し上げる秘策を思いついていた。それは、かつてある政治家の元秘書で、選挙を仕切らせれば負け知らずの五十嵐隼人（岩谷健司）をチームに迎えること。2年前に市長選で無名の新人候補を圧勝に導いたが、ある出来事をきっかけに失脚し政界から姿を消した。&lt;br&gt;同じ頃、民政党では公認候補が流星（松下洸平）一人に絞られた。だが流星は、都連会長から直々に要請されたにもかかわらず、国政を降りる気はないと出馬を固辞する。&lt;br&gt;そんなある日、茉莉のもとに新聞記者・雨宮楓（三浦透子）から、捜索を頼んでいた五十嵐が見つかったと連絡が…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epriepr4lr"/>
   </entry>
 </feed>

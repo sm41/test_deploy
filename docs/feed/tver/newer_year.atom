@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-13T18:05:51+09:00</updated>
+  <updated>2026-05-13T20:06:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1288,45 +1288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep4rpglclb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0m6qzd6d</id>
-    <title>スミカスミレ 45歳若返った女_[最終回]</title>
-    <updated>2026-05-12T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhx1ztc65.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スミカスミレ 45歳若返った女
-                &lt;a href="https://tver.jp/series/srhx1ztc65" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0m6qzd6d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/24(火)～ #1-#3&#13;&lt;br&gt;4/14(火)～ #4-#6&#13;&lt;br&gt;5/12(火)～ #7-#8&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;5年ぶりの再会を経て、初恋の人・真白勇征（町田啓太）からプロポーズされた如月すみれ（桐谷美玲）。しかし、すみれは25歳となった今でも、深夜になると元の如月澄（松坂慶子）の姿に戻ってしまう…。もちろん、真白はそのすべてを受け止めると宣言。だが、自分の本来の姿に負い目を感じるすみれは、愛する真白の気持ちを簡単には受け入れることができず…。その反応を見た真白の脳裏にふと浮かんだのが、澄を若返らせ、守り続けてきた化け猫・黎（及川光博）の存在だった！　「黎さんなら、すみれと一緒にいられるの？」――複雑な思いで尋ねる真白に、すみれは…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0m6qzd6d"/>
   </entry>
 </feed>
