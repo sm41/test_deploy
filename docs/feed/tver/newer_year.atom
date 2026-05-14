@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-14T20:05:09+09:00</updated>
+  <updated>2026-05-15T04:35:24+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -848,45 +848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep3h6d24r2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep06q27dau</id>
-    <title>おっさんずラブ-リターンズ-_[第8話 余命1か月の家政夫]</title>
-    <updated>2026-05-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvc0qjvtp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おっさんずラブ-リターンズ-
-                &lt;a href="https://tver.jp/series/srvc0qjvtp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep06q27dau.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/25(水)～ #1-#3&lt;br&gt;4/15(水)～ #4-#6&lt;br&gt;5/13(水)～ #7-#9&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;「余命一か月、ですか……？」&lt;br&gt;春田創一（田中圭）と牧凌太（林遣都）の結婚式の日、人知れず吐血した黒澤武蔵（吉田鋼太郎）が病院で告げられたのは、衝撃の真実だった――。&lt;br&gt;信じられない事態にぼう然とする武蔵だが、付き添いでやってきた元妻・栗林蝶子（大塚寧々）には、心配かけまいと笑顔を見せる。　そして帰宅後、“終活”について考え始めた武蔵は、“エンディングノート”を書き始め…。&lt;br&gt;&lt;br&gt;そんな異変は露知らず――、春田はメキメキと家事の腕を上げていた。掃除も洗濯も、料理も…失敗しなくなった自分に超ご機嫌な春田。微笑ましく見守っていた牧は、「そろそろ家政夫さんに来てもらうの、やめませんか」と提案する。春田の成長のおかげで2人でもやっていけそう、かつ将来のための貯金もしたい、という牧の言葉に納得しつつも、無性に寂しさを感じる春田――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep06q27dau"/>
   </entry>
 </feed>
