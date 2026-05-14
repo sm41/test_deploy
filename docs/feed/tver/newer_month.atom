@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-14T14:06:08+09:00</updated>
+  <updated>2026-05-14T16:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -152,7 +152,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 5月13日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : RNC西日本放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
