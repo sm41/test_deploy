@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-14T04:46:51+09:00</updated>
+  <updated>2026-05-14T10:06:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epu5awahej</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第２３話「義妹の潜入」]</title>
+    <updated>2026-05-14T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月14日(木)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月14日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu5awahej.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                月長老は、２年前に宮門の秘薬を手に入れるために潜入した雲為衫の義妹・雲雀（ユン・チュエ）を、麻酔薬の人体実験のためという名目で、そばに置いていたことを宮子羽と雲為衫に告白する。抵抗していた雲雀はやがて落ち着き、２人は心を通わせるように。雲雀は無鋒から逃れるため死を装うが、結局そのまま帰らぬ人となったのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epu5awahej"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eprnl4fzjw</id>
+    <title>L&amp;P_[第32話　まずい]</title>
+    <updated>2026-05-14T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ L&amp;P
+                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月14日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月13日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : RNC西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprnl4fzjw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                李峋(リー・シュン）は裏切った侯寧（ホウ・ニン）をあえて飛揚(フェイヤン）に迎え入れる。やがて彼の開発したゲームは大ヒットし、社長も沸き立つ。しかし高見鴻（ガオ・ジエンホン）はその成功を快く思わず、ソースコードを盗み模倣品を作ろうと動き出す。それを知った黎娜(リーナー）は、ついに見鴻へ離婚を告げる…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprnl4fzjw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjptrri4c</id>
     <title>サレタ側の復讐～同盟を結んだ妻たち～_[第7話 ハニートラップで地獄へ堕とす。]</title>
@@ -888,205 +968,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epj1p2vlev"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep36gdqeo1</id>
-    <title>スモークブルーの雨のち晴れ_[第６話・手放すこと]</title>
-    <updated>2026-05-12T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmrxmnprs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スモークブルーの雨のち晴れ
-                &lt;a href="https://tver.jp/series/srmrxmnprs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep36gdqeo1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                久慈家に居候しながら塾講師と翻訳学校で忙しく過ごす朔太郎（武田航平）。一方、久慈（渋谷謙人）は兄・実（田中幸太朗）の家族に家を明け渡すべく、父との思い出が詰まった書籍や家具を少しずつ片付けていた。ある日、実が後輩たちと手伝いに訪れ、瞬く間に家が片付いていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep36gdqeo1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwn3tx62d</id>
-    <title>やたらやらしい深見くん_[#6 恋人じゃなくてもいい]</title>
-    <updated>2026-05-12T01:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxpahxjjr.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ やたらやらしい深見くん
-                &lt;a href="https://tver.jp/series/srxpahxjjr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_01時35分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwn3tx62d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                恋を自覚した途端に深見を失い、落ち込む梶。連絡も取れない日々の中、深見が事故に遭ったと聞き病院へ駆けつける。「大事な人だ」と思わず口にした梶だったが、深見は恋愛感情がわからないと打ち明ける。それでも離れたくない梶は、恋人ではなく“友達”からやり直そうと提案する。名前のつかない関係のまま、二人は再び向き合い始める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwn3tx62d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4plvmql9</id>
-    <title>share_[第4話 はじめての嘘]</title>
-    <updated>2026-05-12T01:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrvlrfses.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ share
-                &lt;a href="https://tver.jp/series/srrvlrfses" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_01時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_01時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4plvmql9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                寝ぼけた理央にキスをされ、動揺したまま一日を過ごすはる。学校から帰ると、家の前で幼馴染の坂谷和哉が待っていた。理央との関係を疑う和哉だったが、彼がゲイだと知って安堵し、はるの手作りオムライスを食べて帰っていく。一方、理央は自分にとってはるが特別な存在になりつつあると気づき始め、彼女を叔父の明日記に紹介する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4plvmql9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1qio4avo</id>
-    <title>犬飼さんは隠れ溺愛上司_[#6 お願い、私だけを見て]</title>
-    <updated>2026-05-12T01:20:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvqwj0nt0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 犬飼さんは隠れ溺愛上司
-                &lt;a href="https://tver.jp/series/srvqwj0nt0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1qio4avo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                誤解からデートをキャンセルしてしまった渚。直接会うことになった二人は、思わぬ出来事をきっかけに互いの想いをぶつけ合う。「私だけを見てほしい」――抑えていた感情を打ち明けた渚。女性の正体が犬飼の姉だと分かり、二人の距離はさらに深まっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1qio4avo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epc7pv2zij</id>
-    <title>架空名作劇場 「まりとっつぁん」_[第2夜「再起編・最終回」]</title>
-    <updated>2026-05-12T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcsc033y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 架空名作劇場 「まりとっつぁん」
-                &lt;a href="https://tver.jp/series/srfcsc033y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月12日(火)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月08日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月11日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc7pv2zij.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ＜再起編＞&#13;&lt;br&gt;和菓子店「伊吹屋」の店主となったまり（松田好花）は、今も戦死した夫・利徳（濱田龍臣）との夢を追いかけ続けている。&#13;&lt;br&gt;1960年（昭和35年）、ついに伊吹屋にも待望の電気冷蔵ショーケースがやってきた。&#13;&lt;br&gt;戦争で利徳に命を救われたという電気屋の春蔵（斉藤タツル）が無料で設置してくれたのだった。&#13;&lt;br&gt;新商品も完成し、晴れて新装開店した伊吹屋だったが、売れ残りが続く日々。&#13;&lt;br&gt;そんなまりのもとに、救世主・銀幕の大スターの千本松傑（平子祐希）が現れる。&#13;&lt;br&gt;&#13;&lt;br&gt;＜最終回＞&#13;&lt;br&gt;1990年（平成2年）、67歳になったまり（松田好花）は、大阪の一軒家で「まりさん食堂」という&#13;&lt;br&gt;子ども向けの食堂を営んでいる。マリトッツォで一大ブームを巻き起こしたまりは、和菓子屋の社長を退き、慈善活動に精を出していた。&#13;&lt;br&gt;そんな中、縁のある編集者・林久子（長沢裕）からまりの半生を本にしたいと相談を受ける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epc7pv2zij"/>
   </entry>
 </feed>
