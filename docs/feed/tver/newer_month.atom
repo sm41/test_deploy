@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-15T12:06:01+09:00</updated>
+  <updated>2026-05-15T14:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epoccjui45</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第１２話「48時間後に…」]</title>
+    <updated>2026-05-15T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月15日(金)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月22日(金)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月15日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoccjui45.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ボンヒは、自責の念に思い悩んでいた。ギクシャクするジウクとボンヒだが、そんな中、ボンヒの友人が事件の被害にあう。駆けつけたボンヒとジウクは、48時間以内に凶器を見つけるため奔走する。そんな中、パン係長は、ヒョンス周辺の調べを進めるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epoccjui45"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epv0t837zs</id>
+    <title>最後の雨が降るとき_[第12話　全能ゆえに無力なり]</title>
+    <updated>2026-05-15T13:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月15日(金)_13時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月15日(月)_13時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月15日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv0t837zs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                白藻症に感染した祖母を助けるため、天娣(ティエンディ)は創造主(カカラヤン)に会おうと祈りを捧げる。天娣の目の前についに創造主が現れるが、頼み事をする天娣に、創造主は自分は無力だと話して聞かせる。そこに突然、雲神(トエム)が現れ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epv0t837zs"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy4um3axd</id>
     <title>輝く星のターミナル_[第13話]</title>
@@ -1168,85 +1248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epmxb7xvqo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkqxrvygs</id>
-    <title>失恋カルタ_[第７話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「や」《ドラマイズム》]</title>
-    <updated>2026-05-13T01:56:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8o52a7s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 失恋カルタ
-                &lt;a href="https://tver.jp/series/srr8o52a7s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_01時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月20日(水)_01時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月12日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkqxrvygs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                恋人の陸（伊藤絃）が家を出て行ってから連絡も取れず不安な日々を過ごす光（西垣匠）。仕事から帰宅すると、そこには、「合鍵」と「光が買ってあげた服」だけが残されていた。そんな話を親友の千波（梅澤美波）と彩世（加藤小夏）に報告するも、「陸くんは光を利用していただけ」と彩世に責められる。それに対して光は自分の非を認めつつも、激しくぶつかり合ってしまう。一方、千波は渋谷（深水元基）の車で見つけた女性用のヘアクリップを見つけ、次第に嫌な予感が…。週末はいつも会えない、家にも呼ばれない──募る違和感の先に待っていたのは、思いもよらない告白だった。&lt;br&gt;そして彩世はだんだんと、村田（若林時英）との「お試し」の関係で甘え続けていることに罪悪感を覚えて…。それぞれの恋や親友関係に亀裂が入り始めてしまい──。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkqxrvygs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3kr797ox</id>
-    <title>こないだおばさんって言われたよ_[第2話 私、いつからおしゃれ諦めた？]</title>
-    <updated>2026-05-13T01:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8ildo0yc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ こないだおばさんって言われたよ
-                &lt;a href="https://tver.jp/series/sr8ildo0yc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_01時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月20日(水)_00時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月12日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3kr797ox.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                芽衣子（飯島直子）は夜道で、既婚者の親友・頼子（堀内敬子）が見知らぬ男性とイチャイチャしている場面に遭遇する。相手は頼子が働くスーパーの店長・吉住正男（六角慎司）。頼子はあっさりと「付き合っている」と告げ、不倫関係であることを隠そうともしない。頼子は「恥じていない」と言い切り、結婚生活の限界に来ていたことを打ち明ける。芽衣子は衝撃を受けつつも、結婚している＝順調な人生、という自分の思い込みに気づかされる。一方、芽衣子自身も年齢による変化を実感していた。年下の友達カヲル（中田クルミ）に連れられて眼鏡屋へ行き、老眼鏡を選ぶうちに芽衣子は少しずつ前向きな気持ちを取り戻していく。しかしその矢先、頼子が突然ドーナツ屋に現れ、取り乱しながら「離婚しようと思ってる」と告白。さらに正男と一緒になるつもりだと言い出す。頼子は夫から見下され続けてきた苦しみを吐き出し、自暴自棄になっていた。芽衣子はそんな頼子を慰めながらも、芽衣子の頭には過去の“ダメ男遍歴”がフラッシュバックする。そのとき店の扉が開き、現れたのは――芽衣子がかつて結婚寸前まで付き合っていた元彼・八海憲伸（Mummy-D）だった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3kr797ox"/>
   </entry>
 </feed>
