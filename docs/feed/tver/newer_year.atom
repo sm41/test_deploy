@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-15T10:06:02+09:00</updated>
+  <updated>2026-05-15T12:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0xxz2qjz</id>
+    <title>大好き！五つ子６_[第25回]</title>
+    <updated>2026-05-15T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月15日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月29日(金)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0xxz2qjz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;子どもができてから、映画もお芝居も見る機会がないという桃子（森尾由美）のためにビデオで映画を作ることにした五つ子。しかし、皆がそれぞれ勝手に行動するため、プロジェクトは瓦解寸前。紀香（荒井千歩）の一喝で協力態勢は整ったが、撮り上がったビデオを見てあまりのつまらなさに５人はがっくりする。話を聞いた千絵子（茅島成美）は「みんなにしか撮れない映画がある」と、とあるアイデアを出し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0xxz2qjz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxwlmyt06</id>
     <title>SUPER RICH_[第5話 新章に突入…舞台は1年後へ！優の変身]</title>
@@ -528,205 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprze69pb0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnh3zu2ej</id>
-    <title>おっさんずラブ-リターンズ-_[第9話 WE ARE FAMILY !!]</title>
-    <updated>2026-05-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvc0qjvtp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おっさんずラブ-リターンズ-
-                &lt;a href="https://tver.jp/series/srvc0qjvtp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnh3zu2ej.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/25(水)～ #1-#3&lt;br&gt;4/15(水)～ #4-#6&lt;br&gt;5/13(水)～ #7-#9&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;「さようなら、はるたん――。」&lt;br&gt;余命1か月…そう宣告された黒澤武蔵（吉田鋼太郎）は命の終わりに際し、エンディングノートを記し、最期のホームパーティーで別れを告げ、愛しのはるたん（と牧）にビデオメッセージを送り…。&lt;br&gt;そしてついにタイムリミットは訪れた。&lt;br&gt;&lt;br&gt;1か月後――。&lt;br&gt;真っ白な布団で、真っ白なパジャマで眠る武蔵。&lt;br&gt;しかしカッと目を開き、カーテンから美しい朝陽を浴び、健康的にも青汁をぐいっと煽り…、自分自身でも信じられないといった表情で、《余命1か月のはずの家政夫》は厳かに呟く。&lt;br&gt;「なぜだ？なぜ俺はこんなに…元気なんだ…？」　
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnh3zu2ej"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkh2n5j3q</id>
-    <title>警視庁アウトサイダー_[最終回「涙の結末」]</title>
-    <updated>2026-05-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjqfpikg5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 警視庁アウトサイダー
-                &lt;a href="https://tver.jp/series/srjqfpikg5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkh2n5j3q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/23(月)～ #1-#3&#13;&lt;br&gt;4/13(月)～ #4-#6&#13;&lt;br&gt;5/13(水)～ #7-#9&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;殺人未遂容疑で指名手配されてしまった、桜町中央署刑事・架川英児（西島秀俊）――。蓮見光輔（濱田岳）たちも架川の行方を追うよう命じられるが、その直後、なじみの居酒屋“龍宮城”に身を潜めていた架川の前に、追手が現れて…。その頃、父・有働弘樹（片岡愛之助）への思いから光輔の協力要請を断った水木直央（上白石萌歌）は、自分の判断は正しかったのか揺れ動き続けていた。&#13;&lt;br&gt;その矢先、有働と小山内雄一（斎藤工）は、警務部人事第一課・羽村琢己（福士誠治）の周辺捜査から、ついに光輔の素性に気づく。有働は光輔を架川の共犯として指名手配する決意を固めるが、そんな光輔のもとに突然ある人物が現れ…!?&#13;&lt;br&gt;いよいよ、すべての謎が解き明かされる最終話！　アウトサイダートリオはそれぞれの正義を貫くことができるのか!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkh2n5j3q"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi3pxwryu</id>
-    <title>おっさんずラブ-リターンズ-_[第7話 君たちはどう生きるのかい]</title>
-    <updated>2026-05-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvc0qjvtp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ おっさんずラブ-リターンズ-
-                &lt;a href="https://tver.jp/series/srvc0qjvtp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi3pxwryu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/25(水)～ #1-#3&lt;br&gt;4/15(水)～ #4-#6&lt;br&gt;5/13(水)～ #7-#9&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;結婚式を無事終えた春田創一（田中圭）と牧凌太（林遣都）。その裏で、ひとりトイレで、深紅の血を吐き出した黒澤武蔵（吉田鋼太郎）の存在には気づかぬまま――。&lt;br&gt;&lt;br&gt;幸せいっぱいな気持ちをなんとか切り替えて、日常に戻り仕事に励む2人。そんな中、春田に1本の電話が掛かってくる。なんと荒井ちず（内田理央）が倒れたというのだ…！　早速、保育園にちずの息子・吾郎（佐藤大空）を迎えに行くことになる春田。一方、病院に付き添った牧と栗林歌麻呂（金子大地）は、ちずから兄・荒井鉄平（児嶋一哉）と舞香（伊藤修子）は、子どもたちを連れて初めての海外旅行中なので、絶対に連絡しないでほしいと頼まれる。倒れてなお無理しようとするちずを心配した春田と牧は、入院中は吾郎を預かることに…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi3pxwryu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epds6hoch7</id>
-    <title>警視庁アウトサイダー_[第8話「指名手配　架川英児」]</title>
-    <updated>2026-05-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjqfpikg5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 警視庁アウトサイダー
-                &lt;a href="https://tver.jp/series/srjqfpikg5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epds6hoch7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/23(月)～ #1-#3&#13;&lt;br&gt;4/13(月)～ #4-#6&#13;&lt;br&gt;5/13(水)～ #7-#9&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;それぞれの道筋で、10年前のホステス殺人事件の真相を追い続けてきた架川英児（西島秀俊）、蓮見光輔（濱田岳）、水木直央（上白石萌歌）。架川と光輔は、数日前に死体で見つかった元長野県警会計課長・折原大吾（亀吉）に焦点を当てる。&#13;&lt;br&gt;折原は、10年前の被害者・歌川チカ（水崎綾女）と光輔の父・梶間優人（神尾佑）が愛人関係にあると偽証した人物だが、3年前に長野県警を退職。上京後、あるビジネスで成功し、借金を完済していたことがわかる。さらに深掘りすると、そのビジネスのウラに信濃一家組長・当麻秀和（鈴木一真）の影が見えてきて…。&#13;&lt;br&gt;そんな中、警務部人事第一課・羽村琢己（福士誠治）の捜査で、信濃一家に警察への内通者がいた疑惑が浮上。当麻の愛人だったチカがその内通者だとしたら、彼女の裏切りを知った当麻が殺害した可能性も高い。架川たちは一気に当麻への疑惑を深めていくが、同じ頃、当麻は今度こそ架川を消せと手下に指令を出していて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epds6hoch7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9sxj70c5</id>
-    <title>いつもふたりで_[第4話 君を抱きしめる･･･]</title>
-    <updated>2026-05-13T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryxjm6p0m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ いつもふたりで
-                &lt;a href="https://tver.jp/series/sryxjm6p0m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月13日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月19日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9sxj70c5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;新人作家、手塚幸子（石田未来）に編集者として携わる谷町瑞穂（松たか子）。しかし、瑞穂自身、小説家への夢を捨てたわけではない。ところが、瑞穂は“神の目”と噂される書店主、村越亮介（黒沢年雄）から小説家の才能はないと言われてしまった。村越に言われた通り、自分が書いた作品を読み直した瑞穂は、愕然としてしまい、マンションの自室に閉じこもってしまった。事情を知らない森永健太（坂口憲ニ）は、すぐに立ち直ると思っていたが、瑞穂は2日経っても出てこない。欠勤を心配して奥田直之（葛山信吾）も訪ねてくるが、同じこと。&lt;br&gt;一方、健太は不破圭二朗（西村雅彦）の愛人、藤原央子（長谷川京子）への想いを強めていた。たまたま、街で央子と出会った健太は、不破家族と出くわしてしまう。不破の自分への態度に不信感を募らせる央子。健太は、そんな央子に言葉がかけられない。&lt;br&gt;直之が、再び健太のマンションに来た。幸子が執筆をあきらめると言い出したのだ。瑞穂の部屋に入った直之は「甘えてんじゃない！」と、瑞穂を怒鳴る。そして、幸子への編集者としての責任を果たせと瑞穂に告げた。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『いつもふたりで』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9sxj70c5"/>
   </entry>
 </feed>
