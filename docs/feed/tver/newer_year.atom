@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-16T12:06:40+09:00</updated>
+  <updated>2026-05-16T14:06:40+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epjxmk96da</id>
+    <title>きみはペット_[９．最後の夜に]</title>
+    <updated>2026-05-16T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4mym6spy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ きみはペット
+                &lt;a href="https://tver.jp/series/sr4mym6spy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月16日(土)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_13時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjxmk96da.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4：4月26日(日)14:00～5月4日(月)13:59&lt;br&gt;#5：4月30日(木)14:00～5月8日(金)13:59&lt;br&gt;#6：5月4日(月)14:00～5月12日(火)13:59&lt;br&gt;#7：5月8日(金)14:00～5月16日(土)13:59&lt;br&gt;#8：5月12日(火)14:00～5月20日(水)13:59&lt;br&gt;#9：5月16日(土)14:00～5月24日(日)13:59&lt;br&gt;#10：5月20日(水)14:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;モモ（松本潤）のドイツ留学が本当だと知って落ち込むスミレ（小雪）。しかし、どうすることもできないスミレは、残りの日々を楽しく過ごそうと考える。&lt;br&gt;ある日、モモのことが新聞に載っているのを見たスミレは「踊っているときのモモは別人みたいでカッコいい」と褒める。だが、それを聞いたモモは「スミレの口からそんな言葉は聞きたくない」と初めて彼女の前で涙を見せた。スミレはモモを抱きしめ、２人にとってこの家がありのままの自分でいられる場所だったのだと気づく。&lt;br&gt;結婚してリオに行く勇気も、モモを引き止める勇気もないスミレは、ある決心をし…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjxmk96da"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epjlvgkwb4</id>
     <title>ラストホープ_[第10話 息子の決断・・・医者には決められない最先端肺移植・・・父を救うのか、見捨てるのか？]</title>
