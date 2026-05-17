@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-17T18:05:46+09:00</updated>
+  <updated>2026-05-17T20:05:46+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epgpx5cqtg</id>
+    <title>SUPER RICH_[第6話 衛の過去が明らかに…優の奮闘！大博打は何賭ける]</title>
+    <updated>2026-05-17T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjl4xbh3h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ SUPER RICH
+                &lt;a href="https://tver.jp/series/srjl4xbh3h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgpx5cqtg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月25日(土) ～ 6月8日(月)&lt;br&gt;#2：5月2日(土) ～ 6月8日(月)&lt;br&gt;#3：5月9日(土) ～ 6月8日(月)&lt;br&gt;#4：5月11日(月) ～ 5月18日(月)&lt;br&gt;#5：5月14日(木) ～ 5月21日(木)&lt;br&gt;#6：5月17日(日) ～ 5月24日(日)&lt;br&gt;#7：5月20日(水) ～ 5月27日(水)&lt;br&gt;#8：5月23日(土) ～ 5月30日(土)&lt;br&gt;#9：5月26日(火) ～ 6月2日(火)&lt;br&gt;#10：5月29日(金) ～ 6月5日(金)&lt;br&gt;#11：6月1日(月) ～ 6月8日(月)&lt;br&gt;&lt;br&gt;氷河衛（江口のりこ）は宮村空（町田啓太）に抱きしめられた。ちょうどそこに、酔い潰れた碇健二（古田新太）を連れた春野優（赤楚衛二）が帰ってくる。問いただそうとする優と空は言い争いになり、衛は2人を仲裁する。優は衛に、実家のために空から金を借りた事を伝え、借金返済のため、夜間のアルバイトを始める。&lt;br&gt;そんな中、『スリースターブックス』は『三日月モバイル』への提携企画を再提出することになる。優は東海林達也（矢本悠馬）、田中リリカ（志田未来）たちと新たな企画書を森ノ宮大吾（矢野聖人）に見せるため会社に乗り込む。だが、『三日月モバイル』は専務の大河一郎（田山涼成）に牛耳られ、彼の息のかかった社員ばかり。優たちと同行した城戸密（結木滉星）は、彼らに社員たちがいる前で余計なことを話さないようにと釘を刺し…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『SUPER RICH』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epgpx5cqtg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5pdp0fzz</id>
     <title>湯遊ワンダーランド_[第6話 恐怖体験！「ヌシ」の正体がついに発覚！？]</title>
