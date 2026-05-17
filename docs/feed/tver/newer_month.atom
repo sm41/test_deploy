@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-17T16:06:46+09:00</updated>
+  <updated>2026-05-17T18:05:46+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdd316p77</id>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第3話「参上！ビー玉のお京」]</title>
+    <updated>2026-05-17T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月17日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdd316p77.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                陽子は麻宮サキと名乗って梁山高校へ転校してきた。梁山高校のスケバン、中村京子は、陽子が本物の麻宮サキでないと知る。新聞部部長、上原は、サキと京子に偽の決闘状を送りつけ、両者共倒れを狙う。２人は対決するが、サキは京子に自分の本名を明かし、和解する。２人は親友となる。そして雪乃がサキを慕って転校してくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdd316p77"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep9w863am2</id>
     <title>よくおごってくれる綺麗なお姉さん_[第12話]</title>
