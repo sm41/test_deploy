@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-17T20:38:55+09:00</updated>
+  <updated>2026-05-17T22:06:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epnv8xly9l</id>
+    <title>ＧＩＦＴ_[第６話 第二章スタート！天才学者、息子判明で大波乱の特訓合宿]</title>
+    <updated>2026-05-17T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＧＩＦＴ
+                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月17日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnv8xly9l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;メモリアルカップから半年――。&lt;br&gt;ブルズは活気に満ちている。人香（有村架純）はメカニック見習いとしてチームを支え、昊（玉森裕太）もスタッフの一員になった。そんな中、伍鉄（堤真一）はなぜブルズがスネークに勝てなかったのか、その答えを数式に見つけることができないでいた。&lt;br&gt;そんな伍鉄に昊は「選手をもっと知るための合宿」を提案。伍鉄も何かヒントが見つかるかもしれないと乗り気だ。中華料理店「新楽」に集まってみんなで合宿の相談をしていると、広江（山口智子）がやって来る。伍鉄、広江、昊の家族が２０年ぶりに顔を合わせ……。&lt;br&gt;一方、涼（山田裕貴）はチーム強化に向けたシャークヘッドとの共同合宿を考え、国見（安田顕）に会いに行く。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epnv8xly9l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epdd316p77</id>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第3話「参上！ビー玉のお京」]</title>
