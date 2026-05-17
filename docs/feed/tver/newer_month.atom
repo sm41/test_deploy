@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-17T10:05:46+09:00</updated>
+  <updated>2026-05-17T12:06:46+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1168,45 +1168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptgvmlcnw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppt9egif9</id>
-    <title>あやしいパートナー ～Destiny Lovers～_[第１１話「この限りある世界で」]</title>
-    <updated>2026-05-14T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
-                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月14日(木)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月21日(木)_14時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月14日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppt9egif9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                未来が見える依頼人がやってきた。ジウクの前で予言し的中させる彼は、さらに不吉な予言をする。一方、ボンヒはジウクの告白に答えるため、デートの約束をする。待ち合わせに向かうボンヒは偶然ヒョンスと会い、彼のイヤホンから聞こえる音楽を耳にする。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eppt9egif9"/>
   </entry>
 </feed>
