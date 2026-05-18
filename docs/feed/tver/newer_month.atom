@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-18T12:05:28+09:00</updated>
+  <updated>2026-05-18T14:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1048,45 +1048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epy4um3axd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo8tvx271</id>
-    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第6話]</title>
-    <updated>2026-05-15T03:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
-                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月15日(金)_03時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月22日(金)_02時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月14日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo8tvx271.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                シニアプログラムを通じて、新人面接に現れたキム・チャンソプは73歳。しかし、スティーブは彼が身分を偽り、社内の内情を探るために潜りこんだ投資家ではないかと疑っている。そこで彼は、自社が展開するシニア向けマッチングサービスの有用性をアピールするため、他人を雇い、あたかもトラブルが起きたかのような状況を演出させる。一方その頃、キャロルは友人たちから恋人同伴の集まりに誘われていた。恋人のいない彼女は見栄を張り、フィリップに恋人役を頼んで参加するのだが・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo8tvx271"/>
   </entry>
 </feed>
