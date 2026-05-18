@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-18T07:44:26+09:00</updated>
+  <updated>2026-05-18T10:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5wpc28hl</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第２４話「露見した正体」]</title>
+    <updated>2026-05-18T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月18日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5wpc28hl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                雲為衫の正体が露見し、宮尚角らと乱闘になった宮子羽は隙を見て雲為衫を雪宮へ逃がす。息も絶え絶えに雪宮にたどり着いた雲為衫は、宮遠徴の暗器の毒に侵され、その場で気を失ってしまう。この騒ぎを聞きつけた長老たちは宮子羽らを厳しく問い質すが、宮尚角の弁明は理路整然としていた。長老たちは宮遠徴に雲為衫の捕縛を命じる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5wpc28hl"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxw1cannz</id>
     <title>#裏アカ教師_[【スマホ用】#10「なりたい私」]</title>
@@ -1208,45 +1248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep6oh600ja"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvktgu6ft</id>
-    <title>惡の華_[第6話]</title>
-    <updated>2026-05-15T00:30:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 惡の華
-                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月15日(金)_00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月22日(金)_00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月14日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvktgu6ft.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                春日（鈴木福）が作った秘密基地に気持ちが高まる仲村（あの）。そんな仲村を見た春日は何とも言えない高揚感を覚え、仲村の期待に応えようと夏休みの計画を始める。佐伯（井頭愛海）は、下着を盗んだ犯人が春日である事に気付き、自分だけ盗まれなかった事で、春日への執着と仲村への嫉妬心が沸き上がり、ある日、秘密基地に春日を呼び出す。それぞれの感情が複雑に絡み合い、春日と仲村と佐伯の関係が大きく動き出す。　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvktgu6ft"/>
   </entry>
 </feed>
