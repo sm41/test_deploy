@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-18T20:05:28+09:00</updated>
+  <updated>2026-05-18T22:05:29+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epatt8u92l</id>
+    <title>サバ缶、宇宙へ行く_[第6話 開発が中止に！夢破れ壊れる友情。その時、先生は？]</title>
+    <updated>2026-05-18T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月25日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月18日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epatt8u92l.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                若狭水産高校、通称・若水の教師、朝野峻一（北村匠海）は高校3年生の井畑雄介（荒木飛羽）に手を焼いていた。補導を繰り返し、今回はタバコを所持していたため朝野が指導することに。「この時期に、もし停学とかになったら」と心配する朝野に対し、井畑は「退学でええよ。どうせ廃校やろ」と投げやりな態度を見せる。しかし井畑だけでなく、他の生徒たちも口々に「どうせ廃校」と言い、その言葉を聞くたびに、朝野はやるせない気持ちを抱えていた。&lt;br&gt;数年前、JAXA（宇宙航空研究開発機構）宇宙教育センターの皆川有紀（ソニン）が言った「小浜の伝統である“鯖街道”を宇宙までつなげて欲しい！」という言葉。それを子供の頃に共に聞いた佐伯健人（市原匠悟）と「宇宙にサバ缶を飛ばしたい」という夢を掲げて若水に入学をした井畑。しかし、1年前に起きた東日本大震災をきっかけに母親と別れてひとりで暮らすようになり、さらに廃校の話が進む中で、宇宙食開発をする機会も失い、その夢への道は断ち切られ、次第に井畑の心は荒れていく。&lt;br&gt;一方の佐伯は、朝野に「とにかく宇宙サバ缶を無くしたくないんです」と宇宙サバ缶を災害食にできないか打診する。ひとりでも諦めずに作業を進める佐伯の姿を見た井畑は、さらにいら立ちを抑えられず…。&lt;br&gt;JAXAでは「宇宙日本食認証基準案」を開発中の木島真（神木隆之介）はNASA（アメリカ航空宇宙局）に送った宇宙食のフィードバックがなく、頭を抱えていた。皆川が「東口さんに相談してみたら？」と助言するも、木島は「いえ、僕の仕事なので」と言いつつもどかしそうな様子で…。&lt;br&gt;若水は廃校寸前。逆らえない運命の中で若水の宇宙サバ缶プロジェクトは最も“どん底”な状況にあった。朝野や生徒たちは夢と希望を見いだし奇跡を起こすことはできるのか―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epatt8u92l"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo3t2em4o</id>
     <title>孤独のグルメ Season4_[第8話 杉並区阿佐ヶ谷のオックステールスープとアサイーボウル]</title>
