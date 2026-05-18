@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-18T16:06:29+09:00</updated>
+  <updated>2026-05-18T18:05:29+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1048,45 +1048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5am0g1g0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0xxz2qjz</id>
-    <title>大好き！五つ子６_[第25回]</title>
-    <updated>2026-05-15T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子６
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月15日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月29日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0xxz2qjz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;子どもができてから、映画もお芝居も見る機会がないという桃子（森尾由美）のためにビデオで映画を作ることにした五つ子。しかし、皆がそれぞれ勝手に行動するため、プロジェクトは瓦解寸前。紀香（荒井千歩）の一喝で協力態勢は整ったが、撮り上がったビデオを見てあまりのつまらなさに５人はがっくりする。話を聞いた千絵子（茅島成美）は「みんなにしか撮れない映画がある」と、とあるアイデアを出し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0xxz2qjz"/>
   </entry>
 </feed>

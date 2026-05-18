@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-18T16:06:29+09:00</updated>
+  <updated>2026-05-18T18:05:29+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epb8s3nmhx</id>
+    <title>ワカコ酒　Season2_[第1夜　外飲みの王道、アジフライ]</title>
+    <updated>2026-05-18T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒　Season2
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月18日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb8s3nmhx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、OL。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「アジフライ」。サックサクの衣に包まれたホックホクでジューシーなアジフライを２つに割って、半分にはソースをかけて「洋食」として味わい、残り半分には醤油をかけて「魚料理」として味わう。そこへ冷たい生ビールを流し込む。こうして今日も、ワカコは“ひとり飲み”を楽しむのだった。　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epb8s3nmhx"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epb1sa8i08</id>
     <title>戦神~MARS~_[第3話　守りのブレスレット]</title>
