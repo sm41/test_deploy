@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-19T16:06:06+09:00</updated>
+  <updated>2026-05-19T18:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep56cukrta</id>
+    <title>ワカコ酒　Season2_[第2夜　温かさが沁みる、ごぼう揚げ]</title>
+    <updated>2026-05-19T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒　Season2
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep56cukrta.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「ごぼう揚げ」。薄めの衣に塩をつけ、まずはそのスラリとしたフォルムをうっとりと眺める。噛むとシャクシャクとした触感。加熱されてもブレない歯ごたえ。噛むほどに香りが広がり、味はほのかに甘い。それを熱燗でしっとりと味わう。至福の時を過ごすワカコ。するとそこに、偶然にもある人が現れ……。　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep56cukrta"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvo7naa7b</id>
     <title>輝く星のターミナル_[第15話]</title>
