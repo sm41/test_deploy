@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-19T10:06:05+09:00</updated>
+  <updated>2026-05-19T12:05:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvo7naa7b</id>
+    <title>輝く星のターミナル_[第15話]</title>
+    <updated>2026-05-19T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvo7naa7b.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ヨルムに傷を負わせた犯人は逃走していたが、しばらくして暴行された状態で発見される。監視カメラの映像を見たムジャは、スヨンの仕業ではないかと疑うがソグンは否定する。自分を切りつけた犯人を暴行したのはスヨンだとソグンから聞かされたヨルムだが、知らないふりをして１日スヨンと時間を共にする。その夜、ヨルムはスヨンの自宅に呼ばれるが、そこで目にしたものは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvo7naa7b"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epq3x49eb5</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第２５話「決死の救出作戦」]</title>
@@ -1088,45 +1128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep025zozfs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqm0ku2lq</id>
-    <title>タツキ先生は甘すぎる！_[第6話 俺からすれば武勇伝だよ]</title>
-    <updated>2026-05-16T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp8uxgiz9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ タツキ先生は甘すぎる！
-                &lt;a href="https://tver.jp/series/srp8uxgiz9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月16日(土)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月23日(土)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月16日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqm0ku2lq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ビルの屋上から転落したタツキ(町田啓太)が、病院に運ばれた。タツキを巻き込んだことで自分を責める智紀(大倉琉人)に、しずく(松本穂香)はかける言葉がなく…。タツキの入院中、智紀に接触するため、苦手なゲームに挑戦するしずく。しかし、無理がたたり過労で倒れてしまう。ユカナイに復帰したタツキは、そんなしずくに“人生の紙芝居”を作ろうと提案する。しずくは自分の人生を絵に表現し、改めて自分自身と向き合うが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqm0ku2lq"/>
   </entry>
 </feed>

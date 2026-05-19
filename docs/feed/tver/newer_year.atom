@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-19T10:06:05+09:00</updated>
+  <updated>2026-05-19T12:05:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epd3tq3mw2</id>
+    <title>大好き！五つ子６_[第27回]</title>
+    <updated>2026-05-19T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd3tq3mw2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;岡村（宝積有香）の結婚が決まり、桃子（森尾由美）と良介（新井康弘）は仲人を依頼された。未経験だし責任重大な役目だと、２人は悩む。そんな中、周平（見栄晴）が良介に相談があると訪ねてきた。心配をかけたくないから桃子には内緒にしてほしい、という周平の頼みもあり、良介は卒業生からの相談事だと偽って出かけていく。周平の相談とは、ラーメン屋を始めようとして払った金が半分しか戻ってこないため、恵（長谷川真弓）が自分を避けているような気がする、どうしたらよいだろう、というものだった。何度でも謝るしかない、と周平に助言した良介。帰宅した良介は桃子から相談事の内容を聞かれ、咄嗟に嘘を重ね…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd3tq3mw2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo18t044c</id>
     <title>その着せ替え人形は恋をする_[#4「ジュジュ様からの依頼」《ドラマイズム》]</title>
