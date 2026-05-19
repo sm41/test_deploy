@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-19T08:33:26+09:00</updated>
+  <updated>2026-05-19T10:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epq3x49eb5</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第２５話「決死の救出作戦」]</title>
+    <updated>2026-05-19T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq3x49eb5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                捕縛された雲為衫は牢で宮尚角の尋問を受ける。雲為衫の身が案じてならない宮子羽は、雪重子や月長老、花宮の花（ホワ）公子らと協力し雲為衫を牢から救い出す。だが、追ってきた宮尚角らと激しい斬り合いになる。雲為衫を守るため、宮子羽は宮尚角に容赦のない攻撃を仕掛ける。一時的に内力が弱っていた宮尚角は深手を負ってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epq3x49eb5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epmtj57ja0</id>
     <title>クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２_[第4話]</title>
