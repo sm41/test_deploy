@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-19T18:06:05+09:00</updated>
+  <updated>2026-05-19T20:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep50ccsne1</id>
+    <title>孤独のグルメ Season4_[第9話 渋谷区神宮前の毛沢東スペアリブと黒チャーハン]</title>
+    <updated>2026-05-19T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season4
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep50ccsne1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は外苑前近くのカフェで友人の滝山（村田雄浩）と会い、仕事を頼まれる。その後、神宮球場近辺を歩いていると、甥っ子の太の応援に野球場に行った事をふと思い出す。その時、炎天下でウインナーカレーを食べたことも思い出した。するといつものごとくお腹がすいた五郎は、「家庭料理鉄板中華」の看板に惹かれ、その店に入ると気さくな店主（モロ師岡）が待っていた。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep50ccsne1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep56cukrta</id>
     <title>ワカコ酒　Season2_[第2夜　温かさが沁みる、ごぼう揚げ]</title>
