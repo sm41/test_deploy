@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-19T22:06:05+09:00</updated>
+  <updated>2026-05-20T08:09:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epoedszw61</id>
+    <title>失恋カルタ_[最終話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「ん」《ドラマイズム》]</title>
+    <updated>2026-05-20T01:56:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8o52a7s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 失恋カルタ
+                &lt;a href="https://tver.jp/series/srr8o52a7s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_01時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoedszw61.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                病室に駆けつけた彩世（加藤小夏）は、頭に包帯を巻いた光（西垣匠）とそれを面白がる千波（梅澤美波）の姿を見た瞬間、様々な感情が押し寄せ、涙が止まらなくなる。そしてついに7年間秘めてきた光への想いを、ついに告げる決意をして──。&lt;br&gt;既婚者と知りながら渋谷（深水元基）と別れられない千波。優しさに甘え、見て見ぬふりを重ねるほどに、心はすり減っていく。そして温泉旅行への道中、キラキラと輝く海を見た瞬間、千波は思いがけない行動に出て。一方、陸（伊藤絃）の荷物が消えた部屋で、光はベランダに残された灰皿を静かに片づける。&lt;br&gt;それぞれの“失恋”を経て、またいつものように彩世の実家に集まる三人。&lt;br&gt;失恋カルタ、残る句はあとひとつ──。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epoedszw61"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmlqlnfjo</id>
+    <title>こないだおばさんって言われたよ_[第3話 The Return of Kenshin]</title>
+    <updated>2026-05-20T01:15:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8ildo0yc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ こないだおばさんって言われたよ
+                &lt;a href="https://tver.jp/series/sr8ildo0yc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_00時45分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmlqlnfjo.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                芽衣子は突然現れた元彼・八海憲伸（Mummy-D）に誘われ、おしゃれなレストランで食事をすることに。憲伸は10年前とほとんど変わらない軽い感じで、“マルチクリエイター”として自由に生きていた。&lt;br&gt;一方の芽衣子は、老眼やシワ、体力の衰えなど「自分は確実に変わってしまった」現実を突きつけられており、変わらない憲伸に戸惑いを感じる。そんな憲伸から「今でも美人だよ」と褒められた芽衣子は動揺し、トイレに逃げ込んでしまう。そこで偶然出会った同年代の女性・春江（柿丸美智恵）に「元彼とヨリを戻したことがあるか」と突如相談。春江は「元彼は美化されるだけ。人は簡単に変わらないから気をつけろ」と忠告する。その後、憲伸と乗ったエレベーターが突然停止！ドラマのような展開で暗い密室で二人は過去の別れた理由を語り合い、二人の距離は確実に近づいていく…。あの頃に戻ったみたい…良い感じになったと思ったその時、思いもよらない展開に…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmlqlnfjo"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epj1wypxam</id>
+    <title>時すでにおスシ!?_[第７話【エブリデイ、ブリ】]</title>
+    <updated>2026-05-19T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 時すでにおスシ!?
+                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj1wypxam.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;みなと（永作博美）は、渚（中沢元紀）が抱える思いの核心に触れられないまま、渚にある場所に一緒に行かないかと誘われる。そこは昔よく家族で訪れていた特別な場所であった——。&lt;br&gt;一方、大江戸（松山ケンイチ）のもとに再び元妻・澪（土居志央梨）が現れる。澪は引っ越しの準備を理由にパグのホタテをまたもや強引に大江戸に預けるが、その日は大江戸に大事な用事があった。困り果てた大江戸から相談を受けたみなとは、ホタテを数時間預かることを快諾する。その預けたホタテのお迎えをきっかけに、大江戸は初めて待山家へ足を踏み入れることになる…。&lt;br&gt;そんな中、今回の鮨アカデミーの授業では「ブリ」を扱うことに。成長とともに名を変える出世魚・ブリを通し、自分たちのアップデートを意識する生徒たち。前向きな雰囲気で授業を終え、出てきたみなとが遭遇したのは大江戸のことを待つ澪で……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epj1wypxam"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprtdndwx9</id>
     <title>夫婦別姓刑事_[第6話 嘘の終焉、ついにバレた秘密]</title>
@@ -968,165 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epgjqbt61n"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1q5mqc7j</id>
-    <title>10回切って倒れない木はない_[第6話「夢の代償」]</title>
-    <updated>2026-05-17T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 10回切って倒れない木はない
-                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月17日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1q5mqc7j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「僕のすべてであなたの笑顔を守りたい」ーー。家族も地位も失った韓国の財閥御曹司キム・ミンソク/青木照(志尊淳)と、23年ぶりに日本で再会した診療所の医師・河瀬桃子(仁村紗和)。すれ違いと不安を乗り越え、ついに恋人同士になった2人は、お互いの夢を語り合いながら初めてのデートを楽しむが…。幸せな時間もつかの間、2人の夢を打ち砕く出来事が次々と降りかかりーー。ラストに衝撃の展開が待ち受ける波乱の第6話!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1q5mqc7j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep729ar19m</id>
-    <title>エラー_[ep6「ハラワタとトマトが煮えくり返る」]</title>
-    <updated>2026-05-17T23:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ エラー
-                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_23時09分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月17日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep729ar19m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                母の死の全容を知った未央（志田未来）は、真実を隠し続け友人のフリをしてきたユメ（畑芽育）に激怒。当然、殺人犯として逮捕されるはずだとユメを警察に突き出す未央だったが、不慮の事故で事件性がないとして逮捕には至らない。不服を抱く未央は、「もし次、私の前に現れたら、多分、殺しちゃう」とユメに警告し、絶縁を宣言。嘘の上に築かれた友情が崩壊する。中田家では、ユメの間違いを金で解決するため千尋（栗山千明）が動き出す。ユメは自分で後始末すると言い張るが、太郎が「姉ちゃんが頑張ったら全部おかしくなる」と制する。実は、ユメは１２年前にも、助けようとした行動から人を死なせていて…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep729ar19m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnv8xly9l</id>
-    <title>ＧＩＦＴ_[第６話 第二章スタート！天才学者、息子判明で大波乱の特訓合宿]</title>
-    <updated>2026-05-17T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＧＩＦＴ
-                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月17日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnv8xly9l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;メモリアルカップから半年――。&lt;br&gt;ブルズは活気に満ちている。人香（有村架純）はメカニック見習いとしてチームを支え、昊（玉森裕太）もスタッフの一員になった。そんな中、伍鉄（堤真一）はなぜブルズがスネークに勝てなかったのか、その答えを数式に見つけることができないでいた。&lt;br&gt;そんな伍鉄に昊は「選手をもっと知るための合宿」を提案。伍鉄も何かヒントが見つかるかもしれないと乗り気だ。中華料理店「新楽」に集まってみんなで合宿の相談をしていると、広江（山口智子）がやって来る。伍鉄、広江、昊の家族が２０年ぶりに顔を合わせ……。&lt;br&gt;一方、涼（山田裕貴）はチーム強化に向けたシャークヘッドとの共同合宿を考え、国見（安田顕）に会いに行く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnv8xly9l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdd316p77</id>
-    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第3話「参上！ビー玉のお京」]</title>
-    <updated>2026-05-17T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月24日(日)_16時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月17日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdd316p77.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                陽子は麻宮サキと名乗って梁山高校へ転校してきた。梁山高校のスケバン、中村京子は、陽子が本物の麻宮サキでないと知る。新聞部部長、上原は、サキと京子に偽の決闘状を送りつけ、両者共倒れを狙う。２人は対決するが、サキは京子に自分の本名を明かし、和解する。２人は親友となる。そして雪乃がサキを慕って転校してくる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdd316p77"/>
   </entry>
 </feed>
