@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-19T12:05:05+09:00</updated>
+  <updated>2026-05-19T14:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1488,45 +1488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep46lulb57"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1anaomqv</id>
-    <title>相棒 season19_[元日スペシャル　第11話「オマエニツミハ」]</title>
-    <updated>2026-05-17T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season19
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月17日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月16日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1anaomqv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ある日、都内の河川敷で、鎌田（永嶋柊吾）という区役所に勤める男の撲殺死体が発見される。さっそく捜査に乗り出した右京（水谷豊）と亘（反町隆史）は、犯人とおぼしき人物が「右足をひきずっていた」ことを知る。&#13;&lt;br&gt;&#13;&lt;br&gt;そんな中、右京は、自分をつけ回している中年男がいることに気付く。その男が『こてまり』にまで現れたため問い質すと、仁江浜（岸谷五朗）というフリージャーナリストだと名乗る。聞くと仁江浜は、右京が“数々の難事件を解決している伝説の刑事”という噂を聞き、取材させてもらうつもりだったという。すげなく断わった右京だったが、仁江浜はすんなり引き下がりそうになかった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep1anaomqv"/>
   </entry>
 </feed>
