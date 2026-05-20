@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-20T14:05:48+09:00</updated>
+  <updated>2026-05-20T16:05:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -928,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epb8s3nmhx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb1sa8i08</id>
-    <title>戦神~MARS~_[第3話　守りのブレスレット]</title>
-    <updated>2026-05-18T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 戦神~MARS~
-                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_11月18日(水)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月18日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb1sa8i08.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                親友・木田達也が麻生キラに想いを寄せていると知った樫野零は、二人が付き合うよう背中を押す。しかし、キラの怯まない態度が気に入らない杉原晴美は彼女を連れ出し、零と二度と会わないと誓わなければ右手をつぶすと脅す。それでもキラは、たとえ両手を奪われても描き続けると屈しない。異変を知った零はキラのもとへ急ぐ。傷ついたキラを抱きしめる零。その光景を見た達也の胸に、複雑な想いが広がり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb1sa8i08"/>
   </entry>
 </feed>
