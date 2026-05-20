@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-20T18:05:48+09:00</updated>
+  <updated>2026-05-20T20:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep21nn8wdv</id>
+    <title>SUPER RICH_[第7話 裏切り者は誰だ！？衝撃のラストカット]</title>
+    <updated>2026-05-20T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjl4xbh3h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ SUPER RICH
+                &lt;a href="https://tver.jp/series/srjl4xbh3h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep21nn8wdv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月25日(土) ～ 6月8日(月)&lt;br&gt;#2：5月2日(土) ～ 6月8日(月)&lt;br&gt;#3：5月9日(土) ～ 6月8日(月)&lt;br&gt;#4：5月11日(月) ～ 5月18日(月)&lt;br&gt;#5：5月14日(木) ～ 5月21日(木)&lt;br&gt;#6：5月17日(日) ～ 5月24日(日)&lt;br&gt;#7：5月20日(水) ～ 5月27日(水)&lt;br&gt;#8：5月23日(土) ～ 5月30日(土)&lt;br&gt;#9：5月26日(火) ～ 6月2日(火)&lt;br&gt;#10：5月29日(金) ～ 6月5日(金)&lt;br&gt;#11：6月1日(月) ～ 6月8日(月)&lt;br&gt;&lt;br&gt;氷河衛（江口のりこ）は春野優（赤楚衛二）からプロポーズされた。だが、優は自分が宮村空（町田啓太）に借金を返済するまで待って欲しいと頼む。仲良さげな衛と優の会話を偶然聞いてしまった今吉零子（中村ゆり）は衝撃を受ける。&lt;br&gt;一方、『スリースターブックス』は森ノ宮大吾（矢野聖人）が新たに設立した『フォレストモバイル』とのコラボ企画が正式に決定し、銀行からの融資も受けられるほど順調となっていた。さらに、田中リリカ（志田未来）や東海林達也（矢本悠馬）たちは旧『スリースターブックス』のオフィスビルに入っている『フォレストモバイル』に移転計画があることを知り、自分たちが元のオフィスに戻れるかもしれないと希望を持つ。そんな中、リリカは鮫島彩（菅野莉央）の様子がおかしいことに気付き…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『SUPER RICH』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep21nn8wdv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuo2a6z0g</id>
     <title>きみはペット_[10．楽園からの旅立ち]</title>
