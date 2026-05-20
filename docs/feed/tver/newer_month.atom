@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-20T20:05:48+09:00</updated>
+  <updated>2026-05-20T22:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epm2ss7no3</id>
+    <title>ボーダレス～広域移動捜査隊～_[第6話 広域移動救助隊]</title>
+    <updated>2026-05-20T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
+                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm2ss7no3.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                都内にある小学校の体育館で陥没事故が発生し、崩落した穴の中に教師と生徒が転落。&#13;&lt;br&gt;桃子（土屋太鳳）、蕾（佐藤勝利）ら移動捜査課は、“救助活動の後方支援”のため、【一番星】と災害派遣支援物資輸送車である3号車とで現場へと急行する！&#13;&lt;br&gt;現場に到着すると、ほどなくして区長の網島大地（今井悠貴）が救助の指揮をとるためにやってくる。&#13;&lt;br&gt;元子役でまだ26歳の若き区長・網島のパフォーマンスめいた言動の数々に、移動捜査課の面々はウンザリ。&#13;&lt;br&gt;命のタイムリミットが迫る中、転落した生徒らを救えるのか!?&#13;&lt;br&gt;さらに、赤瀬（井ノ原快彦）と須黒（横田栄司）の調べで、網島には妙な噂があることが分かり…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epm2ss7no3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0dhih1al</id>
     <title>孤独のグルメ Season4_[第10話 江東区枝川のハムエッグ定食とカツ皿]</title>
