@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-20T10:05:48+09:00</updated>
+  <updated>2026-05-20T12:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epapex7vmp</id>
+    <title>大好き！五つ子６_[第28回]</title>
+    <updated>2026-05-20T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月03日(水)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epapex7vmp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;小百合（佐久間由枝）は桃子（森尾由美）が働くスーパーでともにパートとして働くことになった。本格的な仕事をする前のウォーミングアップだ、とうそぶく小百合を桃子は心配する。初出勤の日、小百合は客に「オイキムチ」の作り方を聞かれるが答えられなかった。それを聞いた店長の真紀子（あいはら友子）はその客がもう一度来たら自分に知らせるよう命じた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epapex7vmp"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7oq0fp5s</id>
+    <title>魔王_[第10話「一族の崩壊…死のラストカード!!」]</title>
+    <updated>2026-05-20T11:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 魔王
+                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_11時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7oq0fp5s.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4-5：4月26日(日)11:00～5月4日(月)10:59&lt;br&gt;#6-7：5月4日(月)11:00～5月12日(火)10:59&lt;br&gt;#8-9：5月12日(火)11:00～5月20日(水)10:59&lt;br&gt;#10-11：5月20日(水)11:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;芹沢（生田斗真）は、宗田（忍成修吾）殺しを自供した葛西（田中圭）が大切な人を庇うために嘘の供述をしたと悟る。全ては事件を影で操る成瀬（大野智）の思惑通りに進んでいるのだ。自分の過去が原因だと苦しむ芹沢の前にしおり（小林涼子）がやって来た。芹沢が自分同様、真犯人を知っていると気づいたしおりは「これ以上、誰も傷つく必要はない」と芹沢を励ます。&lt;br&gt;事実と向き合う決意を固めた芹沢は、麻里（吉瀬美智子）に葛西のアリバイを証言するよう依頼する。はじめは拒否した麻里だったが、葛西の愛の深さを知り全てを話す覚悟を決める。そんな麻里の予想外の選択に、典良（劇団ひとり）はショックを受けるのだった。&lt;br&gt;成瀬の真意が分からない芹沢は、自分以外の人間を事件に巻き込む成瀬に我慢ができなくなり、ついに直接思いを爆発させた。しかし芹沢から成瀬に向かって放たれる言葉は、想像とは違っていたため、成瀬は激しく動揺する。そこに薫（上原美佐）が走ってきた。芹沢にまた赤い封筒が届いたのだ。今度のターゲットは一体誰なのか？成瀬の復讐は、もう誰にも止められない…。そして、ついに成瀬は栄作（石坂浩二）に自分の本当の姿を告白する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7oq0fp5s"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4tm2ex3e</id>
+    <title>魔王_[最終話「最後の対決 死が絆を引き裂く!!」]</title>
+    <updated>2026-05-20T11:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 魔王
+                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_11時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4tm2ex3e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：4月25日(土)0:00～5月28日(木)23:59&lt;br&gt;#4-5：4月26日(日)11:00～5月4日(月)10:59&lt;br&gt;#6-7：5月4日(月)11:00～5月12日(火)10:59&lt;br&gt;#8-9：5月12日(火)11:00～5月20日(水)10:59&lt;br&gt;#10-11：5月20日(水)11:00～5月28日(木)23:59&lt;br&gt;------------&lt;br&gt;成瀬（大野智）の最後の復讐が幕を開けた…。再び芹沢（生田斗真）に赤い封筒が届き、中には同じタロットカードが２枚。つまり…次のターゲットは芹沢という意味だ。そこに薫（上原美佐）が血相を変えてやってきた。取り調べ中の典良（劇団ひとり）が、芹沢を呼んでいるらしい。葛西（田中圭）を助けた事で兄を任意連行することになってしまった芹沢はやり切れない思いでいっぱいだが、兄の言葉に心を少し落ち着かせる。しかしこの後、典良は思いもかけない行動を取るのだった…。その後、絶望の淵に落とされた芹沢を救いたいと、中西（三宅裕司）が成瀬に頭を下げた。「もう、芹沢を許してやって下さい」という中西の必死の言葉を聞いた成瀬は戸惑いを隠せない。&lt;br&gt;成瀬の復讐をやめさせたいしおり（小林涼子）は、成瀬を待ち伏せる。そして思いをぶつけるが、成瀬の返答はなく、無言で去る後ろ姿を見守るしかなかった。&lt;br&gt;そんな中、葛西が保釈される事に。それを知った山野（清水優）は激高し、成瀬に襲い掛かる。さらにその矛先は、葛西にも向かい…。一方、芹沢は自分の過去から始まった成瀬の復讐を自分の手で止めるために決断をする。芹沢が成瀬を１１年前の事件現場へ呼び出した。対峙する成瀬領と芹沢直人。２人の思いは交わることが出来るのか？そして、成瀬の復讐の目的が明らかになる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4tm2ex3e"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epi5jm5kfk</id>
     <title>Oh,My Dad!!_[第6話 息子は私が育てます！妻が突きつけた決意]</title>
@@ -808,205 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epy6mfrcyc"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy261ccv0</id>
-    <title>今日からヒットマン_[最終話 さらば十吉…涙の完結！愛の為に撃て]</title>
-    <updated>2026-05-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdwjfm0bd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今日からヒットマン
-                &lt;a href="https://tver.jp/series/srdwjfm0bd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy261ccv0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ～ #1-#3&#13;&lt;br&gt;4/27(月) ～ #4-#6&#13;&lt;br&gt;5/18(月) ～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;闇の組織《コンビニ》の丸メガネ（筧利夫）との出世争いに負けた挙句、伝説のヒットマン・二丁に扮した稲葉十吉（相葉雅紀）の活躍で《コンビニ》を追われたアゴ（岩永ひひお）。彼が創設したライバル組織《100均》に雇われた殺し屋・マンモス（武蔵）は、十吉の妻である美沙子（本仮屋ユイカ）と息子・百太（木村優来）を人質に取る。アゴは、《コンビニ》を壊滅させた後で、二丁こと十吉を抹殺する計画を立てていた。一方のマンモスは現在、二丁を名乗っている十吉を、今は亡き本物の二丁（滝藤賢一）だと勘違いしており、積年の恨みを早く晴らしたいと主張するのだった。家族をさらわれた十吉は頭を抱えるが、なんと《コンビニ》アルバイトのキンパツ（駒木根葵汰）が《100均》にスパイとして潜入していて…!?　次に彼らが襲う《コンビニ》の支部の情報がキンパツから寄せられるが、その支部の支部長は本部長・将軍（小沢仁志）の実弟だった！　アゴとマンモスが向かう先が分かった十吉は、家族を救うべくちなつ（山本舞香）とともに彼らを追うが、道中でひょんなことからマンモスに出会うことに！　十吉はマンモスの圧倒的な強さを目の当たりにし、今のままでは勝ち目がないことを悟り絶望するのだった。翌日、十吉はやつれながらもイージーフードに出社すると、部長・遠藤保（勝村政信）から会社始まって以来となる大きな仕事の話が。部下の山本照久（深澤辰哉）と3人で、急いで先方に向かおうとした矢先に、ちなつから美沙子たちの居場所が分かったことが告げられて…。十吉が下した決断とは――？　そして、十吉はマンモスら《100均》を倒し、無事に家族を取り戻すことができるのだろうか…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy261ccv0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvfik6ucz</id>
-    <title>歌のおにいさん_[Final Act]</title>
-    <updated>2026-05-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlwnkvshw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 歌のおにいさん
-                &lt;a href="https://tver.jp/series/srlwnkvshw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvfik6ucz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ~ #1-#3&#13;&lt;br&gt;4/27(月) ~ #4-#6&#13;&lt;br&gt;5/18(月) ~ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;健太（大野智）が安斉（吹越満）を殴ってしまい、打ち切りを目前にした『みなうた』のファイナルライブ企画はぽしゃってしまった。そのライブは番組のラストを盛り上げるため、真鍋（木村佳乃）がひそかに計画していたものだったのだ。だが、真鍋は健太の行動をとがめることはなかった。&#13;&lt;br&gt;今度の身の振り方を考える健太、うらら（片瀬那奈）、守（丸山隆平）は、ひそかに就職活動やお見合いに励んだり…。そんなキャストの動きを知ったみちるはショックを受け、大人たちを非難！　「子どもはいつも大人の都合で振り回されるんだ！」というみちるの言葉に健太たちはいたたまれなくなる。&#13;&lt;br&gt;&#13;&lt;br&gt;そんな中、健太は明音（千紗）から、“ジゼル”に戻ってきてほしいと頼まれる。明音は安斉のもとを飛び出し、自分たちの力ではじめからやり直したいという。さらに父・光雄（小野武彦）が心労で入院！&#13;&lt;br&gt;再び崖っぷちに立たされてしまった健太の行く末は？　『みなうた』は本当にこのまま終わってしまうのか？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvfik6ucz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkvi3tzao</id>
-    <title>歌のおにいさん_[Act･7]</title>
-    <updated>2026-05-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlwnkvshw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 歌のおにいさん
-                &lt;a href="https://tver.jp/series/srlwnkvshw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2009年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkvi3tzao.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ~ #1-#3&#13;&lt;br&gt;4/27(月) ~ #4-#6&#13;&lt;br&gt;5/18(月) ~ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;真鍋（木村佳乃）が、ほかの番組プロデューサーに住吉（前田健）や洋子（永池南津子）のことを話している現場をうらら（片瀬奈那）が目撃！　『みんなでうたお！パピプペポン』の打ち切りが決まったため、スタッフの受け入れ先を探していたのだ。そうとは知らず、危険分子を追い出そうとしていると勘違いしたうららや守（丸山隆平）らは、真鍋に嫌われないように必死にゴマスリを開始する。&#13;&lt;br&gt;そんなある日、収録の終わったスタジオに突如、氷室（戸次重幸）が出没。健太（大野智）を捕まえ、『みなうた』の打ち切りが決まったという情報をリークする。驚いた健太はさっそくその真偽のほどを真鍋に確認。すると真鍋は…。&#13;&lt;br&gt;&#13;&lt;br&gt;一方、明音（千紗）は安斉（吹越満）のやり方が納得できずに行方不明に。安斉は健太のもとを訪れ、明音の居どころを知らないかと尋ねる。安斉の意味深な物言いが気になる健太だったが…。&#13;&lt;br&gt;&#13;&lt;br&gt;健太、みなうたの仲間たち、明音、そして経営状態が思わしくない健太の実家…。いろいろなことが少しずつ動き出していく！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkvi3tzao"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epk7doygxp</id>
-    <title>僕とシッポと神楽坂_[第8話]</title>
-    <updated>2026-05-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8yyz9026.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 僕とシッポと神楽坂
-                &lt;a href="https://tver.jp/series/sr8yyz9026" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk7doygxp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ～ #1-#3&#13;&lt;br&gt;4/27(月) ～ #4-#6&#13;&lt;br&gt;5/18(月) ～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;トキワ（広末涼子）のもとに、外務省から行方不明だった夫の佑（眞島秀和）と見られる日本人男性が南米で見つかったと連絡が入る。確認の結果、男性は佑本人と断定。神楽坂界隈は、そのニュースで話題が持ちきりになる。&#13;&lt;br&gt;しかし、喜んだのもつかの間、衝撃の真実が明らかになり、トキワは大きなショックを受ける。&#13;&lt;br&gt;心配してくれる達也（相葉雅紀）にも、父親との再会を心待ちにする大地（矢村央希）にも、そのことを言い出せず、今後のことを考えて不安になるトキワだったが…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epk7doygxp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9x8oqy12</id>
-    <title>今日からヒットマン_[第7話 最終章！殺し屋引退…命懸けで家族を救え!!]</title>
-    <updated>2026-05-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdwjfm0bd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今日からヒットマン
-                &lt;a href="https://tver.jp/series/srdwjfm0bd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9x8oqy12.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ～ #1-#3&#13;&lt;br&gt;4/27(月) ～ #4-#6&#13;&lt;br&gt;5/18(月) ～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;闇の組織《コンビニ》のヒットマンであるカトウ（矢作マサル）をはじめ、関係者が次々と何者かに襲撃されることに。本部長・将軍（小沢仁志）も、この事態に苛立ちを隠せない。一方、稲葉十吉（相葉雅紀）とちなつ（山本舞香）、《コンビニ》アルバイトのキンパツ（駒木根葵汰）は、ある組織に集金に出向くも、簡単だと思われていた取引は難航。十吉は相手のボスと、一発だけ弾の入った銃をこめかみに当てて順番に自ら撃ち合う《ロシアンルーレット》をやるハメになるのだった…。また十吉は、イージーフードの部長・遠藤保（勝村政信）から、ある重要なプロジェクトを任される。十吉は妻の美沙子（本仮屋ユイカ）ら家族を喜ばせるべく、サラリーマンとして仕事にまい進することを誓うのだが、そんな矢先に、丸メガネ（筧利夫）、キノコ頭（本多力）から連絡が。現在、《コンビニ》を襲っているのは《100均》と呼ばれる新興勢力で、創設者はなんとあのアゴ（岩永ひひお）だった！　しかも、強力な殺し屋であるマンモス（武蔵）とタッグを組んでいて…。やがて、十吉に「いつ何時、あなたに火の粉が降りかかるか」と心配していた丸メガネが《100均》に拉致される。同時に、会社の重要プロジェクトのプレゼン日も前倒しになって!?　十吉はまたもや、ヒットマンとサラリーマンとの二重生活の狭間で、大ピンチとなるが…。《コンビニ》vs《100均》の全面戦争の行方は――？　そして、ヒットマンとしての才能をさらに開花させた十吉に、マンモスの影が忍び寄って…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9x8oqy12"/>
   </entry>
 </feed>
