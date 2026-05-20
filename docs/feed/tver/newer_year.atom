@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-20T08:09:03+09:00</updated>
+  <updated>2026-05-20T10:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1008,45 +1008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep9x8oqy12"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8phuvwba</id>
-    <title>僕とシッポと神楽坂_[第7話]</title>
-    <updated>2026-05-18T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8yyz9026.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 僕とシッポと神楽坂
-                &lt;a href="https://tver.jp/series/sr8yyz9026" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月18日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8phuvwba.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                4/25(土) ～ #1-#3&#13;&lt;br&gt;4/27(月) ～ #4-#6&#13;&lt;br&gt;5/18(月) ～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;ある日、トキワ（広末涼子）が熱を出し、仕事を休む。『坂の上動物病院』は達也（相葉雅紀）と広樹（小瀧望）だけで診療を行わなければならず、てんてこ舞いに！　達也はあらためてトキワの存在の大きさを感じるのだった。&#13;&lt;br&gt;そんな中、いつもと違って様子がおかしいまめ福（渚）。実はまめ福は、お座敷にやってくる老舗ホテルの社長からプロポーズされ、芸者という仕事と女性としての幸せの間で悩んでいた。奇しくも、親友の名倉（大倉孝二）とも“結婚”について会話をしたばかりだった達也。大地（矢村央希）に頼まれ、寝込んでいるトキワのためにご飯を作りに行った達也は、妙にトキワのことを意識してしまい…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8phuvwba"/>
   </entry>
 </feed>
