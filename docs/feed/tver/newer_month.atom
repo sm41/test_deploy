@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-21T18:06:19+09:00</updated>
+  <updated>2026-05-21T20:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep2z5ahmuy</id>
+    <title>孤独のグルメ Season4_[第11話 大田区蒲田の海老の生春巻きととりおこわ]</title>
+    <updated>2026-05-21T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season4
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月21日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2z5ahmuy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）は蒲田のとある事務所でクライアントの社長を待っていた。しばらくしてお茶を持ってきた制服姿の白鳥美麗（伊佐山ひろ子）がなかなか五郎のそばを離れない。やがて今回の仕事の話を尋ねてきて、五郎が受け答えしていると、突如変貌して驚愕する五郎。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2z5ahmuy"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4oo7g8wv</id>
     <title>あやしいパートナー ～Destiny Lovers～_[第１３話「帰責事由」]</title>
@@ -1008,85 +1048,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epq3x49eb5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmtj57ja0</id>
-    <title>クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２_[第4話]</title>
-    <updated>2026-05-19T03:05:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpc9l1j0q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２
-                &lt;a href="https://tver.jp/series/srpc9l1j0q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_03時05分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月09日(火)_03時04分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月18日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmtj57ja0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                エルネストの家に数日泊まることになったアレックスは、アメリカ人を嫌う祖父シルヴィオの部屋で寝ることに。その夜、２人が寝ている部屋に男が侵入し、シルヴィオを殺そうとする。アレックスが男を撃退するが、翌日カイとエルネストが調べると、過去２週間以内に第２次世界大戦の退役軍人が３人、就寝中に窒息死していたことが分かる。カイたちは、その３人を死の直前に取材した女性記者が何か事情を知っていると見て行方を追う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmtj57ja0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnbspkb3f</id>
-    <title>スモークブルーの雨のち晴れ_[第７話・白い噓]</title>
-    <updated>2026-05-19T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmrxmnprs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スモークブルーの雨のち晴れ
-                &lt;a href="https://tver.jp/series/srmrxmnprs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月18日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnbspkb3f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                久慈家に別れを告げて、久慈（渋谷謙人）は何ヶ月も海外へと旅に。朔太郎（武田航平）は勤める塾が受験シーズンに入り、仕事に翻訳学校と忙しく過ごしながら久慈との再会を楽しみにしていた。そんな日常の中で、多治見（佐野和真）の様子がいつもと違うことに気づく朔太郎。しばらく経ったある日、塾の同僚である嶋田から多治見が倒れて救急車で運ばれたと知らされて―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnbspkb3f"/>
   </entry>
 </feed>
