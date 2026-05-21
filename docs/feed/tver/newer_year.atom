@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-21T20:06:19+09:00</updated>
+  <updated>2026-05-21T22:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -408,45 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epd3tq3mw2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo18t044c</id>
-    <title>その着せ替え人形は恋をする_[#4「ジュジュ様からの依頼」《ドラマイズム》]</title>
-    <updated>2026-05-19T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3zi3hn15.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ その着せ替え人形は恋をする
-                &lt;a href="https://tver.jp/series/sr3zi3hn15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo18t044c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                雫たんのコスプレ衣装を無事作り終えた新菜（野村康太）は、海夢（永瀬莉子）と過ごす時間に終わりが近づいていることを悲しんでいた。そんな新菜をよそに、海夢は次にやるコスプレ衣装を何にするか新菜に相談する。１回きりだと思いこんでいた新菜は海夢の相談に驚きながらも、海夢とこれからも一緒にいられることを嬉しく感じるのであった。一方、海夢はコスプレイベントの日を境に新菜にドキドキするようになっていてー。そんなある日、新菜の家にジュジュ様こと乾紗寿叶（池田朱那）が突然やってくる。イベントでの海夢のコスプレ写真を見て、新菜に衣装制作を依頼しに来たのだと言う。バイト終わりの海夢も合流し、憧れのジュジュ様と対面。コスプレの”合わせ”撮影をすることを約束し、舞い上がる海夢。そして新菜は海夢の後押しもあり紗寿叶の衣装を作ることになるのだったー。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo18t044c"/>
   </entry>
 </feed>
