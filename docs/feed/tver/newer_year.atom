@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-21T14:06:19+09:00</updated>
+  <updated>2026-05-21T16:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -448,45 +448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epo18t044c"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyt7orc63</id>
-    <title>IP～サイバー捜査班_[IP_FINAL　ディープフェイク]</title>
-    <updated>2026-05-19T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srypdcjh4n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ IP～サイバー捜査班
-                &lt;a href="https://tver.jp/series/srypdcjh4n" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyt7orc63.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/30(月)～ #1-#3&#13;&lt;br&gt;4/22(水)～ #4-#6&#13;&lt;br&gt;5/19(火)～ #7-#9&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;京都府警・サイバー総合事犯係主任・安洛一誠（佐々木蔵之介）は、“ディープフェイク動画大量流出事件”の首謀者・永尾享二（波岡一喜）の最期をとらえた動画が拡散されている状況に、りつ然とする…。永尾が“殉教者”となったこの動画によって、人々の内なる悪意が刺激され、ディープフェイクがさらに氾濫することを危惧したのだ。警察庁から出向してきたキャリア・桐子香澄（内山理名）も、事の重大さに絶句。メディアアーティスト・西堂牧彦（大東駿介）もまた、「ディープフェイクは新たなプロメテウスの火だ」と警鐘を鳴らす。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyt7orc63"/>
   </entry>
 </feed>
