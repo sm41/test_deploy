@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-21T09:11:19+09:00</updated>
+  <updated>2026-05-21T10:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -848,45 +848,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep6jnkvmgd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5td08ste</id>
-    <title>ハゲタカ_[第7話]</title>
-    <updated>2026-05-19T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl7ylcsou.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ハゲタカ
-                &lt;a href="https://tver.jp/series/srl7ylcsou" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5td08ste.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                3/30(月)～ #1-#3&#13;&lt;br&gt;4/22(水)～ #4-#6&#13;&lt;br&gt;5/19(火)～ #7-#8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;時は2018年――平成最後の夏、日本を代表する名門重工業メーカー『帝都重工』で「データ改ざん事件」が発覚。名門企業の不祥事を、マスコミはこぞって「信頼崩壊の危機」と書き立てる。&#13;&lt;br&gt;日本ルネッサンス機構の飯島（小林薫）は芝野（渡部篤郎）にこの一件に関する処理を依頼。日本の名門企業の経営危機は政府系の金融支援団体である『日本ルネッサンス機構』としても看過できない事態のため、サムライファンドの鷲津（綾野剛）に救済を求めるよう、芝野に指示する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5td08ste"/>
   </entry>
 </feed>
