@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-21T22:05:19+09:00</updated>
+  <updated>2026-05-22T00:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep066wh5rb</id>
+    <title>今夜、秘密のキッチンで_[第7話 封印したはずの想い・・・甦る記憶！！]</title>
+    <updated>2026-05-21T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
+                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月21日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep066wh5rb.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                お腹の調子が悪かった娘の陽菜（吉田萌果）に、笑顔が戻ってきた。彼女のためにあゆみ（木南晴夏）は薬膳教室に参加する。教室に現れたコックコート姿の講師の先生を見て、あゆみは自分の目を疑う。そこにいるのは、まぎれもなく慧（高杉真宙）本人だった。しかし、慧はあゆみのことを覚えていなく―。&lt;br&gt;&lt;br&gt;あゆみはキッチンに現れた林太郎（安井順平）に、慧に会ったことを話す。あゆみとの記憶はなかったが「それでいい」という彼女に、林太郎は自分もそろそろ一歩踏み出そうとしていると告げる。「成仏してもいいから、小春（白本彩奈）の止まった時間を動かすために、自分の心残りを解消したい」と。実は、林太郎が死んだ日は、小春の二十歳の誕生日だったのだ―。&lt;br&gt;その夜、暗いリビングにひとり帰宅する小春を見守る林太郎。「小春、もうすぐ誕生日だな。今年もお祝いはしないのか？」。しかし彼女の背中に、その声は届かない・・・・・・。&lt;br&gt;&lt;br&gt;一方、渉（中村俊介）から昼間に何をしていたか尋ねられたあゆみは、薬膳教室に通い始めたことを話す。あゆみにはなるべく家にいて欲しいと言いつつ、それを受け入れる渉。&lt;br&gt;あゆみは家事を終えると隠し場所からレシピノートを取り出す。&lt;br&gt;早くノートを慧に返し、自分の気持ちを断ち切らなければと心に決めるあゆみ。&lt;br&gt;&lt;br&gt;そんな中、慧は薬膳教室である不思議な感覚を抱いていた。あゆみの隣で調理をすると、何か大切な記憶が甦りそうなのだ。思わず、「前に会ったことありますか？」とあゆみに尋ねる慧。あゆみは戸惑いつつ「いいえ」と答える。そんな2人を、忘れ物を届けに来た藤子（瀧本美織）が目撃していて・・・。&lt;br&gt;&lt;br&gt;結婚を控えた慧と藤子、そんな2人を前に自分の想いを封印しようとするあゆみ。&lt;br&gt;あゆみはついにレシピノートを返そうとするが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep066wh5rb"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep33cgwngw</id>
     <title>未解決の女　警視庁文書捜査官 Season３_[第6話 誘拐の天才少女と完全犯罪]</title>
@@ -1048,85 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep56cukrta"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvo7naa7b</id>
-    <title>輝く星のターミナル_[第15話]</title>
-    <updated>2026-05-19T10:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 輝く星のターミナル
-                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvo7naa7b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ヨルムに傷を負わせた犯人は逃走していたが、しばらくして暴行された状態で発見される。監視カメラの映像を見たムジャは、スヨンの仕業ではないかと疑うがソグンは否定する。自分を切りつけた犯人を暴行したのはスヨンだとソグンから聞かされたヨルムだが、知らないふりをして１日スヨンと時間を共にする。その夜、ヨルムはスヨンの自宅に呼ばれるが、そこで目にしたものは…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvo7naa7b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epq3x49eb5</id>
-    <title>雲之羽～揺らめく愛、刹那の二人～_[第２５話「決死の救出作戦」]</title>
-    <updated>2026-05-19T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
-                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq3x49eb5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                捕縛された雲為衫は牢で宮尚角の尋問を受ける。雲為衫の身が案じてならない宮子羽は、雪重子や月長老、花宮の花（ホワ）公子らと協力し雲為衫を牢から救い出す。だが、追ってきた宮尚角らと激しい斬り合いになる。雲為衫を守るため、宮子羽は宮尚角に容赦のない攻撃を仕掛ける。一時的に内力が弱っていた宮尚角は深手を負ってしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epq3x49eb5"/>
   </entry>
 </feed>
