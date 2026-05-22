@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-22T22:06:31+09:00</updated>
+  <updated>2026-05-23T00:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epc1be3efv</id>
+    <title>田鎖ブラザーズ_[ep.06]</title>
+    <updated>2026-05-22T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月29日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc1be3efv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;稔（染谷将太）の調べにより、父・朔太郎（和田正人）が働いていた辛島金属工場ではかつて拳銃が作られており、それが暴力団の五十嵐組に流れて犯罪に使用されていた可能性が浮上する。さらに、真（岡田将生）と稔は、津田（飯尾和樹）が取材していたノートの存在を知ることに。&lt;br&gt;そんな中、青委署管内で西浦綾香という２０代女性が単独交通事故により死亡する。しかし遺体の状況から死因は不自然な車体不良による一酸化炭素中毒で、何者かの工作による殺人の線が浮上。さらに綾香の婚約者・拓海の証言から、綾香は３年前に道路に飛び出してきた女性を撥ねて死亡させたものの、不起訴処分を受けていたことが発覚する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epc1be3efv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epa5ng7804</id>
     <title>刑事、ふりだしに戻る_[5話 もみ消される警察の不祥事]</title>
