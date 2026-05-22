@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-22T10:06:30+09:00</updated>
+  <updated>2026-05-22T12:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep748f82g6</id>
+    <title>輝く星のターミナル_[第18話]</title>
+    <updated>2026-05-22T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 輝く星のターミナル
+                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep748f82g6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                スヨンの命が危ないと知ったヨルムは、ウェアラブルを外すのはどうかとスヨンに尋ねる。それを聞いたスヨンはミスター･チャンに、なぜヨルムと会ったのかと責め立てる。その帰り、スヨンはチョ部長の部下たちに襲われるも、超人的な力を見せチョ部長を驚かせる。一方、ウンソプはスヨンの事で涙を流すヨルムに一緒にいてくれと引き止めるが、ヨルムは友達でいるか男でいるか選ぶよう告げる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep748f82g6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eperdmiv8x</id>
     <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第7話]</title>
@@ -826,7 +866,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月20日(月)_23時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_10月31日(土)_23時59分&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
                 &lt;th&gt;
@@ -1088,205 +1128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epnrylpzl8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoedszw61</id>
-    <title>失恋カルタ_[最終話【乃木坂46 梅澤美波×西垣匠×加藤小夏】「ん」《ドラマイズム》]</title>
-    <updated>2026-05-20T01:56:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8o52a7s.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 失恋カルタ
-                &lt;a href="https://tver.jp/series/srr8o52a7s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_01時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_01時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoedszw61.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                病室に駆けつけた彩世（加藤小夏）は、頭に包帯を巻いた光（西垣匠）とそれを面白がる千波（梅澤美波）の姿を見た瞬間、様々な感情が押し寄せ、涙が止まらなくなる。そしてついに7年間秘めてきた光への想いを、ついに告げる決意をして──。&lt;br&gt;既婚者と知りながら渋谷（深水元基）と別れられない千波。優しさに甘え、見て見ぬふりを重ねるほどに、心はすり減っていく。そして温泉旅行への道中、キラキラと輝く海を見た瞬間、千波は思いがけない行動に出て。一方、陸（伊藤絃）の荷物が消えた部屋で、光はベランダに残された灰皿を静かに片づける。&lt;br&gt;それぞれの“失恋”を経て、またいつものように彩世の実家に集まる三人。&lt;br&gt;失恋カルタ、残る句はあとひとつ──。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epoedszw61"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmlqlnfjo</id>
-    <title>こないだおばさんって言われたよ_[第3話 The Return of Kenshin]</title>
-    <updated>2026-05-20T01:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8ildo0yc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ こないだおばさんって言われたよ
-                &lt;a href="https://tver.jp/series/sr8ildo0yc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_00時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmlqlnfjo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                芽衣子は突然現れた元彼・八海憲伸（Mummy-D）に誘われ、おしゃれなレストランで食事をすることに。憲伸は10年前とほとんど変わらない軽い感じで、“マルチクリエイター”として自由に生きていた。&lt;br&gt;一方の芽衣子は、老眼やシワ、体力の衰えなど「自分は確実に変わってしまった」現実を突きつけられており、変わらない憲伸に戸惑いを感じる。そんな憲伸から「今でも美人だよ」と褒められた芽衣子は動揺し、トイレに逃げ込んでしまう。そこで偶然出会った同年代の女性・春江（柿丸美智恵）に「元彼とヨリを戻したことがあるか」と突如相談。春江は「元彼は美化されるだけ。人は簡単に変わらないから気をつけろ」と忠告する。その後、憲伸と乗ったエレベーターが突然停止！ドラマのような展開で暗い密室で二人は過去の別れた理由を語り合い、二人の距離は確実に近づいていく…。あの頃に戻ったみたい…良い感じになったと思ったその時、思いもよらない展開に…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmlqlnfjo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj1wypxam</id>
-    <title>時すでにおスシ!?_[第７話【エブリデイ、ブリ】]</title>
-    <updated>2026-05-19T22:57:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時すでにおスシ!?
-                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_22時57分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj1wypxam.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;みなと（永作博美）は、渚（中沢元紀）が抱える思いの核心に触れられないまま、渚にある場所に一緒に行かないかと誘われる。そこは昔よく家族で訪れていた特別な場所であった——。&lt;br&gt;一方、大江戸（松山ケンイチ）のもとに再び元妻・澪（土居志央梨）が現れる。澪は引っ越しの準備を理由にパグのホタテをまたもや強引に大江戸に預けるが、その日は大江戸に大事な用事があった。困り果てた大江戸から相談を受けたみなとは、ホタテを数時間預かることを快諾する。その預けたホタテのお迎えをきっかけに、大江戸は初めて待山家へ足を踏み入れることになる…。&lt;br&gt;そんな中、今回の鮨アカデミーの授業では「ブリ」を扱うことに。成長とともに名を変える出世魚・ブリを通し、自分たちのアップデートを意識する生徒たち。前向きな雰囲気で授業を終え、出てきたみなとが遭遇したのは大江戸のことを待つ澪で……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epj1wypxam"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprtdndwx9</id>
-    <title>夫婦別姓刑事_[第6話 嘘の終焉、ついにバレた秘密]</title>
-    <updated>2026-05-19T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr70fmk4xw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 夫婦別姓刑事
-                &lt;a href="https://tver.jp/series/sr70fmk4xw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprtdndwx9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                退院した池田絆（中村海人）から「僕は明日香さんに本気です！」と告白をされた四方田誠（佐藤二朗）。復帰早々、鈴木明日香（橋本愛）の魅力を熱烈に語り続け、へきえきとしながらも、池田の熱心なアプローチが気にはなる誠・・・。&lt;br&gt;&lt;br&gt;そんな中、国務大臣の妻が誘拐される事件が発生。沼袋署刑事課から、小寺園みちる（斉藤由貴）、上山晋吾（矢本悠馬）、郡司綾（齊藤京子）の3名が警視庁本部の応援に向かうことに。&lt;br&gt;&lt;br&gt;一方、沼袋署に残っていた誠と明日香、池田の前に一人の男が訪れる。男は突然ナイフを出し明日香を人質に取る。男の要求は「小寺園をだせ！」&lt;br&gt;動揺する誠たちだが、さらに男は自分の体に爆弾を巻きつけており、占拠される沼袋署。&lt;br&gt;&lt;br&gt;小寺園と犯人の間に隠された過去の因縁、そして誠と明日香と池田の三角関係の行方は。&lt;br&gt;夫婦別姓刑事にとって重大な局面が迫っていた――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eprtdndwx9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep7pj8rk1f</id>
-    <title>リボーン ～最後のヒーロー～_[第6話 禁断の大勝負！歴史を知る者の責任！]</title>
-    <updated>2026-05-19T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruwf1bmff.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ リボーン ～最後のヒーロー～
-                &lt;a href="https://tver.jp/series/sruwf1bmff" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月19日(火)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月26日(火)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月19日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7pj8rk1f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                野本英人として生きる根尾光誠（高橋一生）は、あかり商店街の春祭りの最中に突然倒れる。池谷更紗（中村アン）に支えられながら検査入院も経て日常生活に戻ったものの、前世の記憶を使って光誠が英人として生きることで何かしらの代償を払うことになってしまうのか、この先の未来はどうなっていくのか…一抹の不安を覚える。&#13;&lt;br&gt;そんな中、英人は友野達樹（鈴鹿央士）を介してこの時代を生きる根尾光誠から雇用契約を結びたいという申し出を受け、NEOXISのアドバイザーを務めることに。自社ビルを完成させた根尾光誠は、勢いに乗って東京五輪関連事業への参入や銀行買収などの構想に向けて動き始める。しかし、それらの計画がNEOXISに打撃を与える未来を知っている英人は、回避させるべく助言をする。英人は説明が出来ないその根拠を“勘”としか示せず、役員たちには受け入れてもらえず…。&#13;&lt;br&gt;一方、英人の“未来を予見する能力”を高く評価する東郷義隆（市村正親）から蒼萬社長・一萬田仁志（坪倉由幸）を紹介された英人は、その能力を見せて欲しいと東郷と一萬田から競馬の予想を託される。さらに、あかり商店街でも窮地に陥った室田秀子（岸本加世子）を救うために一獲千金を狙って競馬に賭けることになり、英人は東郷や一萬田だけではなく商店街も背負いながら、“未来の記憶”を使って競馬を予想するのだが…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep7pj8rk1f"/>
   </entry>
 </feed>
