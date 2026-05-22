@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-22T12:05:30+09:00</updated>
+  <updated>2026-05-22T14:06:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epe2fneqge</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第１４話「あの日の記憶」]</title>
+    <updated>2026-05-22T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月29日(金)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe2fneqge.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ヒョンスの事故をきっかけに、検察は世間から非難を浴び、ユジョンは地検長から叱責を受ける。パン係長が回復し、ウニョクは火災事件で有罪となった男を担当することになり、ジウクやボンヒに協力を仰ぐが、2人とも家族を火災で亡くしているため、気が向かない。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epe2fneqge"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eplvk3u1l5</id>
+    <title>最後の雨が降るとき_[第13話　時の幻影]</title>
+    <updated>2026-05-22T13:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_13時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_13時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplvk3u1l5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                規律神(マルサカダ)の日記には、これまでの雨神(オラド)や溥輝(プーフイ)の行動が記されていた。しかし、その日記の内容は起きた事を記したものではなく、起こる事の筋書きであった。雨神や溥輝は、これまで因果矯正所の筋書き通り行動していたのであった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eplvk3u1l5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep748f82g6</id>
     <title>輝く星のターミナル_[第18話]</title>
