@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-22T18:05:31+09:00</updated>
+  <updated>2026-05-22T20:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -568,45 +568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epuo2a6z0g"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epapex7vmp</id>
-    <title>大好き！五つ子６_[第28回]</title>
-    <updated>2026-05-20T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子６
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月03日(水)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epapex7vmp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;小百合（佐久間由枝）は桃子（森尾由美）が働くスーパーでともにパートとして働くことになった。本格的な仕事をする前のウォーミングアップだ、とうそぶく小百合を桃子は心配する。初出勤の日、小百合は客に「オイキムチ」の作り方を聞かれるが答えられなかった。それを聞いた店長の真紀子（あいはら友子）はその客がもう一度来たら自分に知らせるよう命じた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epapex7vmp"/>
   </entry>
 </feed>
