@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-23T20:05:47+09:00</updated>
+  <updated>2026-05-23T22:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmcf3wtmj</id>
+    <title>タツキ先生は甘すぎる！_[第7話 何があってもずっとそばにいるよね]</title>
+    <updated>2026-05-23T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp8uxgiz9.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ タツキ先生は甘すぎる！
+                &lt;a href="https://tver.jp/series/srp8uxgiz9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月23日(土)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月30日(土)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月23日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmcf3wtmj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                タツキ(町田啓太)を、なぜかパパと呼ぶようになった小3の安藤海音(池村碧彩)。タツキは、その心の内を知るべく、自分と周りの人を様々なボタンで表現する“ボタンアート”を行う。海音は家族を整列したボタン、ユカナイの仲間の事を躍動するボタンで対照的に表現。そんな海音は全国算数コンクールの金メダルを目指していた。計算ミスに父・哲生(吉沢悠)が優しく詰め寄るのを見たタツキは、自分の子どもの頃を思い出し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmcf3wtmj"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epmhudafvf</id>
     <title>孤独のグルメ Season1_[第3話 豊島区池袋の汁なし担々麺]</title>
@@ -1168,125 +1208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep67pk6ffy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptvq8mltj</id>
-    <title>サレタ側の復讐～同盟を結んだ妻たち～_[第8話 復讐同盟崩壊!?ストーカー化するサレ妻。]</title>
-    <updated>2026-05-21T01:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbnoj3c2k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サレタ側の復讐～同盟を結んだ妻たち～
-                &lt;a href="https://tver.jp/series/srbnoj3c2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_01時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptvq8mltj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                捏造記事が出回ったことによって、追い詰められた不倫相手・愛（青島心）に刺され、昏睡状態に陥ってしまった樹（髙松アロハ）。「脅すだけって言ったのに、どうして！」と、佳乃（篠田麻里子）の行き過ぎた行動を奈津子（水崎綾女）と麗奈（矢吹奈子）は非難するも、佳乃は激しく逆上し、復讐同盟は仲間割れの危機に陥る…。怒った佳乃は何かを企んでいる様子で…!?サレ妻からシタ夫への復讐は、やがて女同士の激しい争いに…!?　［期間限定無料配信］　毎週水曜深夜1時からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptvq8mltj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epw6bn0ezl</id>
-    <title>水曜日、私の夫に抱かれてください_[第8話 不倫相手の実母は超毒親！]</title>
-    <updated>2026-05-21T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srki02kaw8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 水曜日、私の夫に抱かれてください
-                &lt;a href="https://tver.jp/series/srki02kaw8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw6bn0ezl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                怜（入山法子）、一凪（山本弓月）と共に神栖（稲葉友）の実家を訪れた蓉子（菅井友香）は、初めて神栖の母・秀美（山下容莉枝）と対面する。異様な緊張感に包まれる嫁姑の会話、さらに秀美はなぜか弟の史奉（柾木玲弥）と比較しながら神栖を異様な勢いで蔑み始めて…。一方、神栖は後日、怜が蓉子を連れて実家を訪れたことを知り、態度が豹変。かつてないほど激しく感情を爆発させると、遂には怜を暴力的に追い込んでいく。　［期間限定無料配信］　毎週水曜深夜24時30分からテレビ東京にて好評放送中！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epw6bn0ezl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ept1tl34ei</id>
-    <title>鬼女の棲む家_[８話 ペロリストを暴け！]</title>
-    <updated>2026-05-21T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhtnz3pig.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 鬼女の棲む家
-                &lt;a href="https://tver.jp/series/srhtnz3pig" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept1tl34ei.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「不倫という十字架を背負わせたまま、一生家族のために働かせる！」&lt;br&gt;高級ラウンジ嬢に入れ込んでいた夫の透（竹財輝之助）を再び家族として迎え入れる覚悟をした明香里（石田ひかり）。家族崩壊の危機を何とか乗り越えようとするも、二人の前に引きこもっていた息子・歩夢（三浦綺羅）が部屋から姿を現し、星野家に新たな波乱が走る。なんと歩夢は、…女装をしていた。突然の出来事に戸惑いを隠せない２人。&lt;br&gt;「なにやってるんだ！？歩夢！」「ははははは…ははははは！」そんな中、再就職に苦戦していた透は回転寿司チェーン店にて店長として働けることに。再起を誓う透だったが、透の寿司店で女子高生が迷惑動画を撮影し拡散され、SNSで大炎上！店は臨時休業に追い込まれる。そして、店先にはジャスティス宮川が！！「例のペロペロ寿司のお店！見てください！」&lt;br&gt;&lt;br&gt;★TVerお気に入り登録をよろしくお願いします！&lt;br&gt;【中京テレビ・日本テレビ系全国ネット 毎週水曜24時24分～放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ept1tl34ei"/>
   </entry>
 </feed>
