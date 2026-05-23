@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-23T18:05:47+09:00</updated>
+  <updated>2026-05-23T20:05:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1288,45 +1288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ept1tl34ei"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep85e7nv59</id>
-    <title>102回目のプロポーズ_[第7話 101回目のプロポーズ]</title>
-    <updated>2026-05-20T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 102回目のプロポーズ
-                &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_23時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep85e7nv59.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                医師から膵臓がんで余命三ヶ月と宣告された音（伊藤健太郎）は、病気のことは打ち明けずに光（唐田えりか）と距離を置く。熱愛報道と共に音信不通になったことで、悲しみに打ちひしがれる光。光が激しく傷ついていることを知った太陽（せいや）は、「今こそどうしても自分が傍にいたい」と思い、光を呼び出した。来るか来ないか分からない光を待っているうちに大粒の雨が降り出し……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep85e7nv59"/>
   </entry>
 </feed>
