@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-23T14:05:48+09:00</updated>
+  <updated>2026-05-23T16:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1368,45 +1368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epxc9djh9p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epn74mq6r8</id>
-    <title>月夜行路 ―答えは名作の中に―_[第七話 邸宅街に爆破予告！真相を解く鍵は銀河鉄道]</title>
-    <updated>2026-05-20T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxnogfmcq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 月夜行路 ―答えは名作の中に―
-                &lt;a href="https://tver.jp/series/srxnogfmcq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn74mq6r8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【銀河鉄道の夜…友情と自己犠牲、本当の幸せ】&lt;br&gt;&lt;br&gt;ルナ(波瑠)と涼子(麻生久美子)はルナの母親の依頼で古いPCのパスワード解読を進める。手がかりは「吾輩は猫であるの初版本」「いくつかの数列」という情報のみ…&lt;br&gt;&lt;br&gt;調査のために夏目漱石研究で名高い教授のもとを訪れた二人だが、そこで爆弾魔事件に遭遇する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epn74mq6r8"/>
   </entry>
 </feed>
