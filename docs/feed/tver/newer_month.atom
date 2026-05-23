@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-23T16:05:48+09:00</updated>
+  <updated>2026-05-23T18:05:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epmhudafvf</id>
+    <title>孤独のグルメ Season1_[第3話 豊島区池袋の汁なし担々麺]</title>
+    <updated>2026-05-23T16:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season1
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月23日(土)_16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月06日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月23日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmhudafvf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                池袋のマンションギャラリーに呼ばれた五郎は駅前で怪しげな雰囲気の男にティッシュを渡される。マンションギャラリーでは美しいスタッフに迎えられるがそこには鬼の上司が……。そして池袋の街をさまよいこの日出合ったのは、中華・四川の汁なし担々麺だった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epmhudafvf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzsmsdyck</id>
     <title>令和に官能小説作ってます_[第8話 黄金コンビ結成!?若き天才と往年の天才]</title>
@@ -1288,85 +1328,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep85e7nv59"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi3dc0mdq</id>
-    <title>向こう側の僕_[＃７「本気の先に見える景色」]</title>
-    <updated>2026-05-20T23:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srshfh4z2l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 向こう側の僕
-                &lt;a href="https://tver.jp/series/srshfh4z2l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_10月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi3dc0mdq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                本気で挑むからこそ得られる経験がある
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi3dc0mdq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxc9djh9p</id>
-    <title>LOVED ONE_[第6話 刺し傷のある首吊り遺体]</title>
-    <updated>2026-05-20T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2qsz7e4k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ LOVED ONE
-                &lt;a href="https://tver.jp/series/sr2qsz7e4k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月20日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月20日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxc9djh9p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                松原涼音（安斉星来）と吉本由季子（川床明日香）がやってきたのは、エスニックフェアのホテルビュッフェ。空気を読み、実はエスニック料理が苦手だと言い出せない由季子に対し、涼音は「空気を読んだかなんて、解剖しても分からない」と言い放つ。&lt;br&gt;&lt;br&gt;その直後、涼音のもとに届いたのは、議員秘書を務める姉・早紀（志田彩良）が、国会議員・青田敏夫（東根作寿英）と不倫関係にあるというスクープだった。騒動が冷めやらぬ翌日、MEJに異状死体の連絡が入る。発見されたのは、首を吊った状態の青田。そして、その第一発見者は早紀だった。現場に駆け付けた水沢真澄（ディーン・フジオカ）と桐生麻帆（瀧内公美）だったが、現場には刑事の堂島穂乃果（山口紗弥加）は不在。事件を追求しないようにと、上層部から釘を刺されていたのだ。さらに麻帆にも厚労省からの圧力がかかり・・・。&lt;br&gt;&lt;br&gt;解剖の結果、青田の死因は自死による窒息ではないことが判明する。遺体の胸に残された、小さな刺し傷のような痕。謎を解くには、まだピースが足りない。そんな中、涼音は調査に行かせてほしいと真澄に訴える。波風を立てぬよう“空気を読む”ことが得意だった姉のことが、涼音はずっと嫌いだった。けれど姉は、他人が傷つくようなことはしないと断言する。それぞれの思惑と巨大な圧力が交錯する中、早紀が読み取ろうとしていた“空気”の正体とは―！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxc9djh9p"/>
   </entry>
 </feed>
