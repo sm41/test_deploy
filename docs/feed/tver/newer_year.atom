@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-24T00:05:47+09:00</updated>
+  <updated>2026-05-24T02:05:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6e8lwb65</id>
+    <title>湯遊ワンダーランド_[第7話 ●●日光浴でととのう！？]</title>
+    <updated>2026-05-24T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr54oz00oi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 湯遊ワンダーランド
+                &lt;a href="https://tver.jp/series/sr54oz00oi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月24日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6e8lwb65.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                低気圧のせいで心を病むきつこ（ともさかりえ）と弟のやっちゃん（須賀健太）。昔おばあちゃんから聞いた「カレーは大体の毒を殺せる」という話を思い出したきつこは、久しぶりにカレーを作ってみる。汗をかきスッキリしたように思えたが、いまひとつ調子があがらない。&lt;br&gt;この不調は霊によるものだと考えたきつこは、陽を当てることで除霊効果があるのではと、いざサウナに向かうのだが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6e8lwb65"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep8m98muw9</id>
     <title>SUPER RICH_[第8話 第二章完結！会社が解散！？優の行く末]</title>
