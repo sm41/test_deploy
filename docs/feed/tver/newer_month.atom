@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-24T20:06:02+09:00</updated>
+  <updated>2026-05-24T22:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep4m4a5a8z</id>
+    <title>ＧＩＦＴ_[第７話 チームを襲う宿命…父子が奏でる涙]</title>
+    <updated>2026-05-24T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＧＩＦＴ
+                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月24日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月31日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月24日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4m4a5a8z.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;中山好太郎（八村倫太郎）と坂東（越山敬達）の姉・青葉（生越千晴）が結婚。ブルズの面々も結婚式に出席し、祝福する。&lt;br&gt;日本選手権まで３５日。「打倒シャーク」を目標に掲げる伍鉄（堤真一）は、元シャークのオリバー・ブラッドリー（澤井一希）を練習に招き戦術を練る。その一方で、父親として息子の昊（玉森裕太）とどう接したらいいかわからない伍鉄は、元妻・広江（山口智子）から一緒に住むことを提案される。&lt;br&gt;そんな中、珍しく元気がないキャプテン・立川夏彦（細田善彦）。涼（山田裕貴）は立川から病気への不安や家庭内での孤独を打ち明けられるが、涼もまた行方不明の父親のことで苦しんでいた。&lt;br&gt;親子関係に正解はあるのか？ぶつかり合いが生むものとは？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep4m4a5a8z"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eps68jrjhk</id>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第4話「戦いの鐘は12時に鳴る！」]</title>
@@ -1368,45 +1408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2z5ahmuy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4oo7g8wv</id>
-    <title>あやしいパートナー ～Destiny Lovers～_[第１３話「帰責事由」]</title>
-    <updated>2026-05-21T14:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
-                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_14時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_05月28日(木)_14時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月21日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4oo7g8wv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                パン係長が刺され、病院へ運ばれる。ジウクら事務所の人々は、それぞれ後悔していた。ジウクは、ヒョンスを呼び出し時間を稼ぐため殴りかかり、拘留中の間にウニョクはヒョンスの家に進入する。また、ユジョンも彼を捜査するが、証拠が出てこない。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4oo7g8wv"/>
   </entry>
 </feed>
