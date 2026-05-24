@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-24T16:06:02+09:00</updated>
+  <updated>2026-05-24T18:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -488,45 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2k48uhso"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnkika1ya</id>
-    <title>大好き！五つ子６_[第29回]</title>
-    <updated>2026-05-21T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大好き！五つ子６
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnkika1ya.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;西園寺から小百合（佐久間由枝）に手紙が来た。文面は小百合の顔色を変えさせるようなものだった。一方で、樹里（平本亜夢）の誕生日が近づいていた。プレゼントはなにがいい？と聞かれた樹里は「パパがいい」と答え、五つ子を沈黙させる。さらに樹里が「パパが来るように」と言っててるてる坊主を作り始め、日に日にその数は増えてゆく。そんな樹里の姿を見た桜井家の面々は、樹里を不憫に思い…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epnkika1ya"/>
   </entry>
 </feed>
