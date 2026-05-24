@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-24T22:06:02+09:00</updated>
+  <updated>2026-05-25T00:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep0ipf3ukn</id>
+    <title>10回切って倒れない木はない_[第7話「秘められていた思い」]</title>
+    <updated>2026-05-24T23:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 10回切って倒れない木はない
+                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月24日(日)_23時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月31日(日)_22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月24日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0ipf3ukn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「10回切っても倒れない木はある。全部が思い通りにいくわけない」。理想のホテルの実現を夢見るミンソク(志尊淳)に、恋人の桃子(仁村紗和)が告げた突然の別れ。養母・キョンファ(キム・ジュリョン)の謀略からミンソクの夢を守るために身を引いたのだ。そこに元婚約者の映里(長濱ねる)が付け入り…。さらに、ミンソクと桃子の心の拠り所だった『こども食堂』が閉鎖の危機!大切な夢と居場所を失っていく2人の運命は!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0ipf3ukn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep25jm7t9d</id>
+    <title>エラー_[ep7「目には目を、歯には詰め物」]</title>
+    <updated>2026-05-24T23:09:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxi14loxu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ エラー
+                &lt;a href="https://tver.jp/series/srxi14loxu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月24日(日)_23時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_05月31日(日)_23時09分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月24日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep25jm7t9d.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ユメ（畑芽育）への絶縁宣言に、ユメの手紙の存在を知った未央（志田未来）は、複雑な心境に。そんな未央に、近藤紗枝（菊川怜）はユメ相手の裁判を持ちかけ、ユメの母・千尋（栗山千明）は１千万円の示談金を提示。未央の心は、裁判か示談かの間で揺れ動く…。千尋の勝手な行動に激怒するユメだが、未央との面会は許されず、示談金を用意する力もなく、自分には償う術がないという現実に打ちのめされていく…。そんな中、未央は予想外の結論に到達。千尋は、「ユメの本性を分かっていない」と未央に再考を促すが、その矢先、千尋の体に異変が発生。突然、激しく苦しみ始める…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep25jm7t9d"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4m4a5a8z</id>
     <title>ＧＩＦＴ_[第７話 チームを襲う宿命…父子が奏でる涙]</title>
@@ -1368,45 +1448,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epc7s6vvih"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2z5ahmuy</id>
-    <title>孤独のグルメ Season4_[第11話 大田区蒲田の海老の生春巻きととりおこわ]</title>
-    <updated>2026-05-21T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season4
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月21日(木)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月21日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2z5ahmuy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎（松重豊）は蒲田のとある事務所でクライアントの社長を待っていた。しばらくしてお茶を持ってきた制服姿の白鳥美麗（伊佐山ひろ子）がなかなか五郎のそばを離れない。やがて今回の仕事の話を尋ねてきて、五郎が受け答えしていると、突如変貌して驚愕する五郎。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2z5ahmuy"/>
   </entry>
 </feed>
