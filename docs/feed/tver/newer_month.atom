@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-25T20:06:31+09:00</updated>
+  <updated>2026-05-25T22:05:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1wojrqog</id>
+    <title>サバ缶、宇宙へ行く_[第7話 あの人が統合校に！先生、信じるを諭す]</title>
+    <updated>2026-05-25T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月25日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月25日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1wojrqog.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                朝野峻一（北村匠海）が働く若狭水産高校は存続の危機にあったが、檜山香織（熊切あさ美）ら小浜の人々の尽力もあり、若狭小浜高校と統合が決定し、“若狭小浜高校海洋科学科”として存続することに。朝野は、黒瀬正樹（荒川良々）と共に海洋科学科の教師として、入学式の準備をしていた。しかし、普通科の教師と生徒の存在に、居心地が悪そうな朝野は「なんか…完全アウェイな感じですね…」とこぼす。そこにやって来たのは、教師1年目の朝野と共に宇宙食サバ缶開発を立ち上げた1期生、菅原奈未（出口夏希）。彼女は新任教師として赴任してきたのだ。&lt;br&gt;&lt;br&gt;そして奈未と同じ1期生、寺尾創亮（黒崎煌代）の妹、瑠夏（伊東蒼）が海洋科学科に入学。車いす生活の瑠夏は、無重力の宇宙に憧れ、宇宙食サバ缶プロジェクトにも熱い思いを抱いてきた。これまでの先輩たちの功績に触れ、目を輝かせる瑠夏。奈未は瑠夏以外の生徒にも、宇宙食開発に興味を持ってほしいと願うが、「何年かかってもダメやったやつやろ？」「やる意味あるん？」と言われ、ショックを隠せない。奈未と瑠夏の2人で宇宙食サバ缶開発を再スタートさせることに。&lt;br&gt;その後、ひょんなことがきっかけで、小松崎菜那歌（平澤宏々路）、川上寿々（石田莉子）も宇宙食開発に加わる。朝野にも「手伝ってほしい」と話すが、態度がどこかそっけないと感じ、奈未は不満を募らせていき…。&lt;br&gt;&lt;br&gt;一方、JAXA（宇宙航空研究開発機構）では、宇宙飛行士の募集が始まった。宇宙飛行士は、「宇宙日本食認証基準案」の開発を続ける木島真（神木隆之介）の目指す場所であり、長年の夢だ。しかし、心に何か引っかかっている様子で…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1wojrqog"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1mutluu5</id>
     <title>孤独のグルメ Season4_[第12話（最終回） 渋谷区恵比寿の海老しんじょうと焼おにぎり]</title>
