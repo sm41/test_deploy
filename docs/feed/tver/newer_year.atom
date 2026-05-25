@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-25T22:05:31+09:00</updated>
+  <updated>2026-05-26T00:06:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep23eps173</id>
+    <title>Oh,My Dad!!_[第8話 さよなら息子よ・・・母のもとへ旅立ちの朝]</title>
+    <updated>2026-05-26T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgf85aw7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ Oh,My Dad!!
+                &lt;a href="https://tver.jp/series/srxgf85aw7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月26日(火)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep23eps173.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;新海元一（織田裕二）は、ついに息子・光太（田中奏生）と一緒に過ごせる最後の日を迎える。翌日は、紗世子（鈴木杏樹）が迎えに来て、光太と共に長野に向かうことになっていた。早坂美月（長谷川京子）のマンションに居候していた一室は、既に片付けを済ませ、光太の荷物は長野へ送り、元一自身も独り暮らしのためアパートを借りるつもりでいた。&lt;br&gt;この日のため、元一は休みを取り、朝から光太のためにお弁当を作った。光太と一緒に、お別れのため保育園に行った後に、2人でアスレチックに行って遊び、夜はその施設内にある山小屋に泊まる計画を立てていた。&lt;br&gt;保育園では、光太がみんなの前であいさつをし、元一もお世話になった先生たちにお礼をする。子供たち同士ならではの、湿っぽさのない元気のよいお別れをした後、保育園を出ると、えりな（小林星蘭）が待っていて、光太にお別れのプレゼントを渡す。&lt;br&gt;お別れを済ませ、いよいよ楽しみにしていたアスレチックに向かう元一と光太。芝生スキー、サイクリング、さらにはバーベキューと、楽しみにしていることを話し合いながら盛り上がっているところに、岸田史顕（八嶋智人）から電話がかかってくる。&lt;br&gt;岸田によると、インターンシップ・プログラムの一環で出された課題で、元一が提出した事業改革案が採用されるかもしれないとのこと。元一の事情を知らず、すぐに会社に来て欲しいと言う岸田に、やむなく光太と共に出社することを決意する。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『Oh,My Dad!!』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep23eps173"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep44tjq9sz</id>
     <title>大好き！五つ子６_[第31回]</title>
@@ -368,85 +408,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epv9eaz16p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoz3cijvw</id>
-    <title>バンビ～ノ！_[第9話　料理人への扉!!]</title>
-    <updated>2026-05-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwg1x7cq3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バンビ～ノ！
-                &lt;a href="https://tver.jp/series/srwg1x7cq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoz3cijvw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/25(土)0:00～&lt;br&gt;#4-5　5/4(月)12/00～&lt;br&gt;#6-8　5/13(水)12:00～&lt;br&gt;#9-11　5/22(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;伴(松本潤)がようやくホールの仕事に慣れはじめたある日、美幸(内田有紀)がスタッフ全員を集めて夏の新作パスタメニューのコンペを行うことを発表。選ばれれば厨房へ早く戻れると考えた伴は、コンペに参加する決意をし、寝る間も惜しんで新作パスタの施策に没頭する。そのために寝不足になった伴は、注意力散漫でオーダーミスをするなどホールの仕事が疎かになってしまう―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epoz3cijvw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epngrixmxp</id>
-    <title>世界一難しい恋_[第10話]</title>
-    <updated>2026-05-22T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmcd18r2p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 世界一難しい恋
-                &lt;a href="https://tver.jp/series/srmcd18r2p" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epngrixmxp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　4/25(土)0:00～&lt;br&gt;#4-5　5/4(月)12:00～&lt;br&gt;#6-7　5/13(水)12:00～&lt;br&gt;#8-10　5/22(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;美咲(波瑠)を抱きしめ、大満足の零治(大野智)。とはいえ、キスも交わしていない零治に秘書・舞子(小池栄子)は｢恋愛の頂上はもっと上にある｣と釘をさす。そんな中、和田(北村一輝)が結婚すると聞き、対抗心を燃やす零治。舞子(小池栄子)から結婚を前提とした同棲を勧められた零治は、美咲に同棲を持ちかけるが、もっとゆっくり関係を深めたいと断られてしまう。美咲との結婚に向けて、零治はあることを思い立つ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epngrixmxp"/>
   </entry>
 </feed>
