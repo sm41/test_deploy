@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-25T16:06:31+09:00</updated>
+  <updated>2026-05-25T20:06:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1mutluu5</id>
+    <title>孤独のグルメ Season4_[第12話（最終回） 渋谷区恵比寿の海老しんじょうと焼おにぎり]</title>
+    <updated>2026-05-25T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season4
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月25日(月)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月08日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月25日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1mutluu5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                井之頭五郎（松重豊）がJR恵比寿駅に降り立つ。クライアントのところに行く途中、恵比寿神社の前を通りかかったあたりで、年配の男性（石橋蓮司）がライターを落としたのを五郎が拾ってやる。その後クライアント・喫茶店マスター（小林賢太郎）に要望を聞くと、なんだかわけがわからない上に手品まで見せられて悶々とする五郎。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1mutluu5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf3wga2bq</id>
+    <title>ワカコ酒　Season2_[第3夜　広島の味、牡蠣とレモン鍋]</title>
+    <updated>2026-05-25T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒　Season2
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月25日(月)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月08日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月25日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf3wga2bq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「焼き牡蠣」。出身地・広島のアンテナショップに立ち寄ったワカコは、そばに広島料理の店を見つけて入る。ぷりぷりとした焼き牡蠣にレモンを絞り、フーフーと冷ましてかじりつく。磯の香りとレモンの風味が口の中にまわる。殻に残る汁も飲み干す。そして冷酒を一口。時が止まるほどのおいしさを味わうワカコだった。　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf3wga2bq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epojlcwfzj</id>
     <title>笑うハナに恋きたる_[最終21話 再会には福きたる]</title>
@@ -1128,45 +1208,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eplvk3u1l5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep748f82g6</id>
-    <title>輝く星のターミナル_[第18話]</title>
-    <updated>2026-05-22T10:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxuskx3mt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 輝く星のターミナル
-                &lt;a href="https://tver.jp/series/srxuskx3mt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月22日(金)_10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep748f82g6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                スヨンの命が危ないと知ったヨルムは、ウェアラブルを外すのはどうかとスヨンに尋ねる。それを聞いたスヨンはミスター･チャンに、なぜヨルムと会ったのかと責め立てる。その帰り、スヨンはチョ部長の部下たちに襲われるも、超人的な力を見せチョ部長を驚かせる。一方、ウンソプはスヨンの事で涙を流すヨルムに一緒にいてくれと引き止めるが、ヨルムは友達でいるか男でいるか選ぶよう告げる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep748f82g6"/>
   </entry>
 </feed>
