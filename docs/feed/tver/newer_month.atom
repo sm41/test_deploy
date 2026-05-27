@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-27T20:05:42+09:00</updated>
+  <updated>2026-05-27T22:06:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epohycztrr</id>
+    <title>ボーダレス～広域移動捜査隊～_[第7話 移動捜査課の使命]</title>
+    <updated>2026-05-27T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
+                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月27日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月03日(水)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月27日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epohycztrr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                最終章！&#13;&lt;br&gt;マンションから男性が転落して死亡。マンションが新宿区と中野区にまたがっていたことで、移動捜査課に出動命令が出る。&#13;&lt;br&gt;他殺と断定し、【一番星】に捜査本部が立つかと思われる中、敵対心むき出しだったはずの歌舞伎町署と東中野署が“話し合った結果”、歌舞伎町署に捜査本部が立てられることに。&#13;&lt;br&gt;蕾（佐藤勝利）と須黒（横田栄司）の探りで、警察官である佐々木（西垣匠）についての“密約”が交わされたことがわかる。&#13;&lt;br&gt;赤瀬（井ノ原快彦）にも、兄であり警察庁官房審議官の心悟（筒井道隆）から事件を隠ぺいするよう命令が下る中、佐々木が歌舞伎町の風俗店に出入りしていることを突き止めた蕾と須黒。&#13;&lt;br&gt;その風俗店には、須黒が長年にわたり探し続けている娘の三久（白本彩奈）の姿もあり…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epohycztrr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2easb93p</id>
     <title>孤独のグルメ Season5_[第2話 東京都江東区清澄白河のポパイベーコンとサンマクンセイ刺]</title>
