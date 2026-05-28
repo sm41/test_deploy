@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-28T16:06:42+09:00</updated>
+  <updated>2026-05-28T18:06:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -248,45 +248,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epmlewwt2h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprbdu585b</id>
-    <title>その着せ替え人形は恋をする_[#5「“好き”に正直になる」《ドラマイズム》]</title>
-    <updated>2026-05-26T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3zi3hn15.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ その着せ替え人形は恋をする
-                &lt;a href="https://tver.jp/series/sr3zi3hn15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月26日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprbdu585b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ある日、学校で進路希望の用紙が配られる。海夢（永瀬莉子）と進路の話をする新菜（野村康太）だったが、思い悩んだ末に進路を未定と記入し提出してしまう。そんな中、“烈!!合わせ”の撮影スタジオである廃墟を下見することになった海夢・新菜・紗寿叶・心寿。そこで紗寿叶（池田朱那）のコスプレに対する想いを聞く新菜。後日、新菜の家で衣装制作をしていた海夢は、紗寿叶の妹である心寿（豊島心桜）が本当はコスプレをしたいと思っているのではないかと新菜に話す。自分の好きなものを人に伝えることが怖いと感じる新菜は、心寿の“好き”を隠したい気持ちに共感をしていた。しかし、海夢は“好き”に正直でいる方が楽しいといい、その言葉を聞いた新菜はあることを思いつく―。“烈!!合わせ”の当日、コスプレをした海夢と紗寿叶の前に遅れて心寿がやってきて―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eprbdu585b"/>
   </entry>
 </feed>
