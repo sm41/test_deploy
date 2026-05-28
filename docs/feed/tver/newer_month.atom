@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-28T20:05:47+09:00</updated>
+  <updated>2026-05-28T22:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epg7du6wgy</id>
+    <title>未解決の女　警視庁文書捜査官 Season３_[第7話 地面師の殺人！答は名作の中に]</title>
+    <updated>2026-05-28T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 未解決の女　警視庁文書捜査官 Season３
+                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月28日(木)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月28日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg7du6wgy.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                中古住宅の床下から、男性の遺体が見つかった。その物件を購入した人気ゲーム実況者の北浦（友田オレ）と内原（大朏岳優）によると、元の家主は介護施設に入居中の大学教授。父と同じく演劇を研究していると話す娘と、2日前に売買契約を交わしたばかりだという。ところが捜査が始まるや、教授の娘は海外在住で、仲介した不動産業者の店舗もすでにもぬけの殻。《地面師》にだまされていたことが明らかになったのだ！&#13;&lt;br&gt;と同時に、遺体の身元は所轄の警察官・守谷英治（神尾佑）だと判明する。守谷は10年前、男性をはねて所持品を奪った犯人の追跡中に撃たれて足を負傷。事件は未解決のまま、総務課に異動したが、なぜか約1年前に突如失踪していたのだ。当時は交番勤務だった「特命捜査対策室」第6係（文書解読係）の夏目征也（宮世琉弥）も、守谷の妻・美和（奥貫薫）と娘・美里（田牧そら）から相談を受けていたという。&#13;&lt;br&gt;警視庁は、強行犯係と捜査二課の合同捜査本部を設置。鳴海理沙（鈴木京香）＆陸奥日名子（黒島結菜）ら6係も、遺体発見現場に落ちていたジュエリーショップのDMを手がかりに、捜査を進める。すると、守谷が同店を訪れ、外に向かって《謎の言葉》をつぶやいていたことが判明。向かいの喫茶店には、常連客の元捜査一課刑事・江崎邦雄（矢島健一）が来店していたことも分かるのだが…。&#13;&lt;br&gt;やがて理沙は、教授の娘をかたる人物が暗唱していたという《名作の一節》に着目。地面師詐欺と守谷の死、そして未解決事件が複雑に絡み合う、卑劣な事件の全貌に《意外な視点》から迫る！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epg7du6wgy"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprg5dmiqr</id>
     <title>孤独のグルメ Season5_[第3話 東京都杉並区西荻窪のラム肉のハンバーグと野菜のクスクス]</title>
