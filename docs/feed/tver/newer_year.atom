@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-28T11:03:43+09:00</updated>
+  <updated>2026-05-28T12:05:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epf5es6lm0</id>
+    <title>大好き！五つ子６_[第34回]</title>
+    <updated>2026-05-28T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子６
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月28日(木)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月11日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf5es6lm0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;様々なトラブルに見舞われ、帯広から西園寺（飯田基祐）のいる牧場まで歩くはめになった五つ子と美咲（前園りさ）、樹里（平本亜夢）。７人は一夜を幸福駅で明かした。翌日、初めのうちこそ調子よく歩いていたが、美穂（新穂えりか）の足が限界に来てしまった。置いていけという美穂に肩を貸し、一行は前へ進んでゆく。遂に牧場にたどり着いた７人は西園寺の名前を呼びながら牧場の中を歩き始めた。ちょうどその頃、良介（新井康弘）たちも牧場に到着しようとしていた…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf5es6lm0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwamwibcl</id>
     <title>イップス_[第10話 復讐は天チューにあらず]</title>
@@ -248,45 +288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprbdu585b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep23eps173</id>
-    <title>Oh,My Dad!!_[第8話 さよなら息子よ・・・母のもとへ旅立ちの朝]</title>
-    <updated>2026-05-26T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgf85aw7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ Oh,My Dad!!
-                &lt;a href="https://tver.jp/series/srxgf85aw7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月26日(火)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep23eps173.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;新海元一（織田裕二）は、ついに息子・光太（田中奏生）と一緒に過ごせる最後の日を迎える。翌日は、紗世子（鈴木杏樹）が迎えに来て、光太と共に長野に向かうことになっていた。早坂美月（長谷川京子）のマンションに居候していた一室は、既に片付けを済ませ、光太の荷物は長野へ送り、元一自身も独り暮らしのためアパートを借りるつもりでいた。&lt;br&gt;この日のため、元一は休みを取り、朝から光太のためにお弁当を作った。光太と一緒に、お別れのため保育園に行った後に、2人でアスレチックに行って遊び、夜はその施設内にある山小屋に泊まる計画を立てていた。&lt;br&gt;保育園では、光太がみんなの前であいさつをし、元一もお世話になった先生たちにお礼をする。子供たち同士ならではの、湿っぽさのない元気のよいお別れをした後、保育園を出ると、えりな（小林星蘭）が待っていて、光太にお別れのプレゼントを渡す。&lt;br&gt;お別れを済ませ、いよいよ楽しみにしていたアスレチックに向かう元一と光太。芝生スキー、サイクリング、さらにはバーベキューと、楽しみにしていることを話し合いながら盛り上がっているところに、岸田史顕（八嶋智人）から電話がかかってくる。&lt;br&gt;岸田によると、インターンシップ・プログラムの一環で出された課題で、元一が提出した事業改革案が採用されるかもしれないとのこと。元一の事情を知らず、すぐに会社に来て欲しいと言う岸田に、やむなく光太と共に出社することを決意する。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『Oh,My Dad!!』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep23eps173"/>
   </entry>
 </feed>
