@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-28T12:05:42+09:00</updated>
+  <updated>2026-05-28T14:06:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ept8k7u2hw</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第１５話「猶予」]</title>
+    <updated>2026-05-28T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月28日(木)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月04日(木)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月28日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept8k7u2hw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ボンヒの父の写真を見て、衝撃を受けるジウク。過去を調べ、改めてその事実を確認してしまったジウクは気持ちの整理をつけ、ボンヒとの交際を続けようとする。ボンヒは彼の態度に不安を覚えるが、ウニョクの火災事故の案件に関わり、その原因を知ることになる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ept8k7u2hw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep6wrvcpfo</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第３１話「一進一退の闘い」]</title>
@@ -1048,125 +1088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epobffq6xt"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epinnog72m</id>
-    <title>犬飼さんは隠れ溺愛上司_[#8 偽りの接近、本物の想い]</title>
-    <updated>2026-05-26T01:20:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvqwj0nt0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 犬飼さんは隠れ溺愛上司
-                &lt;a href="https://tver.jp/series/srvqwj0nt0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月26日(火)_01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月25日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epinnog72m.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                取材先での打ち上げ中、同僚・真木に不安を煽られ動揺する渚。酔ってしまった彼女に危険が迫るが、駆けつけた犬飼が守り抜く。皆の前で交際を宣言した犬飼のまっすぐな行動に、渚は彼の想いが本物だと確信する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epinnog72m"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmmdog5oi</id>
-    <title>share_[第6話 気づいていた事実]</title>
-    <updated>2026-05-26T01:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrvlrfses.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ share
-                &lt;a href="https://tver.jp/series/srrvlrfses" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月26日(火)_01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月02日(火)_01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月25日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmmdog5oi.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                はるのことで和哉から責められた理央は、シェアハウスには帰らず岩倉の家に居座る。5日経っても帰らず、心配したはるが理央の携帯に電話をかけると、出たのは岩倉だった。着替えを持って来るよう頼まれ家を訪ねると、そこで理央と岩倉がベッドで抱き合う姿を目撃してしまう。ショックでその場を飛び出すが、直後に和哉から電話を受け…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmmdog5oi"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3qe1dvml</id>
-    <title>多すぎる恋と殺人_[8話 待ち受ける衝撃の死]</title>
-    <updated>2026-05-26T00:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7208gcpq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 多すぎる恋と殺人
-                &lt;a href="https://tver.jp/series/sr7208gcpq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月26日(火)_00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月25日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3qe1dvml.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                新たな容疑者は、真奈美の元夫！？&lt;br&gt;警視庁捜査一課刑事・谷崎真奈美(森カンナ)の50人の恋人＝マイラブたちを狙った連続殺人事件に急展開！マイラブの毒殺に使われた薬品から、真奈美の元夫で探偵の桐生徹(青柳翔)の指紋が検出され、新たな容疑者に浮上…！警察は桐生の探偵事務所から荷物を次々と押収し、姿をくらました桐生の行方を追うが…。&lt;br&gt;一方、自首してきた神木譲(前田公輝)の取り調べは難航。桐生を救いたい真奈美は、後輩刑事・黒岩壮馬(西垣匠)と一緒に、神木が犯人である証拠をつかむために奔走するが…。&lt;br&gt;そんな中、桐生の押収物から、実行犯に送ったメールや凶器の購入履歴が見つかり、捜査一課管理官・高峰綾乃(桜井玲香)は桐生を『アイチャン』と断定！『アイチャン』の正体は本当に桐生なのか！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3qe1dvml"/>
   </entry>
 </feed>
