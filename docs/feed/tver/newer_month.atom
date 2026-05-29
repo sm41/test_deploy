@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-29T22:06:00+09:00</updated>
+  <updated>2026-05-30T00:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epd7d5pzo6</id>
+    <title>田鎖ブラザーズ_[ep.07]</title>
+    <updated>2026-05-29T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月05日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月29日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd7d5pzo6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;真（岡田将生）が市役所の福祉健康課の相談員・秦野小夜子（渡辺真起子）に、父・朔太郎（和田正人）たちが殺されてからの苦悩を打ち明けている最中、西浦綾香を交通事故死に見せかけて殺した容疑がかかっていた宇野孝道（山本浩司）が死亡した。&lt;br&gt;現場に駆けつけるや否や、稔（染谷将太）の話もろくに聞かず、宇野の死を自殺だと断言する真。いつものぶっきらぼうさとはまた違う、真の捜査に対する投げやりな態度を不審に思う稔と詩織（中条あやみ）。&lt;br&gt;真が小夜子と話した直後から様子がおかしいこと、そして直近で起きた３件の殺人事件の被疑者が全員小夜子のもとへ相談に訪れていたことから、稔たちは小夜子に殺人教唆の容疑をかけて捜査を進めることに。&lt;br&gt;そして、辛島金属工場と五十嵐組のつながりに関する情報が書かれていると思われる津田のノートが未だ見つからない中、ある人物が晴子（井川遥）のもとを訪れる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd7d5pzo6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuywiqdv5</id>
     <title>刑事、ふりだしに戻る_[6話 誘拐捜査で大ピンチ！]</title>
