@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-29T18:06:00+09:00</updated>
+  <updated>2026-05-29T20:06:00+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epju589qyp</id>
+    <title>SUPER RICH_[第10話 最終回直前！最後の裏切りか…空の覚悟]</title>
+    <updated>2026-05-29T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjl4xbh3h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ SUPER RICH
+                &lt;a href="https://tver.jp/series/srjl4xbh3h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月05日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epju589qyp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月25日(土) ～ 6月8日(月)&lt;br&gt;#2：5月2日(土) ～ 6月8日(月)&lt;br&gt;#3：5月9日(土) ～ 6月8日(月)&lt;br&gt;#4：5月11日(月) ～ 5月18日(月)&lt;br&gt;#5：5月14日(木) ～ 5月21日(木)&lt;br&gt;#6：5月17日(日) ～ 5月24日(日)&lt;br&gt;#7：5月20日(水) ～ 5月27日(水)&lt;br&gt;#8：5月23日(土) ～ 5月30日(土)&lt;br&gt;#9：5月26日(火) ～ 6月2日(火)&lt;br&gt;#10：5月29日(金) ～ 6月5日(金)&lt;br&gt;#11：6月1日(月) ～ 6月8日(月)&lt;br&gt;&lt;br&gt;氷河衛（江口のりこ）と春野優（赤楚衛二）の家に、桜（美保純）と良次（上島竜兵）が謝りに来た。しかし、優はもう工場をやめた方が良いと言い放ち、2人に金を渡して出て行ってしまう。&lt;br&gt;しばらくして優が家に帰ると、衛は話があると切り出す。2人は自分たち夫婦の今後について話し合い、ある結論に至る。&lt;br&gt;次の日、衛は『スリースターブックス』の仲間に体調のことを打ち明ける。すでにそのことを知っていた宮村空（町田啓太）以外、今吉零子（中村ゆり）や東海林達也（矢本悠馬）、鮫島彩（菅野莉央）たちは驚くものの話を受け入れる。衛は休養を取ることになり、優はCOOを続けることに。&lt;br&gt;その後、優は空に謝り、衛は今吉たちと食事へ行くなど、仲間たちの絆は一段と強まっているかのように思えた。しかし、碇健二（古田新太）は今後の自分の身の振り方を模索。一身に仕事を担っていた空も…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『SUPER RICH』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epju589qyp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppgacg106</id>
     <title>大好き！五つ子６_[最終回]</title>
@@ -2528,245 +2568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ephfjf6tr4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph7bsbqwa</id>
-    <title>山田太郎ものがたり_[第二話 潜入メイド大作戦]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9up5tnir.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 山田太郎ものがたり
-                &lt;a href="https://tver.jp/series/sr9up5tnir" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph7bsbqwa.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;#4：5月29日(金)0:00～6月6日(土)9:59&lt;br&gt;#5：6月2日(火)10:00～6月10日(水)9:59&lt;br&gt;#6：6月6日(土)10:00～6月14日(日)9:59&lt;br&gt;#7：6月10日(水)10:00～6月18日(木)9:59&lt;br&gt;#8：6月14日(日)10:00～6月22日(月)9:59&lt;br&gt;#9：6月18日(木)10:00～6月26日(金)9:59&lt;br&gt;#10：6月22日(月)10:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;セレブばかりが通う一ノ宮高校で女子生徒の人気を二分する太郎（二宮和也）と御村（櫻井翔）は、３年生で初めて同じクラスになった。太郎に興味を持った御村は山田家を訪れ、母の綾子（菊池桃子）と６人の弟妹に“おいしいお土産を持って来てくれるお兄ちゃん”として気に入られたようだ。高校では、太郎と御村の人気がさらに上昇！麗しの王子様ツーショットに隆子（多部未華子）は、今日も妄想を膨らませて、玉の輿願望がエスカレートしていた。そんなある日の放課後、太郎は野球場の前で呼び止められる。弟・次郎（鎗田晟裕）を野球チームに入れたいという監督からの勧誘だった。太郎は、野球好きな次郎をどうにかチームに入れてあげたいと思うが、ユニフォームなどを買うお金がない。翌日、太郎は御村にその事を相談。真剣に悩む太郎を見ながら、御村は山田家の家族の絆を感じ、羨ましく思う。御村は、家元である祖父・聖一（麿赤兒）に、自分の目指す前衛的な華道を受け入れてもらえず、それが元でお互いに気持ちがすれ違い、寂しい思いをしているのだ。そこで御村はあることをひらめき、太郎に御村家のハウスメイドになることを提案。３日間で５万円という高収入のアルバイトだ！！しかし、女性限定のため女装が条件。太郎は新人メイド“民子”として働くことを決意する。果たして、太郎は厳格な聖一のもとアルバイトを続ける事が出来るのだろうか？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph7bsbqwa"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph26tn5pb</id>
-    <title>魔王_[第１話「愛を捨てた復讐鬼－哀しき魔王」]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 魔王
-                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph26tn5pb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;#1-11：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;有能弁護士・成瀬領（大野智）は、弱者には無償で弁護を引き受け、“天使の弁護士”と呼ばれている。これは表の顔。成瀬の真の姿は、１１年前、弟を殺した犯人を追い詰めることに人生のすべてをかけた“冷徹な復讐鬼＝魔王”だったのだ。一方、芹沢直人（生田斗真）は、渋谷東署で検挙率No.１の熱血刑事。しかし、過剰なまでに悪を憎むあまり、行き過ぎた捜査でトラブルを起こすことでも有名。係長の中西弘道（三宅裕司）からたしなめられる毎日だ。&lt;br&gt;ある日、芹沢の元に宅配便が届いた。差出人は「雨野真実」。中には赤い封筒と１枚のタロットカードが入っている。なぜ自分に送られてきたのか？芹沢は、首をかしげる。&lt;br&gt;芹沢の父・栄作（石坂浩二）は政治家で実業家。芹沢とは何かと反発しあう。過去のとある事件が２人の確執の原因だった。栄作のホームパーティーで、兄・典良（劇団ひとり）から呼び出された芹沢は、父の顧問弁護士・熊田高広（森下哲夫）と久々に再会する。１１年前、例の事件の弁護をした人物だ。&lt;br&gt;翌日、熊田の死体が見つかり、芹沢は現場で自分に届いたものと同じタロットカードを発見した…。捜査の末、芹沢と相棒の高塚薫（上原美佐）が、タロットカードの出所であるカフェ「ガランサス」に向かうと、そこには中西係長の姿があった。店でアルバイトをしている咲田しおり（小林涼子）と知り合いで、彼女には特殊な能力があるらしい。&lt;br&gt;芹沢が捜査に執念を燃やす中、あざけるかのように、事件の容疑者・林邦夫（きたろう）が成瀬に付き添われ自首して来た。対峙する成瀬と芹沢。哀しい過去を背負った男たちの対決が、遂に幕を開ける…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph26tn5pb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgygsun22</id>
-    <title>花より男子2(リターンズ)_[第10話 消えた思い出]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr43rylmfe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 花より男子2(リターンズ)
-                &lt;a href="https://tver.jp/series/sr43rylmfe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgygsun22.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;#1-11：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;道明寺（松本潤）は、自分の目の前で死んだはずのケン内田（鶴見辰吾）の身に起こった出来事を聞き、衝撃を受ける。一方、道明寺との涙の別れを経て、つくし（井上真央）は漁村に出稼ぎに出た父親の晴男（小林すすむ）、母親の千恵子（石野真子）のもとを訪れる。そこで、両親が家賃も払えない状況だと聞いたつくしは、漁村で働き始めることに。そんな折、つくしは漁村の断崖絶壁で自殺しようとしている初老の紳士（山本學）と出会う。一方、ある決意を胸に漁村にやってきた道明寺は、思いがけない事故に巻き込まれてしまう。何とか一命を取りとめた道明寺のもとに、つくし、類（小栗旬）、西門（松田翔太）、美作（阿部力）がお見舞いにやってくるが、道明寺は記憶障害を起こし、なぜかつくしのことだけ完全に忘れてしまっていた。そんな中、道明寺の入院先で、つくしは中島海（戸田恵梨香）という女の子と仲良くなる。明るい性格で患者仲間の中でも人気の海は、道明寺に接近！道明寺に思い出してもらえないつくしは、気が気ではなく…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgygsun22"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgy999r1u</id>
-    <title>南くんの恋人（2004）_[第1話「彼女は身長16センチ」]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94w78b9y.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 南くんの恋人（2004）
-                &lt;a href="https://tver.jp/series/sr94w78b9y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgy999r1u.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                5/29（金）～#1-#3&#13;&lt;br&gt;6/ 8（月）～#4-#7&#13;&lt;br&gt;6/22（月）～#8-#11&#13;&lt;br&gt;&#13;&lt;br&gt;高校生カップルのちよみ（深田恭子）と南（二宮和也）は、偶然訪れた中華料理店で未来が見えるという“フォーチュンクッキー”を食べ、不思議な予言を受ける。そんな中、駅伝部に所属する南は、高校最後の大会で選手に抜擢されるが、走っている途中に急激な腹痛に見舞われ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgy999r1u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgtj27n68</id>
-    <title>バンビ～ノ！_[第6話　愛って何だろう]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwg1x7cq3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ バンビ～ノ！
-                &lt;a href="https://tver.jp/series/srwg1x7cq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgtj27n68.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-11　5/29(金)00:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;ホール担当になり2週間が経過したが、緊張のとけない伴(松本潤)。与那嶺(北村一輝)は「接客は愛だ」と言うが、伴にはその意味がよく分からない。あすか(香里奈)と妹尾(向井理)に相談すると、接客の技術的な未熟さを指摘され、特訓してもらえることに。自宅でも特訓し続けた伴は自信をつけ、野上(戸田恵子)の担当を自ら与那嶺に願い出て―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgtj27n68"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgckhtjx1</id>
-    <title>きみはペット_[10．楽園からの旅立ち]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4mym6spy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ きみはペット
-                &lt;a href="https://tver.jp/series/sr4mym6spy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgckhtjx1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;#1-10：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;最後の夜を迎えたスミレ（小雪）とモモ（松本潤）は、互いの存在の大きさに気づきペットと飼主という関係を越える。しかし、この先どうすべきか結論が出ないまま、ついに別れの時がやって来た。２人は笑顔で別れるも、胸の中はモヤモヤした気持ちでいっぱいだった。&lt;br&gt;そんな中、２人の関係を知った蓮實（田辺誠一）はモモと会い、互いにスミレへの思いを語りあう。そこでスミレとは別れないと言う蓮實だったが、内心ではスミレを許せていなかった。&lt;br&gt;一方、ハワイ旅行へ行く浅野（長塚京三）に空港で呼び止められたモモ。初対面ながら、自分だけの居場所が見つかるよう祈念されたモモは、迷わず空港を飛び出し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgckhtjx1"/>
   </entry>
 </feed>
