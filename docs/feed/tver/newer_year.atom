@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-31T00:05:44+09:00</updated>
+  <updated>2026-05-31T02:05:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epam1q7b09</id>
+    <title>湯遊ワンダーランド_[第8話 ヌシと涙の別れ…新たな刺客が登場！]</title>
+    <updated>2026-05-31T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr54oz00oi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 湯遊ワンダーランド
+                &lt;a href="https://tver.jp/series/sr54oz00oi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月31日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epam1q7b09.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                久しぶりになじみのサウナに行くきつこ（ともさかりえ）。ヌシ（大島蓉子）との再会を楽しみにしているが、いつもの指定席にヌシは現れない。何度行ってもヌシが来ることはなく、やがてその席には別の人が座ることに。新たにその座に就いた「新ヌシ」（高田聖子）から、ものすごい圧で話をされるきつこ。初めて水風呂に入るきっかけをくれたなど「旧」ヌシを懐かしみながら、一度ヌシの指定席に座ってみると…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epam1q7b09"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwlxgfcuq</id>
     <title>相棒 season23_[第11話「33人の亀山薫」]</title>
@@ -1528,125 +1568,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epygolhk49"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy8aqive8</id>
-    <title>魔王_[最終話「最後の対決 死が絆を引き裂く!!」]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0vipzme5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 魔王
-                &lt;a href="https://tver.jp/series/sr0vipzme5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy8aqive8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;#1-11：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;成瀬（大野智）の最後の復讐が幕を開けた…。再び芹沢（生田斗真）に赤い封筒が届き、中には同じタロットカードが２枚。つまり…次のターゲットは芹沢という意味だ。そこに薫（上原美佐）が血相を変えてやってきた。取り調べ中の典良（劇団ひとり）が、芹沢を呼んでいるらしい。葛西（田中圭）を助けた事で兄を任意連行することになってしまった芹沢はやり切れない思いでいっぱいだが、兄の言葉に心を少し落ち着かせる。しかしこの後、典良は思いもかけない行動を取るのだった…。その後、絶望の淵に落とされた芹沢を救いたいと、中西（三宅裕司）が成瀬に頭を下げた。「もう、芹沢を許してやって下さい」という中西の必死の言葉を聞いた成瀬は戸惑いを隠せない。&lt;br&gt;成瀬の復讐をやめさせたいしおり（小林涼子）は、成瀬を待ち伏せる。そして思いをぶつけるが、成瀬の返答はなく、無言で去る後ろ姿を見守るしかなかった。&lt;br&gt;そんな中、葛西が保釈される事に。それを知った山野（清水優）は激高し、成瀬に襲い掛かる。さらにその矛先は、葛西にも向かい…。一方、芹沢は自分の過去から始まった成瀬の復讐を自分の手で止めるために決断をする。芹沢が成瀬を１１年前の事件現場へ呼び出した。対峙する成瀬領と芹沢直人。２人の思いは交わることが出来るのか？そして、成瀬の復讐の目的が明らかになる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy8aqive8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy6m3eclb</id>
-    <title>ラッキーセブン_[第1話 新米探偵駿太郎 女ボスからの初ミッション！]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre8mw6xwl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ラッキーセブン
-                &lt;a href="https://tver.jp/series/sre8mw6xwl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy6m3eclb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;松本潤主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：05月29日(金) ～ 06月30日(火)&lt;br&gt;#4：06月01日(月) ～ 06月07日(日)&lt;br&gt;#5：06月04日(木) ～ 06月10日(水)&lt;br&gt;#6：06月07日(日) ～ 06月13日(土)&lt;br&gt;#7：06月10日(水) ～ 06月16日(火)&lt;br&gt;#8：06月13日(土) ～ 06月19日(金)&lt;br&gt;#9：06月16日(火) ～ 06月22日(月)&lt;br&gt;#10：06月19日(金) ～ 06月25日(木)&lt;br&gt;&lt;br&gt;フリーターの時多駿太郎（松本潤）は、高級ホテルで人妻の美香（松本若菜）との情事にふけっていた。帰り道ふいに肩を叩かれた駿太郎が振り返ると、男が美香の落としたスカーフを差し出してきた。駿太郎は、男に礼を言うとそれを美香に届けに走る。&lt;br&gt;数日後、駿太郎は突然美香に別れを告げられる。夫が探偵を雇い、ホテルでの密会写真を撮られたからだと言う。そんな時、駿太郎はホテルでスカーフを差し出した男に再会する。駿太郎は、男を追いかけ、「お前は探偵か！」と問い詰め、殴りかかるが男はそれをかわし逃げた。&lt;br&gt;「北品川ラッキー探偵社」の事務所に、息を切らしたその男が入ってきた。男の名は新田輝（瑛太）。そこには駿太郎の調査をしていた旭淳平（大泉洋）、水野飛鳥（仲里依紗）と、筑紫昌義（角野卓造）、事務員の茅野メイ（入来茉里）がいた。そして、筑紫が会議を始めようと言ったとき、飛鳥が新田の後ろを指差した。そこには、駿太郎が立っていた。事務所は大騒動となるなか、社長の藤崎瞳子（松嶋菜々子）が出てきた。駿太郎を見た瞳子はやがて、うちで働かないか、と言った。突然のスカウトに、駿太郎も探偵たちも唖然とするが、結局、探偵として雇われることになった。&lt;br&gt;駿太郎の最初の仕事は、探偵社の広告が入ったポケットティッシュ配りだった。淳平は大事な仕事だと言うが、駿太郎は面白くない。そんな折、松浦茉菜（緑友利恵）が兄を捜してほしいと事務所にやってきた。茉菜の兄の松浦拓巳（水橋研二）は元消防士で現場の指揮官だったが、事故で隊員が亡くなったことに責任を感じ、失踪したと言う。&lt;br&gt;その後、駿太郎たちは松浦が現れるという場所を見張り続けた。5日後、松浦の姿をとらえたが、松浦の顔は殴られたような跡があり傷だらけだった。松浦が入っていった古びた倉庫の中を新田が覗くと、そこには鉄骨のリングがあり男が殴り合い、周囲には盛り上がる観客がいた。新田は、デジカメを取り出しその様子を動画で撮影し始める。&lt;br&gt;後日、探偵社では、新田の撮った動画の分析をしていた。そして、瞳子の一言で倉庫への潜入捜査をすることになった。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ラッキーセブン』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy6m3eclb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy6iffu5d</id>
-    <title>最後の約束_[嵐が5人そろってドラマ主演！]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1qj4p7xt.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 最後の約束
-                &lt;a href="https://tver.jp/series/sr1qj4p7xt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy6iffu5d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                武装した男たちに占拠されたエネバイオ社の巨大ビル。1月9日午後3時、たまたまビルに居合わせた5人の男たち——。&lt;br&gt;清掃業者に勤める男・益子悟（大野智）は、年配の新人・飯尾晴夫（小堺一機）を押し付けられて四苦八苦していた。保険会社の男・富澤友紀夫（櫻井翔）は、ある女性を訪ねるため、この会社にやってきた。コーヒーショップの男・棚田昭（相葉雅紀）は、うっかり注文を間違えて配達。落ち込んでトイレにこもっていた。セキュリティーセンターの男・山際修司（二宮和也）は、優秀だが生意気な物言いで、新しい上司と攻防戦を繰り広げていた。バイク便の男・後藤望（松本潤）は、配達先の社長令嬢とトラブルになり揉めていた。そんな5人の男の日常が、ビルが占拠されたこの瞬間、変わってしまった・・・。&lt;br&gt;犯人グループの要求は、外出していた新見社長（津川雅彦）に3億円を持ってこさせること。制限時間は90分。もし身代金を持って社長が現れなければ、爆弾でこのビルを爆破すると言う——。ビルは最新ハイテク・セキュリティが張り巡らされており、警察やSATの侵入を阻む強固な城と化していた。一方、人質たちは、ビルの内部の防火扉のシャッターに阻まれ、軟禁状態に。&lt;br&gt;ただの身代金目的かと思われたこの犯罪だが、犯人グループはマスコミにも情報を公開。警察だけでなく、マスコミや野次馬もビルを取り囲み、2010年の年明け早々、前代未聞の劇場型ビルジャック事件へと事態は進展していく・・・。ひたすら恐怖の中で待機するしかない人質たち。金目的と思われた犯人の真の目的は？なぜ制限時間は90分なのか？謎はどんどん深まっていく——。そして、各フロアに散らばっている5人の男。清掃員の益子は、清掃中、天井裏にテログループが仕掛けた爆弾を発見。昔、空き巣をしていたという年配の新人とダクトをつたってビルの脱出を図るが・・・。保険会社の富澤は、訪れた女性社員・轟冬子（大塚寧々）の知られざる過去を知り、ともに人質救出に尽力するが・・・。コーヒーショップの棚田は、偶然トイレに居たためにテロ犯に見つからず、密かに刑事の諸角源二（北村有起哉）に情報を流し続けて・・・。セキュリティーセンターの山際は、個性的な上司・岡中進一郎（藤木直人）とともに、このビルジャックの中枢ともなるセキュリティーシステムをテロ犯の指示で操作させられてしまうが・・・。バイク便の後藤は、社長令嬢の新見有里子（黒木メイサ）がテロ犯に狙われているのを知り、一緒にビル内を逃げ回るはめに。しかし勝気な有里子に翻弄されて・・・。&lt;br&gt;1つのビルの中。それぞれの場所。それぞれの時間。この事件によって、ともに閉じ込められた人々との交流を通じ、しだいに明らかになっていく5人の男の人生模様——。&lt;br&gt;バラバラに見える5つのピースが集まるとき、そこには何が待っているのか！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy6iffu5d"/>
   </entry>
 </feed>
