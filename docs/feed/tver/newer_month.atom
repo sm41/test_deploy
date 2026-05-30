@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-30T16:05:44+09:00</updated>
+  <updated>2026-05-30T18:05:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epoktbnzro</id>
+    <title>十円易者と山頭火～村上桂山・人生訓～_[十円易者と山頭火～村上桂山・人生訓～]</title>
+    <updated>2026-05-30T16:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhxc11xkl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 十円易者と山頭火～村上桂山・人生訓～
+                &lt;a href="https://tver.jp/series/srhxc11xkl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月30日(土)_16時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_16時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月30日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 南海放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoktbnzro.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村上桂山(むらかみ・けいざん)は昭和１４年から昭和５１年まで松山の繁華街で手相占いをしていた実在の人物です。見料はわずか十円。いつしか『十円易者』と呼ばれるようになり、当時の松山の人々に親しまれていました。街頭易者である彼のもとへ訪れる客は毎日数百人にのぼったという人気ぶり。村上桂山とはどんな人物、何故そんなに多くの客が押し寄せたのか。さらに人生を達観したかのような独創的な句も魅力の一つです。「死なざれば 生まれた事が ウソになる」。自由律俳句の俳人・山頭火と俳句バトルを行うファンタジーな世界に誘います。昭和のあの頃、たった十円で得られた人生訓が松山の街角にありました。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epoktbnzro"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep2mk5om9q</id>
     <title>孤独のグルメ Season11_[第9話 レバステーキ定食]</title>
