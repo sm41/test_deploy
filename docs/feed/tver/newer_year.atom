@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-30T12:05:44+09:00</updated>
+  <updated>2026-05-30T14:05:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2088,45 +2088,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epska19t19"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsds2y99z</id>
-    <title>花より男子2(リターンズ)_[第２話 最強のライバル]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr43rylmfe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 花より男子2(リターンズ)
-                &lt;a href="https://tver.jp/series/sr43rylmfe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsds2y99z.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;#1-11：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;道明寺（松本潤）の誕生会に楓（加賀まりこ）から招待されたつくし（井上真央）は、道明寺の婚約者・大河原滋（おおかわはらしげる／加藤夏希）の突然の登場に度肝を抜かれる。滋は世界一の石油王・大河原財閥の令嬢だというが、壇上でピアノを弾きながら即興で歌い出したりと、かなり破天荒な女の子だ。そんな中、なぜか道明寺は滋の手を取って、会場を抜け出してしまう。滋は、自分中心な道明寺に反発しながらも、惹かれていくのだった。ある日、英徳学園に現れた滋は、道明寺とつくしの前で、道明寺と交際宣言！つくしに道明寺のことを色々教えてほしいという滋は、つくしの家に上がり込んだり、バイト先に押しかけてきたり…すっかりつくしに心を開いている様子。一方、道明寺は滋との婚約には何か裏があることに感づいていた。そして、つくしが急接近する花沢類（小栗旬）にどぎまぎしていた頃、西門（松田翔太）、美作（阿部力）は滋の気を引いて道明寺から遠ざけようと画策するが…。西門、美作に励まされたつくしは、ある決意を胸に、道明寺に連絡を取ることに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsds2y99z"/>
   </entry>
 </feed>
