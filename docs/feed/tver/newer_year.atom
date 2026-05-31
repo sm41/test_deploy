@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-05-31T10:05:44+09:00</updated>
+  <updated>2026-05-31T13:26:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1368,45 +1368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epzz3tgvgd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzt6m4kwy</id>
-    <title>花より男子_[＃８ いざ女子高生日本一決定戦]</title>
-    <updated>2026-05-29T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr43rylmfe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 花より男子
-                &lt;a href="https://tver.jp/series/sr43rylmfe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzt6m4kwy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ------------&lt;br&gt;#1-9：5月29日(金)0:00～6月30日(火)23:59&lt;br&gt;------------&lt;br&gt;つくし（井上真央）は、道明寺（松本潤）から「ビルの屋上に来い」と電話で呼び出されるが、晴男（小林すすむ）がリストラされたと聞いてショックを受け、それどころではない。その上、晴男が５００万円の借金を作ってしまい、家にガラの悪い男たちが取り立てに来る始末。つくしに天体望遠鏡で土星を見せてあげようと思っていた道明寺は、そんな事情を全く知らず、電話にも出ないつくしに怒り心頭。一方、父親の再就職もままならず、借金を返すために休学届を出してアルバイトに励むつくしは、花沢類（小栗旬）から、裏で道明寺の母・楓（加賀まりこ）が動いているかもしれないと聞き、楓のオフィスに押しかけ啖呵を切る。そこで、椿（松嶋菜々子）の提案で、つくしは日本一の女子高生を決めるミスコン・TOJ（ティーンオブジャパン）に出場することに。優勝賞金の５００万円で借金を返済し、つくしと道明寺の交際を楓に認めさせようというのだ。ダメモトでTOJに挑むつくしは、F４から礼儀作法、語学、楽器などの猛特訓を受ける。その頃、楓は…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epzt6m4kwy"/>
   </entry>
 </feed>
