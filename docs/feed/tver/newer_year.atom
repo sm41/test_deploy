@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-01T00:06:30+09:00</updated>
+  <updated>2026-06-01T02:05:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppguw59hz</id>
+    <title>セレブ男子は手に負えません_[#6　突然のプロポーズ]</title>
+    <updated>2026-06-01T00:40:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr03ekpz5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ セレブ男子は手に負えません
+                &lt;a href="https://tver.jp/series/srr03ekpz5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月27日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppguw59hz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                シオン（鈴木康介）とルカ（井手上漠）がかつての部下に襲われ、ルカがナイフで切り付けられた。&lt;br&gt;これまで、部下に対して厳しく接してきたシオンは、多くの恨みをかっていたことを思い知り、塞ぎ込んでしまう。ルカのことを心配しながらもシオンのことが気にかかってしまうひかる（若月佑美）。そんな中、彰人（中尾暢樹）はひかるに「僕との結婚、考えてみてくれないか」と意を決した表情でまさかの告白…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppguw59hz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epw1ca0r9p</id>
     <title>鍵のかかった部屋_[第4話 先入観殺人！被害者はスパイダーマン！？]</title>
