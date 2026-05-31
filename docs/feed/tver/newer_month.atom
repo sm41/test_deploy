@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-05-31T20:06:30+09:00</updated>
+  <updated>2026-05-31T22:06:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppwzw1997</id>
+    <title>ＧＩＦＴ_[第８話 決戦前夜ー星空の下の熱き誓い]</title>
+    <updated>2026-05-31T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＧＩＦＴ
+                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_05月31日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月31日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppwzw1997.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;以前、ブラックホールに関する研究を伍鉄（堤真一）に完全否定され闇に落とされたポストドクター（博士研究員）の宗像桜（宮﨑優）が、伍鉄の行為を雑誌社に訴えた。人香（有村架純）は記事を取り下げるよう宗像に頼むが、伍鉄がブルズを辞めることが条件だと言われる。&lt;br&gt;同じ頃、涼（山田裕貴）は練習に集中できないでいた。医師からある病気の可能性を告げられたためだ。さらに、キャサリン（円井わん）は出産の夢と車いすラグビー継続の間で心が揺れ、圭二郎（本田響矢）は谷口（細田佳央太）には及ばない自身のパフォーマンスに悔しさをにじませる。&lt;br&gt;それぞれの前にたちはだかる困難。彼らはどう乗り越えるのか…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eppwzw1997"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy61naf0j</id>
     <title>よくおごってくれる綺麗なお姉さん_[第15話]</title>
@@ -888,45 +928,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptxzgdhl4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgf4veenh</id>
-    <title>惡の華_[第8話]</title>
-    <updated>2026-05-29T00:30:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 惡の華
-                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_05月29日(金)_00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月05日(金)_00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月28日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgf4veenh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                仲村（あの）のかつてない激白により、これからの人生を捨てる決意をする春日（鈴木福）。夏祭り当日、櫓の上で、1本の包丁を2人で持ち、大衆に突き出し叫び始める。警察が駆けつけるも、恍惚な表情で群衆を見下ろし、全身に灯油をかぶり、溜め込んだ思いを絶叫し続ける。ライターを持ち決意を固めた時に、春日が見た景色は、そして仲村が見た景色とは…。壮絶な中学編が終幕を迎える。　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgf4veenh"/>
   </entry>
 </feed>
