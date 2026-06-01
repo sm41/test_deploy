@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-01T18:06:35+09:00</updated>
+  <updated>2026-06-01T20:05:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep3zdu36mw</id>
+    <title>SUPER RICH_[第11話 社長退任！？最後に分かる幸せのカタチ]</title>
+    <updated>2026-06-01T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjl4xbh3h.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ SUPER RICH
+                &lt;a href="https://tver.jp/series/srjl4xbh3h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月08日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3zdu36mw.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：4月25日(土) ～ 6月8日(月)&lt;br&gt;#2：5月2日(土) ～ 6月8日(月)&lt;br&gt;#3：5月9日(土) ～ 6月8日(月)&lt;br&gt;#4：5月11日(月) ～ 5月18日(月)&lt;br&gt;#5：5月14日(木) ～ 5月21日(木)&lt;br&gt;#6：5月17日(日) ～ 5月24日(日)&lt;br&gt;#7：5月20日(水) ～ 5月27日(水)&lt;br&gt;#8：5月23日(土) ～ 5月30日(土)&lt;br&gt;#9：5月26日(火) ～ 6月2日(火)&lt;br&gt;#10：5月29日(金) ～ 6月5日(金)&lt;br&gt;#11：6月1日(月) ～ 6月8日(月)&lt;br&gt;&lt;br&gt;氷河衛（江口のりこ）は、島谷聡美（松嶋菜々子）から『MEDIA』社が『スリースターブックス』にTOB（敵対的買収）を仕掛けるという連絡を受ける。しかも、TOB後は宮村空（町田啓太）を『スリースターブックス』のCEOに据えると言うのだ。衛は優（赤楚衛二）とともに空に会って真偽を問う。すると空は、自分も「やりたいことをやってみたくなった」と告げる。&lt;br&gt;衛と優は、今吉零子（中村ゆり）、東海林達也（矢本悠馬）、鮫島彩（菅野莉央）たち役員を集めて事情を話す。聡美が2年前から用意周到に空のヘッドハンティングを開始したこと、『MEDIA』が欲しいのは『スリースターブックス』が持つ作品と作家のライセンスだけで、空以外の社員は不要になってしまうこと、さらに、潤沢な資金でTOBを仕掛ける『MEDIA』に対抗することは困難を極めることも…。それでも、衛は社員たちを守るために『MEDIA』の買収に対抗して、友好的に買収・合併してくれる相手を探すことになり…。&lt;br&gt;一ノ瀬亮（戸次重幸）から始まり仲間に裏切られ続けた衛だが、優たちと上場にまで押し上げた『スリースターブックス』に最後の引導を渡すのは空と聡美になってしまうのか？波乱の物語が完結！&lt;br&gt;&lt;br&gt;【FODプレミアムでは『SUPER RICH』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3zdu36mw"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyr0lsvxq</id>
     <title>３年Ａ組―今から皆さんは、人質です―_[第1話]</title>
@@ -2088,45 +2128,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eptgh6cncp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epross19rk</id>
-    <title>謎解きはディナーのあとで_[第4話 花嫁は密室の中でございます！！]</title>
-    <updated>2026-06-01T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5kvaxqv2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 謎解きはディナーのあとで
-                &lt;a href="https://tver.jp/series/sr5kvaxqv2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月07日(日)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epross19rk.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★ARASHI COLLECTION 開催記念！★&lt;br&gt;櫻井翔主演の名作ドラマがTVerで待望の復活！&lt;br&gt;&lt;br&gt;【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：05月29日(金) ～ 06月30日(火)&lt;br&gt;#4：06月01日(月) ～ 06月07日(日)&lt;br&gt;#5：06月04日(木) ～ 06月10日(水)&lt;br&gt;#6：06月07日(日) ～ 06月13日(土)&lt;br&gt;#7：06月10日(水) ～ 06月16日(火)&lt;br&gt;#8：06月13日(土) ～ 06月19日(金)&lt;br&gt;#9：06月16日(火) ～ 06月22日(月)&lt;br&gt;#10：06月19日(金) ～ 06月25日(木)&lt;br&gt;&lt;br&gt;影山（櫻井翔）は、友人の沢村有里（小林涼子）の結婚パーティーに招かれた宝生麗子（北川景子）のお供。沢村家の屋敷で行われるパーティーには風祭京一郎警部（椎名桔平）も招かれていた。しかし、風祭はメガネを外したお嬢様姿の麗子が自分の部下だと気付くこともなく、恋をしてしまう始末。&lt;br&gt;さてこの日の主役、有里の結婚相手、細山照也（湯江健幸）は花嫁よりずいぶん年上。麗子がこのギャップに疑問を感じていると有里の弟、佑介（若葉竜也）が妹、美幸（村崎真彩）の制止も聞かず、沢村家の財産目当てだと話しかけてきた。佑介によると、もともとこの屋敷は在園寺家のものだったが没落してしまい、琴江（手塚理美）という老齢の当主では維持できず、遠い親戚である有里の母親、孝子（栗田よう子）に援助を求めてきた。その代わりに、屋敷には沢村家の面々が住むことになったという。細山は在園寺家の財産狙いで顧問弁護士をしていたが、金がないと分かると沢村家に近づき、有里との結婚までこぎつけたと佑介は続けた。&lt;br&gt;パーティーの最中、有里の部屋から悲鳴が。麗子が駆けつけると屋敷の執事、吉田（森本レオ）が必死にドアを開けようとしているが鍵がかかっている。吉田が合鍵でドアを開けると背中にナイフが刺さった有里が倒れていた。幸い有里の命に別状はなかったのだが・・・。麗子は未だに部下だと気付かない風祭の迷推理で容疑者とされてしまう。容疑者にされた麗子の必死の推理も見当外れで影山に観察力不足をまた指摘される。&lt;br&gt;&lt;br&gt;「失礼ながらお嬢様、このまま逮捕あそばされ、少々反省していただけますか？」&lt;br&gt;&lt;br&gt;主人のピンチに影山が毒舌とともに解く謎とは？&lt;br&gt;&lt;br&gt;【FODプレミアムでは『謎解きはディナーのあとで』をスピンオフ含め全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epross19rk"/>
   </entry>
 </feed>
