@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-01T11:06:35+09:00</updated>
+  <updated>2026-06-01T12:06:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ephj3kj7y4</id>
+    <title>戦神~MARS~_[第5話　秘められた過去]</title>
+    <updated>2026-06-01T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 戦神~MARS~
+                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_12月01日(火)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月1日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephj3kj7y4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                停学処分を受けた樫野零がこのまま学校に戻らないのではと不安になる麻生キラ。キラは倉沢から母子のデッサンを取り戻し、零のアパートを訪ねる。そこで零は、幼い頃に母を亡くした過去を語る。気分転換に街へ出た二人だったが、零は突然、見知らぬ人物に「聖」と呼び止められる。零はキラに、聖は双子の弟で2年前に亡くなったことを打ち明ける…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephj3kj7y4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephd94amor</id>
+    <title>華麗なるスパイス_[第1話 カレーの世界は甘くない]</title>
+    <updated>2026-06-01T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 華麗なるスパイス
+                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_12月28日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月31日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephd94amor.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                若くしてフレンチの名店「ラ・ミュール」を率いる冷徹な天才シェフの霍廷恩(フオ・ティンエン)。彼は店の看板メニューである「カレー伊勢えび」を模倣した“格安バーガー”が、夜市で大評判だという噂を耳にする。その正体は、活気あふれる夜市で「女王」と親しまれる凄腕料理人 衛芬青(ウェイ・フェンチン)の店だった。そこへ身分を隠した廷恩が現れ、彼女の作ったカレーえびバーガーを酷評する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephd94amor"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eprc887uta</id>
     <title>雲之羽～揺らめく愛、刹那の二人～_[第３２話「無量流火の行方」]</title>
