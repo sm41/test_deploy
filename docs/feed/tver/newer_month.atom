@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-02T22:05:26+09:00</updated>
+  <updated>2026-06-03T00:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epk8wrswhr</id>
+    <title>その結婚、正気ですか？_[第1話「結婚も恋愛もお先真っ暗です。」]</title>
+    <updated>2026-06-03T00:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxw47iyfh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ その結婚、正気ですか？
+                &lt;a href="https://tver.jp/series/srxw47iyfh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_08月05日(水)_00時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月2日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk8wrswhr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                住宅設計の仕事をする篠原奏音・33歳（岡本玲）は今日も「夢のマイホーム」実現のお手伝い。人の家の設計はするものの、自分の家どころか人生設計さえできていないことに焦りを感じる日々。そんな中、シェアハウスの同居人・のんちゃん（薄幸）から婚活パーティー参加の誘いを受ける。半信半疑で参加することになった奏音は、なかなか馴染むことができない。そこへ、地味な背広で眼鏡をかけた年下の男・城咲マコト・28歳（長妻怜央）に遭遇する。少し話してみるものの、その日はからかわれたような気分で帰途につく。翌日、奏音に知らない番号から電話がくる。それは、あの城咲からだった！そして、奏音は城咲から驚きの提案を受ける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epk8wrswhr"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephuj7pa4g</id>
+    <title>早坂架威のごっこ倶楽部TV_[「カモミールティー」前編]</title>
+    <updated>2026-06-02T22:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcb3t38u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 早坂架威のごっこ倶楽部TV
+                &lt;a href="https://tver.jp/series/srfcb3t38u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月02日(火)_22時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月02日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月2日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 福島中央テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephuj7pa4g.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                今夜はこれまでとうってかわって&lt;br&gt;サスペンスの世界へ…&lt;br&gt;モラハラ、パワハラを続ける夫がいながら&lt;br&gt;絶対に離婚しないと決めた妻の真意とは…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ephuj7pa4g"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epn6kygs1o</id>
+    <title>時すでにおスシ!?_[第９話【思いを込めて握りマグロう！】]</title>
+    <updated>2026-06-02T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 時すでにおスシ!?
+                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月02日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月09日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月2日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn6kygs1o.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【6月9日いよいよ最終回】お気に入り登録で見逃さない！&lt;br&gt;鮨アカデミーの授業はついに最終段階に突入。&lt;br&gt;集大成として、実際にお客様を相手に鮨を振る舞う“カウンター試験”の日が近づいていた。試験に向け、みなと（永作博美）たちは客役と握る役に分かれ実習に励む。試験の日を前に、大江戸（松山ケンイチ）から鮨を握る技術はもちろんだが、「人に真正面から向き合う仕事でもある」と教えられた胡桃（ファーストサマーウイカ）は、「先生にとって印象に残っているお客さんはいましたか？」と尋ねる。大江戸は“ある人物”のことを思い浮かべるが多くは語らなかった——。&lt;br&gt;そしていよいよ迎えたカウンター試験当日。円陣を組み、士気をたかめる大江戸クラス。それぞれの想いで鮨を握っている中、ある人物が鮨アカデミーを訪ねてきて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epn6kygs1o"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu1u2it18</id>
     <title>リボーン ～最後のヒーロー～_[第8話 悲劇を止めろ！迎える商店街の終焉！]</title>
@@ -688,85 +808,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epkx2ondth"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephj3kj7y4</id>
-    <title>戦神~MARS~_[第5話　秘められた過去]</title>
-    <updated>2026-06-01T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 戦神~MARS~
-                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_12月01日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月1日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephj3kj7y4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                停学処分を受けた樫野零がこのまま学校に戻らないのではと不安になる麻生キラ。キラは倉沢から母子のデッサンを取り戻し、零のアパートを訪ねる。そこで零は、幼い頃に母を亡くした過去を語る。気分転換に街へ出た二人だったが、零は突然、見知らぬ人物に「聖」と呼び止められる。零はキラに、聖は双子の弟で2年前に亡くなったことを打ち明ける…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephj3kj7y4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephd94amor</id>
-    <title>華麗なるスパイス_[第1話 カレーの世界は甘くない]</title>
-    <updated>2026-06-01T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_12月28日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月31日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephd94amor.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                若くしてフレンチの名店「ラ・ミュール」を率いる冷徹な天才シェフの霍廷恩(フオ・ティンエン)。彼は店の看板メニューである「カレー伊勢えび」を模倣した“格安バーガー”が、夜市で大評判だという噂を耳にする。その正体は、活気あふれる夜市で「女王」と親しまれる凄腕料理人 衛芬青(ウェイ・フェンチン)の店だった。そこへ身分を隠した廷恩が現れ、彼女の作ったカレーえびバーガーを酷評する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ephd94amor"/>
   </entry>
 </feed>
