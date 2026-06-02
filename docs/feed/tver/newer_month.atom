@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-02T02:06:35+09:00</updated>
+  <updated>2026-06-02T11:20:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epw9un2szs</id>
+    <title>雲之羽～揺らめく愛、刹那の二人～_[第３３話（最終回）「争いの果て」]</title>
+    <updated>2026-06-02T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwq6x0t0u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 雲之羽～揺らめく愛、刹那の二人～
+                &lt;a href="https://tver.jp/series/srwq6x0t0u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月02日(火)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月16日(火)_10時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月2日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw9un2szs.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                邪術に魅せられた宮喚羽に立ち向かう宮子羽と雲為衫。宮尚角や宮遠徴、雪重子らも加勢する。彼らが争っている隙に上官浅は無量流火の図面を持ち去ってしまう。阻もうとする宮尚角に何やら耳打ちをして上官浅は去っていく。静けさを取り戻した宮門では宮子羽が各地の知者や豪傑に当てて江湖の平穏を取り戻すべく使者を送る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epw9un2szs"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep3pwel4sk</id>
+    <title>クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２_[第6話]</title>
+    <updated>2026-06-02T03:05:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpc9l1j0q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２
+                &lt;a href="https://tver.jp/series/srpc9l1j0q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月02日(火)_03時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_03時04分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月1日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3pwel4sk.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                フィリピンは鬼月（ゴースト･マンス）の期間に入り、禁忌を破ったアレックスは赤い上着を着た男に付きまとわれるように。それは経営する工場の爆発で１年前に不慮の死を遂げたアイヴァンという男だった。アイヴァンが現れる理由を探るため、アレックスは彼の母親に接近。母親はアイヴァンが、元仕事仲間であり彼の元妻と結婚したジョシュアに殺されたと主張する。ジョシュアを尾行したアレックスは、怪しい取引現場を目撃する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep3pwel4sk"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep4h73wica</id>
     <title>スモークブルーの雨のち晴れ_[第９話・雨宿り、寄り添うこと]</title>
