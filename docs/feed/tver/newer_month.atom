@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-03T20:05:18+09:00</updated>
+  <updated>2026-06-03T22:06:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep6a50091q</id>
+    <title>ボーダレス～広域移動捜査隊～_[第8話 走る身代金]</title>
+    <updated>2026-06-03T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
+                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6a50091q.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ついにクライマックス！&#13;&lt;br&gt;警察官の妻が誘拐され、犯人は身代金1億円の運搬役に【一番星】を指名する。&#13;&lt;br&gt;非通知の発信者から突然の指示を受け、目的地へ向かう赤瀬則文（井ノ原快彦）たち。&#13;&lt;br&gt;しかし警察の動きを読んだ犯人からの指示は次々と変わり、逆探知もAI解析も出来ぬまま、移動捜査課は翻弄されるばかりだった！&#13;&lt;br&gt;犯人との通話を解析していた天尾美青（優香）は、ある事実に目を付け、“ある人物”に会いに行く。&#13;&lt;br&gt;やがて、犯人から「霞が関の警察庁庁舎へ行け」と指示が。しかしその報告を受けた官房審議官の赤瀬心悟（筒井道隆）は「阻止しろ！」と声を荒げ…。&#13;&lt;br&gt;犯人の目的が明らかになる時、赤瀬兄弟に隠された秘密をはじめ、次々と衝撃の真実が明らかになる！そして驚くべき誘拐犯の正体とは!?&#13;&lt;br&gt;さらにラスト、移動捜査課メンバーが狙撃されるという悲劇が襲う！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep6a50091q"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1m0dm7ze</id>
     <title>孤独のグルメ Season5_[第6話 東京都目黒区大岡山の九絵定食となめろう冷茶漬け]</title>
