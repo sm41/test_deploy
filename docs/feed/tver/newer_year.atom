@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-04T10:05:28+09:00</updated>
+  <updated>2026-06-04T12:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epi5wyoo2j</id>
+    <title>大好き！五つ子Ｇｏ！！_[第４回]</title>
+    <updated>2026-06-04T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 大好き！五つ子Ｇｏ！！
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月04日(木)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月18日(木)_11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi5wyoo2j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;バラバラになりつつある家族に気付いた良介（新井康弘）は、週１回は家族そろって夕飯を食べると宣言する。その第１回目、紀香（永岡真実）、美穂（笹岡莉紗）、慎吾（山内秀一）、剛（鈴木藤丸）はどうにか食卓に着くが、拓也（栁澤貴彦）だけは遅く帰ってくる。図書館で勉強していたという拓也は良介に叱られ、父さんみたいに平凡な人生は送りたくないと言ってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi5wyoo2j"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzykbbrot</id>
     <title>フリーター、家を買う。_[第5話 生きてる世界が違うって何だよ・・・]</title>
@@ -608,45 +648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1h649sgg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8am6907e</id>
-    <title>その着せ替え人形は恋をする_[#6「伝わらない恋心」《ドラマイズム》]</title>
-    <updated>2026-06-02T03:15:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3zi3hn15.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ その着せ替え人形は恋をする
-                &lt;a href="https://tver.jp/series/sr3zi3hn15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月02日(火)_03時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月09日(火)_03時14分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8am6907e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                夏休みに入った新菜（野村康太）と海夢（永瀬莉子）。新菜は本格的に頭師の修行に精を出すことに。海夢も新菜を邪魔しないよう、バイトに励んでいた。新菜に対して好きな気持ちが高まる海夢に対し、新菜は海夢の気持ちなど全く知らない様子。それよりも頭師の修行に苦戦し、精神的に行き詰まっていた。そんな新菜の息抜きになればと、海夢は新菜を買い物へ誘う。買い物の途中、海夢の好きな“リズきゅん”のコスプレ衣装を作ることにした新菜は衣装作りを再開。衣装の試着は、海夢の家でやることに。初めて訪れる海夢の家に緊張しっぱなしの新菜。試着でテンションの上がった２人は、そのまま撮影会もすることに。良い写真を撮影しようと熱中してしまい、知らぬ間に２人はベットの上で密着していて―。するとそこに、海夢の父親が帰宅してきてしまい…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8am6907e"/>
   </entry>
 </feed>
