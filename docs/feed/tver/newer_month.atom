@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-05T12:06:25+09:00</updated>
+  <updated>2026-06-05T14:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcwycoop6</id>
+    <title>あやしいパートナー ～Destiny Lovers～_[第１８話「復帰」]</title>
+    <updated>2026-06-05T14:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf49emi91.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ あやしいパートナー ～Destiny Lovers～
+                &lt;a href="https://tver.jp/series/srf49emi91" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月05日(金)_14時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月12日(金)_14時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月5日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcwycoop6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                姿を消したヒョンスはボンヒに襲いかかるが、ジウクはヒョンスを捕まえる。しかし、彼に刺され倒れたジウクは、幼い頃の記憶を思い出す。悩むジウクだったが、意を決してボンヒに打ち明ける。一方ウニョクは、倒れたユジョンを心配し、何かと気にかけるが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcwycoop6"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epjq4pzfzz</id>
+    <title>最後の雨が降るとき_[第15話　夢は雲のごとく]</title>
+    <updated>2026-06-05T13:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq80q0meu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 最後の雨が降るとき
+                &lt;a href="https://tver.jp/series/srq80q0meu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月05日(金)_13時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月05日(日)_13時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月5日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjq4pzfzz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                “時の幻影”の中で雨神(オラド)が消える映像を見た天娣(ティエンディ)は、理由を探るため雲神(トエム)を呼び出し、それを阻止できないか尋ねる。雲神は天娣にこれまでの幻影を見せ、雨神との出来事、彼女の思いを話して聞かせる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epjq4pzfzz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep29l8ghsz</id>
     <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第9話]</title>
