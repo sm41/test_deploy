@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-05T02:05:41+09:00</updated>
+  <updated>2026-06-05T11:09:35+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep29l8ghsz</id>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第9話]</title>
+    <updated>2026-06-05T02:50:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月05日(金)_02時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月12日(金)_02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月4日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep29l8ghsz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                スティーブの呼びかけで、マッコムの社員たちは、突然、社員旅行に行くことに。投資承認を目前に控えた重要な時期に、なぜ旅行を企画したのか・・・。不審に思ったアシュリーはスティーブに問いただすが、彼は本当の理由を語ろうとしない。社員たちがゲームや酒を楽しむ中、スティーブは普段通りに振る舞いながらも、胸の内では、何かを探ろうとしていた。旅行の裏に隠されたスティーブの真の目的とは・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep29l8ghsz"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epttlam6ig</id>
     <title>ネタジョ_[第6話「金属バット」《ドラマフィル》]</title>
@@ -448,365 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epvr1alja9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplxcul75l</id>
-    <title>L&amp;P_[第35話　運命を変える]</title>
-    <updated>2026-06-04T08:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ L&amp;P
-                &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月04日(木)_08時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月04日(土)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplxcul75l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                李峋(リー・シュン）は突如L&amp;Pへの告訴を取り下げる。それは、高見鴻(ガオ・ジエンホン）が朱韻(ジュー・ユン）を貶めるための動画を作成していたからだった。朱韻は自ら公開し、驚いた李峋は彼女の元へ駆けつけ気持ちを告げる。その後、二人は見鴻に会いに向かうが、行く手にはまだ試練が待っていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplxcul75l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjz4sdhbw</id>
-    <title>サレタ側の復讐～同盟を結んだ妻たち～_[第10話 生徒に手を出すふしだら講師を成敗]</title>
-    <updated>2026-06-04T01:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbnoj3c2k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ サレタ側の復讐～同盟を結んだ妻たち～
-                &lt;a href="https://tver.jp/series/srbnoj3c2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月04日(木)_01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月11日(木)_01時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjz4sdhbw.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                佳乃（篠田麻里子）の更なる暴走を止めるため、奈津子（水崎綾女）と麗奈（矢吹奈子）は、渋々佳乃の復讐に協力することに。最後の標的となる将生（落合モトキ）への復讐は、これまでの義隆（二階堂高嗣）、樹（髙松アロハ）への復讐を踏襲した集大成。佳乃の緻密な計画のもと、奈津子と麗奈は将生の職場である研究室に潜入し、隠しカメラを設置する。そして、無事に捉えた証拠映像を利用して、佳乃はある作戦を仕掛け、将生を社会的破滅に追い込む…!?　［期間限定無料配信］　毎週水曜深夜1時からテレビ東京にて放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epjz4sdhbw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiztznypp</id>
-    <title>水曜日、私の夫に抱かれてください_[第10話 サレ妻爆発！崩壊ビンタ]</title>
-    <updated>2026-06-04T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srki02kaw8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 水曜日、私の夫に抱かれてください
-                &lt;a href="https://tver.jp/series/srki02kaw8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月04日(木)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月11日(木)_00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiztznypp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                神栖（稲葉友）に衝撃の事実を告げられた上、思い出の品々を壊された蓉子（菅井友香）は、呆然自失の中、八溝（濱田龍臣）からの連絡で出社する。残業後、二人は図らずも蓉子が神栖と初めて出会ったラーメン屋を訪れるが、八溝の素直な明るさに心を開いた蓉子は八溝を自分の部屋に招き入れる。また別の日、神栖家を訪ねた蓉子は怜（入山法子）との会話の中で、ついにある核心的な疑惑について触れてしまうのだが、怜の反応は…。　［期間限定無料配信］　毎週水曜深夜24時30分からテレビ東京にて放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiztznypp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy5qd7yjq</id>
-    <title>鬼女の棲む家_[最終話 鬼女の棲む家]</title>
-    <updated>2026-06-04T00:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhtnz3pig.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 鬼女の棲む家
-                &lt;a href="https://tver.jp/series/srhtnz3pig" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月04日(木)_00時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy5qd7yjq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                『鬼女だけは敵に回してはいけない』—— 有名人の不祥事をインターネットに潜むわずかな情報から見つけ出し、世に晒して炎上へと追い込む情報社会の鬼 “鬼女”。&lt;br&gt;しかし、その刃の先が自分の家族に向けられた時、鬼は一体、何を思うのだろうか？&lt;br&gt;夫・透（竹財輝之助）の家族への裏切り、娘・咲良（熊井戸花）の音楽プロデューサーへの枕営業、引きこもりの息子・歩夢（三浦綺羅）の奇行、そして明香里（石田ひかり）の鬼女活動が、次々に明らかになり幸せな家族の仮面が剥がれた星野家。お互いを罵り合い醜く争い崩壊していく姿は生配信でネットに晒され世の笑いものとなってしまう。そんな折、星野家に訪問者が…。家族の醜態が切り抜かれ炎上が拡大する中、訪問者がやってきた目的とは？それは救いか、それとも、最後の断罪か。一度、晒されたら消すことは出来ないデジタルタトゥーという“現代社会の生き地獄”。令和のサイコホラー寓話、最終章 ・後編。&lt;br&gt;&lt;br&gt;★TVerお気に入り登録をよろしくお願いします！&lt;br&gt;【中京テレビ・日本テレビ系全国ネット 毎週水曜24時24分～放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epy5qd7yjq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph4s0l2l9</id>
-    <title>102回目のプロポーズ_[第9話 愛と友情と涙のバースデー]</title>
-    <updated>2026-06-03T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 102回目のプロポーズ
-                &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_23時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph4s0l2l9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                音（伊藤健太郎）に残された日々を光（唐田えりか）と楽しく過ごす、その手伝いをすることを決意した太陽（せいや）。全ては光を笑顔にする為！もうすぐ訪れる光の31歳の誕生日を如何に盛り上げるか！と裏方として一生懸命に頑張る太陽と、ひとり病と闘い続ける音との間に友情らしきものが芽生え始める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph4s0l2l9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep97674d2q</id>
-    <title>向こう側の僕_[＃９「夢への後押し」]</title>
-    <updated>2026-06-03T23:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srshfh4z2l.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 向こう側の僕
-                &lt;a href="https://tver.jp/series/srshfh4z2l" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_10月31日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep97674d2q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                子どもたちの笑顔が夢の後押しになることがある
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep97674d2q"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqej4t4zy</id>
-    <title>月夜行路 ―答えは名作の中に―_[第九話 狙われた遺産！漱石誕生の地・夏目坂の屋敷に現れた怪人と相続バトル]</title>
-    <updated>2026-06-03T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxnogfmcq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 月夜行路 ―答えは名作の中に―
-                &lt;a href="https://tver.jp/series/srxnogfmcq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqej4t4zy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【夏目坂の屋敷に消えた遺書…思いを継ぐのは?】&lt;br&gt;&lt;br&gt;ルナ(波瑠)と涼子(麻生久美子)はルナの母親(石野真子)の依頼で古いPCのパスワード解読を進める。手がかりは「吾輩は猫であるの初版本」「いくつかの数列」という情報のみ…&lt;br&gt;そこで夏目坂に家を買うほどの漱石マニアを訪れるが、彼女は亡くなっていて遺産相続問題が!そして肝心の遺書は消えていた…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqej4t4zy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4qi011ry</id>
-    <title>LOVED ONE_[第8話 炎に消えた母娘]</title>
-    <updated>2026-06-03T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2qsz7e4k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ LOVED ONE
-                &lt;a href="https://tver.jp/series/sr2qsz7e4k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4qi011ry.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                穏やかな一日を終えようとしていたMEJに、火災事故の一報が入る。現場は郊外の一軒家。5歳の娘を助けようと炎の中に飛び込んだ母親の佐多春香（菅野莉央）は、そのまま帰らぬ人となった。&lt;br&gt;&lt;br&gt;現場に灯油がまかれていたことから、刑事の堂島穂乃果（山口紗弥加）は桐生麻帆（瀧内公美）に「放火で間違いない」と告げる。そんな中、水沢真澄（ディーン・フジオカ）は、炭化した遺骨の中から結婚指輪を発見する。駆け付けた春香の夫・康行（森岡龍）は、その指輪を見て呆然とするのだった。&lt;br&gt;&lt;br&gt;その後、MEJでは歯科カルテとの照合により、遺骨は春香本人のものだと判断。しかし、そこでひとつの大きな疑問が浮かび上がる。現場に残された遺骨は、一人分しかなかったのだ。どれほど激しい炎に焼かれたとしても、何らかの痕跡は残るはず。だが、共に命を落としたはずの娘の痕跡が、どこにも見当たらない。遺族の想いに応え、小さな命の行方を探るため、MEJのメンバーたちは膨大な資料とわずかな痕跡を丹念に調べ始める。&lt;br&gt;&lt;br&gt;並行して真澄たちは、火災を通報した春香の親友・棚原梢（蓮佛美沙子）の元へ。彼女は当日、直前まで春香とドライブしていたという。幼い子どもを残して外出していたことに不審を抱いた穂乃果は、井川薫（上川拓郎）に梢の調査を指示。やがて薫は、康行と梢が密かに接触する姿を目撃する。母の決死の行動、そして消えた娘の行方。すべてを焼き尽くす炎の中で、一体何が起きたのか・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4qi011ry"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6a50091q</id>
-    <title>ボーダレス～広域移動捜査隊～_[第8話 走る身代金]</title>
-    <updated>2026-06-03T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
-                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月03日(水)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月10日(水)_21時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月3日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6a50091q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ついにクライマックス！&#13;&lt;br&gt;警察官の妻が誘拐され、犯人は身代金1億円の運搬役に【一番星】を指名する。&#13;&lt;br&gt;非通知の発信者から突然の指示を受け、目的地へ向かう赤瀬則文（井ノ原快彦）たち。&#13;&lt;br&gt;しかし警察の動きを読んだ犯人からの指示は次々と変わり、逆探知もAI解析も出来ぬまま、移動捜査課は翻弄されるばかりだった！&#13;&lt;br&gt;犯人との通話を解析していた天尾美青（優香）は、ある事実に目を付け、“ある人物”に会いに行く。&#13;&lt;br&gt;やがて、犯人から「霞が関の警察庁庁舎へ行け」と指示が。しかしその報告を受けた官房審議官の赤瀬心悟（筒井道隆）は「阻止しろ！」と声を荒げ…。&#13;&lt;br&gt;犯人の目的が明らかになる時、赤瀬兄弟に隠された秘密をはじめ、次々と衝撃の真実が明らかになる！そして驚くべき誘拐犯の正体とは!?&#13;&lt;br&gt;さらにラスト、移動捜査課メンバーが狙撃されるという悲劇が襲う！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep6a50091q"/>
   </entry>
 </feed>
