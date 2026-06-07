@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-08T00:06:33+09:00</updated>
+  <updated>2026-06-08T02:05:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epvwtflj3m</id>
+    <title>セレブ男子は手に負えません_[#7　恋か？愛か？波乱のパーティー]</title>
+    <updated>2026-06-08T00:40:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr03ekpz5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ セレブ男子は手に負えません
+                &lt;a href="https://tver.jp/series/srr03ekpz5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月27日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvwtflj3m.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「ひかるさんと結婚したいと思っている」&lt;br&gt;彰人（中尾暢樹）の決意宣言を受けるシオン（鈴木康介）。そうなればアイツはクビにすると条件を出す。まだ何の返事もしていないひかる（若月佑美）を置いてどんどん進んでしまうペントハウス。&lt;br&gt;そんな中、律（本田響矢）のコンサートへ向けたプロモーションパーティーが開かれることに。料理担当となってあわただしく準備をするひかるだが、パーティー当日にルカ（井手上漠）をめぐって大事件にまきこまれてしまう。。。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvwtflj3m"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxvjgny5g</id>
     <title>今日からヒットマン_[第5話 守るのは妻か愛人か…50億円を奪還せよ!!]</title>
@@ -3328,45 +3368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epjlgcbdjm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epiv8mv2p3</id>
-    <title>昔の男_[vol.３ 疑惑を持ち始めた妻]</title>
-    <updated>2026-06-07T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdvrwq8jb1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 昔の男
-                &lt;a href="https://tver.jp/series/srdvrwq8jb1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月26日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiv8mv2p3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：6月7日(日)0:00～&lt;br&gt;#4：6月11日(木)0:00～6月18日(木)23:59&lt;br&gt;#5：6月15日(月)0:00～6月22日(月)23:59&lt;br&gt;#6：6月19日(金)0:00～6月26日(金)23:59&lt;br&gt;#7：6月24日(水)0:00～7月1日(水)23:59&lt;br&gt;#8：6月29日(月)0:00～7月6日(月)23:59&lt;br&gt;#9：7月4日(土)0:00～7月11日(土)23:59&lt;br&gt;#10：7月9日(木)0:00～7月16日(木)23:59&lt;br&gt;#11：7月14日(火)0:00～7月21日(火)23:59&lt;br&gt;#12：7月19日(日)0:00～&lt;br&gt;------------&lt;br&gt;あかり（藤原紀香）は突然やって来た嵐（大沢たかお）を部屋に入れた。しかし一線を越えてはいけないと嵐を帰す。一方、妻・マリ（富田靖子）は嵐の服の残り香に気づき…。マリは遊びに来た白井丈（鈴木一真）に探りを入れる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epiv8mv2p3"/>
   </entry>
 </feed>
