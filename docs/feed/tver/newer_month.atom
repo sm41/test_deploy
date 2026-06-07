@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-07T22:06:34+09:00</updated>
+  <updated>2026-06-08T00:06:33+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epo3i4m7xm</id>
+    <title>10回切って倒れない木はない_[第9話「最後の試練」]</title>
+    <updated>2026-06-07T23:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 10回切って倒れない木はない
+                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_23時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月7日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo3i4m7xm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                最終回直前!理想のホテルの実現を夢見る韓国の財閥御曹司キム・ミンソク(志尊淳)は、養兄・ヒスン(キム・ドワン)との確執を解消。ようやく自分の居場所を取り戻したと思った矢先、ミンソクを恨む養母・キョンファ(キム・ジュリョン)に刺され、意識不明の重体に…!動揺する恋人・河瀬桃子(仁村紗和)は幼なじみの山城拓人(京本大我)に泣きすがるが…。ミンソクと桃子を待ち受ける最大の試練とは!?涙の第9話
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo3i4m7xm"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eplheagyrs</id>
     <title>ＧＩＦＴ_[第９話 まばゆいスターダスト]</title>
@@ -328,125 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epobyt4y8x"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epur2m1e0h</id>
-    <title>カイダン都市伝説-洒落怖_[第１話　「本当に危ないところ」]</title>
-    <updated>2026-06-06T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srora5zzw5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ カイダン都市伝説-洒落怖
-                &lt;a href="https://tver.jp/series/srora5zzw5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月06日(土)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月06日(月)_23時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epur2m1e0h.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                売れないアイドルだった加藤ユリと上野マリは、「ユリマリ」というコンビでユーチューバーをしているがなかなか人気が出ない。そんな状況を社長に怒られ、ディレクターの相良は思い悩む。そんな時、たまたまオウマガトキFILMの驚異的な再生回数を知り起死回生の策を思いつく相良。2ちゃんねるの伝説的なスレッド「本当に危ないところを見つけてしまった」の廃墟をついに発見したという、都市伝説のヤラセLIVE配信番組を作ろうというのだ。ヤラセ番組を撮影するため、ユリマリとスタッフたちは廃墟に行くのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epur2m1e0h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep56whp4ob</id>
-    <title>ターミネーターと恋しちゃったら_[最終話 きみを護りたい！]</title>
-    <updated>2026-06-06T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srd1o6cdlb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ターミネーターと恋しちゃったら
-                &lt;a href="https://tver.jp/series/srd1o6cdlb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月06日(土)_23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep56whp4ob.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                アンドロイド・時沢エータ（宮舘涼太）そっくりの刺客ロボット“黒エータ”（宮舘・2役）に襲われ、時空の歪みに閉じ込められてしまった少女漫画編集者・神尾くるみ（臼田あさ美）――。&#13;&lt;br&gt;彼女の窮地に気づいたエータは、危険をかえりみず救出に向かって…。&#13;&lt;br&gt;だが、脱出の衝撃により、エータの身体は深いダメージを負ってしまう。&#13;&lt;br&gt;駆けつけたレオ（番家天嵩）から、いつ動けなくなってもおかしくない状態であること、もしも初期化する機能まで壊れてしまったら廃棄されるほかないことを聞いたくるみは悲しみをこらえて、未来へ帰るようエータをやさしく諭す。&#13;&lt;br&gt;《イケメン年下アンドロイド》と《働くアラフォー女子》&#13;&lt;br&gt;一筋縄ではいかない2人の恋が迎える結末とは…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep56whp4ob"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/episzpd1oe</id>
-    <title>タツキ先生は甘すぎる！_[第9話 本当はどっちなんだよ]</title>
-    <updated>2026-06-06T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp8uxgiz9.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ タツキ先生は甘すぎる！
-                &lt;a href="https://tver.jp/series/srp8uxgiz9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月06日(土)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月13日(土)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/episzpd1oe.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                暴れる蒼空(山岸想)の元に三雲(江口洋介)としずく(松本穂香)がやってきて、優(比嘉愛未)はいったん『ユカナイ』に身を寄せることになった。優によると、蒼空は飛び降りた後ぐらいから、次第に暴力を振るうようになったらしい。どうしたらいいかわからずにいるタツキ(町田啓太)と優に、三雲は思い出の品を通じて、思いを共有する“シェアリング”をやってもらおうと提案。2人は、家族の過去を振り返っていくが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/episzpd1oe"/>
   </entry>
 </feed>
