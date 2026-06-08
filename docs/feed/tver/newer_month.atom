@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-08T11:14:58+09:00</updated>
+  <updated>2026-06-08T12:06:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epclwkcn67</id>
+    <title>華麗なるスパイス_[第2話 ７日間の契約]</title>
+    <updated>2026-06-08T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 華麗なるスパイス
+                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_12月28日(月)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月7日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epclwkcn67.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                廷恩(ティンエン)に惨敗した芬青(フェンチン)は、彼の店へ乗り込み、看板料理の再現に挑むが再び失敗。悔しがる彼女は「7日でマスターする」と宣言し、異例の師弟契約を結ぶことに。厳しい指導に耐える芬青だが、その夜、激しい地震が発生し店は停電。闇に包まれた密室で、二人の距離は予期せず急接近してしまい……。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epclwkcn67"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep2q0kr85n</id>
+    <title>戦神~MARS~_[第6話　サーキットの天使]</title>
+    <updated>2026-06-08T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 戦神~MARS~
+                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_12月08日(火)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月8日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2q0kr85n.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                自分の病がまだ治っていないと感じた樫野零は、心理療育センターを訪れる。一方、麻生キラは零のバイク仲間・片山明高夫妻から、双子の弟・聖が零の目の前で飛び降り自殺した過去と、その後零が発作に苦しむようになったことを知る。零はキラに、今は彼女を失うことが一番怖いと打ち明ける。そして、キラが描く自分の姿を見たいと告白。やがて零は、全日本ロードレース出場のため日本へ向かう…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep2q0kr85n"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epo3i4m7xm</id>
     <title>10回切って倒れない木はない_[第9話「最後の試練」]</title>
@@ -88,285 +168,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eplheagyrs"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epmk1b30i5</id>
-    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第5話「秀才ドラフト会議をつぶせ!!」]</title>
-    <updated>2026-06-07T16:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_16時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月7日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmk1b30i5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                西脇の指令でサキは栄光塾を調べた。栄光塾は、紅龍会、野獣組を操っていた組織が経営していた。塾で育てた秀才を地方の高校へドラフトで売り付け、資金源としていたのだ。サキはドラフト会場へ向った。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epmk1b30i5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuoh9ny40</id>
-    <title>テラサってる？_[地上波初放送！「ボーダレス～広域移動捜査隊～」の舞台裏がたっぷり詰まったメイキング第1弾]</title>
-    <updated>2026-06-07T03:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre2gdxlxx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ テラサってる？
-                &lt;a href="https://tver.jp/series/sre2gdxlxx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_03時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月13日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuoh9ny40.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                土屋太鳳＆佐藤勝利 W主演！『ボーダレス～広域移動捜査隊～』からドラマの舞台裏を追ったスペシャルメイキングが誕生！撮影の様子からセットの内部まで、撮影現場の裏側を余すことなくお届け！ドラマの“キモ”でもある【一番星】を徹底紹介し、その全貌を明らかに！さらに、秘伝の《ボーダレスポーズ》とは…？ここでしか見ることのできない貴重映像が満載！『「ボーダレス」撮影の裏側大捜査 』第1弾をお届け！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epuoh9ny40"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqivxlbro</id>
-    <title>よくおごってくれる綺麗なお姉さん_[第17話]</title>
-    <updated>2026-06-07T02:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
-                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_02時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_02時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqivxlbro.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ジュニのことが気にかかる父親はサンギに連絡し、２人は会うことになる。酒に酔ったサンギがジュニの父親を家に連れてきたことでミヨンは怒るが、ミヨンの心ない言葉がさらにジュニを傷つける。ついに我慢ができなくなったジナは、激怒したミヨンから逃れるためジュニに別れを切り出す。ジュニはそんなジナを必死で止めるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqivxlbro"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epatfm1gfp</id>
-    <title>よくおごってくれる綺麗なお姉さん_[第18話]</title>
-    <updated>2026-06-07T02:55:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
-                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_02時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_02時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epatfm1gfp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ジナとジュニが別れていないと知ったミヨンは、ジナに家を出ていくよう言う。そんなミヨンに対し、ジナは家を出て独立することを決心する。家を探すジナだが予算の上限もあり、なかなか決まらない。そんな中、会社ではセクハラ問題のことでカン代理とクム代理の間でケンカが勃発し、事態はどんどんジナに不利な状況になっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epatfm1gfp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph4cn087b</id>
-    <title>＆Hulu_[大ヒットを記録し続ける「シカゴ・シリーズ」の魅力を徹底解説▼大人気リーガルドラマ「シカゴ・ジャスティス」第1話前半を放送]</title>
-    <updated>2026-06-07T02:40:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_02時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月20日(土)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph4cn087b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                特集は、メガヒットを記録した「シカゴ・シリーズ」の魅力を徹底解説。消防・警察・医療・司法それぞれを舞台に「シカゴの街を守る」という使命感のもと、繰り広げられる熱き物語や各シリーズの見どころ、作品の枠を超えて物語が交差するクロスオーバーエピソードをご紹介▼Just One Episodeは「シカゴ・ジャスティス」第1話前半を放送。シカゴの街で発生する様々な大事件に挑む検察官たちを描いた法廷ドラマ
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eph4cn087b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epewkad8hy</id>
-    <title>三カ国な王道LOVE_[＃2「俺は全てを知っている」]</title>
-    <updated>2026-06-07T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srej677ful.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 三カ国な王道LOVE
-                &lt;a href="https://tver.jp/series/srej677ful" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月02日(日)_00時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epewkad8hy.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                日本・韓国・インド、3人のイケメンたちから次々とアプローチを受ける三葉(紺野彩夏)。しかし三葉は、ある過去の出来事をきっかけに恋愛から距離を置き、誰にも心を開けずにいた。そんなある日、仕事先で思わぬトラブルに巻き込まれ、半グレ集団に追い詰められてしまう。絶体絶命のその瞬間、現れたのは日本男子・白丸拓馬(別府由来)。まるで全てを知っていたかのような完璧すぎる救出劇に違和感を覚えた三葉が問い詰めると、拓馬は誰もが憧れる“超王道”でありながら信じられない衝撃の真実を語り始める。なぜ拓馬は三葉のピンチを知っていたのか？そして三葉に隠された運命とは？恋なんてもうしないと決めていた彼女の前で、王道ラブストーリーが大きく動き出す――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epewkad8hy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epobyt4y8x</id>
-    <title>時光代理人_[第9話 母の弁当]</title>
-    <updated>2026-06-07T00:35:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry1smt6x2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 時光代理人
-                &lt;a href="https://tver.jp/series/sry1smt6x2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月13日(土)_23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月6日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epobyt4y8x.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                トキ（佐藤大樹）とヒカル（本郷奏多）は小学校の校外学習の撮影に立ち会う。すると昼食時、一人ポツンと弁当ではなくお菓子を食べる賢太（森優理斗）の姿を見つける。3年前に母を亡くした賢太は、町工場を営む父・秀司（濱津隆之）が男手一つで懸命に育てているが、不器用さゆえに親子のすれ違いが続いていた。さらに経営難という事実が親子を追い込んでいく。母を亡くした賢太に自分の姿を重ねるトキに対し、一歩引いて見守るヒカルは胸の内を吉本（風間俊介）に打ち明けるが、そのころ秀司の家では賢太が忽然と姿を消し…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epobyt4y8x"/>
   </entry>
 </feed>
