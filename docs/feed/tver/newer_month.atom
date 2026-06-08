@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-08T20:06:37+09:00</updated>
+  <updated>2026-06-08T22:05:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkznwe0m7</id>
+    <title>サバ缶、宇宙へ行く_[第9話 衝撃の展開！朝野先生も思わず涙。新生徒も登場し・・・]</title>
+    <updated>2026-06-08T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月15日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月8日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkznwe0m7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                AXA（宇宙航空研究開発機構）による宇宙日本食候補への選出から1年半。若狭小浜高校海洋科学科の教師、朝野峻一（北村匠海）と、宇宙食サバ缶プロジェクトの開発を行なってきた寺尾瑠夏（伊東蒼）、小松崎菜那歌（平澤宏々路）、竹田奏仁（木村舷碁）、川上寿々（石田莉子）の4人はまもなく終わる保存検査の結果を今か今かと待ちわびていた。&lt;br&gt;卒業を間近に控えた彼らにとって、「一年半も待たされて。もう待ちくたびれたわ～」と笑い合うその裏には、高校生活のすべてを懸けた強い思いがあった。幼い頃から妹の夢を見守ってきた兄・寺尾創亮（黒崎煌代）が「昔から一番宇宙への思いが強い。誰よりもや」と語るほど、瑠夏の宇宙への思いは人一倍強い。瑠夏は奏仁たちと共に、自分たちの手でサバ缶を宇宙に飛ばすことができるのかー。&lt;br&gt;一方、海洋科学科の教師として奮闘する菅原奈未（出口夏希）は、思うように生徒への指導ができずに悩みを抱えていた。特に藤倉彩花（池端杏慈）のどこか空虚な様子が気になっている。実は彩花は、中学時代に陸上の短距離で全国上位レベルの選手だったものの、怪我によって推薦の話がなくなり夢を絶たれたという過去を持っていたのだ。&lt;br&gt;&lt;br&gt;ある日、敦賀の商店街で彩花と偶然出会った福原凪沙（夏目透羽）に対し、彩花は内に秘めていた思いを明かす。「夢とか目標とか、持つだけ損やと思います。最初から期待せんかったら、裏切られることもないし」。かつて同じようにくすぶっていた凪沙は「私は夢を見れたから高校生活がめっちゃ楽しくなったって思っとるよ」とまっすぐに言葉をかけるが、彩花の心はかたくなに閉ざされたままで…。&lt;br&gt;同じ頃、JAXAでは「宇宙日本食認証基準案」を開発中の木島真（神木隆之介）のもとに、ついにサバ缶の保存検査結果と宇宙飛行士たちによる試食アンケートが届く。検査シートを手にし、自らも静かにサバ缶を口へ運んで官能検査を行う木島の判定は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epkznwe0m7"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epidmp9f2e</id>
     <title>孤独のグルメ Season5_[第8話 東京都渋谷区代々木上原のエマダツィとパクシャパ]</title>
