@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-08T14:06:37+09:00</updated>
+  <updated>2026-06-08T15:16:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -48,46 +48,6 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epclwkcn67"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2q0kr85n</id>
-    <title>戦神~MARS~_[第6話　サーキットの天使]</title>
-    <updated>2026-06-08T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 戦神~MARS~
-                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_12月08日(火)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月8日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2q0kr85n.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                自分の病がまだ治っていないと感じた樫野零は、心理療育センターを訪れる。一方、麻生キラは零のバイク仲間・片山明高夫妻から、双子の弟・聖が零の目の前で飛び降り自殺した過去と、その後零が発作に苦しむようになったことを知る。零はキラに、今は彼女を失うことが一番怖いと打ち明ける。そして、キラが描く自分の姿を見たいと告白。やがて零は、全日本ロードレース出場のため日本へ向かう…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep2q0kr85n"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epo3i4m7xm</id>
