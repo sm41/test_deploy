@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-08T16:05:37+09:00</updated>
+  <updated>2026-06-08T18:05:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eprv43j4z5</id>
+    <title>ワカコ酒　Season2_[第7夜　相性抜群！　アジアンフード]</title>
+    <updated>2026-06-08T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒　Season2
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月8日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprv43j4z5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「ゴーヤチャンプルー」。会社の同僚から肌の調子が悪いと指摘されたワカコは、悩みながらも沖縄料理屋へ。オリオンビールとゴーヤチャンプルーを食していると、良い気分になったワカコは勢いづいて泡盛も注文！　その地方の料理にはその地方のお酒が一番相性が良いということを痛感するのだった。　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eprv43j4z5"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epclwkcn67</id>
     <title>華麗なるスパイス_[第2話 ７日間の契約]</title>
@@ -48,85 +88,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epclwkcn67"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo3i4m7xm</id>
-    <title>10回切って倒れない木はない_[第9話「最後の試練」]</title>
-    <updated>2026-06-07T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 10回切って倒れない木はない
-                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月7日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo3i4m7xm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                最終回直前!理想のホテルの実現を夢見る韓国の財閥御曹司キム・ミンソク(志尊淳)は、養兄・ヒスン(キム・ドワン)との確執を解消。ようやく自分の居場所を取り戻したと思った矢先、ミンソクを恨む養母・キョンファ(キム・ジュリョン)に刺され、意識不明の重体に…!動揺する恋人・河瀬桃子(仁村紗和)は幼なじみの山城拓人(京本大我)に泣きすがるが…。ミンソクと桃子を待ち受ける最大の試練とは!?涙の第9話
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo3i4m7xm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplheagyrs</id>
-    <title>ＧＩＦＴ_[第９話 まばゆいスターダスト]</title>
-    <updated>2026-06-07T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＧＩＦＴ
-                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月07日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月14日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月7日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplheagyrs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【6月14日いよいよ最終回】お気に入り登録で見逃さない！&lt;br&gt;日本選手権の組み合わせが決まった。強豪のシャークとスネークはプールAで、ブルズはプールBだ。&lt;br&gt;肥大型心筋症の疑いがある涼（山田裕貴）は激しい運動が命取りになりかねないが、そのことを母・君代（麻生祐未）に打ち明け、覚悟を決めて試合に臨む。&lt;br&gt;家族が見守る中、ブルズは見事予選を突破。決勝トーナメント進出を決め、昊（玉森裕太）も応援のための曲作りに一層力が入る。&lt;br&gt;一方、涼の体調を気にかける伍鉄（堤真一）は、彼を決勝トーナメントで起用するか否か悩む。そして、人香（有村架純）も初めて涼の病気のことを知る。&lt;br&gt;奇跡の復活を遂げたブルズ。しかし、その矢先、涼に異変が…！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eplheagyrs"/>
   </entry>
 </feed>
