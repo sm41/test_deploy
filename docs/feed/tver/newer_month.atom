@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-09T22:06:32+09:00</updated>
+  <updated>2026-06-10T00:06:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epozowjbad</id>
+    <title>時すでにおスシ!?_[最終回【時すでに遅し（ではなく）時すでにおスシ!?】]</title>
+    <updated>2026-06-09T22:57:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9pxqt0k.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 時すでにおスシ!?
+                &lt;a href="https://tver.jp/series/srp9pxqt0k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月09日(火)_22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月9日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epozowjbad.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                鮨アカデミーで講師としてのやりがいを見つけた反面、再び自分の手でお客さんに鮨を握りたい、店を持ちたいという素直な思いをみなと（永作博美）に吐露した大江戸（松山ケンイチ）。みなともまた、スーパーの新店舗で店長を務めるべきか否か、これからの人生について思案していた。&lt;br&gt;一方、鮨アカデミーはいよいよ最終日。卒業課題は“渾身の一貫”。各々がここでの日々を振り返りながら、これから進む未来を見つめて思い思いの一貫を握ることに。&lt;br&gt;そして迎える卒業式。果たして皆無事に卒業できるのか。&lt;br&gt;みなとと大江戸の選択は“前向き”な未来に向かうのか——。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epozowjbad"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epqdnidncg</id>
     <title>リボーン ～最後のヒーロー～_[第9話 驚愕の最終回！14年前の真相が明らかに！]</title>
@@ -448,85 +488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epkznwe0m7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epidmp9f2e</id>
-    <title>孤独のグルメ Season5_[第8話 東京都渋谷区代々木上原のエマダツィとパクシャパ]</title>
-    <updated>2026-06-08T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season5
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月8日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epidmp9f2e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                同業者の友人・滝山に紹介してもらった顧客・内田への納品のため、代々木上原にやってきた井之頭五郎（松重豊）。しかし目的地に着くと本人は不在。出迎えたのは妻（横山めぐみ）だった。しかも帰ろうとする五郎を寂しそうな表情で見つめ、帰り際には手紙まで……。「まさか恋文？」そんなことを思いながら封筒を開けると……。仕事を終え腹が減った五郎は、細い路地をひたすら歩くが、なかなか店が見当たらない。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epidmp9f2e"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprv43j4z5</id>
-    <title>ワカコ酒　Season2_[第7夜　相性抜群！　アジアンフード]</title>
-    <updated>2026-06-08T17:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ワカコ酒　Season2
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月8日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprv43j4z5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「ゴーヤチャンプルー」。会社の同僚から肌の調子が悪いと指摘されたワカコは、悩みながらも沖縄料理屋へ。オリオンビールとゴーヤチャンプルーを食していると、良い気分になったワカコは勢いづいて泡盛も注文！　その地方の料理にはその地方のお酒が一番相性が良いということを痛感するのだった。　[期間限定無料配信]
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eprv43j4z5"/>
   </entry>
 </feed>
