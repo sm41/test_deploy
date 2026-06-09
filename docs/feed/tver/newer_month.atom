@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-09T18:06:32+09:00</updated>
+  <updated>2026-06-09T20:05:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9e6ncgyr</id>
+    <title>孤独のグルメ Season5_[第9話 千葉県いすみ市大原のブタ肉塩焼ライスとミックスフライ]</title>
+    <updated>2026-06-09T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season5
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月09日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月9日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9e6ncgyr.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                千葉県いすみ市にやってきた井之頭五郎（松重豊）は、大原漁港で目にしたイセエビやサザエに後ろ髪をひかれつつ、仕事のため大原駅から国吉駅へ向かう。今回の依頼は、移住希望者のために用意する“お試し住居”のトータルコーディネート。ホームから出ると、いすみ市企画政策課の山崎（塚地武雅）が待っていた。自分も移住組だという山崎に案内されながら、現場で下見を始める。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9e6ncgyr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epe7meerxo</id>
     <title>ワカコ酒　Season2_[第8夜　給料日前のツナ缶マヨ焼き]</title>
