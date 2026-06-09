@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-09T11:17:35+09:00</updated>
+  <updated>2026-06-09T12:06:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -368,45 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/eprv43j4z5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epclwkcn67</id>
-    <title>華麗なるスパイス_[第2話 ７日間の契約]</title>
-    <updated>2026-06-08T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月08日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_12月28日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月7日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epclwkcn67.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                廷恩(ティンエン)に惨敗した芬青(フェンチン)は、彼の店へ乗り込み、看板料理の再現に挑むが再び失敗。悔しがる彼女は「7日でマスターする」と宣言し、異例の師弟契約を結ぶことに。厳しい指導に耐える芬青だが、その夜、激しい地震が発生し店は停電。闇に包まれた密室で、二人の距離は予期せず急接近してしまい……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epclwkcn67"/>
   </entry>
 </feed>
