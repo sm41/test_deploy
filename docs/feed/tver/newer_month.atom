@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-10T20:05:58+09:00</updated>
+  <updated>2026-06-10T22:05:58+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5kw562i0</id>
+    <title>ボーダレス～広域移動捜査隊～_[最終話]</title>
+    <updated>2026-06-10T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srskkomxag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ボーダレス～広域移動捜査隊～
+                &lt;a href="https://tver.jp/series/srskkomxag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月10日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5kw562i0.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                衝撃の最終回――！&#13;&lt;br&gt;警察庁キャリア官僚の実相寺（金井勇太）らが身代金誘拐事件を起こしたことで、&#13;&lt;br&gt;赤瀬（井ノ原快彦）の兄であり警察庁官房審議官の心悟（筒井道隆）が&#13;&lt;br&gt;“クリーナー”として政府与党や警察幹部の犯罪や不祥事を闇に葬ってきていたことが明らかに…。&#13;&lt;br&gt;そして心悟の命を受けた狙撃手の弾丸で桃子（土屋太鳳）が倒れる！&#13;&lt;br&gt;さらに移動捜査課メンバー全員に身代金目的略取と犯人隠避の疑いで逮捕状が出る中、赤瀬は移動捜査課の解散を宣言！&#13;&lt;br&gt;赤瀬と緑川、そして蕾（佐藤勝利）が残った【一番星】に機動隊突入の時が迫る――！&#13;&lt;br&gt;予測不能のクライマックスへ…【一番星】の最終決戦が、今、始まる―!!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep5kw562i0"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwl3hwuqq</id>
     <title>孤独のグルメ Season5_[第10話 東京都江東区亀戸の純レバ丼]</title>
