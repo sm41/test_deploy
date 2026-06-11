@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-11T22:05:41+09:00</updated>
+  <updated>2026-06-12T00:05:41+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epi38mzxdc</id>
+    <title>今夜、秘密のキッチンで_[第10話 引き裂かれても想い合う2人と現実]</title>
+    <updated>2026-06-11T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
+                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月11日(木)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月18日(木)_22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月11日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi38mzxdc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                渉（中村俊介）にスマホを壊され、自宅に閉じ込められたあゆみ（木南晴夏）だったが、慧（高杉真宙）が鎌倉に向かったと林太郎（安井順平）から聞き、いても立ってもいられず家を飛び出す。鎌倉で運命の再会を果たした二人。その海岸で、慧は祖母の古民家を改装してイタリアン薬膳の店を出す夢をあゆみに打ち明ける。「迎えに来たよ、あゆみ」。そこに現れたのは渉だった。不気味な笑みを見せ彼女を連れ去ろうとする。「シェフとしての人生を終わらせたくないだろう？」と慧を脅す渉。慧は食い下がるが、「私がちゃんと話すから」とあゆみは渉と去って行く。&lt;br&gt;&lt;br&gt;坪倉家に戻った二人。「お前は一体何考えてるんだよ！？」と渉はあゆみを怒鳴りつける。「私、あなたとやっていくのはもう無理だと思う」。キッパリと言うあゆみに渉は拳を振り上げる・・・・・・。「私が若林慧さんに惹かれているのは本当です。どうか私と別れて下さい」。涙を滲ませつつも毅然と言い放つあゆみ。「好き勝手にこの家から逃げることなんて、俺もお前もできないんだよ！」。渉はあゆみの手から新しいスマホを奪い取り、部屋を出て行く。&lt;br&gt;&lt;br&gt;京子（筒井真理子）に見張られ、自宅から動けないあゆみ。そんなあゆみに会いに行こうとする慧。慧を諦めきれない藤子（瀧本美織）、渉との関係をあゆみに明かした舞（佐津川愛美）、産地偽装の真相を追求する里佳（月城かなと）、産地偽装疑惑で徐々に追い詰められる渉・・・・・・。それぞれの愛、友情、プライドが絡み合ってゆく中、あゆみと慧の恋の行方は・・・・・・
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi38mzxdc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epg2d02f2t</id>
     <title>未解決の女　警視庁文書捜査官 Season３_[最終話 最後の告発！黒幕と女性失踪]</title>
