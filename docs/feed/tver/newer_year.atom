@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-12T02:06:41+09:00</updated>
+  <updated>2026-06-12T11:29:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep8ajr2xbc</id>
+    <title>高校教師（藤木直人、上戸彩）_[VOL.５ 真夜中の対決]</title>
+    <updated>2026-06-12T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjdcp2078.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 高校教師（藤木直人、上戸彩）
+                &lt;a href="https://tver.jp/series/srjdcp2078" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_09時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8ajr2xbc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【TBS】金曜ドラマ「Ｔシャツが乾くまで」７月スタート！ 主演：蒼井優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月9日(火)10:00～6月16日(火)9:59&lt;br&gt;#5：6月12日(金)10:00～6月19日(金)9:59&lt;br&gt;#6：6月16日(火)10:00～6月23日(火)9:59&lt;br&gt;#7：6月19日(金)10:00～6月26日(金)9:59&lt;br&gt;#8：6月23日(火)10:00～6月30日(火)9:59&lt;br&gt;#9：6月26日(金)10:00～7月3日(金)9:59&lt;br&gt;#10：6月30日(火)10:00～7月7日(火)9:59&lt;br&gt;#11：7月3日(金)10:00～&lt;br&gt;------------&lt;br&gt;雛（上戸彩）に依存されることで精神的バランスを保ちつつある湖賀（藤木直人）。そんな湖賀に雛は生きている間に色々なことをやっておきたいが、中でも恋愛を一番したいと訴える。湖賀はそんな雛に対して、自分の甥である湖賀正太（斉藤祥太）を引き合わせるが、雛は湖賀の行為にすねてしまう。一方、学校では悠次（成宮寛貴）の誘惑に掛かった紅子（ソニン）の素行問題が職員たちの間で取り沙汰され、退学にするべきだという意見でまとまりかける。そんな中、藤村（京本政樹）が何とかするからと頼み、ひとまず紅子は休学扱いになる。その肝心の紅子は、雛から自分が藤村のおかげで休学扱いになったと聞いたものの、自分は悠次をナンバーワン・ホストにすると息巻くのだが…。そんなある日、悠次の部屋を訪れた紅子は、悠次に貸しがあると言って突然部屋に怒鳴り込んできた男たちに…。&lt;br&gt;※性加害など不快に感じる恐れのある場面が含まれています。過去に辛い経験をされた方は、視聴を避けるか、信頼できる方と一緒にご覧ください。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep8ajr2xbc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epz5kooq436</id>
     <title>探偵・由利麟太郎_[#5 マーダー・バタフライ　後編]</title>
@@ -1488,285 +1528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep4mvedfh7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqa0b8p2j</id>
-    <title>推しが上司になりまして フルスロットル_[#8 モブと推しの告白！新事実が明らかに！]</title>
-    <updated>2026-06-10T17:00:10+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして フルスロットル
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqa0b8p2j.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/9（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/10（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/11（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;自分の気持ちを旬（八木勇征）に伝えたいと決心した愛衣（鈴木愛理）だが、旬は福井に5日間出張に。そんな中、旬の出張と同じタイミングで偶然福井にいた波留（ミチ）が、SNSに男性と親しげに腕を絡める写真をアップした。その男性の腕には、なんと旬と同じ腕時計が！腕時計の持ち主が旬ではないかと思った愛衣は、旬が出張から帰ってくるなり、鬼の形相で旬を社長室に呼び出すが…！いよいよ二人の恋は実るのか!?　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqa0b8p2j"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epeqbcee3w</id>
-    <title>推しが上司になりまして フルスロットル_[#7 暴走する恋心、暴かれる嘘]</title>
-    <updated>2026-06-10T17:00:09+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして フルスロットル
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeqbcee3w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/9（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/10（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/11（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;愛衣（鈴木愛理）は旬（八木勇征）に告白され、自分が＜旬オタク＞を隠し続けてることを悩む。▼ある日、愛衣が二階堂（濱津隆之）と食事に行くと、波留（ミチ）を連れた旬に遭遇してしまう。愛衣は2人の距離の近さに複雑な気持ちに。一方旬もあることを考えていて…。▼翌日、同僚の遥（山岸理子）が、愛衣が旬グッズを持っていることに気付いてしまい、大ピンチ！その時旬がある行動を取り…。▼愛衣がいよいよ告白する!?　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epeqbcee3w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdxvtg9ma</id>
-    <title>推しが上司になりまして フルスロットル_[#6 運命のパーティー…モブがついに一線を越える!?]</title>
-    <updated>2026-06-10T17:00:08+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして フルスロットル
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdxvtg9ma.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/9（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/10（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/11（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;一緒にマンションに入る姿を激写され、ネットを炎上させてしまった愛衣（鈴木愛理）と旬（八木勇征）。二階堂（濱津隆之）と薄井（すがちゃん最高No.1）が駆けつけ作戦会議をした結果…。▼別の日、旬と会長（加藤茶）の病室を訪れた愛衣は、偶然耳にした二人の会話に心動かされる。▼急遽旬とあるパーティーに参加した愛衣。帰り道、旬から思いがけない言葉を告げられ…。いよいよ二人の恋が始動する！　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdxvtg9ma"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptx3mzgp0</id>
-    <title>推しが上司になりまして フルスロットル_[#5 ヲタバレの危機&amp;胸キュン！初めての推し宅訪問]</title>
-    <updated>2026-06-10T17:00:07+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして フルスロットル
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptx3mzgp0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/9（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/10（水）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/11（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;愛衣（鈴木愛理）は、社長の旬（八木勇征）と二人きりの夜を過ごして以来、ポーっとしてしまう日々。▼ある日、推し友のひかる（東雲うみ）に、旬の最後の舞台挨拶付き映画上映会に誘われる。むしろスターと自分の遠い距離を認識できると思った愛衣は、映画館に向かうのだが、まさかの最前列でヲタバレの危機に！▼さらに、ひょんなことから旬の自宅を訪れたことで、予期せぬ事態が巻き起こり…！　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/eptx3mzgp0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epm9bokpxq</id>
-    <title>推しが上司になりまして_[#12（最終回）]</title>
-    <updated>2026-06-10T17:00:06+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm9bokpxq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/8（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/9（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/10（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;イベント当日、着々と準備は整ったが…照明が照らした舞台に現れたのは、淳也（植田圭輔）ではなく修一（片寄涼太）だった。2人に一体何が起こったのか…!?▼イベント終了後、週刊誌の記者・原田静華（兒玉遥）が瞳（鈴木愛理）をある場所へ連れ出すのだが…修一と瞳の恋に最大の危機が訪れる！▼待ち受ける衝撃のラスト…！今夜いよいよ最終回！▽主題歌「最強の推し！」のオーイシマサヨシも登場！▽素子（ゆりやんレトリィバァ）の恋のゆくえにも注目！　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epm9bokpxq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdgwui0xh</id>
-    <title>推しが上司になりまして_[#11]</title>
-    <updated>2026-06-10T17:00:05+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdgwui0xh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/8（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/9（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/10（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;修一（片寄涼太）にサプライズで誕生日を祝ってもらい、幸せ絶頂の瞳（鈴木愛理）は、ずっと気になっていた『斗真が引退した理由』を尋ねる。斗真の言葉に、つい言葉を返してしまった瞳に修一は…。▼瞳と修一はお弁当を持ってとある公園へ。そこで瞳と修一は初めてのある体験をする。▼あるブランドの新店舗への出店お披露目イベントの会議が行われ、イメージモデルにキャスティングされたのは斗真のライバル、佐久本淳也（植田圭輔）だった。数日後TKGカンパニーにやって来た淳也が修一に言った言葉とは…！▼そんな時、桜木和樹（高野洸）の主演舞台が始まり、瞳と修一は駆け付ける。 ▼二人の俳優に修一の未来が揺さぶられてゆく。その時瞳は…！　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdgwui0xh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz5mh06a7</id>
-    <title>推しが上司になりまして_[#10]</title>
-    <updated>2026-06-10T17:00:04+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybrf5mfc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 推しが上司になりまして
-                &lt;a href="https://tver.jp/series/srybrf5mfc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz5mh06a7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/8（月）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/9（火）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/10（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;両想いになり、付き合うことになった瞳（鈴木愛理）と修一（片寄涼太）。2人でアウトドアショップのキャンプ用品を眺めていると、なんとそこには木山部長（徳重聡）と素子（ゆりやんレトリィバァ）の姿が！気になる2人の関係は…？▼修一は瞳の誕生日を知り、星が綺麗なキャンプ場に行こうと提案。2人きりの時間を楽しもうと計画を立てていたのだが、なぜか社員全員でバーベキュー大会をすることになってしまった。▼バーベキューを早めに終わらせたい修一の気持ちとは裏腹に、楽しくなった部員たちの宴はとんでもない大騒ぎに発展してしまい…!?▽それぞれの恋がさらに発展していく…その結果は!?　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epz5mh06a7"/>
   </entry>
 </feed>

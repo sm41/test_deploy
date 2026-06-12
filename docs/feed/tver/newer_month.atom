@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-12T02:06:41+09:00</updated>
+  <updated>2026-06-12T11:29:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdmhzgleg</id>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第10話]</title>
+    <updated>2026-06-12T02:50:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_02時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月11日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdmhzgleg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                社員旅行中、スティーブが持っていた疑念が現実のものとなる。ジェイがグノに脅され、マッコムへスパイとして送り込まれていた。しかし、グノの狙いは一体何なのか・・・。真相を確かめるため、スティーブは自らグノの元へ向かう。グノはそこで、9年前共に働いていた頃、顧客から仮想通貨で回収した資金が、今、莫大な額に膨れ上がっていると明かす・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdmhzgleg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epvtmtoyv1</id>
     <title>ネタジョ_[第7話「チュートリアル」《ドラマフィル》]</title>
@@ -728,45 +768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep5kw562i0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwl3hwuqq</id>
-    <title>孤独のグルメ Season5_[第10話 東京都江東区亀戸の純レバ丼]</title>
-    <updated>2026-06-10T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season5
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月10日(水)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月24日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月10日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwl3hwuqq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎（松重豊）は病院のベッドで横になっていた。腰を痛めて検査入院することになったのだ。寝たきりの生活では食事が唯一の楽しみ。しかし病院食は味付けが薄く、入院も3日目となると物足りなくて仕方がなかった。そんな五郎に、医師（北村有起哉）が餃子の美味しい食べ方を話し追い打ちをかけたところに、入院患者（碓井将大）が電話で差し入れを頼んでいるのを聞いてしまい、五郎の我慢は限界に。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwl3hwuqq"/>
   </entry>
 </feed>
