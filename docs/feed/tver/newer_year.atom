@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-14T00:06:08+09:00</updated>
+  <updated>2026-06-14T02:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxje1rg0v</id>
+    <title>湯遊ワンダーランド_[第10話 全裸で赤っ恥体験！サウナ愛を取り戻せ！]</title>
+    <updated>2026-06-14T01:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr54oz00oi.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 湯遊ワンダーランド
+                &lt;a href="https://tver.jp/series/sr54oz00oi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_01時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月28日(日)_01時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxje1rg0v.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                サウナに通い続けているうちに目が肥えて、サウナに口うるさくなってしまったきつこ（ともさかりえ）。自己嫌悪に陥り、新ヌシ（高田聖子）にアドバイスを求めると、「ラブ（愛）が足りない」と言われる。&lt;br&gt;そんな中、弟・やっちゃん（須賀健太）が犬を飼うことに。やっちゃんから犬の散歩係を命じられ、毎朝散歩に出かけることになるが…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epxje1rg0v"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy0pnzw8f</id>
     <title>ドラゴン桜(2021)_[第１話 時代に負けるな。今こそ、動け！]</title>
@@ -2728,125 +2768,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epd3egddle"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyjky23yh</id>
-    <title>ゆるキャン△_[第7話]</title>
-    <updated>2026-06-12T17:00:03+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvgzqs511.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ゆるキャン△
-                &lt;a href="https://tver.jp/series/srvgzqs511" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月10日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyjky23yh.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/11（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/12（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/13（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;四尾連湖キャンプ場にやってきたリン（福原遥）となでしこ（大原優乃）。テントを組み終えたなでしこはキャンプ場の散策をしていたところ、ベテランキャンパー姉妹・美波（土村芳）と涼子（北原帆夏）に出会う。一方、リンは焼肉の準備で備長炭に火をつけようとするが、なかなかうまくいかない。涼子の助けを借り、無事に備長炭に火をつけられたリンたちは、焼肉を堪能する。夜、目を覚ましトイレに立ったリンは不気味な叫び声を耳にする……。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyjky23yh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8hswxj1w</id>
-    <title>ゆるキャン△_[第6話]</title>
-    <updated>2026-06-12T17:00:02+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvgzqs511.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ゆるキャン△
-                &lt;a href="https://tver.jp/series/srvgzqs511" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月10日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8hswxj1w.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/11（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/12（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/13（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;新しいキャンプアイテム・コンパクト焚き火グリルを手に入れたリン（福原遥）は、なでしこ（大原優乃）の提案で焼肉キャンプを行うことに。なでしこの姉・桜（柳ゆり菜）の車でキャンプ場まで送ってもらうことになり、途中のスーパーでお肉を買い込んだリンとなでしこ。今回のキャンプ場は、知る人ぞ知る本栖湖の北西に位置するカルデラ湖で、江戸時代には「富士八海」のひとつに数えられた紅葉の名所・四尾連湖。木々に囲まれた美しいキャンプ場だが、ここにはある恐ろしい言い伝えがあるという……。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep8hswxj1w"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epkfn6z4an</id>
-    <title>ゆるキャン△_[第5話]</title>
-    <updated>2026-06-12T17:00:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvgzqs511.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ゆるキャン△
-                &lt;a href="https://tver.jp/series/srvgzqs511" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月10日(金)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkfn6z4an.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/11（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/12（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/13（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;リン（福原遥）と「野外活動サークル」（通称「野クル」）メンバーは、それぞれの冬キャンを楽しんでいた。高ボッチ高原に辿り着いたリン。松本市や諏訪湖、富士山までも一望できる山頂に行ったり、キャンプサイトでスープパスタを作ったりソロキャンを満喫する。その頃、ほったらかし温泉で湯上り後、名物の温玉揚げを食べてそのまま休憩所で寝てしまった野クル。夕方まで寝ていた野クルは、急いでパインウッドキャンプ場へ！　無事に着いた一同は、設営にとりかかる。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epkfn6z4an"/>
   </entry>
 </feed>
