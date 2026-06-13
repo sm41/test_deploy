@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-13T20:06:08+09:00</updated>
+  <updated>2026-06-13T22:06:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2488,45 +2488,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epqt7mgrdz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqerc5gza</id>
-    <title>なんで私が神説教_[第5話 つらい時は、逃げ出してもいいの?]</title>
-    <updated>2026-06-12T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr77a0f3kf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ なんで私が神説教
-                &lt;a href="https://tver.jp/series/sr77a0f3kf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqerc5gza.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　6/5(金)12:00～&lt;br&gt;#4-5　6/12(金)12:00～&lt;br&gt;#6-7　6/19(金)12:00～&lt;br&gt;#8-10　6/26(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;学校が生徒を差別!?静(広瀬アリス)のクラスの生徒を含む2年生11人に1年前の喫煙疑惑が浮上。当時の担任・聖羅(岡崎紗絵)に責任がのしかかるが…。11人のうち、森口(伊藤淳史)の『強制退学者リスト』に載っている6人だけが退学の危機に立たされる中、教師としての自信もモチベーションもない聖羅は「つらいことから逃げちゃダメなの?」と問題から目をそらし…。静は、差別的な処置を取る学園から生徒を守れるか!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqerc5gza"/>
   </entry>
 </feed>
