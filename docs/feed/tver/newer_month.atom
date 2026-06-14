@@ -2,13 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-14T02:05:09+09:00</updated>
+  <updated>2026-06-14T10:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epw6c2z6x7</id>
+    <title>【スティーブン・セガール】沈黙シリーズ_[沈黙の傭兵]</title>
+    <updated>2026-06-14T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7go7vxvj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 【スティーブン・セガール】沈黙シリーズ
+                &lt;a href="https://tver.jp/series/sr7go7vxvj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月12日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月13日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw6c2z6x7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                独裁政権を倒す名目でアフリカの小国へと渡ったシーガー（スティーヴン・セガール）。&lt;br&gt;しかし、これがCIAのドレシャム（ルーク・ゴス）が仕掛けた罠だと気づくと同時に、大切な戦友を失ってしまう。帰国後、友の復讐と遺された家族を守り抜くことを誓った彼に新たなミッションが。それはケープタウンの刑務所に収監された大物武器商人の息子を4日以内に刑務所から脱獄させるというものだった。守るべき者を人質にとられ、さらにドレシャムをはじめ、あらゆる敵がつけ狙う絶体絶命の状況の中、シーガーは任務を成功させることができるのか。そして彼が画策した、真の“ミッション”とは一体何なのか!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epw6c2z6x7"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epsfxcpnom</id>
+    <title>よくおごってくれる綺麗なお姉さん_[第19話]</title>
+    <updated>2026-06-14T02:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
+                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_02時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_02時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月13日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsfxcpnom.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                セクハラ問題に対し穏便な解決を望むチョ代表と保身のために必死になるナム理事によって、一方的にジナが悪者となり異動を命じられる。そんな時、ジナのためにアメリカ支社の勤務を希望していたジュニに転勤の話が回ってくる。ジナの誕生日に２人は楽しい夜を過ごすが、ジュニは覚悟を決めジナに一緒にアメリカへ行こうと話し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsfxcpnom"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7jo9zzet</id>
+    <title>よくおごってくれる綺麗なお姉さん_[第20話]</title>
+    <updated>2026-06-14T02:55:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0w3iacag.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ よくおごってくれる綺麗なお姉さん
+                &lt;a href="https://tver.jp/series/sr0w3iacag" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_02時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月14日(火)_02時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月13日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7jo9zzet.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                時は流れ、新しい恋人ができたジナだったが、仕事優先の恋人に飽き飽きしていた。そんな中、ジナとジュニはスンホの結婚式で再会する。そして、自分の今の状況に嫌気が差したジナは会社を辞め、済州島への移住を決める。一方、アメリカに戻る支度をしていたジュニは、以前ジナが携帯に録音していたメッセージを聞き…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7jo9zzet"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epbliqspyg</id>
+    <title>＆Hulu_[旅情サスペンス「旅人検視官 道場修作」特集。主演・内藤剛志のインタビューを交え、シリーズをご紹介！▼大人気リーガルドラマ「シカゴ・ジャスティス」第1話後半を放送]</title>
+    <updated>2026-06-14T02:40:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_02時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月27日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月13日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbliqspyg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特集①は「旅人検視官 道場修作」特集。&lt;br&gt;内藤剛志演じる元警視庁検視官･道場修作が、思いがけず事件に巻き込まれていく正統派･旅情サスペンス。ドラマシリーズの魅力を振り返るとともに、内藤さんのインタビューを交えて劇場版の魅力をご紹介！&lt;br&gt;▼Just One Episodeは「シカゴ・ジャスティス」第1話後半を放送。シカゴの街で発生する様々な大事件に挑む検察官たちを描いた法廷ドラマ
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbliqspyg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1cmxhqmw</id>
     <title>三カ国な王道LOVE_[＃3「僕の仕事」]</title>
@@ -448,45 +608,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep9q6zcwjl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgatc4gb1</id>
-    <title>刑事、ふりだしに戻る_[8話 復讐相手は冤罪...!?]</title>
-    <updated>2026-06-12T21:54:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwtlcpo1t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 刑事、ふりだしに戻る
-                &lt;a href="https://tver.jp/series/srwtlcpo1t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月12日(金)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月19日(金)_21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月12日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgatc4gb1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                金井舞華が殺される日、前世で犯人として逮捕された槇村（池内博之）を誠（濱田岳）は監視するが、その裏でなぜか事件が起きてしまう。さらに、現場に居合わせた吉岡（鈴木伸之）が犯人に刺され、意識不明の重体に…。前世よりも状況が悪化し愕然とする誠。そして頭によぎる――「槇村は前世でも冤罪だった…？」一方、黒崎（生瀬勝久）らは、今回と吉岡の妹の事件が酷似していることに気づき、同一犯の可能性を疑い始めていた。　［期間限定無料配信］　毎週金曜夜9時からテレビ東京にて放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epgatc4gb1"/>
   </entry>
 </feed>
