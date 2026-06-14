@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-14T20:06:09+09:00</updated>
+  <updated>2026-06-14T22:06:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epldfnv3ho</id>
+    <title>ＧＩＦＴ_[最終話 決勝戦！愛と奇跡の果てに届くギフト]</title>
+    <updated>2026-06-14T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＧＩＦＴ
+                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月26日(日)_20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月14日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epldfnv3ho.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                決勝戦は「ブルズvsシャーク」に決まった。&lt;br&gt;しかし、涼（山田裕貴）が亡くなったことを受け、世間は責任を問う声で荒れる。大会本部が緊急会議を開く中、伍鉄（堤真一）をさらに追い込む記事が萩森真一（岩男海史）の策略で出てしまう。それを受けて決勝戦は中止になりかけ…。そんな中、涼の家を訪れ涼の残した想いに心動かされた人香（有村架純）は、ある行動に出る。&lt;br&gt;はたしてブルズは「シャークに勝って日本一」になれるのか？&lt;br&gt;天才宇宙物理学者・伍鉄が出す最後の答えとは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epldfnv3ho"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epw6c2z6x7</id>
     <title>【スティーブン・セガール】沈黙シリーズ_[沈黙の傭兵]</title>
