@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-15T16:06:08+09:00</updated>
+  <updated>2026-06-15T18:06:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep1v183z6f</id>
+    <title>ワカコ酒　Season2_[第9夜　初めての朝酒、もつ煮込み]</title>
+    <updated>2026-06-15T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒　Season2
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月29日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月15日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1v183z6f.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「もつ煮込み」。携帯を忘れたタクシーの営業所に行った際に見つけた大衆酒場。そこは朝から飲める店！別な日、満を持して、生まれて初めての「朝酒」に挑むワカコ。最初は戸惑うワカコも熱燗と「まぐろぬた」、そして、焼酎水割りとこの店自慢の「もつ煮込み」を食べる頃には、「朝酒」の世界にすっかりなじんていた。　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep1v183z6f"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epu23tixh4</id>
     <title>華麗なるスパイス_[第3話 夫婦の絆 ラクサ]</title>
@@ -48,85 +88,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epu23tixh4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epro2281k8</id>
-    <title>10回切って倒れない木はない_[第10話(最終話)「10回切って倒れない木はない」]</title>
-    <updated>2026-06-14T23:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv7am36zd.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 10回切って倒れない木はない
-                &lt;a href="https://tver.jp/series/srv7am36zd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月21日(日)_22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月14日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epro2281k8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                「桃子さんには、もう会えません」ーー。大けがを負って車椅子生活となった韓国の財閥御曹司キム・ミンソク(志尊淳)は、愛する河瀬桃子(仁村紗和)に別れを告げ、日本を離れ韓国へ。希望をなくしたミンソクは、桃子と約束した“理想のホテルを作る”という夢も見失ってしまう……。&lt;br&gt;『10回切って倒れない木はない』ーー大切な言葉を胸にどんな困難も乗り越えてきたミンソクと桃子に、笑顔は戻るのか!?運命の最終回!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epro2281k8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epldfnv3ho</id>
-    <title>ＧＩＦＴ_[最終話 決勝戦！愛と奇跡の果てに届くギフト]</title>
-    <updated>2026-06-14T21:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra31nn3et.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ＧＩＦＴ
-                &lt;a href="https://tver.jp/series/sra31nn3et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月14日(日)_21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月26日(日)_20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月14日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epldfnv3ho.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                決勝戦は「ブルズvsシャーク」に決まった。&lt;br&gt;しかし、涼（山田裕貴）が亡くなったことを受け、世間は責任を問う声で荒れる。大会本部が緊急会議を開く中、伍鉄（堤真一）をさらに追い込む記事が萩森真一（岩男海史）の策略で出てしまう。それを受けて決勝戦は中止になりかけ…。そんな中、涼の家を訪れ涼の残した想いに心動かされた人香（有村架純）は、ある行動に出る。&lt;br&gt;はたしてブルズは「シャークに勝って日本一」になれるのか？&lt;br&gt;天才宇宙物理学者・伍鉄が出す最後の答えとは…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epldfnv3ho"/>
   </entry>
 </feed>
