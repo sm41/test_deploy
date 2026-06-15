@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-15T20:06:08+09:00</updated>
+  <updated>2026-06-15T22:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdirihtvv</id>
+    <title>サバ缶、宇宙へ行く_[第10話 最終バトンが第5期生に渡された！遂に認証なるか？]</title>
+    <updated>2026-06-15T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月15日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdirihtvv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                寺尾瑠夏（伊東蒼）たち4期生が開発したサバ缶は、1年半の保存検査の結果、官能検査をクリアできずに認証は見送りに。しかし悔しい気持ちを吐露しながらも、「私たちの夢は後輩に託します！」という瑠夏たちの言葉は後輩の心を動かす。宇宙食サバ缶プロジェクトに興味を示さなかった藤倉彩花（池端杏慈）、水谷結（南琴奈）、吉瀬乃愛（蒼戸虹子）、桜庭美咲（横田真子）が5期生としてその夢を受け継ぐことに。&lt;br&gt;現在は教師を務める菅原奈未（出口夏希）たち1期生の時代から書き込まれてきた“黒ノート”を参考に実習を進める彩花たち。JAXA（宇宙航空研究開発機構）の木島真（神木隆之介）から指摘されていた、長期保存でも変化しない「味」と「柔らかさ」の改良に挑んでいた。&lt;br&gt;しかし自分の夢として「先輩たちの夢、私たちが叶えます」と意気込む彩花とは違い、乃愛たちにとってサバ缶を宇宙に飛ばすことは「先輩たちの夢」であり、その実習を引き受けているだけという姿勢。その気持ちのすれ違いから、作業にも影響が出てしまい…。&lt;br&gt;一方で、学年主任となった朝野峻一（北村匠海）に教育委員会から声がかかっていた。「宇宙食の認証が取れたら、学校を離れるかもしれない」という重大な決断を打ち明けられた奈未は複雑な思いを抱えていた。&lt;br&gt;そしてついに、木島と皆川有紀（ソニン）を学校に迎え、最終審査の時が近づいていたー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdirihtvv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep6wte62re</id>
     <title>孤独のグルメ Season5_[第12話（最終回） 東京都豊島区西巣鴨の一人すき焼き]</title>
