@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-15T18:06:09+09:00</updated>
+  <updated>2026-06-15T20:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwxy5w3oc</id>
+    <title>好きな人がいること_[第4話 つのる想い]</title>
+    <updated>2026-06-15T19:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfhi2utku.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 好きな人がいること
+                &lt;a href="https://tver.jp/series/srfhi2utku" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwxy5w3oc.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：5月30日(土) ～ 7月10日(金)&lt;br&gt;#2：6月6日(土) ～ 7月10日(金)&lt;br&gt;#3：6月13日(土) ～ 7月10日(金)&lt;br&gt;#4：6月15日(月) ～ 6月22日(月)&lt;br&gt;#5：6月18日(木) ～ 6月25日(木)&lt;br&gt;#6：6月21日(日) ～ 6月28日(日)&lt;br&gt;#7：6月24日(水) ～ 7月1日(水)&lt;br&gt;#8：6月27日(土) ～ 7月4日(土)&lt;br&gt;#9：6月30日(火) ～ 7月7日(火)&lt;br&gt;#10：7月3日(金) ～ 7月10日(金)&lt;br&gt;&lt;br&gt;目覚めた櫻井美咲（桐谷美玲）がリビングに行くと誰もいない。テーブルの上に、釣りに行ってくると柴崎千秋（三浦翔平）のメモが残されていた。&lt;br&gt;千秋は夏向（山﨑賢人）、冬真（野村周平）と釣りの真っ最中。そんな時でも、冬真は女の子の話。先日会った西島愛海（大原櫻子）が気になっているのだ。二宮風花（飯豊まりえ）とは別れたのかと尋ねる千秋だが、そうではないらしい。あきれる千秋に、冬真は美咲のことを聞く。すると、千秋は美咲のことは真剣に考えていると答えた。夏向は黙って聞いている。冬真は、夏向の美咲への気持ちにも興味があった。&lt;br&gt;『SeaSons』で美咲が開店準備をしていると、高月楓（菜々緒）が来た。そして、楓は千秋への気持ちは譲らないと美咲につきつけて帰ってしまった。&lt;br&gt;冬真は、釣りの帰り道で愛海と出会う。冬真を待っていたと言う愛海に冬真は有頂天。愛海は、冬真の兄弟にも会いたいと言う。&lt;br&gt;その夜、美咲は石川若葉（阿部純子）に電話。美咲は勢いで楓に恋のライバル宣言をしてしまったのだ。どうすれば良いのかと聞く美咲に、若葉は花火大会で告白しろとアドバイスする。&lt;br&gt;早速、千秋を花火大会に誘おうとする美咲だが、なかなか言い出せない。そんなところに、日村信之（浜野謙太）が奥田実果子（佐野ひなこ）と一緒に現れ『SeaSons』メンバーをバーベキュー大会に誘う。普段言えないようなことも、こういう場所でなら言えると話す実果子に、美咲は・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『好きな人がいること』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epwxy5w3oc"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epoiu6kf4u</id>
     <title>VIVANT_[第五話 ヴィヴァンの真実…明かされる運命の絆]</title>
@@ -2608,165 +2648,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epj74tpoik"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epggrys20v</id>
-    <title>１８／４０～ふたりなら夢も恋も～_[episode５ ついに迎える出産の時―18才で母になるということ]</title>
-    <updated>2026-06-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjy35j1xp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ １８／４０～ふたりなら夢も恋も～
-                &lt;a href="https://tver.jp/series/srjy35j1xp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月22日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epggrys20v.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                【TBS】火曜ドラマ「君の好きは無敵」７月スタート！ 主演：松本若菜 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)0:00～&lt;br&gt;#2：6月6日(土)0:00～&lt;br&gt;#3：6月7日(日)0:00～&lt;br&gt;#4：6月11日(木)0:00～6月18日(木)23:59&lt;br&gt;#5：6月15日(月)0:00～6月22日(月)23:59&lt;br&gt;#6：6月19日(金)0:00～6月26日(金)23:59&lt;br&gt;#7：6月23日(火)0:00～6月30日(火)23:59&lt;br&gt;#8：6月27日(土)0:00～7月4日(土)23:59&lt;br&gt;#9：7月2日(木)0:00～7月9日(木)23:59&lt;br&gt;#10：7月7日(火)0:00～&lt;br&gt;------------&lt;br&gt;今までお金に困っていると思いご飯やおかずを分けてあげていた祐馬（鈴鹿央士）が、実は黒澤祐一社長（髙嶋政宏）の息子だったと知り、有栖（福原遥）は祐馬に裏切られた思いだった。その話をマタニティヨガをしながら瞳子（深田恭子）や薫（松本若菜）に愚痴っていた有栖は、瞳子の様子がおかしいことに気づく。有栖に何かいいことがあったのではと詰め寄られ、瞳子は加瀬（上杉柊平）に告白されたことを打ち明けた。そんな中、貴美子（片平なぎさ）が突然瞳子のマンションを訪ねて来る。瞳子が有栖と一緒に暮らしていると知らなかった貴美子は、驚きながらも２人の世話を焼く。瞳子と貴美子のあけすけなやり取りを目の当たりにし、それを微笑ましく見つめる有栖。結婚だ孫だと繰り返す貴美子に、瞳子はついに自分の病気を告白しようと…。その後、出産の日が近づくにつれ、夢も出産もと思っていた有栖に翳りが見られるようになる。自分のことばかりで母になる資格がないのではと、不安に押しつぶされそうになった有栖は、瞳子に心無い言葉を吐いてしまい…。そして有栖の陣痛が始まり、ついに出産の時を迎える―。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epggrys20v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfvulmap3</id>
-    <title>相棒 season20_[第3話『復活～最終決戦』]</title>
-    <updated>2026-06-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season20
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月21日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfvulmap3.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                右京（水谷豊）と亘（反町隆史）は、青木（浅利陽介）をともなって、加西周明（石丸幹二）が生前、準備していた仮想現実の世界に足を踏み入れる。そこに、官房長官・鶴田翁助（相島一之）の“弱点”が隠されていると踏んだ右京たちは、加西のアバターに案内されるまま歩を進めるが…。いっぽう、元内閣情報官の栗橋（陰山泰）は、柾庸子（遠山景織子）の一件をめぐって捜査一課から厳しい追及を受けていたが、関与が疑われる鶴田をかばってか、完全黙秘を貫いていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epfvulmap3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epeaqvdpxv</id>
-    <title>相棒 season20_[第6話『マイルール』]</title>
-    <updated>2026-06-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season20
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月21日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeaqvdpxv.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                福山光一郎（菅原大吉）というベストセラー作家が、一人暮らしの自宅で刺殺された。警察は、もろもろの状況から強盗殺人の線で捜査を開始。いっぽう右京（水谷豊）は、現場から新作の最終回の原稿が消えていることに疑問を抱く。その小説は、少女殺害事件の捜査にあたる老刑事が、正体不明の犯人を執念で追い詰めていくストーリーらしいのだが…。版元の編集者から話を聞いた右京と亘（反町隆史）は、新作の掲載を前に、福山が突然、出版社を乗り換えていたことを知る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epeaqvdpxv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb2dqzad8</id>
-    <title>相棒 season20_[拡大スペシャル第2話『復活～死者の反撃』]</title>
-    <updated>2026-06-15T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 相棒 season20
-                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月21日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb2dqzad8.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                右京（水谷豊）と亘（反町隆史）が、自室で死んでいる中郷都々子（織田梨沙）を発見した。一見、自殺に見えるが、玄関は施錠されておらず、部屋が冷房で極端に冷やされているという、不可解な点もあった。それでも捜査一課は、都々子の死を、自殺として処理。納得いかない右京と亘は、捜査を続行しようとするが、亘が罪をなすりつけられた“鍵泥棒”の一件が尾を引く。形式上、特命係を統括している峯秋（石坂浩二）が、マスコミに糺弾されるなど、外部から圧力が掛かったのだ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epb2dqzad8"/>
   </entry>
 </feed>
