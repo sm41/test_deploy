@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-16T18:05:09+09:00</updated>
+  <updated>2026-06-16T20:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epx1viq3t8</id>
+    <title>孤独のグルメ Season6_[第1話 大阪府美章園のお好み焼き定食と平野の串かつ]</title>
+    <updated>2026-06-16T18:25:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season6
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月16日(火)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月16日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx1viq3t8.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                仕事で久しぶりに大阪にやってきた井之頭五郎（松重豊）。一人目のクライアント、不動産屋の島崎（六角精児）は、数年前まで東京で仕事をしており、五郎に仕事を頼みたいと大阪まで呼び寄せたのだ。打ち合わせを終えた途端腹が減った五郎。店探しを始めると飾り気のない、渋い佇まいの店に入ってみるが、ある定番メニューを食べる客の姿や、常連の吉田（池乃めだか）にツッコミを要求されるなど、大阪の洗礼を受けるのだった。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epx1viq3t8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epcql5ew35</id>
     <title>ワカコ酒　Season2_[第10夜　めでタイ日にはキンメの煮付け]</title>
@@ -328,45 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep1v183z6f"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epu23tixh4</id>
-    <title>華麗なるスパイス_[第3話 夫婦の絆 ラクサ]</title>
-    <updated>2026-06-15T12:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月15日(月)_12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_12月28日(月)_12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月14日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu23tixh4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                廷恩(ティンエン)の店に、結婚30周年の大富豪夫妻が来店。彼らの願いは、貧しかった新婚当時に食べた思い出の家庭料理「ラクサ」を再現することだった。芬青(フェンチン)らと必死にレシピを捜索するが、当時の店は消え、料理人も行方不明。刻一刻と迫る予約時間。果たして二人は、失われた“絆の味”を復活させ、夫妻を笑顔にできるのか？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epu23tixh4"/>
   </entry>
 </feed>
