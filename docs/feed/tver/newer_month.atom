@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-16T16:06:09+09:00</updated>
+  <updated>2026-06-16T18:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcql5ew35</id>
+    <title>ワカコ酒　Season2_[第10夜　めでタイ日にはキンメの煮付け]</title>
+    <updated>2026-06-16T17:45:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ワカコ酒　Season2
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月16日(火)_17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月16日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcql5ew35.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「キンメの煮付け」。姉の出産祝いを購入した帰り、自分もお祝い気分を味わおうと、ある店に入ったワカコが注文したのは、めでたい「キンメの煮付け」。縁起の良いお酒「七福神」と共に、濃厚な煮汁が沁みて柔らかい煮付けを堪能！　姉の赤ちゃんの成長を願いながら、すっかりお祝い気分を味わいつくすワカコであった。　[期間限定無料配信]
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epcql5ew35"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epuz0athni</id>
     <title>クライム・イン・リゾート～元捜査官アレックスの犯罪ファイル　シーズン２_[第8話]</title>
@@ -48,46 +88,6 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epuz0athni"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9mdlpt13</id>
-    <title>パク・ハギョンの旅行記_[＃１・心を空にする]</title>
-    <updated>2026-06-16T02:09:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8owyb6er.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ パク・ハギョンの旅行記
-                &lt;a href="https://tver.jp/series/sr8owyb6er" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月16日(火)_02時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月11日(火)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月15日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9mdlpt13.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                消えてしまいたい時に出かける１日だけの旅。高校の国語教師のハギョンは、日帰りのテンプルステイをするために海南（ヘナム）へ向かう。お寺での滞在を楽しむハギョンだが、心を空にするための瞑想では、雑念を捨てられず煩悩がむき出しに。山の中で修行中の女性に出会ったハギョンは、彼女のあとをついて行き…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9mdlpt13"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/eps1zgvc70</id>
