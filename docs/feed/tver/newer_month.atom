@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-19T01:36:20+09:00</updated>
+  <updated>2026-06-19T02:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epaggyz4bg</id>
+    <title>ネタジョ_[最終話「オール阪神・巨人」《ドラマフィル》]</title>
+    <updated>2026-06-19T01:59:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzzu4ls15.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ネタジョ
+                &lt;a href="https://tver.jp/series/srzzu4ls15" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月19日(金)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月26日(金)_01時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月18日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaggyz4bg.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                「母親ってなんやねん！」と抑圧してきた怒りを爆発させ、大切な漫才のビデオを破壊した幸子。絶望の底で父・護仁が語り始めたのは、封印された「母の真実」だった。生と死の境界線で、幸子の耳に響いたのは幼い頃から聴き続けたオール阪神・巨人の心地よいリズム。笑いと涙が導く、ネタジョのバトンと再生のフィナーレ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epaggyz4bg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epulpvq2uw</id>
     <title>エミリとマリア_[Episode1「わたしたちの願望ってなに？」《ドラマ特区》]</title>
