@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-18T05:23:07+09:00</updated>
+  <updated>2026-06-18T10:06:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eptwj3nt2a</id>
+    <title>愛される花_[第1話 しずく]</title>
+    <updated>2026-06-18T08:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月18日(土)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月17日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptwj3nt2a.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                上海で敏腕キャリアウーマンとして生きる韻錦(ユンジン)(ヤン・ズーシャン)は、ある日、見知らぬ女性から突然ワインを浴びせられる。夫との不倫を疑う妻の腹いせという屈辱的な状況。そんな彼女の様子を遠くから見つめる人物がいた…。物語の舞台は、数年前の紹興。転校生のユンジンは、そこで同級生の程錚(チョン・ジョン)(エルビス・ハン)と出会う。境遇も性格も正反対な二人の、激しくも切ない運命の歯車が回りだす。なぜ彼女は不条理な現実に耐え続けるのか？止まっていた10年の愛が、今、鮮やかに動き出す。珠玉の純愛ラブストーリー、ついに開幕。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eptwj3nt2a"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0za7wjzm</id>
     <title>ヤンキー激戦区の四天王がアイドルグループに転生したら？_[第2話 ヤンキーアイドルに刺客が現る!?]</title>
@@ -488,45 +528,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epx1viq3t8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcql5ew35</id>
-    <title>ワカコ酒　Season2_[第10夜　めでタイ日にはキンメの煮付け]</title>
-    <updated>2026-06-16T17:45:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ワカコ酒　Season2
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月16日(火)_17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月30日(火)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月16日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcql5ew35.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                村崎ワカコ、26歳、ＯＬ。仕事を終えると、うまい酒とうまい肴を求めて、女ひとり、酒場をさすらう。今宵の酒の肴は「キンメの煮付け」。姉の出産祝いを購入した帰り、自分もお祝い気分を味わおうと、ある店に入ったワカコが注文したのは、めでたい「キンメの煮付け」。縁起の良いお酒「七福神」と共に、濃厚な煮汁が沁みて柔らかい煮付けを堪能！　姉の赤ちゃんの成長を願いながら、すっかりお祝い気分を味わいつくすワカコであった。　[期間限定無料配信]
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epcql5ew35"/>
   </entry>
 </feed>
