@@ -2,13 +2,573 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2026-06-18T16:06:11+09:00</updated>
+  <updated>2026-06-18T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdvu6qldv</id>
+    <title>みなと商事コインランドリー2_[第4話 湊、大学に潜入…!?]</title>
+    <updated>2026-06-18T17:00:15+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー2
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdvu6qldv.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/19（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/20（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;相変わらずシン（西垣匠）のペースに振り回されている湊（草川拓弥）。ある日、シンの忘れ物を届けに大学へ行くと、学生たちの視線を感じ、自分は場違いなのではと不安に…。シンを見つけるも、なぜか怒っているシンの様子に自分のことを恥ずかしく思っているのではと不安になってしまう。一方、明日香（奥智哉）が女の子と一緒にいるのを目撃した柊（稲葉友）は、モヤモヤした気持ちから明日香からの電話に出られずにいた。自分でも分からない感情に戸惑い…。　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdvu6qldv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0l8nmq79</id>
+    <title>みなと商事コインランドリー2_[第3話 シンと明日香の悩み…]</title>
+    <updated>2026-06-18T17:00:14+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー2
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0l8nmq79.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/19（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/20（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;同居生活がスタートした湊（草川拓弥）とシン（西垣匠）。朝から湊の姿を見て幸せを感じるシンだったが、もっと湊に近づきたいと思っていた。そんな中、湊からお祭りに誘われ、一緒に浴衣を買いに行くことに。一方、明日香（奥智哉）は模試でA判定が出たら恋人の柊（稲葉友）とデートをする約束をしていたが、結果は惜しくもB判定…。頑張ったご褒美にデートして欲しいと頼むも叶わず柊との気持ちの差に悩むように…。　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0l8nmq79"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf7xlwih5</id>
+    <title>みなと商事コインランドリー2_[第2話 七夕の願いドキドキの同棲]</title>
+    <updated>2026-06-18T17:00:13+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー2
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf7xlwih5.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/19（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/20（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;シン（西垣匠）から家のリフォームが終わるまで一緒に住まわせてほしいと頼まれた湊（草川拓弥）は、動揺するも仕方なく受け入れる。喜ぶシンだったが、湊から案内されたのは隣の部屋。さらに「同棲するにはまだ早い」と言われてしまい不服なシン。一方湊は、ご飯を一緒に食べたり、合鍵を求められたり、気づけば完全にシンのペースに。そんなある日、足早にバイト先から帰るシンは湊の祖父母と出会い、一緒に湊のアパートに行くことに。そこで祖父母からあることを告げられ…。　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epf7xlwih5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0x1qm26e</id>
+    <title>みなと商事コインランドリー2_[第1話 両思いの恋…甘やかな日々]</title>
+    <updated>2026-06-18T17:00:12+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー2
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月18日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0x1qm26e.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/19（金）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/20（土）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;古びたコインランドリー「みなと商事」を祖父から引き継いだ湊晃（草川拓弥）は、相変わらずのんびりと店を営んでいた。そんな中、10年越しの想いを叶え晴れて湊と両想いになった香月慎太郎＝シン（西垣匠）が訪れる。付き合い始めて3カ月近く経つが、湊はシンのペースに乗せられっぱなし。とはいえ甘やかな日々を過ごしていた2人だったが、シンにはある悩みが…。一方、受験勉強に励む英明日香（奥智哉）は、付き合い始めた佐久間柊（稲葉友）との気持ちの差に悩んでおり…。　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep0x1qm26e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epd0ouuk8c</id>
+    <title>みなと商事コインランドリー_[第8話 夏の終わりとそれぞれの決断！]</title>
+    <updated>2026-06-18T17:00:11+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd0ouuk8c.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/17（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/18（木）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;10年前に命を救われてからずっと湊晃（草川拓弥）のことを想い続けてきた香月慎太郎（西垣匠）。その想いを聞いた湊は、シンとのことをちゃんと考えるべく、高校時代に想いを寄せていた相手・佐久間先生（福士誠治）と決着をつけることに。一方、シンの妹・桜子（豊嶋花）はコインランドリーで、塾講師・柊（稲葉友）に遭遇。そんな二人の姿を見ていた明日香（奥智哉）は……。そんな中、シンの成績が下がり今のままだと志望の医大に入るのが難しいと言われ、湊も偶然聞いてしまう。考え抜いた湊が出した答えとは……？　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epd0ouuk8c"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7fl5jfa4</id>
+    <title>みなと商事コインランドリー_[第7話 気まずい二人……10年前の真相!?]</title>
+    <updated>2026-06-18T17:00:10+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7fl5jfa4.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/17（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/18（木）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;夏休みに入り、湊晃（草川拓弥）は水泳部のコーチとして部員の指導をしていた。そんな中、香月慎太郎（西垣匠）の誕生日会への参加のお誘いが。シンへのプレゼントを買いに行った帰り道、湊は佐久間先生（福士誠治）に遭遇し、一緒にすいかシェイクを飲むことに。その姿を目撃したシンは湊と交わした約束を忘れられたと二人は険悪に……。気まずいままシンの誕生日会を迎えた湊。二人は仲直りできるのか……？　そして、シンから語られた10年前の出来事とは……　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7fl5jfa4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep87geqazn</id>
+    <title>みなと商事コインランドリー_[第6話 過去の自分から卒業！]</title>
+    <updated>2026-06-18T17:00:09+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep87geqazn.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/17（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/18（木）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ある日突然、湊晃（草川拓弥）の元同僚・町田咲（井上小百合）がお店に現れた。過去に付き合っていた二人だったが、湊が突然会社を辞め、地元に戻ったことで二人は別れていた。地元で生き生きとしている湊をみた咲は、別れた理由が地元にも有るのではと尋ねるが、湊は黙ったまま……。そんな時、二人のもとに香月慎太郎（西垣匠）が現れるが元気がない……。いつも大事なことから逃げてシンに心配をかけてばかりの湊はシンの為にもと、本当のことを伝えるため咲のもとへ走り出す！　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep87geqazn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epo7cd7dmf</id>
+    <title>みなと商事コインランドリー_[第5話 想い人と再会……決意の時!?]</title>
+    <updated>2026-06-18T17:00:08+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ みなと商事コインランドリー
+                &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo7cd7dmf.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/17（水）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/18（木）17:00～&#13;&lt;br&gt;#9,#10,#11,#12：6/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;高校時代に想いを寄せていた担任・佐久間孝之（福士誠治）と再会し、思わずその場から逃げ去ってしまった湊晃（草川拓弥）。香月慎太郎（西垣匠）からの連絡も無視し、今も佐久間先生のことが好きなのかと自問自答していた。まっすぐに想いをぶつけてくるシンに対し、昔と何も変わらず逃げ続ける湊は、ついに先生とケリをつけることを決意！　先生と話をするため、駄菓子さくま屋に向かうが、いたのは先生の甥・佐久間柊（稲葉友）で……。　［期間限定無料配信］　奥智哉 主演！「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epo7cd7dmf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7vhkigb2</id>
+    <title>２５時、赤坂で Season２_[最終話 幕が上がる]</title>
+    <updated>2026-06-18T17:00:07+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4nc6dmx1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ２５時、赤坂で Season２
+                &lt;a href="https://tver.jp/series/sr4nc6dmx1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7vhkigb2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/16（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/17（水）17:00～&#13;&lt;br&gt;#9,#10：6/18（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;舞台「雨と懺悔」の初日。舞台に立った白崎（新原泰佑）、佐久間（宇佐卓真）、黒木（夏生大湖）たちの演技は観客を圧倒していく。客席で見守る羽山（駒木根葵汰）にも様々な思いが去来して…。大喝采の中で幕を閉じた公演後、羽山と白崎は愛しい相手へのまっすぐな気持ち、そして俳優としての決意を伝え合う。そして羽山たちが向かった場所は…？ドラマ、映画、舞台とさまざまな場所で共に歩んできた二人の第2章、ついに完結！　［期間限定無料配信］　「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep7vhkigb2"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epek70nlqm</id>
+    <title>２５時、赤坂で Season２_[第9話 本当に大切なもの]</title>
+    <updated>2026-06-18T17:00:06+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4nc6dmx1.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ２５時、赤坂で Season２
+                &lt;a href="https://tver.jp/series/sr4nc6dmx1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月16日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epek70nlqm.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/16（火）17:00～&#13;&lt;br&gt;#5,#6,#7,#8：6/17（水）17:00～&#13;&lt;br&gt;#9,#10：6/18（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;主演映画「ラストノート」の撮影中、母・はるか（雛形あきこ）との過去が蘇り、演技に苦悩する羽山（駒木根葵汰）。同時にオファーされていた海外作品の主演オファーも自身の過去と感情との折り合いをつけられず、及び腰になっていた。そのことを知った白崎（新原泰佑）は感情を抑えきれず、ついに二人は衝突してしまう。翌日、羽山の撮影現場に現れたのは、母・はるかで…!?そんな中、遂に舞台「雨と懺悔」が幕を開ける！　［期間限定無料配信］　「君は夏のなか」テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epek70nlqm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eply6ni0cq</id>
+    <title>TXQ FICTION / UFO山_[UFO山(1)]</title>
+    <updated>2026-06-18T17:00:05+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ TXQ FICTION / UFO山
+                &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_09月04日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eply6ni0cq.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年12月22日放送&#13;&lt;br&gt;&#13;&lt;br&gt;＜監督・酒井善三×企画プロデュース・大森時生×主演・山下リオ＞&#13;&lt;br&gt;&#13;&lt;br&gt;映画『遺愛』、6月19日(金)から全国公開！&#13;&lt;br&gt;—世界は呪いで溢れている—
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/eply6ni0cq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvnd3kn4p</id>
+    <title>TXQ FICTION / UFO山_[UFO山(2)]</title>
+    <updated>2026-06-18T17:00:04+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ TXQ FICTION / UFO山
+                &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_09月04日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvnd3kn4p.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年12月23日放送&#13;&lt;br&gt;&#13;&lt;br&gt;＜監督・酒井善三×企画プロデュース・大森時生×主演・山下リオ＞&#13;&lt;br&gt;&#13;&lt;br&gt;映画『遺愛』、6月19日(金)から全国公開！&#13;&lt;br&gt;—世界は呪いで溢れている—
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvnd3kn4p"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epesou9pdh</id>
+    <title>TXQ FICTION / UFO山_[UFO山(3)]</title>
+    <updated>2026-06-18T17:00:03+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ TXQ FICTION / UFO山
+                &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_09月04日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epesou9pdh.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年12月24日放送&#13;&lt;br&gt;&#13;&lt;br&gt;＜監督・酒井善三×企画プロデュース・大森時生×主演・山下リオ＞&#13;&lt;br&gt;&#13;&lt;br&gt;映画『遺愛』、6月19日(金)から全国公開！&#13;&lt;br&gt;—世界は呪いで溢れている—
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epesou9pdh"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvox775pe</id>
+    <title>TXQ FICTION / UFO山_[UFO山(4)]</title>
+    <updated>2026-06-18T17:00:02+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ TXQ FICTION / UFO山
+                &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_09月04日(金)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvox775pe.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3,#4：6/18（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年12月25日放送&#13;&lt;br&gt;&#13;&lt;br&gt;＜監督・酒井善三×企画プロデュース・大森時生×主演・山下リオ＞&#13;&lt;br&gt;&#13;&lt;br&gt;映画『遺愛』、6月19日(金)から全国公開！&#13;&lt;br&gt;—世界は呪いで溢れている—
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epvox775pe"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eptwk3tj06</id>
     <title>彼女たちの犯罪_[#7 破滅へと導く女の陰謀と裏切り…]</title>
@@ -1448,285 +2008,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/ep2c4klepa"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyylvgwpp</id>
-    <title>大奥～誕生[有功･家光篇]_[第七話 私の分身私の献身]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvt90t1r0.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 大奥～誕生[有功･家光篇]
-                &lt;a href="https://tver.jp/series/srvt90t1r0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyylvgwpp.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月10日(水)10:00～6月16日(火)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;ある日、家光（多部未華子）は、伝右衛門（内藤剛志）を伴い城下へ視察に出かけた。城下では、道を往来しているのは女ばかり。活気はあるがよく見ると、髪を結い上げた女たちが忙しそうに男勝りの仕事をしていた。かつての公儀が遊郭として認めた吉原は、男子が激減したため閑散とし、見る影もなくなり、今は年寄りや病人ばかりの売り物の男が並んでいる様子に家光はショックを隠せなかった。城下の飢饉の状況を把握した家光は、早速城に戻り六人衆を集め、百姓一揆の気運をくじく策を命じるなど家臣を驚かせる。そんなとき、玉栄（田中聖）が有功（堺雅人）の命に従い、家光のお側に上がる夜が来た。有功を何より崇拝する玉栄は、有功の愛する人・家光の側室に上がらなければならないことに思い悩む。そして、寝所に上がってもなお家光に自分の思いをぶつけるのだった。&lt;br&gt;一方、中奥では疫病のためお家断絶が危ぶまれる大名家が増えたことで、治安の悪化を懸念していた。一時的にでも女子の後継ぎを立てることを認めるしかないと言う家臣たちに、春日局（麻生祐未）は激怒。しかし、稲葉正勝（平山浩行）や信綱（段田安則）らが、女でありながら今の家光が名君と思えると語ると反論できなくなってしまう。そして、苛立つ春日局が、ある日突然…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyylvgwpp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epwhr4q4f5</id>
-    <title>下町ロケット(2015)_[第７話 反撃開始!!町工場VS医療の野望]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdgql8nt1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 下町ロケット(2015)
-                &lt;a href="https://tver.jp/series/srdgql8nt1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwhr4q4f5.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月10日(水)10:00～6月16日(火)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;佃（阿部寛）の号令の下、新型人工弁「ガウディ」の開発に挑戦することになった佃製作所。佃はこのプロジェクトの中心メンバーとして、開発部から立花洋介（竹内涼真）、加納アキ（朝倉あき）、鈴木健児（堀井新太）の３人を、営業部からは江原（和田聰宏）を選出した。一方、椎名（小泉孝太郎）から、人工心臓だけでなく人工弁への参入を促された貴船恒広（世良公則）は、一村隼人（今田耕司）のもとを訪れ「ガウディ」の共同開発を持ちかける。その話を聞いた一村は…。その頃、立花をリーダーに据えて動き出したガウディチームだったが、失敗が連続してしまう。しかし、諦めきれない３人は佃とともに「ガウディ計画」の原点を見つめ直すため、福井へと旅立つ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epwhr4q4f5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epo783j4rz</id>
-    <title>ブラックペアン シーズン２_[第７話 手術失敗！裏取引の罠!!]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqxuy7prn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ブラックペアン シーズン２
-                &lt;a href="https://tver.jp/series/srqxuy7prn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo783j4rz.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』８月２１日（金）全国公開！！&lt;br&gt;出演：橋本さとし 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：6月5日(金)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月11日(木)10:00～6月17日(水)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;天城（二宮和也）の不在中にウエスギモータースの会長・上杉歳一（堺正章）の緊急手術を行った佐伯（内野聖陽）だが、佐伯式は行わずにオペを中断。薬物治療に切り替え、上杉会長は一命をとりとめたが、看護師長の藤原真琴（神野三鈴）はいつもと様子の違う佐伯のことを心配する。その後、上杉会長の息子であり、ウエスギモータース社長の歳弘（城田優）が東城大にやってくる。歳弘は、高額な報酬と引き換えに、なんと上杉会長の手術を失敗してほしいと天城に頼む。父子は経営をめぐって対立関係にあり、歳弘は会長の引退を望んでいたのだ。実は、維新大の菅井（段田安則）が歳弘に入れ知恵しており、ウエスギモータースの医療部門を使ってあることを目論んでいた。一方、佐伯は副院長の江尻紀恵（大黒摩季）と治験コーディネーターの椎野美咲（田中みな実）の３人で会食をすることに。江尻は医療AI・エルカノを使った遠隔診療の研究を維新大の教授と進めており、佐伯はそんな江尻にエールを送る。美咲もまた遠隔治療には強い関心を持っているのだが、その理由は…。天城による上杉会長のオペは全日本医学会会長選の日に決まる。しかし、天城が成功率１００％のダイレクト・アナストモーシスを失敗…！？さらに、全日本医学会会長選の勝者は一体！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epo783j4rz"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi87p9svx</id>
-    <title>新参者_[第七章 刑事の息子]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq0xxcz9e.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 新参者
-                &lt;a href="https://tver.jp/series/srq0xxcz9e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi87p9svx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月10日(水)10:00～6月16日(火)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;峯子（原田美枝子）は生前、夫の清瀬（三浦友和）の浮気を疑っていたようだった。相手は秘書の宮本祐理（マイコ）。捜査本部でも彼女のことが原因で２人は離婚し、果ては浮気の発覚を恐れて清瀬が峯子を殺害したのではないかと噂が出ていた。上杉（泉谷しげる）は清瀬を追い詰めようと主張するが、小嶋（木村祐一）は証拠が挙がってからと慎重な構え。加賀（阿部寛）は清瀬の息子・弘毅（向井理）から父親の女性関係を探るが、浮気など考えられないという。加賀と上杉が次に向かったのは清瀬が経営している会社の税理士・岸田要作（笹野高史）のところだった。清瀬とは３０年来の付き合いだというが、岸田は彼の周りに女性の影はないと否定した。それでも上杉は清瀬と祐理のただならぬ関係を確信。祐理を問い詰める上杉と清瀬がもみ合いになり、ついには暴力沙汰に発展してしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epi87p9svx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaa0trp8b</id>
-    <title>MOZU Season1～百舌の叫ぶ夜～_[Episode７ 倉木VS百舌 謎の女の正体がついに 衝撃の真実]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvpnuprmn.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ MOZU Season1～百舌の叫ぶ夜～
-                &lt;a href="https://tver.jp/series/srvpnuprmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaa0trp8b.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月10日(水)10:00～6月16日(火)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;百舌・新谷宏美（池松壮亮）がすべての記憶を取り戻し、覚醒した。現場から逃走し身なりを整えた百舌は、かつて通っていた小学校を訪れる。殺された葵美（有村架純）が心残りにしていた、借りたままのアルバムを返すためだ。アルバムを受け取った管理作業員の寺門（品川徹）は、百舌のことを兄の和彦だと思い懐かしがる。和彦は事ある毎に妹をかばっていた…そんな話を聞かされた百舌は押し寄せる感情を堪え、「ひとり残らず殺す」ことを誓う。一方、倉木（西島秀俊）たちが百舌の足取りを掴めない中、美希（真木よう子）は倉木に、自分は夢でダルマを見たことがあると告白。そして自分宛に届いた、警察の極秘作戦「グラークα作戦」に関する資料を差し出す。所々黒く塗りつぶされた文章の中に、倉木は上司である室井玄（生瀬勝久）の名前を見つける。室井にそのことを問いただすと、室井は倉木をある場所に連れて行く。毎週金曜日に室井が向かう場所…そこは何年も意識が戻らない室井の娘の病室だった。そんな中、大杉（香川照之）は津城（小日向文世）と酒を飲んでいた。津城に巨悪と戦う覚悟を問われ、あると答える大杉。そんな彼に津城は「あなたの力で公安警察の闇を暴きませんか」と持ちかける。津城と大杉、そして美希の３人が動く頃、百舌はレストランで東（長谷川博己）を殺すタイミングを伺っていた。離れた席にいる東を見つめ、アイスピックを取り出す百舌。そこに１人の男が現れる。「初めまして、新谷宏美君」そう言って百舌の前に座ったのは、倉木だった…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epaa0trp8b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep70tplzz2</id>
-    <title>怪盗ロワイヤル_[MISSION７ 義賊の指輪]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraef468yo.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 怪盗ロワイヤル
-                &lt;a href="https://tver.jp/series/sraef468yo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep70tplzz2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月10日(水)10:00～6月16日(火)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;ジャック（チャンソン）の裏切りにより原稿を奪われ、原稿を読んだ途端に気を失っていた零（松坂桃李）は、本拠地のペントハウスで目覚めた。「５億円事件」の真相が書かれた元刑事・鳩村の原稿は江崎（田中要次）の手に落ちたが、零の頭脳に深く刻み込まれていた。零が北場（真野響子）、夏蓮（大政絢）、大雅（福士誠治）たちに確かめるように語り、２０１０年１０月１２日１６時に発生した「５億円事件」の経緯を振り返る。実行犯は北場高志（西村和彦）と北場洋子。２人は夫婦関係で、世の為、人の為、悪を挫く為に、盗むという手段を選び、義賊として活動していた。大きな悪の存在を突き止めた２人は正義を貫くため、あえて５億円強奪の実行犯として悪の組織の依頼を受けた。そして、悪の組織を裏切ることで正義の鉄槌を下そうとしたそのとき、誤算が生じてしまう。それは家族を守ろうとする親の心…冷徹な仕事をこなすには余りにもリスクが高い仕事だったのだ…。一方、「５億円事件」を追う三上（竹財輝之助）は、このところ起こる盗難事件の捜査線上に必ず姿を見せている零たちの素性を探るため、小杉涼太（永瀬匡）の映画小道具レンタル会社の美術倉庫に訪れ…。更に、零たちが譲り受けた指輪の意味と北場の謎、そして「５億円事件」との関わりが鮮明に蘇ると同時に「怪盗ロワイヤル」は解散することに。しかし、記憶の中に眠っていた悪の組織の黒幕の記憶も蘇り、零たちは新たなる「盗み」のターゲットを得ることとなる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep70tplzz2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0zkawynq</id>
-    <title>コウノドリ(2015)_[７.母との約束 正しい出産って何？]</title>
-    <updated>2026-06-17T10:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sremi71rgs.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ コウノドリ(2015)
-                &lt;a href="https://tver.jp/series/sremi71rgs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月17日(水)_10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月23日(火)_09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0zkawynq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～&lt;br&gt;#2：6月6日(土)10:00～&lt;br&gt;#3：6月7日(日)10:00～&lt;br&gt;#4：6月8日(月)10:00～6月14日(日)9:59&lt;br&gt;#5：6月10日(水)10:00～6月16日(火)9:59&lt;br&gt;#6：6月14日(日)10:00～6月20日(土)9:59&lt;br&gt;#7：6月17日(水)10:00～6月23日(火)9:59&lt;br&gt;#8：6月20日(土)10:00～6月26日(金)9:59&lt;br&gt;#9：6月23日(火)10:00～6月29日(月)9:59&lt;br&gt;#10：6月26日(金)10:00～7月2日(木)9:59&lt;br&gt;------------&lt;br&gt;助産院での自然分娩こそが赤ちゃんにとって１番の幸せだと信じて疑わない妊婦・森亜沙子（南沢奈央）は、出産への意識がとても高い妊婦。しかし、助産院での出産への思いが強すぎるのか、病院の産科を毛嫌いする一面も。一方、陣痛の痛みに耐えられない妊婦・山田郁美（足立梨花）は、助産師が主導で進められる正常なお産にも関わらず、サクラ（綾野剛）に対して「産科医なのになぜ何もしてくれないのか」と叫ぶ。そんな郁美に対しても、助産師の小松留美子（吉田羊）は力強く手を握って励まし続ける。不安でいっぱいな初産の妊婦には寄り添う時間を増やしたいが、病院ではそれが叶わない。実は助産院を開業した同期から引き抜きの話がきていると、小松はサクラと下屋（松岡末優）に告げる。そんな折、小松と四宮（星野源）が言い争う事態に。産科医のいない助産院で出産することに否定的な考えを持つ四宮に対して、小松には助産院にある特別な思いがあるようで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep0zkawynq"/>
   </entry>
 </feed>
