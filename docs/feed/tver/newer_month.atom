@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-19T02:06:25+09:00</updated>
+  <updated>2026-06-19T10:06:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epbv4xgovj</id>
+    <title>ディープリベンジ-顔を捨てた家政婦-_[最終話・この顔で生きる地獄。それが、最後の復讐です。]</title>
+    <updated>2026-06-19T03:44:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srejg9hs9j.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ディープリベンジ-顔を捨てた家政婦-
+                &lt;a href="https://tver.jp/series/srejg9hs9j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月19日(金)_03時44分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月26日(金)_00時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月18日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbv4xgovj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ダムで対峙する香子（堀未央奈）と絵梨華（石川恋）。最上（松井利樹）と蓮を乗せた車には爆弾が仕掛けられ、香子は「飛び降りれば二人を助ける」と迫られる。復讐の果てに、香子は究極の選択を迫られるのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epbv4xgovj"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep79xq1p4t</id>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第11話]</title>
+    <updated>2026-06-19T02:50:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月19日(金)_02時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月26日(金)_02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月18日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep79xq1p4t.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                スティーブは、グノから明かされた仮想通貨の存在を追う中で、仕事を優先した末に愛する妻を失った過去を思い返していく。一方、マッコムでは、読書イベントで1位を獲得した少女に対し、社員たちの間で「景品目当てではないか」と疑惑が広がっていた。真相を探ろうとする社員たちをよそに、チャールズは少女が抱えるある事情に気付き、優しく寄り添う。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep79xq1p4t"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epaggyz4bg</id>
     <title>ネタジョ_[最終話「オール阪神・巨人」《ドラマフィル》]</title>
