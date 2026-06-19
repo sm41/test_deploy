@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-19T10:06:26+09:00</updated>
+  <updated>2026-06-19T12:06:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9rfd12xl</id>
+    <title>孤独のグルメ Season11_[最終飯直前SP 五郎のお品書き]</title>
+    <updated>2026-06-19T12:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 孤独のグルメ Season11
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月19日(金)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_00時11分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月18日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9rfd12xl.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                孤独のグルメSeason11最終飯直前SP！美味しいグルメと共に振り返り。現場の裏側初出し映像から、和洋中に外国グルメまで今シーズンも美味しくいただきました！　テレビ東京にて毎週金曜深夜24時12分から放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep9rfd12xl"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbv4xgovj</id>
     <title>ディープリベンジ-顔を捨てた家政婦-_[最終話・この顔で生きる地獄。それが、最後の復讐です。]</title>
@@ -248,85 +288,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epw8d2n8ut"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9eri67c1</id>
-    <title>今夜、秘密のキッチンで_[第11話 満月が照らす、2人の未来]</title>
-    <updated>2026-06-18T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx7pm6gbl.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今夜、秘密のキッチンで
-                &lt;a href="https://tver.jp/series/srx7pm6gbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_06月25日(木)_22時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月18日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9eri67c1.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                慧（高杉真宙）は、坪倉グループの産地偽装をテレビで告発した。そんな中、バイクで何者かに襲われた慧をかばい、藤子（瀧本美織）がケガを負ってしまう。&lt;br&gt;&lt;br&gt;一方、世間を黙らせるため坪倉グループは記者会見を開く。渉（中村俊介）は、産地偽装疑惑は慧の捏造で、嘘の告発だと発言。一日でも早く坪倉家を出た方がいいと慧から心配されるあゆみ（木南晴夏）だったが、今はまだ坪倉家の妻であり、それにもし慧の転落事故に坪倉が関わっているなら自分は慧のそばにいることはできない、全ての真相が明らかになるまではあの家にいなければ、と告げる。&lt;br&gt;&lt;br&gt;「私たち・・・・・・全てのことが落ち着くまで、会うのはやめましょう」。慧は、こみ上げる感情を飲み込み、あゆみの言葉を受け入れる。そして二人が一緒になるために、転落事故のこともちゃんと警察に話し解決させようと心に誓う。月が浮かぶ夜空の下、二人はそれぞれの道を歩いていく。&lt;br&gt;&lt;br&gt;帰宅したあゆみは、会見で産地偽装を認めず慧を悪者にした渉を非難する。転落事故についても「俺も会社も無関係だ」と言い切る渉の言葉を、あゆみは信じることができない。&lt;br&gt;&lt;br&gt;一方、慧は病院で、藤子に転落事故についての自分の本当の記憶について話し、自分のせいで藤子まで巻き込んでしまってすまないと謝っていた――。&lt;br&gt;&lt;br&gt;あゆみが一人になったキッチンに、林太郎（安井順平）が現れる。すぐに離婚してこの家を出る道もあると林太郎は言うが、慧と藤子を傷つけ、たくさんの客を裏切った渉にはちゃんと罪を償ってもらいたいと、あゆみは伝える。すべて終わらせてから家を出ると言うあゆみの表情は、強い決意に満ちていて―。はたして、坪倉グループはどうなるのか？転落事故の真相とは？そして、あゆみと慧の運命は――？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep9eri67c1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epem9q0rer</id>
-    <title>孤独のグルメ Season6_[第3話 東京都目黒区三田のチキンと野菜の薬膳スープカレー]</title>
-    <updated>2026-06-18T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season6
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月18日(木)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月02日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月18日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epem9q0rer.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎（松重豊）は、緊張の面持ちで目黒駅へ降り立った。ホテルの客室リニューアルに向けたプレゼンのためだ。担当者の工藤（山崎樹範）に自信満々にプランを提案した五郎だったが、工藤は怪訝な表情に……。芳しくないプレゼン結果に、トボトボと歩くうちに知らない住宅街へ迷い込んだ五郎。自分が空腹だということに気づく。住宅街で店を探し始めた五郎だが、全く見つからない。焦った五郎の目の前に、ある店の看板が――。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epem9q0rer"/>
   </entry>
 </feed>
