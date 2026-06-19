@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-19T22:05:14+09:00</updated>
+  <updated>2026-06-20T00:05:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epdr8ex4h6</id>
+    <title>田鎖ブラザーズ_[Final episode]</title>
+    <updated>2026-06-19T22:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvokx2sun.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 田鎖ブラザーズ
+                &lt;a href="https://tver.jp/series/srvokx2sun" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月19日(金)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月10日(金)_21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月19日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdr8ex4h6.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                ３１年前の事件の全貌が、ふみ（仙道敦子）の口から明かされた。貞夫（長江英和）はふみの手術費用を捻出するため、茂木（山中崇）を利用して朔太郎（和田正人）たちを殺したのだ。やっとのことで真相にたどり着いたというのに、過去の自分の行いを何一つ覚えていない貞夫に、虚しさを抱えながら拳銃を突き付ける稔（染谷将太）。&lt;br&gt;すべての事実が明らかになり、さまざまな人物の絡み合った思惑が解かれたその時。真（岡田将生）と稔はどんな選択をするのか…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epdr8ex4h6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epfos83up6</id>
     <title>刑事、ふりだしに戻る_[最終回 バケモノの正体]</title>
