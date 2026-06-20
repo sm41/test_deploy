@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-21T00:06:40+09:00</updated>
+  <updated>2026-06-21T02:05:40+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep570o5dqp</id>
+    <title>三カ国な王道LOVE_[最終話「恋がしたい」]</title>
+    <updated>2026-06-21T01:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srej677ful.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 三カ国な王道LOVE
+                &lt;a href="https://tver.jp/series/srej677ful" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月21日(日)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_08月02日(日)_00時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月20日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep570o5dqp.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                日本・韓国・インド――3カ国のイケメン男子たちが抱えていた、王道で過酷すぎる過去がついに明らかに。そして同じく重い運命を背負う三葉（紺野彩夏）の心を救い、最後に結ばれるのは誰なのか？ 国境を越えたカオスでドラマチックな王道LOVE、ついに完結！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/ep570o5dqp"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epbrd6u5pm</id>
     <title>わたしの相殺日記_[第3話 朝呑みで未知との遭遇!?]</title>
