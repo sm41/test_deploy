@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-21T02:05:40+09:00</updated>
+  <updated>2026-06-21T10:06:40+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epp0p2f2yd</id>
+    <title>【スティーブン・セガール】沈黙シリーズ_[沈黙の聖戦]</title>
+    <updated>2026-06-21T10:00:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7go7vxvj.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 【スティーブン・セガール】沈黙シリーズ
+                &lt;a href="https://tver.jp/series/sr7go7vxvj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月21日(日)_10時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月19日(日)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月20日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp0p2f2yd.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                元CIA捜査官、ジェイク・ホッパー（スティーヴン・セガール）の愛娘ジェシカが友人とタイを旅行中にテロリスト組織に誘拐されてしまう。ジェイクは自らの手で娘たちを助け出すことを決意し単身、タイに乗り込む。元相棒スンティとともに捜索するジェイクは、タイの裏社会で暗躍するジャンタパン将軍と武器商人ザディールに辿り着く。もはや、頼れる者は誰もいない。残された時間は76時間。テロリスト、タイ特殊部隊、そしてCIAをも敵に回したジェイクの最後の戦いが、いま始まる！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epp0p2f2yd"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epilg6vd8u</id>
+    <title>＆Hulu_[「八神瑛子 –上野中央署 組織犯罪対策課–」最新映像と主演・黒木メイサのインタビューをお届け▼事件解決に挑むスペシャリストを描く作品を大特集]</title>
+    <updated>2026-06-21T02:40:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月21日(日)_02時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月04日(土)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月20日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epilg6vd8u.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                特集(1)は7/24から独占配信開始の「八神瑛子 –上野中央署 組織犯罪対策課–」を特集！目的を達成するために暴力団やマフィアとも平気で手を結ぶ“マル暴”の危険な女刑事・八神瑛子。最新映像に加えて、主演・黒木メイサのインタビューもお届け▼特集(2)は「事件解決スペシャリストチーム特集」個性豊かなキャラクターが登場する「LAW &amp; ORDER：組織犯罪特捜班」や「犯罪都市」など世界のドラマや映画を紹介！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epilg6vd8u"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep570o5dqp</id>
     <title>三カ国な王道LOVE_[最終話「恋がしたい」]</title>
