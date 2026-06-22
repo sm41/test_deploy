@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-22T20:05:46+09:00</updated>
+  <updated>2026-06-22T22:06:46+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epi8dbdoks</id>
+    <title>サバ缶、宇宙へ行く_[第11話 その時が遂に！夢を繋いだ全員揃って感動の結末！]</title>
+    <updated>2026-06-22T21:54:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7hq26b6w.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ サバ缶、宇宙へ行く
+                &lt;a href="https://tver.jp/series/sr7hq26b6w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月22日(月)_21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_06月29日(月)_21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月22日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi8dbdoks.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                朝野峻一（北村匠海）が新任教師として若狭水産高校に赴任してきてから15年。&lt;br&gt;廃校の危機を乗り越え、若狭小浜高校と統合し、若狭小浜高校海洋科学科として存続。そのような状況の中、生徒たちが継承してきた「宇宙食サバ缶プロジェクト」がJAXA（宇宙航空研究開発機構）に認証され、みんなの夢がついに現実となる時が近づいていた。&lt;br&gt;&lt;br&gt;いよいよ、ISS（国際宇宙ステーション）に向けて、鹿児島県にあるJAXA種子島宇宙センターから発射される補給船に「宇宙食サバ缶」が乗せられることが決まったのだ！宇宙に飛び立つところを藤倉彩花（池端杏慈）、水谷結（南琴奈）、吉瀬乃愛（蒼戸虹子）、桜庭美咲（横田真子）の5期生の生徒たちに見せたいと願う朝野の元に、浜中道夫（三宅弘城）、和子（村川絵梨）の2人が、田所明正（八嶋智人）ら小浜の人々から集めてきたカンパ金を持ってくる。「この町のみんなで生徒らを送り出したろう」という熱い気持ちが込められていた。&lt;br&gt;その気持ちを受け取り、朝野と5期生は種子島へと向かう。しかし、種子島に到着した朝野たちに、JAXAの木島真（神木隆之介）から思わぬ連絡が入り…。&lt;br&gt;一方、プロジェクトを立ち上げた1期生で今は若狭小浜高校の教師、菅原奈未（出口夏希）は、学校から教育委員会へ異動する朝野に、「…先生にさ、まだちゃんと言えてなかったよな」と話し始める。&lt;br&gt;&lt;br&gt;15年の歳月をかけ、数々の試練を乗り越えてきたサバ缶は、関わってきたすべての人たちの思いを乗せて、いま宇宙にたどり着こうとしている。そして、遂に宇宙飛行士が食する瞬間が――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epi8dbdoks"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7wmkdl92</id>
     <title>孤独のグルメ Season6_[第4話 東京都東大和市の上タンシオとカイノミ]</title>
