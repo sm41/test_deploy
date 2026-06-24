@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-24T16:05:39+09:00</updated>
+  <updated>2026-06-24T18:06:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -11,7 +11,7 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://tver.jp/episodes/epyar3x462</id>
-    <title>浪漫ドクター キム・サブ２_[第1話]</title>
+    <title>浪漫ドクター キム・サブ２_[第1話「つまはじき」]</title>
     <updated>2026-06-24T10:30:00+09:00</updated>
     <content type="html">        &lt;body&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
