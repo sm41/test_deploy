@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-25T10:06:40+09:00</updated>
+  <updated>2026-06-25T12:05:40+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/test_deploy/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epsn8013g2</id>
+    <title>浪漫ドクター キム・サブ２_[第2話「1週間の期限」]</title>
+    <updated>2026-06-25T10:30:00+09:00</updated>
+    <content type="html">        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月23日(木)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+
+            &lt;hr&gt;
+
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsn8013g2.jpg"&gt;
+
+            &lt;hr&gt;
+
+            &lt;p&gt;
+                手術中に精神安定剤をのんでいたことを教授に知られたウンジェは、停職処分かトルダム病院への異動かの選択を迫られる。しぶしぶ異動を選択したウンジェはキム・サブとの嫌な思い出もあり一度は帰ろうとするが、そこで憧れの先輩ペ・ムンジョンを発見。結局、ウンジェはトルダム病院で働くことを決意するが、そこへ傷だらけのウジンが現れ、キム・サブに向かって自分に必要なのはカネだと言い、自分にいくら出せるかと迫る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+    <link href="https://tver.jp/episodes/epsn8013g2"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epxqzunctm</id>
     <title>愛される花_[第2話 教えて]</title>
@@ -328,165 +368,5 @@
             &lt;/p&gt;
         &lt;/body&gt;    </content>
     <link href="https://tver.jp/episodes/epzi0bctnh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyar3x462</id>
-    <title>浪漫ドクター キム・サブ２_[第1話「つまはじき」]</title>
-    <updated>2026-06-24T10:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
-                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月24日(水)_10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月22日(水)_10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyar3x462.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                コサン大学病院の胸部外科医チャ・ウンジェは医大を優秀な成績で卒業したエリート。一方、ウンジェと同期のソ・ウジンはある事件が原因で業界のつまはじきに遭い、今はコサン大学病院で面倒な手術を押しつけられている。&lt;br&gt;この日コサン大学病院でパク・ミングクによるライブ手術が行われるが、手術中に患者の容体が急変。これを見ていたトルダム病院の外科科長キム・サブは原因を瞬時に把握し、ウンジェを通してミングクに知らせる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epyar3x462"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5qqndv25</id>
-    <title>100日後に別れる僕と彼_[第5話「本当の“君”を探す」《ドラマイズム》]</title>
-    <updated>2026-06-24T01:56:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhtlus8hb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 100日後に別れる僕と彼
-                &lt;a href="https://tver.jp/series/srhtlus8hb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月24日(水)_01時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月01日(水)_01時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月23日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5qqndv25.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                佑馬（伊藤健太郎）と樹（寛一郎）が破局していた事実を知った志穂（鳴海唯）と山田（山田健人）は、長谷川樹という人間に向き合うため、彼の「ゆかりの場所」を巡る取材を佑馬と始めることにする。樹のSNSを手がかりに、様々な場所を訪れ、取材を行う3人だったが、そこで聞く樹の印象は、佑馬と志穂にとって全く異なるものだった…。さらに、樹の元職場のバーでは、樹がバーを辞めた信じがたい本当の理由が明らかに。真実を知った佑馬は、樹を連れ出し、二人の思い出の地・江ノ島へと向かう。二人が出した、切なくも誠実な答えとは──。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep5qqndv25"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3jwsb37d</id>
-    <title>こないだおばさんって言われたよ_[第8話 おばさん、人生ぶち上げ！]</title>
-    <updated>2026-06-24T01:20:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8ildo0yc.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ こないだおばさんって言われたよ
-                &lt;a href="https://tver.jp/series/sr8ildo0yc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月24日(水)_01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月01日(水)_01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月23日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3jwsb37d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                トイレから戻ってきた頼子（堀内敬子）は気丈に振る舞いながらも、どこか体調に違和感を抱えている。&lt;br&gt;そんな中、頼子は芽衣子（飯島直子）の55歳の誕生日とドーナツ屋の3周年を一緒に祝おうと提案し、店を貸し切って誕生日会を開くことになるが、芽衣子は昔から誕生日が苦手だった。「誕生日には不吉なことが起きる」という数々のトラウマが強く残っている。…そして迎えた誕生日当日。サプライズで推しのタスク（上野勇希）からのビデオメッセージが流れ、芽衣子は心から笑顔になる。元カレの憲伸も登場し、仲間に囲まれた時間の中で芽衣子は、「自分はもう十分幸せなのかもしれない」と感じ始める。ところが乾杯の直後、頼子が突然倒れてしまう―。大事なものを持つと、それを失うのが怖くなる。50代になると、ずっと同じではいられないという恐怖が芽衣子を襲う。頼子は大丈夫なのか…そして50代の私たちは、これからどうなるのか……！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep3jwsb37d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvqwevd2c</id>
-    <title>未解決の女　警視庁文書捜査官 Season３_[第5話 AIに殺される!?魔の読書会]</title>
-    <updated>2026-06-24T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3owhmros.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 未解決の女　警視庁文書捜査官 Season３
-                &lt;a href="https://tver.jp/series/sr3owhmros" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月24日(水)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月08日(水)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月14日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvqwevd2c.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                完全施錠された自宅で、資産家・北柳愁一（脇知弘）が殺されてから15年――。事件は迷宮入りしていたが、遺族の要望で再捜査が進められていた。事件当時、海外にいた妻・北柳沙織（櫻井淳子）を除き、鍵を持っていたのは家事代行の松原美幸（馬渕英里何）のみ。捜査を担当した伝説の刑事・熊田礼二（西岡德馬）も、犯人は美幸だと確信していたのだが、捜査は思いのほか難航。決定的な証拠は得られず、無念のまま定年を迎えていた。&lt;br&gt; そんな中、新たな殺人事件が発生する。自宅でオンライン読書会に参加していた鳥羽泰樹（髙﨑俊吾）が、席を外した隙に何者かによって殺されたのだ！ しかも、現場に残されたメモには謎の文字が並んでいた上に、そのうちの1つには丸印がついており…。&lt;br&gt; 主催者である大竹東生（ふかわりょう）をはじめ、雨村安希（井桁弘恵）、村木鞠子（ふせえり）ら、読書会メンバーへの事情聴取を開始する強行班。その矢先のことだ。つい先ほど美幸から脅迫メールを受け取ったという沙織が、怯えた様子で警視庁にやって来る。対応した「特命捜査対策室」第6係（文書解読係）の係長・陸奥日名子（黒島結菜）らに、15年前に夫を殺したのは読書会の最中に殺された鳥羽だと打ち明ける沙織。だが、メールの送り主であるはずの美幸は、1年前すでに他界していて…!?&lt;br&gt;一方、読書会の文字起こしデータを精査した6係の刑事・鳴海理沙（鈴木京香）は、ある発言に違和感を覚え、驚くべき《真犯人の正体》を推理。だが、その人物には《完璧すぎるアリバイ》があった――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvqwevd2c"/>
   </entry>
 </feed>
