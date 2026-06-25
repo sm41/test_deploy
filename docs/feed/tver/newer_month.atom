@@ -1,507 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2026-06-26T04:23:00+09:00</updated>
+  <id>https://tver.jp/</id>
+  <updated>2026-06-26T08:42:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
-  <link href="https://sm41.github.io/test_deploy/"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <entry>
-    <id>https://tver.jp/episodes/epglx9bb2z</id>
-    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第12話]</title>
-    <updated>2026-06-26T02:50:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
-                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_02時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_02時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epglx9bb2z.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                スティーブが一攫千金で大金を手にしたとの噂を耳にしたマッコムの社員たちは、それぞれが自分たちのビジョンを実現するために、彼から予算を引き出そうと躍起になっていた。そこでアシュリーは、彼を独自に分析して作り上げた極秘資料「スティーブの50もの影」を社員たちに共有する。「論理ではなく感情にアプローチした方がいい」という彼女の助言を信じた社員たちは、スティーブの機嫌を損ねまいとあの手この手で気を遣うのだが・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epglx9bb2z"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbic1n38t</id>
-    <title>今から、親友やめようか。_[第1話「今から、友だちやめてみる？」《ドラマフィル》]</title>
-    <updated>2026-06-26T01:59:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwr9pc2sa.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 今から、親友やめようか。
-                &lt;a href="https://tver.jp/series/srwr9pc2sa" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月14日(金)_01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbic1n38t.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                PR会社で働く、明るく真っ直ぐな27歳の女性・柴崎ひまり（岡本夏美）は、清楚な見た目とは裏腹に性欲が強めなこともあり、歴代彼氏とは性生活の不一致で別れてきた。そんな過去もあり、頻度や行為の内容など性について包み隠さず話せる恋人関係に憧れを抱くひまり。ある日、友人が軒並み結婚していくことに焦るひまりは、いつものように、大学時代からの親友で、職場の同僚でもある北条和巳（沢村玲）を飲みに誘い愚痴をこぼす。そんなひまりとは対照的に長年恋人を作らず、どこか余裕のある和巳。しかし、「相性のいい人と出会いたい」と嘆くひまりに、和巳は突然「俺で試してみる？」と提案し――！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epbic1n38t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4r5tia84</id>
-    <title>エミリとマリア_[Episode2「人生、余すことなく…」《ドラマ特区》]</title>
-    <updated>2026-06-26T01:29:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8gvhl73q.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ エミリとマリア
-                &lt;a href="https://tver.jp/series/sr8gvhl73q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4r5tia84.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                前回の反省から若い子のいないデパートのカフェで安心してお茶をするエミリ（松本まりか）とマリア（高橋メアリージュン）。&lt;br&gt;「うちらと同じ環境で育った人間たちが一体どんな具合になってるのか知っておくのはメリットありそう」と高校時代の同窓会に参加することに。学年のイケてる女子で構成された「チームプリンセス」との再会を楽しむ一方、結婚・子育て・キャリアとそれぞれの人生を進める同級生たちを前に、どこか引っかかる。変わっていないつもりだったのに、いつの間にか見えている景色は大きく違っていた。あの頃と同じテンションではいられない空気の中で、二人のモヤモヤは、じわじわと膨らんでいき――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep4r5tia84"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epv40m7tbf</id>
-    <title>産まない女はダメですか？ DINKsのトツキトオカ_[産まない女はダメですか？まだ間に合う!!最終回お見逃しなくSP]</title>
-    <updated>2026-06-26T01:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94fxxt4d.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 産まない女はダメですか？ DINKsのトツキトオカ
-                &lt;a href="https://tver.jp/series/sr94fxxt4d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月24日(金)_00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv40m7tbf.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                金沢アサ役・宮澤エマと金沢哲也役・浅香航大がドラマの名シーンを“マイベストシーン”形式で振り返る特番。撮影の裏話や視聴者の反響、最終回に込めた思いなど本音トークを交えながら、アサと哲也が「産まない」という選択に至るまでの葛藤と愛、そして「正解のない生き方の選択」を改めて噛みしめる時間を届ける。未見の人にはドラマへの入り口として、見終えた人には余韻を深める“まだ間に合う”振り返り企画です。　毎週月曜夜11時6分からテレビ東京にて放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epv40m7tbf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epppleep9k</id>
-    <title>惡の華_[最終話]</title>
-    <updated>2026-06-26T00:30:01+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 惡の華
-                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epppleep9k.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                中学の事件以来、仲村佐和（あの）に会うことができた春日（鈴木福）。佐和の母（雛形あきこ）から「そっとしておいてあげて」と言われるが、常磐（中西アルノ）が必死に想いを伝え3人は浜辺に移動する。どんな風に生きていたのか、あの時突き飛ばしのたはなぜか、仲村に問いかける春日。常磐は過去の自分と重ね、仲村の感情を理解しようとして…それぞれの向こう側を探し、前に進むために取った行動とは…。そしてその先の話。　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epppleep9k"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epseugwpr6</id>
-    <title>孤独のグルメ Season6_[第7話 東京都渋谷区道玄坂の皿うどんと春巻]</title>
-    <updated>2026-06-25T18:25:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 孤独のグルメ Season6
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月09日(木)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epseugwpr6.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                井之頭五郎（松重豊）は渋谷のとあるクラブを商談のために訪れるが、大音量の音楽、ミラーボール、ムービングライトという、慣れない空間に戸惑い気味。オーナーの冴島（窪塚俊介）との打ち合わせ中、若いスタッフ達がはやり言葉で合いの手を打つが、五郎には意味が分からない。打ち合わせを終えどっと疲れた五郎は、腹が減り店を探すことに。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epseugwpr6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsn8013g2</id>
-    <title>浪漫ドクター キム・サブ２_[第2話「1週間の期限」]</title>
-    <updated>2026-06-25T10:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
-                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月23日(木)_10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsn8013g2.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                手術中に精神安定剤をのんでいたことを教授に知られたウンジェは、停職処分かトルダム病院への異動かの選択を迫られる。しぶしぶ異動を選択したウンジェはキム・サブとの嫌な思い出もあり一度は帰ろうとするが、そこで憧れの先輩ペ・ムンジョンを発見。結局、ウンジェはトルダム病院で働くことを決意するが、そこへ傷だらけのウジンが現れ、キム・サブに向かって自分に必要なのはカネだと言い、自分にいくら出せるかと迫る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epsn8013g2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxqzunctm</id>
-    <title>愛される花_[第2話 教えて]</title>
-    <updated>2026-06-25T08:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 愛される花
-                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_08時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月25日(土)_08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxqzunctm.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                高校時代、裕福な家庭で育った程錚(チョン・ジョン)は、気になる転校生・韻錦(ユンジン)にちょっかいを出してばかり。必死に生きる彼女にとって、それは迷惑でしかなかった。家計を助けるための極秘アルバイト先にも、無神経に現れる程錚…。格差ゆえに激しく反発し合う二人。不器用すぎる若き日の恋が、痛みを伴いながら加速する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epxqzunctm"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epdphpzexb</id>
-    <title>ヤンキー激戦区の四天王がアイドルグループに転生したら？_[第3話 ヤンキーアイドル VS 正統派アイドル]</title>
-    <updated>2026-06-25T01:39:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraib296pu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ ヤンキー激戦区の四天王がアイドルグループに転生したら？
-                &lt;a href="https://tver.jp/series/sraib296pu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_01時39分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_08月20日(木)_00時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdphpzexb.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                大手アイドル事務所G-ZONEに対し決闘状を叩きつけたきゅん爆。G-ZONEがきゅん爆を陥れるため次に用意した第2の手は、新メンバー・天海夜月の加入を発表したGleam Storyと再び「負けたら即引退!アイドルパフォーマンス・タイマンバトル」に出演させることだった。勝負に燃えるきゅん爆だったが、黒江らの陰謀により窮地に追いやられてしまう…?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epdphpzexb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep60029c2p</id>
-    <title>私があなたといる理由　特別編〜グアムがくれた、あの日の続き〜_[私があなたといる理由　特別編〜グアムがくれた、あの日の続き〜]</title>
-    <updated>2026-06-25T01:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh6taeqst4.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 私があなたといる理由　特別編〜グアムがくれた、あの日の続き〜
-                &lt;a href="https://tver.jp/series/srh6taeqst4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_10月08日(木)_00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep60029c2p.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                フリーランスの編集者として働く花（宮内ひとみ）は、付き合って3年になる恋人がいるものの、同業ということもあり、会うと仕事の話ばかり。将来について話し合わないといけないと思う一方で、お互い仕事に満足していないのか、なかなか人生の一歩を踏み出せずにいた。そんな中、友人の結婚式に参列するため1人でグアムを訪れた花は、学生時代の恋人・海里（前田公輝）と10年ぶりに再会する。恋人時代の思い出話に花を咲かせながら、グアムという開放的な場所で、ふと「もし海里と別れていなかったら…」と“選択しなかった未来”を想像してしまう。海里と別れて後悔はしていないものの、周りと比べ、そして仕事に追われて余裕がない花に、海里が優しく投げかけた言葉とは？10年ぶりの再会という“あの日の続き”の果てに、花が気付く「今、目の前にある本当の幸せ」とは――。　［期間限定無料配信］　テレビ東京系列にて6月24日(水)スタート！深夜24時30分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ep60029c2p"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvs2vsz45</id>
-    <title>余命３ヶ月のサレ夫_[#4 サレ夫の報復！暴かれた枕営業]</title>
-    <updated>2026-06-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruts7aghq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 余命３ヶ月のサレ夫
-                &lt;a href="https://tver.jp/series/sruts7aghq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月06日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月15日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvs2vsz45.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                6/25(木)~ #4-#5&lt;br&gt;7/7(火)~ #6-#7&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;美月（桜井日奈子）は、葵（白洲迅）が保険金の受取人を自分ひとりに書き換えないことにイライラ…。葵の父・達夫（西村和彦）を取り込み、受取人を自分に変更させようと画策する。 &lt;br&gt;そんな中、調査会社の報告によって、ケンジ（高橋光臣）にDV歴があること、そして美月とケンジの関係が想像以上に長くいびつなものだったことを知ってしまう。美月に息子の蓮を託すことはできないと確信した葵は、蓮の未来を守るため美月と徹底的に戦うことを誓う。美月のスマホにGPSを仕込み、不倫の証拠を押さえようと計画するが、明らかになったのは不倫以上に衝撃的な事実だった…&lt;br&gt;&lt;br&gt;―余命宣告され絶望する夫、そのとき妻は不倫に溺れていた―&lt;br&gt;主演に白洲迅、ヒロインに桜井日奈子という実力派俳優のタッグで国内累計1億ビュー超えの大ヒットコミックをドラマ化！&lt;br&gt;余命宣告された夫が、遺産を狙う妻と愛人への復讐に突き進む、禁断のノンストップ《リベンジ・ラブサスペンス》！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epvs2vsz45"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqyn69qqu</id>
-    <title>余命３ヶ月のサレ夫_[#5 ドロ沼対決!?逆襲のど・げ・ざ]</title>
-    <updated>2026-06-25T00:00:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruts7aghq.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;div&gt;🎞️ 余命３ヶ月のサレ夫
-                &lt;a href="https://tver.jp/series/sruts7aghq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月06日(月)_23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-
-            &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqyn69qqu.jpg"&gt;
-
-            &lt;hr&gt;
-
-            &lt;p&gt;
-                6/25(木)~ #4-#5&lt;br&gt;7/7(火)~ #6-#7&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;美月（桜井日奈子）の前に母・彩美（筒井真理子）が現れた――。&lt;br&gt;幼い頃のトラウマがよみがえった美月は、ケンジ（高橋光臣）に助けを求めるが、面倒なことに巻き込まれたくないケンジにあっさり突き放されてしまう。&lt;br&gt;焦った美月は、息子・蓮（小野晄士朗）を連れて、葵（白洲迅）の実家へ…。そして、義父・達夫（西村和彦）に取り入る作戦に出る。&lt;br&gt;そして、達夫に取り入るため、自分の生い立ちを健気に語り始めるが、その内容は事実とはかけ離れたものばかりだった…&lt;br&gt;&lt;br&gt;―余命宣告され絶望する夫、そのとき妻は不倫に溺れていた―&lt;br&gt;主演に白洲迅、ヒロインに桜井日奈子という実力派俳優のタッグで国内累計1億ビュー超えの大ヒットコミックをドラマ化！&lt;br&gt;余命宣告された夫が、遺産を狙う妻と愛人への復讐に突き進む、禁断のノンストップ《リベンジ・ラブサスペンス》！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqyn69qqu"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqy62fqic</id>
     <title>102回目のプロポーズ_[第12話 伝説のナットの指輪]</title>
+    <id>https://tver.jp/episodes/epqy62fqic</id>
     <updated>2026-06-24T23:30:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
+    <link href="https://tver.jp/episodes/epqy62fqic" />
+    <content>        &lt;body&gt;
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwuvs95w5.jpg"&gt;
-
             &lt;hr&gt;
-
             &lt;div&gt;🎞️ 102回目のプロポーズ
                 &lt;a href="https://tver.jp/series/srwuvs95w5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
             &lt;/div&gt;
-
             &lt;table&gt;
                 &lt;th&gt;
                     &lt;td&gt;
@@ -516,57 +34,408 @@
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
-
             &lt;hr&gt;
-
             &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqy62fqic.jpg"&gt;
-
             &lt;hr&gt;
-
             &lt;p&gt;
                 音（伊藤健太郎）が他界して哀しみに打ちひしがれる光（唐田えりか）を心配する叔母の千恵（田中律子）は、達郎（武田鉄矢）に「今の光に必要なのは、あの時にお姉ちゃんを救ってくれた達郎さんのような存在だ」と言う。それを聞いた達郎は、大阪に帰ろうとしている太陽（せいや）を呼び出した。そして酒を飲みながら、自分のと薫（浅野温子）の恋愛について語り始めた……。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/epqy62fqic"/>
   </entry>
   <entry>
-    <id>https://tver.jp/episodes/ept1gett72</id>
-    <title>LOVED ONE_[第11話 復権]</title>
-    <updated>2026-06-24T22:54:00+09:00</updated>
-    <content type="html">        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2qsz7e4k.jpg"&gt;
-
+    <title>余命３ヶ月のサレ夫_[#5 ドロ沼対決!?逆襲のど・げ・ざ]</title>
+    <id>https://tver.jp/episodes/epqyn69qqu</id>
+    <updated>2026-06-25T00:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqyn69qqu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruts7aghq.jpg"&gt;
             &lt;hr&gt;
-
-            &lt;div&gt;🎞️ LOVED ONE
-                &lt;a href="https://tver.jp/series/sr2qsz7e4k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;div&gt;🎞️ 余命３ヶ月のサレ夫
+                &lt;a href="https://tver.jp/series/sruts7aghq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
             &lt;/div&gt;
-
             &lt;table&gt;
                 &lt;th&gt;
                     &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年_06月24日(水)_22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年_07月01日(水)_22時54分&lt;/div&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月22日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqyn69qqu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                6/25(木)~ #4-#5&lt;br&gt;7/7(火)~ #6-#7&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;美月（桜井日奈子）の前に母・彩美（筒井真理子）が現れた――。&lt;br&gt;幼い頃のトラウマがよみがえった美月は、ケンジ（高橋光臣）に助けを求めるが、面倒なことに巻き込まれたくないケンジにあっさり突き放されてしまう。&lt;br&gt;焦った美月は、息子・蓮（小野晄士朗）を連れて、葵（白洲迅）の実家へ…。そして、義父・達夫（西村和彦）に取り入る作戦に出る。&lt;br&gt;そして、達夫に取り入るため、自分の生い立ちを健気に語り始めるが、その内容は事実とはかけ離れたものばかりだった…&lt;br&gt;&lt;br&gt;―余命宣告され絶望する夫、そのとき妻は不倫に溺れていた―&lt;br&gt;主演に白洲迅、ヒロインに桜井日奈子という実力派俳優のタッグで国内累計1億ビュー超えの大ヒットコミックをドラマ化！&lt;br&gt;余命宣告された夫が、遺産を狙う妻と愛人への復讐に突き進む、禁断のノンストップ《リベンジ・ラブサスペンス》！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>余命３ヶ月のサレ夫_[#4 サレ夫の報復！暴かれた枕営業]</title>
+    <id>https://tver.jp/episodes/epvs2vsz45</id>
+    <updated>2026-06-25T00:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvs2vsz45" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruts7aghq.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 余命３ヶ月のサレ夫
+                &lt;a href="https://tver.jp/series/sruts7aghq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月06日(月)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月15日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvs2vsz45.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                6/25(木)~ #4-#5&lt;br&gt;7/7(火)~ #6-#7&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;美月（桜井日奈子）は、葵（白洲迅）が保険金の受取人を自分ひとりに書き換えないことにイライラ…。葵の父・達夫（西村和彦）を取り込み、受取人を自分に変更させようと画策する。 &lt;br&gt;そんな中、調査会社の報告によって、ケンジ（高橋光臣）にDV歴があること、そして美月とケンジの関係が想像以上に長くいびつなものだったことを知ってしまう。美月に息子の蓮を託すことはできないと確信した葵は、蓮の未来を守るため美月と徹底的に戦うことを誓う。美月のスマホにGPSを仕込み、不倫の証拠を押さえようと計画するが、明らかになったのは不倫以上に衝撃的な事実だった…&lt;br&gt;&lt;br&gt;―余命宣告され絶望する夫、そのとき妻は不倫に溺れていた―&lt;br&gt;主演に白洲迅、ヒロインに桜井日奈子という実力派俳優のタッグで国内累計1億ビュー超えの大ヒットコミックをドラマ化！&lt;br&gt;余命宣告された夫が、遺産を狙う妻と愛人への復讐に突き進む、禁断のノンストップ《リベンジ・ラブサスペンス》！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>私があなたといる理由　特別編〜グアムがくれた、あの日の続き〜_[私があなたといる理由　特別編〜グアムがくれた、あの日の続き〜]</title>
+    <id>https://tver.jp/episodes/ep60029c2p</id>
+    <updated>2026-06-25T01:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep60029c2p" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh6taeqst4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 私があなたといる理由　特別編〜グアムがくれた、あの日の続き〜
+                &lt;a href="https://tver.jp/series/srh6taeqst4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_01時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_10月08日(木)_00時59分&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep60029c2p.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                フリーランスの編集者として働く花（宮内ひとみ）は、付き合って3年になる恋人がいるものの、同業ということもあり、会うと仕事の話ばかり。将来について話し合わないといけないと思う一方で、お互い仕事に満足していないのか、なかなか人生の一歩を踏み出せずにいた。そんな中、友人の結婚式に参列するため1人でグアムを訪れた花は、学生時代の恋人・海里（前田公輝）と10年ぶりに再会する。恋人時代の思い出話に花を咲かせながら、グアムという開放的な場所で、ふと「もし海里と別れていなかったら…」と“選択しなかった未来”を想像してしまう。海里と別れて後悔はしていないものの、周りと比べ、そして仕事に追われて余裕がない花に、海里が優しく投げかけた言葉とは？10年ぶりの再会という“あの日の続き”の果てに、花が気付く「今、目の前にある本当の幸せ」とは――。　［期間限定無料配信］　テレビ東京系列にて6月24日(水)スタート！深夜24時30分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ヤンキー激戦区の四天王がアイドルグループに転生したら？_[第3話 ヤンキーアイドル VS 正統派アイドル]</title>
+    <id>https://tver.jp/episodes/epdphpzexb</id>
+    <updated>2026-06-25T01:39:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdphpzexb" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraib296pu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ヤンキー激戦区の四天王がアイドルグループに転生したら？
+                &lt;a href="https://tver.jp/series/sraib296pu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_01時39分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_08月20日(木)_00時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdphpzexb.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                大手アイドル事務所G-ZONEに対し決闘状を叩きつけたきゅん爆。G-ZONEがきゅん爆を陥れるため次に用意した第2の手は、新メンバー・天海夜月の加入を発表したGleam Storyと再び「負けたら即引退!アイドルパフォーマンス・タイマンバトル」に出演させることだった。勝負に燃えるきゅん爆だったが、黒江らの陰謀により窮地に追いやられてしまう…?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>愛される花_[第2話 教えて]</title>
+    <id>https://tver.jp/episodes/epxqzunctm</id>
+    <updated>2026-06-25T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxqzunctm" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月25日(土)_08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月24日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxqzunctm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校時代、裕福な家庭で育った程錚(チョン・ジョン)は、気になる転校生・韻錦(ユンジン)にちょっかいを出してばかり。必死に生きる彼女にとって、それは迷惑でしかなかった。家計を助けるための極秘アルバイト先にも、無神経に現れる程錚…。格差ゆえに激しく反発し合う二人。不器用すぎる若き日の恋が、痛みを伴いながら加速する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第2話「1週間の期限」]</title>
+    <id>https://tver.jp/episodes/epsn8013g2</id>
+    <updated>2026-06-25T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epsn8013g2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月23日(木)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsn8013g2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                手術中に精神安定剤をのんでいたことを教授に知られたウンジェは、停職処分かトルダム病院への異動かの選択を迫られる。しぶしぶ異動を選択したウンジェはキム・サブとの嫌な思い出もあり一度は帰ろうとするが、そこで憧れの先輩ペ・ムンジョンを発見。結局、ウンジェはトルダム病院で働くことを決意するが、そこへ傷だらけのウジンが現れ、キム・サブに向かって自分に必要なのはカネだと言い、自分にいくら出せるかと迫る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>孤独のグルメ Season6_[第7話 東京都渋谷区道玄坂の皿うどんと春巻]</title>
+    <id>https://tver.jp/episodes/epseugwpr6</id>
+    <updated>2026-06-25T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epseugwpr6" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season6
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月25日(木)_18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月09日(木)_23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epseugwpr6.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                井之頭五郎（松重豊）は渋谷のとあるクラブを商談のために訪れるが、大音量の音楽、ミラーボール、ムービングライトという、慣れない空間に戸惑い気味。オーナーの冴島（窪塚俊介）との打ち合わせ中、若いスタッフ達がはやり言葉で合いの手を打つが、五郎には意味が分からない。打ち合わせを終えどっと疲れた五郎は、腹が減り店を探すことに。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>惡の華_[最終話]</title>
+    <id>https://tver.jp/episodes/epppleep9k</id>
+    <updated>2026-06-26T00:30:01+09:00</updated>
+    <link href="https://tver.jp/episodes/epppleep9k" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srh3ve7y30.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 惡の華
+                &lt;a href="https://tver.jp/series/srh3ve7y30" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_00時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_00時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epppleep9k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                中学の事件以来、仲村佐和（あの）に会うことができた春日（鈴木福）。佐和の母（雛形あきこ）から「そっとしておいてあげて」と言われるが、常磐（中西アルノ）が必死に想いを伝え3人は浜辺に移動する。どんな風に生きていたのか、あの時突き飛ばしのたはなぜか、仲村に問いかける春日。常磐は過去の自分と重ね、仲村の感情を理解しようとして…それぞれの向こう側を探し、前に進むために取った行動とは…。そしてその先の話。　［期間限定無料配信］　毎週木曜深夜24時からテレビ東京にて放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>産まない女はダメですか？ DINKsのトツキトオカ_[産まない女はダメですか？まだ間に合う!!最終回お見逃しなくSP]</title>
+    <id>https://tver.jp/episodes/epv40m7tbf</id>
+    <updated>2026-06-26T01:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epv40m7tbf" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94fxxt4d.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 産まない女はダメですか？ DINKsのトツキトオカ
+                &lt;a href="https://tver.jp/series/sr94fxxt4d" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月24日(金)_00時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv40m7tbf.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                金沢アサ役・宮澤エマと金沢哲也役・浅香航大がドラマの名シーンを“マイベストシーン”形式で振り返る特番。撮影の裏話や視聴者の反響、最終回に込めた思いなど本音トークを交えながら、アサと哲也が「産まない」という選択に至るまでの葛藤と愛、そして「正解のない生き方の選択」を改めて噛みしめる時間を届ける。未見の人にはドラマへの入り口として、見終えた人には余韻を深める“まだ間に合う”振り返り企画です。　毎週月曜夜11時6分からテレビ東京にて放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>エミリとマリア_[Episode2「人生、余すことなく…」《ドラマ特区》]</title>
+    <id>https://tver.jp/episodes/ep4r5tia84</id>
+    <updated>2026-06-26T01:29:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4r5tia84" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8gvhl73q.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ エミリとマリア
+                &lt;a href="https://tver.jp/series/sr8gvhl73q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_01時29分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_01時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4r5tia84.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                前回の反省から若い子のいないデパートのカフェで安心してお茶をするエミリ（松本まりか）とマリア（高橋メアリージュン）。&lt;br&gt;「うちらと同じ環境で育った人間たちが一体どんな具合になってるのか知っておくのはメリットありそう」と高校時代の同窓会に参加することに。学年のイケてる女子で構成された「チームプリンセス」との再会を楽しむ一方、結婚・子育て・キャリアとそれぞれの人生を進める同級生たちを前に、どこか引っかかる。変わっていないつもりだったのに、いつの間にか見えている景色は大きく違っていた。あの頃と同じテンションではいられない空気の中で、二人のモヤモヤは、じわじわと膨らんでいき――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>今から、親友やめようか。_[第1話「今から、友だちやめてみる？」《ドラマフィル》]</title>
+    <id>https://tver.jp/episodes/epbic1n38t</id>
+    <updated>2026-06-26T01:59:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epbic1n38t" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwr9pc2sa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今から、親友やめようか。
+                &lt;a href="https://tver.jp/series/srwr9pc2sa" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_08月14日(金)_01時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbic1n38t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                PR会社で働く、明るく真っ直ぐな27歳の女性・柴崎ひまり（岡本夏美）は、清楚な見た目とは裏腹に性欲が強めなこともあり、歴代彼氏とは性生活の不一致で別れてきた。そんな過去もあり、頻度や行為の内容など性について包み隠さず話せる恋人関係に憧れを抱くひまり。ある日、友人が軒並み結婚していくことに焦るひまりは、いつものように、大学時代からの親友で、職場の同僚でもある北条和巳（沢村玲）を飲みに誘い愚痴をこぼす。そんなひまりとは対照的に長年恋人を作らず、どこか余裕のある和巳。しかし、「相性のいい人と出会いたい」と嘆くひまりに、和巳は突然「俺で試してみる？」と提案し――！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第12話]</title>
+    <id>https://tver.jp/episodes/epglx9bb2z</id>
+    <updated>2026-06-26T02:50:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epglx9bb2z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月26日(金)_02時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月03日(金)_02時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月25日(木)放送分&lt;/div&gt;
                         &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
-
             &lt;hr&gt;
-
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept1gett72.jpg"&gt;
-
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epglx9bb2z.jpg"&gt;
             &lt;hr&gt;
-
             &lt;p&gt;
-                法医学者・水沢真澄（ディーン・フジオカ）が15年間後悔し続けてきた「白峯女子連続殺害事件」。恩師・九条正仁（小木茂光）の鑑定結果によって、無実を訴えながらも死刑判決を下された芹沢真一（渋谷謙人）は、拘置所で死刑執行の足音に怯える日々を送っていた。&lt;br&gt;&lt;br&gt;真一の無実を信じて活動を続ける姉・明子（りょう）から、当時の裁判資料を託された真澄は、桐生麻帆（瀧内公美）と堂島穂乃果（山口紗弥加）とともに当時の証拠を見直すものの、決定打はなかった。&lt;br&gt;&lt;br&gt;九条が遺した白峯事件の資料を求めて、真澄は再び、恩師の娘である九条恭子（伊藤歩）のもとへ向かう。しかし恭子は冷ややかに、「資料はもう処分した」と告げ、彼を追い返す。その頃、明子から事件当時の話を聞いた麻帆は、新たな手がかりを求めて事件の舞台となった白峯町へと足を運ぶことを決意する。&lt;br&gt;&lt;br&gt;少しずつ真相へと近づきながらも、あと一歩、決定的な証拠にたどり着けない一同。そんな中、真澄は穂乃果から手渡された現在起きている連続殺人事件の司法解剖結果に目を通し、ある違和感を覚える。これこそが、白峯事件の真犯人の痕跡につながるかもしれない。しかし、被害者の父親は、愛娘を早く家族のもとに返してくれと懇願していて・・・。&lt;br&gt;&lt;br&gt;すべての捜査権限を失った真澄は、“LOVED ONE”の声を聞くことはできるのか。15年の時を超え、隠蔽された悲しい真実が、ついに暴かれる――。
+                スティーブが一攫千金で大金を手にしたとの噂を耳にしたマッコムの社員たちは、それぞれが自分たちのビジョンを実現するために、彼から予算を引き出そうと躍起になっていた。そこでアシュリーは、彼を独自に分析して作り上げた極秘資料「スティーブの50もの影」を社員たちに共有する。「論理ではなく感情にアプローチした方がいい」という彼女の助言を信じた社員たちは、スティーブの機嫌を損ねまいとあの手この手で気を遣うのだが・・・。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
-    <link href="https://tver.jp/episodes/ept1gett72"/>
   </entry>
 </feed>
