@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-06-29T10:05:48+09:00</updated>
+  <updated>2026-06-29T12:05:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
+  <entry>
+    <title>華麗なるスパイス_[第5話 見捨てない、それが仲間]</title>
+    <id>https://tver.jp/episodes/ep1ryujcuo</id>
+    <updated>2026-06-29T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1ryujcuo" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 華麗なるスパイス
+                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月29日(Mon)_12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月06日(Mon)_12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月28日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1ryujcuo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                デザート作りに挑む芬青(フェンチン)だが、お酒の知識不足から大失敗。廷恩(ティンエン)の厳しい指導で泥酔する中、彼が芬青の父の形見である「料理ノート」を捨てようとしたことで激しい衝突が起こる。しかし、廷恩の真意は別の所にあった……。険悪なムードの中、彼が語る「仲間」への熱い想いが芬青の心を揺さぶる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第4話「2次手術の行方」]</title>
+    <id>https://tver.jp/episodes/epot1sph80</id>
+    <updated>2026-06-29T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epot1sph80" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年_06月29日(Mon)_10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年_07月27日(Mon)_10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月29日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epot1sph80.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                勝手に執刀医交代を発表したミングクに抗議することもなく傍観するキム・サブ。ウジンはそんなキム・サブが理解できず、イラ立ちをぶつける。&lt;br&gt;一方、ミングクの横暴に激怒した主任看護師オ・ミョンシムはミングクに食ってかかったうえ、手術記録などの開示を拒否するようスタッフに指示。１次手術の記録なしに２次手術を行うことは困難なため、ミングクは本院復帰をちらつかせウンジェを取り込もうとする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>Ｔシャツが乾くまで_[見どころナビ]</title>
     <id>https://tver.jp/episodes/epiiw1yuag</id>
