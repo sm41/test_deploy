@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-06-30T23:05:26+09:00</updated>
+  <updated>2026-07-01T02:10:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
+  <entry>
+    <title>100日後に別れる僕と彼_[第6話「暑がりな熱帯魚」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/ep3zvml9t1</id>
+    <updated>2026-07-01T01:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep3zvml9t1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhtlus8hb.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 100日後に別れる僕と彼
+                &lt;a href="https://tver.jp/series/srhtlus8hb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)01時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月08日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月30日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3zvml9t1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                100日目 。志穂（鳴海唯）のカメラの前で、佑馬（伊藤健太郎）はすでに樹（寛一郎）と破局していた事実を告白する。そして、そうなってしまった経緯や自分の思いを打ち明けるのだった。一方、佑馬の取材後、樹もまた、志穂のカメラの前で、自分の生い立ちや佑馬との生活を振り返る。世界を変えたい佑馬と、ただ隣にいたかった樹。そして、そんな二人を追っていた志穂。100日間のインタビュー取材を通して、彼らが見つけた、大切なこととは──。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>コントラスト_[Episode1 翔太と陽]</title>
+    <id>https://tver.jp/episodes/ep4pyjis4g</id>
+    <updated>2026-07-01T01:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4pyjis4g" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7l7w98f4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ コントラスト
+                &lt;a href="https://tver.jp/series/sr7l7w98f4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)01時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月26日(水)00時44分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月30日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4pyjis4g.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                クラスの喧騒に器用に紛れながらどこか物足りない気持ちを抱えている人気者の翔太（井内悠陽）と、学校でいつも一人で音楽を聴いている優等生の陽（阿久根温世）。交わることのない二人だが、なぜかすれ違うたびに目が合う。ある昼休み、柔らかな光が差す階段の踊り場で偶然遭遇した翔太と陽。二人だけの空間は不思議と心地よく、翔太は隠していた心の内を陽に語り出す。誰も知らない学校の片隅で静かに育まれる二人の関係は―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>早坂架威のごっこ倶楽部TV_[「離婚前の私たち」]</title>
     <id>https://tver.jp/episodes/epchibrd79</id>
