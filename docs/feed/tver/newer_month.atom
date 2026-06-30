@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-01T02:10:38+09:00</updated>
+  <updated>2026-07-01T07:12:25+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
+  <entry>
+    <title>スピナーベイト_[第1話 スピナーベイト]</title>
+    <id>https://tver.jp/episodes/ep2p7rmtob</id>
+    <updated>2026-07-01T02:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep2p7rmtob" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)02時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)02時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月30日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2p7rmtob.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                平凡な高校生・三井宏太が所属するフィッシング部の実態は、“スピナーベイト”と名乗る恐喝まがいの自警団。犯罪を取り締まるとポイントが与えられ、その獲得数で絶対服従の序列が決まるが、三井と彼の親友・内新次郎は未だゼロポイントの同率最下位だった。そんな中、町で凶悪な連続殺人事件が発生。スピナーベイトの面々は、犯人の行方を追うが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>100日後に別れる僕と彼_[第6話「暑がりな熱帯魚」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/ep3zvml9t1</id>
