@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-01T16:05:56+09:00</updated>
+  <updated>2026-07-01T18:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
-  <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
+  <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
   <entry>
     <title>浪漫ドクター キム・サブ２_[第6話「過去のトラウマ」]</title>
     <id>https://tver.jp/episodes/epqr1iq4rq</id>
@@ -237,39 +237,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 会社でみんなが「人生最後に食べたいものは？」という話に夢中になっていた晩、ワカコが出合ったのが、ザッツ町の定番・中華屋さん。そのお店の雰囲気にはまったワカコは連日訪れることに……。ちょっと甘い、複雑に絡み合った中華味の「青椒肉絲」と瓶ビール……。 辛さの中にも、繊細なエビ殻の出汁がきいた「エビチリ」と紹興酒。「これぞ外食中華のお楽しみ」を味わいきる。そして、常連のおじさんとおばちゃん店員と親しくなったワカコは、あの質問をされることに。「人生最後に食べたいものは？」　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>浪漫ドクター キム・サブ２_[第5話「誤解」]</title>
-    <id>https://tver.jp/episodes/epjyofd59p</id>
-    <updated>2026-06-30T10:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epjyofd59p" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
-                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年06月30日(火)10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月28日(火)10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 6月30日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjyofd59p.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                長官の手術から外されたウンジェは肋骨骨折の患者の処置に当たるが、薬の影響で眠気に襲われ、まともな治療ができない。そしてウジンを見つけると裏切り者と責めたて、ひどい言葉を投げつける。&lt;br&gt;そんな中、病院に到着した長官の息子がキム・サブを医療ミスで告訴すると言い出す。ウジンは行政室長チャン・ギテらに、カネを受け取ってキム・サブに不利な証言をしたのではと疑われ、キム・サブに怒りをぶつける。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>

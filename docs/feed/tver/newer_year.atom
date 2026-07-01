@@ -2,13 +2,541 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-01T16:05:56+09:00</updated>
+  <updated>2026-07-01T18:05:57+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
-  <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
+  <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>初恋、ざらり_[第8話 たぶん私じゃ、ダメなんです。]</title>
+    <id>https://tver.jp/episodes/eprhwngm7h</id>
+    <updated>2026-07-01T17:00:18+09:00</updated>
+    <link href="https://tver.jp/episodes/eprhwngm7h" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdvl0rfe0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 初恋、ざらり
+                &lt;a href="https://tver.jp/series/srdvl0rfe0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprhwngm7h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11,#12：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;岡村（風間俊介）の両親に挨拶に行くことが決まった有紗（小野花梨）は冬美（若村麻由美）と当日着ていく洋服を心弾む気持ちで選んでいた。しかし冬美からは障害のことを伏せるように言われ、不安に思う。岡村の実家に行くと母・靖子（熊谷真実）、父・龍彦（尾美としのり）が有紗を快く迎えてくれる。だが、有紗は思わず障害の事を靖子に告白してしまう。そしてその事が、二人の関係を大きく動かすことになる。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>初恋、ざらり_[第7話 私のこと、紹介できますか？]</title>
+    <id>https://tver.jp/episodes/epd0zpvyum</id>
+    <updated>2026-07-01T17:00:17+09:00</updated>
+    <link href="https://tver.jp/episodes/epd0zpvyum" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdvl0rfe0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 初恋、ざらり
+                &lt;a href="https://tver.jp/series/srdvl0rfe0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd0zpvyum.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11,#12：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;アイドルを目指している友子（高山璃子）は撮影会が入った事を有紗（小野花梨）に報告する。さらに岡村（風間俊介）に対してストレートに岡村と有紗の結婚について言及する。その質問によって岡村は無意識に避けていた現実的な将来を意識する。友子の撮影当日。友子は撮影現場に遅刻してしまう。呆れたカメラマンは渋々撮影を始めるが、友子にある変化が現れ…そしてそれを目撃した岡村は障害者の家族という意味を考えることに。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>初恋、ざらり_[第6話 「怒ってますか…？」伝わらない想い。]</title>
+    <id>https://tver.jp/episodes/epwtmogqhj</id>
+    <updated>2026-07-01T17:00:16+09:00</updated>
+    <link href="https://tver.jp/episodes/epwtmogqhj" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdvl0rfe0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 初恋、ざらり
+                &lt;a href="https://tver.jp/series/srdvl0rfe0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwtmogqhj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11,#12：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;有紗（小野花梨）ともっと真摯に向き合わねばと思うものの、言いようのない罪悪感を覚える岡村（風間俊介）。一方有紗は母・冬美（若村麻由美）から、岡村と「支え合いなさい」と助言される。そんな中、職場で密かに所長の誕生日会の準備が進められる。迎えた所長の誕生日、用意していた所長へのプレゼントが見つからないという事件が起きる。その時有紗がとった行動が岡村にある感情を呼び覚まして…。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>初恋、ざらり_[第5話 「好きだけじゃダメなのか？」揺れる二人]</title>
+    <id>https://tver.jp/episodes/epjpporjre</id>
+    <updated>2026-07-01T17:00:15+09:00</updated>
+    <link href="https://tver.jp/episodes/epjpporjre" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdvl0rfe0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 初恋、ざらり
+                &lt;a href="https://tver.jp/series/srdvl0rfe0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjpporjre.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11,#12：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;有紗（小野花梨）は岡村（風間俊介）に、自分でも思いがけず知的障害があることを告げてしまう。戸惑いつつもその事実を受け入れる岡村。だが有紗は岡村の様子がおかしいことに気づいていた。それでも岡村とずっと一緒にいたいと“ある努力”を試みる。一方の岡村は自分なりに有紗の症状について調べたりするものの、気持ちが追いついてなかった。そんな岡村の心の動揺を、有紗の母・冬美（若村麻由美）は見抜いていて…。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>セトウツミ_[第8話]</title>
+    <id>https://tver.jp/episodes/ep3hccatdy</id>
+    <updated>2026-07-01T17:00:14+09:00</updated>
+    <link href="https://tver.jp/episodes/ep3hccatdy" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3hccatdy.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク2編。　（1）“絵しりとり”を始める2人。互いに無言の心理ゲーム。勘違いと深読みによって噛み合わないまま迎える、見事な結末とは!?　（2）河川敷で再び手紙をしたためる田中真二（森永悠希）。樫村一期（清原果耶）へのラブレターだ。そこへハツ美（片山友希）が現れて文面を読まれてしまい……　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>セトウツミ_[第7話]</title>
+    <id>https://tver.jp/episodes/ep28pggmdg</id>
+    <updated>2026-07-01T17:00:13+09:00</updated>
+    <link href="https://tver.jp/episodes/ep28pggmdg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep28pggmdg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク3編。　（1）瀬戸の両親は離婚問題が勃発中。祖父は若き日の祖母を求めて徘徊中。嘆く瀬戸に内海は……。　（2）河川敷に現れた車いすの少女（山田杏奈）。悲壮感漂う少女を前になぜか饒舌な内海。瀬戸とのトークは次第にテンションが上がり……。　（3）樫村（清原果耶）VSハツ美（片山友希）再び！　瀬戸と内海それぞれに恋する2人のトークバトルが炸裂。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>セトウツミ_[第6話]</title>
+    <id>https://tver.jp/episodes/epm633z4qa</id>
+    <updated>2026-07-01T17:00:12+09:00</updated>
+    <link href="https://tver.jp/episodes/epm633z4qa" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm633z4qa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク。　（1）スマホの調子が悪いとカスタマーセンターに電話する瀬戸と内海。すぐ目の前で野球部の馬場（田中偉登）が素振りをしているのに、なかなか顔が覚えられず……。　（2）瀬戸、内海、馬場、田中（森永悠希）が河川敷で草野球。そこに樫村（清原果耶）やハツ美（片山友希）、ネコも登場して様々な思惑が渦巻く……そして迎える衝撃の結末！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>セトウツミ_[第5話]</title>
+    <id>https://tver.jp/episodes/epwiczu293</id>
+    <updated>2026-07-01T17:00:11+09:00</updated>
+    <link href="https://tver.jp/episodes/epwiczu293" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwiczu293.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/30（火）17:00～&lt;br&gt;#5,#6,#7,#8：7/1（水）17:00～&lt;br&gt;#9,#10,#11：7/2（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク3編。　（1）ゴリラ顔した木沢先生（原西孝幸）が、授業をサボった瀬戸に“笑撃”の補習。人類の遺伝子はチンパンジー寄り？　ゴリラ寄り？　（2）瀬戸に恋するハツ美（片山友希）が手作り菓子でアピール……さらに樫村（清原果耶）を真似た髪型も披露！　一途な恋の行方は……!?　（3）新キャラの岡山県人、蒲生（髙橋里恩）が登場。「靴飛ばしチキンレース合戦」始まる！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>雪女と蟹を食う_[第12話（最終回） 旅の締めくくり]</title>
+    <id>https://tver.jp/episodes/epkoexbewo</id>
+    <updated>2026-07-01T17:00:10+09:00</updated>
+    <link href="https://tver.jp/episodes/epkoexbewo" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3bqrsw4o.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 雪女と蟹を食う
+                &lt;a href="https://tver.jp/series/sr3bqrsw4o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkoexbewo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/29（月）17:00～&lt;br&gt;#5,#6,#7,#8：6/30（火）17:00～&lt;br&gt;#9,#10,#11,#12：7/1（水）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;死ぬ前に蟹を食べようと北海道まで旅をしてきた北（重岡大毅）と彩女（入山法子）。北の想いは届かず、彩女は自ら海に入っていった。北はなんとか彩女を浜に引き上げるが彩女の意識は戻らないまま……。残された北は彩女から託された日記を読み、彼女の本当の想いを知る。そして、彩女を訪ねてきた一騎（勝村政信）がホテルへやってくると、北は一騎を海へ連れていき……。北と彩女の不思議な二人旅はどんな結末を迎えるのか……？　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>雪女と蟹を食う_[第11話 あなたのような人]</title>
+    <id>https://tver.jp/episodes/epdxxgskds</id>
+    <updated>2026-07-01T17:00:09+09:00</updated>
+    <link href="https://tver.jp/episodes/epdxxgskds" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3bqrsw4o.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 雪女と蟹を食う
+                &lt;a href="https://tver.jp/series/sr3bqrsw4o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdxxgskds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/29（月）17:00～&lt;br&gt;#5,#6,#7,#8：6/30（火）17:00～&lt;br&gt;#9,#10,#11,#12：7/1（水）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;彩女（入山法子）の死への決意を変えることができず葛藤する北（重岡大毅）。「明日、一緒に蟹を食べて、そして一緒に死ぬのよ」と言った彩女を思い出していると、彩女から特選蟹フルコースの予約が取れたと報告される。北は、彩女を救うため、自ら命を絶とうとしていた時のことを思い出すが、その中で自分は彩女によってとっくに救われていたことを実感し……。そして2人は、遂に“蟹を食べる日”を迎えてしまう。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>雪女と蟹を食う_[第10話 嘘]</title>
+    <id>https://tver.jp/episodes/epvp1qrfvj</id>
+    <updated>2026-07-01T17:00:08+09:00</updated>
+    <link href="https://tver.jp/episodes/epvp1qrfvj" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3bqrsw4o.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 雪女と蟹を食う
+                &lt;a href="https://tver.jp/series/sr3bqrsw4o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvp1qrfvj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/29（月）17:00～&lt;br&gt;#5,#6,#7,#8：6/30（火）17:00～&lt;br&gt;#9,#10,#11,#12：7/1（水）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;北（重岡大毅）と彩女（入山法子）は、ついに“最期の地”と決めた稚内までたどり着く。ホテルのロビーで一編の詩に出会い「生」に想いを巡らせる北。北とは対照的に「死」への強い決意を感じさせる彩女。部屋に向かう途中、ふとブライダルサロンが目に入り、北は彩女が結婚式を挙げていないことを知る。彩女の表情からウエディングドレスへの憧れを感じた北は、なんとかして彩女にドレスを着させようとスタッフに掛け合うが……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>雪女と蟹を食う_[第9話 覚悟]</title>
+    <id>https://tver.jp/episodes/ep6vypwwgt</id>
+    <updated>2026-07-01T17:00:07+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6vypwwgt" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3bqrsw4o.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 雪女と蟹を食う
+                &lt;a href="https://tver.jp/series/sr3bqrsw4o" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6vypwwgt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/29（月）17:00～&lt;br&gt;#5,#6,#7,#8：6/30（火）17:00～&lt;br&gt;#9,#10,#11,#12：7/1（水）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;マリア（久保田紗友）から彩女（入山法子）の居場所を聞き、一心不乱に彩女の元を目指す北（重岡大毅）。再会した二人は小樽まで車を走らせる。海鮮丼を食べ、街を散策し、旅を楽しむ二人だが、北は、離れていた時間のことを一切尋ねてこない彩女に『蝉時雨』に出てくる妻を重ねていた。一方、一騎（勝村政信）は巡（淵上泰史）から彩女が男と北海道にいると聞かされ……。彩女と一騎の歪な夫妻関係。その過去が遂に明らかに……！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ひと夏の共犯者_[第4話 殺す覚悟、できてます。]</title>
+    <id>https://tver.jp/episodes/ep1f31zddj</id>
+    <updated>2026-07-01T17:00:06+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1f31zddj" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpdqwxbuc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ひと夏の共犯者
+                &lt;a href="https://tver.jp/series/srpdqwxbuc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1f31zddj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：7/1（水）17:00～&lt;br&gt;#5,#6,#7,#8：7/2（木）17:00～&lt;br&gt;#9,#10,#11,#12,#13：7/3（金）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;「モナを殺せる？」眞希（恒松祐里）から、澪を守る覚悟があるなら幼馴染のモナ（石川瑠華）を殺せるか問われた巧巳（橋本将生）。モナとの幼少期からの思い出が浮かぶも、澪への想いと責任感に揺れる。一方、AMELのメンバーを取り調べする刑事・塔堂（萩原聖人）と三宅（柾木玲弥）だったが、三宅が実はAMELの愛衣那（永瀬莉子）推しだとわかると、愛衣那は何かを企み接触を図る…。そんな中沙嶋の家に、ある人物が訪ねてくる――。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ひと夏の共犯者_[第3話 あの子を殺せる？]</title>
+    <id>https://tver.jp/episodes/ep5ch6rqfk</id>
+    <updated>2026-07-01T17:00:05+09:00</updated>
+    <link href="https://tver.jp/episodes/ep5ch6rqfk" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpdqwxbuc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ひと夏の共犯者
+                &lt;a href="https://tver.jp/series/srpdqwxbuc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ch6rqfk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：7/1（水）17:00～&lt;br&gt;#5,#6,#7,#8：7/2（木）17:00～&lt;br&gt;#9,#10,#11,#12,#13：7/3（金）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;突然家を訪ねてきた幼馴染の千種モナ（石川瑠華）に、澪（恒松祐里）の存在がバレた巧巳（橋本将生）は内心動揺が隠せないまま、三人で村の夏祭りに行くことに。初めてのお祭りに楽しそうな澪を見て喜ぶ巧巳だったが、そんな時間も束の間…。澪が失踪していることがマスコミに漏れ、刑事・塔堂（萩原聖人）らも対応に追われていた。世間を騒がす事態に、澪のもう一つの人格・眞希が表れ、巧巳に衝撃的な問いかけをする――。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ひと夏の共犯者_[第2話 推しのアイドルは殺人犯？]</title>
+    <id>https://tver.jp/episodes/ep26n9qgs8</id>
+    <updated>2026-07-01T17:00:04+09:00</updated>
+    <link href="https://tver.jp/episodes/ep26n9qgs8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpdqwxbuc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ひと夏の共犯者
+                &lt;a href="https://tver.jp/series/srpdqwxbuc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep26n9qgs8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：7/1（水）17:00～&lt;br&gt;#5,#6,#7,#8：7/2（木）17:00～&lt;br&gt;#9,#10,#11,#12,#13：7/3（金）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;推しのアイドル・片桐澪（恒松祐里）の中に、もう1つの人格・眞希が存在することを知った巧巳（橋本将生）は、動揺する中で眞希から澪についての秘密と、死亡した澪の彼氏・海斗に関する情報を聞く。一方で、海斗死亡事件の発覚と同時に澪が行方不明になり、所属事務所や残されたAMELのメンバーも、澪の失踪に動揺と不安を募らせていく。澪と眞希、2つの人格の間で揺れ動きながら同居生活を続ける巧巳であったが、ある日澪は突然、巧巳の元からも姿を消してしまう…。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ひと夏の共犯者_[第1話 推しのアイドルは殺人犯？]</title>
+    <id>https://tver.jp/episodes/eppvai309b</id>
+    <updated>2026-07-01T17:00:03+09:00</updated>
+    <link href="https://tver.jp/episodes/eppvai309b" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpdqwxbuc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ひと夏の共犯者
+                &lt;a href="https://tver.jp/series/srpdqwxbuc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月31日(金)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppvai309b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：7/1（水）17:00～&lt;br&gt;#5,#6,#7,#8：7/2（木）17:00～&lt;br&gt;#9,#10,#11,#12,#13：7/3（金）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;大学3年生の岩井巧巳（橋本将生）は、アイドルグループAMELのMIOこと片桐澪（恒松祐里）を推していた。しかし、人気ミュージシャン・海斗との熱愛報道を知り、ショックを受けた心の傷を癒やすために訪れた田舎で、偶然にも雨に濡れた傷だらけの澪と出会う。「しばらくここに置いてください」と懇願する澪を受け入れ、夢にまで見た推しのアイドルとの共同生活が始まる。しかし、「熱愛報道のあった海斗が死亡した」というニュースが報じられ、「彼女は殺人犯かもしれない」という疑念が湧いてくる。信じたいのに、疑わずにいられない…。“幻の愛”に溺れた男が堕ちていく、危険で切ない逃避行ラブサスペンス開幕！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>終電バイバイ_[第五夜 片瀬江ノ島駅]</title>
     <id>https://tver.jp/episodes/epzu4600tg</id>
@@ -1458,105 +1986,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：6/28（日）17:00～&lt;br&gt;#5,#6,#7,#8：6/29（月）17:00～&lt;br&gt;#9,#10,#11,#12：6/30（火）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;闇の組織「D」からの“大きなヤマ”は、中国マフィアのシャオ家族を匿って覚せい剤の精製サポートをすること。超ヤバイ展開に巻き込まれる闇バイト家族、果たして!?　［期間限定無料配信］　鈴鹿央士 主演！「リーガルビート –逆転の法廷–」テレビ東京系列にて7月24日(金)スタート！毎週金曜夜9時より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>大好き！五つ子Ｇｏ！！_[第22回]</title>
-    <id>https://tver.jp/episodes/epmwtqeizf</id>
-    <updated>2026-06-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epmwtqeizf" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 大好き！五つ子Ｇｏ！！
-                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年06月30日(火)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月14日(火)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmwtqeizf.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;人一倍練習をしてライバルたちと競ってきた慎吾（山内秀一）だが、プロとして通用しないことは自分が一番良く知っていた。そのうえ骨折で半年のブランクを抱えることになってしまい、もうサッカーは続けないと言い張る。自分たちが思っている以上に現実を見ていた慎吾に気付き、桃子（森尾由美）は複雑な気持ちになる。一方、紀香（永岡真実）は恋人・隼人（佐野和真）とのことを隼人の妹・舞（山口真璃亜）に、隼人は紀香とのことを美穂（笹岡莉紗）に相談する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ザ・ロイヤルファミリー_[Episode８「相続馬限定馬主」]</title>
-    <id>https://tver.jp/episodes/ep8wx59r1l</id>
-    <updated>2026-06-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8wx59r1l" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnp85c27z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ザ・ロイヤルファミリー
-                &lt;a href="https://tver.jp/series/srnp85c27z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年06月30日(火)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月07日(火)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8wx59r1l.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】火曜ドラマ「君の好きは無敵」７月１４日（火）よる１０時スタート！ 主演：松本若菜 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：6月15日(月)12:00～7月14日(火)21:59&lt;br&gt;#4：6月16日(火)12:00～6月23日(火)11:59&lt;br&gt;#5：6月19日(金)12:00～6月26日(金)11:59&lt;br&gt;#6：6月23日(火)12:00～6月30日(火)11:59&lt;br&gt;#7：6月26日(金)12:00～7月3日(金)11:59&lt;br&gt;#8：6月30日(火)12:00～7月7日(火)11:59&lt;br&gt;#9：7月3日(金)12:00～7月10日(金)11:59&lt;br&gt;#10：7月7日(火)12:00～7月14日(火)21:59&lt;br&gt;------------&lt;br&gt;亡くなった耕造（佐藤浩市）から相続馬限定馬主としてロイヤルファミリーを引き継いだ耕一（目黒蓮）は、栗須（妻夫木聡）に連れられ、北陵ファームのセリ市の見学に行く。そこで、自分が見初めた新馬を椎名の息子である展之（中川大志）が競り落としたことをきっかけに２人は親しくなり、耕一は同年代ながら競馬の古い慣習を打ち破ろうとしている展之の考えに惹かれていく。&lt;br&gt;一方、デビュー戦を飾ったロイヤルファミリーだったが、その後の調子は今一つだ。流れを変えようと耕一は大胆な提案をするが、広中（安藤政信）の反対にあう。耕一とチームロイヤルの輪が次第に乱れていく様子に、栗須はこれまでにない難しさを感じていた。&lt;br&gt;そんな中、展之から「若手馬主の会」に招待された耕一は、チームロイヤルとは違う若い馬主たちの先進的な考えに傾倒していくが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>高校教師（藤木直人、上戸彩）_[VOL.10 よみがえる純愛]</title>
-    <id>https://tver.jp/episodes/eptfzjpj5h</id>
-    <updated>2026-06-30T10:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eptfzjpj5h" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjdcp2078.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 高校教師（藤木直人、上戸彩）
-                &lt;a href="https://tver.jp/series/srjdcp2078" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年06月30日(火)10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月07日(火)09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptfzjpj5h.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】金曜ドラマ「Ｔシャツが乾くまで」７月１０日（金）よる１０時スタート！ 主演：蒼井優 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～7月10日(金)21:59&lt;br&gt;#2：6月6日(土)10:00～7月10日(金)21:59&lt;br&gt;#3：6月7日(日)10:00～7月10日(金)21:59&lt;br&gt;#4：6月9日(火)10:00～6月16日(火)9:59&lt;br&gt;#5：6月12日(金)10:00～6月19日(金)9:59&lt;br&gt;#6：6月16日(火)10:00～6月23日(火)9:59&lt;br&gt;#7：6月19日(金)10:00～6月26日(金)9:59&lt;br&gt;#8：6月23日(火)10:00～6月30日(火)9:59&lt;br&gt;#9：6月26日(金)10:00～7月3日(金)9:59&lt;br&gt;#10：6月30日(火)10:00～7月7日(火)9:59&lt;br&gt;#11：7月3日(金)10:00～7月10日(金)21:59&lt;br&gt;------------&lt;br&gt;雛（上戸彩）は自分が湖賀（藤木直人）に必要とされていると感じながらも、湖賀が背負っている「死」の重さを受け入れることが出来ない自分の弱さに深く悲しむ。一方、雛から決別を告げられた湖賀は、徐々に病のため体調を崩し始めていたこともあり、高校を辞めて主治医である百合子（眞野あずさ）と共に百合子の別荘で過ごすことに。藤村（京本政樹）に学校を去る旨を話した湖賀は雛の担任である手島（眞鍋かをり）に雛への謝罪の手紙を託し、学校を後にする。湖賀の手紙を読んだ雛は、自分に対する気持ちに触れ、あらためて湖賀への想いが深まり、逢いたい気持ちが募っていく。同じ頃、紅子（ソニン）は藤村が自分のために勤めている風俗店に足しげく通って来てくれる行為に心を動かされて、お店を辞めることを決意。悠次（成宮寛貴）にそのことを告げた途端、悠次の態度が豹変。金を稼いでこなければ暴行された時のビデオを売ると脅され、悠次の本性を知り愕然となる。そのことを真美（蒼井優）から聞いた藤村は、再び悠次の元を訪れ、悠次と対峙するが…。&lt;br&gt;※性加害など不快に感じる恐れのある場面が含まれています。過去に辛い経験をされた方は、視聴を避けるか、信頼できる方と一緒にご覧ください。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
