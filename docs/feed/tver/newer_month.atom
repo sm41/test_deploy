@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-01T23:05:58+09:00</updated>
+  <updated>2026-07-02T00:06:59+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>今夜もシリアルキラーと待ち合わせ_[#1 予測不能な船出]</title>
+    <id>https://tver.jp/episodes/epwgi3odiw</id>
+    <updated>2026-07-01T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwgi3odiw" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtdntnuwd.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今夜もシリアルキラーと待ち合わせ
+                &lt;a href="https://tver.jp/series/srtdntnuwd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月01日(水)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月1日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwgi3odiw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                池袋南署の管内で、女性3人を殺害した連続殺人鬼が逮捕される。事件を解決に導いたのは、「連続殺人犯を捕まえた。あとはよろしく」という不可解な匿名メールだった。これまでにも同様の凶悪事件を闇で終わらせてきた“謎の通報者”の正体に強い興味を抱いた生活安全課の巡査部長・磯貝史郎（横山裕）は、かつては刑事課のエースだったが、ある事件を境に一匹狼となっていた。&lt;br&gt;現場写真とSNSの目撃情報から浮かび上がった“ティッシュ配りの天使”こと黒井ヒナタ（関水渚）は、度重なるド派手なイメチェンや、怪しげな中年男性の後を追う姿から、周囲からは「パパ活女子」と揶揄されていたが、磯貝が突き止めた彼女の行動は、あまりにも大胆で不穏なものだった…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season6_[第10話 千葉県富津市金谷のアジフライ定食]</title>
     <id>https://tver.jp/episodes/epdo5100si</id>
