@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>mnemosynekoto</title>
-  <id>https://tver.jp/</id>
-  <updated>2026-07-01T14:35:37+09:00</updated>
+  <id>https://pawchive.st/</id>
+  <updated>2026-07-02T05:07:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
+  <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
+  <link rel="self" href="https://sm41.github.io/test_deploy/feed/pawchive/mnemosynekoto.atom" />
   <entry>
     <title>Persona 4 NSFW Requests  </title>
     <id>https://pawchive.st/patreon/user/86508534/post/161557234</id>
