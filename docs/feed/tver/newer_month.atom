@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-03T01:57:44+09:00</updated>
+  <updated>2026-07-03T03:41:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第13話]</title>
+    <id>https://tver.jp/episodes/eppw3cqwde</id>
+    <updated>2026-07-03T03:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eppw3cqwde" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwlq8d3t7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ユニコーン～パンギョ物語～
+                &lt;a href="https://tver.jp/series/srwlq8d3t7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月03日(金)03時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月10日(金)02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月2日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppw3cqwde.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                社員たちがスティーブの手にした大金の行方に驚きを隠せない中、スティーブは新たなマッチングアプリ“アゲインゴー”の試作を発表する。一方、モニカは、社内でのチャールズの様子に異変を感じ始めていた。やがてその不安は現実となり、チャールズが突然姿を消してしまう。社内一丸となって捜索を続ける一同は、彼のかつての仕事仲間を捜し当てる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>今から、親友やめようか。_[第2話「親友には戻れない？」《ドラマフィル》]</title>
+    <id>https://tver.jp/episodes/epnj2k8pj3</id>
+    <updated>2026-07-03T01:59:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epnj2k8pj3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwr9pc2sa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今から、親友やめようか。
+                &lt;a href="https://tver.jp/series/srwr9pc2sa" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月03日(金)01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月14日(金)01時58分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月2日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnj2k8pj3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                親友であるはずの和巳（沢村玲）と一線を越えてしまい、動揺するひまり（岡本夏美）は、会社でも和巳を意識するあまり不自然に避けてしまうが、和巳はいつも通り淡々と業務をこなしていた。そんな中、社内一のモテ女子・岡田（西川晴菜）と和巳が親しげにランチをしている姿を目撃し、二人の関係が気になるひまりは、こんな気持ちで親友に戻れるのかと心はモヤモヤするばかり…。その後も和巳を避け続けていたが、和巳の業務を手伝っていたら、つい備品室で二人きりになってしまう！そして、和巳から「あのまま終わるつもりはない」と迫られて──!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>エミリとマリア_[Episode3「かっこよく酒飲むwoman」《ドラマ特区》]</title>
     <id>https://tver.jp/episodes/eppn5kvujd</id>
