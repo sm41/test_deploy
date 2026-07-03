@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-03T10:06:31+09:00</updated>
+  <updated>2026-07-03T12:05:29+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第8話「正当防衛」]</title>
+    <id>https://tver.jp/episodes/epj6uenu5z</id>
+    <updated>2026-07-03T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epj6uenu5z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月03日(金)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月31日(金)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月3日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj6uenu5z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ヨ院長が去り、ミングクが正式に院長に就任する。何も知らなかったミョンシムは悲しみと怒りを爆発させるが、麻酔科医ナム・ドイルに説得され受け入れることに。そんな中、患者の母親がひどく殴られてトイレで泣いているのをウンジェが発見する。父親の仕業と瞬時に察したウンジェは詰め寄って抗議するが、父親は認めるどころか逆上。そこへ母親がカッターを持って飛びかかり、ウンジェが首を切られてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第13話]</title>
     <id>https://tver.jp/episodes/eppw3cqwde</id>
@@ -270,39 +303,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ナイフで刺されたヤクザのボスと銃で撃たれた刑事が同時に運び込まれ、トルダム病院は大混乱。ボスの子分たちが押し寄せてキム・サブを呼べと騒ぎ立て、仲間に付き添ってきた刑事たちと一触即発の状態に。どちらの患者も一刻も早い手術が必要だったが、手術室は１つしか空いていない。キム・サブは心停止に陥った刑事の手術を優先することにするが、ミングクは助かる見込みのない患者は諦めるべきだと言う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>愛される花_[第3話 約束]</title>
-    <id>https://tver.jp/episodes/epbcdcbknd</id>
-    <updated>2026-07-02T08:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbcdcbknd" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 愛される花
-                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月02日(木)08時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月02日(日)08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月1日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbcdcbknd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                程錚(チョン・ジョン)の支えで成績が伸びた韻錦(ユンジン)は、父への恩返しができると喜ぶ。そんな彼女に彼は「一緒に北京の大学へ行こう」と一途な願いを託す。苦学の末、ついに迎えた運命の受験と卒業の日。希望と不安が入り混じる中、二人の進む道は重なるのか？瑞々しい青春の終わり、そして新たな物語の幕が上がる。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
