@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-06T03:10:52+09:00</updated>
+  <updated>2026-07-06T11:33:54+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第9話「謝罪の代償」]</title>
+    <id>https://tver.jp/episodes/ep5q16876a</id>
+    <updated>2026-07-06T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep5q16876a" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月06日(月)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月03日(月)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5q16876a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                自分のせいで病院が困難な状況にあることに耐えられなくなったウンジェは、キム・サブの反対を押し切って患者の父親に謝罪。これで事態は一段落するが、ミングクはウンジェに病院を辞めるよう圧力をかける。自分の選択が間違っていたことを痛感するウンジェ。そこへ刑務所から電話が入り、殺人を犯した無期懲役囚が急患で運ばれてくることになる。&lt;br&gt;ミングクは受け入れ拒否を命じ、キム・サブと対立する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>マイ・フィクション_[放送記念！ニカ玉＆レインボーのどきどき鑑賞会]</title>
     <id>https://tver.jp/episodes/epqzxijvfn</id>
