@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-07T00:05:57+09:00</updated>
+  <updated>2026-07-07T01:17:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[1話]</title>
+    <id>https://tver.jp/episodes/ep1njoxhdt</id>
+    <updated>2026-07-07T01:04:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1njoxhdt" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sratud77ep.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ もう1度夫婦になりますか？～カモフラージュ夫婦～
+                &lt;a href="https://tver.jp/series/sratud77ep" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月07日(火)01時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月20日(火)00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月6日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1njoxhdt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                専業主婦・笹嶋愛子(森迫永依)は、笹嶋誠一(前田公輝)にプロポーズされ結婚。穏やかで幸せな結婚生活を末永く続けていく……はずだった。&lt;br&gt;次々と明らかになる夫の秘密!予測不能な再生ストーリーが始まる!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>余命３ヶ月のサレ夫_[#6 崖っぷちシタ妻…毒母と“悪魔の契約”]</title>
     <id>https://tver.jp/episodes/epjdkvsmkw</id>
