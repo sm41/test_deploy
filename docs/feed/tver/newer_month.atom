@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-07T04:02:52+09:00</updated>
+  <updated>2026-07-07T10:45:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第10話「命への敬意」]</title>
+    <id>https://tver.jp/episodes/ep1hkaeqje</id>
+    <updated>2026-07-07T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1hkaeqje" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月07日(火)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月04日(火)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月7日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1hkaeqje.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                救急隊員チェ・スニョンに対する脳死判定委員会が開かれ、脳死判定が下される。その頃、無期懲役囚の治療にあたっていたウンジェはもはや腎臓移植しか治療方法がなくなる。スニョンが臓器提供登録をしていたと知ったウンジェは腎臓を提供してもらえないかと考えるが、これを聞いたウジンは大反対。ウンジェは無期懲役囚だから反対するのかとウジンを責めるが、それをスニョンの母親が聞き、臓器提供をやめると言いだす。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[1話]</title>
     <id>https://tver.jp/episodes/ep1njoxhdt</id>
