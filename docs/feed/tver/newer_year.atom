@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-09T10:30:10+09:00</updated>
+  <updated>2026-07-09T12:06:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>大好き！五つ子Ｇｏ！！_[第29回]</title>
+    <id>https://tver.jp/episodes/ephvnf105x</id>
+    <updated>2026-07-09T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephvnf105x" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大好き！五つ子Ｇｏ！！
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月09日(木)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月23日(木)11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephvnf105x.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;良介（新井康弘）が顧問を務める野球部が大会初戦で負けてしまった。今年は優勝を狙えるかもしれないと言っていた良介にとってはショックで、野球部の顧問を辞めると言い出す。良介の気持ちを考えると桃子（森尾由美）は何も言えない。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ドラゴン桜(2005)_[第９回 信じろ！成績は必ず上がる！]</title>
     <id>https://tver.jp/episodes/epxeeu2wa6</id>
