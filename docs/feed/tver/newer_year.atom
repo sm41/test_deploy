@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-09T17:36:40+09:00</updated>
+  <updated>2026-07-09T20:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>恋仲_[第5話 最後の花火]</title>
+    <id>https://tver.jp/episodes/epv4ivapz7</id>
+    <updated>2026-07-09T19:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epv4ivapz7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruu2owsk1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 恋仲
+                &lt;a href="https://tver.jp/series/sruu2owsk1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月09日(木)19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月16日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv4ivapz7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：6月20日(土) ～ 7月28日(火)&lt;br&gt;#2：6月27日(土) ～ 7月28日(火)&lt;br&gt;#3：7月4日(土) ～ 7月28日(火)&lt;br&gt;#4：7月6日(月) ～ 7月13日(月)&lt;br&gt;#5：7月9日(木) ～ 7月16日(木)&lt;br&gt;#6：7月12日(日) ～ 7月19日(日)&lt;br&gt;#7：7月15日(水) ～ 7月22日(水)&lt;br&gt;#8：7月18日(土) ～ 7月25日(土)&lt;br&gt;#9：7月21日(火) ～ 7月28日(火)&lt;br&gt;&lt;br&gt;高梨恵里香（馬場園梓）から芹沢あかり（本田翼）が帰って来ないと連絡を受けた三浦葵（福士蒼汰）が向かったのは、蒼井翔太（野村周平）のマンションだった。翔太を追及すると、芹沢寛利（小林薫）に金を渡し、2度とあかりに会うなと告げたと言う。そのことを知ったあかりは、部屋から飛び出していってしまったのだ。翔太のあまりにも勝手な言い分に腹を立てる葵だが、あかりの行方は全く分からない。&lt;br&gt;職場に戻った葵は、あかりと翔太のことを考え仕事が手につかない。そんな葵を冴木瑠衣子（市川由衣）は、明日の休日、美術館に行かないかと誘う。美術館の設計者が、出品しようとしているコンクールの出身者と聞いた葵は行く事にする。&lt;br&gt;翌朝、瑠衣子が葵の会社に行くと、徹夜をしていた小谷照吉（前野朋哉）の様子がおかしい。見知らぬ美女が訪ねてきて建築現場の作業員リストを見せてほしいと言われたという。&lt;br&gt;瑠衣子と美術館デートをする葵に、恵里香からあかりがまだ帰らないと連絡が入る。傍らで様子を見ていた瑠衣子は、葵にあかりが事務所を訪ねて来た事を教える。あかりが向かったであろう場所を知った葵は翔太に連絡をする。しかし翔太から返ってきたのは予想外の言葉だった・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『恋仲』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>大好き！五つ子Ｇｏ！！_[第29回]</title>
     <id>https://tver.jp/episodes/ephvnf105x</id>
@@ -1590,171 +1623,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 出演：小日向文世 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～7月26日(日)20:59&lt;br&gt;#2：6月6日(土)10:00～7月26日(日)20:59&lt;br&gt;#3：6月7日(日)10:00～7月26日(日)20:59&lt;br&gt;#4-5：7月2日(木)10:00～7月8日(水)9:59&lt;br&gt;#6-7：7月8日(水)10:00～7月14日(火)9:59&lt;br&gt;#8-9：7月14日(火)10:00～7月20日(月)9:59&lt;br&gt;#10-11：7月20日(月)10:00～7月26日(日)20:59&lt;br&gt;------------&lt;br&gt;沙絵（柴咲コウ）の前に突然現れ、彼女と親しげに手話で会話していた男性（永井大）が誰なのかが気になった櫂（妻夫木聡）は、茜（白石美帆）に沙絵のアルバイト先のホテルラウンジでの一部始終について話す。茜によると、その男性は、アメリカ留学中の沙絵を知る柿崎という人物らしい。数日後、ホテルのラウンジに再び柿崎が現れる。柿崎と沙絵は久しぶりの再会に話も弾み、それぞれの近況や当時のことなどを語り合う。そして、柿崎は沙絵を誘い、２人は次第にデートを重ねるように。沙絵と柿崎がいい雰囲気らしいことは、茜はもちろん、翔平（成宮寛貴）や啓太（瑛太）の耳にもすぐに入ってきた。オレンジの会のメンバーは、櫂と沙絵の２人を悪くないと思って見守っていただけに、その成り行きを心配する。櫂も、複雑な気持ちを隠せない。しかし、事態は思わぬ方向に展開し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ブラックペアン シーズン２_[第６話 メスを持った看護師＆去り行く医師]</title>
-    <id>https://tver.jp/episodes/ep8tt7b4l8</id>
-    <updated>2026-07-08T10:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8tt7b4l8" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqxuy7prn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ブラックペアン シーズン２
-                &lt;a href="https://tver.jp/series/srqxuy7prn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月08日(水)10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月14日(火)09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8tt7b4l8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 出演：二宮和也・内村遥・井上肇 関連作品を期間限定配信！！&lt;br&gt;劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』８月２１日（金）全国公開！！ 出演：橋本さとし 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：6月5日(金)10:00～9月27日(日)23:59&lt;br&gt;#4：7月2日(木)10:00～7月8日(水)9:59&lt;br&gt;#5：7月5日(日)10:00～7月11日(土)9:59&lt;br&gt;#6：7月8日(水)10:00～7月14日(火)9:59&lt;br&gt;#7：7月11日(土)10:00～7月17日(金)9:59&lt;br&gt;#8：7月14日(火)10:00～7月20日(月)9:59&lt;br&gt;#9：7月17日(金)10:00～7月23日(木)9:59&lt;br&gt;#10：7月20日(月)10:00～7月26日(日)23:59&lt;br&gt;------------&lt;br&gt;維新大の菅井（段田安則）は、日本一の自動車メーカー・ウエスギモータースの上杉歳一会長（堺正章）のオペを成功させることで医学会会長選に向けて巻き返しを図っていた。オペの鍵となるのが、エルカノを進化させた最新医療ロボットのエルカノ・ダーウィン。東城大の高階（小泉孝太郎）の協力を得て維新大の医師・早川玲子（瀧内公美）が開発したものだ。ダイレクト・アナストモーシスが必要な状態の上杉に“世界一の医者である”エルカノ・ダーヴィンを使ったオペを提案する菅井だが、上杉からはそれを操縦する医者も世界一を用意しろと言われる。そして、そこに現れたのは天城（二宮和也）だった。実は、菅井は上杉のオペの前にダイレクト・アナストモーシスをエルカノ・ダーウィンに学習させるため、天城に臨床試験のオペを依頼しており、天城は上杉会長の莫大な総資産額を聞き、それを了承していたのだ。臨床試験を前に菅井らと東城大にやって来た玲子は、猫田麻里（趣里）と遭遇。実は猫田は８年前まで維新大の看護師で、ある事件を起こし退職していたのだった。その事件が玲子によって掘り返されることに。さらに臨床試験当日、患者の状態を見た天城が突然オペの中止を発表。そんな中、玲子が胸を押さえて倒れ込み…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>MOZU Season2～幻の翼～_[Episode３ 倉木逃走…真実を知る闘いへ…]</title>
-    <id>https://tver.jp/episodes/ep67ervgq0</id>
-    <updated>2026-07-08T10:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep67ervgq0" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvpnuprmn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ MOZU Season2～幻の翼～
-                &lt;a href="https://tver.jp/series/srvpnuprmn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月08日(水)10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月14日(火)09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep67ervgq0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】金曜ドラマ「Ｔシャツが乾くまで」７月１０日（金）よる１０時スタート！ 主演：蒼井優 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 出演：平山祐介・小日向文世 関連作品を期間限定配信！！&lt;br&gt;劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』８月２１日（金）全国公開！！ 出演：石田ゆり子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～9月27日(日)23:59&lt;br&gt;#2：7月2日(木)10:00～7月8日(水)9:59&lt;br&gt;#3：7月8日(水)10:00～7月14日(火)9:59&lt;br&gt;#4：7月14日(火)10:00～7月20日(月)9:59&lt;br&gt;#5：7月20日(月)10:00～7月26日(日)23:59&lt;br&gt;------------&lt;br&gt;森原官房長官（瑳川哲朗）を爆死させた容疑で、倉木（西島秀俊）が指名手配された。大杉（香川照之）と美希（真木よう子）は心配するも、倉木の行方は誰もつかめずにいた。自分をはねた車の運転手が、長年探し続けてきた父・洋人（篠田三郎）だったことに衝撃を受けた美希は、公安警察だった洋人が警察を裏切り失踪したため、警告として美希の実家に無言電話がかかってきたのではないか、と推測する。予想外の告白に、言葉を失う大杉。大杉は森原爆死事件の真相を探るべく、独自に行動を開始。汐里（蒼井優）に接触し、新谷（池松壮亮）との関係を問い詰める。さらに鳴宮啓介（伊藤淳史）の協力を得て、森原官房長官の車に爆弾を仕掛けたのは倉木ではない証拠を探すことに。そんな中、汐里を尾行している部下・加藤（平山祐介）らから大杉に連絡が入る。「汐里が極秘に誰かと会っている」それを聞いた大杉は、汐里が会う相手が新谷ではと考え、自分が到着するまで監視を続けるよう指示。しかし、機会を逃すことを恐れた加藤たちが単独で突入してしまい…。一方、グルジブ人テロリストの居場所をつかんだ美希たち外事警察は、アジトと目される場所に突入する。しかし、そこには争ったような形跡と血痕が残されているだけで、誰もいなかった。自分たちが来る前に、誰かが来たのか！？そう考える美希の脳裏には、依然、行方の分からない倉木が思い浮かんでいた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>孤独の賭け～愛しき人よ～_[第７話 愛する為の裏切り]</title>
-    <id>https://tver.jp/episodes/ep5gvanbd2</id>
-    <updated>2026-07-08T10:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5gvanbd2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruo3vdwtx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 孤独の賭け～愛しき人よ～
-                &lt;a href="https://tver.jp/series/sruo3vdwtx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月08日(水)10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月14日(火)09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5gvanbd2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 主演：堺雅人 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～7月26日(日)20:59&lt;br&gt;#2：6月6日(土)10:00～7月26日(日)20:59&lt;br&gt;#3：6月7日(日)10:00～7月26日(日)20:59&lt;br&gt;#4-5：7月2日(木)10:00～7月8日(水)9:59&lt;br&gt;#6-7：7月8日(水)10:00～7月14日(火)9:59&lt;br&gt;#8-9：7月14日(火)10:00～7月20日(月)9:59&lt;br&gt;#10-11：7月20日(月)10:00～7月26日(日)20:59&lt;br&gt;------------&lt;br&gt;すべてを東野（笹野高史）に牛耳られていると思い知った梯二郎（伊藤英明）は、カジノ計画の資金集めに外資を導入することを決意。寿都子（高岡早紀）を介し、画商で寿都子の愛人・宮田サムエル（羽賀研二）へ投資の協力を求める。その条件に、バックアップとして次期総理大臣・海江田太郎（春田純一）、後ろ盾に大垣がいることを告げた。すると宮田は、梯二郎にもリスクを背負ってもらいたいと言い、梯二郎は外資投入に反対する者がいれば、東野恒産も例外ではなく計画から完全に排除することを約束した。&lt;br&gt;一方、コレクションの準備で慌しい百子（長谷川京子）だったが、東野からの融資をつき返した直後から、コレクション自体が危ぶまれるようなトラブルに見舞われる。百子はこれに香織（濱田マリ）が関わっていると知り、さらに香織と氷室（田宮五郎）が繋がっていたことが分かり…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>孤独の賭け～愛しき人よ～_[第６話 牙を抜かれた野獣]</title>
-    <id>https://tver.jp/episodes/ep4df4q18f</id>
-    <updated>2026-07-08T10:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep4df4q18f" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruo3vdwtx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 孤独の賭け～愛しき人よ～
-                &lt;a href="https://tver.jp/series/sruo3vdwtx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月08日(水)10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月14日(火)09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4df4q18f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 主演：堺雅人 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～7月26日(日)20:59&lt;br&gt;#2：6月6日(土)10:00～7月26日(日)20:59&lt;br&gt;#3：6月7日(日)10:00～7月26日(日)20:59&lt;br&gt;#4-5：7月2日(木)10:00～7月8日(水)9:59&lt;br&gt;#6-7：7月8日(水)10:00～7月14日(火)9:59&lt;br&gt;#8-9：7月14日(火)10:00～7月20日(月)9:59&lt;br&gt;#10-11：7月20日(月)10:00～7月26日(日)20:59&lt;br&gt;------------&lt;br&gt;百子（長谷川京子）に任せられたラフェリーネは、思った以上に客も入るようになり、レギャンのオーナーだった倉沢時枝（青田典子）も感心するほど順調だった。フェリーネもコレクションを控え、精力的に働く百子はそこで「ブランドイメージを一新する」と意気込んでいた。&lt;br&gt;一方、梯二郎（伊藤英明）の事務所では、決済が５日後に迫っているにも関わらず、東野恒産から５５００万円が入金されていないことが判明。その金額は、すべて百子がらみで動かしたものだった。状況を確認すべく、東野恒産の常務である氷室健二（田宮五郎）に電話を入れるが居留守を使われてしまい、東野（笹野高史）と話すことすらできなかった。そこへ、田鶴子（古手川祐子）がある情報を手にやってきて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>コウノドリ(2017)_[６.母と子を救え！チーム救命医療]</title>
-    <id>https://tver.jp/episodes/ep390gkhiu</id>
-    <updated>2026-07-08T10:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep390gkhiu" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sremi71rgs.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ コウノドリ(2017)
-                &lt;a href="https://tver.jp/series/sremi71rgs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月08日(水)10時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月14日(火)09時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep390gkhiu.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】火曜ドラマ「君の好きは無敵」７月１４日（火）よる１０時スタート！ 主演：松本若菜 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 出演：平山祐介 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)10:00～7月26日(日)20:59&lt;br&gt;#2：6月6日(土)10:00～7月26日(日)20:59&lt;br&gt;#3：6月7日(日)10:00～7月26日(日)20:59&lt;br&gt;#4-5：7月2日(木)10:00～7月8日(水)9:59&lt;br&gt;#6-7：7月8日(水)10:00～7月14日(火)9:59&lt;br&gt;#8-9：7月14日(火)10:00～7月20日(月)9:59&lt;br&gt;#10ｰ11：7月20日(月)10:00～7月26日(日)20:59&lt;br&gt;------------&lt;br&gt;下屋（松岡茉優）はピンチヒッターとして行ったこはる産婦人科で、切迫早産で入院している神谷カエ（福田麻由子）と出会う。この病院で唯一の入院患者で、不安が募っていたカエの相談に下屋は積極的に乗っていた。名前も年齢も同じ２人は意気投合し、次第に仲良くなっていく。患者に首をつっこみすぎではないかという白川（坂口健太郎）に下屋は、自分で判断する力をつけることも大事、サクラ（綾野剛）や四宮（星野源）に頼ってばかりでは一人前になれないと反論。そんな中、下屋はカエの様子に違和感を抱き、こはる産婦人科の院長に告げるが、「週明けに検査する」と返され帰路につく。ペルソナに戻った下屋のもとに、こはる産婦人科からの緊急搬送が。なんと、心肺停止で運ばれて来た妊婦はカエだった。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>

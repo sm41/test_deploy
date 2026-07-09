@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-09T17:36:40+09:00</updated>
+  <updated>2026-07-09T20:06:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season7_[第3話 東京都港区南麻布のチョリソのケソフンディードと鶏肉のピピアンベルデ]</title>
+    <id>https://tver.jp/episodes/epjuxlm4i1</id>
+    <updated>2026-07-09T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epjuxlm4i1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season7
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月09日(木)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月23日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月9日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjuxlm4i1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                広尾へ降り立った井之頭五郎（松重豊）は、仕事先グローバルキッズスクールへ急ぐ。子供たちにタジタジになりながら代表・山本キャサリン（豊田エリー）との商談スタート。そんな中、子供たちがランチの話をしているのを聞き、スイッチが入ってしまった五郎は、公園周辺、路地、商店街と歩を進める。その時、目に飛び込んできたのはメキシコの国旗。どうやらメキシコ料理店らしい。 日本人店員（渡部豪太）に案内され席に着くと、メニューの多さに驚く。そこで五郎は癖になるメキシコの味と出合うことに……！ 　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>浪漫ドクター キム・サブ２_[第12話「もう１人の患者」]</title>
     <id>https://tver.jp/episodes/epmuilsk6a</id>
