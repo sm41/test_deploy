@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-09T03:24:34+09:00</updated>
+  <updated>2026-07-09T10:30:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第12話「もう１人の患者」]</title>
+    <id>https://tver.jp/episodes/epmuilsk6a</id>
+    <updated>2026-07-09T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epmuilsk6a" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月09日(木)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月06日(木)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月9日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmuilsk6a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                バス事故に遭った臨月の妊婦は心停止、胎児も仮死状態で緊急の帝王切開が行われる。取り出した胎児と妊婦が蘇生処置の末にようやく息を吹き返し、病院内が安堵の空気に包まれる中、看護師パク・ウンタクはミョンシムとユン・アルムをある女性患者のもとへ連れていく。２人は一目で性暴力被害者だと気づき、すぐに警察に通報。アルムはやってきた警察官に証拠品を渡すが、そこへ別の警察官がやってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>愛される花_[第4話 旅立ち]</title>
+    <id>https://tver.jp/episodes/epe2ighi6z</id>
+    <updated>2026-07-09T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epe2ighi6z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月09日(木)08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月09日(日)08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月8日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe2ighi6z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                卒業式の後、クラス全員で訪れたカラオケで、韻錦(ユンジン)の友人・郁華(ユーホア)は子翼(ズーイー)に想いを打ち明ける。また程錚(チョン・ジョン)は韻錦に北京の大学を勧めるが、彼女は上海の大学へ進む決意をする。それぞれの進路が分かれ、新たな環境で始まる日々。二人の関係はどう変わっていくのか―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ヤンキー激戦区の四天王がアイドルグループに転生したら？_[第5話 ヤンキーアイドルの公式兄貴分]</title>
     <id>https://tver.jp/episodes/ep2nj8bxmc</id>
@@ -567,39 +633,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 蒼井優主演！とある事故に巻き込まれた⼆組の夫婦の、喪失から始まる愛と秘密の物語。豪華キャストのスペシャルインタビューとともに、ドラマの見どころに迫る！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>早坂架威のごっこ倶楽部TV_[「髪のイタズラ/母からの引っ越し祝い」]</title>
-    <id>https://tver.jp/episodes/epm2jdzpx2</id>
-    <updated>2026-07-07T22:59:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epm2jdzpx2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcb3t38u.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 早坂架威のごっこ倶楽部TV
-                &lt;a href="https://tver.jp/series/srfcb3t38u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月07日(火)22時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月07日(金)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月7日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 福島中央テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm2jdzpx2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ショートドラマの中でもさらにショートな&lt;br&gt;1分で完結する短編を2本立て！&lt;br&gt;「髪のイタズラ」&lt;br&gt;料理に髪の毛が混入…&lt;br&gt;態度の悪い店員の末路とは？&lt;br&gt;「母からの引っ越し祝い」&lt;br&gt;金の無心を始めた母親…&lt;br&gt;いったいなぜ？？
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
