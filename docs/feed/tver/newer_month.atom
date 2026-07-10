@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-10T03:56:03+09:00</updated>
+  <updated>2026-07-10T11:01:27+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第13話「因縁の関係」]</title>
+    <id>https://tver.jp/episodes/ephbdyeil1</id>
+    <updated>2026-07-10T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephbdyeil1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月10日(金)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月07日(金)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月10日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephbdyeil1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                倒れたキム・サブの容体が安定し、スタッフ一同胸をなで下ろす。キム・サブはもう大丈夫だと言って起き上がろうとするが、ミョンシムに怒られてしぶしぶ従う。&lt;br&gt;翌朝、１人の男がトルダム病院にやってくる。ウジンとウンジェの先輩でウジンが内部告発したイム・ヒョンジュンだった。ヒョンジュンを見つけたウンジェは何とかウジンと会わせまいとするが、ウンジェの苦労もむなしく２人はついに対面する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ユニコーン～パンギョ物語～_[＜地上波放送版＞第14話]</title>
     <id>https://tver.jp/episodes/epego6qxmm</id>
