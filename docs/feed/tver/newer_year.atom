@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-12T00:06:07+09:00</updated>
+  <updated>2026-07-12T03:00:26+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>修学旅行で仲良くないグループに入りました_[#２ 波乱！遊園地で追いつめられる]</title>
+    <id>https://tver.jp/episodes/eposrn6xi2</id>
+    <updated>2026-07-12T00:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eposrn6xi2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1es6void.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 修学旅行で仲良くないグループに入りました
+                &lt;a href="https://tver.jp/series/sr1es6void" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月12日(日)00時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月26日(日)00時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eposrn6xi2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                修学旅行一日目の夜、日置（藤本洸大）は渡会（簡秀吉）ら四天王と恋バナで盛り上がる。渡会をはじめ、守崎（桜木雅哉）、仲里（福田歩汰）、堀田（清水海李）、“四天王”全員に彼女がいないことが判明。そして渡会は、３人から「嫉妬深い」「重い」などと暴露され、「日置に変なこと吹き込むな」と拗ねた様子に。&lt;br&gt;&lt;br&gt;そして修学旅行二日目は、女子たちも一緒に遊園地を訪れる。渡会と仲良くなりたい陽菜（水戸由菜）は、やたらと日置の世話を焼く渡会に疑問を抱き、「日置くんって渡会くんのなに？」と日置を問い詰め…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>離婚弁護士_[第4話 16才と18才の離婚]</title>
     <id>https://tver.jp/episodes/ep5xv226tk</id>
