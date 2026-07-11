@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-11T23:24:42+09:00</updated>
+  <updated>2026-07-12T00:06:07+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[第1話 姉ちゃんの彼氏!?]</title>
+    <id>https://tver.jp/episodes/ep3azte7nt</id>
+    <updated>2026-07-11T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep3azte7nt" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月11日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月11日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3azte7nt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校3年生の武宮夏輝（深田竜生）は、夏休みを目前に、同級生の彼女・永井咲良（山口まゆ）から突然フラれてしまう。&lt;br&gt;失恋のショックを抱えたその日の夜、夏輝がこっそり隠していた模試の結果が家族に見つかる。&lt;br&gt;判定はまさかのE判定！&lt;br&gt;そこで姉・武宮莉緒（田辺桃子）のはからいで、ボーイフレンド・小早川蒼汰（浮所飛貴）が家庭教師をすることに!!&lt;br&gt;しぶしぶ受け入れる夏輝だったが、勉強を通して蒼汰と向き合ううちに、少しずつ2人の距離は縮まっていき……!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>告白―25年目の秘密―_[第1話 僕は運命の人になる]</title>
     <id>https://tver.jp/episodes/ep5u2nnxbp</id>
