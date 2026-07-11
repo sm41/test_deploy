@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-11T20:06:08+09:00</updated>
+  <updated>2026-07-11T23:24:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>告白―25年目の秘密―_[第1話 僕は運命の人になる]</title>
+    <id>https://tver.jp/episodes/ep5u2nnxbp</id>
+    <updated>2026-07-11T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep5u2nnxbp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 告白―25年目の秘密―
+                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月11日(土)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月11日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5u2nnxbp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                化粧品会社『野瀬化粧品』に勤務する雪村爽太(松村北斗)は、同社の社長令嬢で第二ブランド事業部の部長・野瀬麻里子(岡崎紗絵)に、25年間、一途に片想いをしてきたが、会話を交わしたこともなく、存在すら認知されていない。いつだって遠くから見ているだけ、それだけで満足していた……はずだった。&lt;br&gt;困っていた麻里子を助けるために、爽太は初めて麻里子に声をかけてしまい…。&lt;br&gt;その日から、爽太の純愛が狂気じみていく。そして、麻里子の周りで不可解な事件が起きる。&lt;br&gt;当たり前の日常が一変し、スリリングに動き始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>晩酌の流儀５_[第2話 「ミニトマトのミートソース炒め」]</title>
     <id>https://tver.jp/episodes/epvz21izmy</id>
