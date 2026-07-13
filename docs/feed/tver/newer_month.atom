@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-13T11:20:58+09:00</updated>
+  <updated>2026-07-13T12:06:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>華麗なるスパイス_[第7話 パーフェクト・マッチ]</title>
+    <id>https://tver.jp/episodes/epguxstd4y</id>
+    <updated>2026-07-13T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epguxstd4y" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 華麗なるスパイス
+                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月13日(月)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月20日(月)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月12日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epguxstd4y.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ワイナリーでのパーティー中、提供されたケーキを思わず「変な味」と口走ってしまった芬青(フェンチン)。それが主催者の逆鱗に触れ、彼女は急遽、会場の全員に料理を振る舞う窮地に立たされる！絶体絶命の瞬間、廷恩(ティンエン)が差し伸べた手。二人の即興料理は、気難しい美食家たちを唸らせる「最高の相性（マッチ）」を生み出せるのか？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>浪漫ドクター キム・サブ２_[第14話「良心の葛藤」]</title>
     <id>https://tver.jp/episodes/ep7ebx7p3v</id>
