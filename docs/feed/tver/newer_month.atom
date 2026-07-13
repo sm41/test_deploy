@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-14T00:47:24+09:00</updated>
+  <updated>2026-07-14T03:47:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[2話 不倫された妻の地獄の始まり]</title>
+    <id>https://tver.jp/episodes/epahbd2y7t</id>
+    <updated>2026-07-14T01:04:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epahbd2y7t" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sratud77ep.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ もう1度夫婦になりますか？～カモフラージュ夫婦～
+                &lt;a href="https://tver.jp/series/sratud77ep" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月14日(火)01時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月11日(火)00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月13日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epahbd2y7t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                専業主婦・愛子(森迫永依)は、笹嶋誠一(前田公輝)にプロポーズされ結婚。結婚から1年後のクリスマスの夜、愛子は幸せの絶頂から地獄の底に突き落とされたのだ……!愛子の“地獄の日々”の始まりとは!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>夫を殺したはずなのに_[第2話 私にしかできない夫の殺し方]</title>
     <id>https://tver.jp/episodes/epy3goog7z</id>
