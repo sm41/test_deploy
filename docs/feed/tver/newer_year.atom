@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-15T16:20:51+09:00</updated>
+  <updated>2026-07-15T19:59:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>恋仲_[第7話 告白]</title>
+    <id>https://tver.jp/episodes/episy27yiv</id>
+    <updated>2026-07-15T19:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/episy27yiv" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruu2owsk1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 恋仲
+                &lt;a href="https://tver.jp/series/sruu2owsk1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月15日(水)19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月22日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/episy27yiv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：6月20日(土) ～ 7月28日(火)&lt;br&gt;#2：6月27日(土) ～ 7月28日(火)&lt;br&gt;#3：7月4日(土) ～ 7月28日(火)&lt;br&gt;#4：7月6日(月) ～ 7月13日(月)&lt;br&gt;#5：7月9日(木) ～ 7月16日(木)&lt;br&gt;#6：7月12日(日) ～ 7月19日(日)&lt;br&gt;#7：7月15日(水) ～ 7月22日(水)&lt;br&gt;#8：7月18日(土) ～ 7月25日(土)&lt;br&gt;#9：7月21日(火) ～ 7月28日(火)&lt;br&gt;&lt;br&gt;三浦葵（福士蒼汰）は、教員採用試験に合格した芹沢あかり（本田翼）を祝うため、三浦家特製カレーを作って待っていた。しかし、あかりからは蒼井翔太（野村周平）に会ってから行くと連絡が入ったきり、全く連絡がないまま夜が明けてしまっていた。急いで病院から葵のマンションへ向かったあかりだったが、葵は理由を聞く気にならずあかりを帰す。モヤモヤする気持ちは、葵の仕事に現れる。富永美玲（山本美月）に頼まれた模型作りや図面描きでミスを連発し、葵の大失敗を建築事務所のみんながカバーすることになってしまう。集中力に欠けている様子を磯原新一（永井大）にとがめられ、プロジェクトから抜けろと言われてしまう。そんな葵の様子を見ていた丹羽万里子（吉田羊）には、このまま続けていても建築家にはなれないと言い放ち、転職を勧められてしまう・・・。仕事もあかりとも上手くいかず、自暴自棄になる葵。&lt;br&gt;一方、心音（大友花恋）は恋心を抱く星野悠真（萩原利久）への想いが実らないまま、病院を転院することが決まってしまう。おそらく今年の花火大会が最後になる心音と悠真に残された時間は少ない。翔太は心音の相談に乗って欲しいとあかりに頼む。&lt;br&gt;葵がマンションに戻ると、あかりが待ち伏せをしていた。誤解を解こうとわびるあかりに葵は心を許さないままだった・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『恋仲』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>35歳の高校生_[第7話]</title>
     <id>https://tver.jp/episodes/epzxh13fyw</id>
@@ -1425,72 +1458,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：6月5日(金)18:00～7月26日(日)20:59&lt;br&gt;#2：6月7日(日)18:00～7月26日(日)20:59&lt;br&gt;#3：6月9日(火)18:00～7月26日(日)20:59&lt;br&gt;#4：7月2日(木)6:00～7月8日(水)5:59&lt;br&gt;#5：7月5日(日)6:00～7月11日(土)5:59&lt;br&gt;#6：7月8日(水)6:00～7月14日(火)5:59&lt;br&gt;#7：7月11日(土)6:00～7月17日(金)5:59&lt;br&gt;#8：7月14日(火)6:00～7月20日(月)5:59&lt;br&gt;#9：7月17日(金)6:00～7月23日(木)5:59&lt;br&gt;#10：7月20日(月)6:00～7月26日(日)20:59&lt;br&gt;------------&lt;br&gt;乃木（堺雅人）たち“別班”は“テント”の会合に潜入し、ノコル（二宮和也）を捕らえる。しかし、乃木は次の瞬間、“別班”の仲間を次々と狙撃するという衝撃の行動に出た。“別班”、ひいては国を裏切ってまでも乃木が果たしたい“想い”。そして訪れる父・ベキ（役所広司）との４０年越しの再会...。“別班”を裏切った乃木、“テント”のリーダー・ベキ、幹部としてベキを支えてきたノコル、それぞれの想いが絡み合い、予測不能な物語が紡がれる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ドラゴン桜(2005)_[第10回 友情か受験か？最後の決断]</title>
-    <id>https://tver.jp/episodes/epv72dhdmi</id>
-    <updated>2026-07-14T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epv72dhdmi" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvw657ghj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ドラゴン桜(2005)
-                &lt;a href="https://tver.jp/series/srvw657ghj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月14日(火)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月21日(火)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv72dhdmi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【TBS】日曜劇場「VIVANT」７月２６日（日）よる９時スタート！ 出演：阿部寛 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：6月13日(土)0:00～7月26日(日)20:59&lt;br&gt;#4：6月17日(水)0:00～6月24日(水)23:59&lt;br&gt;#5：6月21日(日)0:00～6月28日(日)23:59&lt;br&gt;#6：6月25日(木)0:00～7月2日(木)23:59&lt;br&gt;#7：6月29日(月)0:00～7月6日(月)23:59&lt;br&gt;#8：7月4日(土)0:00～7月11日(土)23:59&lt;br&gt;#9：7月9日(木)0:00～7月16日(木)23:59&lt;br&gt;#10：7月14日(火)0:00～7月21日(火)23:59&lt;br&gt;#11：7月19日(日)0:00～7月26日(日)20:59&lt;br&gt;------------&lt;br&gt;直美（長澤まさみ）が東大受験をやめると言い出した。桜木（阿部寛）は引き止めもしない。直美の突然の決断に驚いた勇介（山下智久）が直美に理由を聞くと、母・悠子（美保純）が入院し、母の代わりに店を切り盛りし、入院費を工面するためにも受験は諦めるということだった。一方桜木は、他人の心配をしている暇はない、と勉強に励むよう促し、残る５人が１人の取りこぼしもなく東大合格を目指すようはっぱをかける。井野（長谷川京子）は、どうにか直美の手助けになりたいと思うが、いい考えが浮かばない。ついに勇介は２人に向かって「もう何も頼まない」と言い放つ。ある日、直美が店に戻ると、かっぽう着を着た井野の姿が…。そこに勇介、一郎（中尾明慶）、英喜（小池徹平）、よしの（新垣結衣）、麻紀（サエコ）もやってきて、店の手伝いや悠子の看病を交代で手伝うと言う。そんな中、英語の川口（金田明夫）や数学の柳（品川徹）が理想の２学期の過ごし方、学習内容の変更を発表するが、学校と店の手伝いで、生徒たちの集中力は徐々に切れていく。特進クラスの成績も落ち始め、英喜は店の手伝いと勉強の両立に限界を感じ、勇介にこの状態を続けると受験に失敗するのでは、と話を持ちかける。しかし、勇介は最後まで頑張ると聞かない。この様子を立ち聞きした直美は桜木を呼び出し、あることを頼むが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>医師たちの恋愛事情_[第4話 あなたを守りたい]</title>
-    <id>https://tver.jp/episodes/epl0tmwk89</id>
-    <updated>2026-07-14T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epl0tmwk89" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdvkatyiv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 医師たちの恋愛事情
-                &lt;a href="https://tver.jp/series/srdvkatyiv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月14日(火)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年07月20日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl0tmwk89.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;守田春樹（斎藤工）は、乳頭部がんの手術を受けるために転院してきた患者・柏木誠司（鶴見辰吾）が、近藤千鶴（石田ゆり子）の婚約者だったことを知る。仁志祐介（伊原剛志）から、柏木がかつて江洋医科大学附属病院に勤務していた医師であること、ある出来事がきっかけで婚約が破談になったことを聞き、千鶴のようすが気になる春樹。柏木の手術は、彼の希望で千鶴が執刀医を務めることになった。春樹は、千鶴の助手をやらせてほしいと第一外科医局長の高橋宗太郎（平山浩行）に申し出る。経営本部長の渡辺幹夫（生瀬勝久）は、古い知り合いでも特別な感情移入はしないよう、千鶴にくぎを刺した。&lt;br&gt;その夜、千鶴は、河合奈々（相武紗季）や市川友子（板谷由夏）と食事に出かける。そこで、友子が妊娠したこと、しかも父親が仁志であることを知り、驚く千鶴たち。奈々は、たくさんの人を傷つけてしまうから産まない方がいい、と言う友子に、最低だと怒りをぶつけ、店を飛び出した。千鶴は、感情に流されないでもう一度考えてみてほしい、と友子に助言するが・・・。&lt;br&gt;そんなある日、外来に来ていた患者が倒れるという騒ぎが起きる。その患者とは、春樹の母・和佳子（根岸季衣）だった。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『医師たちの恋愛事情』を全話配信中！名作ドラマを“イッキ見”できる！】
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
