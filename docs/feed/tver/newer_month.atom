@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-16T10:05:12+09:00</updated>
+  <updated>2026-07-16T12:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第17話「最後の宿題」]</title>
+    <id>https://tver.jp/episodes/ephfx4w7pg</id>
+    <updated>2026-07-16T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephfx4w7pg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月16日(木)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月16日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephfx4w7pg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ヘジンはＶＩＰ患者の手術を強行しようとするミングクにその理由を問い、「患者のため」という答えを聞いてようやく手術に同意。そして手術の助手はホジュンではなくウジンにすべきだと助言する。&lt;br&gt;一方、キム・サブは他の病院へ移るというウジンを呼び出し、主治医なら患者に最後まで責任を持てと告げる。そして自分が抱える疾患の症状を詳細に説明し、病名を突き止めることを最後の宿題として与える。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>愛される花_[第5話 不公平]</title>
     <id>https://tver.jp/episodes/epn59dkflz</id>
@@ -666,39 +699,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 上司に叱られたワカコ。会社帰りになじみの店でビールの大ジョッキをぐびぐびと一気飲み！　お通しはお肌にもいいイカ、そしておつまみには、肉とも魚とも違う何とも言えない味わいの鯨の竜田揚げ。上司へのモヤモヤがわきあがるワカコ。日本酒に切り替えて、板わさ。料理人の丁寧な仕事ぶりに心が和む。上司もまた同僚との飲みの席で、苦手だと決めつけていた塩辛を食べてみることに……。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>浪漫ドクター キム・サブ２_[第15話「正しいと信じる道」]</title>
-    <id>https://tver.jp/episodes/ep5rbrb8nn</id>
-    <updated>2026-07-14T10:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5rbrb8nn" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
-                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月14日(火)10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月11日(火)10時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月14日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5rbrb8nn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                再び急患であふれだしたトルダム病院。その中の１人、冠動脈バイパス手術をウンジェが担当することになるが、麻酔科医シム・ヘジンはウンジェの腕が信じられないと言って手術室を開けるのを拒否する。&lt;br&gt;もう１つの手術室ではウジンが腸管破裂患者の手術を執刀。見事な手さばきで手術を行うウジンをミョンシムは応援するが、手術を終えて出てきたウジンのもとにウンジェの母親が訪ねてくる。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
