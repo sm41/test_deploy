@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-16T02:05:12+09:00</updated>
+  <updated>2026-07-16T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>愛される花_[第5話 不公平]</title>
+    <id>https://tver.jp/episodes/epn59dkflz</id>
+    <updated>2026-07-16T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epn59dkflz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月16日(木)08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月16日(日)08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月15日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn59dkflz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                郁華(ユーホア)や子翼(ズーイー)と共に上海の大学生活を始めた韻錦(ユンジン)は、先輩・居安(ジューアン)と出会う。新たな人間関係が広がる一方、彼女は図書館でアルバイトを始め懸命に日々を送る。北京の大学に進んだ程錚(チョン・ジョン)は、離れた韻錦のことが気にかかり落ち着かず―。二人の距離はさらに広がっていくのか。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ヤンキー激戦区の四天王がアイドルグループに転生したら？_[第6話 ヤンキーアイドル、伝説のライブハウスへ？！]</title>
     <id>https://tver.jp/episodes/ept0jjk5l6</id>
