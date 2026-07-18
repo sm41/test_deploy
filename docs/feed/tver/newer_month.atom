@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-18T20:05:10+09:00</updated>
+  <updated>2026-07-18T22:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>告白―25年目の秘密―_[第2話 幸せを脅かす危険因子は許さない]</title>
+    <id>https://tver.jp/episodes/epu55264cd</id>
+    <updated>2026-07-18T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epu55264cd" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 告白―25年目の秘密―
+                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月18日(土)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月18日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu55264cd.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                化粧品会社『野瀬化粧品』の雪村爽太(松村北斗)は、25年間、片想いをしてきた初恋の人・野瀬麻里子(岡崎紗絵)を守るため、麻里子をねたむ役員・立岩剛志(丸山智己)の経費不正流用の証拠を集める。爽太はその弱みを使い、立岩に直談判するが叶わず。直後、立岩の刺殺体が発見された。麻里子のお見合い相手の刑事・佐倉泰輔(玉山鉄二)も動き出す。そんな中、爽太は、25年前の麻里子の誘拐未遂事件に隠された衝撃の事実を知ってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>晩酌の流儀５_[第3話 「メバチマグロのサルサカルパッチョ」]</title>
     <id>https://tver.jp/episodes/ep1rr7htyf</id>
