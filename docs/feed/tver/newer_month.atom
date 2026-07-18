@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-19T01:21:21+09:00</updated>
+  <updated>2026-07-19T02:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ただ愛する仲_[第3話]</title>
+    <id>https://tver.jp/episodes/epbktf1qny</id>
+    <updated>2026-07-19T01:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epbktf1qny" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhdydd9pn.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ただ愛する仲
+                &lt;a href="https://tver.jp/series/srhdydd9pn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)01時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年01月01日(金)00時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月18日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbktf1qny.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ムンスの働く建築事務所の代表ジュウォンの気遣いで、この案件から外れてもいいと言われたムンスだったが、最善を尽くすと意気込む。そんな中、ジュウォンはガンドゥに、慰霊碑を壊したことをもみ消す代わりに現場での状況を報告するよう持ち掛ける。ガンドゥはその要求を飲み…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ナツノマンザイ_[＃3]</title>
     <id>https://tver.jp/episodes/ep37r3bbku</id>
