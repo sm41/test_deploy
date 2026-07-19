@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-19T02:05:11+09:00</updated>
+  <updated>2026-07-19T10:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>こんなところで裏切り飯～嵐を呼ぶ七人の役員～_[第３話「花巻で餃子」]</title>
+    <id>https://tver.jp/episodes/epwkrrh1kk</id>
+    <updated>2026-07-19T02:35:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwkrrh1kk" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srri2800z7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ こんなところで裏切り飯～嵐を呼ぶ七人の役員～
+                &lt;a href="https://tver.jp/series/srri2800z7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)02時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月18日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwkrrh1kk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                Huluでは全話配信中！&lt;br&gt;&lt;第３話&gt;&lt;br&gt;“氷の女王”こと経理担当役員・小須田玲子（小沢真珠）は社内の無駄な備品を根こそぎ奪い、秘書課・出張係の小野寺真理子（志田彩良）を「我が社でもっとも無駄」と一蹴する。怒り心頭の真理子は、渾身の「裏切り飯」で反撃！岩手県花巻への出張に同行すると、名物の冷麺でもジャジャ麺でもなく、町中華の「餃子」を紹介し…。&lt;br&gt;&lt;br&gt;◆中京テレビにて、毎週土曜25時59分より再放送中&lt;br&gt;※都合により時間変更の場合があります
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>＆Hulu_[100日間で運命の相手を探す韓国の恋愛リアリティー「結婚に本気」3週目]</title>
+    <id>https://tver.jp/episodes/epla3rx9im</id>
+    <updated>2026-07-19T02:35:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epla3rx9im" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)02時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月01日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月18日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epla3rx9im.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                3週に渡って放送！100日間で運命の相手を探す韓国の恋愛リアリティー番組「結婚に本気」パート3！3週目となる今回は新たな参加者が登場し、ますます目が離せない展開に。&lt;br&gt;(C) JTBC co., Ltd all rights reserved
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ただ愛する仲_[第3話]</title>
     <id>https://tver.jp/episodes/epbktf1qny</id>
