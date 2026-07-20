@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-20T02:05:10+09:00</updated>
+  <updated>2026-07-20T12:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>華麗なるスパイス_[第8話 ちょっぴり危険な朝帰り]</title>
+    <id>https://tver.jp/episodes/epph7h1l53</id>
+    <updated>2026-07-20T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epph7h1l53" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 華麗なるスパイス
+                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月20日(月)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月27日(月)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月19日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epph7h1l53.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                目が覚めると、そこは同じベッドの中――。隣で眠る廷恩(ティンエン)の姿に、芬青(フェンチン)はパニック！昨夜のパーティーで泥酔した二人は、断片的な記憶を手繰り寄せながら、失態の数々を思い出し呆然とする。そこへ最悪のタイミングで突然の訪問者が現れ、廷恩は絶体絶命の窮地に！一体、昨夜二人の間に何が起きたのか？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第19話「人生の選択」]</title>
+    <id>https://tver.jp/episodes/epoagczb37</id>
+    <updated>2026-07-20T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epoagczb37" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月20日(月)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月17日(月)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月20日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoagczb37.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                手術同意書をミングクに突きつけたキム・サブは、医者としてのプライドを捨ててまで何を得ようとしているのかと詰め寄るが、それに対するミングクの答えはあまりに意外なものだった。結局、調査団は何も得ることなく帰っていき、ユンワンは悔しさを爆発させる。そんな中、意識不明が続いていたヨ・ウニョン前院長が目を覚ます。キム・サブが蘇生処置を行ったことを謝ると、ヨ前院長は優しくキム・サブの手に触れる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一次元の挿し木_[第３話【古人骨と義妹を巡る謎】]</title>
     <id>https://tver.jp/episodes/epbx2hagsy</id>
@@ -237,138 +303,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 相変わらず客の増えない翔太（神山智洋）と輝元（中村海人）の屋台。テナント料すら支払えない状況となり焦る２人に対し、桂華（浅野ゆう子）が警備員のアルバイトを紹介する。「今はそんなことをしている場合じゃない」と否定的な翔太を無視して勝手に仕事を受けてしまう輝元。指定された場所に行くと、いつも笑顔で業務にあたっている警備員・鏑矢（勝村政信）が出迎える。超がつくほどまじめな性格で仕事を完璧にこなす鏑矢のもとで、警備員としてのノウハウを学んでいく輝元。しかしある出来事がきっかけで、鏑矢の様子がおかしくなったことに気づき…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>DREAM STAGE_[第２話 初ライブへ！泥臭くてドンくさい挑戦]</title>
-    <id>https://tver.jp/episodes/eprogfr6gd</id>
-    <updated>2026-07-19T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eprogfr6gd" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月27日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprogfr6gd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』８月２１日（金）全国公開！！ 出演：岩瀬洋志 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：7月19日(日)0:00～9月27日(日)23:59&lt;br&gt;#3：7月23日(木)0:00～7月30日(木)23:59&lt;br&gt;#4：7月27日(月)0:00～8月3日(月)23:59&lt;br&gt;#5：7月31日(金)0:00～8月7日(金)23:59&lt;br&gt;#6：8月4日(火)0:00～8月11日(火)23:59&lt;br&gt;#7：8月8日(土)0:00～8月15日(土)23:59&lt;br&gt;#8：8月12日(水)0:00～8月19日(水)23:59&lt;br&gt;#9：8月16日(日)0:00～8月23日(日)23:59&lt;br&gt;------------&lt;br&gt;国立での初パフォーマンスを経て、一致団結した落ちこぼれボーイズグループ・NAZE。しかしライバル・TORINNERが所属する超大手事務所の圧力により、NAZEへの取材はゼロ…。マネージャーの遠藤水星（池田エライザ）は途方に暮れる。そこで、ナム（ハ・ヨンス）は新たなチャンスを求めて活動拠点を日本に移すことを決意。メンバーは吾妻（中村倫也）の家で共同生活をスタートする。しかし、吾妻の几帳面すぎる生活ルールと、相変わらず基礎ばかりのレッスンに、うんざりするメンバーたち…。&lt;br&gt;見かねて「私にできることないでしょうか？NAZEの役に立ちたいんです！」と決意をぶつける水星に、吾妻は知名度ゼロのド新人・NAZEが出られる【ライブイベント】を探せと指示。自信がなくコンプレックスの塊だった自分を変えるため、必死で飛び込み営業に挑む水星だったが、連戦連敗…。ポケットに退職届を隠しつつ、何とか前を向く水星。&lt;br&gt;そんな水星の背中に「がんばんなさい」と小さく声をかけた吾妻は、何やら策略を巡らせて…。果たして彼の奇想天外なアイデアは、水星とNAZEを救えるのか——！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>DREAM STAGE_[第１話 夢は、まだ終わっていない]</title>
-    <id>https://tver.jp/episodes/eppygbhjv1</id>
-    <updated>2026-07-19T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eppygbhjv1" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月27日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月16日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppygbhjv1.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』８月２１日（金）全国公開！！ 出演：岩瀬洋志 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：7月19日(日)0:00～9月27日(日)23:59&lt;br&gt;#3：7月23日(木)0:00～7月30日(木)23:59&lt;br&gt;#4：7月27日(月)0:00～8月3日(月)23:59&lt;br&gt;#5：7月31日(金)0:00～8月7日(金)23:59&lt;br&gt;#6：8月4日(火)0:00～8月11日(火)23:59&lt;br&gt;#7：8月8日(土)0:00～8月15日(土)23:59&lt;br&gt;#8：8月12日(水)0:00～8月19日(水)23:59&lt;br&gt;#9：8月16日(日)0:00～8月23日(日)23:59&lt;br&gt;------------&lt;br&gt;数多のグループがひしめき、しのぎを削るK-POPの世界。中でもひと際注目を集めるのが、圧倒的センター・リョウ（岩瀬洋志）がいる新人ボーイズグループ・TORINNER（トリナー）だ。韓国で鮮烈なデビューを果たした彼らは早くも海外ツアーを成功させ、「ライジングスター」との呼び声が高い。そのリョウの所属事務所・Bouquet Musicの代表であるチェ・ギヨン（イ・イギョン）は数々のスターを擁し、K-POP界の頂点に君臨する男だ。&lt;br&gt;一方、かつてある問題を起こしてK-POP業界を追放された“元”音楽プロデューサー・吾妻潤（中村倫也）は元恋人で、弱小芸能事務所を経営しているナム・ハユン（ハ・ヨンス）と韓国で再会。ナムはド貧乏の経営状態から抜け出すため、一世一代の賭けに出ていた。５０億ウォン（約５億円）もの借金をして、新たなボーイズグループを結成する計画を進めていたのだが、アジア各国のオーディションで選抜したメンバーを、相棒のプロデューサーのパク・ジス（キム・ジェギョン）がごっそり持ち逃げしてしまった。そのグループこそがTORINNERだった。&lt;br&gt;借金を抱えたナムは、選抜から漏れた『残り物メンバー』をデビューさせて起死回生を図る。吾妻を呼び寄せたのは、彼らのプロデュースをさせるためだったのだ。日本人のカイセイ、ユウヤ、韓国人のユンギ、アト、キムゴン、ドヒョク、そしてタイ人のターンという７人組・NAZE（ネイズ）。しかし彼らのダンスレッスンする姿を見るや、吾妻は「レベルが低いにも程がある」とバッサリ。&lt;br&gt;突き放す吾妻に、猛反発するメンバーたち。しかし彼の顔には、何か辛い記憶を突きつけられているように、苦しさがにじんで…。&lt;br&gt;一方、吾妻の厳しい評価に憤るメンバーたちだったが、キムゴンは、ひとり必死のトレーニングを始める。「俺は一日も早くデビューしたい。俺バカだから、夢みたいにバカでかい夢を見たいです！」&lt;br&gt;それは、まっすぐな、なぜか哀しみがにじむほど切実な叫びだった。&lt;br&gt;その言葉に、突き動かされるように動き出すメンバーたち。&lt;br&gt;すると、夢を語ることを頑なに拒んでいた吾妻の目が、ふと揺らいだようで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夏色の雲が恋と嵐をまきおこす_[第2話 課外授業でドキッ!?]</title>
-    <id>https://tver.jp/episodes/ep4y7j7ory</id>
-    <updated>2026-07-18T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep4y7j7ory" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
-                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月18日(土)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4y7j7ory.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                高校3年生の武宮夏輝（深田竜生）は、姉・莉緒（田辺桃子）のボーイフレンドで、自分の家庭教師でもある小早川蒼汰（浮所飛貴）に頭を撫でられた日のことが、頭から離れない。&lt;br&gt;なぜだかドキッとしてしまった自分に戸惑いを隠せずにいた…。&lt;br&gt;モヤモヤする気持ちを抱えたまま迎えた家庭教師の日。&lt;br&gt;いつも通りさわやかに接してくる蒼汰を前に、平静を装う夏輝。&lt;br&gt;ぎこちない2人の様子に気づいた莉緒は、距離を縮めるためにも「なっちゃん」「蒼ちゃん」と呼び合うことを提案するが、かえって気まずい空気に…。&lt;br&gt;そんな中蒼汰は、数学に苦戦する夏輝を“課外授業”だといって外に呼び出して――!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>告白―25年目の秘密―_[第2話 幸せを脅かす危険因子は許さない]</title>
-    <id>https://tver.jp/episodes/epu55264cd</id>
-    <updated>2026-07-18T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epu55264cd" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 告白―25年目の秘密―
-                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月18日(土)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月18日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu55264cd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                化粧品会社『野瀬化粧品』の雪村爽太(松村北斗)は、25年間、片想いをしてきた初恋の人・野瀬麻里子(岡崎紗絵)を守るため、麻里子をねたむ役員・立岩剛志(丸山智己)の経費不正流用の証拠を集める。爽太はその弱みを使い、立岩に直談判するが叶わず。直後、立岩の刺殺体が発見された。麻里子のお見合い相手の刑事・佐倉泰輔(玉山鉄二)も動き出す。そんな中、爽太は、25年前の麻里子の誘拐未遂事件に隠された衝撃の事実を知ってしまう。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
