@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-21T00:05:12+09:00</updated>
+  <updated>2026-07-21T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>VIVANT_[堺雅人の挑戦に完全密着]</title>
+    <id>https://tver.jp/episodes/epllaqj9b9</id>
+    <updated>2026-07-21T02:05:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epllaqj9b9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ VIVANT
+                &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月21日(火)02時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月20日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epllaqj9b9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                主演・堺雅人！日本中を熱狂させた『VIVANT』が日曜劇場に帰ってくる！前作のラストから始まる今作は、一体どんな物語が待ち受けているのか！？ドラマを深掘り！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[3話 次々と明るみに出る不倫の事実]</title>
+    <id>https://tver.jp/episodes/epj43zpf4w</id>
+    <updated>2026-07-21T01:04:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epj43zpf4w" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sratud77ep.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ もう1度夫婦になりますか？～カモフラージュ夫婦～
+                &lt;a href="https://tver.jp/series/sratud77ep" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月21日(火)01時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月18日(火)00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月20日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj43zpf4w.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                「幸せの絶頂から1年後地獄へと突き落とされた」&lt;br&gt;笹嶋愛子(森迫永依)は夫・笹嶋誠一(前田公輝)の不倫に気付き、生活が一変。愛子の苦しみをよそに酔った誠一を愛人が送り届けにやって来て。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>夫を殺したはずなのに_[第3話 妻vs愛人！衝撃の修羅場]</title>
     <id>https://tver.jp/episodes/epzruk6ehf</id>
@@ -270,72 +336,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 手術同意書をミングクに突きつけたキム・サブは、医者としてのプライドを捨ててまで何を得ようとしているのかと詰め寄るが、それに対するミングクの答えはあまりに意外なものだった。結局、調査団は何も得ることなく帰っていき、ユンワンは悔しさを爆発させる。そんな中、意識不明が続いていたヨ・ウニョン前院長が目を覚ます。キム・サブが蘇生処置を行ったことを謝ると、ヨ前院長は優しくキム・サブの手に触れる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>一次元の挿し木_[第３話【古人骨と義妹を巡る謎】]</title>
-    <id>https://tver.jp/episodes/epbx2hagsy</id>
-    <updated>2026-07-19T23:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbx2hagsy" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4zzew7hk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 一次元の挿し木
-                &lt;a href="https://tver.jp/series/sr4zzew7hk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月13日(日)22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbx2hagsy.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                時を超えた謎に挑むヒューマンミステリー&lt;br&gt;インドで発掘された２００年前の人骨が失踪した義妹のDNAと完全に一致…&lt;br&gt;関係者の不審な死、盗まれた人骨、消えた過去の記憶…真実の果てに待つ想像を絶する結末とは―&lt;br&gt;&lt;br&gt;義理の父・七瀬京一（佐々木蔵之介）によって、強制入院させられそうになった七瀬悠（山田涼介）。&lt;br&gt;その後、悠から一連の経緯を聞いた石見崎唯（白石聖）は、&lt;br&gt;京一が古人骨の一件に何か関わっているのではないか、と疑い始める。&lt;br&gt;&lt;br&gt;その頃、週刊誌の編集長・平間（小手伸也）は、フリー記者の小野寺（猪塚健太）の自宅を訪れていた。&lt;br&gt;日江製薬周辺の取材を行っていた小野寺だったが、自宅は何者かに部屋は荒らされていて、資料もなくなっていた。&lt;br&gt;そんな中、平間の元に「小野寺」から着信が入る。&lt;br&gt;一方、悠と唯は、仙波佳代子（鈴木保奈美）が事件の真相について何かを知っていると確信。&lt;br&gt;二人は、悠の妹・紫陽（堀田真由）と200年前の人骨のＤＮＡが一致した謎へと迫っていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>マイ・フィクション_[#3 亡き夫と瓜二つの男]</title>
-    <id>https://tver.jp/episodes/epootlkwww</id>
-    <updated>2026-07-19T23:09:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epootlkwww" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9at5vz94.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ マイ・フィクション
-                &lt;a href="https://tver.jp/series/sr9at5vz94" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月19日(日)23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月30日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月19日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epootlkwww.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                毎週日曜よる10時15分&lt;br&gt;♡お気に入り登録で見逃さない！&lt;br&gt;&lt;br&gt;同僚からも愛する妻・真弓（宮澤エマ）からも忘れ去られ、他人になりすまされた伊川正樹（玉森裕太）。しかし、勤務先の「はるなぎ園」でもらった小銭入れから、真弓との写真が出てきたことで、自分の記憶が間違っていなかったことが判り、安堵の涙を流す。再び真弓に会いに行った伊川は、写真を手に、ふたりの幸せな思い出を語る…。&lt;br&gt;その翌日、森沼ネクスタウンでは、事件件数ゼロ・連続１１１１日を達成。伊川は真弓との夫婦生活を取り戻し、以前と同様に『はるなぎ園』に“伊川正樹”として、勤務していた。ご近所さんとも親しく言葉を交わすが、その内容は事故に遭う前と一言一句違わず、帰宅した家には愛鳥・ピョートルの姿もあった。まるで巻き戻されたかのような生活を、なんの疑問も抱かず送る伊川。&lt;br&gt;しかし、伊川を心配した二宮由梨（森川葵）が、森沼ネクスタウンを訪ねると、伊川は由梨の存在そのものを、完全に忘れ去っていた。昨日まで一緒に過ごした記憶すらなくなっている伊川に、驚きを隠せない由梨。その異変を、大学で脳科学を研究している伯父の治（佐戸井けん太）に相談するも、真相はわからない。&lt;br&gt;そんな由梨の前に、あくる朝、津村大輔（野村周平）が現れる。近所に引っ越してきたと言う津村は、学校へ向かう由梨の息子・賢人（日影琉叶）にも声をかけ…。&lt;br&gt;一方で、ピョートルが死ぬ悪夢や、知らない記憶にうなされるようになっていた伊川は、ある日、自宅の中の“ある異変”に気が付いてしまい…！？ 
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
