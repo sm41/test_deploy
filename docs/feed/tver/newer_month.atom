@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-21T10:05:11+09:00</updated>
+  <updated>2026-07-21T12:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>浪漫ドクター キム・サブ２_[第20話「夢に向けて」]</title>
+    <id>https://tver.jp/episodes/ep9dhhxi9l</id>
+    <updated>2026-07-21T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep9dhhxi9l" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcamqipds.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 浪漫ドクター キム・サブ２
+                &lt;a href="https://tver.jp/series/srcamqipds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月21日(火)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月18日(火)10時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月21日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9dhhxi9l.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ついにヨ前院長との別れの日がやってくる。笑顔で最後の時を過ごすトルダム病院の仲間たち。ヨ前院長は外傷センター設立の夢をかなえてほしいと言い残して旅立つ。厳粛な空気に包まれる中、ウジンはついにキム・サブに宿題の答えを提出。こうしてキム・サブは手術を受けることを決意し、ウジンは「剛直な人プロジェクト」が持つ壮大な計画を知る。一方、手術で執刀できなくなる３週間、キム・サブはある人に代わりを依頼する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>VIVANT_[堺雅人の挑戦に完全密着]</title>
     <id>https://tver.jp/episodes/epllaqj9b9</id>
