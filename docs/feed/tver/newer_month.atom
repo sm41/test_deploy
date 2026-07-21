@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-21T22:05:12+09:00</updated>
+  <updated>2026-07-22T00:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>君の好きは無敵_[第２話 ヘンテコタッグの初仕事は「かわいい」で敵討ち!?]</title>
+    <id>https://tver.jp/episodes/epa8sigzma</id>
+    <updated>2026-07-21T22:57:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epa8sigzma" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr78n2tsiv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 君の好きは無敵
+                &lt;a href="https://tver.jp/series/sr78n2tsiv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月21日(火)22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月21日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa8sigzma.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;瀬尾深月（佐野勇斗）のキャラクターを描くことへの強い「好き」を目の当たりにし、つい勢いで共に大ヒットキャラクター作りに挑むことになった草壁杏奈（松本若菜）。杏奈はコンサル経験を生かし、まずは「デザイン瀬尾」の経営をテコ入れ！早速目下の生活費を稼ぐための仕事をとってくる。同時に、瀬尾の「目指すもの」を明確にし、新たなキャラクターを作り出していこうと計画していた。しかし、瀬尾は何かにつけて反抗的で嫌味を連発！顔を合わせれば喧嘩ばかりで、２人のタッグは早くも前途多難の様相…！&lt;br&gt;&lt;br&gt;さらに瀬尾は、過去に大事に作り上げたキャラクター・まんぷくもる子を無断で描き変えたMERRY社長・大三島（本郷奏多）への憎しみが再燃！かわいいキャラクターを生み出すはずが、なんと「かわいい」で敵討ちをしようと大暴走し始めて…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>クロスロード ～救命救急の約束～_[＃3　患者失踪で感染爆発パニック！]</title>
     <id>https://tver.jp/episodes/epwe5rm7z6</id>
