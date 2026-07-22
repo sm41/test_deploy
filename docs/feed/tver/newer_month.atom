@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-22T02:05:11+09:00</updated>
+  <updated>2026-07-22T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スピナーベイト_[第4話 前兆]</title>
+    <id>https://tver.jp/episodes/ep9l2xgloi</id>
+    <updated>2026-07-22T02:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep9l2xgloi" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月22日(水)02時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年07月29日(水)02時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月21日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9l2xgloi.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                突然三井に500万を渡した吉見は、この金で三井をスピナーベイトのトップにして、元締めである亀貝達也を誘き出す作戦を伝える。同じ頃、新入部員の清野隆弘の背後に、怪しい影が忍び寄り…。翌日、高橋から受け取ったリストを寺山へ提出し、またも順位を上げる内。そんな中、単独最下位の三井が502ポイントを獲得し、スピナーベイトに激震が走る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>幸せになりたいマサムネ君_[#3「名前のない関係。」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/epcy6fwach</id>
