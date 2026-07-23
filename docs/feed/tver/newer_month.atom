@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-23T02:05:11+09:00</updated>
+  <updated>2026-07-23T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>愛される花_[第6話 選択]</title>
+    <id>https://tver.jp/episodes/epaxw7e9c3</id>
+    <updated>2026-07-23T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epaxw7e9c3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月23日(木)08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月23日(日)08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月22日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaxw7e9c3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                子翼（ズーイー）への想いを一途に抱き続ける郁華（ユーホア）。一方、程錚（チョン・ジョン）に嫌気が差した韻錦（ユンジン）は、居安（ジューアン）に少しずつ心を開き始める。その変化を知った程錚は動揺を隠せず…。さらに居安も人生の選択を迫られる中、それぞれの想いはどこへ向かうのか―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ヤンキー激戦区の四天王がアイドルグループに転生したら？_[第7話 ヤンキーアイドル帰還、大暴走!?]</title>
     <id>https://tver.jp/episodes/epuiwt3kbv</id>
