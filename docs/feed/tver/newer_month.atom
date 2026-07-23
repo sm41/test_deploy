@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-23T20:05:10+09:00</updated>
+  <updated>2026-07-23T22:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[第1話 悪者の国境突破を防げ！]</title>
+    <id>https://tver.jp/episodes/epsm7tcsyq</id>
+    <updated>2026-07-23T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epsm7tcsyq" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月23日(木)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月23日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsm7tcsyq.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                空港の寄せ集め集団《GATE24》が“最強の門番”へと覚醒&lt;br&gt;――悪者に国境を突破させるな――&lt;br&gt;趣里主演《痛快空港エンターテインメントドラマ》がついに開幕！&lt;br&gt;&lt;br&gt;税関職員・森万智（趣里）たち各部署から集められたメンバーによるスペシャルユニット《GATE24》がついに始動。&lt;br&gt;そんな中、入国審査官・早見圭一郎（眞栄田郷敦）が審査した外国人夫婦が別の国で入国を拒否されていたことが判明。&lt;br&gt;彼らの入国を認めるべきか、万智、早見、そして税関職員・松山篤志（板垣李光人）は協力して慎重に調べ始める。&lt;br&gt;しかし、国際犯罪対策課の刑事・井内崇也（吹越満）たちも&lt;br&gt;ひそかにこの夫婦を追っていて、何らかの思惑から夫婦を入国させるようGATE24に要求してくる。&lt;br&gt;だが、日本の安全を脅かす可能性がある以上、簡単に入国を認めるわけにはいかない。&lt;br&gt;GATE24の中でも、判断をめぐって意見が対立する。&lt;br&gt;そんな中、万智は夫婦のスーツケースの中にあった2体の人形が&lt;br&gt;「緊急事態」を意味していることを突き止め…！&lt;br&gt;&lt;br&gt;やがて万智たちGATE24は、“人”と“モノ”から&lt;br&gt;夫婦に隠された衝撃の真実へとたどり着く――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season7_[第12話（最終回） 東京都中央区八丁堀のニラ玉ライスとエビチリ]</title>
     <id>https://tver.jp/episodes/epavox2gfp</id>
