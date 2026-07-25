@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-25T20:05:12+09:00</updated>
+  <updated>2026-07-25T22:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>告白―25年目の秘密―_[第3話 僕は何でも知っている]</title>
+    <id>https://tver.jp/episodes/epwmogrm0n</id>
+    <updated>2026-07-25T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwmogrm0n" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 告白―25年目の秘密―
+                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月25日(土)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月25日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwmogrm0n.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                初恋の人に25年間、片想いを続ける『野瀬化粧品』社員の雪村爽太(松村北斗)に殺人容疑がかかる。&lt;br&gt;想いを寄せる上司・野瀬麻里子(岡崎紗絵)の幸せのためなら危険もいとわない爽太は、麻里子と対立していた役員・立岩剛志(丸山智己)の殺害を疑われ、犯行を否定するが…。&lt;br&gt;そんな中、誕生日を迎えて不機嫌な麻里子。爽太は麻里子が誕生日を嫌う理由を探るため、野瀬家で開かれる誕生日会への潜入を試みるが…。爽太を待ち受ける、野瀬家の闇とは――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>晩酌の流儀５_[第4話 「せせり青椒肉絲」]</title>
     <id>https://tver.jp/episodes/epm4aqi6rp</id>
