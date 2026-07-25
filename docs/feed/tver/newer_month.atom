@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-25T22:05:10+09:00</updated>
+  <updated>2026-07-26T00:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[第3話 キラキラは恋のせい？]</title>
+    <id>https://tver.jp/episodes/epifyei0ko</id>
+    <updated>2026-07-25T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epifyei0ko" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月25日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月25日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epifyei0ko.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                夏輝（深田竜生）は、姉・莉緒（田辺桃子）のボーイフレンドであり、自分の家庭教師でもある小早川蒼汰（浮所飛貴）のことがなぜかキラキラ輝いて見えるようになり、頭の中が大混乱！&lt;br&gt;何をしていても蒼汰のことが気になってしまい、この気持ちが何なのか思い切ってネットで調べてみると、予想外の検索ワード候補に動揺を隠せず…&lt;br&gt;モヤモヤを抱えたまま帰宅していると、家庭教師のために家へ向かっていた蒼汰とばったり遭遇！&lt;br&gt;2人で一緒に家に着くが、いつも出迎えてくれるはずの愛犬・ロック（有楽）の姿がなくて……!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>告白―25年目の秘密―_[第3話 僕は何でも知っている]</title>
     <id>https://tver.jp/episodes/epwmogrm0n</id>
