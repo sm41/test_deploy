@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-28T22:05:19+09:00</updated>
+  <updated>2026-07-29T00:05:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>早坂架威のごっこ倶楽部TV_[「鼓星」]</title>
+    <id>https://tver.jp/episodes/eps0cfs97l</id>
+    <updated>2026-07-28T23:05:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eps0cfs97l" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcb3t38u.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 早坂架威のごっこ倶楽部TV
+                &lt;a href="https://tver.jp/series/srfcb3t38u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月28日(火)23時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月28日(金)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月28日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 福島中央テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps0cfs97l.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ３人兄弟の長男と三男は&lt;br&gt;常に犬猿の仲。&lt;br&gt;いつも間を取り持つ次男が&lt;br&gt;三男の誕生日祝いを計画するが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>君の好きは無敵_[第３話 「かわいい」は、ひとりでは作れないから]</title>
+    <id>https://tver.jp/episodes/epg99a3u9t</id>
+    <updated>2026-07-28T22:57:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epg99a3u9t" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr78n2tsiv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 君の好きは無敵
+                &lt;a href="https://tver.jp/series/sr78n2tsiv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月28日(火)22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月28日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg99a3u9t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;「ただ支える」というコンセプトが決まり、一気に新キャラクター誕生へ！と意気込む草壁杏奈（松本若菜）。杏奈は、まだ見ぬ新キャラクターのため、早速デビュー方法を検討し始める。ところが、肝心の瀬尾（佐野勇斗）は、デザインを始める様子もなくのらりくらり。その上しょうもないトラブルを起こした瀬尾に、杏奈の怒りはついに沸点に到達し…！？&lt;br&gt;&lt;br&gt;一方、冷徹な大三島社長（本郷奏多）率いるMERRYは、社内の空気や方針が以前とは変わり始めていた。プランナーとして長年MERRYのキャラクターグッズ制作を担当してきた廣瀬（藤井隆）は葛藤を抱えるようになり……？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>さよならノワール_[第4話 夢を絶たれたサッカー選手を支援せよ]</title>
     <id>https://tver.jp/episodes/ep8hreh63m</id>
