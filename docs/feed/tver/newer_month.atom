@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-29T18:05:19+09:00</updated>
+  <updated>2026-07-29T20:05:18+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season8_[第3話 銀座のBarのロールキャベツ定食]</title>
+    <id>https://tver.jp/episodes/epa6vttsn9</id>
+    <updated>2026-07-29T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epa6vttsn9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月29日(水)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月12日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa6vttsn9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                井之頭五郎（松重豊）は、銀座のバーで商談相手の劇団ノーモラル主宰・武者小路朱雀（岸谷五朗）と会っていた。怪しげな様相に奇抜表現と面倒なやりとりが続くはめに……。変な気を遣って空腹になった五郎は、銀座の路地で昼食堂の看板を発見する。覚悟を決め店に入りお目当てのポークソテーを注文しようとするが、店のお母さん（室井滋）から、ロールキャベツ定食しかないと衝撃的な一言が告げられ一択の窮地にショックを受けるが……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スピナーベイト_[第5話 デタラメ]</title>
     <id>https://tver.jp/episodes/epak80dumg</id>
