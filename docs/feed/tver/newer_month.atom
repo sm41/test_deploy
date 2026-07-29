@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-29T20:05:18+09:00</updated>
+  <updated>2026-07-29T22:05:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Episode2 一粒の証拠]</title>
+    <id>https://tver.jp/episodes/ep1p1ida5p</id>
+    <updated>2026-07-29T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1p1ida5p" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
+                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月29日(水)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1p1ida5p.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                大森南朋×相葉雅紀×松下奈緒、豪華トリプル主演！&lt;br&gt;ヒットメーカー・福田靖のオリジナル脚本で描く、最先端デジタル捜査×アナログ刑事魂の【究極のハイブリッド捜査】！&lt;br&gt;&lt;br&gt;―第2話　拡大スペシャル―&lt;br&gt;多摩川の河川敷で女性の遺体が発見される。ＳＳＢＣ強行犯係が復元したスマホのデータから、被害者は結婚詐欺に遭っていた栗原千香（大河内奈々子）と判明。さらに容疑者として浮上したのは、“伝説の結婚詐欺師”と呼ばれる男・田中太郎（村上弘明）！しかし、田中には鉄壁のアリバイが－。交錯する嘘と二転三転する容疑者たち。伊垣（大森南朋）らが事件の陰に潜む違和感を追い、1枚の写真の奥から手繰り寄せる衝撃の真相とは!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season8_[第3話 銀座のBarのロールキャベツ定食]</title>
     <id>https://tver.jp/episodes/epa6vttsn9</id>
