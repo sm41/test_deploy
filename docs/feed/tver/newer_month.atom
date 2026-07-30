@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-30T18:05:18+09:00</updated>
+  <updated>2026-07-30T20:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season8_[第4話 肉汁うどんとカステラパンケーキ]</title>
+    <id>https://tver.jp/episodes/epm2zacw5z</id>
+    <updated>2026-07-30T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epm2zacw5z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月30日(木)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm2zacw5z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仕事を終えた井之頭五郎（松重豊）は新座市の住宅街に取り残され途方に暮れていた。なんとか古民家風の店構えのうどん屋を発見し中に入ると力強くうどんを踏むお母さん（池谷のぶえ）と目が合い気まずい雰囲気に……。うどんを堪能した五郎は、次の商談相手・石井（安東弘樹）が待つひばりが丘団地へ。商談を終え帰ろうとした時、ドアの向こうから甘い匂いが漂ってきて一気に小腹が減った五郎は匂いのもとを探すべく店内に突き進んでいく……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>愛される花_[第7話 接戦]</title>
     <id>https://tver.jp/episodes/epoa9hj2pj</id>
