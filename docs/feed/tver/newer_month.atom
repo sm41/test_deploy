@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-07-30T02:05:12+09:00</updated>
+  <updated>2026-07-30T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>愛される花_[第7話 接戦]</title>
+    <id>https://tver.jp/episodes/epoa9hj2pj</id>
+    <updated>2026-07-30T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epoa9hj2pj" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年07月30日(木)08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月30日(日)08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月29日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoa9hj2pj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                韻錦（ユンジン）と居安（ジューアン）の距離に割って入ろうとする程錚（チョン・ジョン）。変わらぬ身勝手さに、韻錦の心はさらに離れていく。嫉妬に駆られた程錚は、居安にサッカーでの勝負を挑む。緊張感高まる中、韻錦は居安の職場の女社長・章粤（ジャン・ユエ）と出会い、新たな波紋が広がり始める―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-_[ドラマ放送記念SP「伊藤潤二のストレンジな仕事場」]</title>
     <id>https://tver.jp/episodes/epz9smjpp5</id>
@@ -666,39 +699,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 「一歩ずつ前に進む。幸せを取り戻すために」――。&lt;br&gt;笹嶋愛子(森迫永依)は笹嶋誠一(前田公輝)の浮気に苦しむが、親友・重本佐和子(島崎遥香)の助言で、弁護士・結城楓(濱田マリ)を訪ねる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夫を殺したはずなのに_[第4話 償うべき罪]</title>
-    <id>https://tver.jp/episodes/epoqb039z7</id>
-    <updated>2026-07-27T23:55:01+09:00</updated>
-    <link href="https://tver.jp/episodes/epoqb039z7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcw1hv9s0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夫を殺したはずなのに
-                &lt;a href="https://tver.jp/series/srcw1hv9s0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月27日(月)23時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月03日(月)23時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月27日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoqb039z7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                莉乃（内田理央）と慶太（渡邊圭祐）の最悪な結婚記念日から遡ること3ヶ月前、慶太は順風満帆な生活に満たされていた。しかしある夜、冷蔵庫の奥から見覚えのない“ある薬”を発見してしまう…。莉乃が望んでいた家庭ってなんだったのか。疑念が疑惑に変わっていく中、慶太は、偶然エレナ（箭内夢菜）と出会ってしまう…。なぜ不倫は始まったのか？壊れた愛の裏側、そして莉乃が迎える「衝撃の4度目の人生」とは――。　［期間限定無料配信］　テレビ東京にて7月6日(月)スタート！毎週月曜夜11時6分より放送！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
