@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-01T22:05:12+09:00</updated>
+  <updated>2026-08-02T00:05:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[第4話 真夜中の秘密]</title>
+    <id>https://tver.jp/episodes/epbndrspqi</id>
+    <updated>2026-08-01T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epbndrspqi" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月01日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月09日(日)00時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月1日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbndrspqi.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校3年生の武宮夏輝（深田竜生）は、姉・莉緒（田辺桃子）のボーイフレンドであり、自分の家庭教師でもある小早川蒼汰（浮所飛貴）がキラキラ輝いて見える理由が未だ分からず悩んでいた。&lt;br&gt;親友の紺野亮（丈太郎）に相談すると「恋だ」と言われてしまうが、そもそも“恋”がよく分からない夏輝…&lt;br&gt;そして家庭教師の夜、夏輝が蒼汰と勉強しているとゲリラ雷雨が発生！&lt;br&gt;帰れなくなった蒼汰が、夏輝の部屋にお泊まりすることに――!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>告白―25年目の秘密―_[第4話 僕にはやらないといけないことがある]</title>
     <id>https://tver.jp/episodes/epihzq08m8</id>
@@ -204,237 +237,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 中学生の響（大沢一菜）が同級生のお嬢様・初音（竹下優名）の自宅の庭を放火した。ボヤで済んだものの大事な木を燃やされた母・江梨子（乙葉）は激高。高額の損害賠償を請求された響の父・英二（YOUNG DAIS）は、泰地（鈴鹿央士）に減額して欲しいと泣きつく。なぜ、響は初音の自宅を放火したのか？接点のない二人の間にあったトラブルとは？完璧な幸せ家族の秘密が暴かれていく。　［期間限定無料配信］　テレビ東京にて7月24日(金)スタート！毎週金曜夜9時より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>今から、親友やめようか。_[第6話「すれ違う本音」《ドラマフィル》]</title>
-    <id>https://tver.jp/episodes/epq2r5f99z</id>
-    <updated>2026-07-31T01:59:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epq2r5f99z" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwr9pc2sa.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 今から、親友やめようか。
-                &lt;a href="https://tver.jp/series/srwr9pc2sa" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月07日(金)01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq2r5f99z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                和巳（沢村玲）が福岡出張中、二瓶（井内悠陽）、安藤（古田愛理）、寺本（黒木ひかり）にフォローしてもらいながら、和巳から引き継いだ案件に取り掛かっていたひまり（岡本夏美）。ひまりから電話で、二瓶と協力しながら仕事をしている話を聞き、苛立ちを隠せない和巳。一方、二瓶から告白の返事を聞かれたひまりは、二瓶から再度迫られ…。そんな中、ひまりと二瓶は取引先との間でトラブルを起こしてしまうが、ひまりは一人で抱え込んでしまう。長期出張から帰ってきた和巳はひまりと再会するが、トラブルを隠していたことや二瓶との関係に不信感と激しい嫉妬を募らせ……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>未婚詐欺 私の知らない彼の顔_[ep.3「既成事実」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/ep1om0dd62</id>
-    <updated>2026-07-31T01:29:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep1om0dd62" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7gdkwvd3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 未婚詐欺 私の知らない彼の顔
-                &lt;a href="https://tver.jp/series/sr7gdkwvd3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月11日(金)01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1om0dd62.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                夫・慎司（藤原樹）との子どもを望む沙耶香（北乃きい）。その裏で、愛人の真央（島崎遥香）もまた、慎司の子どもを授かることで「既成事実」を作ろうと狂気的な執念を燃やしていた。真央は排卵日に合わせ慎司を自宅へ誘い出し、愛し合った後、彼の使用済みコンドームをゴミ箱から回収する―。&lt;br&gt;&lt;br&gt;一方、遥（和内璃乃）の依頼で慎司を尾行していた和也（押田岳）は、慎司が真央の自宅玄関で抱き合う決定的な瞬間の撮影に成功する。沙耶香をランチに誘った遥は、会話の中で彼女が慎司の妻である確信を強める。&lt;br&gt;それから日が経ったある日、真央が職場で突然「妊娠した」と告白し、それを聞いた慎司は呆然と立ち尽くす。&lt;br&gt;さらに、お菓子作りをしていた沙耶香の元に、見知らぬアカウントから慎司と真央が抱き合う写真がDMで届く。&lt;br&gt;それを見た沙耶香は―!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夫婦と16歳～狂気の隣人～_[#5 子作りと修羅場と61歳女]</title>
-    <id>https://tver.jp/episodes/ephaadbi6u</id>
-    <updated>2026-07-31T01:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephaadbi6u" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru2es99bx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夫婦と16歳～狂気の隣人～
-                &lt;a href="https://tver.jp/series/sru2es99bx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)01時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月07日(金)01時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephaadbi6u.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                結婚して一年が経つ野村紘（豆原一成）と冴（岡田結実）。そろそろ子供が欲しいという冴に対し、紘の顔は曇っていく…。そんな中、冴から相談を受けた白石美子（かたせ梨乃）の妄想は膨らみ、二人の子供を抱きたいとあらゆる手を尽くし始めて…!?一方、冴からの期待にプレッシャーを感じている紘は同僚の菜々子（北村優衣）からホテルに誘われる。何か訳ありそうな菜々子の様子に、紘は…。野村夫婦、新婚にして離婚の危機!?　［期間限定無料配信］　テレビ東京にて7月2日(木)スタート！毎週木曜深夜24時30分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>親愛なる夫へ～完璧な妻の嘘～_[5話 第2章！夫婦に新たな危機]</title>
-    <id>https://tver.jp/episodes/ep2g0wa1ss</id>
-    <updated>2026-07-31T00:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2g0wa1ss" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr599tnf8e.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 親愛なる夫へ～完璧な妻の嘘～
-                &lt;a href="https://tver.jp/series/sr599tnf8e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月06日(木)23時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2g0wa1ss.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【毎週木曜よる11時59分放送】&lt;br&gt;&lt;br&gt;松野京香（華優希）を殺害した犯人が判明し、疑いが晴れた優一（古川雄大）は番組に復帰した。ある日、事務所に届いた郵便物の中に“赤い封筒”を見つけた麻衣子（田中麗奈）は、半年前のことを思い出す―。優一宛に“赤い封筒”が届いた。麻衣子が開けようとすると、中にあったカミソリで指を切ってしまう。さらに、優一の隠し撮り写真とともに、「罪に気づけ」というメッセージが…。その後も次々と脅迫状が届き、麻衣子が亡くなる直前にも届いていた。その脅迫状の写真には、優一だけではなく麻衣子も写っていた…。そして、麻衣子は何者かによって殺害されたのだった――。そんな中、事務所にまた“赤い封筒”が届く。しかし、これまでと違う点があった。そこには「罪を償え」とあり…！？脅迫状に書かれた“罪”の意味とは？麻衣子を殺した犯人、そして優一を狙う人物とは一体？&lt;br&gt;&lt;br&gt;★事前に"お気に入り登録"で最新話配信開始をお知らせ！★&lt;br&gt;※スマートフォンアプリのみ
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>一緒にごはんをたべるだけ_[第5話 春巻きと地獄の始まり]</title>
-    <id>https://tver.jp/episodes/epwkecewl5</id>
-    <updated>2026-07-31T00:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epwkecewl5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9pk6lqmr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 一緒にごはんをたべるだけ
-                &lt;a href="https://tver.jp/series/sr9pk6lqmr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月07日(金)01時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwkecewl5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                タキ（早見あかり）とレイ（伊藤健太郎）は、二人の距離が縮まるほどに、互いの夫婦関係に満たされない日々を実感していた。二人は連載で使用する器を選ぶために街へ出かけ、デートのような雰囲気の中で楽しく過ごす。会話をしていく中で、お互いの夫婦生活やセックスレスという踏み込んだ話題に触れたことをきっかけに、二人は仕事上の関係に戻ることを決意する。ある日、タキの家で春巻きの試作をしていると、アクシデントがきっかけで二人の気持ちが一気に加速していき…　［期間限定無料配信］　テレビ東京にて7月2日(木)スタート！毎週木曜深夜24時より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夫に不倫をお願いされました_[EP4【新規・クラブ】]</title>
-    <id>https://tver.jp/episodes/epvomb7d5q</id>
-    <updated>2026-07-31T00:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epvomb7d5q" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnkdcxsw6.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夫に不倫をお願いされました
-                &lt;a href="https://tver.jp/series/srnkdcxsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月14日(金)00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvomb7d5q.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                主婦・花恵（中村ゆりか）は夫の弘樹（佐野玲於）とのセックスレスに悩んでいたところ、弘樹から「公認不倫」を提案される。【既存】元カレ、【新規】マッチングアプリでの相手探しは失敗に終わった花恵。その後、不倫の慰謝料の相場である300万を貯金から下ろした花恵は公認不倫に対する覚悟を弘樹に伝えようとするが、その金で【業者】女性用風俗に行ってきたらと言われてしまう。&lt;br&gt;女性用風俗について調べると、顔が見えない・本番がない・お泊まりの場合8万、とハードルの高さに悩む花恵。出張準備中の弘樹に聞いても「さくっとしてきなよ」と取り合ってくれない。&lt;br&gt;そこで同級生の恵梨香（ハシヤスメ・アツコ）に現状を相談するが、レスのことで頭がいっぱいの花恵の発言で恵梨香とギクシャクしてしまう。&lt;br&gt;後日、出張から帰ってきた弘樹にやはり女性用風俗は難しいと話すと「顔が見える出会い、クラブはどうか」と提案される。その時、弘樹の携帯に「佐藤陽菜」（横野すみれ）からの着信が…。&lt;br&gt;焦った様子の弘樹を見て、花恵は浮気を疑う。下ろした300万を浮気調査に使おうか考えていたところ、同級生の涼平（葉山奨之）から連絡が来て、一緒にクラブへ行くことに。そこで反町（久保田悠来）に声をかけられ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第5話「透明より深い絶望」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epeyb66rkx</id>
-    <updated>2026-07-31T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epeyb66rkx" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年07月31日(金)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月15日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epeyb66rkx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                連絡が途絶えていた小春（永瀬莉子）が病院にいると知り、向かったかける（藤原大祐）、鳴海（曽野舜太）、優子（河村花）。病院のキッズルームで子どもたちにピアノを弾いていた小春を見つけたかけるは、小春に声をかけるも、「誰なんですか」と言われ、拒絶されてしまう。小春はある理由で記憶が混濁してしまっていると小春の母・陽華（映美くらら）から聞き、衝撃を受けるかけるたち。一方、小春はボランティアとして病院のキッズルームで子どもたちにピアノを弾きながら過ごしていた。そんなある日、かけるは小春が記憶を思い出せなくても、小春と一緒に過ごす時間を増やそうとある行動に出る。しかし、そこでかけるは、想像もしていなかった現実に小春が苦しんでいたことを知る――！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
