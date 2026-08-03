@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-04T00:05:17+09:00</updated>
+  <updated>2026-08-04T02:05:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[5話 不倫された妻の反撃スタート]</title>
+    <id>https://tver.jp/episodes/epdvqijy7l</id>
+    <updated>2026-08-04T00:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdvqijy7l" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sratud77ep.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ もう1度夫婦になりますか？～カモフラージュ夫婦～
+                &lt;a href="https://tver.jp/series/sratud77ep" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月04日(火)00時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月01日(火)00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月3日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdvqijy7l.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                「愛子が、ついに離婚を決断…!」&lt;br&gt;笹嶋愛子(森迫永依)は、不倫を続けていた夫・笹嶋誠一(前田公輝)にわずかな期待を込めて豪華な夕食を準備するが…。その夜愛子の運命が大きく動き出す!
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>DREAM STAGE_[第６話 夢も仲間も捨て…涙と決意のラストライブ]</title>
     <id>https://tver.jp/episodes/ep6v6yv5gy</id>
@@ -468,39 +501,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 あわて者で泣き上戸の善作はタクシー会社の事故処理係。悲しいことがあるとラッパを吹いて紛らわす彼には、人に言えない大きな秘密があった・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>＆Hulu_[ニシダ（ラランド）が、この夏おすすめの映画＆海外ドラマを学ぶ！よしひろまさみちと伊藤ハルカが話題作や名作の見どころを楽しく紹介。]</title>
-    <id>https://tver.jp/episodes/ep9q71ueqc</id>
-    <updated>2026-08-02T02:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep9q71ueqc" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月02日(日)02時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月15日(土)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月1日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9q71ueqc.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                人気芸人・ニシダ（ラランド）に、映画ライター・よしひろまさみちと海外ドラマコラムニスト・伊藤ハルカが、この夏おすすめの映画＆海外ドラマをたっぷりレッスン！「これを観ればモテる！」という作品や原作実写化作品、サメをテーマにした話題作まで幅広く紹介。おすすめシーンや制作秘話など、映画＆ドラマ好き必見のトークで、この夏観るべき一本がきっと見つかる！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
