@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-05T00:05:15+09:00</updated>
+  <updated>2026-08-05T02:05:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>ペンション・恋は桃色 season2_[第4話 『ヒカリの告白 シロウという名の男』]</title>
+    <id>https://tver.jp/episodes/epq92odm27</id>
+    <updated>2026-08-05T01:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epq92odm27" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src9dbo5lm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ペンション・恋は桃色 season2
+                &lt;a href="https://tver.jp/series/src9dbo5lm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月05日(水)01時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月12日(水)01時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq92odm27.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                東京で一緒に暮らそう。ヒカリ（山口智子）の提案にハル（伊藤沙莉）はワクワクしつつも、父やペンションのことを気にして半信半疑。急な展開に心が追いつかない。&lt;br&gt;物憂げな様子のシロウ（リリー・フランキー）は、ヨシオ（斎藤工）と親子客とバードウォッチングへ向かう。&lt;br&gt;&lt;br&gt;ペンションにはハルとヒカリの2人きり。ヒカリの口から衝撃の内容が告げられ、ハルは驚愕。&lt;br&gt;シロウとハルとヒカリに隠された秘密を知ったヨシオは…。&lt;br&gt;シロウは、ペンションでそんな事が起きているとは知らず、親子客の喧嘩の仲裁に入っていた。&lt;br&gt;喧嘩の内容にハルと自分のこれまでを重ねて、途方に暮れるシロウは、己の「家族」の形に不安を覚えるのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>初恋DOGs_[第７話 海辺の素直なキス－これは本能です!?]</title>
     <id>https://tver.jp/episodes/epuzedukjy</id>
