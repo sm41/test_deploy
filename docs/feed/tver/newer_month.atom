@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-04T22:05:15+09:00</updated>
+  <updated>2026-08-05T00:05:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>早坂架威のごっこ倶楽部TV_[「おもちゃブレスレット」]</title>
+    <id>https://tver.jp/episodes/epdgw9m4co</id>
+    <updated>2026-08-04T22:59:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdgw9m4co" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfcb3t38u.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 早坂架威のごっこ倶楽部TV
+                &lt;a href="https://tver.jp/series/srfcb3t38u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月04日(火)22時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月04日(金)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月4日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 福島中央テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdgw9m4co.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ハンドメイド作家を夢見る女性。&lt;br&gt;周囲から冷たい反応を受けながらも&lt;br&gt;ビーズのブレスレットにこだわって&lt;br&gt;作り続ける理由とは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>君の好きは無敵_[第４話 「かわいい」で得るもの、失くすもの、始まる♥もの]</title>
+    <id>https://tver.jp/episodes/epm1s8rill</id>
+    <updated>2026-08-04T22:57:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epm1s8rill" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr78n2tsiv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 君の好きは無敵
+                &lt;a href="https://tver.jp/series/sr78n2tsiv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月04日(火)22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月11日(火)21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月4日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm1s8rill.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;遂に新キャラクターが誕生し、「好き」に目覚めた草壁杏奈（松本若菜）。MERRYを退職した廣瀬（藤井隆）にも後押しされ、杏奈は「好き」にアクセル全開で突き進むことを決意！そして愛するこの新キャラクターのぬいぐるみを作り上げ、必ず大ヒットさせる！と燃えに燃える。&lt;br&gt;&lt;br&gt;一方の瀬尾深月（佐野勇斗）は、淵野辺（中村隼人）との会話の中で、自分は杏奈に対して「やりがい搾取」をしているのではと思い悩むように。そこで新キャラクターのぬいぐるみ制作費を削ってでもきちんとした額のギャラを杏奈に支払おうとするが……？&lt;br&gt;&lt;br&gt;「好き」に目覚めた杏奈と、冷静になっていく瀬尾。それぞれ大切なものを守りたいがためにすれ違っていく2人に、新キャラクターと♡を巡る大事件が待ち受けていて…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>さよならノワール_[第5話 暴力被害にあった元暴力団員を支援せよ]</title>
     <id>https://tver.jp/episodes/epq07956oj</id>
@@ -765,39 +831,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;取調室で塩野（齋藤璃佑）から突然キスをされ、激しく動揺する多古井（渡部秀）。「キスする理由なんてひとつしかないでしょ」と言い放つ塩野の真意がわからず、多古井の理解は追いつかない。&lt;br&gt;そんな中、お見合い相手のハルカ（松井遥南）からの猛アプローチに新たな恋の予感を覚える多古井だったが、次第に彼女の行動はエスカレートしていき…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>一次元の挿し木_[第５話【待ち受ける悲しき真実】]</title>
-    <id>https://tver.jp/episodes/ep8gittcjv</id>
-    <updated>2026-08-02T23:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8gittcjv" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4zzew7hk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 一次元の挿し木
-                &lt;a href="https://tver.jp/series/sr4zzew7hk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月02日(日)23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月09日(日)22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月2日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8gittcjv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                時を超えた謎に挑むヒューマンミステリー&lt;br&gt;インドで発掘された２００年前の人骨が失踪した義妹のDNAと完全に一致…&lt;br&gt;関係者の不審な死、盗まれた人骨、消えた過去の記憶…真実の果てに待つ想像を絶する結末とは―&lt;br&gt;&lt;br&gt;紫陽（堀田真由）はこの世に存在しない――。&lt;br&gt;七瀬悠（山田涼介）は、刑事・黛（土居志央梨）が告げた内容に耳を疑う。&lt;br&gt;そんな悠を、多田（和田正人）は憐れむように見るのだった。&lt;br&gt;&lt;br&gt;翌日、釈放されることになった悠の元に、義理の父で日江製薬の社長・七瀬京一（佐々木蔵之介）がやってくる。&lt;br&gt;一方、週刊誌「東邦ジャーナル」の編集長・平間（小手伸也）は、石見崎唯（白石聖）と接触。&lt;br&gt;さらに、平間は日江製薬と宗教団体「樹木の会」につながりがあるとにらみ、取材と称して「樹木の会」に乗り込む。&lt;br&gt;そして、ついに広報部長・春日（松下由樹）と対面。&lt;br&gt;一連の事件の真相に近づいていく……！　&lt;br&gt;その頃、悠は、これまでのすべてを覆すような衝撃の事実に向き合うことに――！？
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
