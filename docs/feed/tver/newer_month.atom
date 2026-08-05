@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-05T14:05:11+09:00</updated>
+  <updated>2026-08-05T16:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>一筆お祓いいたします_[第1話 何がしたい]</title>
+    <id>https://tver.jp/episodes/ep54tgv21q</id>
+    <updated>2026-08-05T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep54tgv21q" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月05日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月04日(金)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月5日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep54tgv21q.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                蒲一永(プー・イーヨン)は、書道は得意だが、勉強は苦手な17歳の高校生。母親のヘアーカットのせいで、学校では不良だと思われていた。書道家の祖父が運営する書道教室の手伝いをしていた。ある日、祖父、父と共に出かけた一永は、大事故に巻き込まれる。一永は、奇跡的に一命を取り留めるが、不思議な光景を目にする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>三国志～司馬懿 軍師連盟～_[第８２話　裏切りの代償]</title>
     <id>https://tver.jp/episodes/epbl381c3w</id>
