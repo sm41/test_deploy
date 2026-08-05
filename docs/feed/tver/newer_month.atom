@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-05T02:05:15+09:00</updated>
+  <updated>2026-08-05T10:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スピナーベイト_[第6話 エサ]</title>
+    <id>https://tver.jp/episodes/ep4tkek0rn</id>
+    <updated>2026-08-05T02:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4tkek0rn" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月05日(水)02時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月12日(水)02時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月4日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4tkek0rn.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                連続殺人犯の正体が上田大悟の兄・順平かもしれない。吉見の推理を聞いた三井は、声をかけてきた大悟に思わず身構えてしまう。大悟から吉見について問われ、これまでの経緯を素直に話す三井だったが、関わらない方がいいと忠告を受ける。放課後、大悟の兄が来るという公園に、メグが向かったことを知った三井。胸騒ぎがして公園へと急ぐが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>幸せになりたいマサムネ君_[#5「あの頃の記憶」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/epbydyn0or</id>
