@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-05T16:05:19+09:00</updated>
+  <updated>2026-08-05T18:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>甘い秘密（放送版）_[第36話]</title>
+    <id>https://tver.jp/episodes/ept2tey62w</id>
+    <updated>2026-08-05T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ept2tey62w" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 甘い秘密（放送版）
+                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月05日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月05日(金)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月5日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept2tey62w.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                スアは迎えに来たドヒョンとソンウンに泣きながら謝る。許そうとするドヒョンにソンウンはまったく理解が出来ない。一方、アルムはフィリップとヨリを戻しアメリカに行くことを両親に報告する。喜ぶミョンファとは対照的にパンソクは心配でたまらない。そんな中、出版記念のパーティーにソンウンが出席すると考えたフィリップは、アルムを同伴することを思いつく。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一筆お祓いいたします_[第1話 何がしたい]</title>
     <id>https://tver.jp/episodes/ep54tgv21q</id>
