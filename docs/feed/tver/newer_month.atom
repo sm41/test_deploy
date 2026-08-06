@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-06T10:05:20+09:00</updated>
+  <updated>2026-08-06T12:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>鉄の王　キム・スロ_[第3話]</title>
+    <id>https://tver.jp/episodes/epvopy639z</id>
+    <updated>2026-08-06T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvopy639z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月06日(木)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvopy639z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ヨイと共に蘇塗（ソド）に逃げだしたスロ。ヨイは心配そうに、スロにどうするつもりなのかと聞くが、そこは神殿がある神聖な場所で、罪人も捕まえることができないところとスロは答える。スロとヨイを追うテガンとイビガは、二人がソドにいることを知り、それぞれの家来を率いてソドへと向かうのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>愛される花_[第8話 新たな一歩]</title>
     <id>https://tver.jp/episodes/epg3v9s8q3</id>
@@ -930,39 +963,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ユニに帳簿の原本が入ったUSBを渡し、自分はフィリップとアメリカへ行くと告げるアルム。帰宅後、ソンウンが娘に買ってくれた服を手に取り、想いを断ち切るかのようにゴミ箱へ捨ててしまう。そんな中、ソンウンはドヒョンを釈放させるために調査を続ける。その結果、別荘で高速道路の領収書を見つけ、スアを問いただし、一緒に警察へ向かうのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>三国志～司馬懿 軍師連盟～_[第８１話　洛陽占拠]</title>
-    <id>https://tver.jp/episodes/epitvh5t7m</id>
-    <updated>2026-08-04T13:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epitvh5t7m" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrxzse4af.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 三国志～司馬懿 軍師連盟～
-                &lt;a href="https://tver.jp/series/srrxzse4af" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月04日(火)13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月11日(火)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月4日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epitvh5t7m.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                洛陽を占拠した司馬懿は、曹爽が戻ってきても、虐殺はせず、宗親も守り、爵位も与えて兵権を戻すだけだと誓う。一方の曹爽は、あまりに突然起こった反乱に驚く。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
