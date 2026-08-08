@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-08T22:05:11+09:00</updated>
+  <updated>2026-08-09T00:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[第5話 「好き」涙の告白!?]</title>
+    <id>https://tver.jp/episodes/ep34sss0a7</id>
+    <updated>2026-08-09T00:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep34sss0a7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月09日(日)00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月16日(日)00時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月8日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep34sss0a7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校3年生の武宮夏輝（深田竜生）は、小早川蒼汰（浮所飛貴）の笑顔や仕草に相変わらずドキドキしていた…。&lt;br&gt;ある日、蒼汰に誘われ、夏輝は母・十和子（羽田美智子）が主宰する料理教室に参加することに！&lt;br&gt;蒼汰と一緒に楽しい時間を過ごす夏輝だったが、沖縄旅行から帰宅した姉・莉緒（田辺桃子）と蒼汰の仲睦まじい姿を目の当たりにして、切ない気持ちに…。&lt;br&gt;そんな中、家庭教師の日に蒼汰が風邪で熱を出し、来られなくなってしまう。夏輝は蒼汰のことが心配で、勉強が手につかなくなり…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ドラマ　宅飲みシェアハウス_[＃４　スタミナチャーハン]</title>
+    <id>https://tver.jp/episodes/epqrmtmr5l</id>
+    <updated>2026-08-08T23:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqrmtmr5l" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6hry6175.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ　宅飲みシェアハウス
+                &lt;a href="https://tver.jp/series/sr6hry6175" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月08日(土)23時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月08日(火)23時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月8日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqrmtmr5l.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                長時間の屋外撮影で体が冷えて風邪をひいてしまった横田龍儀（本人役）。&lt;br&gt;お酒は控えて、体力がつくものを食べようとニンニクたっぷりの「スタミナチャーハン」を作ることにする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>告白―25年目の秘密―_[第5話 一緒に来るの夢だったんです]</title>
     <id>https://tver.jp/episodes/epnlfd01fp</id>
@@ -699,237 +765,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 お互いの関係を確かめ合うようにラブホテルへ向かったタキ（早見あかり）とレイ（伊藤健太郎）は、ついに身体を重ねてしまう。ダメだとわかっていながらも、二人は甘い時間を過ごしていく。後日、試作品を作るため久しぶりに二人は会うことに。ドキドキしながら出迎えたタキだったが、意外と普通な反応のレイに困惑しつつ、旬の野菜のキッシュを作り始める。焼き上がりを待っている間、タキは思わず「1回きりのことなのか」と尋ねると、「もうしないという約束はできない」とレイから言われ…　［期間限定無料配信］　テレビ東京にて7月2日(木)スタート！毎週木曜深夜24時より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>未婚詐欺 私の知らない彼の顔_[ep.4「消せない香水の香り」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epltc6xf1y</id>
-    <updated>2026-08-07T01:29:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epltc6xf1y" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7gdkwvd3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 未婚詐欺 私の知らない彼の顔
-                &lt;a href="https://tver.jp/series/sr7gdkwvd3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月14日(金)01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epltc6xf1y.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                愛人の真央（島崎遥香）から妊娠を告げられた慎司（藤原樹）は、喜びを見せるどころか「嬉しくない」と突き放し、多額の慰謝料を条件に中絶と別れを要求する 。不妊治療中で今月も着床しなかったと告げられ気落ちする妻の沙耶香（北乃きい）をよそに、慎司はもう一人の浮気相手・遥（和内璃乃）の元へ向かう。しかし、過度な精神的ストレスから彼の身体にもある異変が起きる…。&lt;br&gt;&lt;br&gt;仕事と嘘をついて朝帰りしてきた慎司のジャケットから心当たりのある香水の香りに気づく沙耶香。匿名アカウントからの不倫写真のリークによって夫の裏切りを確信しており、香水の香りや以前の会話から、遥が沼っていると話す男性が自分の夫ではないかと疑う。真実を明らかにするため、沙耶香は遥を自宅へ誘い出す――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>親愛なる夫へ～完璧な妻の嘘～_[6話 夫の罪、それぞれの秘密]</title>
-    <id>https://tver.jp/episodes/epro9mv01r</id>
-    <updated>2026-08-07T00:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epro9mv01r" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr599tnf8e.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 親愛なる夫へ～完璧な妻の嘘～
-                &lt;a href="https://tver.jp/series/sr599tnf8e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)23時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epro9mv01r.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【毎週木曜よる11時59分放送】&lt;br&gt;&lt;br&gt;優一（古川雄大）に脅迫状を送っていたのは、田端（田中偉登）だと判明した。しかし田端は麻衣子（田中麗奈）を殺害した犯人ではなかった。犯人をどうしても見つけたい優一は、麻衣子の死の謎に迫る記事を書いた記者の加藤（前田公輝）と接触。その際、加藤は麻衣子と同じような口ぶりで話しており、優一は2人の間には何らかの関係がある、と見ていた。加藤のことを知れば、麻衣子の事件を解決する糸口が見つかるかもしれない――。そんな時、優一にトラブルが発生。生放送中を途中退席することに。その夜、麻衣子は寝ている優一を見つめて、「すべてを知ったら、きっとあなたは私を軽蔑する」一人こぼす。その後、優一は麻衣子にまつわる衝撃の事実を知ることにー&lt;br&gt;&lt;br&gt;★事前に"お気に入り登録"で最新話配信開始をお知らせ！★&lt;br&gt;※スマートフォンアプリのみ
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>水曜日、私の夫に抱かれてください_[第6話 公認不倫 狂い出す欲望]</title>
-    <id>https://tver.jp/episodes/ep2rmpxbfr</id>
-    <updated>2026-08-07T00:30:01+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2rmpxbfr" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srki02kaw8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 水曜日、私の夫に抱かれてください
-                &lt;a href="https://tver.jp/series/srki02kaw8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月14日(金)00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2rmpxbfr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                怜（入山法子）から、神栖（稲葉友）に自分の気持ちを伝えたのかと問われた蓉子（菅井友香）は、未練を捨て、公認不倫関係に決着を着けるため、もう一度だけ神栖と会うことを決意する。最後のデート、食事をしながら蓉子が自分の気持ちを伝えると、神栖は次第に様子が変わり始める。一方、蓉子は神栖が偶然落としたキーホルダーをきっかけに過去の楽しかったデートを思い出す。名残惜しさを感じつつ、「これで最後だね」と乾杯した二人だったが、その後予想もしなかったアクシデントが起きて…。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夫に不倫をお願いされました_[EP5【業者・女性用風俗】]</title>
-    <id>https://tver.jp/episodes/epkkru01qg</id>
-    <updated>2026-08-07T00:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epkkru01qg" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnkdcxsw6.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夫に不倫をお願いされました
-                &lt;a href="https://tver.jp/series/srnkdcxsw6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)00時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月21日(金)00時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkkru01qg.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                主婦・花恵（中村ゆりか）は夫の弘樹（佐野玲於）とのセックスレスに悩んでいたところ、弘樹から「公認不倫」を提案される。【既存】元カレ、【新規】マッチングアプリ、クラブでの出会いが不発に終わった花恵は最後の【業者】女性用風俗を検討するが、料金の高さから一歩踏み出せずにいた。&lt;br&gt;そんな中、学資保険の相談で知り合った保険営業の早乙女（橋本マナミ）から花恵は女性用風俗＝女風でストレス発散をしていると教えてもらう。花恵は女風を利用するに至った理由も似ていた早乙女と打ち解け、一緒にどのセラピストがいいか調べた結果、リピートランキング三位のアキラ（南雲奨馬）を選ぶ。&lt;br&gt;その夜、弘樹は女風を決意したことを喜んでくれるが、花恵は弘樹の鞄から陽菜（横野すみれ）のメッセージ付きのチョコを見つけてしまい浮気を疑う。問いただすも弘樹は「浮気なんてしない」と断言し、真相はわからないまま…。&lt;br&gt;そして女風デビューの日を迎えた花恵。過去の出会いを上書きしてくれそうなアキラから性感施術を受けることに…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第6話「新たな約束」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epupatfso3</id>
-    <updated>2026-08-07T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epupatfso3" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月20日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epupatfso3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                小春（永瀬莉子）から余命があと半年であることを聞き、「私のことは忘れてください」と別れを告げられたかける（藤原大祐）。突然突きつけられた現実に、かけるはどうしたらいいか答えを見つけられずにいた。鳴海（曽野舜太）と優子（河村花）が、打ち上げ花火が好きな小春のためにと、年明けに開催される花火大会のチラシを見つけてくるが、かけるは何が正しいのか分からず思い悩んでいた。一方、小春は周りの大切な人を苦しめたくないという思いから、治療すら諦めようとしていたが……。&lt;br&gt;そんな中、小春の“黄色い栞”のことを思い出したかけるは、栞に書かれた“やりたいことリスト”がまだ終わってないことを知り、再び小春のために走り出す──！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>心配無用ノ介 天下御免_[第四話　情け無用ノ介、見参]</title>
-    <id>https://tver.jp/episodes/ep5uyvarx7</id>
-    <updated>2026-08-06T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5uyvarx7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjazxincs.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 心配無用ノ介 天下御免
-                &lt;a href="https://tver.jp/series/srjazxincs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月06日(木)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)22時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS-TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5uyvarx7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                悪党の悲しき身の上話に一切耳を貸さず、容赦なく斬り捨てる侍、その名も「情け無用ノ介」！？実はこれ、大御所俳優・錦京太郎の思いつきによる斬新すぎる新企画だった。錦の暴走により次々と珍妙な無用ノ介が爆誕していく。メイクの楠瀬も呆れる、やりたい放題の展開・・果たして本物の無用ノ介の出番はあるのか！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ラストノート_[第5話 消せない過去・・・あなたに恋する資格なんてない]</title>
-    <id>https://tver.jp/episodes/epymg7l9ot</id>
-    <updated>2026-08-06T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epymg7l9ot" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srns83dbgi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ラストノート
-                &lt;a href="https://tver.jp/series/srns83dbgi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月06日(木)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月13日(木)22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月6日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epymg7l9ot.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                一瀬葵（内田有紀）は、樋口澄晴（寺西拓人）といる時に再び花の香りを感じる。「どうしてあなたといる時だけ香りがするんだろ？」とつぶやく葵に事情を尋ねる澄晴。葵は10年以上前から花の香りが分からなくなったと澄晴に打ち明け、そうなったいきさつを話す。澄晴は葵が花の香りを取り戻せるよう協力すると伝えると、連日の仕事の疲れからそのまま葵の家で眠ってしまう。そんな澄晴にそっとブランケットをかける葵。&lt;br&gt;翌朝、自宅へと帰った澄晴を、木嶋莉奈（桜井日奈子）が、心配して寝ないで待っていた。澄晴の行動に平野龍太（草川拓弥）は激怒し、澄晴の父・眞澄（佐々木蔵之介）が「澄晴には惚れ込んでいる女がいる」と話していたことを伝える。澄晴は眞澄の家を訪ね・・・・・・。&lt;br&gt;葵は心療内科の診察で、澄晴といる時だけ花の香りがすると伝える。すると医師から、「その人は最も幸せな時に一緒にいたのかもしれない」と言われて・・・？
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
