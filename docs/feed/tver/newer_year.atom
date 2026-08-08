@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-09T00:05:10+09:00</updated>
+  <updated>2026-08-09T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>修学旅行で仲良くないグループに入りました_[#５　学校で見せないで！止まらない嫉妬心]</title>
+    <id>https://tver.jp/episodes/epsv1s0his</id>
+    <updated>2026-08-09T01:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epsv1s0his" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1es6void.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 修学旅行で仲良くないグループに入りました
+                &lt;a href="https://tver.jp/series/sr1es6void" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月09日(日)01時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月23日(日)01時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsv1s0his.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                修学旅行が終わっても日置（藤本洸大）と渡会（簡秀吉）の距離感は異常に近く、周囲から注目されてしまう。荷物を持ってくれたり、靴紐を結んでくれたり、学年集会ではバックハグされたりと、まるで王子様のような対応に困惑する日置。&lt;br&gt;さらに、日置とバドミントン部の友人との仲に嫉妬する渡会は、大胆な行動に出て…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>相棒 season9_[第5話「運命の女性」]</title>
     <id>https://tver.jp/episodes/epvu92vagw</id>
