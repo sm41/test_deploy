@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-09T18:05:10+09:00</updated>
+  <updated>2026-08-09T20:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>真夏のシンデレラ_[第6話 恋の大勝負！奇跡が訪れる！？]</title>
+    <id>https://tver.jp/episodes/epon41w97h</id>
+    <updated>2026-08-09T19:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epon41w97h" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr87qxpkf3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 真夏のシンデレラ
+                &lt;a href="https://tver.jp/series/sr87qxpkf3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月09日(日)19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月16日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epon41w97h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【#4以降 3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：7月18日（土）～8月31日（月）&lt;br&gt;#2：7月25日（土）～8月31日（月）&lt;br&gt;#3：8月1日（土）～8月31日（月）&lt;br&gt;#4：8月3日（月）～8月10日（月）&lt;br&gt;#5：8月6日（木）～8月13日（木）&lt;br&gt;#6：8月9日（日）～8月16日（日）&lt;br&gt;#7：8月12日（水）～8月19日（水）&lt;br&gt;#8：8月15日（土）～8月22日（土）&lt;br&gt;#9：8月18日（火）～8月25日（火）&lt;br&gt;#10：8月21日（金）～8月28日（金）&lt;br&gt;#11：8月24日（月）～8月31日（月）&lt;br&gt;&lt;br&gt;夏海（森七菜）のことが好きだ――健人（間宮祥太朗）は、夏海に自分の思いを告白した。夏海からそれを打ち明けられた愛梨（吉川愛）と理沙（仁村紗和）は、夏海にも夏が来た、と大喜びする。しかし夏海は、健人に好意を抱いていることは認めながらも、生まれ育った環境が違うこともあって恋愛は上手くいかないのでは、と言い出す。そんな夏海に理沙は、恋とか愛とかは一旦置いておいて、夏海にとって健人がどんな存在なのか考えてみてはどうかと提案する。&lt;br&gt;&lt;br&gt;匠（神尾楓珠）は、亮（山口智充）から修理を頼まれていたイスを持って『Kohola』を訪れる。そこで匠は、夏海が東京でスマートフォンを紛失した話を聞く。&lt;br&gt;愛梨は、スタイリストへ昇格するテストで失敗してしまったものの、そのショックを引きずることなく仕事に取り組んでいた。するとそこに、愛梨を指名したいという客がやってくる。それは修（萩原利久）だった。&lt;br&gt;夏海が亮と仕込みをしていると、差し入れアイスを持って健人がやってくる。そこには匠も居合わせて……。&lt;br&gt;&lt;br&gt;一方、理沙は、宗佑（水上恒司）のライフセーバー仲間から、彼が体調を崩していることを教えられる。心配になった理沙は、宗佑の部屋を訪れる。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『真夏のシンデレラ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>あなたには帰る家がある_[＃１ 夫婦のあるある満載！夫の秘密に妻の本音爆発!!]</title>
     <id>https://tver.jp/episodes/epyogdzbcq</id>
@@ -1623,39 +1656,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;&lt;br&gt;柊木雫（北川景子）は、刑事の風見颯（尾上松也）に話がしたいと呼びとめられた。風見は自身が担当した事件について、柊木の裁判官としての意見を聞きたいと言う。しかし、柊木は実際に裁判を見聞きしていないため軽はずみな見解は出来ないと断る。&lt;br&gt;&lt;br&gt;その翌日、実務演習の講義で柊木が新たに学生たちに課した事案は「黙秘権」。郊外の森で男児A君の死体が発見され、森にはA君と男Xが並んで歩く足跡が残されていた―。証拠はそれだけで目撃者もなく犯行を認めるためにはXの証言が必要だが、黙秘権を行使されたら起訴出来たとしても無罪となる可能性が高い。&lt;br&gt;&lt;br&gt;藍井仁（山田裕貴）が呆れる中、柊木は黙秘権について肯定派を真中信太郎（高橋文哉）、水沢拓磨（前田拳太郎）、天野向日葵（河村花）、否定派を照井雪乃（南沙良）、桐矢純平（前田旺志郎）に分けてディベートさせる。そのような中でも司法試験の勉強に一心な雪乃は「ディベートでは喋らない」と、ペアとなった桐矢を突き放す。&lt;br&gt;早速ディベートが開始されるも、肯定派の意見に桐矢は追い詰められる。その時、雪乃が口を開くも、黙秘権は行き過ぎた加害者擁護だと珍しく荒ぶった態度を見せる。その言葉は被害者の痛みを代弁するかのようで…。&lt;br&gt;&lt;br&gt;ジャッジを任された藍井は桐矢たち否定派の勝利を告げる一方で、雪乃の感情的な発言は弁論ではないと切り捨てる。柊木は次回の講義は否定派と肯定派を入れ替えてディベートをすると告げその日の講義は終了。講義後、柊木は加害者擁護に感情的な雪乃について藍井に相談するが…。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『女神の教室～リーガル青春白書～』を全話配信中！名作ドラマを“イッキ見”できる！】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>左目探偵EYE_[第7話　最終章…過去から来たナゾの男]</title>
-    <id>https://tver.jp/episodes/epzhdla1l8</id>
-    <updated>2026-08-07T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epzhdla1l8" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmvk5y951.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 左目探偵EYE
-                &lt;a href="https://tver.jp/series/srmvk5y951" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月17日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzhdla1l8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【日ドラ『一次元の挿し木』毎週日曜よる１０時３０分～放送中！】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;SP,#1-2　7/17(金)12:00～&lt;br&gt;#3-4　7/24(金)12:00～&lt;br&gt;#5-6　7/31(金)12:00～&lt;br&gt;#7-8　8/7(金)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;みるく(はるな愛)が何者かに襲われた。愛之助(山田涼介)は連続爆破事件から兄・夢人(横山裕)との思い出に解決のヒントがあると推理し、瞳(石原さとみ)と共に向かう。一方、夢人は刑事としての身分を捨て、最後の犯罪計画を進めようとしていた。思い出の場所に辿り着いた二人は愛之助の過去に深い関わりがあるものを発見する。愛之助の脳裏に幼い頃の映像が断片的に蘇る。そこへ夢人から連絡が入り、今回の犯人は自分たち兄弟に復讐するために現れたことを告げる。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
