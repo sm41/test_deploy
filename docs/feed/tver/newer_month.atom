@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-10T00:05:14+09:00</updated>
+  <updated>2026-08-10T02:05:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>キスは捜査のあとで_[#3　好きだと気付いて]</title>
+    <id>https://tver.jp/episodes/epo492s53z</id>
+    <updated>2026-08-10T01:10:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epo492s53z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ キスは捜査のあとで
+                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月10日(月)01時10分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月05日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月9日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo492s53z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;塩野（齋藤璃佑）からの真っすぐな告白を受け、“イヤじゃない”自分の気持ちに戸惑う多古井（渡部秀）。そんな中、スナックでの暴行事件で多古井をかばい、塩野がケガをしてしまう。&lt;br&gt;自分のせいで塩野を傷つけたと激しく落ち込む多古井だったが、江川（工藤遥）に背中を押され、彼の元へ向かうことに…&lt;br&gt;事件をきっかけに、二人の距離が動き出す!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一次元の挿し木_[第６話【人骨とDNA一致の真相】]</title>
     <id>https://tver.jp/episodes/epuaqm8ooq</id>
