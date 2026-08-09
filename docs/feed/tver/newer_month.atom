@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-09T10:05:10+09:00</updated>
+  <updated>2026-08-09T12:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ヴェラ～信念の女警部～ シーズン12_[#9「満潮の時（前編）」]</title>
+    <id>https://tver.jp/episodes/epgyu64y9k</id>
+    <updated>2026-08-09T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgyu64y9k" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrn928ckt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ヴェラ～信念の女警部～ シーズン12
+                &lt;a href="https://tver.jp/series/srrn928ckt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月09日(日)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月23日(日)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月9日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgyu64y9k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【BS11(イレブン)にて毎週日曜日 午前9時59分から放送中！】&lt;br&gt;クリスマスの喧騒をよそに、ホーリー島で起きた有名タレントのリック・ケルサルの死亡事件にヴェラは呼び出された。彼は5年ごとに島で再会している高校の同窓会に参加中、部屋で首を吊った状態で発見された。当初は自殺と思われたが、ヴェラは遺体の状況から殺人事件として捜査を開始。潮が満ちれば陸から孤立するこの島で、その場に居合わせた旧知の友人らに疑いの目が向けられる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>こんなところで裏切り飯～嵐を呼ぶ七人の役員～_[第６話「富山でお好み焼き」]</title>
     <id>https://tver.jp/episodes/epgjmvata2</id>
@@ -765,39 +798,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 反乱を起こそうとした王淩が降伏したことにより、司馬懿は宣旨の通り、王淩を処刑せずとして釈放した。しかし護送の途中、賈逵廟に連行された王淩は、司馬懿の本心を悟り、司馬懿に自分を殺すよう求めた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>鉄の王　キム・スロ_[第4話]</title>
-    <id>https://tver.jp/episodes/ep8bk2wkdn</id>
-    <updated>2026-08-07T10:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8bk2wkdn" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 鉄の王　キム・スロ
-                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月07日(金)10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月14日(金)10時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月7日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8bk2wkdn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                チョバンは捕らわれのスロを助けるべく、テガンに許しを請い跪く。&lt;br&gt;すると、テガンは代わりにシングィ村の冶鉄場を作りたいので製鉄炉の設計図を貸すようチョバンに要求してきた。それは技術を取られることであり、イビガの信頼を裏切ることでもあった。チョバンは悩んだ末に図面をテガンに渡し、スロは解放される。&lt;br&gt;製鉄炉作りを任されたタレは喜んで作業に入る。チョンギョンと彼女が産んだ子供に関する真実を知ったテガンは、チョバンを訪ね、すべてを伏せておく変わりに自分の配下になるよう持ちかける。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
