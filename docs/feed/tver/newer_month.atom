@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-11T18:05:10+09:00</updated>
+  <updated>2026-08-11T20:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season8_[第11話 武蔵小杉の一人ジンギスカン]</title>
+    <id>https://tver.jp/episodes/eppz7uxeyq</id>
+    <updated>2026-08-11T18:55:01+09:00</updated>
+    <link href="https://tver.jp/episodes/eppz7uxeyq" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season8
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月11日(火)18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月25日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppz7uxeyq.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                井之頭五郎（松重豊）は、武蔵小杉のタワーマンションに引っ越したばかりの村井美咲（水野真紀）の所にリビングの内装の商談で来ていた。しかし優柔不断で悩みすぎて話が全く進まず、困った五郎はある提案をするが……。商談を終えるとすっかり夕飯どき。空腹で居酒屋メシ気分になっていた五郎だが、ジンギスカンというパワーワードと換気口から漂う匂いにつられ吸い込まれるように店内へ。そこには新たなジンギスカンの楽しみ方が……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>孤独のグルメ特別編_[真夏の東北・宮城出張編]</title>
+    <id>https://tver.jp/episodes/ep9a4diuhs</id>
+    <updated>2026-08-11T18:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep9a4diuhs" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ特別編
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月11日(火)18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月25日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9a4diuhs.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                井之頭五郎（松重豊）は、古くからの友人・岸本（渡辺いっけい）に頼まれた仕事で、宮城に来た。前日入りした仙台で、まずは名物を堪能する。翌日、石巻で借りた軽トラで仕事の舞台の女川に移動、担当者の牧原（向井理）と打合せするが……。一段落すると腹が減った。山道を通って五郎が辿り着いたのはひっそりと佇む海鮮の店だった。その店を後にした五郎がさらに辿り着いたお店は……!?　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>甘い秘密（放送版）_[第40話]</title>
     <id>https://tver.jp/episodes/eph9h8lse8</id>
