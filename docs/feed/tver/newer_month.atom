@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-11T12:05:11+09:00</updated>
+  <updated>2026-08-11T14:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>三国志～司馬懿 軍師連盟～_[第８６話（最終話）最後の決別]</title>
+    <id>https://tver.jp/episodes/ep4i6pa5uz</id>
+    <updated>2026-08-11T13:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4i6pa5uz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrxzse4af.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 三国志～司馬懿 軍師連盟～
+                &lt;a href="https://tver.jp/series/srrxzse4af" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月11日(火)13時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月18日(火)11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4i6pa5uz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                司馬懿は、自分が死んだら文帝の側に安置して欲しいと天子に願い、朝議の場を後にする。小沅と侯吉の婚礼を執り行った翌朝、司馬懿は最後の連れとなった亀の心猿意馬を逃がしてやることにする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第１話・俺にちょうだい、鈴木のハジメテ]</title>
     <id>https://tver.jp/episodes/epunpdgnhg</id>
