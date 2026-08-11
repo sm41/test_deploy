@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-12T00:05:14+09:00</updated>
+  <updated>2026-08-12T02:05:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>幸せになりたいマサムネ君_[#6「溶けていくアイスクリーム。」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/epzgem0u4k</id>
+    <updated>2026-08-12T01:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epzgem0u4k" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnlcbg3no.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 幸せになりたいマサムネ君
+                &lt;a href="https://tver.jp/series/srnlcbg3no" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月12日(水)01時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月19日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzgem0u4k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                マサムネ（中沢元紀）が部屋にこもってひたすら小説の執筆に没頭している一方、モモカ（秋田汐梨）は職場で黒田（八村倫太郎）から「彼氏はいつまで経ってもプロポーズしてこない」と核心を突かれ、心を揺さぶられていた。同じ頃、寂しさをこじらせたマサムネの浮気相手（齊藤なぎさ）は居酒屋で友人伝いで知り合った男性と口論になり、気づけば勢いでラブホテルへ行ってしまう。後日、職場へモモカを迎えに行った先で彼女が黒田と高級レストランに入る姿を目撃し、絶望から当てつけのように浮気相手を焼肉に誘って部屋へ連れ込んだマサムネ。溶けてゆくアイスクリームのように虚しく切ない夜が更けてゆく――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>コントラスト_[Episode7 牽制]</title>
+    <id>https://tver.jp/episodes/epc4sjxxne</id>
+    <updated>2026-08-12T01:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epc4sjxxne" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7l7w98f4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ コントラスト
+                &lt;a href="https://tver.jp/series/sr7l7w98f4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月12日(水)01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月19日(水)00時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc4sjxxne.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                互いへの想いを吐露し合った後も不器用にしか振舞えない翔太（井内悠陽）と陽（阿久根温世）。ある日突然学校の踊り場へ続く階段が封鎖され、二人は会えない時間を持て余していた。久しぶりに神田（井上想良）に会った陽はお互いを逃げ道にしていた関係に完全に区切りをつける。そして、ジュン（HAYATO）に背中を押された翔太は特進クラスに乗りこむと、陽の手を取り人気のない美術準備室へと連れ出して―。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>DREAM STAGE_[第８話 暴かれた過去が仲間を壊す…愛ゆえの別れ]</title>
     <id>https://tver.jp/episodes/ep2j0j5etl</id>
