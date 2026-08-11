@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-11T16:05:11+09:00</updated>
+  <updated>2026-08-11T18:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>甘い秘密（放送版）_[第40話]</title>
+    <id>https://tver.jp/episodes/eph9h8lse8</id>
+    <updated>2026-08-11T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eph9h8lse8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 甘い秘密（放送版）
+                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月11日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月11日(木)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph9h8lse8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                アルムはミョンファの治療のため、ソンウンの車で一緒に病院へ。治療の様子を見ていたアルムは、症状がどんどん悪化し娘である自分のことさえ忘れてしまったような言動をする母の姿を見て泣き崩れる。一方、再起を図ろうとするも取引先から契約を打ち切られたフィリップは、クレジットカードまで停止になり大ピンチに。そんな中、何もかも失い落ちぶれたフィリップに1本の電話が入る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>三国志～司馬懿 軍師連盟～_[第８６話（最終話）最後の決別]</title>
     <id>https://tver.jp/episodes/ep4i6pa5uz</id>
