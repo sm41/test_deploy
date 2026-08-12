@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-12T10:05:11+09:00</updated>
+  <updated>2026-08-12T12:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>鉄の王　キム・スロ_[第6話]</title>
+    <id>https://tver.jp/episodes/epxflcmln5</id>
+    <updated>2026-08-12T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxflcmln5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月12日(水)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月19日(水)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月12日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxflcmln5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                チョバンは刺客に暗殺され息を引き取る前に、スロが実の息子ではないこと、スロが持っていた青銅の首飾りのありかを教える。&lt;br&gt;負傷したドチは、イビガとチョンギョンにイジンアシが襲われたことを知らせる。イジンアシとアヒョはフクピョらと激しい戦いを繰り広げるが、崖から転落してしまうのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スピナーベイト_[第7話 裏]</title>
     <id>https://tver.jp/episodes/epqy5x274o</id>
@@ -765,72 +798,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 弁護士事務所からの帰りに偶然フィリップに会ったアルム。ティファニーを見たいと言うフィリップと一緒に家に戻るが、ちょうどパンソクに呼び出されてハン家を訪れていたソンウンと鉢合わせしてしまう。険しい表情を浮かべるパンソクやソンウンとは対照的に、何も分からないミョンファ。お気に入りのフィリップの姿を見るなり、喜んで駆け寄っていくのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>三国志～司馬懿 軍師連盟～_[第８５話　男たちの涙]</title>
-    <id>https://tver.jp/episodes/ep5s90u4h5</id>
-    <updated>2026-08-10T13:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5s90u4h5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrxzse4af.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 三国志～司馬懿 軍師連盟～
-                &lt;a href="https://tver.jp/series/srrxzse4af" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月10日(月)13時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月17日(月)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月10日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5s90u4h5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                柏霊筠が亡くなり、司馬孚も司馬懿の元を去った。寂しくなった司馬家だが、侯吉（こうきつ）が小沅（しょうげん）と結婚したいと申し出て、司馬懿はその仲を取り持つことに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>戦神~MARS~_[第13話　動機のない殺意]</title>
-    <id>https://tver.jp/episodes/epodg427s5</id>
-    <updated>2026-08-10T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epodg427s5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 戦神~MARS~
-                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月10日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年02月10日(水)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月10日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epodg427s5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                麻生キラに「零とは似ていない」と言い切られた桐島牧生は、地下鉄のエスカレーターで傷害事件を起こす。退学となり心理療育センターへ戻った牧生を知り、樫野零は自分との共通点に戸惑う。零は幼い頃、人を殺そうとした過去をキラに打ち明け、自分も牧生と同じ何かが欠けているのではないかと苦悩する。キラはそんな零を必死に慰めるが…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
