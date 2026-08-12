@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-12T02:05:17+09:00</updated>
+  <updated>2026-08-12T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スピナーベイト_[第7話 裏]</title>
+    <id>https://tver.jp/episodes/epqy5x274o</id>
+    <updated>2026-08-12T02:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqy5x274o" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月12日(水)02時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月19日(水)02時25分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月11日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqy5x274o.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ハルオに追われる三井は、英二に電話をかけ、亀貝の指示で阿口川までハルオをおびき寄せることに。ハルオを捕える千載一遇の好機を前に、アリーと英二を先に阿口川へ向かわせた亀貝も、事務所を訪れていた吉見と共に後を追う。一方、覆面の下の素顔を三井に見られた内は、自問自答を繰り返しながらも、更なる決意を固める…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>幸せになりたいマサムネ君_[#6「溶けていくアイスクリーム。」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/epzgem0u4k</id>
@@ -798,39 +831,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 麻生キラに「零とは似ていない」と言い切られた桐島牧生は、地下鉄のエスカレーターで傷害事件を起こす。退学となり心理療育センターへ戻った牧生を知り、樫野零は自分との共通点に戸惑う。零は幼い頃、人を殺そうとした過去をキラに打ち明け、自分も牧生と同じ何かが欠けているのではないかと苦悩する。キラはそんな零を必死に慰めるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>華麗なるスパイス_[第11話 消えない痛み]</title>
-    <id>https://tver.jp/episodes/eplupisk9g</id>
-    <updated>2026-08-10T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eplupisk9g" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月10日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月17日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月9日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplupisk9g.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                亡き妹の好物だった「ホワイトカレー」の注文が入り、動揺から思うように腕を振るえない廷恩(ティンエン)。彼の心に刻まれた深い悲しみを知った芬青(フェンチン)は、いつになく彼を心配する。そんな折、偶然川辺で再会した二人は、一夜のキャンプを共にすることに。大自然の中で語られる孤独な過去と、寄り添う二人の距離はかつてないほど近づいていく。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
