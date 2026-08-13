@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-13T20:05:23+09:00</updated>
+  <updated>2026-08-13T22:05:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[第4話 謎の暗号を解読せよ！]</title>
+    <id>https://tver.jp/episodes/epz81irq7n</id>
+    <updated>2026-08-13T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epz81irq7n" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月13日(木)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月20日(木)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月13日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz81irq7n.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                人気韓国アイドルのパスポート盗難事件!? 真相のカギを握るのは…？&lt;br&gt;&lt;br&gt;コンサートで来日した人気韓国アイドルグループ・Hi-Fi Un!cornの入国手続きを担うことになった税関職員・森万智（趣里）たち《GATE24》。&lt;br&gt;そこで万智は、かつての恩師で現在はグループのマネージャーを務める結城理子（笛木優子）に再会する。&lt;br&gt;喜びもつかの間、メンバーのヒョンユル（キム・ヒョンユル）がパスポートを紛失し、何者かに盗まれた疑惑が浮上。&lt;br&gt;このままでは入国できず、コンサートへの出演が危ぶまれる事態に。&lt;br&gt;&lt;br&gt;そんな中、同じ便の一般乗客の審査を進めていたところ、&lt;br&gt;GATE24のメンバーは審査に引っかかった2人の乗客に疑惑の目を向ける。&lt;br&gt;そこへ健忘症を発症した老人が現れ、彼の衣服から火薬の反応が出たうえ、&lt;br&gt;コンサート会場の見取り図を所持していて…！&lt;br&gt;実は1年前のコンサートの際に、会場に火をつけるという脅迫状が届いていたことが判明し…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season9_[第1話 神奈川県川崎市宮前平のひれかつ御膳と魚介クリームコロッケ]</title>
     <id>https://tver.jp/episodes/epb25y1a4w</id>
