@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-14T10:05:11+09:00</updated>
+  <updated>2026-08-14T12:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>鉄の王　キム・スロ_[第8話]</title>
+    <id>https://tver.jp/episodes/epxaoxz3gl</id>
+    <updated>2026-08-14T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxaoxz3gl" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月14日(金)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月21日(金)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月14日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxaoxz3gl.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                スロのアジトを急襲したイジンアシは黄漆液を捜し出しスロを捕らえる。天君団は黄漆液を盗んだ真犯人を捜し出しスロの無実を証明し、イジンアシは民衆の前でひざまずき自分の過ちを認める。&lt;br&gt;神託に書かれた文章を見たチョンギョンは、イジンアシが狗那（クヤ）国の王になることを確信し、ファンオクとイジンアシの婚姻を急ごうとする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>AI EYES -AIクリエイティブの現在地-_[奈落 -The Abyss, Nameless-  AI EYES MV Ver.]</title>
     <id>https://tver.jp/episodes/epw4nbfitb</id>
