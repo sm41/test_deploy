@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-15T20:05:11+09:00</updated>
+  <updated>2026-08-15T22:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ドラマ「永久少年 Eternal Boys」_[第7話「どっちも大事じゃいけないの？」]</title>
+    <id>https://tver.jp/episodes/ephm4yaeve</id>
+    <updated>2026-08-15T21:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephm4yaeve" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnrk0olc3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ「永久少年 Eternal Boys」
+                &lt;a href="https://tver.jp/series/srnrk0olc3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月15日(土)21時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月22日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月15日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephm4yaeve.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                初ライブの会場を下見する永久少年。同じく下見に来ていた、人気急上昇中のグループ、ストーリーオブラブに「父親くらいの年代」とバカにされ、気を悪くする。が、元Jリーガーの浅井（反橋宗一郎）だけはうわの空。別居中の妻子を、初ライブに招待したいと考えていたのだ。メンバーは驚き、頭を抱える。おっさんアイドルとはいえ、妻子の存在はスキャンダルのネタになる。永久少年は皆でこの秘密を守ると決めるのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>たかほー日和。Season２ ～鷹とごはんと明日の私～_[第1話「休むって大事？」]</title>
     <id>https://tver.jp/episodes/epnxy1j5ma</id>
