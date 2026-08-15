@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-15T10:05:13+09:00</updated>
+  <updated>2026-08-15T12:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>たかほー日和。Season２ ～鷹とごはんと明日の私～_[第1話「休むって大事？」]</title>
+    <id>https://tver.jp/episodes/epnxy1j5ma</id>
+    <updated>2026-08-15T10:58:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epnxy1j5ma" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvjcioer9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ たかほー日和。Season２ ～鷹とごはんと明日の私～
+                &lt;a href="https://tver.jp/series/srvjcioer9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月15日(土)10時58分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月28日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月15日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : FBS福岡放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnxy1j5ma.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                東京でカメラマンとして働いていた高村ゆうか（生田衣梨奈）は、ある出来事をきっかけに故郷・福岡へ。姉・みなみ（坂口理子）との日常や福岡ごはんに触れたゆうかの心に、少しずつ変化が･･･。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>席替えしたら、どうやら後ろの男が俺のこと好きらしい_[第2話 君を知りたい]</title>
     <id>https://tver.jp/episodes/epfgy8qx50</id>
@@ -963,39 +996,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 時が近づいたと思ったチョンギョンはイジンアシを王候補としてみなに認めさせようとし始める。それに危機を感じたテガンは鉄鉱石の供給をストップさせ、イビガに圧力をかける。悩んだイビガは、チョンギョンが産んだ神託を受けた子供はキム・スロであることを告白するが、偶然にもヘレがその話を耳にする。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>愛される花_[第9話 何度でも]</title>
-    <id>https://tver.jp/episodes/ep6db4h3hy</id>
-    <updated>2026-08-13T08:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep6db4h3hy" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 愛される花
-                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月13日(木)08時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月13日(日)08時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月12日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6db4h3hy.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                章粤（ジャン・ユエ）に気に入られた居安（ジューアン）は自宅に招かれ、特別な距離の近さを感じる。彼女は程錚（チョン・ジョン）の親族であり、韻錦（ユンジン）との関係も承知の上だった。一方、帰省中の韻錦とやり直そうとする程錚だが、すれ違いは深まるばかり。何度も突き放され、想いは届くのか―。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
