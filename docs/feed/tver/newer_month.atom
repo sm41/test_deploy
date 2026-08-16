@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-16T18:05:11+09:00</updated>
+  <updated>2026-08-16T20:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season2_[第5話 神奈川県横浜市白楽の豚肉と玉ねぎのニンニク焼き]</title>
+    <id>https://tver.jp/episodes/epzpck8efi</id>
+    <updated>2026-08-16T18:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epzpck8efi" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season2
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月16日(日)18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月16日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzpck8efi.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                神奈川大学教授（入江雅人）を商用で訪ねた五郎は、キャンパスで学生気分にふと酔うも、歴史ある街、六角橋の商店街を歩いてみることに。ふとレトロな雰囲気の喫茶店に入ると、作家風の怪しげな老男性（斉木しげる）が五郎に声をかけてきた……。　［期間限定無料配信］　テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&lt;br&gt;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第13話「白銀の決闘！スキー場は大パニック」]</title>
     <id>https://tver.jp/episodes/epwzwu4abh</id>
