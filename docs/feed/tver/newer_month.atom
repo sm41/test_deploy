@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-17T00:05:10+09:00</updated>
+  <updated>2026-08-17T02:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>キスは捜査のあとで_[#4　期待させるだけは残酷]</title>
+    <id>https://tver.jp/episodes/ep30hcy3ms</id>
+    <updated>2026-08-17T01:10:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep30hcy3ms" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ キスは捜査のあとで
+                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月17日(月)01時10分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月24日(月)00時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月16日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep30hcy3ms.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;多古井は塩野に好意があることを認めつつも、戸惑いを隠せない。&lt;br&gt;そんな中、２人は合同捜査を行うことに。父が逮捕されたヒカリを励まし希望を持たせたい多古井。一方、「期待させる方が残酷」と考える塩野。２人の思いがすれ違う中、ヒカリの父が罪を犯した決定的な証拠が見つかり、落ち込むヒカリ。「多古井さんの優しさが、ヒカリちゃんを傷つけたんです」塩野の言葉に胸をえぐられる多古井。多古井と塩野の間に生じた亀裂の行方はー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一次元の挿し木_[第７話【義妹の生死と行方】]</title>
     <id>https://tver.jp/episodes/epjosmmhnt</id>
