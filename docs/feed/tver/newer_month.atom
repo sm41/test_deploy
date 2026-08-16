@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-16T02:05:11+09:00</updated>
+  <updated>2026-08-16T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>こんなところで裏切り飯～嵐を呼ぶ七人の役員～_[第７話「元町中華街で沖縄料理」]</title>
+    <id>https://tver.jp/episodes/epulr5pmzo</id>
+    <updated>2026-08-16T02:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epulr5pmzo" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srri2800z7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ こんなところで裏切り飯～嵐を呼ぶ七人の役員～
+                &lt;a href="https://tver.jp/series/srri2800z7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月16日(日)02時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月23日(日)02時03分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月15日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epulr5pmzo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                Huluでは全話配信中！&lt;br&gt;&lt;第７話&gt;&lt;br&gt;小野寺真理子（志田彩良）と榊原総一朗（伊武雅刀）社長は、調理部担当役員・飯塚小百合（磯野貴理子）が仕切る試食会へ。新メニューを食べた榊原は違和感を覚え、新庄凛太郎（前田拳太郎）に調理部の調査を一任！調査報告を受けた榊原はなぜか、飯塚を横浜の元町・中華街にある「沖縄料理」の店へ連れて行き…榊原の“裏切り飯”とは？&lt;br&gt;&lt;br&gt;◆中京テレビにて、毎週土曜25時59分より再放送中&lt;br&gt;※都合により時間変更の場合があります
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>＆Hulu_[夏の暑さを吹き飛ばす！スカッとするアクション作品特集]</title>
+    <id>https://tver.jp/episodes/epgcyb8oir</id>
+    <updated>2026-08-16T02:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgcyb8oir" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月16日(日)02時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月29日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月15日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgcyb8oir.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                夏の暑さを吹き飛ばす、スカッと爽快なアクション作品を特集！「ジョン・ウィック」「Hawaii Five-0」など、手に汗握るスリル満点の映画やドラマをご紹介！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>Your Sky ハレのち恋_[第３話　初デート]</title>
     <id>https://tver.jp/episodes/epno8lryzb</id>
@@ -1029,72 +1095,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 主婦・花恵（中村ゆりか）は夫の弘樹（佐野玲於）とのセックスレスに悩んでいたところ、弘樹から「公認不倫」を提案される。しかし弘樹の提案通りに「公認不倫」をやってみても花恵が感じたのは虚しさだけだった。その気持ちを弘樹に話すが、仕事と育児に専念したい弘樹は、女性としても接してもらいたい花恵の気持ちに寄り添ってくれず、自分の主張を展開するだけ…。&lt;br&gt;そして花恵は娘の春奈（希歩）を連れて実家に帰ることに。弘樹はそれに何かを察する様子はなく、「ゆっくりしてきたらいいよ」と言い出す始末。花恵は実家に向かいながら、これまで家庭円満のためにしてきた「公認不倫」はただ自分の価値観を殺しただけだったと振り返る。&lt;br&gt;実家に帰った花恵はふとした会話から母（山野海）に「弘樹は稼ぎも良くて春奈にも優しい良い夫、十分恵まれている」と言われて考えてしまう。そんな花恵を心配した涼平（葉山奨之）が駆けつけてくれて花恵の想いを聞いてくれている一方、弘樹は部下の陽菜（横野すみれ）と会っていたのだった…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第7話「揺れる希望の中で」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epyjezozf7</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epyjezozf7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月14日(金)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月27日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月29日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyjezozf7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                年明けに行われる花火大会に行くことをかける（藤原大祐）と約束した小春（永瀬莉子）は、懸命なリハビリを続ける。一方でかけるは、回復が難しい状況にある小春の背中を押すことが無責任なことなのではないかと悩んでいた。そんな中、病院で小春の担当医である三浦（染谷俊之）から声をかけられたかけるは、三浦に自分の迷いを打ち明ける。かけるは、三浦の言葉を受け、小春の傍に寄り添い続けることを決意する。&lt;br&gt;一方、花火大会に向けて前向きにリハビリを頑張っている小春だったが胸の奥には不安や諦めの気持ちも芽生え始めており、ある夜、優子（河村花）に弱音を吐いてしまう……。&lt;br&gt;花火大会に向けて、それぞれの想いを旨に支え合う、小春とかける、鳴海（曽野舜太）、優子。希望は確かに近づいているように見えたが……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第8話「大切な宝物」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epsx3i55fd</id>
-    <updated>2026-08-14T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epsx3i55fd" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnxw3ya4f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 透明な夜に駆ける君と、目に見えない恋をした。
-                &lt;a href="https://tver.jp/series/srnxw3ya4f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月14日(金)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月27日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsx3i55fd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ようやく迎えた花火大会当日、突然体調が急変し、倒れてしまった小春（永瀬莉子）は、幸いにも意識を取り戻す。ここまで花火大会のために必死にリハビリに励んできたのに、花火大会に行けず落胆する小春に対し、かける（藤原大祐）は鳴海（曽野舜太）と優子（河村花）の協力のもと、病室で“ある計画”を実行する。それは奇跡のような時間で。病室で小春は、これまで言っていなかった花火が好きなもう一つの理由を、初めてかけるに告げる。それを聞いたかけるは……。&lt;br&gt;見えなくなっても、忘れてしまっても、確かに残るものがあると信じた二人の恋。&lt;br&gt;小春とかけるは、その想いを胸に、これからどのような道を歩んでいくのか――。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
