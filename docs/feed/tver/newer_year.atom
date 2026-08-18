@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-18T18:05:12+09:00</updated>
+  <updated>2026-08-18T20:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>真夏のシンデレラ_[第9話 恋も夏もクライマックスへ！！]</title>
+    <id>https://tver.jp/episodes/eppt3gjhnc</id>
+    <updated>2026-08-18T19:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eppt3gjhnc" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr87qxpkf3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 真夏のシンデレラ
+                &lt;a href="https://tver.jp/series/sr87qxpkf3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月18日(火)19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月25日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppt3gjhnc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【#4以降 3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：7月18日（土）～8月31日（月）&lt;br&gt;#2：7月25日（土）～8月31日（月）&lt;br&gt;#3：8月1日（土）～8月31日（月）&lt;br&gt;#4：8月3日（月）～8月10日（月）&lt;br&gt;#5：8月6日（木）～8月13日（木）&lt;br&gt;#6：8月9日（日）～8月16日（日）&lt;br&gt;#7：8月12日（水）～8月19日（水）&lt;br&gt;#8：8月15日（土）～8月22日（土）&lt;br&gt;#9：8月18日（火）～8月25日（火）&lt;br&gt;#10：8月21日（金）～8月28日（金）&lt;br&gt;#11：8月24日（月）～8月31日（月）&lt;br&gt;&lt;br&gt;夏の間、働き詰めだった夏海（森七菜）は、父・亮（山口智充）のはからいで遅い夏休みをもらう。だが、いざ休みをもらっても、何をすればいいのかすらわからない夏海。それを知った匠（神尾楓珠）は、好きに過ごせばいいと助言する。その際、夏海は、最近気に入っているアーティストのライブがあることを知る。しかしチケットはすでに売り切れだった。&lt;br&gt;健人（間宮祥太朗）は、同僚の皐月（山崎紘菜）から、休日は何をしているのかと尋ねられる。「読書したり、散歩したりかな」と返す健人に、皐月は、「夏海ちゃんと出かければいいのに」と告げ……。&lt;br&gt;愛梨（吉川愛）は、修（萩原利久）と交際を始めたものの、彼が毎晩電話してくることに少しだけ困惑していた。今までの彼氏と真逆のパターンだ、と夏海にこぼす愛梨。一方、守（白濱亜嵐）もそんな修の行動を気にして、「愛梨ちゃんも同じ考えとは限らない」と助言する。しかし修は、「守に言われた通り、自分の気持ちを正直に伝えるという基本ルールは守っているから大丈夫」と反論する。&lt;br&gt;そんな折、『Kohola』にやってきた匠は、スマートフォンで夏海が行きたがっていたライブのことを調べていた。事情を知った海斗（大西利空）は、健人に聞いてみたらどうかとアドバイスする。海斗から健人の連絡先を教えてもらった匠は、健人に電話するが……。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『真夏のシンデレラ』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>オーバー30_[第2話]</title>
     <id>https://tver.jp/episodes/epxa0ypfyy</id>
@@ -1194,105 +1227,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 高校時代にタイムスリップした大ヒット漫画家・晴田真帆（吉田美月喜）。&lt;br&gt;漫画部の先輩・雪嶋（藤原樹）の漫画家デビューに協力するために動くが、タイムスリップ前の記憶よりも早く先輩が倒れてしまい……。&lt;br&gt;真帆は謎を解くために時系を整理していると、突然また2015年９月１日に戻ってしまう。&lt;br&gt;２回目のタイムスリップでは今までの失敗を先回りして解決していくが、そんな真帆の姿を見ていた生徒会の嵐（大倉空人）は不審に思い──。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>愛人転生 ―サレ妻は死んだ後に復讐する―_[第3話《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epbv6vqy19</id>
-    <updated>2026-08-17T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbv6vqy19" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgbr3knff.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 愛人転生 ―サレ妻は死んだ後に復讐する―
-                &lt;a href="https://tver.jp/series/srgbr3knff" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月17日(月)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月31日(月)05時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbv6vqy19.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                マヤマフーズの重要取引先である四菱との取引が失われ、悠太（千賀健永）は途方に暮れていたが、社長である父・新造（飯田基祐）がうまく事態を収めてくれたことで、ますます調子に乗る悠太。一方、上手く悠太を嵌められたと思い込み上機嫌の瑠奈（香音）の元へ、千里の大学の同級生で、広告代理店勤務の井上宗二郎（佐藤大樹）から連絡が。CM撮影があることを知らされ、慌てて現場へ向かう瑠奈。一方の宗二郎は瑠奈のとある仕草を見て、ふと大学の同級生である千里のことを思い出すー。撮影の帰り道、宗二郎のことを考える瑠奈のもとへ、悠太からのメッセージがきて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>俺たちはあぶなくない ～クールにさぼる刑事たち_[第３話「捜査よりも危険なキャンプ!?あぶないグランピング！」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/ep6b921qnl</id>
-    <updated>2026-08-17T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep6b921qnl" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru61mpe5z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 俺たちはあぶなくない ～クールにさぼる刑事たち
-                &lt;a href="https://tver.jp/series/sru61mpe5z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月17日(月)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月31日(月)05時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6b921qnl.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                麻布中央署は、長州一家と若松組の対立抗争事件を追っていた。月賀梨男（矢野聖人）と伊喜利辰巳（猪野広樹）は、事件の犯人と思われる平野修一（永岡佑）に連日取り調べをするも、物証がなく苦戦していた。高野心（鈴木伸之）と世中渡（佐野勇斗）はというと、平野を犯人と決定づける証拠探しを兼ねて、山でクールにキャンプを楽しんでいた！釣った魚で優雅にバーベキューをしていると、一人の寂しげな男（内村遥）と出会う。具材が入った鍋を落とし、落胆した男に２人は共に食事しないか提案。バーベキューを楽しんでいると、世中と高野はある違和感を抱き、宇和佐好江（三吉彩花）にリサーチを依頼。そこでとんでもない事実を知ってしまい……!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>佐原先生と土岐くん_[第３話《ドラマシャワー》]</title>
-    <id>https://tver.jp/episodes/ep2yges36i</id>
-    <updated>2026-08-17T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2yges36i" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmoy2dks.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 佐原先生と土岐くん
-                &lt;a href="https://tver.jp/series/srxmoy2dks" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月17日(月)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月31日(月)05時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2yges36i.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                清笠高校は文化祭の季節。2年C組では男子生徒全員で「白雪姫」の公演を行うことが決定した。土岐奏（八村倫太郎）が引き当てた役はなんと主役の白雪姫。しかも、台本には相手役とのキスシーンが含まれているという。土岐は嫌々ながらも役に挑む覚悟を決め当日の本番を迎えるが、舞台裏では予期せぬトラブルが発生！土岐の相手役のクラスメイトの体調が悪化し、急遽代役が必要になってしまう。そして代役として選ばれたのは、まさかの佐原一狼（岐洲匠）で……!?
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
