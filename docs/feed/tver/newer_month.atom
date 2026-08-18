@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-18T16:05:14+09:00</updated>
+  <updated>2026-08-18T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第2夜 ラーメン屋でサク飲み]</title>
+    <id>https://tver.jp/episodes/epmybv0wqs</id>
+    <updated>2026-08-18T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epmybv0wqs" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月18日(火)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月01日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月18日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmybv0wqs.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ラーメン屋でのサク飲み話で盛り上がる男性陣の会話を漏れ聞いたワカコ（武田梨奈）は、行ってみることに。早速、良さそうなお店を発見し入ってみる。隣の客のラーメンの上にのった角煮に目を止めたワカコは、青島ビールとともにいただく。お次はニラの水餃子と紹興酒。日付変わって今度はラーメンは何味かで盛り上がるオフィス。頭からラーメンが離れなくなったワカコはまたしてもラーメン屋に。そこはトキワ荘ゆかりの地だった。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>甘い秘密（放送版）_[第45話]</title>
+    <id>https://tver.jp/episodes/ep6nrs7ss9</id>
+    <updated>2026-08-18T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6nrs7ss9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 甘い秘密（放送版）
+                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月18日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月18日(木)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月18日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6nrs7ss9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                子どもを諦めろと言うドヒョンにアルムはひざまずいて懇願するが、怒りが治まらないドヒョンはソンウンに怒鳴り散らす。一方、ティファニーがいなくなった件についてパンソクとジヌが話すのを聞いたミョンファは、自分のせいだったと知りショックを受ける。そんな中、アルムとソンウンがティファニーを連れて幸せそうに歩いているのを偶然見かけたドヒョンのもとにフィリップから電話が入る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第10話]</title>
     <id>https://tver.jp/episodes/ep2trx6ov2</id>
@@ -534,39 +600,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 スロとアヒョの愛が深まる一方、母からの命令でファンオクに求愛したイジンアシは拒絶されてしまう。イジンアシはさらにスロとアヒョの仲を知り、激しく嫉妬する。タレはヘレを拉致して神託のお告げの主は誰か聞くが、ヘレは口を割らない。養母からチョバンの形見の鎚（つち）を渡されたスロは荒れた生活から抜け出す決意を固める。狗耶（クヤ）国では3年ぶりに鍛冶技術の競技大会が行われることになった。イジンアシの優勝が予想される中、彼に対決を申し出たスロも剣作りに渾身の力を傾ける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>キスは捜査のあとで_[#4　期待させるだけは残酷]</title>
-    <id>https://tver.jp/episodes/ep30hcy3ms</id>
-    <updated>2026-08-17T01:10:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep30hcy3ms" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ キスは捜査のあとで
-                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月17日(月)01時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月24日(月)00時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月16日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep30hcy3ms.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;多古井は塩野に好意があることを認めつつも、戸惑いを隠せない。&lt;br&gt;そんな中、２人は合同捜査を行うことに。父が逮捕されたヒカリを励まし希望を持たせたい多古井。一方、「期待させる方が残酷」と考える塩野。２人の思いがすれ違う中、ヒカリの父が罪を犯した決定的な証拠が見つかり、落ち込むヒカリ。「多古井さんの優しさが、ヒカリちゃんを傷つけたんです」塩野の言葉に胸をえぐられる多古井。多古井と塩野の間に生じた亀裂の行方はー。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
