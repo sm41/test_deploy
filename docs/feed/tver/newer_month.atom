@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-19T18:05:13+09:00</updated>
+  <updated>2026-08-19T20:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season9_[第4話 東京都府中市新町の鰻の蒲焼チャーハンとカキとニラの辛し炒め]</title>
+    <id>https://tver.jp/episodes/epaepc6hxx</id>
+    <updated>2026-08-19T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epaepc6hxx" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season9
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月19日(水)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月02日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月19日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaepc6hxx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仕事で国分寺駅を訪れる井之頭五郎（松重豊）。商談先のカフェについた五郎は、取引相手の小谷武雄と話を始める。小谷は開始早々、「これにします」と、まさかの即決。決断の早さに五郎は、思わず関心する。しかし、話を進めるうちに、小谷は他のデザインに目移りし、最終的には持ち越しになり、まさかの長期戦となってしまった。長い商談を終え、カフェを後にした五郎はすっかり空腹に。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>甘い秘密（放送版）_[第46話]</title>
     <id>https://tver.jp/episodes/ep64md7yvm</id>
