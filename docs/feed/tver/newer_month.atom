@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-19T14:05:10+09:00</updated>
+  <updated>2026-08-19T16:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>一筆お祓いいたします_[第3話 お前が好き]</title>
+    <id>https://tver.jp/episodes/epkn8onxa4</id>
+    <updated>2026-08-19T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epkn8onxa4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月19日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月04日(金)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月19日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkn8onxa4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                バケモノが乗り移った体の持ち主、鄭立松(ジョン・リーソン)の事故には不明瞭な点があった。楮英(チューイン)は事故の原因を探ろうと、捜査を続ける。一方、一永(イーヨン)の家に隠れていたバケモノが突然姿を消す。一永と楮英は、立松が暮らしていたマンションの駐輪場でバケモノを見つけるが、ある異変が生じていることに気付く。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第11話]</title>
     <id>https://tver.jp/episodes/ep017iqt6g</id>
@@ -435,72 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 繁忙期で奥海と会えない藍之助は、大翔から好意を匂わされ戸惑う。奥海に似た雰囲気を感じながらも、惹かれているわけじゃない——のに、気づいたら涙が溢れていた。一方の奥海は、再検査の通知を受けながら藍之助を心配させまいと黙っていた。泣く藍之助に大翔が「俺なら泣かせない」と寄り添って——。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>35歳、今さら恋とかありえない_[#7 私らしく生きる]</title>
-    <id>https://tver.jp/episodes/eplrb56uf0</id>
-    <updated>2026-08-18T01:20:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eplrb56uf0" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr9ivzxgq.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 35歳、今さら恋とかありえない
-                &lt;a href="https://tver.jp/series/srr9ivzxgq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月18日(火)01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月25日(火)01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月17日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplrb56uf0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                答えが出せないまま、親友・律子が転がり込んでくる。「マリちゃんはマリちゃんだよ」——単純なその言葉が、ずっと絡まっていた何かをほどいた。茉莉子は森原について京都へ行くことを決めた。荷物を減らして、慣れた街を離れて、一軒家の玄関を開けると——見知らぬ男がいた。新しい暮らしは、思い描いていたものとは少し違う形で、静かに幕を開けた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[7話 第2章開幕！進み始める新たな人生！]</title>
-    <id>https://tver.jp/episodes/epv5e1rf5q</id>
-    <updated>2026-08-18T00:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epv5e1rf5q" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sratud77ep.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ もう1度夫婦になりますか？～カモフラージュ夫婦～
-                &lt;a href="https://tver.jp/series/sratud77ep" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月18日(火)00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月17日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv5e1rf5q.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                愛子(森迫永依)は、元夫・笹嶋誠一(前田公輝)に妊娠していることを隠したまま離婚。一人で育てる覚悟を決めた愛子のもとに誠一の母・明子(高島礼子)が突然職場に訪ねて来る。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
