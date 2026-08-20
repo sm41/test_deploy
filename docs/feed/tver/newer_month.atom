@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-20T02:05:13+09:00</updated>
+  <updated>2026-08-20T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>愛される花_[第10話 恋も病]</title>
+    <id>https://tver.jp/episodes/epzn0ymkqw</id>
+    <updated>2026-08-20T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epzn0ymkqw" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月20日(木)08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月20日(日)08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月19日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzn0ymkqw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                インフルエンザが流行し、医学生の郁華（ユーホア）は韻錦（ユンジン）や子翼（ズーイー）を気遣い奔走する。韻錦の身を案じた程錚（チョン・ジョン）は、強引に自宅へ連れて行くが、今度は自らが発熱してしまう。看病に訪れた人物とは――。揺れる関係に思いがけない変化が訪れる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>君は夏のなか_[第8話 じれったい夏]</title>
     <id>https://tver.jp/episodes/eppoa3wog6</id>
