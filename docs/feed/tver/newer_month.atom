@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-20T16:05:10+09:00</updated>
+  <updated>2026-08-20T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>甘い秘密（放送版）_[第47話]</title>
+    <id>https://tver.jp/episodes/ep2dfqmqte</id>
+    <updated>2026-08-20T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep2dfqmqte" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 甘い秘密（放送版）
+                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月20日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月20日(土)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月20日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2dfqmqte.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ティファニーの異変に慌てたアルムはソンウンを呼んで一緒に病院へ。偶然 病院でソンウンたちを見かけたスジは、ティファニーが入院したことを知りフィリップに伝える。アルムと連絡が取れずに心配になったパンソクはアルムの部屋を訪れ、そこにいたソンウンからティファニーの入院について聞かさられる。スアはミン看護師に口止め料を請求されて断るが、後日、家にまで押しかけられ…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第12話]</title>
     <id>https://tver.jp/episodes/epa7hq75ag</id>
@@ -501,39 +534,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 イビガはスロを王に推戴する決心を固め、それを明らかにするため天神祭を開くとの告知を行う。それに感づいたテガンはその決断を阻止するべく兵を起こす。チョンギョンとイジンアシは対抗して戦うものの敗れ、イビガとともに捕まってしまった。狗耶（クヤ）国はテガンの支配下に置かれ、イビガ側のホ・ファンオクとその父親も危機に襲われるが、スロが助けて国外に逃がす手引きをする。一方、アヒョはアロからスロの暗殺を指示され衝撃を受ける。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>スピナーベイト_[第8話 痛覚]</title>
-    <id>https://tver.jp/episodes/ephxypzohk</id>
-    <updated>2026-08-19T02:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephxypzohk" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ スピナーベイト
-                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月19日(水)02時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月26日(水)02時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月18日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxypzohk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                亀貝の事務所に忍び込んだ三井と吉見は、タイトル欄が空欄のVHSが詰まった段ボールを発見。VHSの重さに違和感を覚えた吉見が床に叩きつけると、その中にはスピナーベイトのリストが隠されていた。大量のリストの中から、連続殺人事件の被害者2名のリストを捜す三井と吉見。そこへ戻ってきた亀貝とアリーは、微かに見える部屋の灯りに異変を察知し…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
