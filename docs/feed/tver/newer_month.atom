@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-20T20:05:10+09:00</updated>
+  <updated>2026-08-20T22:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[第5話 消えた荷物と殺人事件！]</title>
+    <id>https://tver.jp/episodes/ep11im86x3</id>
+    <updated>2026-08-20T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep11im86x3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月20日(木)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月27日(木)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月20日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep11im86x3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                来日した学生の殺害事件が発生！ 容疑者はGATE24のメンバー!?&lt;br&gt;&lt;br&gt;海外から来日した女子大学生・アミタが入国翌日に殺害される。&lt;br&gt;彼女のスマートフォンから税関職員・松山篤志（板垣李光人）の写真が見つかり松山は警察から疑いの目を向けられる。&lt;br&gt;さらに、空港近くのバス停で松山とアミタが親しげに話している姿が、防犯カメラに映っていて…！&lt;br&gt;&lt;br&gt;そんな中、税関職員・森万智（趣里）が確認した&lt;br&gt;アミタの入国審査時の映像をきっかけに、松山の不正疑惑が浮上。&lt;br&gt;そのうえ松山は最近、怪しげな男と金銭のやり取りをする場面も目撃されており、ますます疑惑が深まっていく。&lt;br&gt;&lt;br&gt;そこで、万智と入国審査官・早見圭一郎（眞栄田郷敦）は真相を確かめるため松山を尾行したところ、想定外の事態が発生し…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season9_[第5話 静岡県伊東市宇佐美の牛焼きしゃぶと豚焼きしゃぶ]</title>
     <id>https://tver.jp/episodes/ep11qt86nz</id>
