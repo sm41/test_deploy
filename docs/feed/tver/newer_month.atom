@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-21T02:05:10+09:00</updated>
+  <updated>2026-08-21T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>AI EYES -AIクリエイティブの現在地-_[EMERGENCE]</title>
+    <id>https://tver.jp/episodes/ep87zou1fg</id>
+    <updated>2026-08-21T03:35:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep87zou1fg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnk2nzbtk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ AI EYES -AIクリエイティブの現在地-
+                &lt;a href="https://tver.jp/series/srnk2nzbtk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月21日(金)03時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月20日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月20日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep87zou1fg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                まばゆいスポットライトを浴び、誰もが憧れる“完璧な歌姫”として輝くMIRA。しかしその心の奥では、周囲が求める「MIRA」という虚像と、本当の自分との間で葛藤を抱えていました。華やかで煌びやかなショービズの世界を舞台に、美しく着飾られた“甘美な地獄”から、自分自身の声を探そうともがく姿を描いたミュージックビデオです。誰かが望む自分か、自分が望む自分か。AIが映す、ひとりの人間の選択。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ちょっと待とうよ、春虎くん_[＃2「ちょっと反則だよ、春虎くん。」《ドラマフィル》]</title>
     <id>https://tver.jp/episodes/eps0qi1c0r</id>
