@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-21T10:05:11+09:00</updated>
+  <updated>2026-08-21T12:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>鉄の王　キム・スロ_[第13話]</title>
+    <id>https://tver.jp/episodes/epqfv562zz</id>
+    <updated>2026-08-21T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqfv562zz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月21日(金)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月28日(金)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月21日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqfv562zz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                脱出計画が失敗し、その罪で過酷な刑罰を受けていたスロは、ソンドの客人として来ていたホ・ファンオクに救われる。そこへスロを探してヌク島までやって来たアヒョが現れ、ついに再開を果たす。&lt;br&gt;スロはアヒョにソク・タレへの伝言を頼むも、スロが生きていることを知ったタレは、アヒョを脅迫してスロの居場所を聞き出そうとする。&lt;br&gt;一方、チャンソ村にとどまっていたチョンギョンとイジンアシは偶然、鉄鉱石を発見して鉄鉱石から鉄を作ることにし、狗耶（クヤ）国にいるイルソ鍛冶長を迎えに行くことにする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>AI EYES -AIクリエイティブの現在地-_[EMERGENCE]</title>
     <id>https://tver.jp/episodes/ep87zou1fg</id>
@@ -831,105 +864,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 イケメン研修医として注目を集める深堀健一（阿久津仁愛）のバイクが、何者かに放火される。伊垣（大森南朋）、名波（相葉雅紀）、遥（松下奈緒）らが捜査を進めると、現場から同姓同名・同い年の、もう一人の深堀健一（細川岳）が浮上！疑惑の証拠が次々と見つかるが、八重樫のトラウマを呼び起こす因縁の弁護士が捜査に立ちはだかる。そんな中、放火現場で不審な動きをしていた男が殺害される！2つの事件をつなぐ、思いもよらぬ真相とは？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>孤独のグルメ Season9_[第4話 東京都府中市新町の鰻の蒲焼チャーハンとカキとニラの辛し炒め]</title>
-    <id>https://tver.jp/episodes/epaepc6hxx</id>
-    <updated>2026-08-19T18:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epaepc6hxx" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 孤独のグルメ Season9
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月19日(水)18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月02日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月19日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaepc6hxx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                仕事で国分寺駅を訪れる井之頭五郎（松重豊）。商談先のカフェについた五郎は、取引相手の小谷武雄と話を始める。小谷は開始早々、「これにします」と、まさかの即決。決断の早さに五郎は、思わず関心する。しかし、話を進めるうちに、小谷は他のデザインに目移りし、最終的には持ち越しになり、まさかの長期戦となってしまった。長い商談を終え、カフェを後にした五郎はすっかり空腹に。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>甘い秘密（放送版）_[第46話]</title>
-    <id>https://tver.jp/episodes/ep64md7yvm</id>
-    <updated>2026-08-19T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep64md7yvm" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 甘い秘密（放送版）
-                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月19日(水)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年02月19日(金)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月19日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep64md7yvm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                フィリップはティファニーを取り戻すためにドヒョンを挑発する。その後、ドヒョンは自分の気持ちをはっきり伝えようとパンソクに会う。フィリップの父親の病状が悪化し、緊急入院することになった同じ頃、ティファニーも高熱を出す。病院へかけつけたアルムは、そこでフィリップと鉢合わせをしてしまう。ある日、美容院に行ったスアは偶然、ミン看護師と再会し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>一筆お祓いいたします_[第3話 お前が好き]</title>
-    <id>https://tver.jp/episodes/epkn8onxa4</id>
-    <updated>2026-08-19T15:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epkn8onxa4" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 一筆お祓いいたします
-                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月19日(水)15時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月04日(金)15時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月19日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkn8onxa4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                バケモノが乗り移った体の持ち主、鄭立松(ジョン・リーソン)の事故には不明瞭な点があった。楮英(チューイン)は事故の原因を探ろうと、捜査を続ける。一方、一永(イーヨン)の家に隠れていたバケモノが突然姿を消す。一永と楮英は、立松が暮らしていたマンションの駐輪場でバケモノを見つけるが、ある異変が生じていることに気付く。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
