@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mnemosynekoto</title>
   <id>https://pawchive.pw/</id>
-  <updated>2026-08-18T14:00:00+00:00</updated>
+  <updated>2026-08-21T12:00:00+00:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/pawchive/86508534_mnemosynekoto.atom" />
+  <entry>
+    <title>One Piece girls-Poll Winner + NSFW VERSION</title>
+    <id>https://pawchive.pw/patreon/user/86508534/post/167243595</id>
+    <updated>2026-08-20T22:55:34+00:00</updated>
+    <link href="https://pawchive.pw/patreon/user/86508534/post/167243595" />
+    <content type="html">&lt;img src=https://img.pawchive.pw/thumbnail/data/d4/0a/d40af5913b3236b8244692346634dc3dc58815ee6fe8ca87b0dc7e608f9a4608.png alt="image"&gt;</content>
+  </entry>
+  <entry>
+    <title>Yukari Takeba {persona 3} 115 images</title>
+    <id>https://pawchive.pw/patreon/user/86508534/post/167073469</id>
+    <updated>2026-08-19T03:41:32+00:00</updated>
+    <link href="https://pawchive.pw/patreon/user/86508534/post/167073469" />
+    <content type="html">&lt;img src=https://img.pawchive.pw/thumbnail/data/fc/4b/fc4babbb5523071c8d51e3c203841b9a6c77c0d265e0c05429add42e55104647.png alt="image"&gt;</content>
+  </entry>
   <entry>
     <title>Minthara {baldurs gate 3} 147 images</title>
     <id>https://pawchive.pw/patreon/user/86508534/post/166978327</id>
@@ -344,19 +358,5 @@
     <updated>2026-07-09T02:38:08+00:00</updated>
     <link href="https://pawchive.pw/patreon/user/86508534/post/163301116" />
     <content type="html">&lt;img src=https://img.pawchive.pw/thumbnail/data/f4/78/f478428529e599ff752c46c1dba6a871fc5c591dbeea1cbb3d23527b8c8136e1.png alt="image"&gt;&lt;img src=https://img.pawchive.pw/thumbnail/data/1c/31/1c317b5b588d8547d612a311e1bdaa0dfb60c6db6b127b33d4960de1c5cb4d2d.png alt="image"&gt;</content>
-  </entry>
-  <entry>
-    <title>ghislaine dedoldia {MUSHOKU TENSEI} 128 pgs</title>
-    <id>https://pawchive.pw/patreon/user/86508534/post/163270605</id>
-    <updated>2026-07-08T18:51:10+00:00</updated>
-    <link href="https://pawchive.pw/patreon/user/86508534/post/163270605" />
-    <content type="html">&lt;img src=https://img.pawchive.pw/thumbnail/data/f9/d6/f9d62e99bf9f4a4f6eb18fe52a736d482d976e02b07e9dae10b30d22284f470a.png alt="image"&gt;&lt;img src=https://img.pawchive.pw/thumbnail/data/af/47/af47ca3d1284428756ca78548ddcc9c7defbd3f384cd93a074f5b0ba35e03b6c.png alt="image"&gt;&lt;img src=https://img.pawchive.pw/thumbnail/data/5e/af/5eafe1cece03363ec2d45df1fd71e5f17743df46aa70a9eb0c8789743f31bacb.png alt="image"&gt;</content>
-  </entry>
-  <entry>
-    <title>Princess peach (beach edition)</title>
-    <id>https://pawchive.pw/patreon/user/86508534/post/163113528</id>
-    <updated>2026-07-07T02:55:13+00:00</updated>
-    <link href="https://pawchive.pw/patreon/user/86508534/post/163113528" />
-    <content type="html">&lt;img src=https://img.pawchive.pw/thumbnail/data/ab/3e/ab3e26ee2c09cc283acfcccab60210a3f9342c4dcd4fde1a7cb91daf16f893ca.png alt="image"&gt;&lt;img src=https://img.pawchive.pw/thumbnail/data/54/92/5492cad0f690d94160cfde8227e3b0c88520574b0ec53c39eb1692718178c294.png alt="image"&gt;&lt;img src=https://img.pawchive.pw/thumbnail/data/42/84/4284d5995843108dd19503369f5579b7bff55e806a3936c0e0e3d6c5a9f79d43.png alt="image"&gt;&lt;img src=https://img.pawchive.pw/thumbnail/data/84/cb/84cb9c6e24933f66915ed30d25ee16158df5dba638e1d25f6398eb03aa03fcb9.png alt="image"&gt;</content>
   </entry>
 </feed>
