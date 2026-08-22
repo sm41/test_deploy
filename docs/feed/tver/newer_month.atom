@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-22T12:05:10+09:00</updated>
+  <updated>2026-08-22T14:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>たかほー日和。Season２ ～鷹とごはんと明日の私～_[第2話「初勝利の重み」]</title>
+    <id>https://tver.jp/episodes/epmdbo84kc</id>
+    <updated>2026-08-22T13:58:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epmdbo84kc" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvjcioer9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ たかほー日和。Season２ ～鷹とごはんと明日の私～
+                &lt;a href="https://tver.jp/series/srvjcioer9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月22日(土)13時58分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月28日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月22日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : FBS福岡放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmdbo84kc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ランチの食べ歩きが日課となった高村ゆうか（生田衣梨奈）は、訪れた食堂で「初勝利」を祝う親子の会話を耳にする。その言葉が心に残り、ゆうか自身が胸にしまい込んでいた夢を見つめ直すことに…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>席替えしたら、どうやら後ろの男が俺のこと好きらしい_[第3話 俺は、間山だから好きになった]</title>
     <id>https://tver.jp/episodes/ept1fie3to</id>
