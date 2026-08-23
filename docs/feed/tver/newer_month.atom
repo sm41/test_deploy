@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-23T18:05:11+09:00</updated>
+  <updated>2026-08-23T20:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season2_[第6話 江戸川区京成小岩の激辛四川料理]</title>
+    <id>https://tver.jp/episodes/ep8uldxcoz</id>
+    <updated>2026-08-23T18:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep8uldxcoz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season2
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月12日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月23日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8uldxcoz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                今日は写真館のインテリアの商談に江戸川区小岩へ。井之頭五郎（松重豊）は京成小岩駅近くのカフェでお茶とケーキを堪能していたが、うっかり約束の時間に遅れそうになってしまう……。何とか時間通りに写真屋に着いた五郎は、なぜかお見合い写真を見せられる破目に……。　［期間限定無料配信］　テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&lt;br&gt;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第14話「危うしサキ！恐怖の刺客七人衆」]</title>
     <id>https://tver.jp/episodes/ep57blxsho</id>
