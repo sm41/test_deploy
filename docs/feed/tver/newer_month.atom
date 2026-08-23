@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-23T20:05:11+09:00</updated>
+  <updated>2026-08-23T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>VIVANT_[第十五話 親愛なる仲間の裏切りの果て、希望の光]</title>
+    <id>https://tver.jp/episodes/epdifnwpib</id>
+    <updated>2026-08-23T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdifnwpib" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ VIVANT
+                &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月30日(日)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月23日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdifnwpib.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;野崎（阿部寛）の裏切りに気づけなかった乃木（堺雅人）は自身の甘さを責めつつも、逃亡先の手がかりを追っていく。そんな中、野崎を知る３人にターゲットを絞る。野崎の手足となり、乃木をロシアに誘導しようとした警視庁サイバー対策課の東条（濱田岳）、野崎の上司である公安部長の佐野（坂東彌十郎）、そして、野崎が信頼を寄せるバルカ警察チンギス（Barslkhagva Batbold）である。果たして、何が見えてくるのか・・・？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season2_[第6話 江戸川区京成小岩の激辛四川料理]</title>
     <id>https://tver.jp/episodes/ep8uldxcoz</id>
