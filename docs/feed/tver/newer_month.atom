@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-23T10:05:13+09:00</updated>
+  <updated>2026-08-23T12:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>法医学者マダム・エール_[第1話「法医学者 前編」]</title>
+    <id>https://tver.jp/episodes/epuc25rt36</id>
+    <updated>2026-08-23T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epuc25rt36" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法医学者マダム・エール
+                &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月13日(日)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月23日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuc25rt36.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【BS11(イレブン)にて毎週日曜日 午前9時59分から放送中！】&lt;br&gt;ボルドー法医学研究所に勤める法医学者アレクサンドラ･エールのもとに、新たな助手テオがやって来る。配属早々、切断された手首が見つかったとの一報が入り、2人は現場へ。アレクサンドラは手首の痕跡から、被害者の生前の暮らしや性格までも推察し、犯人像に迫ろうとする。そんな中、同じ被害者の別のパーツが見つかる。&lt;br&gt;&lt;br&gt;監督：ニコラ･ギシュト&lt;br&gt;脚本：エルザ･マルポー
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>＆Hulu_[韓国で視聴率20％超え！「トクスリ5兄弟をよろしく! ～マッコリは甘い恋の味～」▼夫を亡くしたグァンスクと、4人の義弟たちの恋と家族の物語。]</title>
     <id>https://tver.jp/episodes/epcgskhxko</id>
