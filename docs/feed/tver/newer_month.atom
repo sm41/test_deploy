@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-24T00:05:09+09:00</updated>
+  <updated>2026-08-24T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>キスは捜査のあとで_[#5　好きなら毎日でも]</title>
+    <id>https://tver.jp/episodes/ep2y6s9f8a</id>
+    <updated>2026-08-24T00:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep2y6s9f8a" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ キスは捜査のあとで
+                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月24日(月)00時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年08月31日(月)00時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月23日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2y6s9f8a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;水族館へ向かった多古井（渡部秀）と塩野（齋藤璃佑）。「大切な人とのデートだし楽しんでもらいたくて」と好意を包み隠さず伝えてくる塩野と過ごし、２人の距離はさらに近づいていく。そんな中、塩野に本部出向の内示が下る。揺れる想いを抱えたまま多古井と会う塩野だったが、２人の関係を一変させる出来事が起こり…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一次元の挿し木_[第８話【義妹は敵か…黒幕の影】]</title>
     <id>https://tver.jp/episodes/eprfkpfnq7</id>
