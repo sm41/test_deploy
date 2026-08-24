@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-24T16:05:11+09:00</updated>
+  <updated>2026-08-24T18:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第3夜 厚切りハムカツの味]</title>
+    <id>https://tver.jp/episodes/epgfpd4k6i</id>
+    <updated>2026-08-24T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgfpd4k6i" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月24日(月)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月07日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgfpd4k6i.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                「時間が経ってからわかることってあるかもね」そんなワカコ（武田梨奈）は、コの字のカウンターが二つあるお店へ。隣に運ばれてきたのは厚切りのハムカツ。ハムといえば薄いものと思っていた。ビールを合わせて間違いなし。今ならわかる。薄いのも厚いのも、それぞれの良さがあるのだ。そして、別の日、どうしてもホッケが食べたいワカコが向かったのは、もちろん馴染みのあのお店。合わせるのは冷やの日本酒。ホッケが焼ける間につまむのは……？　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>甘い秘密（放送版）_[第49話]</title>
+    <id>https://tver.jp/episodes/epawbyrfgy</id>
+    <updated>2026-08-24T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epawbyrfgy" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 甘い秘密（放送版）
+                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月24日(月)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月24日(水)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epawbyrfgy.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ミン看護師と自宅の前でもめていたところ、ソンウンが帰ってきたことに気付いたスア。慌ててミン看護師にお金を渡す約束をし追い払う。一方、ティファニーを助けたい一心で、ミョンファはパンソクたちに黙ってフィリップに会いに行き、助けてほしいと懇願する。数日後、フィリップはアメリカへ戻るために父親とスジと共に空港に向かうが、アルムから電話が入り…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>華麗なるスパイス_[第13話 サフランに込められた思い]</title>
     <id>https://tver.jp/episodes/eppazrz70e</id>
@@ -336,138 +402,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 青狼会は、サキに恐車七人衆を差し向けた。「恐車の術」をかけられ苦戦するサキ。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>法医学者マダム・エール_[第1話「法医学者 前編」]</title>
-    <id>https://tver.jp/episodes/epuc25rt36</id>
-    <updated>2026-08-23T10:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epuc25rt36" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 法医学者マダム・エール
-                &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)10時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月13日(日)10時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月23日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuc25rt36.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【BS11(イレブン)にて毎週日曜日 午前9時59分から放送中！】&lt;br&gt;ボルドー法医学研究所に勤める法医学者アレクサンドラ･エールのもとに、新たな助手テオがやって来る。配属早々、切断された手首が見つかったとの一報が入り、2人は現場へ。アレクサンドラは手首の痕跡から、被害者の生前の暮らしや性格までも推察し、犯人像に迫ろうとする。そんな中、同じ被害者の別のパーツが見つかる。&lt;br&gt;&lt;br&gt;監督：ニコラ･ギシュト&lt;br&gt;脚本：エルザ･マルポー
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>＆Hulu_[韓国で視聴率20％超え！「トクスリ5兄弟をよろしく! ～マッコリは甘い恋の味～」▼夫を亡くしたグァンスクと、4人の義弟たちの恋と家族の物語。]</title>
-    <id>https://tver.jp/episodes/epcgskhxko</id>
-    <updated>2026-08-23T02:35:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epcgskhxko" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)02時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月05日(土)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月22日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcgskhxko.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                韓国で視聴率20％超えを記録した大人気ホームドラマ「トクスリ5兄弟をよろしく! ～マッコリは甘い恋の味～」をお届け▼結婚10日で夫を亡くしたグァンスクは、遺された酒蔵と4人の義弟を守るため奮闘する。そんな中、15年前に妻を亡くしたLXホテル会長ドンソクと出会い、反発しながらも互いの優しさや孤独を知るうち、2人の距離は次第に縮まっていく。&lt;br&gt;(C) Licensed by KBS Media Ltd. (C) 2025 KBS. All rights reserved
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>こんなところで裏切り飯～嵐を呼ぶ七人の役員～_[第８話「松阪で鶏焼き肉」]</title>
-    <id>https://tver.jp/episodes/epctrciw4c</id>
-    <updated>2026-08-23T02:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epctrciw4c" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srri2800z7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ こんなところで裏切り飯～嵐を呼ぶ七人の役員～
-                &lt;a href="https://tver.jp/series/srri2800z7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)02時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月22日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epctrciw4c.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                Huluでは全話配信中！&lt;br&gt;&lt;第８話&gt;&lt;br&gt;人事部担当役員・久石純（田山涼成）がリストラを強行！久石は新庄凛太郎（前田拳太郎）もリストラに関わっていると衝撃の告白をする。榊原総一朗（伊武雅刀）社長は小野寺真理子（志田彩良）に代わり自ら、久石の三重出張に同行し、松坂牛ではなく「鶏焼き肉」を勧める。驚く久石を連れて店へ入ると…榊原も驚愕の光景が！？&lt;br&gt;&lt;br&gt;◆中京テレビにて、毎週土曜25時59分より再放送中&lt;br&gt;※都合により時間変更の場合があります
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>Your Sky ハレのち恋_[第４話　最低な僕の本音]</title>
-    <id>https://tver.jp/episodes/epic1h7sif</id>
-    <updated>2026-08-23T02:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epic1h7sif" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdv5lx821.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ Your Sky ハレのち恋
-                &lt;a href="https://tver.jp/series/srdv5lx821" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月23日(日)02時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)02時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月22日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epic1h7sif.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                水族館に現れたのは、『陽向の彼女』だという美優（村上なずな）だった。&lt;br&gt;陽向（福田歩汰）と蒼空（相原一心）の間には気まずい空気が流れる。&lt;br&gt;さらに、陽向は美優と身を寄せ合う姿を蒼空に目撃されてしまい、嘘から始まった二人の関係にすれ違いが生じはじめる。&lt;br&gt;はっきり態度を示せず優柔不断な自分に落ち込む陽向。&lt;br&gt;蒼空もまた、想像もしなかった彼女の存在に、ざわつく気持ちをサッカーボールにぶつける。&lt;br&gt;一方、蒼空の弟、陸（中山敬悟）にも恋の予感。&lt;br&gt;図書館で見かけては目が離せなかった、ミステリアスな留学生・ダオン（パク・ミンソク）と初めて言葉を交わす。&lt;br&gt;様々な恋が新たなステージへと進んでいく第4話！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
