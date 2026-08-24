@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-24T02:05:12+09:00</updated>
+  <updated>2026-08-24T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第1話　「主水 悲鳴をあげる！」]</title>
+    <id>https://tver.jp/episodes/epcf734zoa</id>
+    <updated>2026-08-24T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcf734zoa" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月24日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月03日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcf734zoa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                裏の稼業を休業している主水のもとに紋太と仙平がそれぞれ仕事を持ってきた。老中水野と阿部を始末してほしいという。主水は老中の勢力争いと見て、両方の依頼を断ったのだが、その直後主水自身が何者かに襲われた。そこへ、おりくや勇次が旅から戻ってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>キスは捜査のあとで_[#5　好きなら毎日でも]</title>
     <id>https://tver.jp/episodes/ep2y6s9f8a</id>
