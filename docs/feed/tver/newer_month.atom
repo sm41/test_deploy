@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-25T10:05:14+09:00</updated>
+  <updated>2026-08-25T12:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>鉄の王　キム・スロ_[第15話]</title>
+    <id>https://tver.jp/episodes/epgvaq8tvu</id>
+    <updated>2026-08-25T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgvaq8tvu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月25日(火)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月01日(火)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月25日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgvaq8tvu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                スロはテガンに捕えられたホ・ジャンサンを救おうとするが、力及ばずホ・ジャンサンは海へと葬られてしまう。&lt;br&gt;ヌク島に戻ったスロはファンオクの協力で船造りに成功し、約束通りソンドの信頼を勝ち取る。&lt;br&gt;チャンソ村では製鉄炉が完成してチョンギョンたちは喜びに湧く中、一方で狗耶（クヤ）国では部族長たちのテガンへの不満が高まり、タレはチョンギョンに乗り換える決心を固め、部族長たちと共に反乱を企てようとしていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第2話　「秀、少女の謎を明かす」]</title>
     <id>https://tver.jp/episodes/ephp2vfnnn</id>
@@ -600,39 +633,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 裏の稼業を休業している主水のもとに紋太と仙平がそれぞれ仕事を持ってきた。老中水野と阿部を始末してほしいという。主水は老中の勢力争いと見て、両方の依頼を断ったのだが、その直後主水自身が何者かに襲われた。そこへ、おりくや勇次が旅から戻ってくる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>キスは捜査のあとで_[#5　好きなら毎日でも]</title>
-    <id>https://tver.jp/episodes/ep2y6s9f8a</id>
-    <updated>2026-08-24T00:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2y6s9f8a" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ キスは捜査のあとで
-                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月24日(月)00時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年08月31日(月)00時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月23日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2y6s9f8a.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;水族館へ向かった多古井（渡部秀）と塩野（齋藤璃佑）。「大切な人とのデートだし楽しんでもらいたくて」と好意を包み隠さず伝えてくる塩野と過ごし、２人の距離はさらに近づいていく。そんな中、塩野に本部出向の内示が下る。揺れる想いを抱えたまま多古井と会う塩野だったが、２人の関係を一変させる出来事が起こり…
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
