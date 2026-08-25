@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-25T16:05:10+09:00</updated>
+  <updated>2026-08-25T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>甘い秘密（放送版）_[第50話]</title>
+    <id>https://tver.jp/episodes/epirpzwkg5</id>
+    <updated>2026-08-25T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epirpzwkg5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnex2kuml.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 甘い秘密（放送版）
+                &lt;a href="https://tver.jp/series/srnex2kuml" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月25日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月25日(木)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月25日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epirpzwkg5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ついに手術を受けることになったティファニー。家族のみんなが見守る中、無事に手術が終わりアルムの家族は安堵するが、フィリップは麻酔から目が覚めずにいた。そして、フィリップの父親はアルムにティファニーを手放すことを誓わせる。スアのことで腹を立てたミン看護師はソンウンに会いに会社まで行き、スアに脅しの電話をかける。慌てたスアは会社に向かうのだが…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第15話]</title>
     <id>https://tver.jp/episodes/epgvaq8tvu</id>
@@ -600,39 +633,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ファンオクはかつてスロが戦いの際に落とした首飾りをスロへと返し、自分が狗耶（クヤ）国に渡ることになったいきさつを話す。&lt;br&gt;一方、チョンギョンとイジンアシはクヤ国にいるイルソを迎えに行くが、時を同じくしてイルソを拉致しようと襲ってきた集団と運悪く鉢合せしてしまう。しかもその集団の中にアヒョがいることに二人は驚愕する。辛くもイルソをチャンソ村に連れ帰ることに二人は成功、テガンはイルソ鍛冶長がいなくなったことをヨム・サチのせいにして、鍛冶長を連れ戻せなければ全責任を負わせると警告するのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第1話　「主水 悲鳴をあげる！」]</title>
-    <id>https://tver.jp/episodes/epcf734zoa</id>
-    <updated>2026-08-24T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epcf734zoa" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月24日(月)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月03日(木)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcf734zoa.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                裏の稼業を休業している主水のもとに紋太と仙平がそれぞれ仕事を持ってきた。老中水野と阿部を始末してほしいという。主水は老中の勢力争いと見て、両方の依頼を断ったのだが、その直後主水自身が何者かに襲われた。そこへ、おりくや勇次が旅から戻ってくる。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
