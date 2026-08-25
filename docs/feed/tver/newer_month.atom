@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-25T22:05:11+09:00</updated>
+  <updated>2026-08-26T00:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>君の好きは無敵_[第７話 いざキャラクターの祭典へ！決意の家出、そしてハグ]</title>
+    <id>https://tver.jp/episodes/epu992uofs</id>
+    <updated>2026-08-25T22:57:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epu992uofs" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr78n2tsiv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 君の好きは無敵
+                &lt;a href="https://tver.jp/series/sr78n2tsiv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月25日(火)22時57分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月01日(火)21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月25日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu992uofs.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【毎週火曜 よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;瀬尾家に突然現れたMERRYの伝説的デザイナー・門戸鞠子（白石加代子）。なんと彼女は瀬尾（佐野勇斗）の祖母だった！草壁杏奈（松本若菜）は、2人の間に微妙な距離があることを感じ取る…。そんな中、デザイン瀬尾の面々は、チュチュチュエラの知名度アップを図り、キャラクターの祭典「全日本キャラクターグランプリ」への挑戦を検討。門戸も自らが生み出したキャラクター・ベリーグッドベリーで、そしてMERRYの大三島（本郷奏多）もシニカルモルコと共に参加を表明している一大イベントだ。しかし、瀬尾は「出場しない」ときっぱり。そして、参加をめぐり意見が分かれた結果、瀬尾はなんと家出をしてしまい…！？&lt;br&gt;&lt;br&gt;それぞれのキャラクターへの強い思いと愛情、そして信念を胸に、キャラクターグランプリという運命の日が近づいていく。しかし、とある場所で門戸と遭遇した杏奈は、門戸から思わぬ事実を告げられ……？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>さよならノワール_[第8話 支援者に襲われた元衆議院議員を支援せよ]</title>
     <id>https://tver.jp/episodes/eps065j7ev</id>
