@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-26T02:05:12+09:00</updated>
+  <updated>2026-08-26T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第3話　「主水 老人問題を考える」]</title>
+    <id>https://tver.jp/episodes/epo6oambzu</id>
+    <updated>2026-08-26T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epo6oambzu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月26日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月05日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月26日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo6oambzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                魚屋の女主人・お梅の義母おまつが施療院に入った。そこは毎月わずかな額で老人の面倒を見てくれる場所だ。が、やがておまつが死んでしまった。おりくらはお梅の施療院への支払いがとぎれがちだったことを知る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>スピナーベイト_[第9話 幸福論]</title>
+    <id>https://tver.jp/episodes/ep1chm1rxk</id>
+    <updated>2026-08-26T03:20:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1chm1rxk" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月26日(水)03時20分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月02日(水)02時25分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月25日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1chm1rxk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高橋を拘束しているのは三井に‘正義の味方’を名乗り続けた吉見だった…。吉見は高橋に自分を拘束した理由と自身の衝撃の出来事を語り始めることに。&lt;br&gt;一方、後ろ盾を失ったスピナーベイトの面々は、次々と謎の男に襲われる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>幸せになりたいマサムネ君_[#8「僕の庭には10年分の薔薇が咲いている」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/epu6imiwtn</id>
