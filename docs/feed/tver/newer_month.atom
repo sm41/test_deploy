@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-26T14:05:10+09:00</updated>
+  <updated>2026-08-26T16:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>一筆お祓いいたします_[第4話 名前は？]</title>
+    <id>https://tver.jp/episodes/eppab8gqz5</id>
+    <updated>2026-08-26T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eppab8gqz5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月26日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月26日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppab8gqz5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                一永(イーヨン)の借家の隣に新しい親子が引っ越してきた。失業した父親と一緒に挨拶にきた息子は、同じ高校に通っていた曹光硯(ツァオ・グァンイェン)。一永と光硯は犬猿の仲だった。ある日、光硯は謎の枯葉が見えるようになる。周りの人にはそれが見えず疑問に思っていたが、一永にも同じものが見えていることに気が付く。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第16話]</title>
     <id>https://tver.jp/episodes/epumv60s92</id>
@@ -435,105 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 不良少年を預かっている十津川鍛錬塾から脱走した三人。それぞれ、側用人牧野の息子の鶴松など、いずれも社会的な地位のある家柄の出身だった。逃走の途中、鶴松は秀の連れていたお民をさらい立てこもった。牧野らは世間体の為に、お民を殺して事件をもみ消そうとする。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第３話・俺らの鈴木に変な絡み方すんの、やめてもらえる？]</title>
-    <id>https://tver.jp/episodes/epjroh7itt</id>
-    <updated>2026-08-25T02:04:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epjroh7itt" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3ax1vftw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 陽キャ集団にいる芹沢は、俺の前だと様子がおかしい
-                &lt;a href="https://tver.jp/series/sr3ax1vftw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月25日(火)02時04分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月27日(火)01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjroh7itt.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                陽キャ集団と一緒に過ごすようになり、クラスに馴染み始めた鈴木(小泉光咲)。だが、生きる世界が違う彼らを「友達」と呼んでいいか悩んでいた。そんな中、みんなでカラオケに行くことになるが、陽のオーラに圧倒されて歌えない！さらにドリンクバーで元友人に遭遇し、BL趣味を馬鹿にされ大ピンチ！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>えっちなお尻じゃダメですか？_[#8 俺だけ知らない]</title>
-    <id>https://tver.jp/episodes/epgjjxh8fb</id>
-    <updated>2026-08-25T01:35:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epgjjxh8fb" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri4edv1p7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ えっちなお尻じゃダメですか？
-                &lt;a href="https://tver.jp/series/sri4edv1p7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月25日(火)01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月01日(火)01時35分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgjjxh8fb.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                大翔の告白をきっぱり断った直後、奥海が過労で倒れていたと知る。検査結果まで隠していた奥海に藍之助は爆発する——「俺はアンタの何なんだよ！」。涙ながらに想いをぶつけた藍之助は、奥海の家で暮らし始める決意をする。恋人から家族へ近づく二人の前に、謎の女性が現れて——。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>35歳、今さら恋とかありえない_[#8 揺れる距離]</title>
-    <id>https://tver.jp/episodes/epffo79t4x</id>
-    <updated>2026-08-25T01:20:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epffo79t4x" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr9ivzxgq.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 35歳、今さら恋とかありえない
-                &lt;a href="https://tver.jp/series/srr9ivzxgq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月25日(火)01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月01日(火)01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月24日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epffo79t4x.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                京都の空気は美しく、そして孤独だった。修業に打ち込む森原となかなか会えない日々、仕事も思うようにいかない。寂しいとは言えない。言えば、ここに来た選択ごと否定する気がして。シェアハウスの同居人・近衛は、無遠慮に茉莉子の話を聞いた。ただそれだけのことが、乾いた心にじわりと沁みる。距離が近づく夜、茉莉子は自分の心がどこへ向いているのか、もうわからなくなっていた。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
