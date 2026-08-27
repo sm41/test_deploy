@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-27T20:05:10+09:00</updated>
+  <updated>2026-08-27T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[第6話 悪者を突破させるなSP]</title>
+    <id>https://tver.jp/episodes/ep0yd1nuci</id>
+    <updated>2026-08-27T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0yd1nuci" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月27日(木)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月03日(木)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月27日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0yd1nuci.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                多額の違法薬物の密輸危機！妻の遺骨と帰国した男…&lt;br&gt;そして、首席審査官・深澤然（柳葉敏郎）に試練…!?&lt;br&gt;&lt;br&gt;《GATE24》が協力した違法カジノの摘発で、胴元側の女性が逃亡。&lt;br&gt;さらに、近々、違法薬物が持ち込まれる情報が入り、警戒を強める税関職員・森万智（趣里）たち。&lt;br&gt;そんな中、妻の骨壺を抱えて帰国した高瀬佑磨（清水伸）が審査ブースを訪れる。&lt;br&gt;悲しみに暮れる高瀬に同情する《GATE24》のメンバーたちだったが、万智は荷物の中に小さな違和感を見つけて…？&lt;br&gt;一方、深澤は留学へ旅立つ娘・紬（泉有乃）の見送りを控えていたが――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season9_[第9話 福島県郡山市舞木町 ドライブインの焼肉定食]</title>
     <id>https://tver.jp/episodes/epdcv8p58x</id>
