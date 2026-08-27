@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mnemosynekoto</title>
   <id>https://pawchive.pw/</id>
-  <updated>2026-08-26T17:00:00+00:00</updated>
+  <updated>2026-08-27T02:00:00+00:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/pawchive/86508534_mnemosynekoto.atom" />
+  <entry>
+    <title>Nepeta Leijon {Homestuck} 105 images</title>
+    <id>https://pawchive.pw/patreon/user/86508534/post/167789502</id>
+    <updated>2026-08-26T23:59:16+00:00</updated>
+    <link href="https://pawchive.pw/patreon/user/86508534/post/167789502" />
+    <content type="html">&lt;p&gt;Full set in the mega link!&lt;/p&gt;&lt;p&gt;&lt;a href="https://mega.nz/folder/uqAnja6D#RHs2cSJrJcSgPtOqzABEpw"&gt;https://mega.nz/folder/uqAnja6D#RHs2cSJrJcSgPtOqzABEpw&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src=https://img.pawchive.pw/thumbnail/data/64/19/6419ee7d46858e6086941b10ddef8d1617d0ac2b269e04e5c3133a94a52b5d99.png alt="image"&gt;
+&lt;img src=https://img.pawchive.pw/thumbnail/data/31/1f/311f6073a900e0808e66f9bf06d409e35768922a29edcdd62dfd12c4f8008de4.png alt="image"&gt;
+&lt;img src=https://img.pawchive.pw/thumbnail/data/c2/98/c2980e20d327aa299a466acac44b9ab5adc7c019b89ea7a3f859daf455131405.png alt="image"&gt;</content>
+  </entry>
   <entry>
     <title> Riela Marcellis {Valkyrie chronicles} 94 images </title>
     <id>https://pawchive.pw/patreon/user/86508534/post/167690156</id>
@@ -632,15 +643,5 @@
 &lt;img src=https://img.pawchive.pw/thumbnail/data/9f/1b/9f1b5143063c54a2de8ef937d136ab53bf839fe404c434fb9ab5b8833c82e73b.png alt="image"&gt;
 &lt;img src=https://img.pawchive.pw/thumbnail/data/0a/24/0a2488b950f9b3c602eafe013bbd490120bda1a6104ec0dd3b16569dd2034bad.png alt="image"&gt;
 &lt;img src=https://img.pawchive.pw/thumbnail/data/a9/5f/a95f18d9d9354c55c0dfa1a79c375955c4f76c96ffa0af94f8574de706b66446.png alt="image"&gt;</content>
-  </entry>
-  <entry>
-    <title>Makima {chainsawman} x gyaruo </title>
-    <id>https://pawchive.pw/patreon/user/86508534/post/164208383</id>
-    <updated>2026-07-18T22:01:41+00:00</updated>
-    <link href="https://pawchive.pw/patreon/user/86508534/post/164208383" />
-    <content type="html">&lt;p&gt;Full set in the mega link&lt;/p&gt;&lt;p&gt;&lt;a href="https://mega.nz/folder/CqY1SLjR#8GQZ_BMAnf4Y2biME_gm_g"&gt;https://mega.nz/folder/CqY1SLjR#8GQZ_BMAnf4Y2biME_gm_g&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/6b/de/6bdee83387f3311e244c20a6dbba450797c6f98a5455148ebec472b02cf8bc3f.png alt="image"&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/6b/de/6bdee83387f3311e244c20a6dbba450797c6f98a5455148ebec472b02cf8bc3f.png alt="image"&gt;</content>
   </entry>
 </feed>
