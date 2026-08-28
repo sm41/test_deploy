@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-28T20:05:13+09:00</updated>
+  <updated>2026-08-28T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>リーガルビート -逆転の法廷-_[#6 派遣おばさんVSエリート好青年]</title>
+    <id>https://tver.jp/episodes/ep9p0oggnz</id>
+    <updated>2026-08-28T21:54:01+09:00</updated>
+    <link href="https://tver.jp/episodes/ep9p0oggnz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srais8cu0g.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ リーガルビート -逆転の法廷-
+                &lt;a href="https://tver.jp/series/srais8cu0g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月04日(金)21時53分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9p0oggnz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                雪村（小雪）の幼馴染・倉野（白石美帆）は、派遣先の若手社員・大塚（岐洲匠）を突き飛ばし怪我を負わせ訴えられた。背景には優越的な立場を利用した大塚の悪質行為があったが、誰にも相談できず雪村を頼って来たのだ。だが幼馴染の相談でも、泰地（鈴鹿央士）に「法廷に立たないのか」と問われても頑なに拒む雪村。セクハラ、業務の丸投げ、年齢差別…理不尽な扱いを受ける幼馴染のため、雪村が再び法廷に立つ日は訪れるのか!?　［期間限定無料配信］　テレビ東京にて7月24日(金)スタート！毎週金曜夜9時より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>人形の家～偽りの絆～（放送版）_[第2話]</title>
     <id>https://tver.jp/episodes/epvrwuo361</id>
