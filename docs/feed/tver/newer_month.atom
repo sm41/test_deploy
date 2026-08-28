@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-28T16:05:13+09:00</updated>
+  <updated>2026-08-28T18:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第2話]</title>
+    <id>https://tver.jp/episodes/epvrwuo361</id>
+    <updated>2026-08-28T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvrwuo361" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月28日(日)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvrwuo361.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ギョンヘが買い占めた商品を配達させられる羽目になったセヨン。&lt;br&gt;配達先のホテルでギョンヘが不審な男に連れ去られるのを目撃し救おうとして怪我を負ってしまう。&lt;br&gt;セヨンはウィナーズの秘書室長ジェジュンのはからいで入院することに。&lt;br&gt;一方、セヨンがギョンヘを助けて入院したことを知ったウン家の執事でセヨンの母であるヨンスクは、セヨンの容体を心配するより、ギョンヘと同じ病院にセヨンが入院していることが気になる様子で…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>王女の男_[第11話「危機一髪」]</title>
     <id>https://tver.jp/episodes/epplmtgdux</id>
