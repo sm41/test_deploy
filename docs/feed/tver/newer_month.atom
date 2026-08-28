@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-28T02:05:11+09:00</updated>
+  <updated>2026-08-28T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第5話　「お加代 十里早駆に挑戦する」]</title>
+    <id>https://tver.jp/episodes/epmg7xg7ur</id>
+    <updated>2026-08-28T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epmg7xg7ur" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月07日(月)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmg7xg7ur.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                飛脚連合は新しい脚夫の採用を抽選で行っていたが、伏見屋は、目付役青柳にワイロを使っていた。そのことを知った和泉屋の女飛脚お竜は、一味に毒を盛られる。お竜は薄れゆく意識の中、恋する勇次に恨みを晴らしてほしいと言って息を引き取る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>AI EYES -AIクリエイティブの現在地-_[Tokyo Vortex]</title>
+    <id>https://tver.jp/episodes/epbbk60jsv</id>
+    <updated>2026-08-28T03:35:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epbbk60jsv" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnk2nzbtk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ AI EYES -AIクリエイティブの現在地-
+                &lt;a href="https://tver.jp/series/srnk2nzbtk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)03時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年02月27日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月27日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbbk60jsv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                静かな故郷を離れ、「東京」という巨大な渦へと飲み込まれていく一人の青年。無機質な都市、記号化された群衆、圧倒的な数と音の中で、自分という存在を見失いながらも、その意味を探し続けます。現実と幻想が交錯する都市の風景を、音楽とともに描き出したイマーシブ・ミュージックビデオです。AIが映すのは、未来の都市ではなく、その中で揺れる人間の存在。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ちょっと待とうよ、春虎くん_[＃3「はじめてのデートだよ、春虎くん。」《ドラマフィル》]</title>
     <id>https://tver.jp/episodes/eptyfqqi45</id>
