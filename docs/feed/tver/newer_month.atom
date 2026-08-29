@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-29T20:05:09+09:00</updated>
+  <updated>2026-08-29T22:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ドラマ「永久少年 Eternal Boys」_[第9話「俺たちは俺たちの戦い方で」]</title>
+    <id>https://tver.jp/episodes/epfivqzrhw</id>
+    <updated>2026-08-29T21:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epfivqzrhw" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnrk0olc3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ「永久少年 Eternal Boys」
+                &lt;a href="https://tver.jp/series/srnrk0olc3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月29日(土)21時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月05日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月29日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfivqzrhw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                それぞれの頑張りで、小さいながらも再びミニライブをするというチャンスを得た永久少年。しかし、元人気ホスト柿崎（細貝圭）以外のメンバーの知名度は今ひとつ。石田（鈴木祐大）は、自分の存在感が薄いことを気にする。その様子を見ていた真田（松本岳）は、サラリーマン時代の経験を活かし、顔と名前を覚えてもらう方法を提案する。ミニライブの日が近づくにつれ、宣伝にも力が入る永久少年たち。果たして、ライブの行方は…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>たかほー日和。Season２ ～鷹とごはんと明日の私～_[第3話「明日の私へ」]</title>
     <id>https://tver.jp/episodes/eph3kfb6zr</id>
