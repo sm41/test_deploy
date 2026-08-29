@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-29T22:05:10+09:00</updated>
+  <updated>2026-08-30T00:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[第8話 初デート！幸せな時間]</title>
+    <id>https://tver.jp/episodes/ep95jr6jvx</id>
+    <updated>2026-08-29T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep95jr6jvx" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月29日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月05日(土)23時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月29日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep95jr6jvx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校3年生の武宮夏輝（深田竜生）は、母・十和子（羽田美智子）と父・悟郎（井上肇）を仲直りさせようと、サプライズを計画する。&lt;br&gt;そんな中、夏輝は模試の結果がE判定から上がり、“よくできましたシール”を20個集めたご褒美として、家庭教師の小早川蒼汰（浮所飛貴）と一日、遊びに出かけることに！2人が一緒に訪れた場所は…!?&lt;br&gt;　一方、莉緒は十和子が夏輝の気持ちを知っていることに気づき、思い切って母に話を切り出して…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ドラマ　宅飲みシェアハウス_[＃７　チキンのトマト煮]</title>
+    <id>https://tver.jp/episodes/ep0f3vz1nj</id>
+    <updated>2026-08-29T23:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0f3vz1nj" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6hry6175.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ　宅飲みシェアハウス
+                &lt;a href="https://tver.jp/series/sr6hry6175" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月29日(土)23時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月29日(火)23時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月29日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0f3vz1nj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                撮影が早く終わり帰宅した古谷大和（本人役）は居眠りをしてしまい、気づいたら夜になってしまう。色々とやりたいことがあったのにと落ち込むが、気を取り直して晩酌をすることに。白ワインのおつまみとして「チキンのトマト煮」を作り始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ドラマ「永久少年 Eternal Boys」_[第9話「俺たちは俺たちの戦い方で」]</title>
     <id>https://tver.jp/episodes/epfivqzrhw</id>
@@ -204,105 +270,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 最近、様子のおかしい四季（綱啓永）の自宅に向かった楓（吉川愛）と岩田（髙松アロハ）だが、そこで、より不安を掻き立てる出来事が――!?&lt;br&gt;そんなある日、祖父（奥田瑛二）宛に彼の後輩にあたる人気ミステリー作家・レオン根室（松尾諭）の新作小説お披露目記念パーティーへの招待状が届く。&lt;br&gt;楓や祖父、我妻（吉沢悠）らがパーティー会場に出向くと、なんと会場でレオンが血を流し倒れる事件が発生！&lt;br&gt;これはレオンが用意した《ミステリーな計画》なのか？　それとも…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>Ｔシャツが乾くまで_[第８話 逃避と詮索]</title>
-    <id>https://tver.jp/episodes/epfzg6qn0f</id>
-    <updated>2026-08-28T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epfzg6qn0f" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srusndh59f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ Ｔシャツが乾くまで
-                &lt;a href="https://tver.jp/series/srusndh59f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月04日(金)21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfzg6qn0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;充（松山ケンイチ）とあずさ（夏帆）の“第３金曜日の真実”を知った咲子（蒼井優）は、家を飛び出してしまう。&lt;br&gt;一方充は、翌日になっても帰らない咲子を心配し、喫茶「ひこうき」に樹生（中島歩）、千鶴（臼田あさ美）、宮内（リリー・フランキー）を集めて、自分の知らない咲子について教えて欲しいと頼むのだが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>リーガルビート -逆転の法廷-_[#6 派遣おばさんVSエリート好青年]</title>
-    <id>https://tver.jp/episodes/ep9p0oggnz</id>
-    <updated>2026-08-28T21:54:01+09:00</updated>
-    <link href="https://tver.jp/episodes/ep9p0oggnz" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srais8cu0g.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ リーガルビート -逆転の法廷-
-                &lt;a href="https://tver.jp/series/srais8cu0g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月04日(金)21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9p0oggnz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                雪村（小雪）の幼馴染・倉野（白石美帆）は、派遣先の若手社員・大塚（岐洲匠）を突き飛ばし怪我を負わせ訴えられた。背景には優越的な立場を利用した大塚の悪質行為があったが、誰にも相談できず雪村を頼って来たのだ。だが幼馴染の相談でも、泰地（鈴鹿央士）に「法廷に立たないのか」と問われても頑なに拒む雪村。セクハラ、業務の丸投げ、年齢差別…理不尽な扱いを受ける幼馴染のため、雪村が再び法廷に立つ日は訪れるのか!?　［期間限定無料配信］　テレビ東京にて7月24日(金)スタート！毎週金曜夜9時より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第2話]</title>
-    <id>https://tver.jp/episodes/epvrwuo361</id>
-    <updated>2026-08-28T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epvrwuo361" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年02月28日(日)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvrwuo361.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ギョンヘが買い占めた商品を配達させられる羽目になったセヨン。&lt;br&gt;配達先のホテルでギョンヘが不審な男に連れ去られるのを目撃し救おうとして怪我を負ってしまう。&lt;br&gt;セヨンはウィナーズの秘書室長ジェジュンのはからいで入院することに。&lt;br&gt;一方、セヨンがギョンヘを助けて入院したことを知ったウン家の執事でセヨンの母であるヨンスクは、セヨンの容体を心配するより、ギョンヘと同じ病院にセヨンが入院していることが気になる様子で…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
