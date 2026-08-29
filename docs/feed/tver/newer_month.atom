@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-29T14:05:12+09:00</updated>
+  <updated>2026-08-29T16:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>たかほー日和。Season２ ～鷹とごはんと明日の私～_[第3話「明日の私へ」]</title>
+    <id>https://tver.jp/episodes/eph3kfb6zr</id>
+    <updated>2026-08-29T15:28:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eph3kfb6zr" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvjcioer9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ たかほー日和。Season２ ～鷹とごはんと明日の私～
+                &lt;a href="https://tver.jp/series/srvjcioer9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月29日(土)15時28分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月28日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月29日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : FBS福岡放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph3kfb6zr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                姉・みなみ（坂口理子）の仕事で、急きょ料理撮影を担当することになった高村ゆうか（生田衣梨奈）。不安を抱えながらカメラを手にしたゆうかに、福岡ごはんやホークスが再び前を向く力をくれる！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>席替えしたら、どうやら後ろの男が俺のこと好きらしい_[第4話 待つよ、何度でも。]</title>
     <id>https://tver.jp/episodes/ep6b5k27kz</id>
@@ -237,72 +270,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ギョンヘが買い占めた商品を配達させられる羽目になったセヨン。&lt;br&gt;配達先のホテルでギョンヘが不審な男に連れ去られるのを目撃し救おうとして怪我を負ってしまう。&lt;br&gt;セヨンはウィナーズの秘書室長ジェジュンのはからいで入院することに。&lt;br&gt;一方、セヨンがギョンヘを助けて入院したことを知ったウン家の執事でセヨンの母であるヨンスクは、セヨンの容体を心配するより、ギョンヘと同じ病院にセヨンが入院していることが気になる様子で…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>王女の男_[第11話「危機一髪」]</title>
-    <id>https://tver.jp/episodes/epplmtgdux</id>
-    <updated>2026-08-28T13:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epplmtgdux" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraaa4m6xm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 王女の男
-                &lt;a href="https://tver.jp/series/sraaa4m6xm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)13時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月04日(金)13時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epplmtgdux.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                スンユは牢獄に現れたセリョンを見て逆上し、いきなり彼女の首を絞める。自分が心を寄せていた相手が、実は父や兄を殺した敵の娘だったのだ。お前とお前の父を殺してやると言うスンユに、セリョンは殺される日を待っていると告げ、獄舎を後にする。&lt;br&gt;翌日、セリョンは流刑地に送られるスンユをそっと見送る。そこへ、スンユの兄嫁リュ氏とその娘のアガンが、罪人の家族として連行されてくる。その時ひきつけを起こしたアガンが、以前スンユの屋敷にいた子だと気づいたセリョンは、シン･ミョンに頼みこみ彼女を医師に診せる。感謝するリュ氏に、自らの素性も明かさず、ただ詫びるセリョン。&lt;br&gt;弟アンピョン大君を亡き者にしたいスヤン大君は、謀反を企てた証拠となる書状を偽造。思惑どおり王命を取りつけ、アンピョン大君に自害させる。さらにスンユを始末するため彼の乗った護送船まで沈めてしまう。生きる気力を失っていたスンユだが、偶然隣り合わせたソクチュのお陰で首尾よく船を脱出。ソクチュと鎖で繋がれたまま近くの島に泳ぎ着く。だがスヤン大君の手の者が執拗に追ってくる。彼らの頭は、スンユの目の前で父キム･ジョンソを殺した男だった。&lt;br&gt;&lt;br&gt;【毎週金曜ひる12時 BS朝日で2話連続放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>王女の男_[第10話「命を賭けた恋」]</title>
-    <id>https://tver.jp/episodes/epb1dtmw46</id>
-    <updated>2026-08-28T13:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epb1dtmw46" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraaa4m6xm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 王女の男
-                &lt;a href="https://tver.jp/series/sraaa4m6xm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月28日(金)13時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月04日(金)13時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb1dtmw46.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                父の敵を討とうとスヤン大君の屋敷の前にやって来たスンユ。兵士から奪った刀で晴れがましく帰宅したスヤン大君にいざ斬りかかろうとしたその時、出迎える家族の中にセリョンの姿を見つける。彼女がスヤン大君の娘と初めて知ったスンユ。彼は困惑しながらもスヤン大君めがけて飛び出していくが、すぐに捕らえられてしまう。&lt;br&gt;スンユは死んだものと思っていたセリョン。だが彼は生きていた。セリョンは目の前で捕らえられたスンユを何とか助けようとする。もはや彼にとってお前は敵の娘でしかないと母に諭されてもセリョンの気持ちは変わらない。スンユが翌日打ち首に処されると知り、一晩考えて意を決した彼女は、出掛けてゆく父の前で、スンユを殺すなら自分も死ぬと刀を首に当てる。動揺しながらも、そんな脅しは利かぬと出掛けてゆくスヤン大君。&lt;br&gt;だが、弟クムソン大君の登場で彼の思惑が外れる。叔父クムソン大君の加勢を得て奮い立った端宗が、スヤン大君に処刑の中止を命じたのだ。危ないところで命だけは助かったスンユだが、翌朝には流刑地へ送られることに。セリョンはその前に一目会おうと牢獄を訪ねるが…。&lt;br&gt;&lt;br&gt;【毎週金曜ひる12時 BS朝日で2話連続放送】
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
