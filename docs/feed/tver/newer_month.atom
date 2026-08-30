@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-31T00:05:11+09:00</updated>
+  <updated>2026-08-31T02:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>キスは捜査のあとで_[#6　終わりにしたくない]</title>
+    <id>https://tver.jp/episodes/ephqur97fu</id>
+    <updated>2026-08-31T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephqur97fu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ キスは捜査のあとで
+                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月31日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月07日(月)00時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月30日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephqur97fu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;「さよなら、多古井さん」&lt;br&gt;塩野（齋藤璃佑）から突きつけられた別れの言葉に、多古井（渡部秀）はただ立ち尽くす。翌日から、塩野は多古井と目を合わせることさえしなくなる。声をかけたいのに、踏み出せない多古井。そして想いを伝えられないまま迎えた塩野の送別会。塩野へのエールが多古井に託される。いつものようにふざけた調子で場を盛り上げようとするが、胸に抑え込んできた想いがあふれ出してきて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>DREAM STAGE_[第５話 待ち焦がれたデビュー日…裏切者は僕です]</title>
     <id>https://tver.jp/episodes/epezuz7vuu</id>
