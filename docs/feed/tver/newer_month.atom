@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-30T18:05:11+09:00</updated>
+  <updated>2026-08-30T20:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season2_[第7話 千葉県旭市飯岡のサンマのなめろうと蛤の酒蒸し]</title>
+    <id>https://tver.jp/episodes/epapdp51f4</id>
+    <updated>2026-08-30T18:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epapdp51f4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season2
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月30日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epapdp51f4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仕事のちょっとしたミスで、九十九里浜近くの旅館に一泊することになった井之頭五郎（松重豊）。銚子鉄道に乗ったり、灯台をみたり。飯岡漁港を歩いていると無性に海の幸が食べたくなり、店を探す。　［期間限定無料配信］　テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&lt;br&gt;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第15話「雪乃重傷！サキ怒りの逆襲」]</title>
     <id>https://tver.jp/episodes/epjkfstqbg</id>
