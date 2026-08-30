@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-30T02:05:11+09:00</updated>
+  <updated>2026-08-30T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ただ愛する仲_[第9話]</title>
+    <id>https://tver.jp/episodes/epqovu2pf6</id>
+    <updated>2026-08-30T02:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqovu2pf6" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhdydd9pn.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ただ愛する仲
+                &lt;a href="https://tver.jp/series/srhdydd9pn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)02時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年01月01日(金)00時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月29日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqovu2pf6.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                電話に出ないガンドゥを心配したムンスは、ガンドゥの下宿先を訪れる。冷たくあしらうガンドゥだが、ムンスが帰ったあとムンスからのメールを見てほほ笑む。一方、ムンスが撮った写真を見ていたワンジン。そこに写っていたジュウォンの姿にジュウォンがムンスを好きだと確信し…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>Your Sky ハレのち恋_[第５話　本当の恋人だったら]</title>
     <id>https://tver.jp/episodes/epjk43jcq3</id>
