@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-30T16:05:12+09:00</updated>
+  <updated>2026-08-30T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第15話「雪乃重傷！サキ怒りの逆襲」]</title>
+    <id>https://tver.jp/episodes/epjkfstqbg</id>
+    <updated>2026-08-30T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epjkfstqbg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月30日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjkfstqbg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サキは関係ある人間を襲う「恐車の術」。雪乃はさらわれ、お京は襲われた。サキは恐車七人衆に最後の戦いを挑む。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>法医学者マダム・エール_[第2話「法医学者 後編」]</title>
     <id>https://tver.jp/episodes/ep00alzx5w</id>
@@ -270,39 +303,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 姉・みなみ（坂口理子）の仕事で、急きょ料理撮影を担当することになった高村ゆうか（生田衣梨奈）。不安を抱えながらカメラを手にしたゆうかに、福岡ごはんやホークスが再び前を向く力をくれる！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>席替えしたら、どうやら後ろの男が俺のこと好きらしい_[第4話 待つよ、何度でも。]</title>
-    <id>https://tver.jp/episodes/ep6b5k27kz</id>
-    <updated>2026-08-29T01:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep6b5k27kz" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru4qxp9pk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 席替えしたら、どうやら後ろの男が俺のこと好きらしい
-                &lt;a href="https://tver.jp/series/sru4qxp9pk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月29日(土)01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月05日(土)01時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月28日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6b5k27kz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                朝宮光星は、これまで何度も容姿だけを理由に告白され、断る様子を勝手にSNSへ投稿されるなど、自分の気持ちを無視され続けてきた。人々から「イケメン」という肩書きだけで消費されることに疲れ、誰にも本当の自分を理解してもらえない孤独を抱えていた。そんなある日、クラスメイトが朝宮を面白半分でからかう中、ただ一人、間山晴だけが「朝宮の気持ちが一番大事だ」とかばってくれた。その何気ない優しさに救われた朝宮は、以来、誰にも気づかれないよう間山を見つめ続け、不器用ながらも人を思いやる姿に惹かれていく。そして、その想いはやがて恋へと変わり、席替えの日、抑えきれずに告白してしまったのだった。&lt;br&gt;&lt;br&gt;現在に戻り、文化祭の準備は大詰めを迎える。作業場所として間山の家に集まった4人は夜遅くまで準備を進めるが、買い出しの帰り道、間山は中学時代に「告白は嘘だった」と皆の前で笑いものにされた辛い過去を朝宮へ打ち明ける。その経験があるからこそ朝宮の想いを信じたいのに信じ切れず、答えを出すことが怖いと本音を明かす。朝宮はその気持ちを受け止め、「いくらでも待つ。無理に答えを出さなくていい」と優しく寄り添う。&lt;br&gt;&lt;br&gt;深夜、二人きりで文化祭の準備を続ける中、眠気に負けた間山は朝宮の肩にもたれて眠ってしまう。朝宮は思わずキスをしそうになるが、間山を困らせたくないという想いから寸前で踏みとどまり、静かに寝かせるのだった。&lt;br&gt;&lt;br&gt;迎えた文化祭当日の朝。しかし間山は38.5度の高熱を出して倒れ、兄・天から連絡を受けた朝宮は突然の知らせに言葉を失う。二人が楽しみにしていた文化祭は、思いもよらない波乱の幕開けを迎える。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
