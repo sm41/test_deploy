@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-31T16:05:15+09:00</updated>
+  <updated>2026-08-31T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -1053,7 +1053,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1086,7 +1086,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1119,7 +1119,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1152,7 +1152,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1185,7 +1185,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1218,7 +1218,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1251,7 +1251,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1284,7 +1284,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1317,7 +1317,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -1350,7 +1350,7 @@
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS毎日放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
@@ -2118,171 +2118,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 佳介（田中圭）と一晩をともにすることになった美沙（高梨臨）だったが、突然逃げ出してしまう。そんな矢先、後輩の真吾（小関裕太）が思いもよらぬ行動を…一方、千尋（土村芳）は、【彼氏を浮気相手から取り戻すレッスン】として司（淵上泰史）と体の関係を持つことに。さらに、千尋の彼氏を奪った理佳子（内田理央）が司にも近づき始めた―。それぞれに待ち受ける恋の試練を“恋ヘタ”男女は乗り越えていくことができるのか！？&lt;br&gt;&lt;br&gt;【恋がヘタでも生きてます　階段配信】&lt;br&gt;#1　8月23日(日) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#2　8月25日(火) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#3　8月27日(木) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#4　8月30日(日) 12:01 ～ 9月13日(日) 12:00&lt;br&gt;#5　9月2日(水) 12:01 ～ 9月16日(水) 12:00&lt;br&gt;#6　9月5日(土) 12:01 ～ 9月19日(土) 12:00&lt;br&gt;#7　9月8日(火) 12:01 ～ 9月22日(火) 12:00&lt;br&gt;#8　9月11日(金) 12:01 ～ 9月25日(金) 12:00&lt;br&gt;#9　9月14日(月) 12:01 ～ 9月28日(月) 12:00&lt;br&gt;#10　9月17日(木) 12:01 ～ 10月1日(木) 12:00&lt;br&gt;#11　9月20日(日) 12:01 ～ 10月4日(日) 12:00&lt;br&gt;#12　9月23日(水) 12:01 ～ 10月7日(水) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>リバース_[第４話 犯人は女？ホーム転落…次の犠牲は誰だ]</title>
-    <id>https://tver.jp/episodes/epzu0td10q</id>
-    <updated>2026-08-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epzu0td10q" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srarmoatxd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ リバース
-                &lt;a href="https://tver.jp/series/srarmoatxd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzu0td10q.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：8月1日(土)12:00～9月27日(日)23:59&lt;br&gt;#4：8月30日(日)12:00～9月6日(日)11:59&lt;br&gt;#5：9月2日(水)12:00～9月9日(水)11:59&lt;br&gt;#6：9月6日(日)12:00～9月13日(日)11:59&lt;br&gt;#7：9月9日(水)12:00～9月16日(水)11:59&lt;br&gt;#8：9月13日(日)12:00～9月20日(日)11:59&lt;br&gt;#9：9月16日(水)12:00～9月23日(水)11:59&lt;br&gt;#10：9月20日(日)12:00～9月27日(日)23:59&lt;br&gt;------------&lt;br&gt;谷原（市原隼人）が突然何者かにホームから突き落とされた。相変わらず美穂子（戸田恵梨香）とのぎこちない関係が続く深瀬（藤原竜也）をはじめ、飲酒問題を起こした生徒の親の圧力が影響し高校での立場が危ぶまれる浅見（玉森裕太）、誰にも言えない悲惨な夫婦生活を送っていた村井（三浦貴大）。残された３人はそれぞれの人生に葛藤を抱えながら、姿の見えない犯人に日常を脅かされ気が気でない。ある日、深瀬は浅見に呼び出され、村井と３人で集まることに。互いの腹の底をうかがうような会話ばかりが続く中、谷原を突き落とした犯人は広沢（小池徹平）の事件に関わった自分たち全員を恨む人間だと推測する。そして、３人の頭に浮かんだのは、ある１人の女性だった。そんな中、意識不明の谷原のそばで憔悴（しょうすい）しきっている妻・明日香（門脇麦）の元に、小笠原（武田鉄矢）が現れ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>キッズ・ウォー４～ざけんなよ～_[第40話]</title>
-    <id>https://tver.jp/episodes/epxmst3bvu</id>
-    <updated>2026-08-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epxmst3bvu" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ キッズ・ウォー４～ざけんなよ～
-                &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年02月21日(日)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2002年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxmst3bvu.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                茜（井上真央）は翼（斉藤祥太）に「俺の気持ちは変わらない、やっぱり茜が好きだ」と告白される。&lt;br&gt;一方、友恵（島かおり）は大介（川野太郎）の反対を押し切り、大沢（大和田伸也）と結婚する決意をする。&lt;br&gt;茜はこれまで、祐太郎（崎本大海）のことが好きなさゆり（丸川沙綾）や、自分を好きだと言ってくれた翼に気をつかい、自分の気持ちを素直に表せなかった。そんな中、祐太郎は茜と離れるのが寂しく、引っ越しの前日、家を飛び出してしまう。祐太郎を必死で探す茜を見て、翼は複雑な思いだ。&lt;br&gt;そして引っ越し当日。翼は茜に、祐太郎の見送りにいってやるよう、うながす。翼に勇気づけられた茜は、出発直前の祐太郎の元に駆けつけた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>幸せになりたい!_[Take４ ヒットさせます!!]</title>
-    <id>https://tver.jp/episodes/epxkvi56y2</id>
-    <updated>2026-08-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epxkvi56y2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrm0qhpbu5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 幸せになりたい!
-                &lt;a href="https://tver.jp/series/srrm0qhpbu5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxkvi56y2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：8月2日(日)12:00～9月27日(日)23:59&lt;br&gt;#4：8月30日(日)12:00～9月6日(日)11:59&lt;br&gt;#5：9月2日(水)12:00～9月9日(水)11:59&lt;br&gt;#6：9月6日(日)12:00～9月13日(日)11:59&lt;br&gt;#7：9月9日(水)12:00～9月16日(水)11:59&lt;br&gt;#8：9月13日(日)12:00～9月20日(日)11:59&lt;br&gt;#9：9月16日(水)12:00～9月23日(水)11:59&lt;br&gt;#10：9月20日(日)12:00～9月27日(日)23:59&lt;br&gt;------------&lt;br&gt;テレビドラマのスタッフとして働き出し、給料をもらったひかり（深田恭子）。一方、雅子（松下由樹）にロスの国際部異動の話が持ち上がる。雅子のプロデュースするドラマの視聴率が悪かったからだと熊野雄太郎局長（津川雅彦）に言われ、雅子は「自分の企画で勝負したこともないのに納得できません」と悔し涙を流す。涙を見た熊野局長は、スペシャルドラマ企画のコンペに勝ち、視聴率２０％を取れれば異動の話はナシにすると約束する。雅子はひかりと一緒に自宅にこもって、提出する企画作りに没頭する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>いつか好きだと言って_[Step 11 駅伝開幕]</title>
-    <id>https://tver.jp/episodes/eppw7esian</id>
-    <updated>2026-08-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eppw7esian" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srydaryh8j.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ いつか好きだと言って
-                &lt;a href="https://tver.jp/series/srydaryh8j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppw7esian.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：7月26日(日)12:00～9月27日(日)23:59&lt;br&gt;#4-6：8月16日(日)12:00～8月23日(日)11:59&lt;br&gt;#7-9：8月23日(日)12:00～8月30日(日)11:59&lt;br&gt;#10-12：8月30日(日)12:00～9月6日(日)11:59&lt;br&gt;------------&lt;br&gt;会社に１０億円もの損失を出させてしまった木田（鶴見辰吾）は、何日も無断欠勤して消息を絶ち、岬（つみきみほ）や流星（本木雅弘）を心配させる。一方、怪我人続出の駅伝部では、東関東実業団駅伝を前にしてメンバーの１人が盲腸で入院してしまう。窮地に立たされた耕作（竹中直人）は、木田により会社をクビになった元駅伝部のメンバー・田所（田口浩正）を会社に復帰させたいと柚木社長（西村晃）に直談判する。オモチャの開発力も買われて、田所の復帰が決定した。一方、美鈴（鈴木京香）は流星と岬が付き合っていると思い、流星を避けるようになる。駅伝大会を控え、「美鈴さんのために走ります」と流星は美鈴に告げるが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>空飛ぶ広報室_[＃５「過去との再会・初めての告白」]</title>
-    <id>https://tver.jp/episodes/epplfs64y5</id>
-    <updated>2026-08-30T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epplfs64y5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98nf6rys.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 空飛ぶ広報室
-                &lt;a href="https://tver.jp/series/sr98nf6rys" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月30日(日)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月06日(日)11時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epplfs64y5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：7月26日(日)12:00～9月27日(日)23:59&lt;br&gt;#4：8月27日(木)12:00～9月3日(木)11:59&lt;br&gt;#5：8月30日(日)12:00～9月6日(日)11:59&lt;br&gt;#6：9月3日(木)12:00～9月10日(木)11:59&lt;br&gt;#7：9月6日(日)12:00～9月13日(日)11:59&lt;br&gt;#8：9月10日(木)12:00～9月17日(木)11:59&lt;br&gt;#9：9月13日(日)12:00～9月20日(日)11:59&lt;br&gt;#10：9月17日(木)12:00～9月24日(木)11:59&lt;br&gt;#11：9月20日(日)12:00～9月27日(日)23:59&lt;br&gt;------------&lt;br&gt;新企画「自衛隊で活躍する女性幹部に密着！」が通り、柚木（水野美紀）が担当する高射群機動展開訓練の密着取材を進めるリカ（新垣結衣）は、見違えるほど活き活きと仕事に取り組むようになっていた。一方、空井（綾野剛）とリカは、柚木と槙（高橋努）の仲を修復するため、４人で行きつけのバーに集合するようセッティングする。しかし、槙は柚木の男っぽい振る舞いに再び反発し、結局ケンカ別れとなってしまう。翌日、柚木は鷺坂（柴田恭兵）から、訓練に古賀准尉（的場浩司）が参加することを知った槙が、柚木の補佐を申し出たと聞く。しかし柚木は槙を一蹴し…。１１年前、柚木に何があったのか？柚木は無事に高射隊訓練を終えることが出来るのだろうか…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
