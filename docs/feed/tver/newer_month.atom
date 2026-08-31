@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-08-31T02:05:10+09:00</updated>
+  <updated>2026-08-31T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第6話　「お加代 商売敵の出現にあわてる」]</title>
+    <id>https://tver.jp/episodes/epcvftdpur</id>
+    <updated>2026-08-31T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcvftdpur" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年08月31日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月10日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月31日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcvftdpur.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                裏金をもらって、武家の子弟を入学させる学校である憂国館。副館長は館長渋井にその件を抗議するが、逆に殺されてしまった。ちょうど主水が現場を通ったのだが、渋井に通じる内与力内田の一言ですべてがおとがめなしに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>キスは捜査のあとで_[#6　終わりにしたくない]</title>
     <id>https://tver.jp/episodes/ephqur97fu</id>
