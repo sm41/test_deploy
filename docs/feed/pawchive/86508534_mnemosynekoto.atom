@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mnemosynekoto</title>
   <id>https://pawchive.pw/</id>
-  <updated>2026-08-29T16:00:00+00:00</updated>
+  <updated>2026-09-01T04:00:00+00:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/pawchive/86508534_mnemosynekoto.atom" />
+  <entry>
+    <title>degenbrecher {arknights} gym edition 83 images</title>
+    <id>https://pawchive.pw/patreon/user/86508534/post/168253944</id>
+    <updated>2026-09-01T01:01:05+00:00</updated>
+    <link href="https://pawchive.pw/patreon/user/86508534/post/168253944" />
+    <content type="html">&lt;p&gt;Full set in the mega link&lt;/p&gt;&lt;p&gt;&lt;a href="https://mega.nz/folder/b3ZDmbpT#tpWzZaizVN2ccnkNa1fQBg"&gt;https://mega.nz/folder/b3ZDmbpT#tpWzZaizVN2ccnkNa1fQBg&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src=https://img.pawchive.pw/thumbnail/data/14/8c/148c492ebfdb2ab77dd7562f8c39cbb804fed83ce2ffcc91de263c9f0dc4c68f.png alt="image"&gt;
+&lt;img src=https://img.pawchive.pw/thumbnail/data/ba/fe/bafe74c363459e65f4c0ebcba9aeca6613e3426a47d5197f4befe1a32b5f7b03.png alt="image"&gt;</content>
+  </entry>
   <entry>
     <title>misono kirika {eiken} 119 images</title>
     <id>https://pawchive.pw/patreon/user/86508534/post/167948769</id>
@@ -594,18 +604,5 @@
 &lt;img src=https://img.pawchive.pw/thumbnail/data/0a/76/0a76a519ad399e1c300657b276810b47020eecfb752a31d801a930d3a65b5575.png alt="image"&gt;
 &lt;img src=https://img.pawchive.pw/thumbnail/data/38/3c/383c48c13a17ccdcee965579beec29ebe42182c4c811a1aee1870c17f4032a73.png alt="image"&gt;
 &lt;img src=https://img.pawchive.pw/thumbnail/data/a5/38/a53899eb11d771c6c8be1b53cb197ddcc69d68dddd2f6be6951dec1730c3aee6.png alt="image"&gt;</content>
-  </entry>
-  <entry>
-    <title>Yoko littner { tengen toppa gurren lagann} 226 images</title>
-    <id>https://pawchive.pw/patreon/user/86508534/post/164749092</id>
-    <updated>2026-07-24T18:41:06+00:00</updated>
-    <link href="https://pawchive.pw/patreon/user/86508534/post/164749092" />
-    <content type="html">&lt;p&gt;Full set int the mega link!&lt;/p&gt;&lt;p&gt;&lt;a href="https://mega.nz/folder/mmYVwQiJ#ObfLnnIaaPSt2i_RDAn-wA"&gt;https://mega.nz/folder/mmYVwQiJ#ObfLnnIaaPSt2i_RDAn-wA&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/42/65/42653c6b3d5bce9db9191211a562c71cc59833979452afdd4f66d9f81ff581e9.png alt="image"&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/42/65/42653c6b3d5bce9db9191211a562c71cc59833979452afdd4f66d9f81ff581e9.png alt="image"&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/dc/97/dc97f676c5718331a9a22592459e946747b01148c9973aa40304c9f7cecfc26b.png alt="image"&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/42/38/423852787668b16a3838605ac52ca0d252f8c644807afbd7454e5b82594f7e6c.png alt="image"&gt;
-&lt;img src=https://img.pawchive.pw/thumbnail/data/a1/6a/a16a745514a0d063fca281f58d82ba0332e0e3f7f44cf5edb84b89d8e0fa77f4.png alt="image"&gt;</content>
   </entry>
 </feed>
