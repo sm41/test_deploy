@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-02T00:05:13+09:00</updated>
+  <updated>2026-09-02T02:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>恋をするなら二度目が上等 season2_[#1「近くて遠い、まだ知らない先輩のこと」]</title>
+    <id>https://tver.jp/episodes/ep35fgvxp3</id>
+    <updated>2026-09-02T02:01:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep35fgvxp3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzd5g7b80.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 恋をするなら二度目が上等 season2
+                &lt;a href="https://tver.jp/series/srzd5g7b80" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)02時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep35fgvxp3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校時代の初恋の相手であり、かつて自分を裏切ったはずの男・岩永崇（古屋呂敏）と再会し、二度目の恋に落ちた編集者の宮田晃啓（長谷川慎）。同棲を始めて2年が経ち、互いの存在をより愛おしく感じながら、穏やかな日々を過ごしていた。&lt;br&gt;ある日、宮田はベッドの下で崇の見覚えのない高級腕時計を見つける。「学生時代に親しくしていた人からもらった」という崇の言葉に、宮田の心には小さな嫉妬が芽生えて…。&lt;br&gt;そんな中、崇の大学時代の先輩であり、容姿端麗な経済学者・日比野孝明（深水元基）がテレビ番組に登場。さらに宮田が崇との打ち合わせを楽しみに大学へ向かう頃、日比野は突如、崇の研究室へと現れる。雑誌のインタビューで崇が語った「大切な人」の存在を知った日比野は、「ずっと君に会いたかった」と静かに告げ――。&lt;br&gt;誰よりも近くにいるはずなのに、まだ知らない“先輩”がいる。&lt;br&gt;深まる愛の裏で静かに、新たな波乱が動き出す――！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>君の好きは無敵_[第８話 前代未聞の罠だらけコンペ!?愛のプロポーズの行方]</title>
     <id>https://tver.jp/episodes/ephgdjvnae</id>
