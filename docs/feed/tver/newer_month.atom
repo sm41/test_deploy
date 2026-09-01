@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-01T16:05:13+09:00</updated>
+  <updated>2026-09-01T18:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第5夜 浴衣で夏の味覚]</title>
+    <id>https://tver.jp/episodes/epvn55onde</id>
+    <updated>2026-09-01T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvn55onde" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月01日(火)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvn55onde.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                夏休みの話題で盛り上がるオフィス。だが、ワカコ（武田梨奈）のスケジュール帳は真っ白。定時に上がったら、まだ明るい空。夏の訪れを感じたワカコはとうもろこしの天ぷらに惹かれて、ある蕎麦屋へ。ビールとサクサクのとうもろこし天を堪能したワカコにひらめきが！　箪笥から浴衣を引っ張りだしたワカコは浅草へ。射的をしたり、かき氷を食べたり、日本の夏を楽しんだワカコが向かったのはあのお店。浴衣姿のワカコに華やぐ店内。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第4話]</title>
+    <id>https://tver.jp/episodes/epgwry9qk9</id>
+    <updated>2026-09-01T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgwry9qk9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月01日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月01日(月)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgwry9qk9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ミョンファンは自らの側近になるようジェジュンを誘うがはねつけられてしまう。&lt;br&gt;腹いせにウン会長にジェジュンのことを告げ口するが逆に激しく叱責されてしまい、その余りの剣幕に驚く。&lt;br&gt;一方で心ならずも謝罪のため屋敷を訪ねたセヨンをギョンヘは一旦は拒絶するが…。&lt;br&gt;そんな中、ギョンヘが騒ぎを起こしたことが記事になってしまい焦るウン会長は、まんまとミョンファンの口車に乗せられ、ギョンヘにハワイへ療養に行くように言う。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第20話]</title>
     <id>https://tver.jp/episodes/epgedeziew</id>
@@ -435,105 +501,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 昼休み、雑誌の商店街特集を熟読するワカコ（武田梨奈）。次の休みに早速、自由気ままな飲み歩き。向かったのは中野の川島商店街。ぶらぶらしながら最初に入ったのはカメラが飾ってあるお店。とりあえず、冷やしトマトとサワーでひんやり。続いて鶏わさと芋焼酎を……。和菓子屋さんでお土産をゲットしたワカコはレトロなバルへ。ハイボールとごま塩キャベツをオーダー。夕暮れ時にはハイボールが似つかわしい。〆のもう一品は……？　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第3話]</title>
-    <id>https://tver.jp/episodes/epqrqo00j4</id>
-    <updated>2026-08-31T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epqrqo00j4" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月31日(月)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年02月28日(日)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月31日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqrqo00j4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                入院先の病院で会話を交わすギョンヘとセヨン。&lt;br&gt;そんな中、病院に到着したヨンスクはセヨンを無理やり病院から連れ帰ってしまう。&lt;br&gt;ギョンヘはセヨンが急に退院してしまったことに理不尽な怒りを爆発させ、わざわざ店にまで行きセヨンを執拗に責める。&lt;br&gt;そんな中、ウィナーズのウン会長は唯一の孫であるギョンヘが問題を起こしたことを聞き心配でならないが、一方で夫のミョンファンは心配するどころかむしろ満足げな様子を見せ…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>戦神~MARS~_[第16話　キラの帰る場所]</title>
-    <id>https://tver.jp/episodes/epssdg2kh5</id>
-    <updated>2026-08-31T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epssdg2kh5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srontrjpdd.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 戦神~MARS~
-                &lt;a href="https://tver.jp/series/srontrjpdd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月31日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年02月28日(日)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月31日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epssdg2kh5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                継父を信じる母に失望した麻生キラは、過去を断ち切り樫野零と共に生きることを決意。二人は一緒に暮らし始める。キラを守りたい零は結婚を申し込み、学校を辞めてプロレーサーとして生きる覚悟を固める。そんな中、零の父・崇之の恋人である椎名苑子がキラを訪ねてくる。一方その頃、キラの継父は零の住所を学校で聞き回っていて…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>華麗なるスパイス_[第14話 それぞれの切なる願い]</title>
-    <id>https://tver.jp/episodes/epduqq9xr0</id>
-    <updated>2026-08-31T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epduqq9xr0" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年08月31日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月07日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 8月30日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epduqq9xr0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ついに迎えた「7日間の契約」最終日。芬青(フェンチン)は夜市の仲間の知恵を借り、独自の感性を注いだ「カレー伊勢えび」で最終試験に挑む。合格なら夜市へ戻り、不合格ならラ・ミュールに残留という過酷な条件。彼女を離したくない廷恩(ティンエン)が下す、苦渋の決断とは？二人の願いが交錯する、涙の最終審査が始まる。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
