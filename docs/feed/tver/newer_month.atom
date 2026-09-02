@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-02T14:05:12+09:00</updated>
+  <updated>2026-09-02T16:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>一筆お祓いいたします_[第5話 私よりきれい？]</title>
+    <id>https://tver.jp/episodes/eppj875q2p</id>
+    <updated>2026-09-02T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eppj875q2p" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月02日(金)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月2日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppj875q2p.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                献体青年の刺青の宮女は、徐々にその姿が崩れ始めていた。宮女は献体が腐敗してしまう前に、この青年の名前を調べてほしいと訴える。宮女の願いを叶えようとする一永(イーヨン)らは、青年のことを知るタクシー運転手を見つけるが、一永が運転手と揉め事を起こしてしまう。しかしこの一件から、青年に関する重要な情報を得ることに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第21話]</title>
     <id>https://tver.jp/episodes/ep4r5wn10r</id>
@@ -336,39 +369,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ミョンファンは自らの側近になるようジェジュンを誘うがはねつけられてしまう。&lt;br&gt;腹いせにウン会長にジェジュンのことを告げ口するが逆に激しく叱責されてしまい、その余りの剣幕に驚く。&lt;br&gt;一方で心ならずも謝罪のため屋敷を訪ねたセヨンをギョンヘは一旦は拒絶するが…。&lt;br&gt;そんな中、ギョンヘが騒ぎを起こしたことが記事になってしまい焦るウン会長は、まんまとミョンファンの口車に乗せられ、ギョンヘにハワイへ療養に行くように言う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>鉄の王　キム・スロ_[第20話]</title>
-    <id>https://tver.jp/episodes/epgedeziew</id>
-    <updated>2026-09-01T10:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epgedeziew" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 鉄の王　キム・スロ
-                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月01日(火)10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月08日(火)10時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgedeziew.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                イジンアシはスロのことを兄と認められず、スロのことで頭がいっぱいの母親に失望する。イジンアシは密偵を逃がした罪でスロを処刑すべきだと主張し、チョンギョンは苦悩の末それを認めるが…。&lt;br&gt;一方、スロの製鉄場建設のためにヌク島からも働き手が到着し、皆の協力を得てヘバン川に製鉄場の建設に取り掛かる。その知らせを聞いたアヒョは製鉄場への密偵がてらスロに会いに行き、自分の気持ちを隠したまま別れを告げるのだった。&lt;br&gt;そのころ自分のためにスロが脅迫されていると知った養母は、ある決断をするのだった。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
