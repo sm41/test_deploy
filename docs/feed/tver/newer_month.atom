@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-02T02:05:13+09:00</updated>
+  <updated>2026-09-02T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第8話　「せんとりつ 子供をもらう!?」]</title>
+    <id>https://tver.jp/episodes/epy44y7ju4</id>
+    <updated>2026-09-02T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epy44y7ju4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月2日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy44y7ju4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                水茶屋の女が殺される事件が続いていた。ところが主水はそれどころではなかった。せんらが跡継ぎができないことを焦り、養子を迎えることを決めたのだ。そんなある日、加代の長屋の平之進が殺しの容疑で捕まった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>スピナーベイト_[第10話 座して死を待つな 立ち上がって殺せ]</title>
+    <id>https://tver.jp/episodes/epxusxbii5</id>
+    <updated>2026-09-02T02:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxusxbii5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)02時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月09日(水)02時20分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxusxbii5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                メグからの電話で、大悟が吉見と思しき男に連れられ、タクシーで姿を消したと知る三井。メグと合流し、吉見にまつわる場所を片っ端から当たるが、2人の行方は掴めないままだった。一方、橋脚の土手では、吉見と大悟が並んで座り、張り詰めた沈黙に包まれていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>恋をするなら二度目が上等 season2_[#1「近くて遠い、まだ知らない先輩のこと」]</title>
     <id>https://tver.jp/episodes/ep35fgvxp3</id>
