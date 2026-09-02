@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-02T18:05:14+09:00</updated>
+  <updated>2026-09-02T20:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season9_[第12話（最終回） 神奈川県伊勢佐木長者町のチーズハンバーグと牛ヒレの生姜焼き]</title>
+    <id>https://tver.jp/episodes/eps1onqmoz</id>
+    <updated>2026-09-02T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eps1onqmoz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season9
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月2日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps1onqmoz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仕事で伊勢佐木長者町にやってきた井之頭五郎（松重豊）。古い街並みを通り、商談相手の伊藤良介が経営するお米屋さんにたどり着く。中に入ると、伊藤の妻の寛子が出て来て、五郎は何故か怒られてしまう。実は、夫の釣り仲間が営業マンのフリをして、夫を釣りに連れ出そうとしに来ていると勘違いされていたのだ。なんとか誤解が解け、商談を始めるがお米屋さんで売っている【おむすび】が気になり商談に集中できない。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>人形の家～偽りの絆～（放送版）_[第5話]</title>
     <id>https://tver.jp/episodes/ep8xk6ykzl</id>
