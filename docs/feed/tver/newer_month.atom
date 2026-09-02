@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-02T16:05:13+09:00</updated>
+  <updated>2026-09-02T18:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第5話]</title>
+    <id>https://tver.jp/episodes/ep8xk6ykzl</id>
+    <updated>2026-09-02T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep8xk6ykzl" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月02日(火)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月2日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8xk6ykzl.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                セヨンと出会ってから少しずつ変わり始めるギョンヘ。&lt;br&gt;依存症治療のための薬を飲むのを止めると言い出す。&lt;br&gt;ギョンヘを薬漬けにしておきたいミョンファンは焦り、自分と不倫関係にあるギョンヘの主治医のヒョジョンに相談する。&lt;br&gt;そんな中、ギョンヘに食事に誘われるセヨン。&lt;br&gt;なぜか2人が接近することが心配でならない様子のヨンスクはセヨンを呼び出し留学をすすめるが、セヨンはギョンヘとの食事の約束を守ろうとヨンスクを振り切る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一筆お祓いいたします_[第5話 私よりきれい？]</title>
     <id>https://tver.jp/episodes/eppj875q2p</id>
