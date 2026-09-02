@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-02T20:05:13+09:00</updated>
+  <updated>2026-09-02T22:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Episode7 消えた相棒]</title>
+    <id>https://tver.jp/episodes/ep92934rsm</id>
+    <updated>2026-09-02T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep92934rsm" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
+                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月09日(水)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月2日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep92934rsm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                深夜の路上で警察官が銃撃される事件が発生。「I am 警殺官」と書かれた犯行声明に怒りを燃やすＳＳＢＣだが、聞き込み中の小山田（髙木雄也）が消息を絶ってしまう。直後、「1億円を用意しなければ小山田を殺す」という前代未聞の警察への身代金要求が届く。自分が別行動を提案したことに自責の念を抱く城（野村康太）らＳＳＢＣと捜査一課は、タイムリミットが迫る中、警察の威信を懸けた決死の救出作戦に挑む。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season9_[第12話（最終回） 神奈川県伊勢佐木長者町のチーズハンバーグと牛ヒレの生姜焼き]</title>
     <id>https://tver.jp/episodes/eps1onqmoz</id>
@@ -402,39 +435,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 夏休みの話題で盛り上がるオフィス。だが、ワカコ（武田梨奈）のスケジュール帳は真っ白。定時に上がったら、まだ明るい空。夏の訪れを感じたワカコはとうもろこしの天ぷらに惹かれて、ある蕎麦屋へ。ビールとサクサクのとうもろこし天を堪能したワカコにひらめきが！　箪笥から浴衣を引っ張りだしたワカコは浅草へ。射的をしたり、かき氷を食べたり、日本の夏を楽しんだワカコが向かったのはあのお店。浴衣姿のワカコに華やぐ店内。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第4話]</title>
-    <id>https://tver.jp/episodes/epgwry9qk9</id>
-    <updated>2026-09-01T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epgwry9qk9" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月01日(火)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年03月01日(月)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgwry9qk9.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ミョンファンは自らの側近になるようジェジュンを誘うがはねつけられてしまう。&lt;br&gt;腹いせにウン会長にジェジュンのことを告げ口するが逆に激しく叱責されてしまい、その余りの剣幕に驚く。&lt;br&gt;一方で心ならずも謝罪のため屋敷を訪ねたセヨンをギョンヘは一旦は拒絶するが…。&lt;br&gt;そんな中、ギョンヘが騒ぎを起こしたことが記事になってしまい焦るウン会長は、まんまとミョンファンの口車に乗せられ、ギョンヘにハワイへ療養に行くように言う。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
