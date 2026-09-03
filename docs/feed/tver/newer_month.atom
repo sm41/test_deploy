@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-03T16:05:13+09:00</updated>
+  <updated>2026-09-03T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第6話]</title>
+    <id>https://tver.jp/episodes/epiaot8u3h</id>
+    <updated>2026-09-03T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epiaot8u3h" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月03日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月03日(水)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月3日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiaot8u3h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                セヨンの勤めるブティックのVIPイベントが開かれギョンヘもやって来るが、たまたま忘れ物を届けに来たセヨンの父ピルモクと店の前でぶつかってしまう。&lt;br&gt;ギョンヘはピルモクを汚い言葉で罵りセヨンを激怒させるが、これは薬を止めた影響でギョンヘは自分自身に困惑する。&lt;br&gt;一方、ウン会長に命じられたジェジュンはセヨンにこの先ギョンヘに接触しないように言いに行くが、その勝手な言い分にセヨンは気分を害して…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第22話]</title>
     <id>https://tver.jp/episodes/epqeytjv8j</id>
@@ -534,72 +567,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 水茶屋の女が殺される事件が続いていた。ところが主水はそれどころではなかった。せんらが跡継ぎができないことを焦り、養子を迎えることを決めたのだ。そんなある日、加代の長屋の平之進が殺しの容疑で捕まった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>スピナーベイト_[第10話 座して死を待つな 立ち上がって殺せ]</title>
-    <id>https://tver.jp/episodes/epxusxbii5</id>
-    <updated>2026-09-02T02:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epxusxbii5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ スピナーベイト
-                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)02時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月09日(水)02時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxusxbii5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                メグからの電話で、大悟が吉見と思しき男に連れられ、タクシーで姿を消したと知る三井。メグと合流し、吉見にまつわる場所を片っ端から当たるが、2人の行方は掴めないままだった。一方、橋脚の土手では、吉見と大悟が並んで座り、張り詰めた沈黙に包まれていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>恋をするなら二度目が上等 season2_[#1「近くて遠い、まだ知らない先輩のこと」]</title>
-    <id>https://tver.jp/episodes/ep35fgvxp3</id>
-    <updated>2026-09-02T02:01:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep35fgvxp3" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzd5g7b80.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 恋をするなら二度目が上等 season2
-                &lt;a href="https://tver.jp/series/srzd5g7b80" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月02日(水)02時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)01時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月1日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep35fgvxp3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                高校時代の初恋の相手であり、かつて自分を裏切ったはずの男・岩永崇（古屋呂敏）と再会し、二度目の恋に落ちた編集者の宮田晃啓（長谷川慎）。同棲を始めて2年が経ち、互いの存在をより愛おしく感じながら、穏やかな日々を過ごしていた。&lt;br&gt;ある日、宮田はベッドの下で崇の見覚えのない高級腕時計を見つける。「学生時代に親しくしていた人からもらった」という崇の言葉に、宮田の心には小さな嫉妬が芽生えて…。&lt;br&gt;そんな中、崇の大学時代の先輩であり、容姿端麗な経済学者・日比野孝明（深水元基）がテレビ番組に登場。さらに宮田が崇との打ち合わせを楽しみに大学へ向かう頃、日比野は突如、崇の研究室へと現れる。雑誌のインタビューで崇が語った「大切な人」の存在を知った日比野は、「ずっと君に会いたかった」と静かに告げ――。&lt;br&gt;誰よりも近くにいるはずなのに、まだ知らない“先輩”がいる。&lt;br&gt;深まる愛の裏で静かに、新たな波乱が動き出す――！？
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
