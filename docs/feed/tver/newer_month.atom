@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-03T20:05:12+09:00</updated>
+  <updated>2026-09-03T22:05:18+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[第7話 愛を審査！]</title>
+    <id>https://tver.jp/episodes/epspgy4ld2</id>
+    <updated>2026-09-03T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epspgy4ld2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月03日(木)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月10日(木)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月3日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epspgy4ld2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                《GATE24》が結婚詐欺疑惑の2組のカップルの“愛”を審査!?&lt;br&gt;&lt;br&gt;《GATE24》の審査ブースで、婚約カップルの都築燈子（真飛聖）＆ルカ、そして税関職員・森万智（趣里）と入国審査官・早見圭一郎（眞栄田郷敦）が人質となる立てこもり事件が発生！&lt;br&gt;犯人は、燈子の元恋人・郡司亮介（橋本淳）。&lt;br&gt;郡司は、ルカが結婚詐欺師で、燈子が騙されていると主張、&lt;br&gt;万智たちに結婚詐欺の証拠を見つけるべく“愛”を審査することを要求！&lt;br&gt;&lt;br&gt;燈子は否定するが、やがて怪しい点が次々と浮かび上がり…!?&lt;br&gt;さらに、同じ便に乗っていた別のカップルの結婚詐欺疑惑も出てきて、グルの犯行の可能性が!?&lt;br&gt;そんな中、万智がルカの荷物の中からある事実を導き出し…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season10_[第1話 神奈川県相模原市橋本の牛肉のスタミナ炒めとネギ玉]</title>
     <id>https://tver.jp/episodes/epk9u3u7a0</id>
