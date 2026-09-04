@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-04T12:05:12+09:00</updated>
+  <updated>2026-09-04T14:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>追撃者～逆局～_[第8話　インク]</title>
+    <id>https://tver.jp/episodes/ep29xsvnjg</id>
+    <updated>2026-09-04T13:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep29xsvnjg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp9mza769.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 追撃者～逆局～
+                &lt;a href="https://tver.jp/series/srp9mza769" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月04日(金)13時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年01月15日(金)13時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月4日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep29xsvnjg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                拘置所内の殺人事件に関し、梁炎東(リャン・イェンドン)がプロファイリングした容疑者は、服役囚の田永強(ティエン・ヨンチアン)と共犯の刑務官だった。それに基づき捜査を進める任非(レン･フェイ)。一方、譚(タン)隊長ら機動捜査隊は、連続殺人事件の捜査で、ある病院を訪れていた。そこにライバルの刑事たちが現れる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第23話]</title>
     <id>https://tver.jp/episodes/epintguldf</id>
