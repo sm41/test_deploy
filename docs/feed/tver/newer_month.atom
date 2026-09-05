@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-05T22:05:11+09:00</updated>
+  <updated>2026-09-06T00:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[第9話 家族と恋のはざまで…]</title>
+    <id>https://tver.jp/episodes/epfnrkmc68</id>
+    <updated>2026-09-05T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epfnrkmc68" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)23時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月5日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfnrkmc68.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校3年生の武宮夏輝（深田竜生）は突然、父・悟郎（井上肇）から、家庭教師・小早川蒼汰（浮所飛貴）の授業を受けるのはもう終わりにしろと言われ、わけがわからず戸惑う。実は、夏輝と蒼汰が仲良く撮ったプリントシールを偶然見てしまった悟郎は、2人のいい感じの空気に感づき、どうしたら良いか分からなくなってしまっていたのだ。&lt;br&gt;悟郎の態度が急に変化した事に嫌な予感を覚えた姉・莉緒（田辺桃子）と母・十和子（羽田美智子）は、夏輝に心当たりがないかたずねるが…？&lt;br&gt;夏輝は蒼汰に家族の様子を相談するが、なかなか答えを見つけられずにいた。&lt;br&gt;そんな中、夏輝はある決意を固めて――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ドラマ　宅飲みシェアハウス_[＃８　油ゾーメン]</title>
+    <id>https://tver.jp/episodes/epcpxhtgqe</id>
+    <updated>2026-09-05T23:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcpxhtgqe" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6hry6175.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ　宅飲みシェアハウス
+                &lt;a href="https://tver.jp/series/sr6hry6175" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)23時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月05日(月)23時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月5日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcpxhtgqe.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                北園涼（本人役）の実家からシェアハウスに荷物が送られてきた。&lt;br&gt;その中に入っていた芋焼酎を鹿児島の郷土料理をつまみに楽しもうと油ゾーメンを作ることに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>告白―25年目の秘密―_[第8話 25年も見守ってしまい、すみません]</title>
     <id>https://tver.jp/episodes/eplbnjki73</id>
@@ -105,171 +171,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 文化祭当日、高熱を押して登校した間山晴は、朝宮光星に止められながらも、「最後までやり切れたら、自分のことを少しは好きになれる気がする」と参加を決意する。朝宮はその想いを尊重し、冷却シートや飲み物を用意して支えながら、「文化祭を一緒に回る体力だけは残して」と約束を交わす。&lt;br&gt;&lt;br&gt;お化け屋敷が始まると、狼男役の間山は懸命に客を驚かせ、仲間や来場者から高い評価を受ける。しかし無理がたたり、体調は次第に悪化。ふらつく間山を見た朝宮は「自分を大事にしろ」と強く言い、文化祭の途中で保健室へ連れて行く。&lt;br&gt;&lt;br&gt;目を覚ました間山は、自分のせいで文化祭を台無しにしたと落ち込む。だが榊や常川田は「大成功だった」と笑顔で迎え、朝宮がドラキュラ役として代役を務めて最後まで教室を支えたことを知る。朝宮は「狼男は間山のものだから」と役を奪わず、自分にできる形で仲間を支えていた。&lt;br&gt;&lt;br&gt;保健室で二人きりになると、朝宮は「間山のためなら、これくらい何でもない」と語り、誰かのために行動する喜びを初めて知ったと打ち明ける。さらに兄・天から聞いた間山の過去や孤独を踏まえ、「“俺なんか”なんて、もう言わないで」と真っ直ぐ想いを伝え、優しく抱きしめる。その温もりに包まれた間山は、朝宮への想いが確かな恋へと変わっていることを実感する。&lt;br&gt;&lt;br&gt;帰り道、来年こそ文化祭を一緒に楽しもうと約束し、間山は告白への答えを伝えようと決意する。しかし、その言葉を遮るように朝宮は「俺のことは、好きにならなくていいからね」と告げる。思いがけない一言に、間山は言葉を失い、二人の恋は新たな局面を迎える。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>晩酌の流儀５_[第10話（最終回） 「白菜の漬物餃子」]</title>
-    <id>https://tver.jp/episodes/epacpwdkfp</id>
-    <updated>2026-09-05T01:23:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epacpwdkfp" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr32wpyhyv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 晩酌の流儀５
-                &lt;a href="https://tver.jp/series/sr32wpyhyv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)01時23分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月03日(土)00時51分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月4日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epacpwdkfp.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                究極の晩酌を追求する伊澤美幸（栗山千明）は、職業体験に来た小学生・内見巧（木村優来）の部屋探しを担当！父のために奮闘する巧へ物件を案内するが、大家・竜崎雷蔵（山田明郷）は彼を拒絶する。しかし、炒飯作りを通じて二人の心に温かい奇跡が!?感動の結末を見届けた美幸は、帰り道に購入した漬物を使い、自宅で白菜の漬物餃子やしば漬け炒飯など中華フルコースを調理。　［期間限定無料配信］　テレビ東京にて7月3日(金)スタート！毎週金曜深夜24時52分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-_[第10話 「押切異談」]</title>
-    <id>https://tver.jp/episodes/epw8mfglx0</id>
-    <updated>2026-09-05T00:52:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epw8mfglx0" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjaxm08zo.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-
-                &lt;a href="https://tver.jp/series/srjaxm08zo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)00時52分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)00時51分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月4日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw8mfglx0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                高校生・押切トオル（齋藤潤）は、両親が不在の屋敷で孤独な日々を送っていた。ある日、同じように孤独を抱える藤井未央（陣野小和）と出会い、次第に距離を縮めていく。しかし、未央のペンフレンドから「殺す」と書かれた手紙や不気味な写真が届くように。身の危険を感じた押切は未央を自宅へ招くが、そこでも人影や足音など不可解な現象が相次ぐ。屋敷に隠された秘密、そして二人を待ち受ける“あちらの世界”とは――？　［期間限定無料配信］　テレビ東京にて7月3日(金)スタート！毎週金曜深夜24時12分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>名探偵のままでいて_[最終話 さようなら、名探偵]</title>
-    <id>https://tver.jp/episodes/epj6mpatb1</id>
-    <updated>2026-09-05T00:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epj6mpatb1" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1ay4um4t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 名探偵のままでいて
-                &lt;a href="https://tver.jp/series/sr1ay4um4t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)00時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月4日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj6mpatb1.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                楓（吉川愛）の前に現れた久喜（勝村政信）のナイフによって重傷を負った四季（綱啓永）！&lt;br&gt;「僕のシナリオ通り」と力なく微笑む四季は、なぜ楓が急襲されることを知っていたのか――？&lt;br&gt;同じ頃、何者かに襲われて入院する祖父（奥田瑛二）はレビー小体型認知症の症状が深刻化して…？&lt;br&gt;昏睡状態の祖父に、楓は先日参加したパーティーで感じた《ある作為的な違和感》を涙ながらに語り出して――。&lt;br&gt;果たして祖父は再び“名探偵”となって謎に包まれた《物語X》を紡ぐことができるのだろうか…？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>DREAM STAGE_[第６話 夢も仲間も捨て…涙と決意のラストライブ]</title>
-    <id>https://tver.jp/episodes/epwojhxtgx</id>
-    <updated>2026-09-05T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epwojhxtgx" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月20日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwojhxtgx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：7月19日(日)0:00～9月27日(日)23:59&lt;br&gt;#3：8月23日(日)0:00～8月30日(日)23:59&lt;br&gt;#4：8月27日(木)0:00～9月3日(木)23:59&lt;br&gt;#5：8月31日(月)0:00～9月7日(月)23:59&lt;br&gt;#6：9月5日(土)0:00～9月12日(土)23:59&lt;br&gt;#7：9月10日(木)0:00～9月17日(木)23:59&lt;br&gt;#8：9月15日(火)0:00～9月22日(火)23:59&lt;br&gt;#9：9月20日(日)0:00～9月27日(日)23:59&lt;br&gt;------------&lt;br&gt;「生き残るには１位獲得がマスト」と悲壮な決意で挑んだデビューランキングだったが、TORINNERに敗れたNAZE。デビュー曲で１位を取れなかったグループは数年以内に消えるという過去のデータがTEAM NAZEに重くのしかかる。「勝てなかったのは俺の責任だ、申し訳ない」と頭を下げる吾妻（中村倫也）。そして「負け犬のまま人生を無駄にしたくなければ、他の生き方を選ぶ手もある」という吾妻の言葉を呆然と聞いているユンギ。実はユンギは、芸能活動に反対する父・シニャン（チェ・ジノ）と“１位を取れなかったら芸能活動を辞める”という約束をしていた。シニャンは幾つもの会社を経営する社長。「お前なんかがアイドルなどできる訳ないと言っただろ」と厳しく言い放ち、「人生に失敗したくなければ、私の言う通りにしなさい」と、日本支社の経営を息子であるユンギに委ねようとする。夢を諦める…胸が張り裂けそうな切ない思いを抱えるユンギ。&lt;br&gt;他のメンバーや水星（池田エライザ）がTORINNERに勝てるよう再チャレンジに向けて前向きになる中、ユンギはNAZEを脱退する決意を固める。最後のライブを終えたユンギは、メンバーに「今日でNAZEを辞める」と告げ、「こんな下らない奴らと組んでても未来がない。もう遊んでなんかいられないって言ってんだよ！」と、わざと嫌われるようなことを言い捨て、去っていく。あふれでる涙を止めることができないユンギ。&lt;br&gt;一方、メンバーたちは「遊びだったんだ」「見損なった」と憤慨。吾妻は何とかグループに戻せないかとユンギの父親に相談するが、そこで予想もしなかった秘密が明らかになる――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ゆかりくんはギャップがずるい_[第1話　ギャップがずるい！]</title>
-    <id>https://tver.jp/episodes/epasr567l1</id>
-    <updated>2026-09-04T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epasr567l1" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srofqchtnc.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ゆかりくんはギャップがずるい
-                &lt;a href="https://tver.jp/series/srofqchtnc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月04日(金)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月18日(金)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月4日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epasr567l1.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                芽衣子（渡邉美穂）はアナウンサー志望だったが夢破れ、今はイベント会社勤務の傍ら、非常勤講師としてアナウンス学校で教えている。心折れそうな中、唯一真剣に授業を聞いてくれる「ゆかりくん」こと葉山縁（高尾颯斗）に癒されていた。&lt;br&gt;年下でかわいい子犬のような彼に密かにときめく芽衣子は、友人でアナウンサーのマキ（濱岸ひより）にはあくまでも生徒だと言い聞かせる。そんなある日、芽衣子は街で不良に絡まれるゆかりくんを発見。不良の魔の手が伸びた瞬間、ゆかりくんが驚きの行動を取り、衝撃を受ける。そして、ゆかりくんの意外な正体を知ることになって、そのギャップに芽衣子は大混乱。ギャップがずるい～！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
