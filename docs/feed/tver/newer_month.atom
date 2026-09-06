@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-06T22:05:12+09:00</updated>
+  <updated>2026-09-07T00:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>一次元の挿し木_[最終話【宿命と運命】]</title>
+    <id>https://tver.jp/episodes/epy4t2by4q</id>
+    <updated>2026-09-06T23:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epy4t2by4q" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4zzew7hk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一次元の挿し木
+                &lt;a href="https://tver.jp/series/sr4zzew7hk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月06日(日)23時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月04日(日)22時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月6日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy4t2by4q.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                時を超えた謎に挑むヒューマンミステリー&lt;br&gt;インドで発掘された２００年前の人骨が失踪した義妹のDNAと完全に一致…&lt;br&gt;関係者の不審な死、盗まれた人骨、消えた過去の記憶…真実の果てに待つ想像を絶する結末とは―&lt;br&gt;&lt;br&gt;ちゃぽん、ちゃぽん――。山城美術館にいた真理（白石聖）の前に、ポリタンクを持った牛尾（吉原光夫）が現れた！　紫陽（堀田真由）の姿を探す牛尾に、真理が「ここには私しかいない」と告げたそのとき、銃声が響き渡った。&lt;br&gt;一方、悠（山田涼介）と義父の京一（佐々木蔵之介）は、佳代子（鈴木保奈美）から恐ろしい話を聞く。&lt;br&gt;急いで山城美術館に向かう中、銃声が聞こえ動悸が激しくなる悠。&lt;br&gt;ついに山城美術館に到着したそのとき、目の前に衝撃的な光景が広がっていて――！　&lt;br&gt;果たして、悠は紫陽と再会することができるのか――。待ち受ける、想像を絶する結末とは！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>VIVANT_[第十七話 下された非情な決断 試される兄弟の愛!?]</title>
     <id>https://tver.jp/episodes/eplt6x9yjp</id>
