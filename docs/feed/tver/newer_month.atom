@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-07T00:05:10+09:00</updated>
+  <updated>2026-09-07T02:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>カガミタタリ_[第一話　キリコとの邂逅]</title>
+    <id>https://tver.jp/episodes/epuxc8qsm4</id>
+    <updated>2026-09-07T01:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epuxc8qsm4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsf11pw7b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ カガミタタリ
+                &lt;a href="https://tver.jp/series/srsf11pw7b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)01時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月6日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuxc8qsm4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                生徒の失踪が相次ぐ桜ヶ丘高校では、鏡にまつわる怪談「鏡の中のキリコ」が囁かれていた。桐山菜月はどこか他人事のように感じていたが、ついにクラスメイトの死亡が知らされる。親友・雪村咲良と女子トイレで噂の動画を見ていると、咲良の様子が一変。鏡に釘付けとなった彼女は、菜月と影宮美奈の目の前で命を奪われる。鏡の中には、顔を包帯で覆った少女の姿が。影宮から「目を合わせてはいけない」と警告される菜月だったが――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>キスは捜査のあとで_[#7　恋のライバル？マウント男襲来！]</title>
+    <id>https://tver.jp/episodes/eprothkvog</id>
+    <updated>2026-09-07T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprothkvog" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ キスは捜査のあとで
+                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月14日(月)00時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月6日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprothkvog.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;両思いとなった多古井（渡部秀）と塩野（齋藤璃佑）だが、塩野が本部へ異動し２人は遠距離恋愛に。山ノ道署では塩野の後任として大前田（小方蒼介）が配属。そんな中、山ノ道署に本部からの監察が入り塩野の姿も。指揮を執る伊達（渋江譲二）は、塩野に妙に馴れ馴れしく、多古井の心はざわつくばかり。多古井へあこがれのまなざしを向ける大前田と、塩野とただならぬ距離感を見せる伊達。２人の登場が、多古井と塩野の関係を大きく揺さぶっていく…！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一次元の挿し木_[最終話【宿命と運命】]</title>
     <id>https://tver.jp/episodes/epy4t2by4q</id>
