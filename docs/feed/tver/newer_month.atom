@@ -2,13 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-07T02:05:09+09:00</updated>
+  <updated>2026-09-07T10:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１１話　「秀 催眠術をかけられる」]</title>
+    <id>https://tver.jp/episodes/epn0muhizn</id>
+    <updated>2026-09-07T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epn0muhizn" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月17日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn0muhizn.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                秀が仲間の勇次やおりくを殺そうとする夢を続けて見るようになった。そのことを話すと、順之助も似たような夢を見たという。おりくや主水らが調べると、催眠術をかけて人殺しをさせる仕事人・お京が浮かび上がった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>プロパガンダゲーム_[第7話「多数決の行方」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/epx77a8ti2</id>
+    <updated>2026-09-07T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epx77a8ti2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli2tv2k8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ プロパガンダゲーム
+                &lt;a href="https://tver.jp/series/srli2tv2k8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)05時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx77a8ti2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                キャンバス島事件の映像を巡り、今井（山下幸輝）らレジスタンスチームは、イーゼル国の兵士によって女性が撃ち殺されたという後藤（松本怜生）ら政府チームの主張に疑問を投げかける。レジスタンスチーム広報官の樫本（工藤美桜）は映像を丁寧に検証し、その中にある違和感を指摘すると、広場は混乱する。&lt;br&gt;一方、政府チームは香坂（莉子）の等身大の言葉を前面に押し出し、不安を抱える市民に寄り添う広報で支持の回復を目指す。「平和のための戦争」を静かに語る香坂の言葉は、広場に少しずつ影響を与えていく。&lt;br&gt;互いに最後の広報を終え、ついに迎える国民投票。&lt;br&gt;戦争か、平和か。&lt;br&gt;揺れ続けた世論の末に、市民が選んだ答えは――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>プロパガンダゲーム_[第8話「Journalism for the People」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/eps83wx64q</id>
+    <updated>2026-09-07T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eps83wx64q" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli2tv2k8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ プロパガンダゲーム
+                &lt;a href="https://tver.jp/series/srli2tv2k8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)05時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月13日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps83wx64q.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                驚きの国民投票の結果を経て、日常へと戻った今井（山下幸輝）、後藤（松本怜生）ら「プロパガンダゲーム」の参加者たち。ある日、打ち上げの席に久しぶりに一同が集まる。和やかな空気の中、国友（諏訪珠理）が口にしたのは、電央堂の採用試験そのものに対する、拭いきれない“ある疑念”だった。その言葉をきっかけに、今井たちは、これまでの出来事を改めて振り返り始める。&lt;br&gt;次第に見え隠れしてくる、電央堂がこのゲームに込めていた“ある思惑”。衝撃の事実を前に、どういう選択をするべきか――。悩み、衝突しながらも、学生たちは一つの決断に辿り着く。&lt;br&gt;やがて動き出す、新たな試み。「伝える」とは何なのか。「メディア」の役割とは。&lt;br&gt;そして、想像もしなかった急展開が学生たちを待ち受ける――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>カガミタタリ_[第一話　キリコとの邂逅]</title>
     <id>https://tver.jp/episodes/epuxc8qsm4</id>
@@ -468,138 +567,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 とうとう屋台が一ツ星の栄誉に輝いた。店には大行列ができ、翔太（神山智洋）と輝元（中村海人）は調子に乗り始める。その様子を怪訝な表情で見つめていたのが桂華（浅野ゆう子）。２人に対し「来週までに地下から出ていけ」と言い放つ。反省し謝罪する２人だったが桂華は聞く耳を持たない。突然の出来事に星羅（永瀬ゆずな）もショックを受けるが、優しげな表情で屋台を見つめる１人の女性（相田翔子）に気づき…。&lt;br&gt;ビルの地下からはじめ、様々な奇跡を起こしてきた翔太と輝元の屋台。最後にどんな結末が待っているのか？そして屋台はどこに向かうのか？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夏色の雲が恋と嵐をまきおこす_[第9話 家族と恋のはざまで…]</title>
-    <id>https://tver.jp/episodes/epfnrkmc68</id>
-    <updated>2026-09-05T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epfnrkmc68" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
-                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月5日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfnrkmc68.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                高校3年生の武宮夏輝（深田竜生）は突然、父・悟郎（井上肇）から、家庭教師・小早川蒼汰（浮所飛貴）の授業を受けるのはもう終わりにしろと言われ、わけがわからず戸惑う。実は、夏輝と蒼汰が仲良く撮ったプリントシールを偶然見てしまった悟郎は、2人のいい感じの空気に感づき、どうしたら良いか分からなくなってしまっていたのだ。&lt;br&gt;悟郎の態度が急に変化した事に嫌な予感を覚えた姉・莉緒（田辺桃子）と母・十和子（羽田美智子）は、夏輝に心当たりがないかたずねるが…？&lt;br&gt;夏輝は蒼汰に家族の様子を相談するが、なかなか答えを見つけられずにいた。&lt;br&gt;そんな中、夏輝はある決意を固めて――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ドラマ　宅飲みシェアハウス_[＃８　油ゾーメン]</title>
-    <id>https://tver.jp/episodes/epcpxhtgqe</id>
-    <updated>2026-09-05T23:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epcpxhtgqe" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6hry6175.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ドラマ　宅飲みシェアハウス
-                &lt;a href="https://tver.jp/series/sr6hry6175" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)23時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月05日(月)23時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月5日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcpxhtgqe.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                北園涼（本人役）の実家からシェアハウスに荷物が送られてきた。&lt;br&gt;その中に入っていた芋焼酎を鹿児島の郷土料理をつまみに楽しもうと油ゾーメンを作ることに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>告白―25年目の秘密―_[第8話 25年も見守ってしまい、すみません]</title>
-    <id>https://tver.jp/episodes/eplbnjki73</id>
-    <updated>2026-09-05T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eplbnjki73" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 告白―25年目の秘密―
-                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月5日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplbnjki73.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                「僕は麻里子さんの前に、姿を現してはいけない人間だったんだ」――。雪村爽太（松村北斗）は、25年間片想いを寄せる野瀬麻里子（岡崎紗絵）をこれ以上怖がらせないために、麻里子と関わることをやめてしまう…。そんな爽太の想いとは裏腹に、麻里子の中では爽太の存在が日に日に増幅。しかし、爽太を逆恨みする連続誘拐犯・畑野悟（田中要次）の復讐の手が、すぐそこに迫っていて…。爽太と麻里子に、最悪の事態が襲いかかる！！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ドラマ「永久少年 Eternal Boys」_[第10話「僕には夢を見る資格がない」]</title>
-    <id>https://tver.jp/episodes/epjqo56bo6</id>
-    <updated>2026-09-05T21:45:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epjqo56bo6" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnrk0olc3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ドラマ「永久少年 Eternal Boys」
-                &lt;a href="https://tver.jp/series/srnrk0olc3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月05日(土)21時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月12日(土)21時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月5日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjqo56bo6.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                失敗した初ライブの会場で、再びライブを行うことになる永久少年たち。今度こそ、と張り切る一同だが、突然柿崎（細貝圭）がライブには出ない、と言い出す。それだけでなく、永久少年からも抜けたいと言う。突然のことにショックを受ける山中（中塚皓平）、今川（輝山立）、浅井（反橋宗一郎）、石田（鈴木祐大）は、合宿所でやけ酒を呷る。柿崎の本心を知りたい真田（松本岳）は、ホストクラブを訪ねて話を聞こうとするが…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
