@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-07T16:05:10+09:00</updated>
+  <updated>2026-09-07T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第6夜 ビアガーデンで乾杯]</title>
+    <id>https://tver.jp/episodes/epcnipv0q1</id>
+    <updated>2026-09-07T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcnipv0q1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcnipv0q1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                繁忙期で殺気立つ社内。オカダ主任（しおつかこうへい）がみんなにノンアルコールビールと宅配ピザをご馳走してくれる。ピザを囲んでワイワイ。折しも花火大会が始まり、小さい花火をみんなで眺める。妊娠中のため先に帰ったみぃさん（山田キヌヲ）はその話を聞いて、少し疎外感を感じているよう。部長（森下能幸）が飲みに行く話をしているのを聞いたワカコ（武田梨奈）はビアガーデンを提案する。青空の下飲むビール。ワカコが注文したのは……？　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第8話]</title>
+    <id>https://tver.jp/episodes/epi0dbrqnh</id>
+    <updated>2026-09-07T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epi0dbrqnh" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月07日(日)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi0dbrqnh.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ウン会長は、ギョンヘを自分の後継者にしようと行動を開始する。&lt;br&gt;セヨンをパーソナルショッパーにすることも諦めておらず、ジェジュンに命じて、ある人物の買い物アテンドのアルバイトをしてほしいとセヨンに依頼させる。&lt;br&gt;待ち合わせ場所に行くとそこにはウン会長がいて、セヨンはそうとも知らずに買い物のサポートをする。&lt;br&gt;最初はぎこちなかったセヨンだったが次第に実力を発揮し始め、ウン会長を大いに感心させることに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>戦神~MARS~_[第17話　家族の肖像]</title>
     <id>https://tver.jp/episodes/epyueixjse</id>
@@ -402,39 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 最近小口の商売が続いている井之頭五郎（松重豊）はため息ばかり。通りかかった甘味処によってみたりしながら気分を盛り上げ、納品に赴くが……。その後強烈な空腹感に襲われた五郎は、両国ならやっぱりちゃんこ！　と店を探しはじめた……。　［期間限定無料配信］　テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&lt;br&gt;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第16話「悲しみの弾丸！サキ撃たれる」]</title>
-    <id>https://tver.jp/episodes/epadn5qdqe</id>
-    <updated>2026-09-06T16:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epadn5qdqe" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月06日(日)16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月13日(日)16時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月6日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epadn5qdqe.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                殺し屋デューク南郷が、西脇と決着をつけるためにサキを利用する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
