@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-08T16:05:11+09:00</updated>
+  <updated>2026-09-08T18:05:18+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第7夜 素敵な出会い]</title>
+    <id>https://tver.jp/episodes/epffmj939x</id>
+    <updated>2026-09-08T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epffmj939x" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月22日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epffmj939x.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ワカコ（武田梨奈）にとって美味しいお酒と美味しい食べ物こそが、何よりも素敵な出会い。今宵も出会いを求めて入ったお店でじゃがいもとバター、からすみの珍しい組み合わせに舌鼓を打つ。そして帰り道。とあるお店の看板に出会ってしまったワカコは引き寄せられるように店内へ。サザエの壺焼きと日本酒を頼んで待つワカコ。そこへ酒場といえば、の人がやって来る……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第9話]</title>
+    <id>https://tver.jp/episodes/epmdkkb6ld</id>
+    <updated>2026-09-08T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epmdkkb6ld" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月08日(月)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmdkkb6ld.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                薬を止めた影響で精神状態が不安定なギョンへは、苦しみながらも絶対乗り切ると悲壮な決意を見せ、ヨンスクはそれをハラハラしながら見守る。&lt;br&gt;そんな中、留学の試験に合格したセヨンはその喜びをヨンスクに伝える。&lt;br&gt;その会話の中で買い物をアテンドした人物の話題となり、その人物になぜか親しみを感じると言うセヨン。&lt;br&gt;その人物がウン会長だと気付いているヨンスクは、その言葉を聞いてにわかに顔色を曇らせる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第25話]</title>
     <id>https://tver.jp/episodes/epakcce2hz</id>
@@ -402,39 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 繁忙期で殺気立つ社内。オカダ主任（しおつかこうへい）がみんなにノンアルコールビールと宅配ピザをご馳走してくれる。ピザを囲んでワイワイ。折しも花火大会が始まり、小さい花火をみんなで眺める。妊娠中のため先に帰ったみぃさん（山田キヌヲ）はその話を聞いて、少し疎外感を感じているよう。部長（森下能幸）が飲みに行く話をしているのを聞いたワカコ（武田梨奈）はビアガーデンを提案する。青空の下飲むビール。ワカコが注文したのは……？　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第8話]</title>
-    <id>https://tver.jp/episodes/epi0dbrqnh</id>
-    <updated>2026-09-07T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epi0dbrqnh" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年03月07日(日)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi0dbrqnh.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ウン会長は、ギョンヘを自分の後継者にしようと行動を開始する。&lt;br&gt;セヨンをパーソナルショッパーにすることも諦めておらず、ジェジュンに命じて、ある人物の買い物アテンドのアルバイトをしてほしいとセヨンに依頼させる。&lt;br&gt;待ち合わせ場所に行くとそこにはウン会長がいて、セヨンはそうとも知らずに買い物のサポートをする。&lt;br&gt;最初はぎこちなかったセヨンだったが次第に実力を発揮し始め、ウン会長を大いに感心させることに。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
