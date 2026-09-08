@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-08T10:05:09+09:00</updated>
+  <updated>2026-09-08T12:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>鉄の王　キム・スロ_[第25話]</title>
+    <id>https://tver.jp/episodes/epakcce2hz</id>
+    <updated>2026-09-08T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epakcce2hz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epakcce2hz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仲裁を買って出たファンオクはスロたちの人質になったアヒョを解放する代わりに、チャンソ村を取り囲んだ斯盧（サロ）軍が撤退するよう交渉する。スロはさらにテガンがシングィ村を手放す条件もつけ加える。タレはその条件ものんで交渉は成立した。戦争が避けられたと喜んだチョンギョンはスロを早く王にしようとし、イジンアシもスロを認めて和解の握手を交わす。しかし、自らの地盤を失い怒り狂うテガンがアヒョをさらってしまうのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１２話　「勇次 鼠小僧に間違えられる」]</title>
     <id>https://tver.jp/episodes/eprahuaq3j</id>
@@ -435,171 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 樫野零はバイクを辞め、父・崇之に従うことを決意。崇之は弁護士を通じて麻生キラの継父との示談を成立させる。零はキラを迎えに行き、母親に二人の関係を認めてほしいと頭を下げる。その後、崇之に食事へ招かれた二人は、かつてキラの絵を称えた紳士が零の父だと知る。さらに崇之は同居を提案。迎え入れられた家には、零の複雑な過去が眠っていた…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>華麗なるスパイス_[第15話 亀裂]</title>
-    <id>https://tver.jp/episodes/ep11wmc285</id>
-    <updated>2026-09-07T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep11wmc285" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月6日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep11wmc285.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                芬青(フェンチン)は、誕生日を祝っていた少威(シャオウェイ)から突然の愛の告白を受け困惑する。一方、大使館向けのメニュー開発に苦戦する廷恩(ティンエン)は、妥協を許さぬ姿勢から厨房のスタッフと激しく衝突。孤立する彼に、周囲は芬青を呼び戻すよう進言するが、意地を張る廷恩は拒絶し続け……。二人の間に、静かな亀裂が走り出す。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>鉄の王　キム・スロ_[第24話]</title>
-    <id>https://tver.jp/episodes/epjg0v24x7</id>
-    <updated>2026-09-07T10:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epjg0v24x7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 鉄の王　キム・スロ
-                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月14日(月)10時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjg0v24x7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                スロはイジンアシに食料を渡し、狗耶（クヤ）国に戻ることを勧めるが、イジンアシはそれを拒否する。村の入り口が封鎖されたチャンソ村の住民は、食糧が途絶え空腹に耐えられず不満が爆発する。スロはそんなチャンソ村の住民感情を利用し、テガンと斯盧（サロ）国の兵士を罠に陥れ、食糧の倉庫を襲撃して敵陣の攪乱に成功する。アヒョは戦勢を逆転させるべく決死隊と共に潜入を試みるが、スロに捕らえられ捕虜となる。その事実を知ったサロ国王は激怒し、アヒョを解放しなければ、サロ国の大軍を総動員してチャンソ村はもちろん、クヤ国まで掃討すると脅す。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１１話　「秀 催眠術をかけられる」]</title>
-    <id>https://tver.jp/episodes/epn0muhizn</id>
-    <updated>2026-09-07T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epn0muhizn" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月17日(木)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn0muhizn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                秀が仲間の勇次やおりくを殺そうとする夢を続けて見るようになった。そのことを話すと、順之助も似たような夢を見たという。おりくや主水らが調べると、催眠術をかけて人殺しをさせる仕事人・お京が浮かび上がった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>プロパガンダゲーム_[第7話「多数決の行方」《ドラマイズム》]</title>
-    <id>https://tver.jp/episodes/epx77a8ti2</id>
-    <updated>2026-09-07T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epx77a8ti2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli2tv2k8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ プロパガンダゲーム
-                &lt;a href="https://tver.jp/series/srli2tv2k8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)05時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx77a8ti2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                キャンバス島事件の映像を巡り、今井（山下幸輝）らレジスタンスチームは、イーゼル国の兵士によって女性が撃ち殺されたという後藤（松本怜生）ら政府チームの主張に疑問を投げかける。レジスタンスチーム広報官の樫本（工藤美桜）は映像を丁寧に検証し、その中にある違和感を指摘すると、広場は混乱する。&lt;br&gt;一方、政府チームは香坂（莉子）の等身大の言葉を前面に押し出し、不安を抱える市民に寄り添う広報で支持の回復を目指す。「平和のための戦争」を静かに語る香坂の言葉は、広場に少しずつ影響を与えていく。&lt;br&gt;互いに最後の広報を終え、ついに迎える国民投票。&lt;br&gt;戦争か、平和か。&lt;br&gt;揺れ続けた世論の末に、市民が選んだ答えは――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>プロパガンダゲーム_[第8話「Journalism for the People」《ドラマイズム》]</title>
-    <id>https://tver.jp/episodes/eps83wx64q</id>
-    <updated>2026-09-07T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eps83wx64q" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srli2tv2k8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ プロパガンダゲーム
-                &lt;a href="https://tver.jp/series/srli2tv2k8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)05時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月13日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps83wx64q.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                驚きの国民投票の結果を経て、日常へと戻った今井（山下幸輝）、後藤（松本怜生）ら「プロパガンダゲーム」の参加者たち。ある日、打ち上げの席に久しぶりに一同が集まる。和やかな空気の中、国友（諏訪珠理）が口にしたのは、電央堂の採用試験そのものに対する、拭いきれない“ある疑念”だった。その言葉をきっかけに、今井たちは、これまでの出来事を改めて振り返り始める。&lt;br&gt;次第に見え隠れしてくる、電央堂がこのゲームに込めていた“ある思惑”。衝撃の事実を前に、どういう選択をするべきか――。悩み、衝突しながらも、学生たちは一つの決断に辿り着く。&lt;br&gt;やがて動き出す、新たな試み。「伝える」とは何なのか。「メディア」の役割とは。&lt;br&gt;そして、想像もしなかった急展開が学生たちを待ち受ける――。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
