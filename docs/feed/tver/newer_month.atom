@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-08T18:05:18+09:00</updated>
+  <updated>2026-09-08T20:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season10_[第3話 神奈川県横浜市桜木町の真鯛のソテーオーロラソースとまぐろのユッケどんぶり]</title>
+    <id>https://tver.jp/episodes/ep4bup7jb5</id>
+    <updated>2026-09-08T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4bup7jb5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season10
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月22日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4bup7jb5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                神奈川県横浜市「桜木町」みなとみらいの運河が見えるベンチで鮫島京子（星野真里）が深刻な顔をし、彼氏との関係に悩んでいる様子。五郎（松重豊）もコーヒー片手に話を聞くが、女心がわかっていない！　と一蹴される。仕事だからと、商談相手の矢沢友江（宍戸美和公）のもとへ向かう。依頼されたブローチをいくつか見せるが、どれが良いか決め兼ねていた矢沢をフォローできず、ここでも女心が分かっていないと言われる始末に……。慣れない対応の連続で腹が減り、お店を探すことにした五郎。すると、駅前に可愛らしい手書きのメニューPOPが立ち並ぶキッチンカフェを発見。電光石火の如き速さで、迷うことなくお店に入ると、そこにはパワフルな女性店主＝姉さんが毎朝市場で取り寄せた新鮮な魚を使って提供する手料理の数々が……。お腹が空くシアワセを噛みしめながら、五郎が注文した姉さん自慢の手料理とは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ワカコ酒 Season4_[第7夜 素敵な出会い]</title>
     <id>https://tver.jp/episodes/epffmj939x</id>
