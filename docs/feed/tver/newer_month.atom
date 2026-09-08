@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-08T02:05:10+09:00</updated>
+  <updated>2026-09-08T10:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１２話　「勇次 鼠小僧に間違えられる」]</title>
+    <id>https://tver.jp/episodes/eprahuaq3j</id>
+    <updated>2026-09-08T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprahuaq3j" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月18日(金)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprahuaq3j.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ある日、大名屋敷の奥女中・浪路が勇次を誘惑してきた。浪路は勇次がなびかないとわかると、同心に鼠小僧の顔を見たと偽り、勇次の人相を伝える。かつて鼠小僧をとらえた与力服部はそれを聞いて不振に思うのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第５話・俺とデートしてみる？]</title>
     <id>https://tver.jp/episodes/epjiz39i3t</id>
