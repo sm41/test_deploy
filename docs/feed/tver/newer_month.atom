@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-09T00:05:12+09:00</updated>
+  <updated>2026-09-09T02:05:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>恋をするなら二度目が上等 season2_[#2「先輩に“ふさわしい人”」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/ep7dpfguhn</id>
+    <updated>2026-09-09T02:01:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7dpfguhn" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzd5g7b80.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 恋をするなら二度目が上等 season2
+                &lt;a href="https://tver.jp/series/srzd5g7b80" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)02時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7dpfguhn.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                崇（古屋呂敏）の研究室で、憧れの経済学者・日比野孝明（深水元基）と対面した宮田（長谷川慎）。仕事のチャンスとばかりに日比野へ連載を依頼すると、翌日、話を聞いてもらえることに。期待を膨らませる宮田だったが、会社を訪れた日比野が興味を示したのは企画ではなく、“宮田と崇の関係”だった。&lt;br&gt;日比野の口から語られたのは、崇と2年半にわたり恋人同士だったという過去。突然現れた“ハイスペックな元恋人”に、宮田は自分でも認めたくない嫉妬を募らせていく。&lt;br&gt;そんな中、崇とともに訪れた経済学会で再び日比野と対峙することに。高度な議論を交わす崇と日比野を前に、会話についていけず、自分との差を痛感する宮田。さらに日比野から「宮田くんは君にはふさわしくない」「やり直そう」と崇に迫る言葉を聞いてしまい――。&lt;br&gt;果たして、“最強の元恋人”を前に、宮田は崇との愛を守り抜けるのか！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>君の好きは無敵_[第９話 大炎上と♥を鎮火！名誉回復の秘策は…別れ!?]</title>
     <id>https://tver.jp/episodes/eprjzvln6l</id>
