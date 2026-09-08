@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-08T20:05:11+09:00</updated>
+  <updated>2026-09-08T22:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>さよならノワール_[第10話 闇カジノの内通者を支援せよ]</title>
+    <id>https://tver.jp/episodes/ep0axajznd</id>
+    <updated>2026-09-08T22:04:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0axajznd" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri2u0ipnr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ さよならノワール
+                &lt;a href="https://tver.jp/series/sri2u0ipnr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)22時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0axajznd.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                かつての上司・山崎創（渡部篤郎）を探す決意をした黒木夏海（小池栄子）。横浜のカジノに山崎がいたという情報を元に夏海が現場へと向かうと、河口真二郎（眞島秀和）が現れる。河口はカジノのフロアレディ・紗耶香（中村里帆）を内通者にし、情報を聞き出していた。カジノがある建物は、表向きはジムとして営業していたが奥に闇カジノの部屋があり、経営には祥仁會も絡んでいるようだ。紗耶香によると、山崎と見られる男は時々カジノに現れ、店の隅に立っているという。&lt;br&gt;&lt;br&gt;一方、五十畑修（岡部たかし）は支援室の白石絵梨子（北香那）の元を訪れていた。五十畑は熊沢学（杉山圭一）の事件に責任を感じ、教授を退任する意向だという。なんとか引き止めようとする絵梨子に、五十畑は鴨居卓海（岡山天音）に宛てた手紙を託す。その鴨居は謹慎期間を終え、復帰していた。刑事を続ける意思を固めた鴨居を、一同は温かく受け入れる。&lt;br&gt;&lt;br&gt;カジノが入った建物の向かいのビルで張り込みを続ける夏海と河口。そこへ紗耶香が飛び出してくる。それを追いかけてきた運営の男・ユウジ（緒形敦）は紗耶香を乱暴に捕まえ、力ずくで連れ戻そうとする。夏海と河口はユウジをその場で逮捕し、紗耶香を保護する。「家に帰ると殺される」と怯える紗耶香に対し、夏海たちはなんとか力になろうとするが、混乱した紗耶香は激しく怒鳴り散らす―
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season10_[第3話 神奈川県横浜市桜木町の真鯛のソテーオーロラソースとまぐろのユッケどんぶり]</title>
     <id>https://tver.jp/episodes/ep4bup7jb5</id>
