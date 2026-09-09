@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-09T16:05:11+09:00</updated>
+  <updated>2026-09-09T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第10話]</title>
+    <id>https://tver.jp/episodes/epa9avxvlk</id>
+    <updated>2026-09-09T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epa9avxvlk" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月09日(火)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa9avxvlk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                セヨンはギョンヘのパーソナルショッパーになってほしいというウン会長の頼みを断る。&lt;br&gt;一方、ミョンファンはギョンヘを陥れようと彼女のパワハラ映像をマスコミに流す。&lt;br&gt;そんな中セヨンは身に覚えのない罪で逮捕されてしまうが、これはセヨンを留学に行かせまいとするウン会長の仕業で、ヨンスクもそれに気付く。&lt;br&gt;そしてマスコミから逃れるため別荘に隠れたギョンヘはハワイに送られることに怯え錯乱する。&lt;br&gt;その様子を見たヨンスクは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一筆お祓いいたします_[第6話 心の一部]</title>
     <id>https://tver.jp/episodes/epx4n66bvg</id>
