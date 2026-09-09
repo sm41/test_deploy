@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-09T02:05:17+09:00</updated>
+  <updated>2026-09-09T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１３話　「お加代 りつの殺しを頼まれる]</title>
+    <id>https://tver.jp/episodes/epdak5jlbg</id>
+    <updated>2026-09-09T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdak5jlbg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月19日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdak5jlbg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                加代のところに、町娘小雪が訪れ、仕事人にりつを殺してほしいと言って金をおいて立ち去った。誰かがりつの名をかたり、小雪の家をめちゃめちゃにしたらしい。染物問屋の小雪の家は、今は同業の大和屋に乗っ取られていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>スピナーベイト_[第11話 青春]</title>
+    <id>https://tver.jp/episodes/eplkszt4xx</id>
+    <updated>2026-09-09T03:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eplkszt4xx" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtlq3qqln.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スピナーベイト
+                &lt;a href="https://tver.jp/series/srtlq3qqln" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)03時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)03時25分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplkszt4xx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                大悟の転校や順平の死に混乱するメグは、三井の自宅を訪れていた。そんなメグのスマホに、パンダの通り魔が学校に現れたとメッセージが届く。パンダの正体が内だと知る三井は、慌てて学校へ向かうが…。自分が正しいと思う道に進むため、三井は目を背けてきた現実と向き合うことができるのか？そして、孤独に呑まれた内を救うことはできるのかーー！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>恋をするなら二度目が上等 season2_[#2「先輩に“ふさわしい人”」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/ep7dpfguhn</id>
@@ -501,39 +567,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 7月期火曜ドラマ『さよならノワール』7月7日（火）スタート 毎週火曜21時～21時54分放送&lt;br&gt;第10話の見どころと小池栄子＆北香那＆岡山天音のSPインタビューをお届けします。&lt;br&gt;ドラマ本編もTVerで配信！ ★見逃しを防ぐお気に入り登録をお願いします！&lt;br&gt;&lt;br&gt;《第10話あらすじ》&lt;br&gt;かつての上司・山崎創（渡部篤郎）を探す決意をした黒木夏海（小池栄子）。横浜のカジノに山崎がいたという情報を元に夏海が現場へと向かうと、河口真二郎（眞島秀和）が現れる。河口はカジノのフロアレディ・紗耶香（中村里帆）を内通者にし、情報を聞き出していた。カジノがある建物は、表向きはジムとして営業していたが奥に闇カジノの部屋があり、経営には祥仁會も絡んでいるようだ。紗耶香によると、山崎と見られる男は時々カジノに現れ、店の隅に立っているという。&lt;br&gt;&lt;br&gt;一方、五十畑修（岡部たかし）は支援室の白石絵梨子（北香那）の元を訪れていた。五十畑は熊沢学（杉山圭一）の事件に責任を感じ、教授を退任する意向だという。なんとか引き止めようとする絵梨子に、五十畑は鴨居卓海（岡山天音）に宛てた手紙を託す。その鴨居は謹慎期間を終え、復帰していた。刑事を続ける意思を固めた鴨居を、一同は温かく受け入れる。&lt;br&gt;&lt;br&gt;カジノが入った建物の向かいのビルで張り込みを続ける夏海と河口。そこへ紗耶香が飛び出してくる。それを追いかけてきた運営の男・ユウジ（緒形敦）は紗耶香を乱暴に捕まえ、力ずくで連れ戻そうとする。夏海と河口はユウジをその場で逮捕し、紗耶香を保護する。「家に帰ると殺される」と怯える紗耶香に対し、夏海たちはなんとか力になろうとするが、混乱した紗耶香は激しく怒鳴り散らす―
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ブラックトリック～裁きを操る弁護人～_[第8話 さよなら、はかり建築事務所]</title>
-    <id>https://tver.jp/episodes/ep3gy5xj9h</id>
-    <updated>2026-09-07T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep3gy5xj9h" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr43267h9m.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ブラックトリック～裁きを操る弁護人～
-                &lt;a href="https://tver.jp/series/sr43267h9m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月14日(月)21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3gy5xj9h.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                区の建築指導課から立入検査が入った、はかり建築設計事務所。指導課によると、何者かが建築基準法違反があるとクレームを入れてきたというのだ。調査が終わるまでは申請中の建築許可が下りず、これでは営業停止のようなものだ。これも古瀬義親（北村一輝）の仕業なのだろうか…。麻生縁（志田未来）は思い立ってドンヒョク（セヨン）に電話をかける。&lt;br&gt;&lt;br&gt;全てを話すと言ってドンヒョクが指定してきた場所は、警察署の接見室だった。ドンヒョクは浦真鷲直人（GACKT）と対面すると、怒りの滲んだ表情を見せる。浦真鷲によると、10年前の港南市の都市開発は当時国交大臣だった古瀬の肝いりで、その強引な開発に反対した住民を弁護したのが、白元美志（映美くらら）だったという。&lt;br&gt;&lt;br&gt;古瀬によって追い込まれた、はかり建築設計事務所。土生洸太（神尾楓珠）、鯖山周平（戸塚純貴）、紺野飛香（三浦真椰）、中崎遊星（春本ヒロ）に、縁は抗議すべきだと話すが、こんな時に呉田利静（竹財輝之助）の姿は見当たらず――。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
