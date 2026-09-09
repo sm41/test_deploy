@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-09T10:05:10+09:00</updated>
+  <updated>2026-09-09T12:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>物産展の女～高崎編～_[高崎小麦、親子を救う。]</title>
+    <id>https://tver.jp/episodes/epfpltmowy</id>
+    <updated>2026-09-09T12:00:01+09:00</updated>
+    <link href="https://tver.jp/episodes/epfpltmowy" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srap66rtet.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 物産展の女～高崎編～
+                &lt;a href="https://tver.jp/series/srap66rtet" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月10日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 3月31日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfpltmowy.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                銀座の老舗百貨店の食品バイヤーである春花（平祐奈）と高城（杢代和人）は、一ヶ月後に開催される群馬物産展に向けて高崎パスタの名店「ウィンディ」と出店交渉中。だが店を継いだ娘・秋穂（大友花恋）に「父の約束は無効」と断られてしまう。突然店を任され、レシピもないまま父の味の再現に苦悩する秋穂。そこに現れた伝説のバイヤー・御厨（山口紗弥加）は、あることに気が付き…？高崎小麦が親子の絆を繋ぐ!?空腹必至の極上グルメお仕事ドラマ第2弾！　［期間限定無料配信］　「物産展の女～北塩原村・磐梯町・米沢市編～」テレビ東京にて9月23日(水)スタート！深夜24時36分より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>鉄の王　キム・スロ_[第26話]</title>
+    <id>https://tver.jp/episodes/epivlx1tct</id>
+    <updated>2026-09-09T10:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epivlx1tct" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 鉄の王　キム・スロ
+                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)10時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)10時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epivlx1tct.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                テガンが白状したためスロのアヒョ殺しの疑いは晴れた。しかし怒りが収まらない斯盧（サロ）国王は、アヒョを守れなかったとしてスロを投獄する。アヒョへの思いからその罪を素直に認めるスロ。そんなスロの前にアヒョそっくりの女性が現れる。それはアヒョの実姉アニだった。次第にスロを気に入り始めた国王はサロ国に仕えるよう要求し、アニとの政略結婚を匂わす。一方、チョンギョンとファンオクはスロを救うために危険を承知でサロ国へと向かっていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１３話　「お加代 りつの殺しを頼まれる]</title>
     <id>https://tver.jp/episodes/epdak5jlbg</id>
@@ -270,303 +336,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 薬を止めた影響で精神状態が不安定なギョンへは、苦しみながらも絶対乗り切ると悲壮な決意を見せ、ヨンスクはそれをハラハラしながら見守る。&lt;br&gt;そんな中、留学の試験に合格したセヨンはその喜びをヨンスクに伝える。&lt;br&gt;その会話の中で買い物をアテンドした人物の話題となり、その人物になぜか親しみを感じると言うセヨン。&lt;br&gt;その人物がウン会長だと気付いているヨンスクは、その言葉を聞いてにわかに顔色を曇らせる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>鉄の王　キム・スロ_[第25話]</title>
-    <id>https://tver.jp/episodes/epakcce2hz</id>
-    <updated>2026-09-08T10:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epakcce2hz" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrl00p44k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 鉄の王　キム・スロ
-                &lt;a href="https://tver.jp/series/srrl00p44k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)10時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)10時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epakcce2hz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                仲裁を買って出たファンオクはスロたちの人質になったアヒョを解放する代わりに、チャンソ村を取り囲んだ斯盧（サロ）軍が撤退するよう交渉する。スロはさらにテガンがシングィ村を手放す条件もつけ加える。タレはその条件ものんで交渉は成立した。戦争が避けられたと喜んだチョンギョンはスロを早く王にしようとし、イジンアシもスロを認めて和解の握手を交わす。しかし、自らの地盤を失い怒り狂うテガンがアヒョをさらってしまうのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１２話　「勇次 鼠小僧に間違えられる」]</title>
-    <id>https://tver.jp/episodes/eprahuaq3j</id>
-    <updated>2026-09-08T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eprahuaq3j" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月18日(金)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月8日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprahuaq3j.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ある日、大名屋敷の奥女中・浪路が勇次を誘惑してきた。浪路は勇次がなびかないとわかると、同心に鼠小僧の顔を見たと偽り、勇次の人相を伝える。かつて鼠小僧をとらえた与力服部はそれを聞いて不振に思うのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第５話・俺とデートしてみる？]</title>
-    <id>https://tver.jp/episodes/epjiz39i3t</id>
-    <updated>2026-09-08T01:59:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epjiz39i3t" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3ax1vftw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 陽キャ集団にいる芹沢は、俺の前だと様子がおかしい
-                &lt;a href="https://tver.jp/series/sr3ax1vftw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)01時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjiz39i3t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                芹沢(四坂亮翔)にキスされそうになる夢を見て、恋心を全力否定する鈴木(小泉光咲)。芹沢が女子にデートに誘われているのを知りモヤモヤする中、小説のデートシーンに悩む鈴木を見かねて、芹沢は「俺とデートしてみる？」と水族館へ行くことを提案！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>えっちなお尻じゃダメですか？_[#10 永遠は分からなくても]</title>
-    <id>https://tver.jp/episodes/ep2ahm5epl</id>
-    <updated>2026-09-08T01:35:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2ahm5epl" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri4edv1p7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ えっちなお尻じゃダメですか？
-                &lt;a href="https://tver.jp/series/sri4edv1p7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)01時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)01時35分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2ahm5epl.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                奥海との同居を決意し、ついに両親に「恋人」として紹介した藍之助。母・瑞穂は年齢差への覚悟を厳しく問うが、奥海は「離れたくないからこそ一緒にいる努力を続けたい」と本心を語る。両親の前で手を握り「俺の恋人です」と言い切った夜、二人が選んだ“ずっと一緒にいる方法”とは——。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>35歳、今さら恋とかありえない_[#10 二人の答え]</title>
-    <id>https://tver.jp/episodes/ep5u6npgnt</id>
-    <updated>2026-09-08T01:20:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5u6npgnt" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr9ivzxgq.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 35歳、今さら恋とかありえない
-                &lt;a href="https://tver.jp/series/srr9ivzxgq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)01時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)01時20分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5u6npgnt.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                誕生日の夜、森原が温泉旅館を用意していた。仕事の新しい扉が開きかけていた。佐伯からの連絡もまだある。それでも茉莉子は、今夜だけはすべてを脇に置いた。湯けむりの向こうで、森原と静かに向き合う。「結婚」という形にこだわらなくていい——二人でそう決めた夜は、特別な宣言もなく、ただ穏やかだった。35歳が見つけた愛の形は、誰かの正解ではなく、ふたりだけの答えだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>もう1度夫婦になりますか？～カモフラージュ夫婦～_[10話 後悔と償い、ゼロからスタート！]</title>
-    <id>https://tver.jp/episodes/ephjn89mrl</id>
-    <updated>2026-09-08T00:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephjn89mrl" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sratud77ep.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ もう1度夫婦になりますか？～カモフラージュ夫婦～
-                &lt;a href="https://tver.jp/series/sratud77ep" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月08日(火)00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月06日(火)00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephjn89mrl.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                愛子(森迫永依)の子どもが自分の子では、と思う元夫・笹嶋誠一(前田公輝)は、本当のことを教えてほしいと懇願。雨の中人目もはばからず土下座して頼み込む誠一を見かねてアパートに招き入れる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夫を殺したはずなのに_[第10話 永遠の愛の象徴]</title>
-    <id>https://tver.jp/episodes/ep0j8e2xps</id>
-    <updated>2026-09-07T23:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep0j8e2xps" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcw1hv9s0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夫を殺したはずなのに
-                &lt;a href="https://tver.jp/series/srcw1hv9s0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)23時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月15日(火)00時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0j8e2xps.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                莉乃の母親を知った義母・真由美（山下容莉枝）に殺され、6度目の人生を迎えた莉乃（内田理央）。莉乃の母が慶太（渡邊圭祐）の父と不倫していたことから「腹違いの兄弟」ではないかと疑念を抱く。慶太の過去を探るため、真由美の家を訪れる莉乃。一方、莉乃に違和感を覚えた慶太もまた“ある決断”を下していた。疑惑を深める莉乃は、慶太と自分のDNAを調べるが――。交錯する夫婦の思惑の先に待つ、衝撃の展開とは!?　［期間限定無料配信］　テレビ東京にて7月6日(月)スタート！毎週月曜夜11時6分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>GTO_[#8 パパ活生徒とラブホに潜入!? 鬼塚不在で…副担任・柏原が窮地に]</title>
-    <id>https://tver.jp/episodes/eppt5crwqs</id>
-    <updated>2026-09-07T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eppt5crwqs" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src565pb2j.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ GTO
-                &lt;a href="https://tver.jp/series/src565pb2j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月14日(月)22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppt5crwqs.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                夏風邪をこじらせた鬼塚（反町隆史）に代わり、担任を務めることになった柏原（生見愛瑠）。&lt;br&gt;しかし、不本意にも生徒たちからは鬼塚に似てきたと言われ、早くも担任という立場に嫌気がさし始める。するとその直後、以前から就職を希望していた会社から中途採用“合格”の知らせが届き、学校を辞めることを決意。&lt;br&gt;早速、校長の大久保（宇梶剛士）に退職願を出そうとすると、男子生徒とぶつかった石橋心愛（北里琉）のスマホが柏原の足元に飛んでくる。目に飛び込んできたのは、パパ活アプリの表示だった。退職するならもう関わらない方がいいと思いながらも、走り去った心愛の後を追う。&lt;br&gt;さらに、龍之介（工藤阿須加）が物陰である女子生徒と親密に話している場面に遭遇。&lt;br&gt;鬼塚がいないときに限って、生徒たちの不穏な行動に出くわしていく柏原は…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>さよならノワール_[さよならノワール見どころSP#10]</title>
-    <id>https://tver.jp/episodes/epo8otijf6</id>
-    <updated>2026-09-07T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epo8otijf6" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri2u0ipnr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ さよならノワール
-                &lt;a href="https://tver.jp/series/sri2u0ipnr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月07日(月)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月7日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo8otijf6.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                7月期火曜ドラマ『さよならノワール』7月7日（火）スタート 毎週火曜21時～21時54分放送&lt;br&gt;第10話の見どころと小池栄子＆北香那＆岡山天音のSPインタビューをお届けします。&lt;br&gt;ドラマ本編もTVerで配信！ ★見逃しを防ぐお気に入り登録をお願いします！&lt;br&gt;&lt;br&gt;《第10話あらすじ》&lt;br&gt;かつての上司・山崎創（渡部篤郎）を探す決意をした黒木夏海（小池栄子）。横浜のカジノに山崎がいたという情報を元に夏海が現場へと向かうと、河口真二郎（眞島秀和）が現れる。河口はカジノのフロアレディ・紗耶香（中村里帆）を内通者にし、情報を聞き出していた。カジノがある建物は、表向きはジムとして営業していたが奥に闇カジノの部屋があり、経営には祥仁會も絡んでいるようだ。紗耶香によると、山崎と見られる男は時々カジノに現れ、店の隅に立っているという。&lt;br&gt;&lt;br&gt;一方、五十畑修（岡部たかし）は支援室の白石絵梨子（北香那）の元を訪れていた。五十畑は熊沢学（杉山圭一）の事件に責任を感じ、教授を退任する意向だという。なんとか引き止めようとする絵梨子に、五十畑は鴨居卓海（岡山天音）に宛てた手紙を託す。その鴨居は謹慎期間を終え、復帰していた。刑事を続ける意思を固めた鴨居を、一同は温かく受け入れる。&lt;br&gt;&lt;br&gt;カジノが入った建物の向かいのビルで張り込みを続ける夏海と河口。そこへ紗耶香が飛び出してくる。それを追いかけてきた運営の男・ユウジ（緒形敦）は紗耶香を乱暴に捕まえ、力ずくで連れ戻そうとする。夏海と河口はユウジをその場で逮捕し、紗耶香を保護する。「家に帰ると殺される」と怯える紗耶香に対し、夏海たちはなんとか力になろうとするが、混乱した紗耶香は激しく怒鳴り散らす―
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
