@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-09T20:05:11+09:00</updated>
+  <updated>2026-09-09T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Episode8 記憶の中の殺人者]</title>
+    <id>https://tver.jp/episodes/epv5fmos2z</id>
+    <updated>2026-09-09T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epv5fmos2z" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
+                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv5fmos2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                女性が自宅で殺害され、防犯カメラにはホラーマスクの男が。さらに犯人が落としたと思われるスマホから、5人の女性を盗撮した映像が見つかり、その中にはＳＳＢＣ・光本さやか（足立梨花）の姿もあった。事件が連続殺人へと発展する中、名波凛太郎（相葉雅紀）は“心理捜査”で、さやかの曖昧な記憶から手がかりを探る。一方、木沢理（伊藤淳史）は、さやかを守るためボディーガードを買って出るが－。5人は、なぜ狙われたのか!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season10_[第4話 東京都練馬区大泉学園のサザエとキノコのプロヴァンス風と牛タンシチューのオムライス]</title>
     <id>https://tver.jp/episodes/epk8a3ak8f</id>
