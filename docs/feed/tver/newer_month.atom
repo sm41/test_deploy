@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-10T20:05:10+09:00</updated>
+  <updated>2026-09-10T22:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[第8話 空港を襲う毒物テロ!?]</title>
+    <id>https://tver.jp/episodes/ep7d1h219d</id>
+    <updated>2026-09-10T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7d1h219d" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月17日(木)22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月10日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7d1h219d.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                《GATE24》の中にスパイが…!?　ついに最終章へ突入！&lt;br&gt;&lt;br&gt;GATE24内部にテロリストと繋がりのあるスパイがいる可能性が浮上！&lt;br&gt;元上司から極秘連絡を受けた入国審査官・早見圭一郎（眞栄田郷敦）は税関職員・森万智（趣里）と共にメンバーを注意深く観察開始。&lt;br&gt;そんな中、GATE24のブースで集団食中毒が発生する。&lt;br&gt;出発地での毒物混入テロの可能性があり…!?&lt;br&gt;同じ頃、万智は旅客の一人・楠本文夫（安井順平）が世界的覆面画家“ノーバディ”ではないかと気づき始める。&lt;br&gt;実は、ノーバディにはスパイ疑惑があった。&lt;br&gt;そんな楠本に、あるメンバーが不自然に接触する姿が目撃される。&lt;br&gt;早見は、その人物がGATE24の内通者ではと疑いはじめ…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season10_[第5話 千葉県柏市鷲野谷のネギレバ炒と鶏皮餃子]</title>
     <id>https://tver.jp/episodes/epadqhitdu</id>
