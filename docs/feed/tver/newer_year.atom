@@ -2,13 +2,376 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-10T16:05:14+09:00</updated>
+  <updated>2026-09-10T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>セトウツミ_[第11話（最終回）]</title>
+    <id>https://tver.jp/episodes/epsnjt51i8</id>
+    <updated>2026-09-10T17:00:12+09:00</updated>
+    <link href="https://tver.jp/episodes/epsnjt51i8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsnjt51i8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/8（火）17:00～&lt;br&gt;#5,#6,#7,#8：9/9（水）17:00～&lt;br&gt;#9,#10,#11：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク。永遠に続くと思われた河川敷の時間……ついに最終回！　「両親を殺害しよう」自宅が燃えるように綿密な計画を企てた内海。いつもの河川敷でその時を迎えていると、なぜか父親（松角洋平）が現れる。殺害計画は失敗？　狼狽し、涙を流す内海。そこにやってきたのは……。河川敷を舞台にまさかの展開を見せる物語。そして感動のクライマックス！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>セトウツミ_[第10話]</title>
+    <id>https://tver.jp/episodes/epz81xiadp</id>
+    <updated>2026-09-10T17:00:11+09:00</updated>
+    <link href="https://tver.jp/episodes/epz81xiadp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz81xiadp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/8（火）17:00～&lt;br&gt;#5,#6,#7,#8：9/9（水）17:00～&lt;br&gt;#9,#10,#11：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク3編。　（1）瀬戸のもとに突然、内海の姉（谷村美月）が現れた。ハツ美（片山友希）に遠隔操作されて、瀬戸が姉から聞き出した内海の秘密とは!?　（2）樫村（清原果耶）に恋文を書いた瀬戸……内海が発した一言に逆上し、殴りかかる……。　（3）内海が抱える闇、知られざる過去がついに明らかに……密かに企てた恐ろしい計画とは!?　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>セトウツミ_[第9話]</title>
+    <id>https://tver.jp/episodes/ep1gj16u87</id>
+    <updated>2026-09-10T17:00:10+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1gj16u87" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz2p99qb8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ セトウツミ
+                &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1gj16u87.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/8（火）17:00～&lt;br&gt;#5,#6,#7,#8：9/9（水）17:00～&lt;br&gt;#9,#10,#11：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク3編。　（1）金髪リーゼントのヤンキー（吉村界人）が河川敷に現れ、無言で階段に座った。恐怖のカオス空間でさらに冴える2人のトーク！　（2）左右対称男・田中（森永悠希）が提案する新たな対決とは!?　その裏で動くハツ美（片山友希）の思惑……。　（3）河川敷に集まる樫村（清原果耶）やバルーンさん（吉田カルロス）たち。物語は風雲急を告げる！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>今夜はコの字で_[コの四　自由が丘「ほさかや」]</title>
+    <id>https://tver.jp/episodes/ep85jpci3v</id>
+    <updated>2026-09-10T17:00:09+09:00</updated>
+    <link href="https://tver.jp/episodes/ep85jpci3v" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx80662c2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今夜はコの字で
+                &lt;a href="https://tver.jp/series/srx80662c2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep85jpci3v.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/10（木）17:00～&lt;br&gt;#5,#6,#7,#8：9/11（金）17:00～&lt;br&gt;#9,#10,#11,#12：9/12（土）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;接待で失敗した山田（小園凌央）を連れて、自由が丘の取引先に謝りに来た吉岡（浅香航大）だったが、けんもほろろに追い返され、山田は山田でとっとと帰ってしまい、一人で飲みに行くことに。雰囲気のある路地にコの字のうなぎ屋を発見し、早速、恵子先輩（中村ゆり）に報告する。渋い常連・オカさん（ジジ・ぶぅ）に指南してもらいながら鰻と日本酒を楽しんでいると「じっとしてられなくなった」と恵子がやって来て一緒に飲み始めて……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>今夜はコの字で_[コの三　横浜「のんきや」]</title>
+    <id>https://tver.jp/episodes/ephaen1g6t</id>
+    <updated>2026-09-10T17:00:08+09:00</updated>
+    <link href="https://tver.jp/episodes/ephaen1g6t" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx80662c2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今夜はコの字で
+                &lt;a href="https://tver.jp/series/srx80662c2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephaen1g6t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/10（木）17:00～&lt;br&gt;#5,#6,#7,#8：9/11（金）17:00～&lt;br&gt;#9,#10,#11,#12：9/12（土）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;恵子先輩（中村ゆり）から地元・横浜のコの字酒場に誘われた吉岡（浅香航大）は、仕事もそこそこにやって来る。恵子は既に到着しており、完全に酒場に溶け込んで飲んでいた。先に帰った先生と呼ばれる古書店の主人（綾田俊樹）が、具合の悪い奥さんのためにラーメン断ちをしている話を聞いた恵子は吉岡に、最愛の人のために好きなものを断つことができるか尋ねる。どこか寂しげな恵子の様子が気になる吉岡だったが、酔っ払ってしまい……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>今夜はコの字で_[コの二　神楽坂「焼鳥しょうちゃん。」]</title>
+    <id>https://tver.jp/episodes/ep6lz0pm0u</id>
+    <updated>2026-09-10T17:00:07+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6lz0pm0u" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx80662c2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今夜はコの字で
+                &lt;a href="https://tver.jp/series/srx80662c2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6lz0pm0u.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/10（木）17:00～&lt;br&gt;#5,#6,#7,#8：9/11（金）17:00～&lt;br&gt;#9,#10,#11,#12：9/12（土）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;すっかりコの字酒場の魅力にハマった吉岡（浅香航大）は、後輩の山田（小園凌央）を誘ってみるが、すげなく断られてしまう。翌朝、山田はインフルで欠席し、またも尻拭いをさせられることになった吉岡は、住宅展示場で着ぐるみを着て風船を配り、汗だく、くたくた。癒しを求めて、恵子先輩（中村ゆり）に紹介してもらった新しいコの字酒場の扉を開ける吉岡。しかし、そこは、恵子の言う通り、なかなか、ハードルの高い店だった。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>今夜はコの字で_[コの一　十条「田や」 清澄白河「だるま」]</title>
+    <id>https://tver.jp/episodes/epfs4kgcj7</id>
+    <updated>2026-09-10T17:00:06+09:00</updated>
+    <link href="https://tver.jp/episodes/epfs4kgcj7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx80662c2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 今夜はコの字で
+                &lt;a href="https://tver.jp/series/srx80662c2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月10日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfs4kgcj7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/10（木）17:00～&lt;br&gt;#5,#6,#7,#8：9/11（金）17:00～&lt;br&gt;#9,#10,#11,#12：9/12（土）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;広告代理店で働く吉岡（浅香航大）は、後輩、山田（小園凌央）の尻拭いをさせられ、飲み会に間に合わなかった。が、会場には憧れの恵子先輩（中村ゆり）が残っていて、知らないおじさん達と楽しそうに飲んでいた。後輩の愚痴を語る吉岡に恵子先輩は、一人で行ってみるようにと酒場を教えてくれた。翌日、またしても山田の態度に腹を立てた吉岡は、恵子の教えてくれたお店を訪ねるのだった。常連でごった返す酒場の扉を恐る恐る開けると……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>法廷のドラゴン_[最終話 政治スクープ訴訟に奇跡の一手！]</title>
+    <id>https://tver.jp/episodes/ep4g48w754</id>
+    <updated>2026-09-10T17:00:05+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4g48w754" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfzo5ibu1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法廷のドラゴン
+                &lt;a href="https://tver.jp/series/srfzo5ibu1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4g48w754.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/9（水）17:00～&lt;br&gt;#5,#6,#7,#8：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;政治家スクープ訴訟で敵の罠で所長の虎太郎（高杉真宙）が逮捕され、歩田法律事務所は大ピンチに！兎羽（白石麻衣）は、これ以上迷惑をかけられないからと、自分の書いた記事が捏造であることを認め事務所を去ろうとする。すると、竜美（上白石萌音）は「兎羽ちゃんと将棋を指したい」と言う。3年半前に、お互いの将棋人生を奪った対局が再び…。元弁護士政治家からの猛攻撃に、将棋弁護士と仲間たちが奇跡の一手を指す!?　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>法廷のドラゴン_[第7話 宿敵から依頼!?スクープ捏造裁判]</title>
+    <id>https://tver.jp/episodes/epka1phzv1</id>
+    <updated>2026-09-10T17:00:04+09:00</updated>
+    <link href="https://tver.jp/episodes/epka1phzv1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfzo5ibu1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法廷のドラゴン
+                &lt;a href="https://tver.jp/series/srfzo5ibu1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epka1phzv1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/9（水）17:00～&lt;br&gt;#5,#6,#7,#8：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;竜美（上白石萌音）の将棋の宿敵だった兎羽（白石麻衣）が、竜美に弁護をしてほしいと頼みにやってきた。現在、報道記者である兎羽は、衆議院議員・柘植（福士誠治）のインタビュー記事がねつ造であると名誉棄損で訴えられていたのだ。しかし、兎羽の姿を見るなり竜美は部屋に籠ってしまい、裁判を巡る方針も噛み合わない…。どうやら兎羽もこのスクープに隠し事をしているようだ。ついに、歩田法律事務所最大の危機が訪れる！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>法廷のドラゴン_[第6話 巨額の遺産分割VS詰将棋の遺言!?]</title>
+    <id>https://tver.jp/episodes/epc0jog140</id>
+    <updated>2026-09-10T17:00:03+09:00</updated>
+    <link href="https://tver.jp/episodes/epc0jog140" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfzo5ibu1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法廷のドラゴン
+                &lt;a href="https://tver.jp/series/srfzo5ibu1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc0jog140.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/9（水）17:00～&lt;br&gt;#5,#6,#7,#8：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;竜美（上白石萌音）と虎太郎（高杉真宙）は、旧家の遺産分割協議に立ち会うが、開封した遺言書にはなんと詰将棋の問題が！長女・桐枝（内山理名）をはじめとする子供たちも紛糾し、骨肉のきょうだいゲンカに発展!?どうやら一族は将棋嫌いで、それには理由があるらしい。前代未聞、遺言書のメッセージを将棋で読み解くことに！さらに、竜美と虎太郎は近くの旅館で宿泊するが、心配した竜美の父・辰夫（田辺誠一）と母・香澄（和久井映見）も駆けつけて予想外の展開に！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>法廷のドラゴン_[第5話 ニセモノ和菓子裁判は大混乱!?]</title>
+    <id>https://tver.jp/episodes/epmlfjelms</id>
+    <updated>2026-09-10T17:00:02+09:00</updated>
+    <link href="https://tver.jp/episodes/epmlfjelms" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfzo5ibu1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法廷のドラゴン
+                &lt;a href="https://tver.jp/series/srfzo5ibu1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmlfjelms.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/9（水）17:00～&lt;br&gt;#5,#6,#7,#8：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;老舗和菓子店のライセンス訴訟！将棋界では人気の和菓子・一徹餅をめぐる訴訟に竜美（上白石萌音）は興味津々。店主・熊倉（角野卓造）は、「販売された商品はまがい物だ！」と怒り心頭でネットに書き込むが、契約違反で逆に訴えられてしまう。鍵を握るのは通販会社に勤める熊倉の息子の和輝（草川拓弥）。息子を“成り金”だと罵る父親、父親をある理由から毛嫌いする息子。竜美が“成金”を試す驚きの法廷戦略に出る！　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>脳にスマホが埋められた！_[#4]</title>
     <id>https://tver.jp/episodes/epxtzw56ns</id>
@@ -1524,171 +1887,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ▼配信スケジュール&lt;br&gt;#1,#2,#3,#4：9/9（水）17:00～&lt;br&gt;#5,#6,#7,#8：9/10（木）17:00～&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&lt;br&gt;&lt;br&gt;プロの棋士になる道を諦め、弁護士に転向した竜美（上白石萌音）が就職先として選んだのは、虎太郎（高杉真宙）が所長を務める歩田法律事務所。なんでも将棋になぞらえて、挙動不審な竜美に困惑する虎太郎だったが、早速依頼が舞い込む。依頼人は絹子（松坂慶子）。不用品買い取りの詐欺で盗られてしまった夫の遺品返還を求める訴訟だった。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>夢をかなえるゾウ_[第６話]</title>
-    <id>https://tver.jp/episodes/epsk1bn4zq</id>
-    <updated>2026-09-09T12:01:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epsk1bn4zq" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srul1o0j54.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 夢をかなえるゾウ
-                &lt;a href="https://tver.jp/series/srul1o0j54" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2008年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsk1bn4zq.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ブラックガネーシャの「人の不幸を想像する」という課題によって、自分の中の悪意を思い知るあすか。続く「人の悪意を知る」という課題で、人から自分への悪意も知ったあすかはすっかり自信を失くし、せっかくの近藤とのデートでも…。&lt;br&gt;&lt;br&gt;【夢をかなえるゾウ　階段配信】&lt;br&gt;SP　8月29日(土) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#1　8月29日(土) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#2　8月31日(月) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#3　9月2日(水) 12:01 ～ 10月7日(水) 12:00&lt;br&gt;#4　8月4日(金) 12:01 ～ 9月11日(金) 12:00&lt;br&gt;#5　9月6日(日) 12:01 ～ 9月13日(日) 12:00&lt;br&gt;#6　9月9日(水) 12:01 ～ 9月16日(水) 12:00&lt;br&gt;#7　9月12日(土) 12:01 ～ 9月19日(土) 12:00&lt;br&gt;#8　9月15日(火) 12:01 ～ 9月22日(火) 12:00&lt;br&gt;#9　9月18日(金) 12:01 ～ 9月25日(金) 12:00&lt;br&gt;#10　9月21日(月) 12:01 ～ 9月28日(月) 12:00&lt;br&gt;#11　9月24日(木) 12:01 ～ 10月1日(木) 12:00&lt;br&gt;#12　9月27日(日) 12:01 ～ 10月4日(日) 12:00&lt;br&gt;#13　9月30日(水) 12:01 ～ 10月7日(水) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ギルティ～この恋は罪ですか？～_[#3 牙を剥く親友！初恋が加速する]</title>
-    <id>https://tver.jp/episodes/eprz379vjf</id>
-    <updated>2026-09-09T12:01:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eprz379vjf" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdmues6d2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ギルティ～この恋は罪ですか？～
-                &lt;a href="https://tver.jp/series/srdmues6d2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月30日(水)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprz379vjf.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                一真（小池徹平）と瑠衣（中村ゆりか）がキスしているところを目撃してしまった爽（新川優愛）は、仕事も手につかず会社を早退。&lt;br&gt;爽がチートンの前を通りかかると、寺嶋（神尾楓珠）が龍（阿部亮平）に詰め寄られていた。爽を心配して来た寺嶋は、ストーカーと勘違いされていたのだ。寺嶋と話すことで、心が晴れる爽。&lt;br&gt;一真と向き合おうと決意し、メールを送ろうとした時、瑠衣から声をかけられる。爽は感情を抑えられなくなり…&lt;br&gt;&lt;br&gt;【ギルティ　階段配信】&lt;br&gt;#1　9月5日(土) 12:01 ～ 9月30日(水) 12:00&lt;br&gt;#2　9月7日(月) 12:01 ～ 9月30日(水) 12:00&lt;br&gt;#3　9月9日(水) 12:01 ～ 9月30日(水) 12:00&lt;br&gt;#4　9月11日(金) 12:01 ～ 9月18日(金) 12:00&lt;br&gt;#5　9月13日(日) 12:01 ～ 9月20日(日) 12:00&lt;br&gt;#6　9月15日(火) 12:01 ～ 9月22日(火) 12:00&lt;br&gt;#7　9月17日(木) 12:01 ～ 9月24日(木) 12:00&lt;br&gt;#8　9月19日(土) 12:01 ～ 9月26日(土) 12:00&lt;br&gt;#9　9月21日(月) 12:01 ～ 9月28日(月) 12:00&lt;br&gt;#10　9月23日(水) 12:01 ～ 9月30日(水) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>焼いてるふたり ～交際０日 結婚から恋をはじめよう～_[#3 ジャークチキンで乾杯！]</title>
-    <id>https://tver.jp/episodes/eprlox9yuu</id>
-    <updated>2026-09-09T12:01:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eprlox9yuu" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr8b3lqto4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 焼いてるふたり ～交際０日 結婚から恋をはじめよう～
-                &lt;a href="https://tver.jp/series/sr8b3lqto4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月12日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprlox9yuu.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                今週は浜松に行けないという千尋（松村沙友理）に「僕との結婚を後悔？」と不安になった健太（黒羽麻璃央）は急遽東京へ。千尋を喜ばせたくて健太が持参したのは特製ジャークチキン！伏見（紺野まひる）や戸田（濱正悟）らを招いて千尋の家でホームパーティーを開くことになる。そして、お開きの後、駅まで健太を送る千尋に「自分に自信がない」と告白する健太。すると千尋がキュンな行動に出て…。 &lt;br&gt;&lt;br&gt;【焼いてるふたり　階段配信】&lt;br&gt;#1　9月5日(土) 12:01 ～ 10月12日(月) 12:00&lt;br&gt;#2　9月7日(月) 12:01 ～ 10月12日(月) 12:00&lt;br&gt;#3　9月9日(水) 12:01 ～ 10月12日(月) 12:00&lt;br&gt;#4　9月11日(金) 12:01 ～ 9月25日(金) 12:00&lt;br&gt;#5　9月13日(日) 12:01 ～ 9月27日(日) 12:00&lt;br&gt;#6　9月16日(水) 12:01 ～ 9月30日(水) 12:00&lt;br&gt;#7　9月19日(土) 12:01 ～ 10月3日(土) 12:00&lt;br&gt;#8　9月22日(火) 12:01 ～ 10月6日(火) 12:00&lt;br&gt;#9　9月25日(金) 12:01 ～ 10月9日(金) 12:00&lt;br&gt;#10　9月28日(月) 12:01 ～ 10月12日(月) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ラブリラン_[#3 涙の告白!15年の想いは届くのか…今夜、恋が動き出す]</title>
-    <id>https://tver.jp/episodes/epehrokt3i</id>
-    <updated>2026-09-09T12:01:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epehrokt3i" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7ofgy17w.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ラブリラン
-                &lt;a href="https://tver.jp/series/sr7ofgy17w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月12日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epehrokt3i.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                南さやか（中村アン）の最終プレゼンの競合相手が、１５年間片想い中の幼馴染み・鷺沢亮介（大谷亮平）だと判明する。&lt;br&gt;デザイナーとして初めて憧れの亮介と戦うさやかは、全力でプレゼンの準備を進める。&lt;br&gt;しかし町田翔平（古川雄輝）は、なおも亮介を慕うさやかに対し、「（亮介に）便利使いされているだけ」と冷ややかな態度を取り、さやかはその態度に憤りを感じる。&lt;br&gt;そしてさやかは、遂に亮介への告白を決意するのだが…&lt;br&gt;&lt;br&gt;【ラブリラン　階段配信】&lt;br&gt;#1　9月5日(土) 12:01 ～ 10月12日(月) 12:00&lt;br&gt;#2　9月7日(月) 12:01 ～ 10月12日(月) 12:00&lt;br&gt;#3　9月9日(水) 12:01 ～ 10月12日(月) 12:00&lt;br&gt;#4　9月11日(金) 12:01 ～ 9月25日(金) 12:00&lt;br&gt;#5　9月13日(日) 12:01 ～ 9月27日(日) 12:00&lt;br&gt;#6　9月16日(水) 12:01 ～ 9月30日(水) 12:00&lt;br&gt;#7　9月19日(土) 12:01 ～ 10月3日(土) 12:00&lt;br&gt;#8　9月22日(火) 12:01 ～ 10月6日(火) 12:00&lt;br&gt;#9　9月25日(金) 12:01 ～ 10月9日(金) 12:00&lt;br&gt;#10　9月28日(月) 12:01 ～ 10月12日(月) 12:00
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>めぐる未来_[#3 犯人からのプレゼント…絶望は終わらない]</title>
-    <id>https://tver.jp/episodes/epanl8zbq7</id>
-    <updated>2026-09-09T12:01:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epanl8zbq7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs23ge013.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ めぐる未来
-                &lt;a href="https://tver.jp/series/srs23ge013" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)12時01分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epanl8zbq7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                “過去に戻る病”を発症させ、最愛の妻・めぐる（早見あかり）の転落死を未然に防ぐことができた襷未来（萩原利久）。しかし、その直後、めぐるは何者かに刺されてしまう。再び病を発症した未来だったが、戻った先はめぐるが刺されてしまった直後。今回も救うことはできなかった…。めぐるの葬儀で、母・育子（佐伯日菜子）と久しぶりに再会する。未来が病気を発症したことを知った育子は、未来の父・正年について語りはじめ…。&lt;br&gt;&lt;br&gt;【めぐる未来　階段配信】&lt;br&gt;#1　9月5日(土) 12:01 ～ 9月12日(土) 12:00&lt;br&gt;#2　9月7日(月) 12:01 ～ 9月14日(月) 12:00&lt;br&gt;#3　9月9日(水) 12:01 ～ 9月16日(水) 12:00&lt;br&gt;#4　9月11日(金) 12:01 ～ 9月18日(金) 12:00&lt;br&gt;#5　9月13日(日) 12:01 ～ 9月20日(日) 12:00&lt;br&gt;#6　9月15日(火) 12:01 ～ 9月22日(火) 12:00&lt;br&gt;#7　9月17日(木) 12:01 ～ 9月24日(木) 12:00&lt;br&gt;#8　9月19日(土) 12:01 ～ 9月26日(土) 12:00&lt;br&gt;#9　9月21日(月) 12:01 ～ 9月28日(月) 12:00&lt;br&gt;#10　9月23日(水) 12:01 ～ 9月30日(水) 12:00
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
