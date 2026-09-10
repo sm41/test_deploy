@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-10T22:05:13+09:00</updated>
+  <updated>2026-09-11T00:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ラストノート_[第10話 そばにいてほしいのに・・・過ぎ去った恋の残り香]</title>
+    <id>https://tver.jp/episodes/epiupuz8nm</id>
+    <updated>2026-09-10T22:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epiupuz8nm" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srns83dbgi.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ラストノート
+                &lt;a href="https://tver.jp/series/srns83dbgi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)22時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月17日(木)22時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月10日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiupuz8nm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                樋口澄晴（寺西拓人）の父・眞澄（佐々木蔵之介）が亡くなった。最期を看取り、葬儀を終えた澄晴は、遺品を整理しながらようやく一息つく。そんな澄晴に、平野龍太（草川拓弥）は一瀬葵（内田有紀）とのことを尋ねるが、葵は澄晴をはじめ周囲との連絡を断ち、ペンションで一人静かに過ごしていた。&lt;br&gt;澄晴は二宮慶太郎（丸山智己）の絵画教室に復職する。二宮に絵画のコンペに出品する意向を伝え、真剣にキャンパスに向かう澄晴。絵画教室の生徒・斎木（白鳥晴都）の絵と自分の絵を比べて悩む澄晴に、二宮は創作の原動力は何かと尋ねる。&lt;br&gt;佐川優子（坂井真紀）は、生前の眞澄から葵宛ての手紙を預かっていた。なぜ澄晴ではなく自分に託したのか疑問に思う優子に、岩村健吾（平原テツ）は優子と葵がもう一度向き合うきっかけをくれたのではないかと話す。しかし優子は葵に連絡する決心がつかずにいた。&lt;br&gt;葵はペンションで、品の良い女性・西村貴和子（多岐川裕美）と出会う。貴和子は、今の葵くらいの年齢の時に、当時の恋人と共に初めてこのペンションを訪れたと話し「懐かしいわ」とつぶやく。そんな貴和子を見つめる葵。&lt;br&gt;澄晴と龍太の家を、木嶋莉奈（桜井日奈子）が訪れる。莉奈は、実は自分と葵が知り合いで、澄晴の好きな人が葵だと知ってショックを受けたのだと打ち明ける。葵のことを諦めないよう、澄晴の背中を押す莉奈。しかし澄晴がどれだけ連絡しても、葵は一切反応しないままだった・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>大空港～GATE24～_[第8話 空港を襲う毒物テロ!?]</title>
     <id>https://tver.jp/episodes/ep7d1h219d</id>
@@ -369,138 +402,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 樋口澄晴（寺西拓人）の父・眞澄（佐々木蔵之介）が亡くなった。最期を看取り、葬儀を終えた澄晴は、遺品を整理しながらようやく一息つく。そんな澄晴に、平野龍太（草川拓弥）は一瀬葵（内田有紀）とのことを尋ねるが、葵は澄晴をはじめ周囲との連絡を断ち、ペンションで一人静かに過ごしていた。&lt;br&gt;澄晴は二宮慶太郎（丸山智己）の絵画教室に復職する。二宮に絵画のコンペに出品する意向を伝え、真剣にキャンパスに向かう澄晴。絵画教室の生徒・斎木（白鳥晴都）の絵と自分の絵を比べて悩む澄晴に、二宮は創作の原動力は何かと尋ねる。&lt;br&gt;佐川優子（坂井真紀）は、生前の眞澄から葵宛ての手紙を預かっていた。なぜ澄晴ではなく自分に託したのか疑問に思う優子に、岩村健吾（平原テツ）は優子と葵がもう一度向き合うきっかけをくれたのではないかと話す。しかし優子は葵に連絡する決心がつかずにいた。&lt;br&gt;葵はペンションで、品の良い女性・西村貴和子（多岐川裕美）と出会う。貴和子は、今の葵くらいの年齢の時に、当時の恋人と共に初めてこのペンションを訪れたと話し「懐かしいわ」とつぶやく。そんな貴和子を見つめる葵。&lt;br&gt;澄晴と龍太の家を、木嶋莉奈（桜井日奈子）が訪れる。莉奈は、実は自分と葵が知り合いで、澄晴の好きな人が葵だと知ってショックを受けたのだと打ち明ける。葵のことを諦めないよう、澄晴の背中を押す莉奈。しかし澄晴がどれだけ連絡しても、葵は一切反応しないままだった・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ファーストクライ 母子救命救急班_[最終回 一人にはしませんから]</title>
-    <id>https://tver.jp/episodes/ep98ynw6vj</id>
-    <updated>2026-09-09T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep98ynw6vj" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr286e3aus.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ファーストクライ 母子救命救急班
-                &lt;a href="https://tver.jp/series/sr286e3aus" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep98ynw6vj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                その産声が、聞こえない…!&lt;br&gt;産婦人科医・光井(比嘉愛未)は、親友・羽鳥(徳永えり)を亡くしたショックで、左耳だけでなく右耳も聞こえなくなってしまう。産声を聞くことができない光井は医者を辞めようと、院長・神谷(真矢ミキ)に退職願を提出。さらに理事会で「母子救命プロジェクト」の試験運用の中止が決定し、母子救命救急班は解散状態になり…。ついに最終回!絶望の淵に立たされた光井と母子救命救急班の運命は!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>Tokyo middle 30_[第8話 あとの祭]</title>
-    <id>https://tver.jp/episodes/ep3pg3p1lw</id>
-    <updated>2026-09-09T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep3pg3p1lw" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj4g0unrs.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ Tokyo middle 30
-                &lt;a href="https://tver.jp/series/srj4g0unrs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3pg3p1lw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                麻紀（仲里依紗）は仕事と息子の療育に奔走する中、家族から「すべてをコントロールしている」と思われていたことにショックを受ける。&lt;br&gt;そして薫子（深川麻衣）は、義孝（風間俊介）とのすれ違いの末、義孝の出張中に何も告げず家を出て、離婚に向けた別居を始める。&lt;br&gt;一方、晃之助（朝井大智）との関係に揺れる遥（のん）は、晃之助が周囲に遥を「パートナー」として紹介したことで、二人の関係に小さな希望を見出すのだが・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Episode8 記憶の中の殺人者]</title>
-    <id>https://tver.jp/episodes/epv5fmos2z</id>
-    <updated>2026-09-09T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epv5fmos2z" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
-                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月16日(水)22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv5fmos2z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                女性が自宅で殺害され、防犯カメラにはホラーマスクの男が。さらに犯人が落としたと思われるスマホから、5人の女性を盗撮した映像が見つかり、その中にはＳＳＢＣ・光本さやか（足立梨花）の姿もあった。事件が連続殺人へと発展する中、名波凛太郎（相葉雅紀）は“心理捜査”で、さやかの曖昧な記憶から手がかりを探る。一方、木沢理（伊藤淳史）は、さやかを守るためボディーガードを買って出るが－。5人は、なぜ狙われたのか!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>孤独のグルメ Season10_[第4話 東京都練馬区大泉学園のサザエとキノコのプロヴァンス風と牛タンシチューのオムライス]</title>
-    <id>https://tver.jp/episodes/epk8a3ak8f</id>
-    <updated>2026-09-09T18:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epk8a3ak8f" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 孤独のグルメ Season10
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月09日(水)18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月23日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk8a3ak8f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                東京都練馬区「大泉学園」駅からバスを乗り継ぎ、商談相手の原田洋一（えなりかずき）が務めるケアハウスへ。妻へのプレゼント用にアンティークのジュエリーボックスが欲しいようで、いくつか選んだものを見せるが、原田が希望した商品は予算オーバーだった。しかし自分の家族や子どもの写真を見せて執拗に交渉する原田に気圧され、五郎（松重豊）はしぶしぶ了承。商談後、背筋を伸ばすと急に腹が減り、足早にお店を探し始める。住宅街という名の“ハングリーロード”をひたすら歩くが、お店の気配は皆無…。空腹で絶望しかけた時、一軒の洋食屋さんを発見！駆け込みでお店に入る五郎。定番の洋食メニューとおすすめメニューを店員・奥さん（相田翔子）に聞き、自分だけのコースメニューを考えることに。スープ料理にアラカルト、そしてメインディッシュ。洋食オールスターズから厳選した五郎オリジナルのコースメニューとは。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
