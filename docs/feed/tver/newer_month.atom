@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-11T02:05:11+09:00</updated>
+  <updated>2026-09-11T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１５話　「順之助 いよいよ受験する」]</title>
+    <id>https://tver.jp/episodes/epc3ed5zzw</id>
+    <updated>2026-09-11T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epc3ed5zzw" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月11日(金)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月11日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc3ed5zzw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                学問所の試験で順之介は加代にカンニングの協力を依頼。主水は立小便姿を絵草紙に描かれてしまい、探し出した絵師・長次郎と意気投合。そこで二人は成績優秀な新太郎と出会う。新太郎は出来の悪い息子を持つ坂出に目をつけられていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>AI EYES -AIクリエイティブの現在地-_[MANDRAGORA]</title>
+    <id>https://tver.jp/episodes/epqi91hb9c</id>
+    <updated>2026-09-11T03:35:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqi91hb9c" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnk2nzbtk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ AI EYES -AIクリエイティブの現在地-
+                &lt;a href="https://tver.jp/series/srnk2nzbtk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月11日(金)03時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月10日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月10日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqi91hb9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                魔法が日常となった1920年代の都市。引き抜けば、その叫びを聞いた者を骨に変え、喰らえばあらゆる魔法を超える力を与える禁断の魔根「マンドラゴラ」。その強奪を依頼された“赤い魔女”は、危険な追跡者たちとの壮絶な争奪戦へと巻き込まれていきます。魔法と欲望が交錯する世界を圧倒的なスピードと映像美で描く、ダークファンタジーアクションです。AIが解き放つ、まだ見たことのない世界。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ちょっと待とうよ、春虎くん_[＃5「そんな顔されたら困るよ、春虎くん。」《ドラマフィル》]</title>
     <id>https://tver.jp/episodes/epp0rhev0q</id>
@@ -534,39 +600,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 映画「青写真」の聖地へやってきた渉（奥智哉）と千晴（杢代和人）。誘ってくれた秋吉（今井柊斗）や、偶然出会った新見（大下ヒロト）と共に四人で行動することに。千晴に留学の真相を確かめたい渉だったが、過去のようにまた黙って去られる恐怖と不安から踏み出せずにいた。隠し事への不信感とすれ違う想いから、次第に距離が開いていく二人…。そんな中、展望台を探して一人山道へ入った渉は足を滑らせてしまい――。　［期間限定無料配信］　テレビ東京にて7月1日(水)スタート！毎週水曜深夜24時30分より放送！ 
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>DREAM STAGE_[第７話 ２名解雇せよ！仲間の絆を裂く非情な審査]</title>
-    <id>https://tver.jp/episodes/epgcjchj5s</id>
-    <updated>2026-09-10T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epgcjchj5s" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra2z43otr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ DREAM STAGE
-                &lt;a href="https://tver.jp/series/sra2z43otr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月10日(木)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月17日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2月27日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgcjchj5s.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：7月19日(日)0:00～9月27日(日)23:59&lt;br&gt;#3：8月23日(日)0:00～8月30日(日)23:59&lt;br&gt;#4：8月27日(木)0:00～9月3日(木)23:59&lt;br&gt;#5：8月31日(月)0:00～9月7日(月)23:59&lt;br&gt;#6：9月5日(土)0:00～9月12日(土)23:59&lt;br&gt;#7：9月10日(木)0:00～9月17日(木)23:59&lt;br&gt;#8：9月15日(火)0:00～9月22日(火)23:59&lt;br&gt;#9：9月20日(日)0:00～9月27日(日)23:59&lt;br&gt;------------&lt;br&gt;「私をこの事務所に入れてくれないか」というパク（キム・ジェギョン）の言葉に驚く吾妻（中村倫也）たち。チェ代表（イ・イギョン）のモラハラで疲弊している様子のパクは「私にはこの仕事しかない」と頭を下げる。かつて手痛い裏切りを受けたナム（ハ・ヨンス）は「ありえない！」と断固拒否するが、なぜか吾妻はパクを歓迎。最強プロデューサー２人が、まさかのタッグを組むことに。&lt;br&gt;「NAZEをトップスターにする」と意気込むパクが提案するアイデアはどれも斬新で、吾妻との息もぴったり。水星（池田エライザ）は、そんな２人を見て複雑な思い…。&lt;br&gt;練習生当時のNAZEを知るパクは、ダンスレッスンを見てメンバーたちを叱責する。「私が見ていた頃から何も成長していない。デビューしたことに満足して消え去っていく、ダメグループの典型だ！」というあまりに厳しい言葉に、困惑するNAZE。パクはさらに「君らが本当に必要な戦力かどうかを見極める。７人は多すぎる。５人くらいが妥当だろう」と、いきなりメンバー２名のリストラを発表！“セカンドオーディション”と題された、NAZE最大の試練…。「クビになるかも」という恐怖から、メンバー同士の信頼関係は崩壊の危機にさらされる。ともに夢を目指すはずだった彼らの運命は――そして、パクに全てをゆだねた吾妻の真の狙いとは一体！？
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
