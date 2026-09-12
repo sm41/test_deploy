@@ -2,11 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-12T20:05:22+09:00</updated>
+  <updated>2026-09-12T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>告白―25年目の秘密―_[第9話 全ての秘密の扉が開いた]</title>
+    <id>https://tver.jp/episodes/epnhnhwt86</id>
+    <updated>2026-09-12T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epnhnhwt86" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 告白―25年目の秘密―
+                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月12日(土)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月19日(土)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月12日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnhnhwt86.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                最終回直前！それぞれの秘密が明らかに…！&lt;br&gt;25年前の誘拐事件で雪村爽太（松村北斗）に命を救われていたと知った野瀬麻里子（岡崎紗絵）。今まで25年間、麻里子のためにしてきたことを全て打ち明ける爽太に、麻里子はある決断を下し…。そんな中、麻里子の父・銀次郎（石黒賢）が、連続誘拐犯・畑野悟（田中要次）との因縁をついに告白！さらに、爽太の親友・相良友也（塩野瑛久）の秘密…！麻里子の実母・恭子の死の真相とは…！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ドラマ「永久少年 Eternal Boys」_[第11話「諦めるのが上手くなって嫌だな」]</title>
+    <id>https://tver.jp/episodes/ep7ybbziex</id>
+    <updated>2026-09-12T21:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7ybbziex" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnrk0olc3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ「永久少年 Eternal Boys」
+                &lt;a href="https://tver.jp/series/srnrk0olc3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月12日(土)21時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月19日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月12日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7ybbziex.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                柿崎（細貝圭）とメンバーの誤解も解け、リベンジライブの準備に余念がない永久少年。ある日、満福芸能プロの稼ぎ頭で天才子役の宇喜田蓮が、別の事務所に移籍してしまう。満福芸能プロの経営は一気に傾き、社長の福子（田中美奈子）は永久少年の解散をメンバーに告げる。福子の態度に事情を察したメンバーは、次々に新しい就職口を見つけて去っていく。諦めきれない真田（松本岳）は、ある夜、一人、カメラの前に立つのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
 </feed>
