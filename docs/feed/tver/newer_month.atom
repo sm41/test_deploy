@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-12T22:05:11+09:00</updated>
+  <updated>2026-09-13T00:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>夏色の雲が恋と嵐をまきおこす_[最終回 涙の想いと2人の未来]</title>
+    <id>https://tver.jp/episodes/epvgsajjht</id>
+    <updated>2026-09-12T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvgsajjht" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srupps3gzu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 夏色の雲が恋と嵐をまきおこす
+                &lt;a href="https://tver.jp/series/srupps3gzu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月12日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月03日(土)23時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月12日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvgsajjht.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                高校3年生の武宮夏輝（深田竜生）は、家庭教師の小早川蒼汰（浮所飛貴）に「9月から2年間イギリスに留学する」と告げられ、びっくりしてしまう。留学は蒼汰の念願だったと聞き、笑顔で「おめでとう」と祝福するが、本当は寂しくてたまらず…。&lt;br&gt;そんな中、夏輝は自分の素直な気持ちを伝えようと蒼汰を祝うサプライズを計画！&lt;br&gt;一方、蒼汰は夏輝に連日授業をドタキャンされて落ち込んでいた。そんなとき、莉緒から「夏輝が大変なの！」と突然の電話が入り、慌てて武宮家に駆けつけるが…!?&lt;br&gt;別れの日が近づく中、夏輝と蒼汰は最後にどんな時間を過ごすのか？そして2人が下した“決断”とは――!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ドラマ　宅飲みシェアハウス_[＃９　牛すき煮]</title>
+    <id>https://tver.jp/episodes/ep4z06kff1</id>
+    <updated>2026-09-12T23:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4z06kff1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6hry6175.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ　宅飲みシェアハウス
+                &lt;a href="https://tver.jp/series/sr6hry6175" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月12日(土)23時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月12日(月)23時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月12日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4z06kff1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                古谷大和（本人役）は北園涼（本人役）に先日ふるまってくれた油ゾーメンの御礼をしたいと考えていた。サプライズでご馳走しようと、北園の好きな料理を探ろうとするが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>告白―25年目の秘密―_[第9話 全ての秘密の扉が開いた]</title>
     <id>https://tver.jp/episodes/epnhnhwt86</id>
