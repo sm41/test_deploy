@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-14T00:05:11+09:00</updated>
+  <updated>2026-09-14T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>カガミタタリ_[第二話　ルールの検証]</title>
+    <id>https://tver.jp/episodes/epu69lylxi</id>
+    <updated>2026-09-14T01:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epu69lylxi" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsf11pw7b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ カガミタタリ
+                &lt;a href="https://tver.jp/series/srsf11pw7b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月14日(月)01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月14日(水)01時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月13日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu69lylxi.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                親友・咲良を失い、保健室で目を覚ました菜月。事件を目撃した影宮とともに、自分たちがキリコの存在を知ってしまったことを確認するが、助かる方法は分からない。帰宅後、影宮から「キリコが家にもい…」という途切れたメッセージが届き、菜月自身も浴室の鏡から襲われてしまう。その夜、夢の中に無数の鏡と「8」から減っていく数字が現れる。翌日、二人はキリコ出現の法則を探り始めるが、クラスメイトの山本真弥も窓ガラスに映るキリコを見たと告白する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>キスは捜査のあとで_[#8　愛の乱打戦、プレイボール！]</title>
+    <id>https://tver.jp/episodes/ep6otzxlfl</id>
+    <updated>2026-09-14T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6otzxlfl" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ キスは捜査のあとで
+                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月14日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月21日(月)00時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月13日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6otzxlfl.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;恋のライバル出現！？塩野をめぐって、男たちの“本気の勝負”が幕を開ける――！&lt;br&gt;デートをキャンセルした塩野が一緒にいたのは、謎の男・伊達ジョージ。塩野との電話で多古井が耳にしたのは、「秀ー！」「ジョージ」と名前で呼び合う、あまりにも親しげな声。翌日、モヤモヤを抱えて本部へ向かった多古井の前に、仲睦まじく寄り添う２人が現れて…！？嫉妬、挑発からの、まさかのバッティング対決――塩野をかけた“恋の火花”が散る！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>VIVANT_[第十八話 前半戦・最終回！！失われた愛が蘇る!?最強の勇者たち集結]</title>
     <id>https://tver.jp/episodes/epfdl53bkb</id>
