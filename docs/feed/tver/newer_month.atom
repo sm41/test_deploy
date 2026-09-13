@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-13T22:05:45+09:00</updated>
+  <updated>2026-09-14T00:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>VIVANT_[第十八話 前半戦・最終回！！失われた愛が蘇る!?最強の勇者たち集結]</title>
+    <id>https://tver.jp/episodes/epfdl53bkb</id>
+    <updated>2026-09-13T22:09:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epfdl53bkb" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ VIVANT
+                &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月13日(日)22時09分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月04日(日)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月13日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfdl53bkb.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;櫻井司令（キムラ緑子）より乃木（堺雅人）に下された奪還断念の非情な決断。しかし、長野専務（小日向文世）の叱咤により前を向く乃木は、弟ノコル（二宮和也）に連絡をする。命を落とすかもしれない作戦、テント壊滅に追い込んだ張本人は自分であることに言い淀む乃木、しかしノコルは、「なんでもっと単刀直入に言わないんだ？テントは全勢力をかけて、兄さんに協力する」血のつながり以上の愛を持って結束する二人。ここに、乃木とノコル率いるテントの最強チームが完成する。そこへチョッキー（Tanapak Jongjaiphar）も加わり、いよいよ別班奪還作戦へ向かっていく！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season2_[第9話 江東区砂町銀座商店街を経て事務所飯]</title>
     <id>https://tver.jp/episodes/epgulqciy2</id>
