@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-14T16:05:10+09:00</updated>
+  <updated>2026-09-14T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第8夜 酒のつまみに絶品カレー]</title>
+    <id>https://tver.jp/episodes/epg0r7d78b</id>
+    <updated>2026-09-14T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epg0r7d78b" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月14日(月)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月28日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月14日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg0r7d78b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                忙しくて殺気立つ社内。残業でクタクタのワカコ（武田梨奈）は中休みにちょっと一杯。入ったのは、下町のよさげなお店。オニオンスライスと生ビールでさっぱりしたワカコは、名物のレバーフライとビールの焼酎割りのチャッピーをオーダー。元気とスタミナを回復させる。そして、やっと終わった残業月間。心おきなく飲めると向かった先は、カウンターだけの小さな居酒屋。メニューに自家製カレーを見つけたワカコ。合わせるのは……？　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第13話]</title>
+    <id>https://tver.jp/episodes/ep5ze58nx2</id>
+    <updated>2026-09-14T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep5ze58nx2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月14日(月)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月14日(日)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月14日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ze58nx2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ウィナーズのデザイン研修生選抜の面接試験に臨むセヨン。&lt;br&gt;これまで誰も答えられなかった難問に完璧な解答を出してウン会長を感心させる。&lt;br&gt;そんな中セヨンがヨンスクの娘であることを知ったヒョジョンは、ヨンスクを牽制するためギョンヘにセヨンを攻撃させようと考えるが、かえって2人の仲を接近させる結果に。&lt;br&gt;そんな中ヨンスクはミョンファンの車を尾行して、ミョンファンとヒョジョンの不倫関係を知り2人を激しく攻撃する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>戦神~MARS~_[第18話　零の記憶]</title>
     <id>https://tver.jp/episodes/epynmzlxt6</id>
@@ -336,105 +402,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 総統がペースメーカーをつけていることを知ったために妹を殺された元青狼会幹部中山は、ラジコンカーを使い、総統暗殺を企てる。それを阻止するためサキが走る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>法医学者マダム・エール_[第4話「飛び降りた天使 後編」]</title>
-    <id>https://tver.jp/episodes/epckbjiz2f</id>
-    <updated>2026-09-13T10:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epckbjiz2f" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 法医学者マダム・エール
-                &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月13日(日)10時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月13日(日)10時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月13日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epckbjiz2f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【BS11(イレブン)にて毎週日曜日 午前9時59分から放送中！】&lt;br&gt;内部調査下にあるアレクサンドラだが、持ち前の行動力で関係者への聞き込みを重ね、名外科医と思われていた被害者の秘密を明らかにしていく。一方、ボルドーに引っ越してきたアントワーヌの元恋人であるリザと、その娘のイギーが、事件を通じてアレクサンドラら兄妹と関わるようになり、アントワーヌは複雑な思いを抱く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>こんなところで裏切り飯～嵐を呼ぶ七人の役員～_[最終話「川越でパエリア」]</title>
-    <id>https://tver.jp/episodes/ep80edr35a</id>
-    <updated>2026-09-13T02:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep80edr35a" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srri2800z7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ こんなところで裏切り飯～嵐を呼ぶ七人の役員～
-                &lt;a href="https://tver.jp/series/srri2800z7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月13日(日)02時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月20日(日)01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月12日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep80edr35a.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                Huluでは全話配信中！&lt;br&gt;&lt;最終話&gt;&lt;br&gt;榊原総一朗（伊武雅刀）社長は、小野寺真理子（志田彩良）と新庄凛太郎（前田拳太郎）に引退の意向を伝える。真理子は“最後の裏切り飯”を頼まれると、引退を止めるどころかあっさり承諾し、榊原は寂しげ。そして真理子は埼玉県川越市にあるスペイン店の「パエリア」を紹介！舌鼓を打つ榊原だが、時折、険しい表情を見せ…。&lt;br&gt;&lt;br&gt;◆中京テレビにて、毎週土曜25時59分より再放送中&lt;br&gt;※都合により時間変更の場合があります
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>＆Hulu_[映画『オデュッセイア』公開記念！この秋観たいクリストファー・ノーラン監督作品を大特集▼日本初公開！監督と豪華キャストが語る『オデュッセイア』制作秘話は必見！]</title>
-    <id>https://tver.jp/episodes/ept2haw0oc</id>
-    <updated>2026-09-13T02:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ept2haw0oc" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月13日(日)02時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月12日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept2haw0oc.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                クリストファー・ノーラン監督最新作『オデュッセイア』公開記念！この秋観たいノーラン作品を大特集▼長編デビュー作『フォロウィング』、出世作『メメント』など珠玉の名作をたっぷり紹介！▼極力CGに頼らず「本物」にこだわる独自の映画術を徹底解説！▼さらに日本初公開！ノーラン監督＆豪華キャストが語る『オデュッセイア』制作秘話VTRも必見！知られざる撮影の舞台裏に迫る。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
