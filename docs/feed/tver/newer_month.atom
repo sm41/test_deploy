@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-16T00:05:12+09:00</updated>
+  <updated>2026-09-16T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>恋をするなら二度目が上等 season2_[#3「甘え上手な元恋人」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/ep4w8amibl</id>
+    <updated>2026-09-16T02:01:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4w8amibl" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzd5g7b80.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 恋をするなら二度目が上等 season2
+                &lt;a href="https://tver.jp/series/srzd5g7b80" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月16日(水)02時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月15日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4w8amibl.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                椙本（白石隼也）に招待されたディナーへ向け、崇（古屋呂敏）と着物を選びに出かけた宮田（長谷川慎）。そして穏やかなデートを楽しむ二人だったが、偶然出会ったのは、崇を親しげに「崇さん」と呼ぶ年下の青年・谷口類（阿久根温世）。しかも彼もまた、崇の“元恋人”だった！&lt;br&gt;愛情表現が素直で甘え上手な類を前に、宮田は自分との違いを意識せずにはいられない。さらに崇が類との過去を「内緒」とはぐらかしたことで、宮田のモヤモヤは膨らむばかり。ついには”嫉妬していること”を崇にぶつけてしまい…。後日、椙本とのディナーへ向かった二人。待ち合わせ場所の屋形船に現れた“もう一人の招待客”は、まさかの――！？&lt;br&gt;次から次へと現れる崇の元恋人に、宮田の嫉妬はまだまだ止まらない―！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>君の好きは無敵_[最終話 その「好き」が、きっと誰かを無敵にする！]</title>
     <id>https://tver.jp/episodes/epsf7aq40j</id>
