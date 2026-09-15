@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-15T16:05:11+09:00</updated>
+  <updated>2026-09-15T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season4_[第9夜 新大久保で韓国料理]</title>
+    <id>https://tver.jp/episodes/epn60r0arp</id>
+    <updated>2026-09-15T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epn60r0arp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season4
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月15日(火)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月29日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月15日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn60r0arp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                昼休み、韓国のガイドブックを見ていたアベちゃん（渡部瑞貴）の影響で、韓国気分を味わえる新大久保にやってきたワカコ（武田梨奈）。早速入ったお店でチャンジャと麦焼酎の水割りをオーダー。水割りが薄く感じてきたワカコは麦焼酎のロックも追加。ロックを舐めつつ、チャンジャを舐めつつ、水割りはチェイサー代わりに。チャンジャ沼を存分に楽しむ。次の日、アベちゃんから壺漬けカルビのオススメのお店を聞いたワカコは再び新大久保へ……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第14話]</title>
+    <id>https://tver.jp/episodes/epl3hupe1l</id>
+    <updated>2026-09-15T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epl3hupe1l" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月15日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月15日(月)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月15日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl3hupe1l.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ミョンファンは不正な裏金を貰っていた業者から、返金してくれなければ会長に暴露すると脅され絶体絶命に。&lt;br&gt;それを聞いたヒョジョンは、ウン会長が過去に関わった染色工場の有毒物質事故をネタにギョンヘを脅して利用することを提案する。&lt;br&gt;そんな中、屋敷の仕事を辞めたセヨンは忘れ物を取りに戻り、ギョンヘがミョンファンに暴力を振るわれているところに遭遇し体を張ってギョンヘを守る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第30話]</title>
     <id>https://tver.jp/episodes/epbwzwrg8g</id>
@@ -402,39 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 忙しくて殺気立つ社内。残業でクタクタのワカコ（武田梨奈）は中休みにちょっと一杯。入ったのは、下町のよさげなお店。オニオンスライスと生ビールでさっぱりしたワカコは、名物のレバーフライとビールの焼酎割りのチャッピーをオーダー。元気とスタミナを回復させる。そして、やっと終わった残業月間。心おきなく飲めると向かった先は、カウンターだけの小さな居酒屋。メニューに自家製カレーを見つけたワカコ。合わせるのは……？　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第13話]</title>
-    <id>https://tver.jp/episodes/ep5ze58nx2</id>
-    <updated>2026-09-14T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5ze58nx2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月14日(月)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年03月14日(日)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月14日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ze58nx2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ウィナーズのデザイン研修生選抜の面接試験に臨むセヨン。&lt;br&gt;これまで誰も答えられなかった難問に完璧な解答を出してウン会長を感心させる。&lt;br&gt;そんな中セヨンがヨンスクの娘であることを知ったヒョジョンは、ヨンスクを牽制するためギョンヘにセヨンを攻撃させようと考えるが、かえって2人の仲を接近させる結果に。&lt;br&gt;そんな中ヨンスクはミョンファンの車を尾行して、ミョンファンとヒョジョンの不倫関係を知り2人を激しく攻撃する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
