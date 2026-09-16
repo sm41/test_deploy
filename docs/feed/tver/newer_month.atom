@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-16T14:05:11+09:00</updated>
+  <updated>2026-09-16T16:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>一筆お祓いいたします_[第7話 同情はやめろ]</title>
+    <id>https://tver.jp/episodes/epvqspu60r</id>
+    <updated>2026-09-16T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvqspu60r" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月16日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月16日(金)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月16日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvqspu60r.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                歩道標識の男の子供を捜す一永(イーヨン)達。楮英(チューイン)の協力のおかげで、子供を誘拐したのは、1年半前に自らの子供を亡くした余鎮元(ユー・ジェンユエン)であることが分かる。一永と光硯(グァンイェン)は鎮元の自宅を訪れ、彼の尾行を始める。鎮元と子供が楽しく過ごす姿を見て、心にわだかまりを感じる一永。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>鉄の王　キム・スロ_[第31話]</title>
     <id>https://tver.jp/episodes/epltbc21mp</id>
