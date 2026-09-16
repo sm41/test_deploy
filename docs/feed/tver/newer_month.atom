@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-16T20:05:11+09:00</updated>
+  <updated>2026-09-16T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Last Episode ティッシュ一枚の真実]</title>
+    <id>https://tver.jp/episodes/epge4g8vo4</id>
+    <updated>2026-09-16T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epge4g8vo4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
+                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月16日(水)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月16日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epge4g8vo4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                元裁判官と元検事が相次いで殺害される！現場周辺の防犯カメラには金属バットを持つ3人組が…。捜査線上には、伊垣がかつて取り調べで殴った因縁の男・高野（玉城裕規）が浮上し、遥や娘の美里、八重樫一課長にも危険が迫る。さらに事件の鍵を握る人物として、無期懲役で服役中の元トクリュウ幹部・宇喜多（こばやし元樹）が浮上！刑務所内の男は事件とどうつながるのか？謎だらけの凶悪事件の真相に、最新映像解析技術で迫る！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season10_[第9話 東京都荒川区日暮里の酢豚とチャムチャ麺]</title>
     <id>https://tver.jp/episodes/epw9rhc7zc</id>
