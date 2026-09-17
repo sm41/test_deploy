@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-17T02:05:11+09:00</updated>
+  <updated>2026-09-17T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第１９話　「秀、天気を当てる女に出逢う」]</title>
+    <id>https://tver.jp/episodes/ep1fk2w5lr</id>
+    <updated>2026-09-17T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1fk2w5lr" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月17日(木)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月27日(日)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月17日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1fk2w5lr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                秀は天気の予想が不思議とよく当たるお袖と出会った。天文方からの苦情でお袖は捕らえられてしまう。お袖は天性の能力を持った女だった。天文方の香田らは、お袖を利用し米相場でひともうけを企んでいた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>愛される花_[第14話 無心]</title>
+    <id>https://tver.jp/episodes/epxydu03a7</id>
+    <updated>2026-09-17T08:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxydu03a7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3din1nja.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 愛される花
+                &lt;a href="https://tver.jp/series/sr3din1nja" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月17日(木)08時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月17日(土)08時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月16日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 西日本放送&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxydu03a7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                韻錦（ユンジン）のため、子翼（ズーイー）は疎遠だった父に借金を頼む決意をする。使い道を明かさない息子を不審に思った父は、程錚（チョン・ジョン）に真相を問いただす。やがて韻錦にも疑いの目が向けられ、思いがすれ違っていく中、思いがけない知らせが届き―。状況は大きく動き出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>君は夏のなか_[最終話 君と夏のなか]</title>
     <id>https://tver.jp/episodes/epokyjs8bb</id>
