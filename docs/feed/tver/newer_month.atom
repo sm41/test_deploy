@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-17T20:05:10+09:00</updated>
+  <updated>2026-09-17T22:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>大空港～GATE24～_[最終話 最強の門番！最後の戦い]</title>
+    <id>https://tver.jp/episodes/ep8p01o4hz</id>
+    <updated>2026-09-17T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep8p01o4hz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srflq7lhqr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大空港～GATE24～
+                &lt;a href="https://tver.jp/series/srflq7lhqr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月17日(木)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月22日(木)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月17日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8p01o4hz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                暗殺計画阻止か、人質の命か…&lt;br&gt;崩壊の危機に迫る《GATE24》、最後の審査へ――！&lt;br&gt;&lt;br&gt;参事官・杉原美都里（松雪泰子）にアストリアの反政府組織との関与疑惑が浮上。&lt;br&gt;GATE24存続の危機に追い込まれる。&lt;br&gt;そんな中、アストリア大統領来日に合わせ、反政府組織のリーダーが暗殺を企てていると情報が入る。&lt;br&gt;税関職員・森万智（趣里）たちGATE24が警戒を強める中、&lt;br&gt;首席審査官・深澤然（柳葉敏郎）のもとへ、妻・眞弓（高橋かおり）を人質に脅迫が…。&lt;br&gt;犯人の要求は、リーダーが潜んでいる可能性のある便の乗客全員を入国させることだった。&lt;br&gt;暗殺計画の阻止か、眞弓の命か…絶体絶命の事態を突きつけられたGATE24がたどる運命とは――ついに完結！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season10_[第10話 神奈川県川崎市中原区の豚肉腸粉と雲呑麺]</title>
     <id>https://tver.jp/episodes/epnxrdjhe4</id>
