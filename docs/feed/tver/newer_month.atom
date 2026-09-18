@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-18T02:05:11+09:00</updated>
+  <updated>2026-09-18T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２０話　「主水、宮本武蔵の子孫と試合をする」]</title>
+    <id>https://tver.jp/episodes/epyhcroh1o</id>
+    <updated>2026-09-18T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epyhcroh1o" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月18日(金)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月28日(月)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月18日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyhcroh1o.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                &gt; 回船商相模屋の主人が、妻と手代・清太郎の密通を目撃し、殺したと届けがあった。秀は主水からその話を聞くが、不思議に思った。清太郎は使用人おいよと恋仲で、結婚を控えていたのだ。相模屋が砂糖の密貿易をしていたのがわかる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>AI EYES -AIクリエイティブの現在地-_[おてんき学校]</title>
+    <id>https://tver.jp/episodes/epr4huvpac</id>
+    <updated>2026-09-18T03:35:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epr4huvpac" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnk2nzbtk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ AI EYES -AIクリエイティブの現在地-
+                &lt;a href="https://tver.jp/series/srnk2nzbtk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月18日(金)03時35分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月17日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月17日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr4huvpac.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                空のずっと上にある街「スカイタウン」。その中心にある「おてんき学校」では、見習いの天気の子どもたちが、自分の持つ気象の力をコントロールし、一人前になるために日々学んでいます。少し弱気な主人公も、学校でのさまざまな出会いや経験を通して、自分だけの力と向き合いながら成長していきます。空の上の不思議な学校を舞台にした、心あたたまるファンタジーです。想像力があれば、いつもの空も物語に。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ちょっと待とうよ、春虎くん_[＃6「ごめんね、春虎くん。」《ドラマフィル》]</title>
     <id>https://tver.jp/episodes/ep3iz725nd</id>
