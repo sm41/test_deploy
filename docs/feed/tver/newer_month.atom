@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-19T20:05:12+09:00</updated>
+  <updated>2026-09-19T22:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>告白―25年目の秘密―_[第10話(最終回) 25年間、ずっと好きでした。]</title>
+    <id>https://tver.jp/episodes/epwb2g7s8f</id>
+    <updated>2026-09-19T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwb2g7s8f" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxgfpsozv.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 告白―25年目の秘密―
+                &lt;a href="https://tver.jp/series/srxgfpsozv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月19日(土)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月26日(土)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月19日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwb2g7s8f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                「僕の25年の恋は……終わった……」。25年前、雪村爽太(松村北斗)が片想いする野瀬麻里子(岡崎紗絵)の母・恭子を殺害したのは、刑事・佐倉泰輔(玉山鉄二)だった！恭子と瓜二つの麻里子にゆがんだ愛情を募らせる泰輔。爽太は麻里子を危険から守ろうとするが、何も知らない麻里子は泰輔のもとへ向かってしまい…！絶体絶命の麻里子を、爽太は救えるか！？一途な片想いの行方は？！すべての秘密が明かされる、運命の最終回！！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ドラマ「永久少年 Eternal Boys」_[最終話「永久少年じゃないとダメなんです」]</title>
+    <id>https://tver.jp/episodes/ep95bm87x5</id>
+    <updated>2026-09-19T21:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep95bm87x5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srnrk0olc3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ドラマ「永久少年 Eternal Boys」
+                &lt;a href="https://tver.jp/series/srnrk0olc3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月19日(土)21時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月13日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月19日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep95bm87x5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                一人きりになってしまった真田（松本岳）は、今でも配信やアルバイトを続けている。そんな真田を心配して訪ねてくる山中（中塚皓平）。解散を一番先に受け入れたように見えた山中が、実はまだ諦めきれない思いを抱えていることを知る真田。二人で合宿所に戻ると、出て行ったはずの今川（輝山立）、浅井（反橋宗一郎）、石田（鈴木祐大）、柿崎（細貝圭）が。６人はもう一度だけ、自分たちの手でライブを開催しようと奔走し始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>サ道 2026～人生をサボりながら、ととのう～_[第一話「渇き」]</title>
     <id>https://tver.jp/episodes/epa3vbwsg4</id>
