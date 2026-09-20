@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-20T20:05:10+09:00</updated>
+  <updated>2026-09-20T22:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>泣いてたまるか_[二人になりたいッ]</title>
+    <id>https://tver.jp/episodes/epaqetquz9</id>
+    <updated>2026-09-20T20:50:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epaqetquz9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8a45d2k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 泣いてたまるか
+                &lt;a href="https://tver.jp/series/srv8a45d2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月20日(日)20時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月19日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月20日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaqetquz9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                新婚の小森一平夫婦は、念願の公団アパートへ引っ越してきた。うるさい姑・小姑から逃れられると思ったのも束の間・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season2_[第10話 北区十条の鯖のくんせいと甘い玉子焼]</title>
     <id>https://tver.jp/episodes/epag9i0lfv</id>
