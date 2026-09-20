@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-20T16:05:10+09:00</updated>
+  <updated>2026-09-20T18:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第18話「サキ、男子校入学!?ツッパリ・ハイスクール」]</title>
+    <id>https://tver.jp/episodes/ep1zxqakyg</id>
+    <updated>2026-09-20T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1zxqakyg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月20日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年09月27日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月20日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1zxqakyg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                青狼会は黒駒高校を拠点に番長連合を作ろうとしていた。次に狙われたのは関東飯岡高校であった。サキとお京は男装し、潜入する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>サ道 2026～人生をサボりながら、ととのう～_[第二話「出会い」]</title>
+    <id>https://tver.jp/episodes/ep5bt5qpj3</id>
+    <updated>2026-09-20T16:20:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep5bt5qpj3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ サ道 2026～人生をサボりながら、ととのう～
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月20日(日)16時20分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月20日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5bt5qpj3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サウナ北欧の食堂で悩みを語り合うナカタ（原田泰造）と偶然さん（三宅弘城）。互いに年を重ね、健康への悩みが尽きない年頃になってきた2人。そこへやってきたのは、サッカー選手の蒸くん（橋本将生）。彼は、「ととのったことがない」という悩みを抱えていた。ならばと、偶然さんが蒸くんに「ととのい」を指南することに。3人は肩を並べて浴室へと向かった。果たして蒸くんは「ととのう」を体験できるのか―？　［期間限定無料配信］　テレビ東京にて9月19日（土）スタート！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>法医学者マダム・エール_[第5話「生きる屍（しかばね） 前編」]</title>
     <id>https://tver.jp/episodes/epsec34cd1</id>
@@ -336,72 +402,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 一人きりになってしまった真田（松本岳）は、今でも配信やアルバイトを続けている。そんな真田を心配して訪ねてくる山中（中塚皓平）。解散を一番先に受け入れたように見えた山中が、実はまだ諦めきれない思いを抱えていることを知る真田。二人で合宿所に戻ると、出て行ったはずの今川（輝山立）、浅井（反橋宗一郎）、石田（鈴木祐大）、柿崎（細貝圭）が。６人はもう一度だけ、自分たちの手でライブを開催しようと奔走し始める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>サ道 2026～人生をサボりながら、ととのう～_[第一話「渇き」]</title>
-    <id>https://tver.jp/episodes/epa3vbwsg4</id>
-    <updated>2026-09-19T16:20:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epa3vbwsg4" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ サ道 2026～人生をサボりながら、ととのう～
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月19日(土)16時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月19日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa3vbwsg4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                フリーデザイナーのナカタアツロウ（原田泰造）は、仕事に追われるあまり、大好きなサウナを我慢しなければいけないほど多忙を極めていた。ようやく仕事がひと段落し、上野にある「サウナ北欧」へと駆け込む。体を洗い、サウナや水風呂、外気浴を重ねるナカタ。サウナ仲間の偶然さん（三宅弘城）とも出会い、日々の重圧から解放された至福の時間を過ごす。すると、そんな２人の様子をじっと見つめる青年（橋本将生）が―。　［期間限定無料配信］　テレビ東京にて9月19日（土）スタート！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ゆかりくんはギャップがずるい_[第1話　ギャップがずるい！]</title>
-    <id>https://tver.jp/episodes/eppdqy0xqq</id>
-    <updated>2026-09-19T15:20:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eppdqy0xqq" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srofqchtnc.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ゆかりくんはギャップがずるい
-                &lt;a href="https://tver.jp/series/srofqchtnc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月19日(土)15時20分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月06日(金)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月4日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppdqy0xqq.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                芽衣子（渡邉美穂）はアナウンサー志望だったが夢破れ、今はイベント会社勤務の傍ら、非常勤講師としてアナウンス学校で教えている。心折れそうな中、唯一真剣に授業を聞いてくれる「ゆかりくん」こと葉山縁（高尾颯斗）に癒されていた。&lt;br&gt;年下でかわいい子犬のような彼に密かにときめく芽衣子は、友人でアナウンサーのマキ（濱岸ひより）にはあくまでも生徒だと言い聞かせる。そんなある日、芽衣子は街で不良に絡まれるゆかりくんを発見。不良の魔の手が伸びた瞬間、ゆかりくんが驚きの行動を取り、衝撃を受ける。そして、ゆかりくんの意外な正体を知ることになって、そのギャップに芽衣子は大混乱。ギャップがずるい～！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
