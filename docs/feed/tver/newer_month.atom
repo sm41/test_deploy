@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-23T10:05:13+09:00</updated>
+  <updated>2026-09-23T12:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>サ道 2026～人生をサボりながら、ととのう～_[第三話]</title>
+    <id>https://tver.jp/episodes/ep0u4jciod</id>
+    <updated>2026-09-23T12:00:01+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0u4jciod" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ サ道 2026～人生をサボりながら、ととのう～
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月23日(水)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月23日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0u4jciod.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ドラマ「サ道」チームが手掛ける特別番組「おつとめさん」（ナレーション：三宅弘城）◆心も身体も解き放たれる場所・サウナで、企業で働く社員が仕事への思いを語ります。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>サ道 2026～人生をサボりながら、ととのう～_[第五話「満ちる」]</title>
+    <id>https://tver.jp/episodes/epx1xqq5w8</id>
+    <updated>2026-09-23T11:50:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epx1xqq5w8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ サ道 2026～人生をサボりながら、ととのう～
+                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月23日(水)11時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月23日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx1xqq5w8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                行きつけのサウナ北欧で、真面目仲間のサッカー選手・蒸くん（橋本将生）と出会い、営業マンの偶然さん（三宅弘城）から「サボりの極意」を伝授されたナカタ（原田泰造）。後日、仕事に追われたナカタは偶然さんの言葉を思い出し、思い切って“サボる”決意をする。スケジュールの調整を行い、自らをケアするためにナカタが向かった場所とは―？　［期間限定無料配信］　テレビ東京にて9月19日（土）スタート！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２３話　「せん 遺言状を書く」]</title>
     <id>https://tver.jp/episodes/epz0jdy82m</id>
