@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-23T16:05:14+09:00</updated>
+  <updated>2026-09-23T18:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第20話]</title>
+    <id>https://tver.jp/episodes/ep0vlehvsa</id>
+    <updated>2026-09-23T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0vlehvsa" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月23日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月23日(火)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月23日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0vlehvsa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ジェジュンは探偵のマ・ドンスクから捜索中の妹が亡くなっていたと聞き、衝撃で高熱を出して寝込んでしまう。&lt;br&gt;ところが自分を必死で看病するセヨンに気付くと、抑えつけていた彼女への感情があふれ出し…。&lt;br&gt;ヨンスクはスランが危篤だと聞いて病院に駆けつけ意識のないスランに、ギョンヘとセヨンが入れ替わった事情を告白し涙ながらに許しを求める。&lt;br&gt;一方でヨンスクは、ミョンファンの重大な裏切りに気付く。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>一筆お祓いいたします_[第8話 身勝手]</title>
     <id>https://tver.jp/episodes/epvj7e5gkm</id>
@@ -270,72 +303,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ドラマ「サ道」チームが手掛ける特別番組「おつとめさん」（ナレーション：三宅弘城）◆心も身体も解き放たれる場所・サウナで、企業で働く社員が仕事への思いを語ります。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>サ道 2026～人生をサボりながら、ととのう～_[第四話「サボり」]</title>
-    <id>https://tver.jp/episodes/epqxjixcla</id>
-    <updated>2026-09-22T11:50:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epqxjixcla" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp0jpngl8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ サ道 2026～人生をサボりながら、ととのう～
-                &lt;a href="https://tver.jp/series/srp0jpngl8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月22日(火)11時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月22日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqxjixcla.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                行きつけのサウナ北欧で、サボることに罪悪感を抱くナカタ（原田泰造）と蒸くん（橋本将生）に、「人生をサボる奥義」を伝授すると意気込む偶然さん（三宅弘城）。“サボり”とは単に怠けることではないのだと語る。そして、サボりのプロを自称する偶然さんは、短時間でも一瞬でリフレッシュできるという“とっておきの奥義”を自信満々に語り始める。偶然さんによる、サボりの熱血講義の幕が上がる―！　［期間限定無料配信］　テレビ東京にて9月19日（土）スタート！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２２話　「主水 大根めしを食べる」]</title>
-    <id>https://tver.jp/episodes/ep1sil1ow8</id>
-    <updated>2026-09-22T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep1sil1ow8" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月22日(火)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月02日(金)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月22日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1sil1ow8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                秀が殺し屋の吹き針で目をやられ、豪商・庄兵衛の家にお民を奉公に出すことにした。庄兵衛の息子の松吉は極道者で家の金を盗んだりしていた。家を出た松吉は、殺し屋から二十五両で殺してやると声をかけられる。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
