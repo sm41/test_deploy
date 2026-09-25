@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-25T02:05:11+09:00</updated>
+  <updated>2026-09-25T10:05:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２５話　「主水の上役 転勤する」]</title>
+    <id>https://tver.jp/episodes/epdl93zr45</id>
+    <updated>2026-09-25T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdl93zr45" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月25日(金)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月05日(月)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月25日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdl93zr45.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                おさわは、浪人の夫・宮部のため、針仕事で生計を立てていた。その宮部が、材木問屋・北城星の一人娘お雪に見初められる。材木商の入り婿という話にひかれた宮部は、おさわを殺そうとする。これを知った勇次は...。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>ちょっと待とうよ、春虎くん_[＃7「勇気を出すね、春虎くん。」《ドラマフィル》]</title>
+    <id>https://tver.jp/episodes/epnpt0m50q</id>
+    <updated>2026-09-25T02:29:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epnpt0m50q" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgsxhbdcc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ちょっと待とうよ、春虎くん
+                &lt;a href="https://tver.jp/series/srgsxhbdcc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月25日(金)02時29分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月02日(金)02時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月24日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnpt0m50q.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                春虎（桜木雅哉）の思惑により、晴れて再び同室になった二人。体育祭の日、粋（中川翼）は春虎と母・あや（徳永えり）との楽しそうなメッセージのやりとりをみて春虎の親が知ったらどんな反応をするのかと聞く…。数日後あやとビデオ通話することに。春虎の家族に温かく迎えられ、粋はほっとした表情を見せる。粋の三者面談で「親に挨拶したい」と意気込む春虎だったが、部活で来られないと聞き、粋は安堵する。面談当日、粋と母・志乃（滝沢涼子）の前に部活を抜け出してきた春虎が現れ、感謝を志乃に伝える。春虎の姿をみた粋は志乃に、勇気を振り絞って隠してきた秘密を打ち明けることを決意する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>絶望できない男_[#2 忍び寄る不穏な影]</title>
     <id>https://tver.jp/episodes/ep4tyshh27</id>
