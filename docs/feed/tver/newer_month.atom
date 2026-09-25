@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-25T16:05:09+09:00</updated>
+  <updated>2026-09-25T18:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第22話]</title>
+    <id>https://tver.jp/episodes/epkm8571v9</id>
+    <updated>2026-09-25T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epkm8571v9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月25日(金)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月25日(木)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月25日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkm8571v9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                セヨンが本当の会長の孫だと知ったミョンファンとヒョジョンは、ウン会長にその事実を知られる前にセヨンを追放しようと考える。&lt;br&gt;一方ウン会長はセヨンの新しい生地を使用したデザイン案を絶賛して試作品の製作を開始することを指示する。&lt;br&gt;人目を避けて製作するためセヨンは在宅勤務をすることに。&lt;br&gt;何かあるとにらんだミョンファンは、セヨンの自宅に押しかけ留守をいいことに作業部屋をあさって新開発の生地の存在を知る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>王女の男_[第17話「苦悩する新王女」]</title>
     <id>https://tver.jp/episodes/ept7okp5k7</id>
