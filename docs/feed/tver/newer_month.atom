@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-26T02:05:11+09:00</updated>
+  <updated>2026-09-26T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>思春期メドレー_[#1]</title>
+    <id>https://tver.jp/episodes/eplxbfowjg</id>
+    <updated>2026-09-26T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eplxbfowjg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3emazrfk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 思春期メドレー
+                &lt;a href="https://tver.jp/series/sr3emazrfk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月26日(土)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月25日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月26日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplxbfowjg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                父親の転勤で何度も転校を繰り返していたジョンウは、友達とは深くかかわらないようにしていた。しかし、いじめをしている先輩を見て、つい止めに入ってしまい…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>席替えしたら、どうやら後ろの男が俺のこと好きらしい_[最終話 変わらない恋]</title>
     <id>https://tver.jp/episodes/eptdngxvsj</id>
