@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-29T02:05:11+09:00</updated>
+  <updated>2026-09-29T10:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,35 +10,68 @@
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
   <entry>
-    <title>日テレシナリオライターコンテスト 大賞ドラマ_[日テレシナコン大賞作!最低最悪な恋から始まる、笑って泣けるラブコメ!]</title>
-    <id>https://tver.jp/episodes/epbbrg8jvm</id>
-    <updated>2026-09-29T01:24:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbbrg8jvm" />
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２７話　「主水 未知と遭遇する」]</title>
+    <id>https://tver.jp/episodes/ep8yzri0x2</id>
+    <updated>2026-09-29T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep8yzri0x2" />
     <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srme4qctpe.jpg"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
             &lt;hr&gt;
-            &lt;div&gt;🎞️ 日テレシナリオライターコンテスト 大賞ドラマ
-                &lt;a href="https://tver.jp/series/srme4qctpe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
             &lt;/div&gt;
             &lt;table&gt;
                 &lt;th&gt;
                     &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月29日(火)01時24分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月29日(木)00時54分&lt;/div&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月29日(火)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月09日(金)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月29日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8yzri0x2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                江戸の町に奇妙な光の輪が追いかけて来るなど、異常なことが続いた。主水も奇妙な光と出会って驚く。実はこれ、財政の苦しい地方の小藩で六万石の藩主・大野が、家族を江戸から脱出させようと考えたことだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第８話・俺の好きな人が、俺を好きでいてくれますように]</title>
+    <id>https://tver.jp/episodes/epfwnp9anp</id>
+    <updated>2026-09-29T02:29:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epfwnp9anp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3ax1vftw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 陽キャ集団にいる芹沢は、俺の前だと様子がおかしい
+                &lt;a href="https://tver.jp/series/sr3ax1vftw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月29日(火)02時29分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月06日(火)01時28分&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
                 &lt;th&gt;
                     &lt;td&gt;
                         &lt;div&gt;🗓️ 放送&amp;emsp; : 9月28日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
             &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbbrg8jvm.jpg"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfwnp9anp.jpg"&gt;
             &lt;hr&gt;
             &lt;p&gt;
-                「たった一度しか会っていない、最悪なデートをした女性の葬式で弔辞を述べるなんて…」非モテ会社員・正宗(細田佳央太)は、デート相手・彩子(井桁弘恵)の生前をたどる中で、隠された彼女の苦悩と真実に触れていく。
+                「芹沢(四坂亮翔)の好きな人って誰！？」とモヤモヤする鈴木(小泉光咲)。みんなで海へ行くも、陽キャ女子たちの登場でテンパり度MAX！芹沢から「いつも一緒にいる鈍感な人」と露骨なヒントを出されるも、絶望的に鈍感な鈴木は「BL好きで1年から仲が良い竹内(木村魁希)だ！」とまさかの勘違い！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
@@ -435,171 +468,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ラ・ミュール最大の危機を、芬青(フェンチン)ら夜市の仲間の加勢で奇跡的に乗り越えた廷恩(ティンエン)。勝利の美酒に酔いしれる中、記者会見を兼ねた食事会が開かれる。しかし、廷恩の母たちが画策していたのは、彼と令嬢 孟如曦(モン・ルーシー)との電撃婚約発表だった！衆人環視の中で突きつけられた残酷な事実に、芬青の心は激しく打ち砕かれる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２６話　「主水 外で子供をつくる」]</title>
-    <id>https://tver.jp/episodes/epbphbw9jv</id>
-    <updated>2026-09-28T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbphbw9jv" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月28日(月)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月08日(木)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月28日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbphbw9jv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                浅草寺境内の水茶屋の娘のお涼は、一年前に偶然殺しを目撃し、彼女の証言で黒沢一家の伝蔵らは島送りとなったが、逃走し行方知れずに。そんなある日、奉行所に現れたお涼は、主水に腹の子の責任を取るよう迫る。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>カガミタタリ_[最終話　上島の正体]</title>
-    <id>https://tver.jp/episodes/epywhwqsk5</id>
-    <updated>2026-09-28T01:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epywhwqsk5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsf11pw7b.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ カガミタタリ
-                &lt;a href="https://tver.jp/series/srsf11pw7b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月28日(月)01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月28日(水)01時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月27日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epywhwqsk5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                キリコの力が尽きるまで、残されたカウントはあとわずか。菜月たちが「割れた鏡」を探す中、伊達が再び立ちはだかる。しかし彼を刺したのは、事件解決に協力していたはずの担任・上島だった。上島はキリコこと小林貴理子の幼馴染であり、彼女が命を落とした過去と、自らが事件の真相を知りながら犠牲者が増えるのを黙認していたことを明かす。あと一人が死ねば呪いは鎮まると、菜月たちに犠牲を迫る上島。影宮は菜月を守ろうと立ちはだかる。果たして菜月たちは、キリコの呪いを終わらせることができるのか。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>カガミタタリ_[第四話　伊達の目的]</title>
-    <id>https://tver.jp/episodes/ephw01l3op</id>
-    <updated>2026-09-28T01:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephw01l3op" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srsf11pw7b.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ カガミタタリ
-                &lt;a href="https://tver.jp/series/srsf11pw7b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月28日(月)01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月28日(水)01時15分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月27日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephw01l3op.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                皆川は「真弥に殺されかけた」と訴えるが、影宮は彼女の嘘を見抜く。本性を現した皆川は影宮を階段から突き落とそうとし、庇った真弥が転落。さらに校内の至る所に仕掛けられた鏡からキリコが現れる。すべては菜月に執着する学級委員・伊達黎人が、邪魔者を排除するために仕組んだことだった。事件の深刻さを悟った上島は、自身の高校時代にも同じ怪異が起きていたと告白。呪いを解く鍵となる「割れた鏡」を探す中、紫藤京介はキリコから、カウントがゼロになる前に鏡を見つけてほしいと告げられる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>キスは捜査のあとで_[最終話　俺の全部をあげるから]</title>
-    <id>https://tver.jp/episodes/epkpqj0q8v</id>
-    <updated>2026-09-28T00:40:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epkpqj0q8v" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srexa8rx2z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ キスは捜査のあとで
-                &lt;a href="https://tver.jp/series/srexa8rx2z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月28日(月)00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月05日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月27日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkpqj0q8v.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★見逃しを防ぐお気に入り登録を！★&lt;br&gt;&lt;br&gt;多古井（渡部秀）と親しげな大前田（小方蒼介）に嫉妬し、怒りを露わにする塩野（齋藤璃佑）。一方、大前田から「好きです」と強引に迫られるも、きっぱりはねつける多古井。その直後、大前田が姿を消してしまい、目撃情報を頼りに繁華街へ向かう多古井。連絡が取れない多古井を心配して動き出す塩野。失踪事件と捜査が繋がる中、多古井にはかつてない危機が迫っていた…。怒涛の捜査のあとに待ち受けるクライマックス、すれ違ってしまった多古井と塩野、２人の恋の行方は――！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>泣いてたまるか_[浪花節だよ人生は]</title>
-    <id>https://tver.jp/episodes/ep98ejumgz</id>
-    <updated>2026-09-27T20:50:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep98ejumgz" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8a45d2k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 泣いてたまるか
-                &lt;a href="https://tver.jp/series/srv8a45d2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月27日(日)20時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月26日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月27日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep98ejumgz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                建設作業員の平山繁三は大酒のみで博打打ち。ついにはカミさんに逃げられてしまう。改心した繁三はお金を貯め、カミさんを探しに上京するが・・・。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
