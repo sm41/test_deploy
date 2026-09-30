@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-09-30T02:05:10+09:00</updated>
+  <updated>2026-09-30T10:05:14+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第２８話　「順之助 20歳の誕生日に誘拐される」]</title>
+    <id>https://tver.jp/episodes/epc0q6dum9</id>
+    <updated>2026-09-30T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epc0q6dum9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月30日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月10日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月30日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc0q6dum9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                順之助が手配中の怪盗にさらわれた。首領・七兵衛は手下の一人が急病になったため、医学生の順之助に治療させようとしたのだ。治療が終われば順之助は殺されてしまう。主水は仕事人たちを集めることにする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>恋をするなら二度目が上等 season2_[#5「好きだから、対等でいたい」《ドラマイズム》]</title>
+    <id>https://tver.jp/episodes/ep7wd8uo97</id>
+    <updated>2026-09-30T02:26:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7wd8uo97" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srzd5g7b80.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 恋をするなら二度目が上等 season2
+                &lt;a href="https://tver.jp/series/srzd5g7b80" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年09月30日(水)02時26分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月07日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月29日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7wd8uo97.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                崇（古屋呂敏）が「君とずっと一緒に過ごせる場所が欲しい」と、二人のために高級マンションを購入したことを知った宮田（長谷川慎）。しかし、「自分も対等でありたい」という思いから、素直に受け入れることができない。&lt;br&gt;そんな中、宮田が働く『ビジネスNOW』編集部に、会社改革を進めるコンサルタント・増本祐子（河井青葉）が入ることに。販売数の低迷を指摘され、崇の書籍を宣伝する動画企画を任された宮田は、慣れない仕事に悪戦苦闘。それでも崇に支えられながら生み出した動画は、思わぬ反響を呼ぶ。&lt;br&gt;ところが、その成功をきっかけに、半年かけて崇と大切に作り上げてきた書籍の企画が、思わぬ方向へと動き始める。仕事にも二人の未来にも揺れる宮田。そんな彼を待っていたのは、崇からのさらなる“愛の証明”で――！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>加登presents はかねこ日記～あの日の続き～_[父の誕生日]</title>
     <id>https://tver.jp/episodes/ep8imilacb</id>
@@ -303,72 +369,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 江戸の町に奇妙な光の輪が追いかけて来るなど、異常なことが続いた。主水も奇妙な光と出会って驚く。実はこれ、財政の苦しい地方の小藩で六万石の藩主・大野が、家族を江戸から脱出させようと考えたことだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第８話・俺の好きな人が、俺を好きでいてくれますように]</title>
-    <id>https://tver.jp/episodes/epfwnp9anp</id>
-    <updated>2026-09-29T02:29:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epfwnp9anp" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3ax1vftw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 陽キャ集団にいる芹沢は、俺の前だと様子がおかしい
-                &lt;a href="https://tver.jp/series/sr3ax1vftw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月29日(火)02時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月06日(火)01時28分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月28日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfwnp9anp.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                「芹沢(四坂亮翔)の好きな人って誰！？」とモヤモヤする鈴木(小泉光咲)。みんなで海へ行くも、陽キャ女子たちの登場でテンパり度MAX！芹沢から「いつも一緒にいる鈍感な人」と露骨なヒントを出されるも、絶望的に鈍感な鈴木は「BL好きで1年から仲が良い竹内(木村魁希)だ！」とまさかの勘違い！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>転校生ナノ_[episode4. 正しいのは私]</title>
-    <id>https://tver.jp/episodes/epvnv8vacr</id>
-    <updated>2026-09-29T01:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epvnv8vacr" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srysn7wcwm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 転校生ナノ
-                &lt;a href="https://tver.jp/series/srysn7wcwm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年09月29日(火)01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月06日(火)00時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月28日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvnv8vacr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                教育改革を掲げ、「正しさ」で生徒を導こうとする高校教師・阿井美奈子（安達祐実）。だが共感や優しさが重視される時代で、その厳格さは次第に孤立を招いていた。校内で起きたある騒動をきっかけに、彼女の正義は大きく揺らぎ始める。そんな阿井の前に立ちはだかる、転校生ナノ（仲島有彩）。静かな眼差しで矛盾を見抜き、核心を突く言葉で彼女を追い詰めていく。理想を掲げる教師と謎めいた少女――その裏に隠された真実とは。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
