@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-01T22:05:13+09:00</updated>
+  <updated>2026-10-02T00:05:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>天狗の台所 Ｓｅａｓｏｎ３_[第一話「米と黄金柑」]</title>
+    <id>https://tver.jp/episodes/epcuf84hg7</id>
+    <updated>2026-10-01T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcuf84hg7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgbrwms3g.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 天狗の台所 Ｓｅａｓｏｎ３
+                &lt;a href="https://tver.jp/series/srgbrwms3g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月01日(木)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年01月08日(金)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月1日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS-TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcuf84hg7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                春を迎えた天狗の里。ある朝、基（駒木根葵汰）の暮らす庵を有意（塩野瑛久）とオン（越山敬達）が訪れる。ひな（永尾柚乃）の祖母・チヨの訃報を受け、葬儀に参列するためにやってきたのだ。14歳の頃この里に隠遁に来て以来、ずっとチヨにお世話になっていたオンは悲しみに暮れていた。一方で基は、チヨのとある「好物」をメインにひな達へ差し入れの料理を作る。そのお礼と共にひなの父から、一家でこの里を離れることを知らされたオンは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>人形の家～偽りの絆～（放送版）_[第26話]</title>
     <id>https://tver.jp/episodes/eptoq6gmc9</id>
