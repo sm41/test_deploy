@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-02T16:05:10+09:00</updated>
+  <updated>2026-10-02T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第27話]</title>
+    <id>https://tver.jp/episodes/ep7n9ifwq8</id>
+    <updated>2026-10-02T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7n9ifwq8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月02日(金)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年04月02日(金)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月2日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7n9ifwq8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ミョンファンは自分が罠にはまった自覚すらないままに、ギョンヘに助けを求める。&lt;br&gt;その結果セヨンを呼び戻すためにギョンヘを責任者に戻すことに。そして新商品発表会のショー当日を迎える。&lt;br&gt;コンニムもセヨンの家族と一緒に応援に来ていたが、会場の外に出るとそこには少し前に顔を思い出したばかりの5年前のひき逃げ事件の犯人がいて驚く。&lt;br&gt;しかし、犯人と名指しされたミョンファンは、コンニムを煙に巻いてその場はうまく逃れる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>丹下左膳　百万両の壷_[比類なき最強のヒーロー、丹下左膳]</title>
     <id>https://tver.jp/episodes/eprxz6vp8z</id>
