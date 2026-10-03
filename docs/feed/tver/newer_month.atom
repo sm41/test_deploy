@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-03T22:05:14+09:00</updated>
+  <updated>2026-10-04T00:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>はだかんぼうたち_[第1話「本能で、抱きたいと思った」]</title>
+    <id>https://tver.jp/episodes/eposke12mg</id>
+    <updated>2026-10-03T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eposke12mg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqgpn465t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ はだかんぼうたち
+                &lt;a href="https://tver.jp/series/srqgpn465t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月03日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月3日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eposke12mg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                《原作・江國香織×主演・松田元太》&lt;br&gt;本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！&lt;br&gt;&lt;br&gt;「昨日は最高に楽しかったよ。ありがとう」―。&lt;br&gt;靴職人の鯖崎涼（松田元太）は、そう告げると、そっと頭を撫でて女性の前を立ち去る。&lt;br&gt;表参道の職場へ向かった鯖崎は、いつものように行き交う人々の足元へ自然と視線を落とす。そんな中、ひときわ美しいパンプスを履き、凛とした佇まいで歩く筒井桃（加藤ローサ）に目を奪われ、その姿は鯖崎の心に強烈な印象を残す。&lt;br&gt;その日、鯖崎の働く店に、石羽拓（髙木雄也）が訪れる。依頼は、結婚式で履くためのオーダーメイドシューズ。この時の鯖崎はまだ知らない。交差点で心を掴まれた人―筒井桃が、石羽の婚約者であることを…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>秋の日テレ新ドラマ見どころSP_[秋の新ドラマみどころ『俺たちの箱根駅伝』『メリーベリーラブ』『ハイド＆シーク』]</title>
     <id>https://tver.jp/episodes/ep0t70xhp3</id>
