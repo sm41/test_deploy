@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-04T10:05:12+09:00</updated>
+  <updated>2026-10-04T12:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>法医学者マダム・エール_[第7話「サバイバー（前編）」]</title>
+    <id>https://tver.jp/episodes/epm35hstp5</id>
+    <updated>2026-10-04T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epm35hstp5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法医学者マダム・エール
+                &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月04日(日)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月13日(日)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月4日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm35hstp5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                森で女性の絞殺遺体が見つかる。アレクサンドラは、その鍛え抜かれた肉体と無数の古傷に違和感を覚え、独自に調査を開始。一方、アントワーヌは、国家警察監察総監 （IGPN）を追い出されたパンセとコンビを組むことに。ところがパンセは、独断で犯人と決めつけた人物を詰問するなど暴走し、アントワーヌは頭を抱える。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>＆Hulu_[TOMORROW X TOGETHERのBEOMGYUと北村匠海が6年ぶりに再会！福岡の街を舞台に、自然や美食を楽しむ2人の素顔や、貴重な旅行の思い出をお届け！]</title>
     <id>https://tver.jp/episodes/eplttq2kzh</id>
