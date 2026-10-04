@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-04T02:05:15+09:00</updated>
+  <updated>2026-10-04T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>＆Hulu_[TOMORROW X TOGETHERのBEOMGYUと北村匠海が6年ぶりに再会！福岡の街を舞台に、自然や美食を楽しむ2人の素顔や、貴重な旅行の思い出をお届け！]</title>
+    <id>https://tver.jp/episodes/eplttq2kzh</id>
+    <updated>2026-10-04T02:19:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eplttq2kzh" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月04日(日)02時19分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月17日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月3日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplttq2kzh.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                TOMORROW X TOGETHERのBEOMGYUと俳優・北村匠海が6年ぶりに再会！BEOMGYUがLIVEで訪れた福岡を舞台に、豊かな自然と美食を楽しみながら、仕事を忘れて過ごす“素顔の時間”に密着。少しずつ距離を縮める2人の貴重な瞬間や、不思議な相性が生み出す温かな空気感をお届け。2人は福岡でどんな時間を過ごし、どんな本音を語り合ったのか？&lt;br&gt;(C) HJホールディングス
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>LOST10_[見どころ解説SP]</title>
     <id>https://tver.jp/episodes/epsyw0w29g</id>
