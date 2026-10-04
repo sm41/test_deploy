@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-04T18:05:10+09:00</updated>
+  <updated>2026-10-04T20:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season2_[第12話（最終回）東京都三鷹市お母さんのコロッケとぶり大根]</title>
+    <id>https://tver.jp/episodes/epgof84ykp</id>
+    <updated>2026-10-04T18:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgof84ykp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season2
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月04日(日)18時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月01日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月4日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ＢＳテレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgof84ykp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                年末、三鷹の駅から顧客のバーに向かう途中で、五郎はいつものごとく甘く香ばしい香りに誘われ、甘味処に引っかかる。バーでは携帯ばかりかけているマスターが待っていた……。五郎は、その後、そばを食べようと深大寺を目指すが……意外と遠い。結局入ったのは、大皿料理が並ぶお食事処だった。　［期間限定無料配信］　テレ東にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！&lt;br&gt;&lt;br&gt;※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>俺たちの箱根駅伝_[俺たちの箱根駅伝見どころ徹底解剖スペシャル！]</title>
     <id>https://tver.jp/episodes/epl1csj60x</id>
