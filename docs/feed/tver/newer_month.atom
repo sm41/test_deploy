@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-05T20:05:10+09:00</updated>
+  <updated>2026-10-05T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>飯を喰らひて華と告ぐ_[ハンバーグ]</title>
+    <id>https://tver.jp/episodes/epylrphkjz</id>
+    <updated>2026-10-05T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epylrphkjz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1v18zkpj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 飯を喰らひて華と告ぐ
+                &lt;a href="https://tver.jp/series/sr1v18zkpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月05日(月)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月12日(月)21時45分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月5日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epylrphkjz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                とある会社のサラリーマン、三橋（田村健太郎）。学歴は優秀だがプライドが高く協調性&lt;br&gt;０な彼は、上司に叱責され、むしゃくしゃしたまま「一香軒」に迷い込み、肉汁タップリのハン&lt;br&gt;バーグを注文するのだが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>kiDnap GAME_[kiDnap GAME攻略ガイド 話題の国際共同製作ドラマいよいよ明日スタート！]</title>
+    <id>https://tver.jp/episodes/epwhvjwvli</id>
+    <updated>2026-10-05T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwhvjwvli" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wsgs48k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ kiDnap GAME
+                &lt;a href="https://tver.jp/series/sr3wsgs48k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月05日(月)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月5日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwhvjwvli.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                8か月にわたりアジア全域で行われた大規模ロケのメイキング映像及び坂口健太郎、イ・ジュンギほかメインキャストのインタビューを満載。話題のドラマの見どころを公開する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ワカコ酒 Season4_[第12夜 クラフトビールでステーキ（最終回）]</title>
     <id>https://tver.jp/episodes/ep2vzqknoe</id>
