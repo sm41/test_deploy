@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-05T14:05:11+09:00</updated>
+  <updated>2026-10-05T16:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第1話「三人の約束」]</title>
+    <id>https://tver.jp/episodes/epjbv1nqxi</id>
+    <updated>2026-10-05T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epjbv1nqxi" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月05日(月)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月12日(月)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月5日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjbv1nqxi.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                1762年。イ・サンの父、世子（セジャ）は朝廷を分かつ党派の権力争いに巻き込まれ、何者かの陰謀により謀反の濡れ衣を着せられてしまう。父である第21代国王、英祖（ヨンジョ）の命より、水も与えられぬまま米びつに閉じ込められ、すでに6日間。幼いサンは、父のことが心配でならない。父を少しでも力づけたいと、厳重な監視の中、自ら食料を届けることを決意する。&lt;br&gt;夜の闇のなか父の元へ向かう途中、サンは女官見習いのソン・ソンヨンと内侍見習いのパク・テスに出会う。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>華麗なるスパイス_[第18話 私 彼の婚約者です]</title>
     <id>https://tver.jp/episodes/epgkot40sr</id>
