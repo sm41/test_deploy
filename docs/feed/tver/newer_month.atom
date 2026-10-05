@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-06T00:05:13+09:00</updated>
+  <updated>2026-10-06T02:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[第９話・この気持ちは、俺だけの宝物だから]</title>
+    <id>https://tver.jp/episodes/epvcl7jhtp</id>
+    <updated>2026-10-06T01:59:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvcl7jhtp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3ax1vftw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 陽キャ集団にいる芹沢は、俺の前だと様子がおかしい
+                &lt;a href="https://tver.jp/series/sr3ax1vftw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月06日(火)01時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)01時28分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月5日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvcl7jhtp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                文化祭の準備期間。鈴木（小泉光咲）は芹沢（四坂亮翔）への気持ちを断ち切るため、実行委員の仕事に没頭して芹沢を避けていた。&lt;br&gt;文化祭当日、鈴木を取り巻く人間関係にもさまざまな変化が訪れる。&lt;br&gt;そんな中、陽キャ集団は鈴木のお疲れ様会を開くことに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>転校生ナノ_[episode5. 憎しみの壁]</title>
+    <id>https://tver.jp/episodes/epy2il52sm</id>
+    <updated>2026-10-06T01:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epy2il52sm" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srysn7wcwm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 転校生ナノ
+                &lt;a href="https://tver.jp/series/srysn7wcwm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月06日(火)01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)01時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月5日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy2il52sm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                弓道部の春香（田牧そら）は、憧れの先輩ミユ（黎架）の隣に立てる存在でありたいと願っていた。そんな中ナノが弓道部に入部し、才能と存在感で瞬く間に人気者になっていく。強い嫉妬心を抱いた春香が、衝動のままトイレの壁に書いた“願い”は、やがて現実を歪め始める。的中する矢、逆転する評価、そして暴走する好意。言葉は次第に呪いへと変わり、春香の日常を侵食していく。すべてを見つめるナノの微笑みの意味とは――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>妻を引退します_[第１話　７年隠した"別の家庭と娘"]</title>
     <id>https://tver.jp/episodes/epmx5vsxu8</id>
