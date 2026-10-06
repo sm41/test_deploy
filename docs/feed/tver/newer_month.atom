@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-06T14:05:10+09:00</updated>
+  <updated>2026-10-06T16:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第2話「父の絵を見せたくて」]</title>
+    <id>https://tver.jp/episodes/epsbo2nxe6</id>
+    <updated>2026-10-06T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epsbo2nxe6" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月06日(火)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月6日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsbo2nxe6.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                先輩の見習い女官に時敏（シミン）堂へ行ったことを勘付かれ、訴えられそうになるソンヨン。そこへサンが現れ、ソンヨンを救う。驚くソンヨンに、サンは自分が本当は王の孫であることを告げる。さらにサンは、ソンヨンの話でテスが時敏堂に忍び込んだとして逮捕されたことを知る。サンは母、嬪宮（ピングン）に昨夜時敏堂に忍び込んだのは自分だと打ち明け、テスを助けてくれるよう頼むが、嬪宮はサンの身を案じ、取り合おうとはしない。サンは国王、英祖（ヨンジョ）に直訴しようとするが、王は既に巡察に出発し3、4日は宮中に戻らない。何とか父とテスを救う手立てはないかと考えるサン。&lt;br&gt;そんな時、彼は父、世子（セジャ）から王様に見せるよう言われていた絵を見つける。これを見せれば王の誤解は解け父とテスを救えると、サンは宮中を抜け出し、雲従街（ウンジョンガ）を巡察中の王に会いに行くことを決意する。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３１話　「加代 幽霊になる」]</title>
     <id>https://tver.jp/episodes/ep85wq32nf</id>
@@ -142,7 +175,7 @@
         &lt;/body&gt;    </content>
   </entry>
   <entry>
-    <title>青と碧_[澄み切った青空に、まだ碧は。]</title>
+    <title>青と碧_[第1話　澄み切った青空に、まだ碧は。]</title>
     <id>https://tver.jp/episodes/epz3sw48if</id>
     <updated>2026-10-05T23:54:00+09:00</updated>
     <link href="https://tver.jp/episodes/epz3sw48if" />
