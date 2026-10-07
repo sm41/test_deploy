@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-07T02:05:15+09:00</updated>
+  <updated>2026-10-07T10:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３２話　「主水 超能力山伏に部屋を貸す」]</title>
+    <id>https://tver.jp/episodes/eptly49w3b</id>
+    <updated>2026-10-07T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eptly49w3b" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月07日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月17日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月7日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptly49w3b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                賞金稼ぎの勝三らは強盗を働いた後、流れ者を犯人にでっちあげ、名主たちから強引に賞金を集めていた。秘密を知った土地の親方・伊三郎は、ワナにかかって殺される。伊三郎に恩がある勇次は恨みを晴らそうとする。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第1話　運命の電話]</title>
+    <id>https://tver.jp/episodes/epcah0sswu</id>
+    <updated>2026-10-07T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcah0sswu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月07日(水)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月05日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月7日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcah0sswu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                1998年。高麗の美人図に見とれるチョ・ホンジュは両親と平和に暮らしていた。一方、チュボグループ会長の孫であるマ・プンドは、父マ・ソンジェと一緒に、別居中の母の所で暮らすことに。そんな中、ソンジェに一本の電話が…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>恋をするなら二度目が上等 season2_[#6「先輩を救った人」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/eplxomufxy</id>
@@ -369,39 +435,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 文化祭の準備期間。鈴木（小泉光咲）は芹沢（四坂亮翔）への気持ちを断ち切るため、実行委員の仕事に没頭して芹沢を避けていた。&lt;br&gt;文化祭当日、鈴木を取り巻く人間関係にもさまざまな変化が訪れる。&lt;br&gt;そんな中、陽キャ集団は鈴木のお疲れ様会を開くことに。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>転校生ナノ_[episode5. 憎しみの壁]</title>
-    <id>https://tver.jp/episodes/epy2il52sm</id>
-    <updated>2026-10-06T01:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epy2il52sm" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srysn7wcwm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 転校生ナノ
-                &lt;a href="https://tver.jp/series/srysn7wcwm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月06日(火)01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月13日(火)01時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月5日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy2il52sm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                弓道部の春香（田牧そら）は、憧れの先輩ミユ（黎架）の隣に立てる存在でありたいと願っていた。そんな中ナノが弓道部に入部し、才能と存在感で瞬く間に人気者になっていく。強い嫉妬心を抱いた春香が、衝動のままトイレの壁に書いた“願い”は、やがて現実を歪め始める。的中する矢、逆転する評価、そして暴走する好意。言葉は次第に呪いへと変わり、春香の日常を侵食していく。すべてを見つめるナノの微笑みの意味とは――。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
