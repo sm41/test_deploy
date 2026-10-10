@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-11T00:05:09+09:00</updated>
+  <updated>2026-10-11T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>修学旅行で仲良くないグループに入りました_[最終回 一生心に残り続けていく日々]</title>
+    <id>https://tver.jp/episodes/epgqkxoqeo</id>
+    <updated>2026-10-11T01:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgqkxoqeo" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1es6void.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 修学旅行で仲良くないグループに入りました
+                &lt;a href="https://tver.jp/series/sr1es6void" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)01時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月18日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgqkxoqeo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                修学旅行から始まる学園格差ラブストーリー、ついに最終回！&lt;br&gt;&lt;br&gt;クリスマスイブに、日置（藤本洸大）は渡会（簡秀吉）たちと教室でパーティーを楽しんでいた。そこで日置は衝撃の事実に気づく。お互いに「好き」と言い合ったが、「付き合う」ということに関しては一度も言及していなかったのだ。&lt;br&gt;修学旅行で同じ班になったことがきっかけで、初めて好きな人ができた日置。勇気を出して渡会にある言葉を告げる――
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ディア・シスター_[第4話 お前は俺が守る！]</title>
     <id>https://tver.jp/episodes/epzw5p1xnn</id>
