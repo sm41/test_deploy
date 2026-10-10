@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-10T10:05:11+09:00</updated>
+  <updated>2026-10-10T12:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>法医学者マダム・エール_[第8話「サバイバー（後編）」]</title>
+    <id>https://tver.jp/episodes/epdv0y8rv5</id>
+    <updated>2026-10-10T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdv0y8rv5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法医学者マダム・エール
+                &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月12日(土)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdv0y8rv5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                アレクサンドラら兄妹の連係プレーで、被害者の壮絶な過去が明らかになる。アレクサンドラは、被害者の過去をよく知る人物が事件の鍵を握ると考え、いつもの型破りな調査で次第に核心に近づいていく。そんななか、恋人との交際が順調なアレクサンドラの前に、消息不明だった元夫のサミュエルが突然現れ、復縁を迫る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>思春期メドレー_[#3]</title>
     <id>https://tver.jp/episodes/epgdpvnvjp</id>
