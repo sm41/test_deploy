@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-10T12:05:10+09:00</updated>
+  <updated>2026-10-10T22:22:43+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>おいしい給食 season4_[「おいしい給食 season4」スペシャルナビ]</title>
+    <id>https://tver.jp/episodes/epdkhmf0pt</id>
+    <updated>2026-10-10T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdkhmf0pt" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ おいしい給食 season4
+                &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdkhmf0pt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                偏った〈給食愛〉をドラマ化し人気を博したグルメドラマの異端児「おいしい給食」。&lt;br&gt;ドラマ3シーズン、劇場用映画4本を経て、シリーズ開始から7年目を迎える。放送のたびにＳＮＳで「飯テロだ」「懐かしい」と話題を集めた人気ドラマが、続編熱望の声を受け、このたび沖縄を舞台に「おいしい給食 season4」として今月より再始動！&lt;br&gt;毎話ごとに南国のオリジナル献立や食材が次々と登場し、あなたの食欲を刺激する！また、市原隼人、山本千尋、橋本偉成、川田広樹（ガレッジセール）、いとうまい子、田山涼成ら新旧キャストを交えたインタビューやメイキング映像を通して新シーズンの見どころをお届け！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>法医学者マダム・エール_[第8話「サバイバー（後編）」]</title>
     <id>https://tver.jp/episodes/epdv0y8rv5</id>
@@ -930,72 +963,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ドンマンの死を嘆くジェジュン。&lt;br&gt;死の直前にドンマンから「すまなかった」というウン会長への伝言を託されるが、その言葉は伝えず事実と違う報告をする。&lt;br&gt;そんな中ギョンヘとミョンファンの激しい攻防が始まり、一旦はミョンファンを追放寸前まで追い込むがミョンファンに出生の秘密を突きつけられ形勢が逆転する。&lt;br&gt;そして命じられてのことながら、ギョンヘはセヨンを中国に転勤させることを決め、セヨンを悲しませる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>イ・サン_[第4話「銃に刻まれた真実」]</title>
-    <id>https://tver.jp/episodes/eplevrmu03</id>
-    <updated>2026-10-08T15:56:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eplevrmu03" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ イ・サン
-                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月08日(木)15時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月15日(木)15時56分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月8日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplevrmu03.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                英祖（ヨンジョ）に、王として最も大切な「民を慈しむ心」を行動で示したサンは、世継ぎとして認められる。だがある日、サンの元の住まいである世孫宮から大量の武器が見つかった。大臣たちは、サンの父である亡き世子が作ったものに違いなく、サンも知っていたはずだと王、英祖に訴える。もしそれが事実だとすれば、世子は噂どおり謀反を企てていたことになる…。英祖は、大臣たちの進言を聞き入れ、仕えていた内侍や女官を捕らえ、厳しい取り調べを始める。&lt;br&gt;だが英祖は心の底で疑問を抱き、信頼する臣下にこの件を内密に調査するよう命じる。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>双燕秘抄 乱世を舞う二羽の絆_[第2話]</title>
-    <id>https://tver.jp/episodes/epuup6ptf1</id>
-    <updated>2026-10-08T13:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epuup6ptf1" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr34xuma9t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 双燕秘抄 乱世を舞う二羽の絆
-                &lt;a href="https://tver.jp/series/sr34xuma9t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月08日(木)13時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月23日(金)12時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月8日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuup6ptf1.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                京州を支配する北朔大将軍の陳文徳（ちん・ぶんとく）は、六部（りくぶ）の名簿を集め、憎き呉朗（ご・ろう）と関わった者たちを罪人とした。下っ端役人である白文泰（はく・ぶんたい）も、呉朗とはずっと疎遠だったが、最近になって付き合いが始まったことで一派と目され、罰として全財産没収の憂き目に遭う。白家から家財が次々と運び出される様を物陰から見ていた茉喜（まつき）は、見覚えのある物を目にする。それは死んだ母が、茉喜を白家に迎えてもらう代わりとして白夫妻へ差し出した家宝で…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
