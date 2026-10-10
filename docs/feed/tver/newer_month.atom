@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-10T02:05:10+09:00</updated>
+  <updated>2026-10-10T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>思春期メドレー_[#3]</title>
+    <id>https://tver.jp/episodes/epgdpvnvjp</id>
+    <updated>2026-10-10T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgdpvnvjp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3emazrfk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 思春期メドレー
+                &lt;a href="https://tver.jp/series/sr3emazrfk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgdpvnvjp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                転校が白紙になり、調子に乗ったツケが回ってきたジョンウ。&lt;br&gt;ヒグマ先輩との対決に備えてボクシングを始めようとしたものの、アヨンの言葉が気になって…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>晩酌の流儀５_[第2話 「超ガーリックステーキ」]</title>
     <id>https://tver.jp/episodes/epaoaz36xk</id>
