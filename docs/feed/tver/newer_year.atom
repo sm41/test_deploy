@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-11T20:05:10+09:00</updated>
+  <updated>2026-10-11T22:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>BARレモン・ハート_[バーボン小僧]</title>
+    <id>https://tver.jp/episodes/epzetojr2d</id>
+    <updated>2026-10-11T21:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epzetojr2d" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwkfk4yrm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ BARレモン・ハート
+                &lt;a href="https://tver.jp/series/srwkfk4yrm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)21時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月18日(日)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzetojr2d.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                深夜族のメガネさんが珍しく開店と同時に店に現れた夜、そこにテンション高い騒がしい若者のカップルが乱暴に扉を開け入ってくる。連れのナオミにBARの心得やバーボンのうんちくを得々と語るトシちゃんが、マスターにバーボンの品揃えを試すように銘柄の名前を並べていると、「そこのバーボン小僧！」というメガネさんの怒りの声が・・・。その生意気盛りのバーボン小僧・トシちゃんに「特別のバーボン」を飲ませてやるといってある酒をすすめるのだが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>修学旅行で仲良くないグループに入りました_[最終回 一生心に残り続けていく日々]</title>
     <id>https://tver.jp/episodes/epgqkxoqeo</id>
