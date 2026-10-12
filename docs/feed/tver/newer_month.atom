@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-12T02:05:10+09:00</updated>
+  <updated>2026-10-12T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３５話　「田中筆頭同士 見合いする」]</title>
+    <id>https://tver.jp/episodes/epvdonomd2</id>
+    <updated>2026-10-12T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvdonomd2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月22日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvdonomd2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                勇二の罪を着て島送りになったお千賀が七年ぶりに江戸に戻るが、米問屋のだんなになった勇二は、与力・片岡らと米相場を操って大もうけしようとしており、邪魔なお千賀を殺す。お千賀の恨みを晴らすため、主水らは...。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第4話　洋服は青かった]</title>
+    <id>https://tver.jp/episodes/ep0d2adkof</id>
+    <updated>2026-10-12T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0d2adkof" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月10日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0d2adkof.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                有名ピアニストのプンドは、チョンイを自分のストーカーだと勘違いして、憧れのペク・シジュンへチョンイがプレゼントしようとしていた洋服を破いてしまう。色覚に異常があるプンドには、チョンイだけが違って見えるのだった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ハイド＆シーク 0秒前の彼女_[第2話　彼女は誰なのか！？]</title>
     <id>https://tver.jp/episodes/epbav06t3s</id>
@@ -732,72 +798,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 芽衣子（渡邉美穂）は、ゆかりくん（高尾颯斗）とのすれ違いに心を痛めていた。あれから、ゆかりくんは授業に来なくなった。そして、華琳（速瀬愛）も欠席するようになり、芽衣子はますます落ち込んでいた。そんな中、偶然、華琳が特殊詐欺の「出し子」として犯罪に巻き込まれようとしている現場に遭遇。芽衣子は必死に大声で助けを呼ぶが、犯罪集団が芽衣子を止めようと羽交い締めにする。すると、その瞬間思いも寄らない助けが来て―！？&lt;br&gt;事件後、芽衣子は咲（坂東希）からゆかりくんのトラウマについて詳しく話を聞く。芽衣子はゆかりくんの本当の苦しみを理解できていなかったことに気づき、切ない思いを抱くのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第32話]</title>
-    <id>https://tver.jp/episodes/epgwp8jvgx</id>
-    <updated>2026-10-09T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epgwp8jvgx" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月09日(金)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年04月09日(金)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月9日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgwp8jvgx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                連絡のとれないギョンヘを心配する病床のウン会長に、ミョンファンは敵対心むき出しの言葉を投げつけ会長を嘆かせる。&lt;br&gt;一方でミョンファンは、コンニムが正しい車のナンバーを思い出したことで捜査が自分に及び焦りを隠せない。&lt;br&gt;さらにウン会長にヒョジョンとの不倫を知られてしまい絶体絶命の状況に。&lt;br&gt;追い込まれたミョンファンはギョンヘに、出生の秘密を隠すことと引き換えに会社を譲る委任状を渡せと迫り、別荘に向かう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>イ・サン_[第5話「毒が残した手がかり」]</title>
-    <id>https://tver.jp/episodes/ep4z8kx1ui</id>
-    <updated>2026-10-09T15:56:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep4z8kx1ui" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ イ・サン
-                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月09日(金)15時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月16日(金)15時56分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月9日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4z8kx1ui.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                9年後のある晩、サンは刺客に狙われる。ちょうど幼い頃のソンヨンとテスに名を呼ばれる夢を見て目覚めたサンは、刺客の気配を察知し事なきを得るが、誰が差し向けたのか聞き出す前に刺客は毒を飲んで自害してしまう。すぐに兵が集まり、国王、英祖（ヨンジョ）もやってくる。見張りの兵や護衛官もいながら、なぜ刺客が入り込めたのかと怒る英祖。その英祖の命を受け、護衛官が刺客の死体を片付けにいくと、なぜか寝殿には死体はおろか刺客が押し入った形跡すらない。刺客を見たのはサン唯一人。宮中には、サンが乱心し幻を見たとの噂が広まる。&lt;br&gt;一方、9年前、命を狙われ都から逃げ出したパク･タルホ、ソンヨン、テスの3人。彼らは1年前、密かに都に戻っていた…。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
