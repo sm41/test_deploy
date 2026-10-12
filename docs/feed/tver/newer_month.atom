@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-12T14:05:11+09:00</updated>
+  <updated>2026-10-12T16:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第6話「赤の悲劇」]</title>
+    <id>https://tver.jp/episodes/epyip9ri9b</id>
+    <updated>2026-10-12T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epyip9ri9b" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月19日(月)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyip9ri9b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                自害した刺客の口から出た毒が顔料の一つだと知り、都で唯一その使用を許されている図画署に内官を忍び込ませたサン。しかし内官は、水死体となって発見される。だが彼はサンに暗号を残していた。暗号から、王より一任された清国使節団との会見に何か陰謀が企てられていると察したサンは…。&lt;br&gt;その頃、ソンヨンは図画署で絵を描いているところを見つかり、紙や顔料を盗んでいる疑いをかけられていた。実際は捨ててあったものを使っただけなのだが、ソンヨンの身を案じた画員のイチョンに促され、監禁されていた納屋から抜け出してしまったところを運悪く見つかり、彼女はますます窮地に追いこまれてしまう。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>華麗なるスパイス_[第19話 前途多難な“婚前”生活]</title>
     <id>https://tver.jp/episodes/epg76zurzp</id>
