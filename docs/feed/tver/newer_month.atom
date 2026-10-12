@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-12T10:05:10+09:00</updated>
+  <updated>2026-10-12T12:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>華麗なるスパイス_[第19話 前途多難な“婚前”生活]</title>
+    <id>https://tver.jp/episodes/epg76zurzp</id>
+    <updated>2026-10-12T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epg76zurzp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 華麗なるスパイス
+                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月19日(月)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg76zurzp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                廷恩(ティンエン)の自宅で、初めての夜を迎えた芬青(フェンチン)。しかし、令嬢 如曦(ルーシー)との結婚を熱望する廷恩の母は、二人を引き裂こうと容赦ない嫌がらせを開始する。一方、夜市で平然を装う少威(シャオウェイ)も、愛する芬青が奪われたことに納得がいかず、彼女を連れ戻そうと独断で行動を起こすが……。四方八方から火花が散る！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３５話　「田中筆頭同士 見合いする」]</title>
     <id>https://tver.jp/episodes/epvdonomd2</id>
