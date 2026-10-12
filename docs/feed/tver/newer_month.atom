@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-12T16:05:11+09:00</updated>
+  <updated>2026-10-12T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第33話]</title>
+    <id>https://tver.jp/episodes/epwslkuusa</id>
+    <updated>2026-10-12T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwslkuusa" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年04月12日(月)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwslkuusa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                別荘に駆けつけたセヨンが見たのは、血まみれで倒れるミョンファンと傍らに猟銃を持って立つギョンヘだった。&lt;br&gt;一足遅れで到着したヨンスクはセヨンを帰し、心ならずもギョンヘと口裏を合わせることに。&lt;br&gt;一方で意識不明のミョンファンは病院に運ばれる。&lt;br&gt;ところが防犯カメラ映像に慌てて帰るセヨンが映っておりセヨンに容疑がかかる。&lt;br&gt;ヨンスクは、このままではギョンヘがセヨンに濡れ衣を着せてしまうと悟り、自分が犯人だと自首する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>イ・サン_[第6話「赤の悲劇」]</title>
     <id>https://tver.jp/episodes/epyip9ri9b</id>
@@ -765,72 +798,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 転校が白紙になり、調子に乗ったツケが回ってきたジョンウ。&lt;br&gt;ヒグマ先輩との対決に備えてボクシングを始めようとしたものの、アヨンの言葉が気になって…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>晩酌の流儀５_[第2話 「超ガーリックステーキ」]</title>
-    <id>https://tver.jp/episodes/epaoaz36xk</id>
-    <updated>2026-10-10T01:38:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epaoaz36xk" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr32wpyhyv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 晩酌の流儀５
-                &lt;a href="https://tver.jp/series/sr32wpyhyv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)01時38分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年01月09日(土)00時51分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月9日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaoaz36xk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                究極の晩酌を追及する美幸（栗山千明）は、訳あって後輩の島村（武田航平）を家まで尾行。島村宅には張り込み捜査中の刑事・室田（平山祐介）の姿が。美幸と料理自慢の室田との張り込み飯バトルが勃発するがその最中、突如容疑者宅から銃声が!?一行は突入を決行！そこには驚きの人物が!?波乱の一日を終えた美幸は帰宅し、揚げにんにくバジルマリネ、クレソンのガーリックオイル和え、肉汁溢れる超ガーリックステーキを調理。　［期間限定無料配信］　テレビ東京にて10月2日(金)スタート！毎週金曜深夜24時52分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>まめとむぎ_[#2 今の自分が好きじゃない！]</title>
-    <id>https://tver.jp/episodes/ep3tinyer3</id>
-    <updated>2026-10-10T01:07:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep3tinyer3" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra53ndlrw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ まめとむぎ
-                &lt;a href="https://tver.jp/series/sra53ndlrw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)01時07分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月19日(土)00時11分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月9日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3tinyer3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                〈大豆堂〉で働き始めた麦は、店の改装を巡ってまめと衝突するが、客がすぐ帰る原因に気づき、塩麹の新メニュー作りで絆を深める。試食で太り落ち込む麦は、喫茶〈金魚鉢〉の店主・種と出会い、体型への考え方にも変化が。一方、まめは偶然会った中学時代の同級生に塩麹クッキーを渡すが、二人は陰でそれを捨ててしまう。さらに近所のおばちゃんから、今日が中学の同窓会だと初めて知らされたまめは、複雑な表情を浮かべ…。　［期間限定無料配信］　テレビ東京にて10月2日(金)スタート！毎週金曜深夜24時12分より放送！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
