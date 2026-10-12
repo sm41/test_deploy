@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-12T20:05:10+09:00</updated>
+  <updated>2026-10-12T22:05:28+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>飯を喰らひて華と告ぐ_[アジの姿造り]</title>
+    <id>https://tver.jp/episodes/epvlyzn8jw</id>
+    <updated>2026-10-12T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epvlyzn8jw" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1v18zkpj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 飯を喰らひて華と告ぐ
+                &lt;a href="https://tver.jp/series/sr1v18zkpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月19日(月)21時45分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvlyzn8jw.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                久々の夫婦水入らずの伊豆旅行に浮足立つ専業主婦の久美。だが夫の急な仕事で旅行はキャンセルに。せっかくだからと伊豆で食べるのを楽しみにしていた新鮮なアジの姿造りを食べようと、１人で出かける久美だったが、中途半端な時間に空いていたのは「一香軒」だけ。中華屋に１人で入ったことがない久美は、ドアを細く開け店内をおそるおそる盗み見るが、その様子を終始見ていた店主から思わぬ歓待を受けることに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season3_[第3話 静岡県賀茂郡河津町の生ワサビ付わさび丼]</title>
     <id>https://tver.jp/episodes/epbfbt2min</id>
