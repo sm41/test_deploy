@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-13T16:05:12+09:00</updated>
+  <updated>2026-10-13T18:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season5_[第1夜 築地のカキ小屋へ]</title>
+    <id>https://tver.jp/episodes/ep19yqqfus</id>
+    <updated>2026-10-13T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep19yqqfus" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season5
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月13日(火)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月27日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月13日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep19yqqfus.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                会社帰り、「今の時間を大切に過ごさなきゃ」と思うワカコ（武田梨奈）が一人でやって来たのは、築地のカキ小屋。メニューに懐かしいがんがん焼きを見つけて早速注文する。ビールと共に開けては食べ、食べては開ける享楽の時を満喫するワカコ。ところが、それからしばらくは仕事が忙しくて、飲みにも行けず、ピリピリして疲れたワカコは馴染みの逢楽へ。そこで、大将（野添義弘）と常連さん（ラサール石井）の会話を聞いてふと我を振り返り……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第34話]</title>
+    <id>https://tver.jp/episodes/epuh2wn1g3</id>
+    <updated>2026-10-13T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epuh2wn1g3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月13日(火)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年04月13日(火)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月13日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuh2wn1g3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                保釈されて一旦は家に帰ったヨンスクだったが、家族にはしばらく日本の友人の所に行くと嘘をつき取り調べのため再び警察へ。&lt;br&gt;一方中国から逃亡したヒョジョンは警察で真犯人はギョンヘだと証言するが、意識不明のミョンファンの命を奪うと脅迫され前言を翻(ひるがえ)してしまう。&lt;br&gt;そんな中、セヨンがウン会長に銃撃事件の真相を話す覚悟であることを知り、ギョンヘはそれを阻止するためセヨンを拉致させる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>イ・サン_[第7話「逆転の白」]</title>
     <id>https://tver.jp/episodes/eprhev858r</id>
