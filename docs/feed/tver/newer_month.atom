@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-13T02:05:11+09:00</updated>
+  <updated>2026-10-13T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３６話　「主水 流れ星に願いをかける」]</title>
+    <id>https://tver.jp/episodes/epg65lohps</id>
+    <updated>2026-10-13T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epg65lohps" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月13日(火)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月23日(金)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月13日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg65lohps.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                料亭のわがまま娘・お京は、竹細工師・竹造に竹の三味線を作らせた。七夕に竹造の女房・お雪が江戸に出てくると、二人をねたんだお京は彼らを殺害させる。加代はひん死の竹造から恨みを晴らしてほしいと頼まれる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第5話　嬉しくないニュース]</title>
+    <id>https://tver.jp/episodes/ep1a8tt2kz</id>
+    <updated>2026-10-13T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep1a8tt2kz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月13日(火)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月11日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月13日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1a8tt2kz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                シジュンが逮捕されたショックで倒れたチョンイの義姉ヨ・ジナは、病院で目覚め、医師に妊娠5カ月と告げられる。一方、チュボ主催の演奏会に出演予定だったプンドは、祖母のマ･ヨンインに会いに行き、出る気はないと告げる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>いろはの恋は時代をかける_[もうすぐ始まるよSP]</title>
     <id>https://tver.jp/episodes/ep70jne3n9</id>
@@ -666,402 +732,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;遂にシャキ城への潜入を決行する乃木（堺雅人）たち。綿密に練られた作戦を実行していくのだが、シンシー兵士が立ち塞がる。そして、赤外線センサーの地点へ辿り着くのだが、そこには、予行演習をも遥かに超える難易度の罠が待っていた。尻込むチョッキー（Tanapak Jongjaiphar）に檄を入れる新庄（竜星涼）、果たして・・・そして遂に、別班員が囚われた牢獄まで辿り着くのだが・・・
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>泣いてたまるか_[あすは死ぬぞと]</title>
-    <id>https://tver.jp/episodes/ephnva7tk9</id>
-    <updated>2026-10-11T20:50:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephnva7tk9" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8a45d2k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 泣いてたまるか
-                &lt;a href="https://tver.jp/series/srv8a45d2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)20時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephnva7tk9.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                運送会社の専務の清造は、なぜか突然「天国の運送屋」へスカウトされてしまう。あと24時間の命と宣告され・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>FUJI DRAMA COLORS 2026 AUTUMN_[フジドラマカラーズ2026 AUTUMN☆10月期ドラマ豪華キャストが大集合]</title>
-    <id>https://tver.jp/episodes/epyix9jp6f</id>
-    <updated>2026-10-11T17:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epyix9jp6f" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwxhuo8b5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ FUJI DRAMA COLORS 2026 AUTUMN
-                &lt;a href="https://tver.jp/series/srwxhuo8b5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)17時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyix9jp6f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ドラマの裏話をここだけで大公開！&lt;br&gt;■江口洋介は撮影現場で“ほとんど座らない”！？共演者＆スタッフが明かす、知られざる“座長・江口”の素顔！&lt;br&gt;■芦田愛菜が深夜の撮影現場でまさかの○○を披露！？高橋文哉が明かす、意外すぎる現場での姿！&lt;br&gt;■坂口健太郎×イ・ジュンギ、初対面でいきなり氷点下13℃のアクション撮影！極寒ロケで一気に縮まった2人の距離とは！？&lt;br&gt;■石原さとみ、撮影の合間に“セット裏ヨガ”！？さらに共演者から「歩くのが速すぎる」と衝撃のタレコミも！&lt;br&gt;■芳根京子、銭湯の脱衣所でまさかの“お風呂ごっこ”！？本田響矢も目撃した、謎すぎる撮影現場のひと幕！&lt;br&gt;■本田響矢の“膝の音”を音響スタッフがドラマ本編でこっそり増強！？まさかの裏話に本人も驚き！&lt;br&gt;■芳根京子が石原さとみに「大好きです！」まさかの公開ラブコール！？作品の垣根を越えた豪華キャストの本音トークも！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>俺たちの箱根駅伝_[大泉洋&amp;山下智久…緊急生放送SP!!]</title>
-    <id>https://tver.jp/episodes/epcxjzkxue</id>
-    <updated>2026-10-11T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epcxjzkxue" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxehhz42z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 俺たちの箱根駅伝
-                &lt;a href="https://tver.jp/series/srxehhz42z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcxjzkxue.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                「俺たちの箱根駅伝」の“本気度”が分かる、放送直前の60分緊急生放送SP!!&lt;br&gt;4年以上にわたる準備、そして関東学生陸上競技連盟の全面協力のもと実現した壮大な撮影…“映像化不可能”とも言われた作品に、いかにして挑んだか。秘蔵映像とともに、舞台裏をキャスト達がたっぷり紹介。さらに7時間半後に迫った初回放送への思いを、大泉洋・山下智久ら豪華キャストが生放送で語る!何が飛び出すか分からない、緊急生放送SP!!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第21話「おニャン子クラブ危機一発」]</title>
-    <id>https://tver.jp/episodes/epwxdek6qa</id>
-    <updated>2026-10-11T16:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epwxdek6qa" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)16時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月18日(日)16時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwxdek6qa.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                おニャン子たちが一日店長をしている王子信用金庫に銀行強盗が立て篭もった。サキも事件に巻き込まれる。ヨーヨーを修理に出していたサキは、この危機をどう乗り切るのか。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>＆Hulu_[韓国の大ヒットドラマ「シグナル」第1話を2週にわたってお届け！現代と過去をつなぐ無線機を手にした二人の刑事が未解決事件の真相に迫るヒューマンサスペンスの傑作！]</title>
-    <id>https://tver.jp/episodes/epyqh5hys3</id>
-    <updated>2026-10-11T03:36:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epyqh5hys3" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ＆Hulu
-                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)03時36分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月24日(土)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyqh5hys3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                日本でもリメイクされ大きな話題を呼んだ韓国の大ヒットドラマ「シグナル」の第1話を2週にわたってお届け！時効が迫る未解決の誘拐事件。ある日、警部補パク･へヨンは偶然見つけた廃棄処分される無線機から、15年前に事件を追っていた刑事イ･ジェハンの声を聞く…。無線機でつながる現在と過去。時を超え交錯する二人の捜査が事件の真相を明らかにしていく！それぞれの想いが奇跡を起こすヒューマンサスペンスの傑作！&lt;br&gt;(C) 2016 Studio Dragon &amp; ASTORY
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ただ愛する仲_[第14話]</title>
-    <id>https://tver.jp/episodes/ep3n50b4ye</id>
-    <updated>2026-10-11T01:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep3n50b4ye" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srhdydd9pn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ただ愛する仲
-                &lt;a href="https://tver.jp/series/srhdydd9pn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)01時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年01月01日(金)00時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3n50b4ye.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ムンスはジュウォンの告白に対し、自分に自信が持てたがそれ以上の気持ちはないとはっきり伝える。一方、仕事をクビになったガンドゥは漁船で働くことに。そのことを知ったムンスは、薬屋のおばあさんの元へと向かう。ガンドゥがムンスに出会って変わったと聞いたムンスは…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>再生のウズメ_[第2話 イモトアヤコ主演。40歳、人生再チャレンジ中！人気作家の隠し事とは？50年の恋の結末！]</title>
-    <id>https://tver.jp/episodes/ep37uyrjkf</id>
-    <updated>2026-10-11T00:50:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep37uyrjkf" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk17hy8l6.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 再生のウズメ
-                &lt;a href="https://tver.jp/series/srk17hy8l6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)00時50分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月17日(土)23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep37uyrjkf.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                12年間の引きこもり生活から一歩を踏み出し、便利屋「救ちゃん」で働き始めたウズメ（イモトアヤコ）。代行サービスのスタッフとして謝罪代行担当の鳩山（相島一之）のガチ土下座に若干引きつつ、一歩ずつ社会との関わりを増やしていく。&lt;br&gt;そんな彼女のもとに舞い込んだ次の依頼は、ニコ（前田美波里）の友人でコメンテーターとしても活躍する人気作家・大河内順子（大島蓉子）の“隠し子役”だった。海外にいる娘の代わりに古い友人・黒木（佐々木省三）に一緒に会ってほしいという。順子は未婚のおひとり様を売りにしていたこともあり、驚くウズメや興梠（白洲迅）。&lt;br&gt;完璧主義の順子による娘役の特訓に悪戦苦闘するウズメ。そんな中、ウズメは順子の中に、50年前、若き日の黒木（堀海登）との間に起きたほろ苦い思い出がくすぶっていることを知り・・・
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Episode8 記憶の中の殺人者]</title>
-    <id>https://tver.jp/episodes/epv5fmos2z</id>
-    <updated>2026-10-11T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epv5fmos2z" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
-                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月9日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv5fmos2z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                9/26(土)~ #4-#6&lt;br&gt;10/11(日)~ #7-#8&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;女性が自宅で殺害され、防犯カメラにはホラーマスクの男が。さらに犯人が落としたと思われるスマホから、5人の女性を盗撮した映像が見つかり、その中にはＳＳＢＣ・光本さやか（足立梨花）の姿もあった。事件が連続殺人へと発展する中、名波凛太郎（相葉雅紀）は“心理捜査”で、さやかの曖昧な記憶から手がかりを探る。一方、木沢理（伊藤淳史）は、さやかを守るためボディーガードを買って出るが－。5人は、なぜ狙われたのか!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>大追跡～警視庁ＳＳＢＣ強行犯係～ Season2_[Episode7 消えた相棒]</title>
-    <id>https://tver.jp/episodes/ep92934rsm</id>
-    <updated>2026-10-11T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep92934rsm" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx46vrn38v.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 大追跡～警視庁ＳＳＢＣ強行犯係～ Season2
-                &lt;a href="https://tver.jp/series/srx46vrn38v" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月21日(水)21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 9月2日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep92934rsm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                9/26(土)~ #4-#6&lt;br&gt;10/11(日)~ #7-#8&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;深夜の路上で警察官が銃撃される事件が発生。「I am 警殺官」と書かれた犯行声明に怒りを燃やすＳＳＢＣだが、聞き込み中の小山田（髙木雄也）が消息を絶ってしまう。直後、「1億円を用意しなければ小山田を殺す」という前代未聞の警察への身代金要求が届く。自分が別行動を提案したことに自責の念を抱く城（野村康太）らＳＳＢＣと捜査一課は、タイムリミットが迫る中、警察の威信を懸けた決死の救出作戦に挑む。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>はだかんぼうたち_[第2話 欲望に、手足が生えたもの]</title>
-    <id>https://tver.jp/episodes/eppb19j12t</id>
-    <updated>2026-10-10T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eppb19j12t" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqgpn465t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ はだかんぼうたち
-                &lt;a href="https://tver.jp/series/srqgpn465t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppb19j12t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                《原作・江國香織×主演・松田元太》&lt;br&gt;本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！&lt;br&gt;&lt;br&gt;靴職人の鯖崎涼（松田元太）は、交差点ですれ違いざまに密かにメモを渡し、筒井桃（加藤ローサ）をシェアハウスへと誘う。一方、桃の姉・筒井陽（伊藤歩）は、鯖崎が妹の桃に関心を寄せていることに気づき、「落とせっこない」とその考えを一蹴。しかし鯖崎は、「ただ、抱きたいだけ」と桃への欲情のにじむ剥き出しの恋心を無邪気にまっすぐに突きつける。&lt;br&gt;あくる日、店で紳士靴のデザインを描いていた鯖崎は、交差点で桃の隣にいた男の正体にふと気づく。その男は、挙式用にオーダーメイドの靴を依頼してきた石羽拓（髙木雄也）だった。&lt;br&gt;さらに、思わぬ修羅場を引き起こした鯖崎は、ある危機に直面してしまい―。&lt;br&gt;鯖崎との出会い以来、投げかけられた言葉から「結婚」に関して思いを巡らせていた桃。交差点で信号待ちをしていると、見知らぬ番号から着信が入る。電話の主は鯖崎で―ふたりの関係が、抗えない予感とともに大きく動き出す―！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>俺たちの箱根駅伝_[第1話 【池井戸潤原作】転んだままで終われるか！不屈の逆転劇、開幕!!]</title>
-    <id>https://tver.jp/episodes/ep68dedbiw</id>
-    <updated>2026-10-10T22:34:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep68dedbiw" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxehhz42z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 俺たちの箱根駅伝
-                &lt;a href="https://tver.jp/series/srxehhz42z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)22時34分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep68dedbiw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                池井戸潤が「もう二度と書けない」と語る渾身の傑作、ついにドラマ化!運命の箱根駅伝予選会。中継を担う徳重(大泉洋)と菜月(伊藤沙莉)は、「紅白超え」の視聴率を命じる上層部の無理難題に、信念で立ち向かうが…。一方、名門・明誠学院大学には、異端の新監督・甲斐(山下智久)が就任。異例の人事にチームはバラバラに…!&lt;br&gt;定石か、異端か、改革か、信念か。箱根駅伝にすべてをかける者たちの、不屈の逆転劇が始まる!
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>おいしい給食 season4_[「おいしい給食 season4」スペシャルナビ]</title>
-    <id>https://tver.jp/episodes/epdkhmf0pt</id>
-    <updated>2026-10-10T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epdkhmf0pt" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ おいしい給食 season4
-                &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月10日(土)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)21時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月10日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdkhmf0pt.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                偏った〈給食愛〉をドラマ化し人気を博したグルメドラマの異端児「おいしい給食」。&lt;br&gt;ドラマ3シーズン、劇場用映画4本を経て、シリーズ開始から7年目を迎える。放送のたびにＳＮＳで「飯テロだ」「懐かしい」と話題を集めた人気ドラマが、続編熱望の声を受け、このたび沖縄を舞台に「おいしい給食 season4」として今月より再始動！&lt;br&gt;毎話ごとに南国のオリジナル献立や食材が次々と登場し、あなたの食欲を刺激する！また、市原隼人、山本千尋、橋本偉成、川田広樹（ガレッジセール）、いとうまい子、田山涼成ら新旧キャストを交えたインタビューやメイキング映像を通して新シーズンの見どころをお届け！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
