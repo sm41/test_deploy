@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-13T10:05:11+09:00</updated>
+  <updated>2026-10-13T12:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>SBS縦ドラマ劇場「ダウトコール」_[ダウトコール〜あなた、不倫されてますよ〜第１話]</title>
+    <id>https://tver.jp/episodes/epicq3epp6</id>
+    <updated>2026-10-13T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epicq3epp6" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfp652r07.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ SBS縦ドラマ劇場「ダウトコール」
+                &lt;a href="https://tver.jp/series/srfp652r07" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月13日(火)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月27日(火)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : SBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epicq3epp6.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                「あなた、不倫されてますよ」——誕生日に届いた電話と、夫の不倫を疑わせる写真。電話の主は敵か、味方か？縦型ショートドラマが横型ドラマになって初登場！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３６話　「主水 流れ星に願いをかける」]</title>
     <id>https://tver.jp/episodes/epg65lohps</id>
@@ -600,138 +633,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 死んだはずの恋人・紗奈(志田彩良)は生きていた――しかし彼女は政治団体リヴ・コモンズの代表・兵頭誠(田中樹)に「京佳」と呼ばれ、連れ去られた。混乱する津倉(福士蒼汰)に、紗奈から「助けて。ひとりで来て」のメッセージが届く。翔太(志賀李玖)は罠だと止めるが、「俺は紗奈を信じる」と津倉は倉庫街へ。江田(松尾諭)が張る包囲網、SATの突入をかいくぐった先に待っていたのは、二丁拳銃の謎の女…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>救命病棟24時_[＜みどころスペシャル＞10月12日（月）21時～放送予定]</title>
-    <id>https://tver.jp/episodes/epwo394899</id>
-    <updated>2026-10-11T23:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epwo394899" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkg7092fi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 救命病棟24時
-                &lt;a href="https://tver.jp/series/srkg7092fi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)23時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwo394899.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                救命救急の現場で命に向き合う医師や看護師たちの姿を描く医療ドラマ。1999年に誕生し、第6シリーズとなる今作により、現代を舞台にしたフジテレビ制作の連続ドラマにおいてシリーズ最多記録を更新。数ある医療ドラマの中でも圧倒的な存在感を放つ金字塔が、2013年の第5シリーズ以来、13年ぶりに復活！孤高の天才救命医・進藤一生を演じる江口洋介と、かつて彼の下で学び数えきれない命を救ってきた救命医・小島楓を演じる松嶋菜々子が16年ぶりに再集結。そして今作から、木戸大聖、萩原利久、白石聖、横田真悠、中山翔貴、杏花、宮野真守、金田哲、長井短、田島亮、谷恭輔が新たに加わり、沢村一樹、八嶋智人が第1シリーズ以来、レギュラーキャストとして帰ってきた。誕生から27年―。時代の変化とともに変わる医療業界の状況や問題が描かれるのも見どころのひとつ。今作のテーマは「変わりゆく時代の中で失ってはいけないもの」。「働き方改革」や「世代間の違い」、「次世代の成長」、そして「命の選択」などの題材が描かれる。数々の命と向き合ってきた進藤と小島は、若者たちとぶつかり、時には自らの価値観も問い直しながら、救命医として大切なことを伝えていこうとするが…。新たな命の物語が、いま幕を開ける！&lt;br&gt;&lt;br&gt;★事前に“お気に入り登録”で1話配信開始をお知らせ！&lt;br&gt;※スマートフォンアプリのみ
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>もうパパ！_[#2 離れてくれる？紀子から今すぐに]</title>
-    <id>https://tver.jp/episodes/eplfcqeiz1</id>
-    <updated>2026-10-11T23:09:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eplfcqeiz1" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr504n70e4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ もうパパ！
-                &lt;a href="https://tver.jp/series/sr504n70e4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月29日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplfcqeiz1.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                多良山紀子（原菜乃華）は、父・良詫（堤真一）が、自分の初恋をネタにバズり動画を撮ろうとしていたことにショックを受け、「タラちゃんねる」からの卒業を決意する。動揺する良詫だったが、タイミングよく「ナイスファーザー賞」の受賞が決定。登録者数100万人突破の絶好の機会と見た良詫は手のひらを返し、話題づくりのため２週間後の授賞式で発表することを条件に紀子の卒業を認める。&lt;br&gt;良詫の切り替えの早さに戸惑いながらも、自立への道を一歩進んだ紀子は、授賞式後に陽日（岩瀬洋志）と二人で卒業祝いをすることを約束。紀子は初デートのやり直しを心待ちにする。&lt;br&gt;一方、良詫は父として、チャンネル開設時に紀子と交わした約束――「紀子が辞めたくなったらいつでも辞める」を守りたい気持ちと、紀子のいないチャンネル運営への不安との間で揺れていた。焦りを抑えられない良詫は、マネージャーの光田（円井わん）から示された卒業条件だと伝え、紀子が卒業するまでの２週間で動画を撮りまくることを独断で決めるが…&lt;br&gt;そうして迎えた授賞式当日、壇上の良詫が紀子の卒業を発表しようとした瞬間…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>踊る大捜査線 捜査資料管理室～青島俊作、空白の13年～_[第1話 青島の空白（1）2013年～2020年 湾岸署時代を調査せよ]</title>
-    <id>https://tver.jp/episodes/epfnkp4ggj</id>
-    <updated>2026-10-11T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epfnkp4ggj" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpmpr6zuz.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 踊る大捜査線 捜査資料管理室～青島俊作、空白の13年～
-                &lt;a href="https://tver.jp/series/srpmpr6zuz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月18日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfnkp4ggj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                警視庁捜査資料管理センターの技術専門官・明石幸男（赤ペン瀧川）のもとに、差出人不明のカセットテープが届く。録音されていたのは、「青島俊作刑事の空白の13年を調査せよ」という謎の指令。手掛かりは「脱サラ刑事」「不器用」「直感の男」という3つのキーワードのみ。さらに、17時までに報告書を提出しなければ愛娘に危険が及ぶとの脅迫まで添えられていた。捜査権限もなく青島と面識もない明石だったが、警務部人事課の野添久美子から入手した経歴書を手掛かりに調査を開始。そんな中、勝どき署刑事・柴田里香子（向井地美音）から依頼された過去の捜査資料の中に、青島が関わった事件の記録を発見する。限られた資料と3つのキーワードから、明石独自の妄想推理が暴走。果たして青島俊作の“空白の13年”の真相にたどり着くことはできるのか。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>VIVANT_[第二十話 愛しき仲間との再会 決死の奪還決着へ！]</title>
-    <id>https://tver.jp/episodes/ep7dqvus22</id>
-    <updated>2026-10-11T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep7dqvus22" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ VIVANT
-                &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月11日(日)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月18日(日)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7dqvus22.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【毎週日曜よる9時～放送】お気に入り登録で見逃さない！&lt;br&gt;遂にシャキ城への潜入を決行する乃木（堺雅人）たち。綿密に練られた作戦を実行していくのだが、シンシー兵士が立ち塞がる。そして、赤外線センサーの地点へ辿り着くのだが、そこには、予行演習をも遥かに超える難易度の罠が待っていた。尻込むチョッキー（Tanapak Jongjaiphar）に檄を入れる新庄（竜星涼）、果たして・・・そして遂に、別班員が囚われた牢獄まで辿り着くのだが・・・
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
