@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-14T02:05:16+09:00</updated>
+  <updated>2026-10-14T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第３７話　「せん 遂に再婚を決意する」]</title>
+    <id>https://tver.jp/episodes/ep2vviosc4</id>
+    <updated>2026-10-14T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep2vviosc4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月14日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月24日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月14日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2vviosc4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                せんが元旗本の老人・堀田と恋に落ちた。ところが、堀田の義理の息子・小源太は金ほしさから、押し込み強盗に見せかけて堀田を殺し、命講の金四百両を騙し取った。真相を知った主水は堀田とせんのために立ち上がる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第6話　大好きな匂い]</title>
+    <id>https://tver.jp/episodes/epgb6gz1mt</id>
+    <updated>2026-10-14T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epgb6gz1mt" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月14日(水)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月12日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月14日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgb6gz1mt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ジナを皆が案じているものの、行方は分からない。そんな中、チュボの公募展に絵を出品するチョンイのため、ハッキュは画材を買う。喜ぶチョンイが家に帰ると、怒り心頭の義母パン・ドッキがチョンイの描いた絵を燃やしていた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>恋をするなら二度目が上等 season2_[#7「恋をするなら、何度でも君と」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/eplzf6891i</id>
@@ -798,72 +864,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 別荘に駆けつけたセヨンが見たのは、血まみれで倒れるミョンファンと傍らに猟銃を持って立つギョンヘだった。&lt;br&gt;一足遅れで到着したヨンスクはセヨンを帰し、心ならずもギョンヘと口裏を合わせることに。&lt;br&gt;一方で意識不明のミョンファンは病院に運ばれる。&lt;br&gt;ところが防犯カメラ映像に慌てて帰るセヨンが映っておりセヨンに容疑がかかる。&lt;br&gt;ヨンスクは、このままではギョンヘがセヨンに濡れ衣を着せてしまうと悟り、自分が犯人だと自首する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>イ・サン_[第6話「赤の悲劇」]</title>
-    <id>https://tver.jp/episodes/epyip9ri9b</id>
-    <updated>2026-10-12T15:56:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epyip9ri9b" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ イ・サン
-                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)15時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月19日(月)15時56分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyip9ri9b.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                自害した刺客の口から出た毒が顔料の一つだと知り、都で唯一その使用を許されている図画署に内官を忍び込ませたサン。しかし内官は、水死体となって発見される。だが彼はサンに暗号を残していた。暗号から、王より一任された清国使節団との会見に何か陰謀が企てられていると察したサンは…。&lt;br&gt;その頃、ソンヨンは図画署で絵を描いているところを見つかり、紙や顔料を盗んでいる疑いをかけられていた。実際は捨ててあったものを使っただけなのだが、ソンヨンの身を案じた画員のイチョンに促され、監禁されていた納屋から抜け出してしまったところを運悪く見つかり、彼女はますます窮地に追いこまれてしまう。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>華麗なるスパイス_[第19話 前途多難な“婚前”生活]</title>
-    <id>https://tver.jp/episodes/epg76zurzp</id>
-    <updated>2026-10-12T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epg76zurzp" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月12日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月19日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月11日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg76zurzp.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                廷恩(ティンエン)の自宅で、初めての夜を迎えた芬青(フェンチン)。しかし、令嬢 如曦(ルーシー)との結婚を熱望する廷恩の母は、二人を引き裂こうと容赦ない嫌がらせを開始する。一方、夜市で平然を装う少威(シャオウェイ)も、愛する芬青が奪われたことに納得がいかず、彼女を連れ戻そうと独断で行動を起こすが……。四方八方から火花が散る！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
