@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-15T18:05:11+09:00</updated>
+  <updated>2026-10-15T20:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season3_[第6話 板橋区板橋のホルモン焼き]</title>
+    <id>https://tver.jp/episodes/epuuzz03t7</id>
+    <updated>2026-10-15T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epuuzz03t7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season3
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月15日(木)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月29日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月15日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuuzz03t7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ネイルサロンを開業するという甲把静香（安藤玉恵）との商談で、板橋に降り立った井之頭五郎（松重豊）は商店街へ。待ち合わせた喫茶店の隣に昔ながらのパン店を見つけて「きなこパン」を購入する。さらに小さな商店街がひしめく町を散策し、渋い定食店の暖簾や短冊を興味深く眺めて歩く。おなかがすいた五郎は再び駅方面へ向かい、ホルモン焼きの看板を見つけて入店する。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>人形の家～偽りの絆～（放送版）_[第36話]</title>
     <id>https://tver.jp/episodes/epjcp6rglf</id>
