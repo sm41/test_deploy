@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-16T14:05:13+09:00</updated>
+  <updated>2026-10-16T16:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第10話「武官の墓場」]</title>
+    <id>https://tver.jp/episodes/epbfmgvyiy</id>
+    <updated>2026-10-16T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epbfmgvyiy" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月16日(金)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月23日(金)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月16日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbfmgvyiy.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                無事に助け出されたソンヨンは、翌朝まだ暗いうちから図画署（トファソ）へ出てひとりで働き始める。すると、なんとそこへ知らせを聞いたサンが現れ、2人は再会を喜び合う。そしてテスは、自分たちのことも約束も覚えていてくれたサンを自らの手で守りたいと、武官になる決意を新たにする。&lt;br&gt;一方、偽造された通達を偽物だと証明できず窮地に立つサン。大臣たちは、王を騙し、法を犯したと容赦なくサンを責め立てるが…。&lt;br&gt;政敵の陰謀によって流罪となっていたチェ･ジェゴンが、サンの護衛部隊長として復帰する。信頼できる臣下が戻り喜ぶサン。しかし、護衛部隊は今、「武官の墓場」と呼ばれるほど惨憺たる状態だった。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>王女の男_[第20話「絶縁の果てに…」]</title>
     <id>https://tver.jp/episodes/epy4zdf5oh</id>
