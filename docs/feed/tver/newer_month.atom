@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-19T00:05:11+09:00</updated>
+  <updated>2026-10-19T02:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>SQUALL_[#1 カトンの雨、運命のはじまり]</title>
+    <id>https://tver.jp/episodes/epchm031nz</id>
+    <updated>2026-10-19T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epchm031nz" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq0nw99e2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ SQUALL
+                &lt;a href="https://tver.jp/series/srq0nw99e2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月21日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月18日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epchm031nz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サクラ（莉子）は恋人・瑛太（吉澤要人）の転勤をきっかけにシンガポールで新たな生活を始める。&lt;br&gt;高層ビル群と歴史的な街並みが交差する土地で、幸せを噛みしめていたサクラだが、&lt;br&gt;なぜか頭をよぎらせてしまうのが、荷物の中に紛れていた見覚えのない“２０３”と刻まれた古い鍵だった。&lt;br&gt;&lt;br&gt;シンガポールでは、野生動物公園のガイドという新たな仕事に就き、瑛太とも順調な新生活を始めたある日、サクラは猛烈なスコールに見舞われる。雨宿りのために入った路地裏で目にしたのは、&lt;br&gt;シンガポール人の男性・ルン（グレン・ヨン）だった。&lt;br&gt;&lt;br&gt;初対面のはずなのに、なぜか昔から知っているような懐かしい感覚に襲われるサクラ。&lt;br&gt;スコールを浴びるカトン地区の美しい町並みの路地裏、まるで引き寄せられるように言葉を交わす２人。&lt;br&gt;……だが、この出会いはまだ、嵐の前の静けさでしかなかった。&lt;br&gt;&lt;br&gt;“２０３”と刻まれた鍵。それは４年前の記憶をほどく鍵なのか、それとも――
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ハイド＆シーク 0秒前の彼女_[第3話　恋人か、国か]</title>
     <id>https://tver.jp/episodes/epn6w605wh</id>
