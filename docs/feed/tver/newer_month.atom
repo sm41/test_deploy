@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-18T02:05:10+09:00</updated>
+  <updated>2026-10-18T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>＆Hulu_[大ヒット韓国ドラマ「シグナル」第1話・後半]</title>
+    <id>https://tver.jp/episodes/eptk5w2rnh</id>
+    <updated>2026-10-18T02:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eptk5w2rnh" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月18日(日)02時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月31日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月17日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptk5w2rnh.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                韓国大ヒットドラマ「シグナル」第1話後半▼ある晩、パク・へヨンは廃棄処分となった古い無線機を発見する。聞こえてきたのは、15年前に誘拐事件を追っていた刑事の声だった…時空を超えた捜査で真犯人に迫る緊張感MAXの展開に注目！&lt;br&gt;(C) 2016 Studio Dragon &amp; ASTORY
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ただ愛する仲_[第15話]</title>
     <id>https://tver.jp/episodes/epoy4ea968</id>
