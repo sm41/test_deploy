@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-18T16:05:10+09:00</updated>
+  <updated>2026-10-18T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第22話「ああ！怪力サキの花の応援団長」]</title>
+    <id>https://tver.jp/episodes/epqy1027wk</id>
+    <updated>2026-10-18T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epqy1027wk" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月18日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月25日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月18日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqy1027wk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                梁山高校のバスケットボール部の試合で応援団長をすることとなったサキは、ポールの高さ３メートル、旗本体の広さが畳１０畳分、総重量７０キロの大団旗を、試合中持ち続けることになった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>＆Hulu_[大ヒット韓国ドラマ「シグナル」第1話・後半]</title>
     <id>https://tver.jp/episodes/eptk5w2rnh</id>
