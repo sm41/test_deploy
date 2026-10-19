@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-19T02:05:09+09:00</updated>
+  <updated>2026-10-19T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第４０話　「主水 世にも不思議な朝顔を作る」]</title>
+    <id>https://tver.jp/episodes/ep19oz2ryf</id>
+    <updated>2026-10-19T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep19oz2ryf" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月29日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep19oz2ryf.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                札差の大口屋から新種の朝顔がほしいと催促された植木屋の主人は、店の植木職人・阿曽次が作った新種を売ろうとするが、阿曽次が首を縦に振らない。それを知った大口屋は阿曽次を殺し、朝顔を奪ってしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第9話　噂の２人]</title>
+    <id>https://tver.jp/episodes/ep6ugiqrbj</id>
+    <updated>2026-10-19T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6ugiqrbj" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月17日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ugiqrbj.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                演奏会の舞台でのチョンイとプンドの様子がネットで拡散され、世間は大騒ぎに。チョンイの家には記者が詰めかけ、チョンイもプンドも家から出られない。一方、チュボで働くことになったジナは、プンドが会長の孫だと知る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>SQUALL_[#1 カトンの雨、運命のはじまり]</title>
     <id>https://tver.jp/episodes/epchm031nz</id>
@@ -765,39 +831,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ＼主演：沢村一樹 × 共演：高杉真宙、玉城ティナ、水沢林太郎、眞島秀和／&lt;br&gt;【テレ東系・2026年10月16日(金)夜9時～放送！】&lt;br&gt;&lt;br&gt;異なる特技を持つプロフェッショナル5人の特設チームが、&lt;br&gt;「縦割り」組織では対応できない“境界線の事件”を痛快に解決!!&lt;br&gt;組織の垣根を乗り越え、隠された真実を暴き出す本格派警察サスペンス。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>人形の家～偽りの絆～（放送版）_[第37話]</title>
-    <id>https://tver.jp/episodes/epf9oicf1a</id>
-    <updated>2026-10-16T17:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epf9oicf1a" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
-                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月16日(金)17時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年04月16日(金)16時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月16日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf9oicf1a.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ヨンスクは病床のウン会長にギョンヘとセヨンが30年前に入れ替わった事実を告白する。&lt;br&gt;会長は大きな衝撃を受けるが2人にはすぐ事実を話さないようヨンスクに命じる。&lt;br&gt;そしてセヨンに自分の命は長くないことを伝え、屋敷に戻って自分の遺作デザインを手伝ってほしいと頼む。&lt;br&gt;ヨンスクの勧めもありセヨンは屋敷に戻るが、着く早々ギョンヘが難癖をつけ諍（いさか）いとなる。&lt;br&gt;それを見たウン会長が叱責され、大ショックのギョンヘ。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
