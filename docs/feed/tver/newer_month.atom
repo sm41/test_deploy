@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-21T00:05:12+09:00</updated>
+  <updated>2026-10-21T02:15:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>深夜食堂 ６_[第1話「お待たせ！」]</title>
+    <id>https://tver.jp/episodes/epl79s98av</id>
+    <updated>2026-10-21T02:01:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epl79s98av" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdlavhngg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 深夜食堂 ６
+                &lt;a href="https://tver.jp/series/srdlavhngg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)02時01分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月28日(水)01時55分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl79s98av.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                コロナ禍の2021年。待てど暮らせど客は来ない。そりゃそうか…店内の掃除にも飽きたマスターは、しばらく店を閉めることにした。行き場を失った常連たちがマスターの心配をし始めた頃、「めしや」の提灯に明かりがついた。カウンターに並んだ常連客がいつもの料理を頼み、変わらない「深夜食堂」の風景が帰ってくる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>デッド・オア・生配信―幽霊ディレクターからの無茶振り指令―_[第3話「爆発オア窒息!?」]</title>
+    <id>https://tver.jp/episodes/eprhcqre7c</id>
+    <updated>2026-10-21T01:05:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprhcqre7c" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryj4wufjo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ デッド・オア・生配信―幽霊ディレクターからの無茶振り指令―
+                &lt;a href="https://tver.jp/series/sryj4wufjo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)01時05分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年04月20日(火)01時04分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprhcqre7c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                「３分以内に同接数１００人を達成してくださーい！」&lt;br&gt;家主から、さらなるミッションが告げれる。そこには、大きな水槽が置かれていた。&lt;br&gt;そんな中、ルイが裏返された一枚の写真を発見。チャンネル登録者数 100 万人を達成したときに貰える金の盾を持った、3 人の男性が映っている。「もしかしてこの家って…」。ルイが真相に近づいた瞬間、時限爆弾のタイマーがスタート。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>早坂架威のごっこ倶楽部TV_[「上の空」]</title>
     <id>https://tver.jp/episodes/epjx9wgke7</id>
@@ -897,39 +963,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 札差の大口屋から新種の朝顔がほしいと催促された植木屋の主人は、店の植木職人・阿曽次が作った新種を売ろうとするが、阿曽次が首を縦に振らない。それを知った大口屋は阿曽次を殺し、朝顔を奪ってしまう。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>龍王＜ヨンワン＞様のご加護_[第9話　噂の２人]</title>
-    <id>https://tver.jp/episodes/ep6ugiqrbj</id>
-    <updated>2026-10-19T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep6ugiqrbj" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
-                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月17日(火)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ugiqrbj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                演奏会の舞台でのチョンイとプンドの様子がネットで拡散され、世間は大騒ぎに。チョンイの家には記者が詰めかけ、チョンイもプンドも家から出られない。一方、チュボで働くことになったジナは、プンドが会長の孫だと知る。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
