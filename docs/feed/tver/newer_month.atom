@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-20T02:05:12+09:00</updated>
+  <updated>2026-10-20T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第４１話　「主水 夏バテで早朝体操を休む」]</title>
+    <id>https://tver.jp/episodes/epojkvkyxs</id>
+    <updated>2026-10-20T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epojkvkyxs" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月20日(火)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epojkvkyxs.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                独り身ながらしっかり者の井筒屋の女主人・お糸が、お民を養女に迎えたいと秀に持ちかけた。店の乗っ取りを狙っていた番頭・佐七はその話に慌て、情婦の霊媒師と組んでお民を追い出すとともに、お糸を殺害する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第10話　先生は海苔みたい]</title>
+    <id>https://tver.jp/episodes/epemvthwdo</id>
+    <updated>2026-10-20T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epemvthwdo" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月20日(火)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月18日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月20日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epemvthwdo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                プンドがボランティアでピアノ教室をすることに。生徒は、シジュンの母ジョン・ムシムの養女ヨルメと、チョンイの親友ホンジョンの息子テヤンの２人だけ。一方ヨンインは、原料開発園で美人図の展示会を開くことを決める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>陽キャ集団にいる芹沢は、俺の前だと様子がおかしい_[最終話・陽キャ集団にいる芹沢は、俺の前だと様子がおかしい]</title>
     <id>https://tver.jp/episodes/epn7b60e8d</id>
@@ -930,138 +996,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 引きこもり生活を卒業し、便利屋「救ちゃん」で奮闘中のウズメ（イモトアヤコ）。結婚式の参列者代行など、少しずつ仕事にも慣れてきた矢先、13歳の家出少女を捜す依頼が舞い込む。頼りになるのは救ちゃんメンバーの一人で、キャバクラで働く小田切舞（大原梓）。何かとウズメには厳しい舞だが、少女捜しを通して意外な過去が見え始める。&lt;br&gt;「私、生まれてすぐに施設に預けられたんだよね」&lt;br&gt;一方、興梠（白洲迅）と奏（柴野晃太朗）は、娘の捜索を依頼した母・葉子（加藤紀子）の様子に違和感を覚えていた。それぞれが少女を救おうと奔走する中で、抱えてきた傷や思いも少しずつ浮かび上がっていき・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>はだかんぼうたち_[第3話 恋人でも、なんでもない女]</title>
-    <id>https://tver.jp/episodes/ep8fn80zxi</id>
-    <updated>2026-10-17T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8fn80zxi" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqgpn465t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ はだかんぼうたち
-                &lt;a href="https://tver.jp/series/srqgpn465t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月17日(土)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8fn80zxi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                《原作・江國香織×主演・松田元太》&lt;br&gt;本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！&lt;br&gt;&lt;br&gt;靴職人の鯖崎涼（松田元太）は、筒井桃（加藤ローサ）とともに朝を迎え、無邪気に喜びをあらわにする。一方、鯖崎と過ごした朝をきっかけに、自身の中に潜む「結婚」に対する違和感と向き合い始める桃。婚約者である石羽拓（髙木雄也）との関係にも思いを巡らせていく。&lt;br&gt;そんな中、突然、他人事のような冷たい態度を見せる鯖崎。しかし、一方で鯖崎の自由で真っ直ぐな魅力に引き寄せられていく桃。すれ違い続ける禁断の関係は加速度的に危険度を増していく―！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>あにいもうと_[＃1　消えない罪、消せない恋]</title>
-    <id>https://tver.jp/episodes/epbtz14k9f</id>
-    <updated>2026-10-17T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbtz14k9f" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjoewwreg.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ あにいもうと
-                &lt;a href="https://tver.jp/series/srjoewwreg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月17日(土)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbtz14k9f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                舞台は、とある地方都市の港町――。&lt;br&gt;市民病院の内科医・奈緒（榮倉奈々）と造船所で働く修司（赤楚衛二）。&lt;br&gt;&lt;br&gt;ある日、奈緒は重い病を患う絵里（宮﨑優）の担当になる。そして、彼女の兄として出会ったのが修司だった。献身的に絵里に寄り添う修司の想いに打たれる奈緒――。絵里を救うため、真摯に治療に取り組む奈緒に心を開き始める修司――。“医師”と“患者の兄”として出会った2人の距離は、周囲の心配をよそに少しずつ近づき始める。そんな中、長い間消息不明だった奈緒の兄・亮介（木村達成）が突然姿を現して…!?&lt;br&gt;&lt;br&gt;そして、2人の許されざる恋が愛する人の死を招く、小さな街を揺るがす大事件へと発展！2組の兄・妹の運命が交錯する禁断のラブ・サスペンスが開幕！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>おいしい給食 season4_[第1話「チャンプルーとチューリップ」]</title>
-    <id>https://tver.jp/episodes/epongmltih</id>
-    <updated>2026-10-17T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epongmltih" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ おいしい給食 season4
-                &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月17日(土)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)21時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epongmltih.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                給食のために学校に来ていると言っても過言ではない中学教師・甘利田幸男（市原隼人）。南国の地へ転勤して一年、給食好きを誰にも気づかれることなく、完璧な日々を送っていた。そんなある日、甘利田のクラスに転校生・當間レンがやってくる。今日の献立は、【ソーミンチャンプルー】に【パッションフルーツゼリー】という南国ならではのローカル給食。しかし、思わぬトラブルに困惑する甘利田をよそに、あるアレンジを加えて淡々と給食を楽しむレン。その姿を見た甘利田は、新たな給食バトルの幕開けを予感する――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>俺たちの箱根駅伝_[第2話【池井戸潤原作】学生連合チーム始動…早くも分裂危機!!]</title>
-    <id>https://tver.jp/episodes/epivxbp1zl</id>
-    <updated>2026-10-17T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epivxbp1zl" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxehhz42z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 俺たちの箱根駅伝
-                &lt;a href="https://tver.jp/series/srxehhz42z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月17日(土)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epivxbp1zl.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                池井戸潤が「もう二度と書けない」と語る渾身の傑作、ついにドラマ化!徳重(大泉洋)は現場スタッフの足並みが乱れ始めた事に危機感を抱いていた。完璧を求める菜月(伊藤沙莉)のワンマンプレーに、周囲の不満が爆発寸前で…。一方、関東学生連合チームがついに始動。異端の監督・甲斐(山下智久)が「箱根駅伝3位以上」と宣言すると、型破りな方針にコーチや選手達から猛反発が。譲れない信念がぶつかり合う、その行方は…!
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
