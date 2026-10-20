@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-20T10:05:11+09:00</updated>
+  <updated>2026-10-20T12:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>SBS縦ドラマ劇場「ダウトコール」_[ダウトコール〜あなた、浮気されてますよ〜第２話]</title>
+    <id>https://tver.jp/episodes/epow3lzmsx</id>
+    <updated>2026-10-20T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epow3lzmsx" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfp652r07.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ SBS縦ドラマ劇場「ダウトコール」
+                &lt;a href="https://tver.jp/series/srfp652r07" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月20日(火)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月03日(火)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : SBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epow3lzmsx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仕事に行ったはずの夫が、休暇を取っていた——。夫と友人の土産も一致。届いた警告は「みんなを信じちゃダメ」。縦型ショートドラマが横型ドラマになって初登場！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第４１話　「主水 夏バテで早朝体操を休む」]</title>
     <id>https://tver.jp/episodes/epojkvkyxs</id>
@@ -963,39 +996,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 平凡な高校生の日置は、学園イチのモテ男・渡会と交際中。渡会からの重すぎる愛と過保護っぷりに戸惑いながらも、順調な日々を送っていた。&lt;br&gt;しかし、3年生に進級して二人は別々のクラスに。一泊二日の勉強合宿でもスケジュールは完全にバラバラ。一緒に過ごせない状況に、渡会の不安と独占欲が暴走！「誰とも喋らないで」と嫉妬を隠さない渡会で‥&lt;br&gt;波乱の勉強合宿、一体どうなる！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>再生のウズメ_[第3話 イモトアヤコ主演。家出少女を救え！キツい彼女の悲しい過去。過去と今がつながる“思いのバトン”！]</title>
-    <id>https://tver.jp/episodes/ep3jpf6456</id>
-    <updated>2026-10-18T00:35:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep3jpf6456" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk17hy8l6.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 再生のウズメ
-                &lt;a href="https://tver.jp/series/srk17hy8l6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月18日(日)00時35分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月24日(土)23時40分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月17日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 東海テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3jpf6456.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                引きこもり生活を卒業し、便利屋「救ちゃん」で奮闘中のウズメ（イモトアヤコ）。結婚式の参列者代行など、少しずつ仕事にも慣れてきた矢先、13歳の家出少女を捜す依頼が舞い込む。頼りになるのは救ちゃんメンバーの一人で、キャバクラで働く小田切舞（大原梓）。何かとウズメには厳しい舞だが、少女捜しを通して意外な過去が見え始める。&lt;br&gt;「私、生まれてすぐに施設に預けられたんだよね」&lt;br&gt;一方、興梠（白洲迅）と奏（柴野晃太朗）は、娘の捜索を依頼した母・葉子（加藤紀子）の様子に違和感を覚えていた。それぞれが少女を救おうと奔走する中で、抱えてきた傷や思いも少しずつ浮かび上がっていき・・・。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
