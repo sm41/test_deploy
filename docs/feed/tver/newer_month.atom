@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-21T16:05:13+09:00</updated>
+  <updated>2026-10-21T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第40話]</title>
+    <id>https://tver.jp/episodes/ephbexep25</id>
+    <updated>2026-10-21T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephbexep25" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年04月21日(水)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephbexep25.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ヨンスクは、重病のウン会長を救うにはセヨンがドナーになるしかないと考えセヨンに真実を伝える。&lt;br&gt;セヨンはヨンスクの実の娘ではないことを知って悲嘆にくれる。&lt;br&gt;さらに実の母であるスランが病院から消えるが、これは出生の秘密の発覚を恐れたギョンヘが拉致させたためだった。&lt;br&gt;ウン会長の命を救いたいと考えたセヨンは、自分をドナーにするよう掛け合うが、ギョンヘは頑なに認めず、遺産放棄の覚書まで作れと言い出す。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>kiDnap GAME_[kiDnap GAME完全攻略ガイド]</title>
+    <id>https://tver.jp/episodes/ep5okfmjyg</id>
+    <updated>2026-10-21T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep5okfmjyg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wsgs48k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ kiDnap GAME
+                &lt;a href="https://tver.jp/series/sr3wsgs48k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月12日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5okfmjyg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                第2話の見どころシーンを一挙公開！新出は誘拐された妻・沙織を救うため、単独捜査に乗り出す。防犯カメラからアジトを突き止め、救出に向かうのだが・・・
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>イ・サン_[第13話「倉庫に埋もれた証拠」]</title>
     <id>https://tver.jp/episodes/epdknyxspe</id>
@@ -699,171 +765,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 愛娘の転落事故の真相を探るために、芸能界に復帰した元天才子役の鮎川穂奈未（朝日奈央）。夫・蓮也（犬飼貴丈）の不倫相手で事故の原因になった俳優・泉舞花（新川優愛）に近づくために、新ドラマオーディションを受けるも完敗。蓮也からは内緒で参加したことを怒られる。しかしそんな穂奈未の元に別役のオーディションの話が。役を勝ち取るために奮闘する穂奈未を見て、幼馴染で俳優の和久井（時任勇気）はある決意を固める。　［期間限定無料配信］　テレビ東京にて10月5日(月)スタート！毎週月曜夜11時6分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>青と碧_[第3話　青葉揺れ、遠ざかる背中。]</title>
-    <id>https://tver.jp/episodes/ep53bn2eep</id>
-    <updated>2026-10-19T23:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep53bn2eep" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srks3jf72s.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 青と碧
-                &lt;a href="https://tver.jp/series/srks3jf72s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)23時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月14日(月)23時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep53bn2eep.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                大学生になり、月に一度カフェで会う関係を続けている二人。しかし、周囲からモテる碧（草川直弥）に大学の同期・南千佳（滝澤エリカ）が接近。ある日の食事中、碧から「仲の良い女子ができた」と聞いた青（知念英和）は、ショックを隠せない。お互いに相手の真意を探ろうとするあまり言葉が行き違い、これまで築いてきた距離感が少しずつ崩れ始めていく。友達以上の関係を望みながらも踏み出せない青と、自分の本心から目を背ける碧の行方は－－。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>南田南弁護士は天才肌_[#1 上から読んでも下から読んでも南田南]</title>
-    <id>https://tver.jp/episodes/epy5fo6j2m</id>
-    <updated>2026-10-19T23:09:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epy5fo6j2m" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4clupwnv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 南田南弁護士は天才肌
-                &lt;a href="https://tver.jp/series/sr4clupwnv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年01月11日(月)22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy5fo6j2m.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                南田南（芦田愛菜）は東大法学部を首席で卒業し、司法試験もトップで合格した新人弁護士。輝かしい経歴を持ちながらも、自閉スペクトラム症に対する社会の偏見の壁にはばまれ、どの法律事務所にも採用されずにいた。そんななか、ある理由から広川凪沙（平岩紙）が代表を務める業界トップクラスの「広川・ハワード法律事務所」に採用が決まった南。初出勤の朝、おむすび店を営む父・誠（角田晃広）に見送られてオフィスへ向かうが、到着早々、苦手なエスカレーターを前に一歩が踏み出せず、立ちすくんでしまう。&lt;br&gt;そんな南に優しく手を差し伸べたのは、パラリーガルの船井湊人（高橋文哉）。湊人の案内のもとたどり着いた上司・宮地賢吾（山口馬木也）の部屋には、半年前に入所した氷見琢磨（細田佳央太）と、司法修習のときの同期・朝日小春（久保史緒里）の姿もあり、宮地は南が自閉スペクトラム症だと知ると、けげんな表情を浮かべる。凪沙に採用理由を問い詰めるも、弱みを突かれ、仕方なく南に案件を任せることに。&lt;br&gt;南が弁護することになったのは、介護していた認知症の夫（斉木しげる）をアイロンで殴った妻（朝加真由美）。犯行の引き金となったのは夫の暴言だったが、頭を殴られた夫は硬膜下血腫で全治12週と診断され、妻は殺人未遂で起訴されていた。宮地は被告人のために執行猶予を取るよう指示するが、南は無罪を主張すると言い出し…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>飯を喰らひて華と告ぐ_[カツカレー]</title>
-    <id>https://tver.jp/episodes/epjkjler4e</id>
-    <updated>2026-10-19T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epjkjler4e" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1v18zkpj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 飯を喰らひて華と告ぐ
-                &lt;a href="https://tver.jp/series/sr1v18zkpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月26日(月)21時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjkjler4e.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ”リアル”なラップを求めて、日々リリックを書き溜めるラッパー志望の慶太。ある日先輩ラッパーから明らかに怪しげなブツの取り引きを持ちかけられるが、待ち合わせ場所に偶然現れたのは取り引きとは無関係の「一香軒」の店主。眼光鋭い店主を取引相手と勘違いし、指定されたハンドサインを送る慶太は、そのまま強引に店に連れて行かれ、チーズ入り＆衣ザックザクのボリューミーなカツカレーをふるまわれることに……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>kiDnap GAME_[kiDnap GAME完全攻略ガイド 政治家の悪事を暴け！バンコク編の見どころ先出し]</title>
-    <id>https://tver.jp/episodes/ephr6uqql7</id>
-    <updated>2026-10-19T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephr6uqql7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wsgs48k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ kiDnap GAME
-                &lt;a href="https://tver.jp/series/sr3wsgs48k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephr6uqql7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                第3話の見どころシーンを一挙公開！バンコクのホステス、アムは自分のことを愛してくれる唯一のルームメイトを救うため、大物政治家との戦いに挑む！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>救命病棟24時_[第2話 進藤帰還！患者への意識]</title>
-    <id>https://tver.jp/episodes/epduaectel</id>
-    <updated>2026-10-19T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epduaectel" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkg7092fi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 救命病棟24時
-                &lt;a href="https://tver.jp/series/srkg7092fi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epduaectel.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                進藤一生（江口洋介）が都立第三病院の救命救急センターに正式に着任する。辻智宏（八嶋智人）がそのことを救命救急センターの専攻医・宮沢蓮（木戸大聖）らに伝えるが、歓迎ムードとはいかない空気が流れる。&lt;br&gt;そこへ、和食界の有名料理人、小野川卓（山中崇）が搬送されてくる。宮沢とCT画像を見ていた進藤は開頭手術を決断し、オペのサポートに専攻医・天野智也（萩原利久）、研修医・田中芽生（横田真悠）、研修医・長良達平（中山翔貴）を指名。オペから外された宮沢は納得がいかず、初療室を出ていく。&lt;br&gt;一方、ICUでは3日前に吐血して運ばれてきた高齢の末期胃がん患者・高木清一郎（古川慎）が心肺停止に。宮沢、益田藤吉郎（田島亮）、畦地優夏（杏花）らが処置をしている中、小島楓（松嶋菜々子）が駆けつける。心肺停止から30分が経っても、小島は患者を救えるという可能性をわずかに感じていたが、宮沢は胸骨圧迫を続けていたその手を止めてしまう…。&lt;br&gt;高木は一命を取り留めたものの、小島は宮沢の患者に対する意識の薄さを気にかける。一方、小野川の処置を終えた進藤は、宮沢を小野川の担当医に指名する。そこには進藤の思惑があるようで…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
