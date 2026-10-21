@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-21T02:15:44+09:00</updated>
+  <updated>2026-10-21T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第４２話　「加代 パン作りに挑戦する」]</title>
+    <id>https://tver.jp/episodes/epv1dde3vc</id>
+    <updated>2026-10-21T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epv1dde3vc" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月31日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv1dde3vc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                豊作にもかかわらず、なぜか米が不足した。探索を始めた町年寄・徳衛門は、若年寄・志木と江戸家老・金坂が結託し、米を隠して相場を上げていたことを突き止めるが、露見を恐れた志木らに殺されてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第11話　8年越しの思い]</title>
+    <id>https://tver.jp/episodes/epd0bkwo37</id>
+    <updated>2026-10-21T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epd0bkwo37" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月19日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd0bkwo37.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                突然倒れて病院に運ばれたチョンイ。だが、起きてすぐに働きに行くチョンイを見かねたプンドは、ゆっくり休ませようとバイト先に手を回す。そして、シジュンの出所日がやってくる。8年ぶりにシジュンが真っ先に向かったのは…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>深夜食堂 ６_[第1話「お待たせ！」]</title>
     <id>https://tver.jp/episodes/epl79s98av</id>
@@ -897,72 +963,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 交通課の警察官・川島貴衣子（石田）が出席した結婚披露宴の最中、「天からの贈り物」という電報が読み上げられるのと同時に、若い女性の死体が隣のビルから落とされてきた。新郎・新婦ともに被害者に面識はない。警視庁捜査一課の警部・綿貫（平田）と警部補・操（伊藤）が駆け付ける中、貴衣子は、派手な演出からではないかと推理し、操に根拠を問われる。&lt;br&gt;数日後、貴衣子を捜査一課に異動辞令が出る。実はかつて刑事だった貴衣子は、ある事件をきっかけに、自ら交通課への異動を望んだのだ。やがて貴衣子は、犯人の次の標的と思われる女性の写真を入手する…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>華麗なるスパイス_[第20話 思い出のカレーパン]</title>
-    <id>https://tver.jp/episodes/epe3ykc2c4</id>
-    <updated>2026-10-19T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epe3ykc2c4" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月26日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月18日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe3ykc2c4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                廷恩(ティンエン)の妻にふさわしいのは誰か？ 祖母による過酷な品格チェックで、芬青(フェンチン)と如曦(ルーシー)は苦手分野に大苦戦。そんな中、如曦の純粋な恋心を知った芬青は、身を引くつもりで彼女を応援すると決める。しかし、廷恩への想いとは裏腹に、胸のモヤモヤは消えず……。不器用な恋の行方に、新たな試練が訪れる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕事人Ⅳ_[第４０話　「主水 世にも不思議な朝顔を作る」]</title>
-    <id>https://tver.jp/episodes/ep19oz2ryf</id>
-    <updated>2026-10-19T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep19oz2ryf" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕事人Ⅳ
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月29日(木)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep19oz2ryf.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                札差の大口屋から新種の朝顔がほしいと催促された植木屋の主人は、店の植木職人・阿曽次が作った新種を売ろうとするが、阿曽次が首を縦に振らない。それを知った大口屋は阿曽次を殺し、朝顔を奪ってしまう。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
