@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-21T14:05:10+09:00</updated>
+  <updated>2026-10-21T16:05:13+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第13話「倉庫に埋もれた証拠」]</title>
+    <id>https://tver.jp/episodes/epdknyxspe</id>
+    <updated>2026-10-21T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdknyxspe" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月28日(水)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdknyxspe.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                敵の拠点を発見したテスはすぐさま犯罪を取り締まる捕盗庁（ポドチョン）に通報するが、たまたま居合わせたチョン･フギョムにうまくその情報をもみ消され、その上、命も奪われそうになる。だが、うまく事を処理したとほくそ笑むチョン･フギョムの前に、再びテスが戻ってくる。しかも今度は、やはり敵の拠点の場所に見当をつけていたサンも一緒だ。必死で申し開きをするチョン･フギョムを尻目に、サンはすぐ兵を出動させるよう従事官に命ずる。&lt;br&gt;一方、サンを助けるため図画署の地図倉庫に無断で入り見つかってしまったソンヨンは、図画署の納屋に閉じ込められてしまう…。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>一筆お祓いいたします_[第10話 余計なお世話]</title>
+    <id>https://tver.jp/episodes/ept60qfhzb</id>
+    <updated>2026-10-21T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ept60qfhzb" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月21日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月21日(土)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月21日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept60qfhzb.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                楮英(チューイン)の協力のもと、一永(イーヨン)と光硯(グァンイェン)は、雑貨店の店主に相談され、行方不明になった娘を探すことに。そして、以前その店で働いていた女性スタッフが怪しいとにらむ。今では、カフェを経営しているその女性。彼女の店に何か不穏なものを感じる一永。一方、楮英はあるパティシエの男性と親しくなる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕事人Ⅳ_[第４２話　「加代 パン作りに挑戦する」]</title>
     <id>https://tver.jp/episodes/epv1dde3vc</id>
@@ -798,72 +864,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 進藤一生（江口洋介）が都立第三病院の救命救急センターに正式に着任する。辻智宏（八嶋智人）がそのことを救命救急センターの専攻医・宮沢蓮（木戸大聖）らに伝えるが、歓迎ムードとはいかない空気が流れる。&lt;br&gt;そこへ、和食界の有名料理人、小野川卓（山中崇）が搬送されてくる。宮沢とCT画像を見ていた進藤は開頭手術を決断し、オペのサポートに専攻医・天野智也（萩原利久）、研修医・田中芽生（横田真悠）、研修医・長良達平（中山翔貴）を指名。オペから外された宮沢は納得がいかず、初療室を出ていく。&lt;br&gt;一方、ICUでは3日前に吐血して運ばれてきた高齢の末期胃がん患者・高木清一郎（古川慎）が心肺停止に。宮沢、益田藤吉郎（田島亮）、畦地優夏（杏花）らが処置をしている中、小島楓（松嶋菜々子）が駆けつける。心肺停止から30分が経っても、小島は患者を救えるという可能性をわずかに感じていたが、宮沢は胸骨圧迫を続けていたその手を止めてしまう…。&lt;br&gt;高木は一命を取り留めたものの、小島は宮沢の患者に対する意識の薄さを気にかける。一方、小野川の処置を終えた進藤は、宮沢を小野川の担当医に指名する。そこには進藤の思惑があるようで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>孤独のグルメ Season3_[第7話 目黒区駒場東大前のマッシュルームガーリックとカキグラタン]</title>
-    <id>https://tver.jp/episodes/ephm4sssmo</id>
-    <updated>2026-10-19T18:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephm4sssmo" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 孤独のグルメ Season3
-                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)18時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月06日(日)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephm4sssmo.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                「駒場東大前駅」で下車した井之頭五郎（松重豊）は女子高生が並ぶたこ焼き店を見つける。その店のおすすめを購入して、駒場野公園へ向かう。そこで本を読みながら約束までの時間をつぶすことにする。夕方になり、目的のインテリアショップで仕事をして外に出るともう夜になっていた。おなかもすいてきたと、ふと目を向けた先の看板にひかれて洋食店へ。席に通された五郎は定番ものから本格的なものまで並ぶメニューににんまり。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ワカコ酒 Season5_[第2夜 紹興酒で中華三昧]</title>
-    <id>https://tver.jp/episodes/ep03r53gwv</id>
-    <updated>2026-10-19T17:45:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep03r53gwv" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ワカコ酒 Season5
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月19日(月)17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月02日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月19日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep03r53gwv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                昼休み。ワカコ（武田梨奈）のオフィスでは、最近できたお弁当屋さんの中華弁当が流行っていた。新人の倉本（丹羽紀元）など3日連続だという。手作り弁当を食べながら、オカダ主任（しおつかこうへい）らの会話を聞いていたワカコは、頭の中がすっかり中華になってしまう。会社帰り、ワカコは、中国家庭料理の看板を見つけて入ってみる。隣のお客さんはおいしそうな羽根つき餃子を食べている。逸る気持ちを抑え、ザーサイを頼み、紹興酒のソーダ割りでシュワシュワを楽しむのだった。　［期間限定無料配信］
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
