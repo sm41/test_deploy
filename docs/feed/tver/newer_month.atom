@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-22T14:05:11+09:00</updated>
+  <updated>2026-10-22T16:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第14話「静かなる口封じ」]</title>
+    <id>https://tver.jp/episodes/epim55m7b5</id>
+    <updated>2026-10-22T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epim55m7b5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月22日(木)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月29日(木)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epim55m7b5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                自分を陥れるための陰謀に兵曹判書ハン･ジュノが加担していることを知ったサンは、彼に罪状をつづった書状を匿名で送りつけ、その動きを探ることに。ところが、書状を受け取ったハン･ジュノが真っ先に向かった先は、なんとサンの叔母ファワンのもとだった。父を死に追いやったのが、その妹であるファワンと知ったサンは愕然とするが、今こそ敵を一網打尽にする好機。サンは、同時に突き止めた私兵団の拠点に兵を送る。&lt;br&gt;一方、ファワンの養子チョン･フギョムに、自らの希望に近い重要な役職につけるとの話を持ちかけられていたホン･グギョンは…。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>双燕秘抄 乱世を舞う二羽の絆_[第4話]</title>
     <id>https://tver.jp/episodes/epl42pfket</id>
