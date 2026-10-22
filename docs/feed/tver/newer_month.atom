@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-22T18:05:11+09:00</updated>
+  <updated>2026-10-22T20:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season3_[第10話 荒川区西尾久の炎の酒鍋と麦とろ飯]</title>
+    <id>https://tver.jp/episodes/epu1lkyn3b</id>
+    <updated>2026-10-22T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epu1lkyn3b" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season3
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月22日(木)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月27日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu1lkyn3b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                都電荒川線の荒川遊園地前駅で下車した井之頭五郎（松重豊）は「あらかわ遊園」内の「下町都電ミニ資料館」へ。そこで、資料館のイベントのための模型を依頼される。その後、五郎は、キャリーバッグのキャスターが壊れて困っているおばあさんに出会い、一緒に宮ノ前駅で降りてバッグを運んでやる。そうして腹が減った五郎。そこで、とんかつを選んだ五郎だったが、店内にはとんかつだけでなく、鍋を囲む家族客の姿が……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>人形の家～偽りの絆～（放送版）_[第41話]</title>
     <id>https://tver.jp/episodes/epuueiwzs4</id>
