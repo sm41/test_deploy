@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-23T10:05:13+09:00</updated>
+  <updated>2026-10-23T12:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>大好き！五つ子Ｇｏ³！！_[最終回]</title>
+    <id>https://tver.jp/episodes/ep4asz7qhu</id>
+    <updated>2026-10-23T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4asz7qhu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 大好き！五つ子Ｇｏ³！！
+                &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月06日(金)11時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4asz7qhu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;登山の途中で怪我をしてしまった美穂（笹岡莉紗）を助けながら、桜井家の７人は山登りを続ける。疲労困憊の中、助け合う五つ子たち。頂上に辿り着いた時、桃子（森尾由美）は、良介（新井康弘）は、五つ子たちは何を思うのか？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ディア・シスター_[第8話 秘密のラブレター]</title>
     <id>https://tver.jp/episodes/epw49rh3fk</id>
