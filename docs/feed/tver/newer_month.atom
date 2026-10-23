@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-23T14:05:10+09:00</updated>
+  <updated>2026-10-23T16:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第15話「護衛官への道」]</title>
+    <id>https://tver.jp/episodes/epyc8a6yn8</id>
+    <updated>2026-10-23T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epyc8a6yn8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyc8a6yn8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サンはソンヨンを宮殿の書庫に案内し、ソンヨンの手を取り、古い慣わしに囚われず画員を目指せと励ます。するとちょうどそこへ、サンの正室ヒョイがやってくる。今回の事件で手柄を立て、しかも古くからの友人でもあると、サンにソンヨンを紹介されたヒョイは、ソンヨンが以前実家で菓子を作るのを手伝ってくれた図画署の茶母であることに気づき、深い縁を感じる。&lt;br&gt;一方ファワンがサンの敵の一人であることを突き止めることに貢献したホン・グギョンは、思惑通りサンの側近に。サンはホン・グギョンに、不正せずにテスを武科に合格させるよう命じる。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>王女の男_[第22話「哀しき友情」]</title>
     <id>https://tver.jp/episodes/epo3ngzk10</id>
