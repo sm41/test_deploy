@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-24T10:05:10+09:00</updated>
+  <updated>2026-10-24T12:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>法医学者マダム・エール_[第10話「奇跡 後編」]</title>
+    <id>https://tver.jp/episodes/eprgdzw0bo</id>
+    <updated>2026-10-24T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprgdzw0bo" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 法医学者マダム・エール
+                &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月12日(土)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprgdzw0bo.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                アレクサンドラは被害者の生前の足取りを追い、彼女と家族のゆがんだ関係の実態を突き止める。厳格な父親は被害者に過度のストレスを与え、母親は被害者が施す奇跡の治療の代償として、治療を受けた人々から高額な報酬を受け取っていた。アレクサンドラは、被害者と共通点をもつ人物から話を聞くため、驚くべき行動に出る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>思春期メドレー_[#5]</title>
     <id>https://tver.jp/episodes/ep15twdytf</id>
