@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-25T02:05:12+09:00</updated>
+  <updated>2026-10-25T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>＆Hulu_[「星の見える町で」ほか恋愛リアリティーショー特集！]</title>
+    <id>https://tver.jp/episodes/epwelxgsx3</id>
+    <updated>2026-10-25T02:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epwelxgsx3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月25日(日)02時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月07日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwelxgsx3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                恋と移住がテーマの新恋愛番組「星の見える町で」の魅力を深掘り▼さらに、兄弟姉妹が互いの恋人を探す番組や、初対面の相手と結婚する実験的な番組など、思わず見たくなる世界の恋愛リアリティーショーを一挙紹介！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ただ愛する仲_[第16話]</title>
     <id>https://tver.jp/episodes/epf51yvpfo</id>
@@ -1128,39 +1161,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 BL小説執筆のため、海里からさまざまな「ドキドキするシチュエーション」を教えてもらう啓。実践を重ねるうち、海里といる時だけ“ドキドキ”することに気づき始める。一方で海里もまた啓に対して特別な感情を抱いていく。&lt;br&gt;そして、あることをきっかけに嫉妬の感情を出してしまう海里。そんな海里を見て恋愛初心者の啓は驚くべき行動に…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>天狗の台所 Ｓｅａｓｏｎ３_[第四話「桜餡とトウモロコシ」]</title>
-    <id>https://tver.jp/episodes/ep8hp6bhjn</id>
-    <updated>2026-10-22T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8hp6bhjn" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgbrwms3g.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 天狗の台所 Ｓｅａｓｏｎ３
-                &lt;a href="https://tver.jp/series/srgbrwms3g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月22日(木)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月29日(木)23時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS-TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8hp6bhjn.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                廃校が決まった村の小学校で、最後の卒業式が行われる。毎年、自家製の記念品を差し入れていた基（駒木根葵汰）も、オン（越山敬達）と一緒に卒業式に参列することに。それぞれが学校への想いを馳せる中、校庭の隅には不審な動きをする移住者の國弘（オクイシュージ）の姿が。気に留める基だったが、國弘はすぐに逃げてしまい…。そんな最中、オンはチヨから引き継いだ田んぼの田おこしを始める。想像以上の重労働で、甘くない現実に直面するオン。手伝いに来た有意（塩野瑛久）はそんなオンをねぎらうため、あることを提案する。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
