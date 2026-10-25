@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-25T16:05:11+09:00</updated>
+  <updated>2026-10-25T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第23話「サキ命です！ツッパリコンビの大熱愛」]</title>
+    <id>https://tver.jp/episodes/epaaqqvons</id>
+    <updated>2026-10-25T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epaaqqvons" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月25日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月01日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月25日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaaqqvons.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サキはテツとコウジのツッパリコンビに惚れられ、デートを申し込まれる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>＆Hulu_[「星の見える町で」ほか恋愛リアリティーショー特集！]</title>
     <id>https://tver.jp/episodes/epwelxgsx3</id>
@@ -930,39 +963,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 別れて単なる「友達」に戻った冴子（鞘師里保）とみわ（小西桜子）。サークル仲間・リカ（黒崎レイナ）に背中を押され、みわは長年密かに想いを寄せていた高校時代の先輩・志帆（山谷花純）へ告白し…。後日、体調不良を理由に大学を休むみわを心配して駆けつけた冴子は、冷たく拒絶されながらもかいがいしく世話を焼く。そして去ろうとする冴子の背中に、ついにみわの隠していた本音が溢れ出し――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>女帝_[【第１話・火の国の誓い】]</title>
-    <id>https://tver.jp/episodes/ep6mi07ca2</id>
-    <updated>2026-10-23T01:29:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep6mi07ca2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfdqspbyu.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 女帝
-                &lt;a href="https://tver.jp/series/srfdqspbyu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)01時29分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年03月26日(金)00時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6mi07ca2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                立花彩香（齊藤なぎさ）は、熊本でスナックを営む母・麻里子（小沢真珠）と二人、平凡ながらも幸せな日常を送る女子高生。しかし、初恋相手・杉野謙一（濱田龍臣）の裏切りと、地元の権力者・北條照盛（谷川昭一朗）とその娘・梨奈（川津明日香）が仕掛けた理不尽な罠によって日常が一変する。さらに母を病で亡くし、すべてを奪われた彩香は復讐を誓い大阪へ。「女帝となって見返してやる」と水商売の世界へ身を投じていく。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
