@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-25T20:05:11+09:00</updated>
+  <updated>2026-10-25T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>BARレモン・ハート_[私のスピリッツ]</title>
+    <id>https://tver.jp/episodes/ep4ydaliqu</id>
+    <updated>2026-10-25T21:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4ydaliqu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwkfk4yrm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ BARレモン・ハート
+                &lt;a href="https://tver.jp/series/srwkfk4yrm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月25日(日)21時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月01日(日)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ydaliqu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                BARレモン・ハートに松ちゃんが連れてきたのは、取材で知り合った北欧大好き女子の森屋弘子・通称ロコ。ロコは北欧のすべてに憧れており、お酒を飲むのも北欧流。北欧の職人が手作りしたショットグラスを手に、アルコール度数40％超えの北欧を代表するスピリッツ「アクアビット」をキンキンに冷やして飲み、日本酒を「ライスのジュース」とバカにする。&lt;br&gt;そこでマスターが北欧にも負けない日本のお酒をすすめるも、ロコは「やはり北欧のお酒でないと…」と、北欧第一主義を貫く。実は、彼女が北欧にそこまでこだわるのにはある理由があった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>波うららかに、めおと日和（2025）_[第6話 運命の人と過ごす初めての夜]</title>
     <id>https://tver.jp/episodes/ephp5o0sc3</id>

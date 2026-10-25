@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-25T20:05:11+09:00</updated>
+  <updated>2026-10-25T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>泣いてたまるか_[ああ、誕生]</title>
+    <id>https://tver.jp/episodes/epcb2myxqp</id>
+    <updated>2026-10-25T20:50:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epcb2myxqp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8a45d2k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 泣いてたまるか
+                &lt;a href="https://tver.jp/series/srv8a45d2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月25日(日)20時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月23日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月25日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcb2myxqp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                自動車解体会社に勤める丈吉と妻の房子のあいだには子供がいなかった。だが、ついに房子が妊娠。二人は狭いアパートから一軒家に引っ越すが・・・。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>踊る大捜査線 捜査資料管理室～青島俊作、空白の13年～_[第3話 青島の空白（3）2022年～2026年 SSBC時代を調査せよ]</title>
+    <id>https://tver.jp/episodes/ep71gthor8</id>
+    <updated>2026-10-25T20:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep71gthor8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpmpr6zuz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 踊る大捜査線 捜査資料管理室～青島俊作、空白の13年～
+                &lt;a href="https://tver.jp/series/srpmpr6zuz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月25日(日)20時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月01日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月25日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep71gthor8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                青島俊作の“空白の13年”を追う明石幸男は、技術専門官・戸塚美保から、青島が一見無関係に思えた3つの事件の共通点を見抜いたことを聞かされる。限られた捜査資料だけを頼りに、その真相を探り始める明石。妄想混じりの推理を繰り返しながら調査を進めるうちに、青島が些細な違和感から真実にたどり着き、独自の信念で事件解決へ導いていたことが浮かび上がる。一方、人事課の野添久美子（小橋めぐみ）の登場によって、青島にまつわる新たな情報も判明。果たして明石は青島俊作の空白の13年に迫ることができるのか。そして報告書を無事に提出することはできるのか！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第23話「サキ命です！ツッパリコンビの大熱愛」]</title>
     <id>https://tver.jp/episodes/epaaqqvons</id>
@@ -831,105 +897,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 受験勉強に追われる少年。いつもの帰り道、電車でトンネルを抜けるとそこは深海の街。商店街の奥に灯る小さな喫茶店では、チョウチンアンコウのマスターと個性豊かな深海の住人たちが彼を迎えます。差し出された一杯の「深海ソーダ」と、不思議でどこか懐かしい時間。日常からほんの少し離れた場所で、少年の心がほどけていくファンタジー。&lt;br&gt;ーいつもの帰り道の向こうに、心をほどく場所がある。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>おかえり、初恋。_[第3話「“好き”の正体」《ドラマフィル》]</title>
-    <id>https://tver.jp/episodes/ep4kxng71k</id>
-    <updated>2026-10-23T02:04:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep4kxng71k" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2xaqjeyr.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ おかえり、初恋。
-                &lt;a href="https://tver.jp/series/sr2xaqjeyr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)02時04分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月04日(金)01時58分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4kxng71k.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                田口（樋口幸平）から「ずっと好きだった」と想いを告げられた山根（林芽亜里）。10年越しの告白に動揺し、恋愛経験のない山根は自分の感情が「恋」なのか分からず、今の関係が壊れることを恐れて答えを出せずにいた。そんな山根を見かねた上司の大畑（朝倉あき）に飲みに誘われた山根は、恐る恐る悩みを打ち明けると、大畑からある提案をされて…!?&lt;br&gt;大畑からの助言で意を決した山根は、勇気を振り絞って田口をデートに誘う。そうして迎えたデート当日、緊張しながら待ち合わせ場所へ向かう山根だった。田口と一緒に過ごす時間を楽しむ中で、山根は自分の中にある田口への気持ちをだんだん自覚し始め…。10年越しの初恋の行く末は――
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>深夜残業～肉食後輩の片恋研修_[第４話]</title>
-    <id>https://tver.jp/episodes/ep5g6yefew</id>
-    <updated>2026-10-23T02:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5g6yefew" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwb4ubnxk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 深夜残業～肉食後輩の片恋研修
-                &lt;a href="https://tver.jp/series/srwb4ubnxk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)02時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)02時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5g6yefew.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                元恋人・真島と再会した陽奈は、彼が転職後に結婚し、家庭を築いていると知る。過去の自分の未熟さを詫び、かつて好きだった気持ちを伝える陽奈。今は幸せかと尋ねられると、来栖を思い浮かべて肯定する。&lt;br&gt;その後、陽奈は自分から来栖の家へ向かい、会いたかったと素直に告げる。そして、社内恋愛を恐れる理由を初めて詳しく話す。&lt;br&gt;７年前、真島との関係が噂になり、陽奈に転勤の話が持ち上がった。彼女の将来を守ろうとした真島は会社を辞め、二人の関係も終わってしまったのだ。来栖は、その痛みを抱え続けていた陽奈を受け止め、自分はそばからいなくならないと約束する。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>彼女の妹～誘惑だらけのサンカク関係～_[第４話]</title>
-    <id>https://tver.jp/episodes/epieyd5v0j</id>
-    <updated>2026-10-23T01:45:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epieyd5v0j" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj9orviqa.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 彼女の妹～誘惑だらけのサンカク関係～
-                &lt;a href="https://tver.jp/series/srj9orviqa" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)01時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)01時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月22日(木)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epieyd5v0j.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ★事前の「お気に入り登録」をオススメします！★&lt;br&gt;「一回くらい応えてあげてもいいんじゃないか」。悠希(髙野真央)をベッドに押し倒す一志(亜莉)。&lt;br&gt;「一志さんになら、何をされてもいい——」&lt;br&gt;呟く悠希に応えようとした瞬間、一志だが……。&lt;br&gt;&lt;br&gt;最愛の彼女と、自分に一途な危険な義妹。秘められた過去の記憶と悠希の切ない視線に、一志の理性が猛烈に揺さぶられていく。&lt;br&gt;&lt;br&gt;罪悪感と情熱の狭間で葛藤を極めた一志は、衝動を払いのけるように遥(長谷川かすみ)を強く抱きしめ、熱い情交へと落ちていく。しかしその頃、隣の部屋では悠希が一人、一志への狂おしい想いを抱えていた。ひとつの屋根の下、壁一枚を隔てて交錯する快楽と執着。壊れ始めた三角関係の行方は——!?
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
