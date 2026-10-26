@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-26T16:05:10+09:00</updated>
+  <updated>2026-10-26T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season5_[第4夜 みんな大好き、鉄板料理]</title>
+    <id>https://tver.jp/episodes/ep4vnl2r3s</id>
+    <updated>2026-10-26T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4vnl2r3s" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season5
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月26日(月)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4vnl2r3s.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                オカダ主任（しおつかこうへい）が自宅で鉄板を新調したらしい。肉が焼ける音を再現して自慢するオカダ主任の話を聞いているうちに頭の中がジュウジュウ焼ける肉でいっぱいになるワカコ（武田梨奈）。気がつけば手にコテを持っていたりして……。当然、帰りに鉄板焼きの店を探すのだが、探しているときに限って見つからない。ようやく広島焼の看板を見つけて勇んで入ってみる。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第43話]</title>
+    <id>https://tver.jp/episodes/ephl98x171</id>
+    <updated>2026-10-26T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ephl98x171" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月26日(月)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年04月26日(月)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephl98x171.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                就任式を目前にしてセヨンとギョンへは逮捕されてしまう。&lt;br&gt;セヨンはでっち上げられた横領容疑、ギョンヘはひき逃げ容疑だった。&lt;br&gt;ひき逃げはヨンスクが通報させたもので罪を償わせて再出発させたい親心からだった。&lt;br&gt;セヨンは容疑が晴れて釈放される。&lt;br&gt;ギョンヘは保釈されるがヨンスクに対して恨みがましい気持ちを抱く。&lt;br&gt;一方セヨンは再会した実の母を放っておけず、スランと一緒に屋敷に住むことに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>イ・サン_[第16話「刺客の視点」]</title>
     <id>https://tver.jp/episodes/epzy5tf3h6</id>
@@ -699,138 +765,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ”コックリさん”がきっかけでさらに距離が縮まる二人。&lt;br&gt;しかし、家の事情で心が晴れないアヨンは、ジョンウにもモヤモヤ。雨模様の乙女心にジョンウの歌が優しく響く。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>晩酌の流儀５_[第4話 「えのきステーキ」]</title>
-    <id>https://tver.jp/episodes/epezkn07b1</id>
-    <updated>2026-10-24T01:23:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epezkn07b1" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr32wpyhyv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 晩酌の流儀５
-                &lt;a href="https://tver.jp/series/sr32wpyhyv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)01時23分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年01月09日(土)00時51分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epezkn07b1.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                究極の晩酌に全てを捧げる伊澤美幸（栗山千明）は、ある日突然、心の声が聞こえるようになる！周囲の人間だけでなく、犬や缶ビール心の声まで聞こえるようになった美幸はうまく接客ができず四苦八苦。八百屋店主の馬太郎（片岡鶴太郎）に思わず悩みを打ち明けるが、馬太郎からは後継者にならないかと迫られてしまう!?そうして美幸は馬太郎から手に入れた極上の野菜で涙大根、えのきステーキ、野沢菜と豚肉の春雨煮を調理！　［期間限定無料配信］　テレビ東京にて10月2日(金)スタート！毎週金曜深夜24時52分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>まめとむぎ_[#4 これからは、隣にいる。]</title>
-    <id>https://tver.jp/episodes/epy65lb3hg</id>
-    <updated>2026-10-24T00:52:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epy65lb3hg" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra53ndlrw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ まめとむぎ
-                &lt;a href="https://tver.jp/series/sra53ndlrw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)00時52分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月31日(土)01時21分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy65lb3hg.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                過去の不倫で疎遠だった親友ルリ（石川瑠華）との関係に葛藤しつつ、〈大豆堂〉で喫茶店〈金魚鉢〉とコラボランチに挑む麦（齋藤飛鳥）。一方、まめ（富田望生）は偶然出会ったルリと酒を酌み交わし、発酵になぞらえた友情論を熱弁する。その言葉に背中を押されたルリは麦へ連絡を取り、夜の橋の上でついに再会。激しく本音をぶつけ合い和解した二人。絆を取り戻した麦は、まめから正式に店長になってほしいと頼まれ―。　［期間限定無料配信］　テレビ東京にて10月2日(金)スタート！毎週金曜深夜24時12分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>真田十勇士 SHADOWS OF THE TEN NINJA_[第1話　DESTINY ― 運命、始動。]</title>
-    <id>https://tver.jp/episodes/epqmuusd65</id>
-    <updated>2026-10-24T00:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epqmuusd65" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl8cvg6k3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 真田十勇士 SHADOWS OF THE TEN NINJA
-                &lt;a href="https://tver.jp/series/srl8cvg6k3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)00時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqmuusd65.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                徳川家康（内藤剛志）が豊臣政権を打ち破った関ヶ原の戦いから14年――。豊臣方に加勢した武将・真田幸村（安藤政信）は、今もなお高野山麓にある九度山に幽閉。人知れず家臣として仕え続ける孤高の忍・霧隠才蔵（中川大志）ら、真田の勇士たちとともに息を潜める生活を送っていた。一方、忠義とは無縁、自由気ままな生活を送る一匹狼の忍がいた。その忍とは…抜群の身体能力と忍術を誇りながらも、主君を持たず、盗みを繰り返して生きる猿飛佐助（岩本照）！ 彼はある日、かつて忍術を叩き込んでくれた師匠・白雲斎（唐沢寿明）と、5年ぶりに再会。「力は人のために使え」と諭されるも、真っ向から反発する。その矢先のことだ。白雲斎のもとに、徳川の忍・服部半蔵（中村獅童）が出現。佐助の運命を大きく揺るがす悲劇が起こってしまう！ そんな中、佐助は白雲斎から託された「九度山へ向かえ」という言葉を胸に、幸村のもとへ。ところがその眼前に、才蔵ら真田の勇士たちが立ちはだかり…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ゆかりくんはギャップがずるい_[第8話　ままならないけど、愛おしい]</title>
-    <id>https://tver.jp/episodes/epllj5a2ko</id>
-    <updated>2026-10-23T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epllj5a2ko" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srofqchtnc.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ゆかりくんはギャップがずるい
-                &lt;a href="https://tver.jp/series/srofqchtnc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月06日(金)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epllj5a2ko.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                華琳（速瀬愛）の実家に散らばった楽譜を目にした芽衣子（渡邉美穂）は、彼女の本心を知る。芽衣子は自らの経験も重ね合わせて「夢は大抵叶わない」と現実を突きつけながらも、華琳を優しく励まし、華琳の背中を押すのだった。&lt;br&gt;帰り道、ゆかりくん（高尾颯斗）と芽衣子は寄り道をして海辺を散歩する。長らく会えなかった二人は、以前のように楽しいひとときを過ごしていた…かに見えたとき、突如芽衣子が口を開く。「私たち、先生と生徒に戻ろう」と言うのだ。突然の提案に、ゆかりくんは動揺しながら募る思いがあふれ出てしまい…。&lt;br&gt;二人のままならない人生や恋の行方やいかに――！？
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
