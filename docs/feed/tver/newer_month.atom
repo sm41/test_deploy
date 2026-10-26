@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-27T00:05:22+09:00</updated>
+  <updated>2026-10-27T02:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>お前のほうからキスしてくれよ_[第2話 バカな真似]</title>
+    <id>https://tver.jp/episodes/eprr07hwbc</id>
+    <updated>2026-10-27T01:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprr07hwbc" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9f5090wx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ お前のほうからキスしてくれよ
+                &lt;a href="https://tver.jp/series/sr9f5090wx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月27日(火)01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月15日(火)01時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprr07hwbc.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                上野は大型案件を受注した神田にお祝いを贈ろうとするが、過去の恋愛のトラウマから躊躇ってしまう。今の関係を壊さないようにうかつなことはしないと自分に言い聞かせる上野。一方神田は、上野から会社ではあまり絡まないでほしいと言われ、同僚との会話にも気を遣っていた。そんな中、神田の計らいで営業部の慰労会に上野も参加することになり…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>十六夜膳房 -いざよいぜんぼう-_[#3「ナポレオンケーキ」]</title>
+    <id>https://tver.jp/episodes/ep9yplsju8</id>
+    <updated>2026-10-27T00:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep9yplsju8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srne6nwihe.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 十六夜膳房 -いざよいぜんぼう-
+                &lt;a href="https://tver.jp/series/srne6nwihe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月27日(火)00時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月24日(火)00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9yplsju8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                元人気アイドル・遠山千種(石野真子)に、涙ながらに謝罪する黒無常一号(鈴木伸之)。彼は、もともと死者でありながら、黄泉の食堂にとどまり千種が来るのを30年以上も待ち続けていた。孟婆(中村蒼)は、一号がこの食堂で頼んだナポレオンケーキを作る。一号の心残りと謝罪の意味とは…？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>妻を引退します_[第４話　絡み合う２０年前の因縁]</title>
     <id>https://tver.jp/episodes/epc2qmm8kt</id>
@@ -831,105 +897,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 《原作・江國香織×主演・松田元太》&lt;br&gt;本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！&lt;br&gt;&lt;br&gt;靴職人の鯖崎涼（松田元太）は、筒井桃（加藤ローサ）と一緒にいるところを、桃の婚約者で自身の顧客である石羽拓（髙木雄也）に目撃されてしまう。ある日、石羽が鯖崎の店を訪れると、2人の間には張り詰めた緊張感が走り――!?&lt;br&gt;一方、鯖崎と“名前のない関係”に陥った桃は、二人の関係に興味津々な親友の堀田響子（大沢あかね）から「桃をそこまで夢中にさせる彼に会ってみたい」とせがまれる。&lt;br&gt;そんな中、鯖崎の前にはただならぬ関係を予感させる水崎葉月（片岡凜）が再び現れる。周囲の人間関係が不穏な気配をまとう中、桃と鯖崎は互いに引き寄せられていくが……。&lt;br&gt;それぞれの嫉妬と執着が渦巻き、大人の恋愛群像劇は、より深く複雑に絡み合っていく――！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>あにいもうと_[#2 兄という悪夢]</title>
-    <id>https://tver.jp/episodes/epts3oi103</id>
-    <updated>2026-10-24T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epts3oi103" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjoewwreg.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ あにいもうと
-                &lt;a href="https://tver.jp/series/srjoewwreg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epts3oi103.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                市民病院の医師・奈緒（榮倉奈々）と造船所で働く修司（赤楚衛二）。&lt;br&gt;奈緒が修司の妹・絵里（宮﨑優）の担当医になったことで、2人の距離は少しずつ近づき始める。&lt;br&gt;そんなある日、修司の家が火事になり、祖母・さと江（竹下景子）が帰らぬ人に…。すると葬儀場に、幼い修司と絵里を残して出て行った母・真里子（赤間麻里子）が現れて…!?&lt;br&gt;その頃、刑事の山本（高橋克実）は、この火事には事件性があるのではないかと疑い始めていた。奈緒もまた、火災現場で見かけた兄・亮介（木村達成）の姿に不安を覚えていて――。&lt;br&gt;そんな中、絵里が日本でも有数の名医・沢辺（仲村トオル）の治験の対象者に選ばれる。&lt;br&gt;&lt;br&gt;修司の大切な人を奪った火事は事故なのか？　それとも――。深まっていく愛と疑惑。そして、2組の兄・妹に襲いかかる不協和音。ついに交わり始めた4人の運命が急速に動き始める――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>おいしい給食 season4_[第2話「もずくの数だけ抱きしめて」]</title>
-    <id>https://tver.jp/episodes/epxacjij0u</id>
-    <updated>2026-10-24T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epxacjij0u" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ おいしい給食 season4
-                &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)21時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxacjij0u.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                甘利田（市原隼人）の給食道に突如割り込んできた転校生・レン（橋本偉成）。絶対に負けられない戦いが、ここ南国でも始まった。一方、1年1組の教室では、給食リクエスト大会に向けた話し合いが行われていた。何としてでも【ポーク玉子おにぎり】に一票を入れたい甘利田は、生徒たちをなんとか誘導しようと奮闘。今日の給食のメインは【もずく丼】。この地で1、2位を争う人気献立に心躍らせる甘利田だが、思わぬ事態が待ち受けていた――。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>俺たちの箱根駅伝_[#3 最強の難敵登場!!池井戸潤原作]</title>
-    <id>https://tver.jp/episodes/epz7e2yz00</id>
-    <updated>2026-10-24T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epz7e2yz00" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxehhz42z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 俺たちの箱根駅伝
-                &lt;a href="https://tver.jp/series/srxehhz42z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz7e2yz00.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                中継の要であるセンターアナが緊急入院!徳重(大泉洋)と菜月(伊藤沙莉)は、局内屈指のクセ者・辛島(竹中直人)に依頼するが拒否される。すると黒石編成局長(高橋克典)がバラエティーアナを推薦し、中継チームに激震が!一方、学生連合の監督・甲斐(山下智久)は、因縁の相手・平川(山本耕史)と再会。大胆な目標を嘲笑される中、キャプテン・隼斗(小林虎之介)がレースで失速!次々と襲い掛かる試練に、逆転はあるか!?
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
