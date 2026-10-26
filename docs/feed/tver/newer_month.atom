@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-26T02:05:10+09:00</updated>
+  <updated>2026-10-26T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕切人_[第２話　もしも勇次の糸が切れたら]</title>
+    <id>https://tver.jp/episodes/epdg3geq9j</id>
+    <updated>2026-10-26T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epdg3geq9j" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕切人
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月26日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月05日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdg3geq9j.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                江戸で、町人が行方不明になる事件が相次いだ。新吉の店のお君や大工の政吉、お清らも行方がわからない。竜之助らは山中で、人間を標的に大砲の試射をする武士たちを目撃。重傷を負った標的の一人が死に、それが政吉だった。葛西藩家老守口が、藩主や回船問屋と組んで何ごとかたくらんでいる様子だ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第14話　傷ついた美人図]</title>
+    <id>https://tver.jp/episodes/epumkpx3k5</id>
+    <updated>2026-10-26T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epumkpx3k5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月26日(月)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月24日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月26日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epumkpx3k5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                美人図が盗難未遂に遭い、現場で警備員をしていたハッキュは警察に連行される。父親の無罪を信じるチョンイは、その証拠を探そうとするが、なかなか見つからない。そんなチョンイを助けようと、プンドも調べ始める。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>SQUALL_[#2 コピの香りが導く場所]</title>
     <id>https://tver.jp/episodes/epxoml8szz</id>
@@ -798,105 +864,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 セヨンは葬儀のあとでギョンヘを訪ねウン会長の復讐をすると宣言する。&lt;br&gt;そんな中、会長に就任したギョンヘは、遺言どおりセヨンに会社を分け代表の座につける。&lt;br&gt;だが、それはセヨンを陥れるためだった。セヨンの出生の秘密を知ったピルモクは、今まで自分をだまし続けたヨンスクに不信感を隠すことはできなかった。&lt;br&gt;一方でジェジュンは代表に就任したセヨンに、恋愛関係は継続できないが陰となり彼女を守ると誓う。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>イ・サン_[第15話「護衛官への道」]</title>
-    <id>https://tver.jp/episodes/epyc8a6yn8</id>
-    <updated>2026-10-23T15:56:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epyc8a6yn8" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ イ・サン
-                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)15時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)15時56分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyc8a6yn8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                サンはソンヨンを宮殿の書庫に案内し、ソンヨンの手を取り、古い慣わしに囚われず画員を目指せと励ます。するとちょうどそこへ、サンの正室ヒョイがやってくる。今回の事件で手柄を立て、しかも古くからの友人でもあると、サンにソンヨンを紹介されたヒョイは、ソンヨンが以前実家で菓子を作るのを手伝ってくれた図画署の茶母であることに気づき、深い縁を感じる。&lt;br&gt;一方ファワンがサンの敵の一人であることを突き止めることに貢献したホン・グギョンは、思惑通りサンの側近に。サンはホン・グギョンに、不正せずにテスを武科に合格させるよう命じる。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>王女の男_[第22話「哀しき友情」]</title>
-    <id>https://tver.jp/episodes/epo3ngzk10</id>
-    <updated>2026-10-23T13:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epo3ngzk10" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraaa4m6xm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 王女の男
-                &lt;a href="https://tver.jp/series/sraaa4m6xm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)13時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)13時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo3ngzk10.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                スンユとセリョンを追って、シン・ミョンがチョン・ジョンの流刑先にやって来る。セリョンは一旦は捕まってしまうものの、敬恵王女とチョン・ジョンの力添えもあり、スンユはセリョンを連れ馬で逃げる。だがチョン・ジョンが檄文を見つけられ、捕らえられてしまう。それを知り、セリョンと敬恵王女を連れ急いで都へ戻るスンユ。檄文を見て激怒したスヤン大君は、翌日直ちにチョン・ジョンを処刑することに。スンユが自分を助けに来て、待ち構えるシン・ミョンに捕まることを心配したチョン・ジョンは、面会に来た敬恵王女に、処刑が明日であることをスンユには伏せておくよう言う。スンユがそれを知り、処刑場に駆けつけた時には、すでに刑は執行された後だった。親友を救えず、泣き崩れるスンユ。&lt;br&gt;セリョンは寺で偶然母ユン氏に会い、弟が病床にあることを知る。弟のことは心配だが、戻ってくるよう諭す母の言葉には耳を貸さないセリョン。&lt;br&gt;亡き恩師や親友に託された使命を果たすため再び挙兵の計画を進め始めたスンユは、拠点を咸吉道へ移すことに。だがセリョンがスヤンの娘と知った同志たちは彼女が同行することに反対する。&lt;br&gt;&lt;br&gt;【毎週金曜ひる12時 BS朝日で2話連続放送】
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>王女の男_[第23話「王室からの抹消」]</title>
-    <id>https://tver.jp/episodes/ep0okn83s9</id>
-    <updated>2026-10-23T13:55:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep0okn83s9" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraaa4m6xm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 王女の男
-                &lt;a href="https://tver.jp/series/sraaa4m6xm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月23日(金)13時55分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月30日(金)13時55分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月23日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0okn83s9.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                挙兵するため咸吉道へ向かうスンユ。セリョンは都へ残ることを決め、弟スンが病の床に臥す実家へ戻る。だがスンは間もなく他界。スヤン大君は後継ぎを失い悲嘆に暮れる。彼は、スンユの居場所を言おうとしないセリョンに怒り、すべての記録から彼女に関する記述を抹消した上、自分の前に二度と姿を見せるなと彼女を追い出す。再びシン・ミョンの使用人として暮らし始めるセリョン。&lt;br&gt;咸吉道に到着したスンユは、地元の反乱軍とともに次々と官軍を倒す。その報告を受け、今度こそスンユの首を取れとシン・ミョンを送り込むスヤン大君。シン・ミョンは、目の前でキム・スンユを殺してやると、セリョンも連れてゆく。スヤン大君の信頼を回復するため何としてもスンユを倒したいシン・ミョンだが、反乱軍の拠点は険しい山の中にあり探し出すことは難しい。そこへハン・ミョンフェが現れる。シン・ミョンに不審を抱くスヤン大君が送り込んだのだ。ハン・ミョンフェはセリョンを餌にしてスンユをおびき出せと命ずる。それを知ったセリョンはスンユに知らせるため、シン・ミョンのもとを馬で逃げ出し山奥としか分からない反乱軍の拠点へ向かう。&lt;br&gt;&lt;br&gt;【毎週金曜ひる12時 BS朝日で2話連続放送】
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
