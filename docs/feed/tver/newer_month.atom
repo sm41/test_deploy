@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-27T14:05:10+09:00</updated>
+  <updated>2026-10-27T16:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第17話「決死の身代わり」]</title>
+    <id>https://tver.jp/episodes/epftawz40u</id>
+    <updated>2026-10-27T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epftawz40u" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月27日(火)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月03日(火)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epftawz40u.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                国王、英祖（ヨンジョ）が行幸先の村で疫病にかかり倒れてしまう。どうやら村の疫病患者たちを見舞った際に感染したらしい。村には薬も満足にないが、高齢で体力のない英祖に都まで長旅をさせるわけにもいかず、一行は村で英祖の回復を待つことになる。&lt;br&gt;英祖が倒れたとの報を聞いた王妃は、もし英祖が回復しなかった場合にサンが王位に就いてしまうことを恐れ、サンを生きて宮殿に帰してはならないと重臣チェ・ソクチュに書状を送る。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>SBS縦ドラマ劇場「ダウトコール」_[ダウトコール〜あなた、浮気されてますよ〜第３話]</title>
     <id>https://tver.jp/episodes/ep4uu7fsd6</id>
