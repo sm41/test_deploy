@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-27T02:05:10+09:00</updated>
+  <updated>2026-10-27T10:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕切人_[第３話　もしもお江戸にピラミッドがあったら]</title>
+    <id>https://tver.jp/episodes/epc7n4mqxa</id>
+    <updated>2026-10-27T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epc7n4mqxa" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕切人
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月27日(火)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月06日(金)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc7n4mqxa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                秩父の山中に四角錘の岩山があり、それを見た者は生きて帰れないとのうわさがたった。そんな中、鋳物職人の源次が行方不明になった。源次の家には、きのという女が出入りしていた。岩山は小判の秘密の鋳造工場で、きのはその人集めだった。そのきのが勇次を誘い、岩山へ連れて行く。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第15話　2人は姉妹]</title>
+    <id>https://tver.jp/episodes/eprfgr46pu</id>
+    <updated>2026-10-27T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprfgr46pu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月27日(火)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月25日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月27日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprfgr46pu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                父への疑惑を晴らすため、美人図が偽物であることを証明しようとするチョンイ。一方、自分のカメラに偶然映り込んでいた真犯人らしき人物が、ピルドゥの手下だと気づくジナ。そんな２人が姉妹であることを、ピルドゥが知る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>お前のほうからキスしてくれよ_[第2話 バカな真似]</title>
     <id>https://tver.jp/episodes/eprr07hwbc</id>
@@ -864,39 +930,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 12年ぶりに新たに友達ができた40歳・元引きこもりの田村ウズメ（イモトアヤコ）。次に挑戦するのは選挙のウグイス嬢！？&lt;br&gt;便利屋・救ちゃんの興梠（白洲迅）に連れてこられたのは、市議選に無所属で立候補する赤壁ゆうき（三浦健人）の事務所。興梠の後輩だという赤壁と握手したウズメは思わず呟く。&lt;br&gt;「手、冷たいですね」&lt;br&gt;一方、興梠はかつての恋人・茉莉花（黒川智花）と久しぶりに再会する。そんな茉莉花のもとに、ある手紙が届く。&lt;br&gt;「世の中を変えたいなんて信念はない」と語る赤壁に、ウズメは手伝う気が萎えかけるが、そんな中、他党の候補者・青木（長島慎治）がトラブルに巻き込まれているところに遭遇し・・・。&lt;br&gt;果たして赤壁の中にある“本当の思い”とは！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>はだかんぼうたち_[第4話 好きだ、と告げる胸の鼓動]</title>
-    <id>https://tver.jp/episodes/epa5z1m6q8</id>
-    <updated>2026-10-24T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epa5z1m6q8" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqgpn465t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ はだかんぼうたち
-                &lt;a href="https://tver.jp/series/srqgpn465t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月24日(土)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年10月31日(土)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa5z1m6q8.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                《原作・江國香織×主演・松田元太》&lt;br&gt;本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！&lt;br&gt;&lt;br&gt;靴職人の鯖崎涼（松田元太）は、筒井桃（加藤ローサ）と一緒にいるところを、桃の婚約者で自身の顧客である石羽拓（髙木雄也）に目撃されてしまう。ある日、石羽が鯖崎の店を訪れると、2人の間には張り詰めた緊張感が走り――!?&lt;br&gt;一方、鯖崎と“名前のない関係”に陥った桃は、二人の関係に興味津々な親友の堀田響子（大沢あかね）から「桃をそこまで夢中にさせる彼に会ってみたい」とせがまれる。&lt;br&gt;そんな中、鯖崎の前にはただならぬ関係を予感させる水崎葉月（片岡凜）が再び現れる。周囲の人間関係が不穏な気配をまとう中、桃と鯖崎は互いに引き寄せられていくが……。&lt;br&gt;それぞれの嫉妬と執着が渦巻き、大人の恋愛群像劇は、より深く複雑に絡み合っていく――！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
