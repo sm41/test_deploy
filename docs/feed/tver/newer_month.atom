@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-28T20:05:12+09:00</updated>
+  <updated>2026-10-28T22:05:15+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ボーダーズ　警視庁特殊事件対策班_[まだ間に合う！＜3話見どころ＞10月30日(金)21時放送]</title>
+    <id>https://tver.jp/episodes/epp7vvrow5</id>
+    <updated>2026-10-28T21:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epp7vvrow5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf0ks8tb3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ボーダーズ　警視庁特殊事件対策班
+                &lt;a href="https://tver.jp/series/srf0ks8tb3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月28日(水)21時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月06日(金)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月24日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp7vvrow5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ＼主演：沢村一樹 × 共演：高杉真宙、玉城ティナ、水沢林太郎、眞島秀和／&lt;br&gt;【テレ東系・毎週金曜よる9時～放送中！】&lt;br&gt;&lt;br&gt;異なる特技を持つプロフェッショナル5人の特設チームが、&lt;br&gt;「縦割り」組織では対応できない“境界線の事件”を痛快に解決!!&lt;br&gt;組織の垣根を乗り越え、隠された真実を暴き出す本格派警察サスペンス。　テレビ東京にて10月16日(金)スタート！毎週金曜夜9時より放送！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season4_[第1話 東京都清瀬市のもやしと肉のピリ辛イタメ]</title>
     <id>https://tver.jp/episodes/ep0k47tmft</id>
