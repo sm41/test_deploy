@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-28T14:05:10+09:00</updated>
+  <updated>2026-10-28T16:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第18話「握りつぶされた王命」]</title>
+    <id>https://tver.jp/episodes/ep9eg0kx9f</id>
+    <updated>2026-10-28T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep9eg0kx9f" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月28日(水)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月04日(水)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月28日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9eg0kx9f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                行幸先で疫病にかかり宮殿に戻れない王に代わって宮中を取り仕切るサン。王に宮中を任された以上、すべてに最善の処置をとろうとするサンは、貞純（チョンスン）王妃に逆らい、自分の言葉を王命と受け止めて従えと言い放つ。その態度に怒りを募らせる王妃とファワン。&lt;br&gt;王とともに行幸先で足止めを食らっているチェ･ソクチュとチョン･フギョムは、サンに朝廷を牛耳られてはなるまいと、英祖を連れて宮殿に戻るために医官を無理やり説得する。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕切人_[第４話　もしも狼男が現れたら]</title>
     <id>https://tver.jp/episodes/epu5xip2fv</id>
