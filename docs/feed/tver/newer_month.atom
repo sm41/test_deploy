@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-29T12:05:09+09:00</updated>
+  <updated>2026-10-29T14:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>双燕秘抄 乱世を舞う二羽の絆_[第5話]</title>
+    <id>https://tver.jp/episodes/epnc2vzbyu</id>
+    <updated>2026-10-29T13:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epnc2vzbyu" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr34xuma9t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 双燕秘抄 乱世を舞う二羽の絆
+                &lt;a href="https://tver.jp/series/sr34xuma9t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月29日(木)13時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月13日(金)12時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月29日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnc2vzbyu.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                両親の合葬を口実に、京州の城門を出るための令牌を陳文徳(ちん・ぶんとく)から手に入れた茉喜(まつき)。だが真の目的は、万嘉桂(ばん・かけい)と共に逃げ出すことである。京州育ちで地理に詳しい茉喜が立てた綿密な逃亡計画を聞かされた嘉桂は、思わず感心してしまうのだった。一方の白鳳瑶(はく・ほうよう)は、白家のせいで文徳に嫁ぐ羽目になった茉喜に申し訳なさを感じていた。だが、嫌がるどころか高価な嫁荷を喜んで受け取った茉喜を思い出して、ある考えが思い浮かび…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕切人_[第５話　もしも鳥人間大会で優勝したら]</title>
     <id>https://tver.jp/episodes/ep4xvhabxl</id>
@@ -109,7 +142,7 @@
         &lt;/body&gt;    </content>
   </entry>
   <entry>
-    <title>メリーベリーラブ_[第4話]</title>
+    <title>メリーベリーラブ_[第4話 運命のキス！]</title>
     <id>https://tver.jp/episodes/eppq0fvlew</id>
     <updated>2026-10-29T02:00:00+09:00</updated>
     <link href="https://tver.jp/episodes/eppq0fvlew" />
