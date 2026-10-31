@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-10-31T20:05:09+09:00</updated>
+  <updated>2026-10-31T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>おいしい給食 season4_[第3話「南海の青軍曹　グルクン」]</title>
+    <id>https://tver.jp/episodes/epoq04icol</id>
+    <updated>2026-10-31T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epoq04icol" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ おいしい給食 season4
+                &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月31日(土)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月26日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月31日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoq04icol.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                朝から緊急職員会議が行われている。お題は「瓶牛乳廃止検討会」。甘利田（市原隼人）は、なんとか阻止しようと、瓶牛乳への愛を隠しながら、あの手この手で廃止反対を訴える。甘利田の猛烈な意見に、一度給食センターに差し戻されることになりほっとする。今日の給食は【グルクンの唐揚げ】。骨まで食べられるカルシウムモンスターだ。喜び勇んでグルクンに対峙した甘利田だったが、なんと今日のグルクンの衣は、あろうことか、フニャフニャだった…
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>俺たちの箱根駅伝_[#4 学生連合は廃止!?駅伝中継にも猛批判!! 池井戸潤原作]</title>
+    <id>https://tver.jp/episodes/ep85z79lz1</id>
+    <updated>2026-10-31T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep85z79lz1" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxehhz42z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 俺たちの箱根駅伝
+                &lt;a href="https://tver.jp/series/srxehhz42z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年10月31日(土)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月07日(土)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月31日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep85z79lz1.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                中継ポイントの下見に向かった徳重(大泉洋)たち。菜月(伊藤沙莉)は迫力ある映像を届けるため、新たな中継プランを提案するが、地元住民から猛反発を受け、技術スタッフと衝突!一方、甲斐監督(山下智久)が掲げる「本選3位以上」という学生連合の目標に、王者・東西大の平川監督(山本耕史)が敵意むき出し!学生連合廃止を訴える事態に。ようやくまとまりかけたチームに動揺が広がる中、北野コーチ(駿河太郎)が裏切り…?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>法医学者マダム・エール_[第11話「肌の中に 前編」]</title>
     <id>https://tver.jp/episodes/epqqs2pk8w</id>
