@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-01T02:05:10+09:00</updated>
+  <updated>2026-11-01T10:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>＆Hulu_[メガヒットシリーズ「S.W.A.T.」シーズン1第1話をご紹介！特殊武装戦術部隊の隊員たちが緊迫の銃撃戦を繰り広げ凶悪事件に立ち向かう迫力満点のアクションドラマ]</title>
+    <id>https://tver.jp/episodes/ep7mfrwict</id>
+    <updated>2026-11-01T02:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7mfrwict" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sra0rjkmpz.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ＆Hulu
+                &lt;a href="https://tver.jp/series/sra0rjkmpz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)02時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月14日(土)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月31日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7mfrwict.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                『ワイルド・スピード』シリーズのスタッフが放つ、メガヒットアクションシリーズ「S.W.A.T.」シーズン1第1話をご紹介！▼ロサンゼルスで発生した銃撃事件に出動した特殊武装戦術部隊「S.W.A.T.」。犯人を追跡する中、リーダーのバックが無関係の少年を誤射してしまい懲戒免職に。新たなリーダーに任命されたホンドーは仲間との葛藤を抱えながらも新生「S.W.A.T.」チームで凶悪事件に立ちむかっていく…&lt;br&gt;(C) 2017, 2018 Sony Pictures Television Inc. and CBS Studios Inc. All Rights Reserved.
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ただ愛する仲_[第17話]</title>
     <id>https://tver.jp/episodes/ep0sr5nvzp</id>
