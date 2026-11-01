@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-02T00:05:11+09:00</updated>
+  <updated>2026-11-02T02:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>SQUALL_[#3 バクテーの湯気に儚い記憶]</title>
+    <id>https://tver.jp/episodes/ep2p0qzq41</id>
+    <updated>2026-11-02T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep2p0qzq41" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq0nw99e2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ SQUALL
+                &lt;a href="https://tver.jp/series/srq0nw99e2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月21日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2p0qzq41.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                瑛太（吉澤要人）はルン（グレン・ヨン）の存在と“２０３”の秘密を知っていたーー。&lt;br&gt;&lt;br&gt;記憶を失いながらも、疑念を募らせてしまうサクラ（莉子）は、&lt;br&gt;訪れた“２０３”に残されたノートと記憶の断片を手がかりに、&lt;br&gt;失われた４年前の記憶をたどる。&lt;br&gt;&lt;br&gt;そしてサクラと同じように、導かれるように同じ店に現れたのはルンだった。&lt;br&gt;「会える気がした…なぜかわからないけど」。&lt;br&gt;記憶を失ったはずのサクラとルンだが、&lt;br&gt;２人の失われた過去が静かに重なり始めるーー。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ハイド＆シーク 0秒前の彼女_[第5話 裏切り者は誰だ！？]</title>
     <id>https://tver.jp/episodes/ep6slgpb15</id>
