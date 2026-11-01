@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-01T16:05:11+09:00</updated>
+  <updated>2026-11-01T18:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第24話「疑惑のサキ！お前は人を殺したのか」]</title>
+    <id>https://tver.jp/episodes/ep6laoqkf3</id>
+    <updated>2026-11-01T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6laoqkf3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6laoqkf3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                青狼会を脱走した男から連絡を受けたサキは、男の指定した場所へ向う。男はサキを青狼会の刺客と思い、自殺してしまった。ショックを受けるサキ。サキのクラスに徳永一男という死んだ男、関口にそっくりの男が転校してきた。サキは戦う気力もなくしてしまう。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>＆Hulu_[メガヒットシリーズ「S.W.A.T.」シーズン1第1話をご紹介！特殊武装戦術部隊の隊員たちが緊迫の銃撃戦を繰り広げ凶悪事件に立ち向かう迫力満点のアクションドラマ]</title>
     <id>https://tver.jp/episodes/ep7mfrwict</id>
