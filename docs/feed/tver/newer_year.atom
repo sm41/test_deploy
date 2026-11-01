@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-01T20:05:10+09:00</updated>
+  <updated>2026-11-01T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>BARレモン・ハート_[ラベル・ストーリーズ]</title>
+    <id>https://tver.jp/episodes/eprphlca9j</id>
+    <updated>2026-11-01T21:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprphlca9j" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwkfk4yrm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ BARレモン・ハート
+                &lt;a href="https://tver.jp/series/srwkfk4yrm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)21時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprphlca9j.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                これがラストチャンス、松ちゃんがクビに！？人気雑誌に大抜擢され喜んだのも束の間、何故か浮かない顔の松ちゃん（松尾諭）。その雑誌の編集長は高岡という女性で、「鬼の高岡」で、通称「オニタカ」と呼ばれる程の厳しい人らしい。今夜は、鬼編集長にからダメ出しをされて、レモン・ハートに逃げこんだというわけだ。ところが、そのオニタカ（山村紅葉）がまさかの来店。松ちゃんは10秒以内にネタを上げろと迫られて、大ピンチ！マスター（中村梅雀）からの助け舟で、何とかその場をしのいだが…。オニタカはマスターの豊富な酒のネタにも納得せず、一筋縄ではいかない。松ちゃんの運命はいかに！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>琉球歴史ドラマ　阿麻和利_[第１話「新按司誕生」]</title>
     <id>https://tver.jp/episodes/epwdahi8zn</id>

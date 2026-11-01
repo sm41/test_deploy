@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-01T20:05:10+09:00</updated>
+  <updated>2026-11-01T22:05:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>泣いてたまるか_[おお独身くん！]</title>
+    <id>https://tver.jp/episodes/ep6l45sr62</id>
+    <updated>2026-11-01T20:50:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6l45sr62" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8a45d2k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 泣いてたまるか
+                &lt;a href="https://tver.jp/series/srv8a45d2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)20時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月30日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6l45sr62.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                仲買店に勤める小林政吉は、人がよくてまじめな男。ところがある日、誘拐犯と間違われてしまう。子供の母親がお詫びに政吉のもとを訪れるが・・・。&lt;br&gt;&lt;br&gt;※一部表現を無音処理している場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第24話「疑惑のサキ！お前は人を殺したのか」]</title>
     <id>https://tver.jp/episodes/ep6laoqkf3</id>
