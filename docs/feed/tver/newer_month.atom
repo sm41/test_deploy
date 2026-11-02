@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-02T16:05:10+09:00</updated>
+  <updated>2026-11-02T18:05:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ワカコ酒 Season5_[第6夜 大衆酒場ワカオ]</title>
+    <id>https://tver.jp/episodes/epheuernyf</id>
+    <updated>2026-11-02T17:45:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epheuernyf" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ ワカコ酒 Season5
+                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)17時45分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月16日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epheuernyf.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                新入社員の倉本（丹羽紀元）がミスをした。いつになく厳しい調子で叱るワカコ（武田梨奈）。周りに諫められ、もやもやとした気分で会社を出たが、そんな自分を元気づけようと大衆酒場にやって来る。寡黙な大将ワカオ（武田鉄矢）とアルバイトの八っちゃん（飯田祐真）が迎えてくれる居心地のいいお店。そこへ、後輩（本田響矢）を連れたサラリーマン（足立智充）がやって来る。つい二人の会話が耳に入るワカコ。するとワカオが……。　［期間限定無料配信］
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>人形の家～偽りの絆～（放送版）_[第48話]</title>
+    <id>https://tver.jp/episodes/epngv79xo5</id>
+    <updated>2026-11-02T17:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epngv79xo5" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmv5rv3n0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 人形の家～偽りの絆～（放送版）
+                &lt;a href="https://tver.jp/series/srmv5rv3n0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)17時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年05月02日(日)16時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epngv79xo5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ギョンヘは、ヒョジョンが自分にスランを殺害させて遺産相続資格を奪おうとたくらんでいることに気付き、毒を飲ませたフリをしてヒョジョンを欺く。&lt;br&gt;そんな中、ギョンヘからの連絡で、株の権利放棄書を持って駆けつけたセヨンは、階段から転落し意識を失って倒れているスランを発見しパニックに陥る。&lt;br&gt;これはギョンヘが意図していない事故だったが、それでも事故現場から、書類の入ったセヨンの鞄を奪うことは忘れなかった。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>イ・サン_[第21話「市場の反乱」]</title>
     <id>https://tver.jp/episodes/ep8tox1jny</id>
@@ -600,105 +666,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 雨宿りで出会った医者の橘（見津賢）との出会いに、早くも新たな恋の予感！とときめく千波（梅澤美波）。光（西垣匠）と彩世（加藤小夏）に「もう新しい男？」と呆れられながらも前向きな千波だったが、いざデートをしてみると、橘の何気ない言葉にどこか引っかかるものを感じてしまう。&lt;br&gt;光は恋人・陸（伊藤絃）との間に見えない壁を感じていた。一緒に暮らしながらも、光が近づこうとするほど陸は心を閉ざしていく。すれ違いが積み重なる中、光はある夜、やるせなさを抱えたまま一人で家を出てしまい…。&lt;br&gt;一方、会社で恋愛カルタの企画を進める彩世のもとには、営業部の村田（若林時英）がやたらと絡んでくる。マイペースを貫く彩世だが、村田から思いがけない一言を告げられ――。&lt;br&gt;それぞれの恋が、静かに、動き始める。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>はだかんぼうたち_[第5話 危険なほど、触れたい衝動]</title>
-    <id>https://tver.jp/episodes/epbdl9tesw</id>
-    <updated>2026-10-31T23:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epbdl9tesw" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqgpn465t.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ はだかんぼうたち
-                &lt;a href="https://tver.jp/series/srqgpn465t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月31日(土)23時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月14日(土)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月31日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbdl9tesw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                《原作・江國香織×主演・松田元太》&lt;br&gt;本能のままに生きる危険な男と、揺れ動く女性たちが繰り広げる、甘美で赤裸々なラブストーリー！&lt;br&gt;&lt;br&gt;靴職人の鯖崎涼（松田元太）は、筒井桃（加藤ローサ）と互いを縛らず、甘く満ち足りた時間を重ねていく。&lt;br&gt;しかし、鯖崎に執着をにじませる元恋人・水崎葉月（片岡凜）や、桃の「旧友」として寄り添う元婚約者・石羽拓（髙木雄也）。さらに、桃の親友・堀田響子（大沢あかね）と鯖崎との間についに接点が生まれ……。&lt;br&gt;それぞれの思いが交錯し、大人の恋愛群像劇は新たな局面を迎えていく――！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ほんとにあった怖い話_[ほんとにあった怖い話 秋の特別編2026]</title>
-    <id>https://tver.jp/episodes/ep22hdcde7</id>
-    <updated>2026-10-31T23:10:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep22hdcde7" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srp8nv9cy5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ほんとにあった怖い話
-                &lt;a href="https://tver.jp/series/srp8nv9cy5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月31日(土)23時10分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月14日(土)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月31日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep22hdcde7.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ■『深夜の鏡像』&lt;br&gt;入院中の少年が、病院の廊下にある鏡で不気味な女の姿を目撃する。鏡にまつわる恐怖体験を描く。&lt;br&gt;■『血ぬられた旅館』&lt;br&gt;友人と格安の温泉旅行に出かけた女性。旅館の部屋で見つけた、シミだらけのベッドに隠された秘密とは・・・。&lt;br&gt;■『死ねばよかったのに』&lt;br&gt;タクシー運転手が乗せた、奇妙な女。女の指示に従って山道を進むうち、想像を絶する恐怖に襲われる。&lt;br&gt;■『凶音の誘い』&lt;br&gt;薄暗い階段を下りた先にある不気味な地下倉庫。ひたすら、つきまとうこの世ならざる女。その正体とは！？&lt;br&gt;■『肩の女』&lt;br&gt;念願のラーメン店を開いた店主が、アルバイトの肩に取り憑く“上半身だけの女”を目撃する。店を襲う不可解な怪異とは！？&lt;br&gt;■『心霊写真』&lt;br&gt;一枚の写真に潜む、説明のつかない不気味な存在。写真に写り込んだ異様な光景が恐怖を呼び起こす・・・。&lt;br&gt;■『隣人』&lt;br&gt;念願の一人暮らしを始めた大学生、引っ越し先のアパートで不可解な現象に遭遇することに・・・。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>あにいもうと_[#3 裏切りの一夜…!!兄VS妹]</title>
-    <id>https://tver.jp/episodes/epsboc9bu5</id>
-    <updated>2026-10-31T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epsboc9bu5" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjoewwreg.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ あにいもうと
-                &lt;a href="https://tver.jp/series/srjoewwreg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年10月31日(土)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 10月31日(土)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsboc9bu5.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                重い病と闘う絵里（宮﨑優）の治験が始まって1カ月、病状が快方に向かい始める。担当医・奈緒（榮倉奈々）の報告を受け、絵里と兄の修司（赤楚衛二）は大喜び！念願の外泊も許可され、はしゃぐ絵里だったが、修司の家に奈緒が現れモヤモヤ…。奈緒と修司が楽しそうに話す姿が気に入らない絵里は、とうとう感情を爆発させてしまう。&lt;br&gt;また、奈緒は母・令子（原田美枝子）から、兄・亮介（木村達成）が姿を消して以降、18年もの長い間、ずっと隠してきたという衝撃的な秘密を打ち明けられる。&lt;br&gt;そんな中、刑事・山本（高橋克実）は、修司の家の火災にまつわる不可解な出来事に気づく。さらに、この火災に亮介が関わっているのではないかという疑惑も浮上して――。&lt;br&gt;&lt;br&gt;2組の《兄・妹》が背負うことになる罪と過ち。&lt;br&gt;絡まり合う4人の運命は――。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
