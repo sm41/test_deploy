@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-02T02:05:11+09:00</updated>
+  <updated>2026-11-02T10:05:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕切人_[第７話　もしも九官鳥が秘密をしゃべったら]</title>
+    <id>https://tver.jp/episodes/epm2v467a3</id>
+    <updated>2026-11-02T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epm2v467a3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕切人
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月12日(木)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epm2v467a3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                能楽の二代目家元・宝春の妻お秋が石黒谷の峡谷で転落死した。そのとき、お国らは竜之介の案内で野鳥探しに石黒谷の山中にいた。お国らは女の悲鳴を聞くとともに、不審な旅姿の二人の男と出会った。男は宝春の手下の者だった。お秋は女遊びの激しい宝春の命で殺されたのだ。お秋を殺した二人はお国に脅しをかける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第19話　早とちり]</title>
+    <id>https://tver.jp/episodes/ep6ibb10l3</id>
+    <updated>2026-11-02T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6ibb10l3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月01日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6ibb10l3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                チュボの御曹子であることをずっと隠していたプンドを責めるチョンイ。プンドもまた、チョンイをチュボのスパイだと思いこんでいて、2人は激しく言い争う。そんな中、行方知れずだったプンドの母が亡くなったとの知らせが。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>SQUALL_[#3 バクテーの湯気に儚い記憶]</title>
     <id>https://tver.jp/episodes/ep2p0qzq41</id>
