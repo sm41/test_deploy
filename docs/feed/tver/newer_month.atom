@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-03T00:05:13+09:00</updated>
+  <updated>2026-11-03T02:05:12+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>お前のほうからキスしてくれよ_[第3話 水面下の恋心]</title>
+    <id>https://tver.jp/episodes/ep7ot7p7im</id>
+    <updated>2026-11-03T01:15:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep7ot7p7im" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9f5090wx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ お前のほうからキスしてくれよ
+                &lt;a href="https://tver.jp/series/sr9f5090wx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)01時15分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月15日(火)01時15分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7ot7p7im.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                慰労会の後、家で飲み直そうと提案する神田に、上野は迷いながらもネクタイをプレゼントする。笑顔で喜ぶ神田を見て、上野はこの先もこんな時間を共有したいと思うが、本心はそっと胸にしまい込む。上野の家に泊まった翌朝、神田は朝早く仕事へ向かう上野を見送りながら、3年前、上野が神田にゲイであることを打ち明けた日のことを思い出していた。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>十六夜膳房 -いざよいぜんぼう-_[#4「ニラレバ炒め」]</title>
+    <id>https://tver.jp/episodes/epw4k3bv9g</id>
+    <updated>2026-11-03T00:59:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epw4k3bv9g" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srne6nwihe.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 十六夜膳房 -いざよいぜんぼう-
+                &lt;a href="https://tver.jp/series/srne6nwihe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)00時59分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月01日(火)00時23分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw4k3bv9g.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                死者のため“最後の一皿”を振る舞う料理人・孟婆(中村蒼)のもとに、トランスジェンダー女性・安藤輝(高山のえみ)がやって来る。彼女が頼んだのは『ニラレバ炒め』。そこには、女性として生きたい我が子を理解できない厳格な父の不器用な愛が込められていて…。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>妻を引退します_[第５話　大スキャンダルの告発]</title>
     <id>https://tver.jp/episodes/epn92pq5sv</id>
