@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-03T18:05:58+09:00</updated>
+  <updated>2026-11-03T20:05:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>波うららかに、めおと日和（2025）_[第9話 忘れることのない鮮やかな日々]</title>
+    <id>https://tver.jp/episodes/ep8va4camb</id>
+    <updated>2026-11-03T19:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep8va4camb" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5zjd5b8b.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 波うららかに、めおと日和（2025）
+                &lt;a href="https://tver.jp/series/sr5zjd5b8b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)19時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月10日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8va4camb.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：10月3日(土) ～ 11月13日(金)&lt;br&gt;#2：10月10日(土) ～ 11月13日(金)&lt;br&gt;#3：10月17日(土) ～ 11月13日(金)&lt;br&gt;#4：10月19日(月) ～ 10月26日(月)&lt;br&gt;#5：10月22日(木) ～ 10月29日(木)&lt;br&gt;#6：10月25日(日) ～ 11月1日(日)&lt;br&gt;#7：10月28日(水) ～ 11月4日(水)&lt;br&gt;#8：10月31日(土) ～ 11月7日(土)&lt;br&gt;#9：11月3日(火) ～ 11月10日(火)&lt;br&gt;#10：11月6日(金) ～ 11月13日(金)&lt;br&gt;&lt;br&gt;結婚して1年を迎えた江端なつ美（芳根京子）と瀧昌（本田響矢）。二人はなつ美の二番目の姉・あき奈（咲妃みゆ）の出産を手伝うため、なつ美の実家に来ていた。布団の中で苦しむあき奈の姿を見て、なつ美は自分の出産の時には瀧昌は仕事のため不在で、一人で産むことになるかもしれないと心細くなる。&lt;br&gt;一方、とんとん拍子で見合い話が進む芳森芙美子（山本舞香）と深見龍之介（小関裕太）。深見が喫茶店で待っていると、芙美子は妹の蓉子と弟の柊一と一緒に現れる。深見を敵視する蓉子と柊一に対し、笑顔で要領良く答える深見。そこへ蓉子が厳しい質問を投げかけ・・・。&lt;br&gt;その頃、あき奈の陣痛は強さを増していた。あき奈の世話をする中で、なつ美は自分に産めるのかと不安な気持ちになる。そんな中、ひたすら待ち続けていた瀧昌は、出産の大変さに驚く。明け方になり、いよいよ出産の時が近づいてくる。あき奈の絶叫で目覚めた瀧昌は、子どもを作ればなつ美に痛い思いをさせる、さらに自分はそばにいることができないかもしれない、と思いを巡らし・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『波うららかに、めおと日和』を全話配信中！名作ドラマを“イッキ見”できる！】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>Around40～注文の多いオンナたち～_[＃６ 格差恋愛の建前と本音]</title>
     <id>https://tver.jp/episodes/epsby5nnz7</id>
@@ -831,39 +864,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 借金を抱え、うだつのあがらないバイト生活に明け暮れる26歳フリーターの浅野加菜子（与田祐希）。公園で酒を飲み、看板に映るイケメン俳優（鈴木仁）を見て、華々しい世界を羨むばかりだった。そんなある日、バイトからの帰り道にライブ配信をしていると、偶然にも飲酒運転によるひき逃げ事故を目撃してしまう。とんでもないことが目の前で起きた加菜子は、迷いながらもその動画をSNSにアップする――。&lt;br&gt;そんな加菜子のもとに、突如「事故動画ネットにあげたでしょ」と、警察官の渡辺（櫻井海音）が現れる。&lt;br&gt;動画は瞬く間に拡散され、有名アナウンサー（清水伸）逮捕のきっかけとなり、ニュースでも取り上げられた加菜子は注目の的に。&lt;br&gt;賞賛の声と“いいね”の通知、リポストの数々。メディアに取り扱われ、初めて味わう“バズ”の快感に加菜子は承認欲求に溺れ、人生が変わっていく。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>復讐カレシ～溺愛社長の顔にはウラがある～_[#1「裏切りのキス、偽りの恋――復讐劇のスタート」《ドラマ特区》]</title>
-    <id>https://tver.jp/episodes/epilehr7gy</id>
-    <updated>2026-11-01T00:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epilehr7gy" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srftzwnrws.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 復讐カレシ～溺愛社長の顔にはウラがある～
-                &lt;a href="https://tver.jp/series/srftzwnrws" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)00時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月15日(火)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : MBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epilehr7gy.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                服部舞香（紺野彩夏）はホテル運営会社・バードレフトで働く会社員。３年付き合った社内恋愛中の恋人・的場成光（太田駿静）との記念日を迎え、彼からのプロポーズを密かに期待していた。しかしその夜、偶然にも彼が同僚の林田麗奈（和内璃乃）と浮気していることを知ってしまう……。翌日失意のまま出社した舞香。そんな彼女の前に現れたのは、新社長として就任した佐鳥駿（鈴木仁）。彼は佐鳥グループの御曹司であり、洗練されたルックスとオーラを持つ男だった。会社の中で舞香はさらに成光と麗奈のある光景を目撃、心が張り裂けそうになる瞬間、偶然通りがかった駿からある提案をされる。突拍子もない提案に戸惑いながらも、舞香は……!?&lt;br&gt;傷ついた心が導かれる先は、復讐か、それとも――。この出会いが彼女の運命を大きく揺るがすことを、まだ舞香は知らない。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
