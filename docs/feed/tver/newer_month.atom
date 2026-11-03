@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-03T14:06:02+09:00</updated>
+  <updated>2026-11-03T16:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第22話「流血の罠」]</title>
+    <id>https://tver.jp/episodes/ep519gxk6l</id>
+    <updated>2026-11-03T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep519gxk6l" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月10日(火)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep519gxk6l.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                摂政となって、貧しい民を救うための改革を進めるサン。だが、違法市場の自由化に反対する専売商人が、チョン・フギョムの指示で市場を閉め、さらに都に運び込まれるはずの品物をすべて買い占めてしまう。都では品不足の上に物価が高騰し、民の生活に支障をきたすように…。すべてチョン・フギョムの仕業だろうと踏んだホン・グギョンは、テスに彼の手下を見張らせ、チョン・フギョムが金で民を操り暴動を起こそうとしていると知るのだが…。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>SBS縦ドラマ劇場「ダウトコール」_[ダウトコール〜あなた、浮気されてますよ〜第４話]</title>
     <id>https://tver.jp/episodes/ep87rxgr0n</id>
@@ -534,39 +567,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 ギョンヘは、ヒョジョンが自分にスランを殺害させて遺産相続資格を奪おうとたくらんでいることに気付き、毒を飲ませたフリをしてヒョジョンを欺く。&lt;br&gt;そんな中、ギョンヘからの連絡で、株の権利放棄書を持って駆けつけたセヨンは、階段から転落し意識を失って倒れているスランを発見しパニックに陥る。&lt;br&gt;これはギョンヘが意図していない事故だったが、それでも事故現場から、書類の入ったセヨンの鞄を奪うことは忘れなかった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>イ・サン_[第21話「市場の反乱」]</title>
-    <id>https://tver.jp/episodes/ep8tox1jny</id>
-    <updated>2026-11-02T15:56:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8tox1jny" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ イ・サン
-                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)15時56分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)15時56分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8tox1jny.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                茶母のソンヨンが絵を描くことに反対する画員たちに、サンはソンヨンが画師の競技会で入賞したら、彼女の実力を認めるよう提案。そしてソンヨンは見事5位入賞を果たす。しかし、秋景を彩色画で描くという画題だったにもかかわらず墨だけで描かれたソンヨンの絵に、タク・チスたち画員は納得がいかない。&lt;br&gt;一方、英祖（ヨンジョ）に摂政を任されたサンは、貧しい闇商人たちが自由に商売ができるようにするため、ひそかに彼らの代表に会い、税を納めることに同意する署名を集めるよう告げる。そしてホン・グギョンに、老論（ノロン）派と専売商人たちが結託している証拠を集めるよう指示する。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
