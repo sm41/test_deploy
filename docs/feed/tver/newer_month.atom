@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-03T20:05:53+09:00</updated>
+  <updated>2026-11-03T22:05:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>kiDnap GAME_[第5話 ＜地上波版（日本語吹替）＞動き出したバディに襲いかかる黒い影～台北～]</title>
+    <id>https://tver.jp/episodes/epk1gqa7pa</id>
+    <updated>2026-11-03T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epk1gqa7pa" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3wsgs48k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ kiDnap GAME
+                &lt;a href="https://tver.jp/series/sr3wsgs48k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月10日(火)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk1gqa7pa.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ソウルで協力を約束した新出とキジュは台北に向かう。キジュが台北の参加者クリスティーナに見覚えがあるというからだ。クリスティーナは主婦モデルとして人気を博していたが、娘のレオナの目の前で夫のホアンを誘拐されていた。彼女のミッションは「不倫相手との映像を全世界に公開しろ」というもの。台北に着いた2人は、クリスティーナに連絡を取り、話を聞く。キジュはどこかで会ったことはないか？と尋ねるが、モデルとして活動しているから見たことがあるのでは？とそっけない対応だった。2人はクリスティーナが何かを隠していると感じて尾行していると、クリスティーナを追う怪しい男の影に気づく。新出は男たちを取り押さえ、締め上げようとすると、黒いセダンが猛スピードで突っ込んできた。間一髪で車を躱す新出は、ミッションクリアを阻む力の存在を思い知る。一方、クリスティーナは夫の為、家族再生のために、自らのキャリアを捨てて、指令を達成するべく、不倫相手のもとに向かう。盗撮されていた動画のデータを入手するためだ。クリスティーナが動画をアップロードしようとしたその時、それを止めようと新出が駆けつける。クリスティーナがEnterキーを叩いたその時・・・
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season4_[第5話 愛知県知多郡日間賀島のしらすの天ぷらとたこめし]</title>
     <id>https://tver.jp/episodes/epu1x1zwo1</id>
