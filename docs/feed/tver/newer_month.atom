@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-04T18:05:47+09:00</updated>
+  <updated>2026-11-04T20:06:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>孤独のグルメ Season4_[第6話 東京都江東区木場のチーズクルチャとラムミントカレー]</title>
+    <id>https://tver.jp/episodes/epjxl0bzs3</id>
+    <updated>2026-11-04T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epjxl0bzs3" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season4
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月04日(水)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月18日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjxl0bzs3.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                東西線木場駅から出てくる五郎。小雨の中、橋の向こうのフラワーショップを見る。女性店長（笛木優子）がかいがいしく働いているその店に向かう五郎。シングルマザーの集まるイベントに関するお願いをされるが……悩んでいるといつものごとくお腹がすいてきた。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>人形の家～偽りの絆～（放送版）_[第50話]</title>
     <id>https://tver.jp/episodes/epqyweslfq</id>
