@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-04T02:05:59+09:00</updated>
+  <updated>2026-11-04T10:05:58+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>時代劇シリーズ　必殺仕切人_[第９話　もしも女房が裸婦モデルになったら]</title>
+    <id>https://tver.jp/episodes/ep6jajfu8m</id>
+    <updated>2026-11-04T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep6jajfu8m" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕切人
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月04日(水)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月14日(土)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6jajfu8m.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                女流絵草紙作家おりょうと旗本小栗の仲が世間のうわさになっていた。小栗は元小普請組組頭。その小栗に寛永寺の天海が近づいてきた。大奥御殿改築に力を貸してほしいという。小栗は役職をかたに札差から改築費三千両を借り入れた。その金をもち、おりょうが姿を消した。お国らは天海一味の陰謀を知る。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第21話　幼いころの記憶]</title>
+    <id>https://tver.jp/episodes/ep19ytvic2</id>
+    <updated>2026-11-04T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep19ytvic2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月04日(水)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月03日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep19ytvic2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                子供の頃の記憶しかないプンドは、恋人だと名乗るジナと共に、家に帰る。会長のヨンインがプンドの祖母であることを初めて知ったふりをして恐縮するジナ。一方ピルドゥは、自分の計画を知っていたジナを脅威に感じる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>深夜食堂 ６_[第3話「ピリ辛こんにゃく」《ドラマイズム》]</title>
     <id>https://tver.jp/episodes/epndfs89lx</id>
@@ -303,72 +369,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 夫への誕生日プレゼントは、不倫の証拠——。突然帰宅した妻に凍りつく二人。許しを求める夫に、ひかりが下す決断とは？縦型ショートドラマが横型ドラマになって初登場！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>時代劇シリーズ　必殺仕切人_[第８話　もしも密林の王者が江戸に現れたら]</title>
-    <id>https://tver.jp/episodes/eph92ojcw4</id>
-    <updated>2026-11-03T09:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/eph92ojcw4" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕切人
-                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)09時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月13日(金)08時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph92ojcw4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                弓術月岡流の本家では当主弾正の弟利勝が部屋住みの身分に強い不満をもっていた。利勝同様、不満をつのらせていた彼の妻・お蘭は十蔵を頭目とする黒武者団たちを使ってひそかに恐ろしいたくらみを進めていた。山中でお清は思わぬことからこのお蘭の陰謀に巻き込まれる。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>龍王＜ヨンワン＞様のご加護_[第20話　命の恩人は誰？]</title>
-    <id>https://tver.jp/episodes/epg2fg7i7q</id>
-    <updated>2026-11-03T06:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epg2fg7i7q" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
-                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)06時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月02日(水)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg2fg7i7q.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                車にひかれそうになったプンドを、とっさに助けるチョンイ。居合わせたシジュンが救急車を呼び、2人は別の病院に運ばれる。プンドの病院には、ジナも入院していて、ジナは自分がプンドの命の恩人に成り済ますことを思いつく。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
