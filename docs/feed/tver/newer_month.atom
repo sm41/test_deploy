@@ -2,13 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-04T14:06:03+09:00</updated>
+  <updated>2026-11-04T16:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第23話「王妃の陰謀」]</title>
+    <id>https://tver.jp/episodes/eprw39o6so</id>
+    <updated>2026-11-04T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprw39o6so" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ イ・サン
+                &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月04日(水)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月11日(水)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprw39o6so.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                民の暴動で死傷者を出したことで、王はついに、サンの摂政を撤回する。&lt;br&gt;ホン･グギョンは、チョン･フギョムにはめられたとはいえ、サンの立場を考えて騒動の責任をとり、サンのもとを去ることに。サンも、信頼していた参謀を失うのは辛いがホン･グギョンの決意を受け入れる。&lt;br&gt;一方、貞純（チョンスン）王妃は、サンが世孫の地位を追われることを見越し、兄のキム･ギジュを平壌から宮中に呼び戻していた。彼女は王の死後自ら摂政を執るために、まだ幼く力も弱い、サンの義弟を次の世継ぎに据えようともくろむ。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>一筆お祓いいたします_[第11話 あなたじゃない]</title>
+    <id>https://tver.jp/episodes/epiohws5if</id>
+    <updated>2026-11-04T15:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epiohws5if" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqlb1d5j0.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 一筆お祓いいたします
+                &lt;a href="https://tver.jp/series/srqlb1d5j0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月04日(水)15時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月04日(金)15時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 三重テレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiohws5if.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                少女の失踪事件を解決した楮英(チューイン)は、長年希望していた捜査課に異動することに。喜んだ楮英は、一永(イーヨン)と光硯(グァンイェン)を呼び出し感謝を告げる。ところが、ある一言で一永を怒らせてしまう楮英。一方、一永は少女の遺体が見つかった廃墟を訪れていた。そこで一永は、夢で見た老女に出会うことに。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕切人_[第９話　もしも女房が裸婦モデルになったら]</title>
     <id>https://tver.jp/episodes/ep6jajfu8m</id>
@@ -274,6 +340,39 @@
         &lt;/body&gt;    </content>
   </entry>
   <entry>
+    <title>孤独のグルメ Season4_[第4話 東京都八王子市小宮町のヒレカルビとロースすき焼き風]</title>
+    <id>https://tver.jp/episodes/ep0204209g</id>
+    <updated>2026-11-03T18:25:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0204209g" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 孤独のグルメ Season4
+                &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)18時25分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月17日(火)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0204209g.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                八高線の小宮駅に降り立った井之頭五郎（松重豊）。駅前に何もないのにびっくりしつつ、地図を片手に目的の場所へ。待ち合わせ場所に谷村悠哉（野間口徹）が待っていた。居抜きの店舗を改装してイタリアンレストランを開くという。商談の途中で妻（松山愛里）がお弁当を持ってやって来たのだが、悠哉が食べ始めたそのお弁当から目が離せない五郎。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
     <title>人形の家～偽りの絆～（放送版）_[第49話]</title>
     <id>https://tver.jp/episodes/epm6m3tro9</id>
     <updated>2026-11-03T17:00:00+09:00</updated>
@@ -369,6 +468,72 @@
             &lt;hr&gt;
             &lt;p&gt;
                 夫への誕生日プレゼントは、不倫の証拠——。突然帰宅した妻に凍りつく二人。許しを求める夫に、ひかりが下す決断とは？縦型ショートドラマが横型ドラマになって初登場！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>時代劇シリーズ　必殺仕切人_[第８話　もしも密林の王者が江戸に現れたら]</title>
+    <id>https://tver.jp/episodes/eph92ojcw4</id>
+    <updated>2026-11-03T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eph92ojcw4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkloc6sh2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 時代劇シリーズ　必殺仕切人
+                &lt;a href="https://tver.jp/series/srkloc6sh2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月13日(金)08時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph92ojcw4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                弓術月岡流の本家では当主弾正の弟利勝が部屋住みの身分に強い不満をもっていた。利勝同様、不満をつのらせていた彼の妻・お蘭は十蔵を頭目とする黒武者団たちを使ってひそかに恐ろしいたくらみを進めていた。山中でお清は思わぬことからこのお蘭の陰謀に巻き込まれる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
+  <entry>
+    <title>龍王＜ヨンワン＞様のご加護_[第20話　命の恩人は誰？]</title>
+    <id>https://tver.jp/episodes/epg2fg7i7q</id>
+    <updated>2026-11-03T06:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epg2fg7i7q" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf6dtt3ph.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 龍王＜ヨンワン＞様のご加護
+                &lt;a href="https://tver.jp/series/srf6dtt3ph" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)06時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月02日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月3日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg2fg7i7q.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                車にひかれそうになったプンドを、とっさに助けるチョンイ。居合わせたシジュンが救急車を呼び、2人は別の病院に運ばれる。プンドの病院には、ジナも入院していて、ジナは自分がプンドの命の恩人に成り済ますことを思いつく。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
@@ -505,398 +670,35 @@
         &lt;/body&gt;    </content>
   </entry>
   <entry>
-    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第1話「登場！謎のスケバン鉄仮面」]</title>
-    <id>https://tver.jp/episodes/epud9aqefg</id>
-    <updated>2026-11-02T23:59:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epud9aqefg" />
+    <title>こちら予備自衛英雄補?!_[2話　サエの能力?!]</title>
+    <id>https://tver.jp/episodes/epxe7a86c7</id>
+    <updated>2026-11-03T00:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxe7a86c7" />
     <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpyus1d8b.jpg"&gt;
             &lt;hr&gt;
-            &lt;div&gt;🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
-                &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;div&gt;🎞️ こちら予備自衛英雄補?!
+                &lt;a href="https://tver.jp/series/srpyus1d8b" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
             &lt;/div&gt;
             &lt;table&gt;
                 &lt;th&gt;
                     &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)23時59分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年04月18日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月03日(火)00時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年01月05日(火)23時59分&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
                 &lt;th&gt;
                     &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 5月3日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 1月14日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
                     &lt;/td&gt;
                 &lt;/th&gt;
             &lt;/table&gt;
             &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epud9aqefg.jpg"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxe7a86c7.jpg"&gt;
             &lt;hr&gt;
             &lt;p&gt;
-                暗闇指令たちは、二代目麻宮サキを捜していた。全国のスケバンに、一代目麻宮サキのレベルにあわせた戦闘シュミレーションを行っていた。暗闇指令の部下、西脇が土佐のスケバン鉄仮面、五代陽子を指名。陽子はみごと戦闘シュミレーションをクリヤーした。陽子は自分の素性を知るため二代目麻宮サキを襲名するのだった。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>青と碧_[第5話　本当のキモチ]</title>
-    <id>https://tver.jp/episodes/ep2lh5svlf</id>
-    <updated>2026-11-02T23:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2lh5svlf" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srks3jf72s.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 青と碧
-                &lt;a href="https://tver.jp/series/srks3jf72s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)23時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)23時54分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2lh5svlf.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                社会人3年目となり、変わらず月一の食事会を重ねる二人。しかし碧（草川直弥）の心の中では、過去の記憶や「世間の普通」への葛藤が渦巻いていた。一方、青（知念英和）もまた「この関係を壊したくない」という怖さから、本音を聞けずにいる。そんな中、会社の同僚や友人との会話を通して、碧は長年閉じ込めてきた自分の本当の気持ちと向き合う覚悟を固める。帰り道、もう逃げないと決めた碧が、ついに青へ投げかけた言葉とは－－。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>サイバークライシス_[～備えよ能動的サイバー防御～　第一話]</title>
-    <id>https://tver.jp/episodes/ephq62jyz2</id>
-    <updated>2026-11-02T23:12:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ephq62jyz2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr39ikm05u.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ サイバークライシス
-                &lt;a href="https://tver.jp/series/sr39ikm05u" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)23時12分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年05月02日(日)23時12分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ愛知&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephq62jyz2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                愛知県にある機械部品メーカー・木川精機は発電所や鉄道会社に施設の部品などを収めている。木川精機総務部の多田啓二が懸念するのはサイバー攻撃への対応だ。社長の木川宗吾は「うちのような中小企業が狙われるはずはない」と高をくくるが、ある日、会社に取引先から一本の電話が…
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>南田南弁護士は天才肌_[#3 それが、私たちの現実です]</title>
-    <id>https://tver.jp/episodes/epikrjbomm</id>
-    <updated>2026-11-02T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epikrjbomm" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4clupwnv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 南田南弁護士は天才肌
-                &lt;a href="https://tver.jp/series/sr4clupwnv" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)22時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epikrjbomm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                宮地（山口馬木也）の案件を一緒に担当することになった南（芦田愛菜）。とある会社の会長宅で、自閉症の次男が長男を殴って死なせてしまったのだという。両親が駆けつけたとき、次男の惣介（大政凜）が「やめろ！やめろ！やめろ！やめろ！」と叫びながら兄に馬乗りになって顔や体を殴っていたといい、検察は死因となった胸部損傷も惣介によるものとみているが、詳しい聞き取りが困難で動機が分からない。&lt;br&gt;惣介を連れて事務所を訪れた両親は、南もまた自閉症だと知り、驚きの表情を見せる。惣介は大好きなウルトラマンゼロの服やグッズを身につけ、手には人形を持ち、じっと座っていることも難しい様子。だが攻撃的な一面を見せたことはなく、兄弟仲も良かったことから、両親も惣介が兄を暴行する理由に心当たりがないという。&lt;br&gt;南は早速、何があったのか聞き出そうとするが、「お兄さんになにかされましたか？」と聞いた次の瞬間、惣介は興奮状態に。予期せぬ事態に少し混乱を見せる南だったが、誠（角田晃広）に自閉症の人との関わり方についてアドバイスをもらうと、後日、再び惣介と対面。心を開いてもらうため、宮地と小春（久保史緒里）にも力を借り、ある作戦を実行する。しかし、思うようにはいかず、惣介からの聞き取りは困難を極める。&lt;br&gt;そこで南は、湊人（高橋文哉）とともに現場となった被害者の部屋を見せてもらうことに。すると、ひとつの仮説をひらめくが…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>飯を喰らひて華と告ぐ_[サムゲタン]</title>
-    <id>https://tver.jp/episodes/epioue2y6u</id>
-    <updated>2026-11-02T22:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epioue2y6u" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1v18zkpj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 飯を喰らひて華と告ぐ
-                &lt;a href="https://tver.jp/series/sr1v18zkpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)22時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)21時45分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ玉&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epioue2y6u.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                毎朝小学校の校門に立ち、生徒たちに笑顔を振りまく校長・向田。だがドライな今どきの小学生たちへのストレスと疲れから貧血で倒れ、早退を余儀なくされる。フラリと立ち寄った「一香軒」で、「何か精のつきそうなお料理を」とオーダーすると、店主は滋養満点のサムゲタンを作ると告げる。料理を待つ間、生徒たちから送られてきた激励動画を見て微笑む向田だったが、その音声を聞きなぜか店主も不敵な微笑みを浮かべていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>救命病棟24時_[第4話 出会いと別れ]</title>
-    <id>https://tver.jp/episodes/ep8ujbz1ie</id>
-    <updated>2026-11-02T21:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep8ujbz1ie" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkg7092fi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 救命病棟24時
-                &lt;a href="https://tver.jp/series/srkg7092fi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)21時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8ujbz1ie.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                小島楓（松嶋菜々子）と専攻医・宮沢蓮（木戸大聖）が、激しい背部痛を訴えて運び込まれてきた女性、立野瑞稀（白本彩奈）の両親に病状を説明している。CT検査の結果、瑞稀は大動脈解離だった。彼女の症状や検査について意見を交わす宮沢と天野智也（萩原利久）を、小島は頼もしげに見つめる。&lt;br&gt;するとスタッフステーションでは、看護師長の菅野心也（金田哲）が、看護師・畦地優夏（杏花）たち看護師に囲まれている。小島が声をかけると、研修医・柊木亜美良（白石聖）の看護師への対応が「いい加減だ」というクレームだった。美容クリニック開業の夢を持ち、「救命は100億もらっても無理」と公言し、マイペースを貫く柊木。小島が注意をするも、意に介さない。そんな柊木に進藤一生（江口洋介）は、瑞稀の採血をするよう指示を出す。病状も名前もあいまいだった柊木だが、偶然同じピアスを持っていたことから意気投合し、瑞稀との交流を深めていく。&lt;br&gt;一方、救命救急センターでは亡くなった患者の処置を終えた後、すぐに次の仕事へと切り替える上級医たちの姿があった。その様子に、柊木は「絶対、同じようになりたくない」と強く反発する。&lt;br&gt;そんな中、瑞稀の容体が急変する。進藤や小島らが懸命な処置にあたるが、柊木はショックのあまりその場に立ち尽くしてしまい…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ワカコ酒 Season5_[第6夜 大衆酒場ワカオ]</title>
-    <id>https://tver.jp/episodes/epheuernyf</id>
-    <updated>2026-11-02T17:45:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epheuernyf" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5s8yysdm.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ワカコ酒 Season5
-                &lt;a href="https://tver.jp/series/sr5s8yysdm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)17時45分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月16日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月2日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epheuernyf.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                新入社員の倉本（丹羽紀元）がミスをした。いつになく厳しい調子で叱るワカコ（武田梨奈）。周りに諫められ、もやもやとした気分で会社を出たが、そんな自分を元気づけようと大衆酒場にやって来る。寡黙な大将ワカオ（武田鉄矢）とアルバイトの八っちゃん（飯田祐真）が迎えてくれる居心地のいいお店。そこへ、後輩（本田響矢）を連れたサラリーマン（足立智充）がやって来る。つい二人の会話が耳に入るワカコ。するとワカオが……。　［期間限定無料配信］
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>華麗なるスパイス_[第22話 嫉妬で測れ 男の本気度]</title>
-    <id>https://tver.jp/episodes/ep5z7bbzyh</id>
-    <updated>2026-11-02T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5z7bbzyh" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ 華麗なるスパイス
-                &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月09日(月)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5z7bbzyh.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                少威(シャオウェイ)の助言を受け、廷恩(ティンエン)の愛を確かめるための“嫉妬作戦”を決行する芬青(フェンチン)。思惑通りヤキモチを焼く廷恩に忠告されるが、手応えを感じていた。そんな中、迎えた祖母の誕生会。芬青が渾身のカレー伊勢えびを披露する晴れ舞台の裏で、彼女を陥れようと不穏な動きを見せる影が忍び寄っていた……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>SQUALL_[#3 バクテーの湯気に儚い記憶]</title>
-    <id>https://tver.jp/episodes/ep2p0qzq41</id>
-    <updated>2026-11-02T00:40:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep2p0qzq41" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srq0nw99e2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ SQUALL
-                &lt;a href="https://tver.jp/series/srq0nw99e2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月02日(月)00時40分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月21日(月)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2p0qzq41.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                瑛太（吉澤要人）はルン（グレン・ヨン）の存在と“２０３”の秘密を知っていたーー。&lt;br&gt;&lt;br&gt;記憶を失いながらも、疑念を募らせてしまうサクラ（莉子）は、&lt;br&gt;訪れた“２０３”に残されたノートと記憶の断片を手がかりに、&lt;br&gt;失われた４年前の記憶をたどる。&lt;br&gt;&lt;br&gt;そしてサクラと同じように、導かれるように同じ店に現れたのはルンだった。&lt;br&gt;「会える気がした…なぜかわからないけど」。&lt;br&gt;記憶を失ったはずのサクラとルンだが、&lt;br&gt;２人の失われた過去が静かに重なり始めるーー。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ハイド＆シーク 0秒前の彼女_[第5話 裏切り者は誰だ！？]</title>
-    <id>https://tver.jp/episodes/ep6slgpb15</id>
-    <updated>2026-11-01T23:25:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep6slgpb15" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7apqvsxi.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ ハイド＆シーク 0秒前の彼女
-                &lt;a href="https://tver.jp/series/sr7apqvsxi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)23時25分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)22時29分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6slgpb15.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                「もう逃げません。真相を突き止める」ーー。“紗奈”と信じた女は双子の妹・京佳(志田彩良・二役)。爆弾テロで恋人を失ったと知った津倉(福士蒼汰)は、事件の鍵「Xデータ」を追い始める。翔太(志賀李玖)と白鷺(成海璃子)の協力で入手した事件当日の防犯カメラ映像には、報道と食い違う事実が。防衛大臣が口にした意外な名前、爆弾をすり替えた男の正体。上司・柊(風間俊介)に真相を突きつけた瞬間、一発の銃弾が…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>もうパパ！_[#5 パパなんて、大っ嫌い]</title>
-    <id>https://tver.jp/episodes/ep99hpse3s</id>
-    <updated>2026-11-01T23:09:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep99hpse3s" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr504n70e4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ もうパパ！
-                &lt;a href="https://tver.jp/series/sr504n70e4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)23時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)23時09分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep99hpse3s.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                最初の妻の娘・香織（鈴木愛理）から絶縁された良詫（堤真一）。さらに、自分から離れようとする紀子（原菜乃華）が、二人目の元妻で紀子の実母である・福子（矢田亜希子）に会いに行ったことを知り、苛立ちから紀子のスマホ決済を止めてしまう。&lt;br&gt;直後に猛烈な自己嫌悪に駆られた良詫は、紀子との関係性に正解を導き出そうと、紀子抜きの新企画『男のタラ飯』をタラちゃんねるで配信。ＧＰＳで紀子の居場所を突き止めたことや、決済アカウントを削除してしまった愚行を隠したまま、なし崩し的に紀子の休養を発表する。&lt;br&gt;紀子の意を汲んだつもりの良詫だが、紀子の心は晴れない。それどころか、良詫に何か魂胆があるのではないかと疑いを深めていく…。そんな中、良詫は地元で開かれる講演会に登壇。会場には、久しく会っていないある人物の姿が…。&lt;br&gt;一方、正式に陽日（岩瀬洋志）と付き合い始めた紀子は、就職の最終面接の激励に陽日の実家である和菓子店へと足を運ぶ。紀子はそこで、良詫が店に来ていたことを知る。なぜ、教えてもいない陽日の家を良詫が知っているのか？疑惑の目を向ける紀子に、良詫の感情は爆発。紀子は、見たことのない良詫の姿を目の当たりにする…！？
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>VIVANT_[第二十三話 最終決戦開幕前夜！さよなら愛しき人よ]</title>
-    <id>https://tver.jp/episodes/epzjy4ae94</id>
-    <updated>2026-11-01T22:09:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epzjy4ae94" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;🎞️ VIVANT
-                &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月01日(日)22時09分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月08日(日)20時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月1日(日)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzjy4ae94.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【11月8日いよいよ最終回】お気に入り登録で見逃さない！&lt;br&gt;最終回まであと２回。いよいよクライマックスを迎える。シリーズ最大の希望であった、ノゴーン・ベキ（役所広司）の生存が明かされたのも束の間、乃木（堺雅人）たち別班への復讐と、ジャミーン（本間さえ）奪取に向けて動くハンリンシン（宮下今日子）。ノコル（二宮和也）、チンギス（Barslkhagva Batbold）の加勢も実らず、薫（二階堂ふみ）とジャミーン共々絶体絶命の窮地が訪れる。助けに行けば、愛する人に自分の正体がバレてしまう中、決意を固める乃木。果たしてどのような結末を迎えるのか？
+                ▼詳細スケジュールはこちら▼&lt;br&gt;更新を見逃さない「お気に入り登録」も！Huluでは全話配信中！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;配信期間：11/3（火）～2027/1/5（火）&lt;br&gt;＃1~2：11/3（火）～2027/1/5（火）&lt;br&gt;＃3：11/10（火）～11/19（木）&lt;br&gt;＃4：11/17（火）～11/26（木）&lt;br&gt;＃5：11/24（火）～12/3（木）&lt;br&gt;＃6：12/1（火）～12/10（木）&lt;br&gt;＃7：12/8（火）～12/17（木）&lt;br&gt;＃8：12/15（火）～12/24（木）&lt;br&gt;＃9：12/22（火）～12/31（木）&lt;br&gt;＃10：12/27（日）～2027/1/5（火）&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;“人を傷つけてしまうヒーロー”&lt;br&gt;ナガレ（菊池風磨）たちが予備自衛英雄補になることを承諾した一方、会社員のサエ（のん）は“仮承諾”のまま。翌日、フジワラ（丘みつ子）に声をかけられるが無視を決め込むサエ。&lt;br&gt;“ある理由”で人と関わることを避け、会社でも予備自でも浮いた存在だった…。&lt;br&gt;そんな中、防衛省職員のマドズミ（六角精児）は、７人おそろいのコスチュームを決めようと提案するが、誰が「赤色＝リーダー」を担うかで言い争いに発展！&lt;br&gt;赤を譲らぬトラック運転手のユタニ（後藤剛範）、それに猛反対する大学生のチュータ（森永悠希）。サエは口を挟むが、何にでも反論する姿勢を見かねたナガレに「だったら辞めればいい」と告げられてしまう。&lt;br&gt;話がまとまらない中、突如フジワラが頭から血を流し意識不明に。&lt;br&gt;するとサエは覚悟を決め、手のひらを出し…。&lt;br&gt;人を傷つけてしまう？！サエの能力とは―。そしてフジワラが重傷を負った理由は？&lt;br&gt;&lt;br&gt;※情報は放送当時のものです
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
