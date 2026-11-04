@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-04T20:06:01+09:00</updated>
+  <updated>2026-11-04T22:05:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>相棒 season25_[第3話「裁かれたい殺人」]</title>
+    <id>https://tver.jp/episodes/eps0nkvd7e</id>
+    <updated>2026-11-04T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eps0nkvd7e" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;🎞️ 相棒 season25
+                &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月04日(水)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月31日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps0nkvd7e.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                清水俊平という男が自首してきたが、取調べを始めるとなぜか黙秘。特命係が話を聞くと、清水は「高い観察力と鋭い推理力を持っているかテストしたい」と職業を当てるよう促した。右京が即座に素性を言い当てると、1年前に同僚を殺害し、遺体は薬品で溶かしたため証拠が一切残らない“完全犯罪”を犯したと言う。どうやら病気で余命わずかで、生きているうちにつぐないたいと自首してきたらしい。早速、特命係は捜査に乗り出すが…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season4_[第6話 東京都江東区木場のチーズクルチャとラムミントカレー]</title>
     <id>https://tver.jp/episodes/epjxl0bzs3</id>
