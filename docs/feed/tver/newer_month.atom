@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-07T02:06:03+09:00</updated>
+  <updated>2026-11-07T10:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>思春期メドレー_[#7]</title>
+    <id>https://tver.jp/episodes/epftee2001</id>
+    <updated>2026-11-07T09:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epftee2001" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sr3emazrfk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 思春期メドレー
+                        &lt;a href="https://tver.jp/series/sr3emazrfk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        「雲が描いた月明り」クァク・ドンヨン主演！転校生が巻き起こす、さわやか青春コメディ！&lt;br&gt;&lt;br&gt;父親の転勤によって何度も転校を繰り返していたジョンウ（クァク・ドンヨン）は、友達とは深くかかわらず浅い付き合いをすることに慣れていた。今回の転校先でも面倒なことには巻き込まれないようにしようと思っていたが、ついいじめをしている先輩を見て耐えきれず止めに入ってしまい…。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月07日(土)09時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月06日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月7日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epftee2001.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                ヒグマ先輩との対決が決まったが、先輩をかばうアヨンにモヤモヤするジョンウ。&lt;br&gt;大雨の夜、川に流されたおじいさんを助けたジョンウは、二人の辛い過去を知ることになる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>晩酌の流儀５_[第6話 「スタミナ納豆」]</title>
     <id>https://tver.jp/episodes/epxax0rsrq</id>
@@ -1518,48 +1560,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 「馬車にいた人は誰なの？」――白鳳瑶(はく・ほうよう)は、茉喜(まつき)が自分に嘘をつかせてまで守りたかった“大事な人”が何者なのか気になって、容姿や家柄を聞き出そうと必死だ。しかし、万嘉桂(ばん・かけい)の存在を明かすわけにはいかない茉喜は、偶然知り合った男性で朝廷側の人間だとだけ答えるのだった。その頃、龍襄軍総帥の儲威(ちょ・い)が池北で挙兵し、京州に向けて進軍中であるとの報告を配下から受けた陳文徳(ちん・ぶんとく)は…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>琉球歴史ドラマ「尚寧」_[第1話「敵の敵は味方」]</title>
-    <id>https://tver.jp/episodes/epfiok606p</id>
-    <updated>2026-11-05T12:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epfiok606p" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srkdu785od.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ 琉球歴史ドラマ「尚寧」
-                        &lt;a href="https://tver.jp/series/srkdu785od" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        首里城正殿の復興を迎え、琉球歴史ドラマ第4弾！1609年、島津軍の侵攻により、琉球王国は存亡の危機に立たされる。激動の時代を生きた琉球国王・尚寧の生涯を描く。
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月05日(木)12時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月19日(木)12時00分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月4日(水)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : RBC&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epfiok606p.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                時は１５８８年。尚寧（津波龍人）は、王府の腐敗や権力争いを目の当たりにする。琉球の未来を見据え、王位を目指す尚寧の運命が動き始める。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
