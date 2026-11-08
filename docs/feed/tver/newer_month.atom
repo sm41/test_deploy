@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-08T16:05:55+09:00</updated>
+  <updated>2026-11-08T18:05:45+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第25話「恐怖からの脱出、サキは二度死ぬか」]</title>
+    <id>https://tver.jp/episodes/epmogasoc4</id>
+    <updated>2026-11-08T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epmogasoc4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                        &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        鉄仮面をかぶせられて育ち、地元土佐でスケバン鉄仮面と呼ばれ恐れられた少女・五代陽子。暗闇機関は、彼女を“2代目スケバン刑事・麻宮サキ”にスカウトする。最初は拒絶する陽子だったが、自分が鉄仮面をかぶせられたのは父親の死に関係すると教えられ、その謎に挑むべく2代目を襲名。特製ヨーヨーを駆使して、闇の組織との戦いに身を投じる。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月08日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月15日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月8日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epmogasoc4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サキは蘭子、椿、蛍のリボンを操る三姉妹に対して何も抵抗出来なかった。西脇はサキを海に連れていき特訓をする。特訓により復活するサキ。徳永は青狼会が送り込んだ者で、関口と同一人物だった。これを知ったサキは、徳永を罠にかける。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>修学旅行で仲良くないグループに入りました２_[第4話 彼氏の家で作戦会議！？]</title>
     <id>https://tver.jp/episodes/eprc8w84r3</id>
