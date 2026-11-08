@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/original</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-08T20:06:02+09:00</updated>
+  <updated>2026-11-08T22:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_original.atom" />
+  <entry>
+    <title>VIVANT_[V_Log#24]</title>
+    <id>https://tver.jp/episodes/epuzidrwll</id>
+    <updated>2026-11-08T22:04:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epuzidrwll" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ VIVANT
+                        &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        主演・堺雅人×監督・福澤克雄！敵か味方か、味方か敵か―2023年夏、日本中を熱狂させた『VIVANT』が日曜劇場に帰ってくる！&lt;br&gt;前作のラストシーンから直結する今作。堺演じる乃木憂助の冒険には、まだ続きがあった。乃木が目にした赤い饅頭は何を意味しているのか？“世界を巻き込む大きな渦”が遂に、別班を飲み込んでいく――。&lt;br&gt;新たなる謎、そして愛と裏切り…。感動もスケールも全てが前作を超えるエンターテインメント！！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月08日(日)22時04分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年01月17日(日)20時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epuzidrwll.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                阿部が明かした裏切りと拷問シーンの苦しみ!?さらに竜星と魂をぶつけ合ったあのシーンの裏側も。実は現場でキャスティングされた!?堺も驚いたダークホース。そして「これぞVIVANT」主演級俳優たちが集結した撮影、その裏側は...
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>俺たちの箱根駅伝_[#4 オリジナルドラマ『俺たちの学連合宿』～プロテインクッキング～]</title>
     <id>https://tver.jp/episodes/epiwbmjl8m</id>
