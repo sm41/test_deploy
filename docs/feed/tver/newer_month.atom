@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-09T10:06:04+09:00</updated>
+  <updated>2026-11-09T12:06:04+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>華麗なるスパイス_[第23話 裏切者を成敗せよ]</title>
+    <id>https://tver.jp/episodes/epb8brfo85</id>
+    <updated>2026-11-09T12:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epb8brfo85" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sr28zn0s0f.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 華麗なるスパイス
+                        &lt;a href="https://tver.jp/series/sr28zn0s0f" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        金馬奨、金鐘奨受賞俳優、吳慷仁(ウー・カンレン)主演作品。高級レストランの敏腕シェフと夜市の女王がおくるグルメ・ラブコメディ！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月09日(月)12時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月23日(月)12時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月8日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : IBCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epb8brfo85.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                少威(シャオウェイ)から届いた、芬青(フェンチン)との親密な動画に、廷恩(ティンエン)の嫉妬心は爆発寸前。そんな中、ラ・ミュールに衛生局の抜き打ち調査が入るという衝撃の通達が届く。窮地に立たされる廷恩だったが、一連の不可解なトラブルの裏にある人物が深く関わっていたことが判明し……。裏切り者の正体がついに白日の下に晒される！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>時代劇シリーズ　必殺仕切人_[第１２話　もしも江戸が厳戒態勢に入ったら]</title>
     <id>https://tver.jp/episodes/epm4gv5zur</id>
@@ -804,216 +846,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 究極の晩酌に全てを捧げる伊澤美幸（栗山千明）の後輩、島村（武田航平）に、ホップハウジングの社長・麦田（大和田伸也）とその娘・麦子（唯月ふうか）との見合い話が舞い込んだ！お見合いを心配し会場で見守る美幸は、数々のハプニングで機転を利かせ、お見合いを成功へ導くが海野の大失態によりまさかの事態に…美幸は帰宅後、スタミナ納豆、ツナ缶納豆、納豆ナムルを調理！万能食材・納豆の潜在能力を引き出した、至福の晩酌が始まる　［期間限定無料配信］　テレビ東京にて10月2日(金)スタート！毎週金曜深夜24時52分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>まめとむぎ_[#6 腐った女の苦い恋バナ]</title>
-    <id>https://tver.jp/episodes/ep7tivlvwv</id>
-    <updated>2026-11-07T00:58:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep7tivlvwv" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sra53ndlrw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ まめとむぎ
-                        &lt;a href="https://tver.jp/series/sra53ndlrw" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        ファッション誌編集者・麦（齋藤飛鳥）は、社内不倫の発覚で仕事も夢も失う。失意の中、かつて通った居酒屋＜大豆堂＞を訪れ、店主・まめ（富田望生）と再会。店の再建に奮闘する中で、二人が“発酵”するように自分らしい人生と新たな居場所を見つけていく、人生再起の物語。
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月07日(土)00時58分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月14日(土)00時51分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep7tivlvwv.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                〈大豆堂〉で自家製味噌を作ることになったまめ（富田望生）と麦（齋藤飛鳥）たち。大豆を煮込む合間にそれぞれが過去の苦い恋バナを明かし、溢れる感情をぶつけながら味噌を仕込んでいく。まめの温かい言葉に救われる麦だったが、種（濱尾ノリタカ）への密かな好意と元不倫相手・犬岡（橋本淳）との断ち切れない感情の間で苦悩していた。作業を終えた深夜、種への想いを聞かれ、動揺する麦だったが―。　［期間限定無料配信］　テレビ東京にて10月2日(金)スタート！毎週金曜深夜24時12分より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>真田十勇士 SHADOWS OF THE TEN NINJA_[第3話　ESCAPE ― 大坂城へのケモノ道]</title>
-    <id>https://tver.jp/episodes/epehpnktfj</id>
-    <updated>2026-11-07T00:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epehpnktfj" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srl8cvg6k3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ 真田十勇士 SHADOWS OF THE TEN NINJA
-                        &lt;a href="https://tver.jp/series/srl8cvg6k3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        名将・真田幸村のもとに集いし不屈の忍たちが、絶対権力者・徳川家康に挑む！ &lt;br&gt;&lt;br&gt;舞台は、徳川家康が豊臣政権を打ち破り、天下の覇者となった関ヶ原の戦い（1600年）から14年後の日本――。&lt;br&gt;豊臣方に加勢した武将・真田幸村は、高野山麓にある九度山に幽閉され、人知れず家臣として仕え続ける忍たちとともに、息を潜める生活を送っていた。 &lt;br&gt;そんな中、若き豊臣家の当主・秀頼が反旗を翻すことを恐れた家康が、豊臣討伐を宣言したことから、事態は急変。&lt;br&gt;天才的な忍術を誇る忍者・猿飛佐助（岩本）と出会った幸村は、ついに時は満ちたと判断し、豊臣家を助けるため九度山からの脱出を決意！&lt;br&gt;佐助は幸村への忠義を誓う忍たちと合流し、徳川家を相手取った最大の決戦＝大阪の陣へと突き進んでいくが…!?
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月07日(土)00時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epehpnktfj.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                政権を我が物にする徳川家との戦いに備え――豊臣家の拠点・大坂城では、第二代当主・豊臣秀頼の母である淀殿（栗山千明）が、味方となる武士を集めようと画策。だが、圧倒的な支配を進める徳川家を敵にまわそうとする者は少なく、事は思うように進まない。&lt;br&gt;一方、かねてより豊臣家への忠義を誓う武将・真田幸村（安藤政信）は、猿飛佐助（岩本照）や霧隠才蔵（中川大志）ら精鋭の忍たちとともに、ついに幽閉先の九度山から脱出。脇目も振らずに大坂城を目指すが、その道中で《橋なき濁流の大河》が彼らの行く手を阻む！ さらにそこへ、彼らを追っていた徳川最凶の刺客・柘植清弘（関口メンディー）までもが、ふたたび姿を現す。そして柘植との激戦の中で、才蔵を助けようと身を乗り出した真田の忍・由利鎌之助（伊原六花）が、重傷を負い、命の危機に直面!? 幸村一行は、絶体絶命のピンチに次々と見舞われることに。&lt;br&gt;しかし、諦めるのはまだ早い――。佐助は先陣を切って《命懸けの川越え》を決断！ 古参の勇士たちとともに知恵と勇気を振り絞り、いざ実行に移すのだが…!?
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>溺愛　～ 実は、最強ヒーロー ～_[第2話]</title>
-    <id>https://tver.jp/episodes/epolglbkhw</id>
-    <updated>2026-11-06T23:00:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epolglbkhw" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srzs1pm29y.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ 溺愛　～ 実は、最強ヒーロー ～
-                        &lt;a href="https://tver.jp/series/srzs1pm29y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        ＜M!LK吉田仁人・堂々の初主演！シリーズ累計3,500万DL突破の大人気の電子コミック『実は私、溺愛されてました！？』をついにドラマ化！＞&lt;br&gt;&lt;br&gt;会社の総務部で働く皐月は、営業部のエリート社員の樹と同棲していた。しかし、樹から日常的にモラハラを受け、さらに同僚の後輩・佳奈と浮気していることも発覚！悲劇のどん底に突き落とされていく…。そんな皐月のもとに現れピンチを救ったのが、総務部の後輩・藤崎真白だった！さらに、真白は皐月に「ずっと前から好きです」と打ち明け、以前から皐月のことを“溺愛”しているようで…！？&lt;br&gt;クズ彼氏と浮気相手からの卑劣な嫌がらせを前に、“最強ヒーロー”真白の物語が幕を開ける！
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月06日(金)23時00分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2027年01月08日(金)23時30分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epolglbkhw.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                皐月（桃月なしこ）は樹（池田彪馬）が同僚の佳奈（日比茉鈴）と浮気していたことを知り心を痛めていた。「高原さんのこと、ずっと前から好きです」あの日の真白（吉田仁人）からの突然の告白の言葉も頭から離れない。母親からは、樹と早く結婚をするようにとプレッシャーをかけられ、ますます追い詰められていく。&lt;br&gt;そんな中、皐月の家に樹が酔っ払って帰宅してくる。樹は浮気について悪びれる様子もなく、皐月に暴言を吐くのだった。耐えきれず、皐月は家を飛び出してしまう。そこに偶然通りかかったのが真白でー。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>LOST10_[＃4 Lost Forever]</title>
-    <id>https://tver.jp/episodes/ep215ig5nk</id>
-    <updated>2026-11-06T22:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep215ig5nk" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sroognf1ih.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ LOST10
-                        &lt;a href="https://tver.jp/series/sroognf1ih" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        主演・横浜流星×小栗旬！映画『国宝』でも横浜とタッグを組んだ脚本家の奥寺佐渡子、『Ｎのために』『最愛』の制作陣が贈る完全オリジナルのヒューマンサスペンス・エンタテインメント！&lt;br&gt;物語の舞台は、北海道の壮大で過酷な大自然。登山ツアー中に起こった遭難事故、通称「支樺岳（しからだけ）事件」の真相を追うところから、すべては始まる。食い違う関係者の証言、裏切り、巨大権力、試される絆･･････幾重もの「ロスト」の先に導き出される真実から、彼らは何を掴み取るのか──？&lt;br&gt;横浜演じる主人公の刑事・小駒（おごま）とともに事故の真相を追うフリーの保険調査員・直（なお）役に小栗、遭難したツアー客の一人である中学校教諭の亜矢（あや）役に中村アン、事故が起きた登山ツアーのガイドを務める田畠（たばたけ）役に飯豊まりえ、田畠の娘の主治医である小児科医・吉野（よしの）役に井口理、小駒の上司・淡島（あわしま）役に岩谷健司、田畠の姉・知花（ちか）役に野呂佳代、事故が起きた登山ツアー参加者の家族・ハルネ役で斉藤由貴が登場。&lt;br&gt;さらに、北海道の会社「HAOTO」の代表取締役社長・登里（のぼり）役に松下洸平、東京の保険会社社員であるあかね役を市川実日子が演じ、物語の核となる10人のキャラクターに、主演級キャストが顔をそろえる。&lt;br&gt;展開が二転三転する、中毒性抜群の極上ヒューマンサスペンス・エンタテインメントの幕が上がる！&lt;br&gt;※【自殺】を含む場面がありますが、作品のオリジナリティを尊重し放送当時のまま配信いたします。
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月06日(金)22時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月13日(金)21時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep215ig5nk.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                【毎週金曜よる10時～放送】お気に入り登録で見逃さない！&lt;br&gt;逃走したハルネ（斉藤由貴）を追って、二階堂（金子昇）が所有していた渋谷のマンション周辺の捜査を始めた小駒（横浜流星）と直（小栗旬）。しかし、防犯カメラの映像に映し出されていたのはなんと、山で遭難して行方不明となっていたツアー客・門伝（兵頭功海）の姿だった！門伝は二階堂の死に関わっているのか、それとも別の理由があるのか……。小駒と直は地道な聞き込みで、ハルネと、“行方不明を装っている遭難者”門伝の行方を追うことに。&lt;br&gt;&lt;br&gt;一方、田畠（飯豊まりえ）の姉・知花（野呂佳代）から、田畠の死について調べて欲しいことがあると、直に相談が持ちかけられる。田畠の娘・乃々（木内天奏）によると、田畠はガイドとは別に新たな仕事を始めており、いつも何かに怯えていたという。さらに娘の治療費支払いに不審な点を見つけて……。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>ボーダーズ　警視庁特殊事件対策班_[第4話 都心爆破テロを阻止せよ！]</title>
-    <id>https://tver.jp/episodes/ep67rkdxeh</id>
-    <updated>2026-11-06T21:54:01+09:00</updated>
-    <link href="https://tver.jp/episodes/ep67rkdxeh" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srf0ks8tb3.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ ボーダーズ　警視庁特殊事件対策班
-                        &lt;a href="https://tver.jp/series/srf0ks8tb3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        ＼主演：沢村一樹 × 共演：高杉真宙、玉城ティナ、水沢林太郎、眞島秀和／&lt;br&gt;【テレ東系・2026年10月16日(金)夜9時～放送！】&lt;br&gt;&lt;br&gt;異なる特技を持つプロフェッショナル５人の特設チームが、&lt;br&gt;「縦割り」組織では対応できない“境界線の事件”を痛快に解決！！&lt;br&gt;組織の垣根を乗り越え、隠された真実を暴き出す本格派警察サスペンス。
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月06日(金)21時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年11月13日(金)21時53分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月6日(金)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep67rkdxeh.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                由宇（玉城ティナ）らSCUがマークしていた秋山（小野塚勇人）が何者かに射殺された一方、その仲間は失踪する。秋山の幼馴染の入江（曽田陵介）が爆破強盗事件の重要参考人として聴取されるが、全面的に否認する。そんな中、結城（沢村一樹）が入江に覚えがあると言い出して―。秋山は誰に殺されたのか？爆破強盗事件との繋がりは？だが、そこへロケット砲を群衆に打ち込むというテロ攻撃の予告が。凶行を止めるべくSCUが奔走する！　［期間限定無料配信］　テレビ東京にて10月16日(金)スタート！毎週金曜夜9時より放送！
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
