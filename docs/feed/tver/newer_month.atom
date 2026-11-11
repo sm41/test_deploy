@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-11T20:06:05+09:00</updated>
+  <updated>2026-11-11T22:05:51+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>相棒 season25_[第4話「メドゥーサの首」]</title>
+    <id>https://tver.jp/episodes/ep04y5oo8s</id>
+    <updated>2026-11-11T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep04y5oo8s" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 相棒 season25
+                        &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        《四半世紀》の誇りを胸に――&lt;br&gt;【相棒】が新たな扉を開く！&lt;br&gt;メモリアルシーズン【season25】開幕!!&lt;br&gt;&lt;br&gt;杉下右京×亀山薫&lt;br&gt;12年目突入の《黄金コンビ》が&lt;br&gt;《想像を超える》相棒ワールドへ誘う！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月11日(水)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月18日(水)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月11日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep04y5oo8s.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                男性の撲殺遺体が発見された。特命係は、遺留品の色鉛筆を手掛かりに、ミギワ麗子と名乗るインストラクターが運営している塗り絵教室に被害者が通っていたことを知る。受講者のひとりが持っていた色鉛筆セットのうち、遺留品と同じ2色が短くなっていることに気づいた右京。調べると、その人物は被害者と同じ商社に勤めていたが、2人は部署も役職も違い、個人的な交流はなかったとのこと。しかし、会社は何かを隠しているようで!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season4_[第10話 江東区枝川のハムエッグ定食とカツ皿]</title>
     <id>https://tver.jp/episodes/epoh1seo5c</id>
