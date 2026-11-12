@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-12T14:06:04+09:00</updated>
+  <updated>2026-11-12T16:06:11+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第29話「追いつめられた虎」]</title>
+    <id>https://tver.jp/episodes/ep0epwpwz8</id>
+    <updated>2026-11-12T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep0epwpwz8" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ イ・サン
+                        &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        サンが11歳のとき、王位継承者であった父は、何者かの陰謀により謀反の濡れ衣を着せられ、&lt;br&gt;サンの祖父である第21代王・英祖（ヨンジョ）によって死に至らしめられる。&lt;br&gt;父を救えなかった無念、また最後に父が残した「聖君になれ」という言葉を胸に抱き、王位継承者となったサンは、民を大切にする賢君である祖父・英祖から、王としての哲学や手腕を学ぶ。一方で、サンの父を陥れた黒幕とその一派は朝廷内にはびこり、今度はサンの廃位や暗殺を企むのだった。しかし、陰謀や策略が渦巻く中にあっても、幼い頃に友情で結ばれたソンヨンとテス、頭脳明晰な側近ホン・グギョンなど周囲の人びとに支えられ、幾多の困難を乗り越えていく。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月12日(木)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月19日(木)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月12日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep0epwpwz8.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                テスは、夜更けにこっそりチョン･フギョムの屋敷を訪れた貞純（チョンスン）王妃を目撃し、すぐにホン･グギョンに報告。ホン･グギョンも直ちにサンに伝えるが、サンは高徳で人望も厚い王妃が事件に関与しているはずはないと信じようとしない。&lt;br&gt;一方、チョン・フギョムは王妃の突然の訪問を受け、約束どおり事態を収拾する策をすぐに講じなければ告発すると脅されていた。彼は王妃にすべての罪を負わせ自分たちは逃げるつもりでいたが、王妃から不意の牽制を受けて凍りつく。さらに事件の重要な証人から、世孫側に追われているから助けてほしいと書かれた書簡が届く。しかしこれは、サンたちが仕掛けた罠だった…。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>双燕秘抄 乱世を舞う二羽の絆_[第7話]</title>
     <id>https://tver.jp/episodes/eps9nw22v0</id>
