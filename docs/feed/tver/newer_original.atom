@@ -2,53 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/original</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-13T14:05:48+09:00</updated>
+  <updated>2026-11-13T16:06:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_original.atom" />
-  <entry>
-    <title>私があなたといる理由2〜グアムを訪れた8人の男女の10日間〜_[【撮影の裏話】in タロフォフォ川]</title>
-    <id>https://tver.jp/episodes/epfsgtd3e2</id>
-    <updated>2026-11-12T01:30:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epfsgtd3e2" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srh6taeqst4.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ 私があなたといる理由2〜グアムを訪れた8人の男女の10日間〜
-                        &lt;a href="https://tver.jp/series/srh6taeqst4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        北山宏光主演！アプリの懸賞に当選した男女8人が、初対面の相手と過ごす10日間のグアム旅行。夏目晴真（北山宏光）をはじめ、悩みを抱える彼らが人生の転機を迎える。穏やかな旅の裏で直面する、「許しがたい過去と現実」の壁。愛する人のすべてを許せるのか――。「愛と許し」を描く大人の恋愛ヒューマンドラマ。
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月12日(木)01時30分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月17日(木)00時59分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epfsgtd3e2.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                ■北山宏光がタロフォフォ川を散策&lt;br&gt;■北山宏光×佳久創 「撮影の裏話」を語る　テレビ東京にて10月7日(水)スタート！毎週水曜深夜1時より放送！
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
 </feed>
