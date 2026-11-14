@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/original</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-14T22:06:01+09:00</updated>
+  <updated>2026-11-15T00:06:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_original.atom" />
+  <entry>
+    <title>はだかんぼうたち_[松田元太、髙木雄也出演『はだかんぼうたち』挿入歌「再会愛 Lie 期待して Cry」〈特別PR〉]</title>
+    <id>https://tver.jp/episodes/epxcnrsabr</id>
+    <updated>2026-11-14T23:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxcnrsabr" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srqgpn465t.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ はだかんぼうたち
+                        &lt;a href="https://tver.jp/series/srqgpn465t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        原作・江國香織×主演・松田元太！&lt;br&gt;&lt;br&gt;松田が演じるのは、&lt;br&gt;欲望と本能のまま、ふたりの女性の間で蠢く【悪い男】。&lt;br&gt;危険で赤裸々な三角関係に溺れ堕ちるー&lt;br&gt;&lt;br&gt;興味を持った女性と無邪気に関係を重ねる靴職人の鯖崎（松田元太）。&lt;br&gt;10歳年上の歯科医・桃に都合の良い“恋人もどきの関係”を求める一方、桃の親友で3児の母・響子にも興味を持ち―。&lt;br&gt;&lt;br&gt;大人たちが強烈に求め合い、嫉妬、打算、欲望…心の汚点をさらけ出しながらも、無防備にみっともなく生きる究極の恋愛群像劇が幕を開ける！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月14日(土)23時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月31日(木)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epxcnrsabr.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                毎週土曜よる11時～放送中！&lt;br&gt;オシドラサタデー「はだかんぼうたち」&lt;br&gt;挿入歌Hey! Say! JUMP「再会愛 Lie 期待して Cry」&lt;br&gt;&lt;br&gt;“歌謡のメロディーと洗練されたリズム・ダンス”が前面に押し出された、&lt;br&gt;甘美で危険すぎる四角関係を描いたストーリーを、&lt;br&gt;より一層盛り上げる楽曲。&lt;br&gt;ドラマのクライマックスに向けた未公開シーン満載でお届け！&lt;br&gt;&lt;br&gt;【主演】松田元太&lt;br&gt;【共演】加藤ローサ、髙木雄也、大沢あかね、平子祐希、片岡凜、白宮みずほ、淵上泰史、伊藤歩、萬田久子&lt;br&gt;【主題歌】Travis Japan「EGO」&lt;br&gt;【挿入歌】Hey! Say! JUMP 「再会愛 Lie 期待して Cry」
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>俺たちの箱根駅伝_[#5 オリジナルドラマ『俺たちの学連合宿』～ついにチームが1つに！本選間近の決起集会～]</title>
     <id>https://tver.jp/episodes/eppu0p3oy8</id>
