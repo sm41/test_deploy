@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-16T00:05:53+09:00</updated>
+  <updated>2026-11-16T02:06:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>SQUALL_[#5 禁断のチャイナタウン]</title>
+    <id>https://tver.jp/episodes/epe74lp0mk</id>
+    <updated>2026-11-16T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epe74lp0mk" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srq0nw99e2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ SQUALL
+                        &lt;a href="https://tver.jp/series/srq0nw99e2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        日本の連続ドラマ史上初、全話シンガポールロケメインの&lt;br&gt;日本・シンガポール外交関係樹立60周年記念ドラマ「SQUALL」&lt;br&gt;2026年10月18日スタート　毎週日曜深夜0時10分放送&lt;br&gt;&lt;br&gt;４年前の記憶を失ったサクラ（莉子）は、婚約者・瑛太（吉澤要人）の転勤のため、シンガポールで新生活を始めていた。そこで出会ったシンガポール人男性・ルンとは初対面のはずなのに、なぜか昔から知っているような懐かしい感覚に襲われて…。多様な文化が息づくシンガポールの街並みをバックに、国境と時を越えて紡がれる切なくも美しいラブストーリー。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月16日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月23日(月)00時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epe74lp0mk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                かつて自分で描いたはずの絵をきっかけに、&lt;br&gt;４年前の思い出の断片を取り戻していくサクラ（莉子）。&lt;br&gt;&lt;br&gt;そんな中、サクラに婚約指輪を渡せない瑛太（吉澤要人）。&lt;br&gt;記憶を失いながらも自分が無心で描いた絵から離れられないルン（グレン・ヨン）。&lt;br&gt;&lt;br&gt;そして、サクラは“２０３”に飾るための白いユーストマを選んでいた。&lt;br&gt;「思い出すためじゃない、終わらせるために」という決意を胸に。&lt;br&gt;&lt;br&gt;記憶を失ってもなお、決して消せない想いに終止符を打つために――。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ハイド＆シーク 0秒前の彼女_[第7話 決死の選択！最悪の事態へ]</title>
     <id>https://tver.jp/episodes/ephahslq50</id>
