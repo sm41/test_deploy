@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-15T20:06:05+09:00</updated>
+  <updated>2026-11-15T22:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>泣いてたまるか_[先輩 後輩]</title>
+    <id>https://tver.jp/episodes/epfq0v5ayy</id>
+    <updated>2026-11-15T20:50:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epfq0v5ayy" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srv8a45d2k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 泣いてたまるか
+                        &lt;a href="https://tver.jp/series/srv8a45d2k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        どんな逆境にも負けず、どんなことが起きようとも歯を食いしばってそれに耐え｢泣いてたまるか！｣と立ち上がっていく男の“根性喜劇”。&lt;br&gt;大人も子供も揃って楽しめる単純明快なストーリー展開。その中に心温まるヒューマニズムと善意、こころよい笑いとほのぼのとした温かさを盛り込んだ１話完結のドラマ。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月15日(日)20時50分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月14日(月)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月15日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : tvk&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epfq0v5ayy.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                将棋が得意な片岡金太郎は、一度も手柄を立てたことのないダメ刑事。&lt;br&gt;ある日、金太郎の部屋に忍び込んだ泥棒を捕まえてみると、犯人も将棋好き。&lt;br&gt;将棋仲間になった二人は・・・。&lt;br&gt;&lt;br&gt;一部表現を無音処理している場合がございます。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第26話「お京VSお京!?闇に出没！謎の仮面女」]</title>
     <id>https://tver.jp/episodes/epef4t8913</id>

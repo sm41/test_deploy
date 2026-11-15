@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/year</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-15T20:06:05+09:00</updated>
+  <updated>2026-11-15T22:06:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_year.atom" />
+  <entry>
+    <title>BARレモン・ハート_[出発（たびだち）の酒]</title>
+    <id>https://tver.jp/episodes/epw5envih9</id>
+    <updated>2026-11-15T21:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epw5envih9" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srwkfk4yrm.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ BARレモン・ハート
+                        &lt;a href="https://tver.jp/series/srwkfk4yrm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        酒好きの大人達から圧倒的な支持を受けている古谷三敏作の酒コミック「BARレモン・ハート」を実写化。&lt;br&gt;どの物語も酒のうんちくにまつわるエピソードでありながら、ほろりと感動できる秀作ぞろいのショートショートである。&lt;br&gt;レギュラー出演者はマスター役の中村梅雀、常連客メガネさん役の川原和久、そしておちゃめな松ちゃん役の松尾諭。さらに毎回BARを訪れるゲストの豪華な顔ぶれが、作品の味わい深さを一層引き立たせる。&lt;br&gt;お酒にまつわるうんちくを知り、お酒好きな人はより深い味わいを感じられ、これまであまりお酒を飲まなかった人も飲みたくなるBARレモン・ハート。男も女も知的に満足できる、大人のためのドラマ。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月15日(日)21時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月22日(日)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 2016年放送&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BSフジ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epw5envih9.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                何度もため息をつきながら「神様って不公平」と落胆する客、二郎。双子の兄はエリート街道まっしぐら、僕はニート街道まっしぐら―と今までの人生を自虐的に語りだす。&lt;br&gt;話を聞いていたメガネさんは我慢しきれなくなり、二郎を諫めた。どうやらメガネさんは子供の頃からこの兄弟を知っているらしい。&lt;br&gt;酒の中のエリートと言われる酒を一口勧めたうえで、今の二郎には飲む資格はないと、メガネさんは冷たく去っていく。&lt;br&gt;メガネさんの込めたメッセージとは？後日レモン・ハートを訪れる二郎に、今度はマスターがとあるお酒を勧める。マスターの込めた思いとは？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>大病院占拠_[第2話]</title>
     <id>https://tver.jp/episodes/epwijmeeyx</id>
