@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/original</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-17T02:05:54+09:00</updated>
+  <updated>2026-11-17T10:05:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_original.atom" />
+  <entry>
+    <title>僕と彼女の49日_[【主演】西畑大吾×【ヒロイン】深川麻衣 SPインタビュー！]</title>
+    <id>https://tver.jp/episodes/epi6azbe9p</id>
+    <updated>2026-11-17T05:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epi6azbe9p" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srdziismra.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 僕と彼女の49日
+                        &lt;a href="https://tver.jp/series/srdziismra" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        【主演】西畑大吾×【ヒロイン】深川麻衣&lt;br&gt;&lt;br&gt;主人公は、若手で有能ながら決して笑わない弁護士・米田篤史。そんな篤史が引っ越した先に居たのは、事故で記憶を失った幽霊の女性・雪見！&lt;br&gt;しかも、その雪見から「私の体、探して下さい！」という、とんでもない依頼をもちかけられ…!?&lt;br&gt;&lt;br&gt;幽霊が人間の身体に戻れるタイムリミットは49日！&lt;br&gt;雪見の身体はいったいどこにあるのか？&lt;br&gt;そして、雪見の正体とは…？&lt;br&gt;&lt;br&gt;人間と幽霊の不思議な同居生活が始まる！&lt;br&gt;一筋縄ではいかない幽霊との関係が篤史の心も動かし、次第に恋が動き始めるが…!?&lt;br&gt;そして、篤史がつきとめる驚きの真相！&lt;br&gt;優しくも切ないロマンティック・スリラー！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月17日(火)05時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月31日(水)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epi6azbe9p.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                オシドラサタデー「僕と彼女の49日」&lt;br&gt;2027年1月土曜よる11時スタート&lt;br&gt;&lt;br&gt;【主演】西畑大吾×【ヒロイン】深川麻衣&lt;br&gt;スペシャルインタビューをお届け！&lt;br&gt;&lt;br&gt;主人公は、若手で有能ながら決して笑わない弁護士・米田篤史（西畑大吾）。そんな篤史が引っ越した先に居たのは、事故で記憶を失った幽霊の女性・雪見（深川麻衣）！&lt;br&gt;しかも、その雪見から「私の体、探して下さい！」という、とんでもない依頼をもちかけられ…!?&lt;br&gt;タイムリミットは49日！そして、奇妙な同居生活で生まれる恋…&lt;br&gt;この冬、優しくも切ないロマンティック・スリラーが開幕！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
 </feed>
