@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-17T20:05:48+09:00</updated>
+  <updated>2026-11-17T22:06:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>kiDnap GAME_[第7話 ＜地上波版（日本語吹替）＞脱落ゲーム～参加者同士が騙し合う究極の心理戦！]</title>
+    <id>https://tver.jp/episodes/eptdpb4cis</id>
+    <updated>2026-11-17T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eptdpb4cis" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sr3wsgs48k.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ kiDnap GAME
+                        &lt;a href="https://tver.jp/series/sr3wsgs48k" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        アジア7都市で同時に誘拐事件が発生するところから物語が始まる。東京、ソウル、台北、シンガポール、バンコク、マニラ、そして那覇。世界中でセンセーショナルに報道される中、被害者の家族のもとに一通のメールが届く「kiDnap GAMEに招待されました。愛する人を救うために、どこまでできますか？」。ゲームの出場者にはそれぞれ異なる指令が出され、大切な人を救うためには、他の出場者より先にミッションをクリアしなければならない。タイムリミットは10日間。国籍も、経歴も、宗教も異なる7人は何故ゲームの出場者になってしまったのか？このサバイバルゲームを主催しているのは一体誰なのか？そしてその目的は一体何なのか？妻を誘拐された東京の刑事、新出敏郎はソウルの医師、ハン・キジュと共に、人質全員の救出と犯人確保のために立ち上がる。新出は10日間で事件を解決できるのか？それとも、誰かがミッションを達成してしまうのか？極限状態で繰り広げられる究極のサバイバルゲームが、今開幕する！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月17日(火)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月24日(火)21時00分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月17日(火)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/eptdpb4cis.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                参加者に届いた指令。それは、「君たち全員にプレゼントがある。1時間後にリモート会議を行う」というものだった。テレビ局を出た新出とキジュは新出の家に向かう。2人はお互いの状況を確認し、リモート会議に臨む。リモート会議が始まり、新出、キジュ、那覇の比嘉、香港のアンディ、シンガポールのジャニスの5人は初めて一堂に会することとなった。犯人からのプレゼントとは、1票。その票を誰かに投じ、最も票を集めた人間を脱落者とするというのだ。最終投票は24時間後。早速アンディが動き出す。日本にやってきたアンディは新出とキジュと組もうという。皆で比嘉に投票しようと持ち掛けるのだった。比嘉は台北のクリスティーナの動画アップロードを水際で阻止した危険な人物であり、誘拐されている比嘉の母親は重い病の為、その命は長く持たないからだ。アンディに同意した新出に不信感を抱いたキジュは、比嘉にコンタクトを取り、アンディの企みを明かす。そして、母親の病気を見させてほしいという。そんなキジュに、比嘉は嵌められているのはお前だと真実を告げる。キジュのミッションが最も達成しやすいという判断から、キジュを脱落させようというのだ。常軌を失ったキジュはアンディを呼び出し、殺そうとするが新出に止められる。半狂乱のキジュに対して、新出が動く！そして、いよいよ投票の時。犯人の仕掛けた脱落ゲームの結果は・・・
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season5_[第1話 神奈川県川崎市稲田堤のガーリックハラミとサムギョプサル]</title>
     <id>https://tver.jp/episodes/epmbkbof7q</id>
