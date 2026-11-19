@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-19T14:05:51+09:00</updated>
+  <updated>2026-11-19T16:05:53+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>イ・サン_[第34話「裏切り」]</title>
+    <id>https://tver.jp/episodes/epaxjw0ugp</id>
+    <updated>2026-11-19T15:56:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epaxjw0ugp" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srtarneq9c.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ イ・サン
+                        &lt;a href="https://tver.jp/series/srtarneq9c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        サンが11歳のとき、王位継承者であった父は、何者かの陰謀により謀反の濡れ衣を着せられ、&lt;br&gt;サンの祖父である第21代王・英祖（ヨンジョ）によって死に至らしめられる。&lt;br&gt;父を救えなかった無念、また最後に父が残した「聖君になれ」という言葉を胸に抱き、王位継承者となったサンは、民を大切にする賢君である祖父・英祖から、王としての哲学や手腕を学ぶ。一方で、サンの父を陥れた黒幕とその一派は朝廷内にはびこり、今度はサンの廃位や暗殺を企むのだった。しかし、陰謀や策略が渦巻く中にあっても、幼い頃に友情で結ばれたソンヨンとテス、頭脳明晰な側近ホン・グギョンなど周囲の人びとに支えられ、幾多の困難を乗り越えていく。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月19日(木)15時56分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月26日(木)15時56分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月19日(木)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epaxjw0ugp.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サンは静養するはずの行幸先でも政務報告会を開くが、時間になっても重臣たちが現れない。そこへ、ただ一人チェ･ソクチュが現れ、サンと二人だけで話したいという…。&lt;br&gt;宮殿では、英祖の異変に気づいた王妃が、内密に町から医師を呼び寄せ、英祖の症状について問う。&lt;br&gt;一方、清国のソンヨンは、芸府司（イェーブサ）では女性を受け入れないだろうと聞かされる。しかも、ソンヨンをサンから遠ざけたい恵嬪（ヘビン）の意向で、芸府司に入れなくてもソンヨンは清国にそのまま残されると知り…。&lt;br&gt;&lt;br&gt;【月曜～金曜ごご2時54分 BS朝日で放送】
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>双燕秘抄 乱世を舞う二羽の絆_[第8話]</title>
     <id>https://tver.jp/episodes/epzuaxxwvv</id>
