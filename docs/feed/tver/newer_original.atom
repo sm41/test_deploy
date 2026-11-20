@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/original</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-20T16:06:04+09:00</updated>
+  <updated>2026-11-20T18:05:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_original.atom" />
+  <entry>
+    <title>台風の目_[磯村勇斗＆坂東龍汰の距離は縮まるのか…！？クラッシュアイスゲームに挑戦！]</title>
+    <id>https://tver.jp/episodes/eprambg7ee</id>
+    <updated>2026-11-20T18:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/eprambg7ee" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srt12w1zrk.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 台風の目
+                        &lt;a href="https://tver.jp/series/srt12w1zrk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        主演・磯村勇斗×坂東龍汰&lt;br&gt;僕の家に“台風”が上陸した———&lt;br&gt;何不自由なく暮らす家族のもとに&lt;br&gt;突如現れたのは、謎に包まれたひとりの青年だった――&lt;br&gt;&lt;br&gt;この出会いは悲劇か。それとも喜劇か。&lt;br&gt;可笑しくて、切なくて、どこか危うい&lt;br&gt;異質な愛と絆のヒューマンサスペンス！&lt;br&gt;“秘密”が明かされたとき・・・あなたはどんな選択をしますか?
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月20日(金)18時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2027年03月26日(金)21時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/eprambg7ee.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                2027年1月スタートの金曜ドラマ『台風の目』より、出演が決定した磯村勇斗と坂東龍汰のスペシャル企画をお届け！&lt;br&gt;2人の距離をさらに縮めるため、「クラッシュアイスゲーム」に挑戦！&lt;br&gt;ゲームをしながら、「最近驚いたこと」や「休みができたらしたいこと」など、ここでしか聞けない質問に答える！&lt;br&gt;さらに、ペンギンを落としてしまった人にはミッションも…！？&lt;br&gt;2人の息の合った掛け合いと素顔が垣間見えるトークをぜひお楽しみください！&lt;br&gt;&lt;br&gt;金曜ドラマとしてどこか懐かしくもあり、新しくもある、異質な愛と絆のヒューマンサスペンス・金曜ドラマ『台風の目』にぜひご期待ください！！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
 </feed>
