@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-21T20:06:09+09:00</updated>
+  <updated>2026-11-21T22:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>おいしい給食 season4_[第6話「トロピカる男」]</title>
+    <id>https://tver.jp/episodes/epuis3zxc2</id>
+    <updated>2026-11-21T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epuis3zxc2" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ おいしい給食 season4
+                        &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        給食マニアの教師・甘利田幸男（市原隼人）と、給食マニアの生徒による、どちらが給食を「おいしく食べるか」という闘いを描く、笑って泣ける学園グルメコメディ。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月21日(土)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月28日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epuis3zxc2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                甘利田（市原隼人）に忍び寄る怪しげな男、音楽教師の島袋（尚玄）。島袋は、甘利田の内にあるポテンシャルを解放しようと試みていた。しかし、島袋の存在を気にも留めず、今日の給食に妄想を膨らませる甘利田。なぜなら、今日の献立は【パインパン】に【サーターアンダギー】という、完璧なトロピカル日和だからだ。待ちに待った給食の時間。給食前に歌う校歌は、ギボテルによる三線の生演奏。その音色に、甘利田のテンションは最高潮に達し、トロピカルな給食道を突き進む！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>法医学者マダム・エール_[第14話「特別編　目には目を（後編）」]</title>
     <id>https://tver.jp/episodes/epbc3dn0yq</id>
