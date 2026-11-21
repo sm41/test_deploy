@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-21T10:05:46+09:00</updated>
+  <updated>2026-11-21T12:05:58+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>法医学者マダム・エール_[第14話「特別編　目には目を（後編）」]</title>
+    <id>https://tver.jp/episodes/epbc3dn0yq</id>
+    <updated>2026-11-21T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epbc3dn0yq" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srw1hg585r.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 法医学者マダム・エール
+                        &lt;a href="https://tver.jp/series/srw1hg585r" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        ボルドー法医学研究所に勤めるアレクサンドラ・エールは、“遺体は真実を語る”がモットーの有能な法医学者。真相究明のためなら解剖室の外に飛び出し、身分を偽って事件関係者に聞き込みをしたり事件現場に潜り込んだりして、兄である刑事のアントワーヌを困らせている。不可解な変死体に向き合い、時に命を危険にさらしながら自由な“課外捜査”で飛び回るアレクサンドラだが、彼女の一線を越えた行動に警察の内部調査が入り、さらに新しく着任した厳格な上司により解雇の危機にさらされる。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月21日(土)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月12日(土)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月21日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epbc3dn0yq.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                被害者がある病に侵されていたことを知ったアレクサンドラは、ラファエルと共に潜入捜査を開始する。猪突猛進型の2人は意気投合。捜査中に羽目を外してしまい、アントワーヌは対応に頭を痛める。そんな中、被害者に関連する過去の事件の記録を分析したアストリッドはある仮説を立て、アレクサンドラに検証を依頼する。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>思春期メドレー_[#9]</title>
     <id>https://tver.jp/episodes/eph83myguo</id>
