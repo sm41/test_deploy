@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-22T20:06:11+09:00</updated>
+  <updated>2026-11-22T22:05:45+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>VIVANT―THE ORIGIN STORY―_[VIVANTドラム編「映画12月4日公開記念〜ドラム誕生物語」]</title>
+    <id>https://tver.jp/episodes/epoziaoibh</id>
+    <updated>2026-11-22T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epoziaoibh" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srufa4d98z.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ VIVANT―THE ORIGIN STORY―
+                        &lt;a href="https://tver.jp/series/srufa4d98z" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        主演・堺雅人×監督・福澤克雄！敵か味方か、味方か敵か―2023年夏、日本中を熱狂させた『VIVANT』が日曜劇場に帰ってくる！&lt;br&gt;前作のラストシーンから直結する今作。堺演じる乃木憂助の冒険には、まだ続きがあった。乃木が目にした赤い饅頭は何を意味しているのか？“世界を巻き込む大きな渦”が遂に、別班を飲み込んでいく――。&lt;br&gt;新たなる謎、そして愛と裏切り…。感動もスケールも全てが前作を超えるエンターテインメント！！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月22日(日)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月29日(日)23時59分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epoziaoibh.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                １２月４日から全国公開される映画「VIVANT」を前に、第１シーズンから登場する人気キャラクタードラムの過去を描いた物語を地上波初放送！ドラムは最初からドラムではなかった！？彼の過去に隠された兄弟の絆の物語。過去から現在へ、ドラムが野崎を信頼する理由がここに隠されていた！！！主題歌は国内最大規模の国際音楽賞MUSIC AWARDS JAPAN 2026において、2冠を受賞した羊文学！
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第27話「雪乃復活、暗くなるまで待てない」]</title>
     <id>https://tver.jp/episodes/epx5mdc77v</id>
