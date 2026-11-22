@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-23T00:05:59+09:00</updated>
+  <updated>2026-11-23T02:06:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>SQUALL_[#6 アンダーソンブリッジで失ったもの]</title>
+    <id>https://tver.jp/episodes/ept63hb5hg</id>
+    <updated>2026-11-23T00:40:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ept63hb5hg" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srq0nw99e2.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ SQUALL
+                        &lt;a href="https://tver.jp/series/srq0nw99e2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        日本の連続ドラマ史上初、全話シンガポールロケメインの&lt;br&gt;日本・シンガポール外交関係樹立60周年記念ドラマ「SQUALL」&lt;br&gt;2026年10月18日スタート　毎週日曜深夜0時10分放送&lt;br&gt;&lt;br&gt;４年前の記憶を失ったサクラ（莉子）は、婚約者・瑛太（吉澤要人）の転勤のため、シンガポールで新生活を始めていた。そこで出会ったシンガポール人男性・ルンとは初対面のはずなのに、なぜか昔から知っているような懐かしい感覚に襲われて…。多様な文化が息づくシンガポールの街並みをバックに、国境と時を越えて紡がれる切なくも美しいラブストーリー。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月23日(月)00時40分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月30日(月)00時40分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ept63hb5hg.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                サクラ（莉子）とルン（グレン・ヨン）の秘められていた過去が明かされる衝撃の第６話。&lt;br&gt;&lt;br&gt;４年前、バックパッカーとしてシンガポールを訪れたサクラは、&lt;br&gt;ユーストマの絵に魅せられ、駆け出しの絵描き・ルンと出会った。&lt;br&gt;&lt;br&gt;突然のスコールをきっかけに距離を縮めた２人は、アトリエ“203”で暮らし始める。&lt;br&gt;しかし、穏やかな日々は、&lt;br&gt;ルンが絵を描けなくなったことで変わり始めるのだった――。&lt;br&gt;&lt;br&gt;そして、サクラとルンが記憶を失うきっかけとなった&lt;br&gt;４年前の事故へと至るまでの壮絶な出来事とは？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>VIVANT_[第十六話 物語の起源は５年前 愛に生きた男の真実]</title>
     <id>https://tver.jp/episodes/epxiaspmyh</id>
