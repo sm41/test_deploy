@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-22T16:06:06+09:00</updated>
+  <updated>2026-11-22T18:05:51+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>スケバン刑事Ⅱ少女鉄仮面伝説_[第27話「雪乃復活、暗くなるまで待てない」]</title>
+    <id>https://tver.jp/episodes/epx5mdc77v</id>
+    <updated>2026-11-22T16:30:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epx5mdc77v" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srx6jjv23a.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ スケバン刑事Ⅱ少女鉄仮面伝説
+                        &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        鉄仮面をかぶせられて育ち、地元土佐でスケバン鉄仮面と呼ばれ恐れられた少女・五代陽子。暗闇機関は、彼女を“2代目スケバン刑事・麻宮サキ”にスカウトする。最初は拒絶する陽子だったが、自分が鉄仮面をかぶせられたのは父親の死に関係すると教えられ、その謎に挑むべく2代目を襲名。特製ヨーヨーを駆使して、闇の組織との戦いに身を投じる。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月22日(日)16時30分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年11月29日(日)16時30分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月22日(日)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epx5mdc77v.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                雪乃の目が治りかけてきた頃、夜毎雪乃の病室に現れる人影があった。それは雪乃の担当の大森医師であった。大森は青狼会の人間だったのだ。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>＆Hulu_[大ブームを巻き起こした韓国ドラマ「トッケビ ～君がくれた愛しい日々～」第1話前編。不滅の命を生きるトッケビと、天真爛漫なヒロインの運命的な出会いを描く。]</title>
     <id>https://tver.jp/episodes/epdbpuqfo9</id>
