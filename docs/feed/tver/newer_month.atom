@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-25T20:06:09+09:00</updated>
+  <updated>2026-11-25T22:06:09+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>相棒 season25_[第6話「プラネタリウム」]</title>
+    <id>https://tver.jp/episodes/epxb5ebwq4</id>
+    <updated>2026-11-25T21:54:00+09:00</updated>
+    <link href="https://tver.jp/episodes/epxb5ebwq4" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sr9nwp97r5.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ 相棒 season25
+                        &lt;a href="https://tver.jp/series/sr9nwp97r5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        《四半世紀》の誇りを胸に――&lt;br&gt;【相棒】が新たな扉を開く！&lt;br&gt;メモリアルシーズン【season25】開幕!!&lt;br&gt;&lt;br&gt;杉下右京×亀山薫&lt;br&gt;12年目突入の《黄金コンビ》が&lt;br&gt;《想像を超える》相棒ワールドへ誘う！
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月25日(水)21時54分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月09日(水)21時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月25日(水)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epxb5ebwq4.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                所轄の刑事・江端貴一の遺体が発見された。同期で元恋人の麗音と数年ぶりに再会した矢先の出来事だった。所轄署は現場の状況などから自殺として処理したが、葬儀に貴一の妻・千聖の姿がなかったことや、再会した際の貴一の様子に違和感を覚えていた麗音は、右京と薫に相談を持ち掛ける。二人が動き始めると、保険会社で重役に就いている千聖の父親から連絡が。さらに、妻・千聖が半年ほど前から失踪していることも発覚し…!?
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>孤独のグルメ Season5_[第7話 東京都世田谷区千歳船橋のラム肩ロースとラムチョップ]</title>
     <id>https://tver.jp/episodes/epzqdx27jl</id>
@@ -846,90 +888,6 @@
             &lt;hr&gt;
             &lt;p&gt;
                 会長秘書としてチュボに現れるチョンイ。それが面白くないジナはピルドゥに相談に行くが、そこに出くわしたジェランはますますジナを怪しむ。一方ホンジョンは、夫ウヤンとジェランの娘ギニョの仲の良い様子にいらだっていた。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>お前のほうからキスしてくれよ_[第6話 重なる重み]</title>
-    <id>https://tver.jp/episodes/ep5yu1p0uo</id>
-    <updated>2026-11-24T01:15:00+09:00</updated>
-    <link href="https://tver.jp/episodes/ep5yu1p0uo" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sr9f5090wx.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ お前のほうからキスしてくれよ
-                        &lt;a href="https://tver.jp/series/sr9f5090wx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        クールで真面目な経理部の上野と、明るく社交的な営業部エースの神田は、一見すると正反対の2人。だが実は、神田が上野の家に入りびたるほどの友人関係であることは、誰も知らない。ゲイであることを明かしてもなお、無防備に距離を詰めてくる神田に、複雑な心中の上野。一方神田は、過去に上野から「お前とは何も起こらない」と宣言されて以来、モヤモヤを募らせていた。友人として過ごす中で、互いの存在は次第に大きくなっていくが…。&lt;br&gt;じれったくてもどかしい、大人の両片想いラブストーリー！
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月24日(火)01時15分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月01日(火)01時25分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep5yu1p0uo.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                上野に抱きしめられて、神田は自分の想いを確信する。だが数日後、上野からあの日の一件はなかったことにさせてほしいと告げられてしまう。これからも今まで通り「大切な友達」でいることを望む上野を受け入れる神田だったが、会社でも会話することはほとんどなくなり、2人の空気はぎこちないままで…。
-            &lt;/p&gt;
-        &lt;/body&gt;    </content>
-  </entry>
-  <entry>
-    <title>十六夜膳房 -いざよいぜんぼう-_[#7「苺のショートケーキ」]</title>
-    <id>https://tver.jp/episodes/epk3m3me4h</id>
-    <updated>2026-11-24T00:54:00+09:00</updated>
-    <link href="https://tver.jp/episodes/epk3m3me4h" />
-    <content>        &lt;body&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srne6nwihe.jpg"&gt;
-            &lt;hr&gt;
-            &lt;div&gt;
-                &lt;details&gt;
-                    &lt;summary&gt;
-                        🎞️ 十六夜膳房 -いざよいぜんぼう-
-                        &lt;a href="https://tver.jp/series/srne6nwihe" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-                    &lt;/summary&gt;
-                    &lt;p&gt;
-                        中国・韓国で話題の人気小説を、世界初の映像化！&lt;br&gt;切なくてほろ苦いヒューマン・グルメ・ファンタジー開幕！&lt;br&gt;&lt;br&gt;「ようこそ、黄泉の食堂へ」&lt;br&gt;&lt;br&gt;十六夜(いざよい)とは、満月の次の日、わずかに欠け始めた月のこと。&lt;br&gt;&lt;br&gt;人は亡くなると、『黄泉の食堂』へと導かれます。&lt;br&gt;そこには、孟婆(もうば)と呼ばれる料理人がおり、&lt;br&gt;死者は“人生で最も忘れられない料理”を注文します。&lt;br&gt;&lt;br&gt;人生は十六夜のように、不完全。&lt;br&gt;後悔や未練はつきものです。&lt;br&gt;孟婆は、その一皿で死者を癒し、&lt;br&gt;後悔や未練、しがらみから解放し、彼らを来世へ旅立たせます。&lt;br&gt;これは、どこか欠けた不完全な人生を、最後に料理で満たす物語。
-                    &lt;/p&gt;
-                    &lt;hr&gt;
-                &lt;/details&gt;
-            &lt;/div&gt;
-            &lt;table&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🕘 配信開始 : 2026年11月24日(火)00時54分&lt;/div&gt;
-                        &lt;div&gt;🕓 配信終了 : 2026年12月22日(火)00時23分&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-                &lt;th&gt;
-                    &lt;td&gt;
-                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月23日(月)放送分&lt;/div&gt;
-                        &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-                    &lt;/td&gt;
-                &lt;/th&gt;
-            &lt;/table&gt;
-            &lt;hr&gt;
-            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/epk3m3me4h.jpg"&gt;
-            &lt;hr&gt;
-            &lt;p&gt;
-                死者に“最後の一皿”を振る舞う料理人・孟婆(中村蒼)のもとに、がんで闘病していた磯村知恵(大西礼芳)がやってくる。&lt;br&gt;おかゆを注文し、さっさと店を出ようとする彼女。知恵が隠す心残りは、ショートケーキの苺のように、華やかで愛される親友への、嫉妬と友情の記憶で…。
             &lt;/p&gt;
         &lt;/body&gt;    </content>
   </entry>
