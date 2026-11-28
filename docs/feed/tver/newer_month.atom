@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-28T20:06:11+09:00</updated>
+  <updated>2026-11-28T22:05:59+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>おいしい給食 season4_[第7話「異世界給食に妄想が炸裂してしまった件」]</title>
+    <id>https://tver.jp/episodes/ep4k67kvj7</id>
+    <updated>2026-11-28T22:00:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep4k67kvj7" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/sror18d91h.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ おいしい給食 season4
+                        &lt;a href="https://tver.jp/series/sror18d91h" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        給食マニアの教師・甘利田幸男（市原隼人）と、給食マニアの生徒による、どちらが給食を「おいしく食べるか」という闘いを描く、笑って泣ける学園グルメコメディ。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月28日(土)22時00分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月05日(土)21時29分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS12 トゥエルビ&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep4k67kvj7.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                今日の給食は、【ジューシー】に【クーリジシ】、【マーミナーウサチー】など、名前からは想像もつかない献立。朝から頭を悩ませる甘利田（市原隼人）は、給食の時間までになんとか自力で解決しようと、あの手この手で奮闘する。ヒントを得ようと配膳室に立ち寄ると、レン（橋本偉成）が何やら今日の秘策を用意していることを知り、ますます気になって仕方がない。そして、ついに給食の時間を迎える。自ら導き出した答えとはまったく異なる献立を前に困惑しながらも、甘利田は給食道を突き進む。果たして、この“異世界給食”を前にレンが繰り出す秘策とは！？
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>ヴェラ～信念の女警部～ シーズン13_[第1話「抱えた重荷（前編）」]</title>
     <id>https://tver.jp/episodes/ep8yw1wjen</id>
