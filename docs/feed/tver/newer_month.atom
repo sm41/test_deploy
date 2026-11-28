@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>新着/ドラマ/month</title>
   <id>https://tver.jp/</id>
-  <updated>2026-11-28T10:06:12+09:00</updated>
+  <updated>2026-11-28T12:05:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link rel="alternate" href="https://sm41.github.io/test_deploy/" />
   <link rel="self" href="https://sm41.github.io/test_deploy/feed/tver/newer_month.atom" />
+  <entry>
+    <title>ヴェラ～信念の女警部～ シーズン13_[第1話「抱えた重荷（前編）」]</title>
+    <id>https://tver.jp/episodes/ep8yw1wjen</id>
+    <updated>2026-11-28T10:55:00+09:00</updated>
+    <link href="https://tver.jp/episodes/ep8yw1wjen" />
+    <content>        &lt;body&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/series/xlarge/srrn928ckt.jpg"&gt;
+            &lt;hr&gt;
+            &lt;div&gt;
+                &lt;details&gt;
+                    &lt;summary&gt;
+                        🎞️ ヴェラ～信念の女警部～ シーズン13
+                        &lt;a href="https://tver.jp/series/srrn928ckt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+                    &lt;/summary&gt;
+                    &lt;p&gt;
+                        信念と執念で事件を解決。&lt;br&gt;地道な捜査と鋭い洞察力で犯人に迫るクライムミステリー。&lt;br&gt;&lt;br&gt;人気ドラマシリーズ「ヴェラ」の第13シーズン。&lt;br&gt;今作は、かつての相棒ジョー・アシュワースが復帰。しかし、彼はもはやヴェラが知っていた“部下”ではなく、警部補へと昇進し「ランドローバーの助手席に座るだけの存在じゃない」と、ヴェラにも堂々と主張する一人前の刑事に成長していました。2人の微妙な緊張感が物語をさらに奥深くします。ヴェラを支える頼もしいチームも健在。過去と現在が交差し、信頼と葛藤が交錯するシリーズとなっています。
+                    &lt;/p&gt;
+                    &lt;hr&gt;
+                &lt;/details&gt;
+            &lt;/div&gt;
+            &lt;table&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🕘 配信開始 : 2026年11月28日(土)10時55分&lt;/div&gt;
+                        &lt;div&gt;🕓 配信終了 : 2026年12月12日(土)10時54分&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                    &lt;td&gt;
+                        &lt;div&gt;🗓️ 放送&amp;emsp; : 11月28日(土)放送分&lt;/div&gt;
+                        &lt;div&gt;📡 放送局 : BS11&lt;/div&gt;
+                    &lt;/td&gt;
+                &lt;/th&gt;
+            &lt;/table&gt;
+            &lt;hr&gt;
+            &lt;img src="https://image-cdn.tver.jp//images/content/thumbnail/episode/xlarge/ep8yw1wjen.jpg"&gt;
+            &lt;hr&gt;
+            &lt;p&gt;
+                町から5キロ離れたベンサム橋の路上で、ダニー・メドンがひき逃げされ遺体で発見された。彼は地元市場で青果店を営むメドン家の息子で、事件当夜、パブで父親と口論になり店を出たあとの足取りは途絶えていた。現場に残されたヘッドライトの破片、ダニーが持っていた写真、そして父親と犬猿の仲である競合業者――。かつての右腕ジョーも捜査に加わり、ヴェラたちの捜査が始まる。
+            &lt;/p&gt;
+        &lt;/body&gt;    </content>
+  </entry>
   <entry>
     <title>思春期メドレー_[#10]</title>
     <id>https://tver.jp/episodes/epgdl057ep</id>
